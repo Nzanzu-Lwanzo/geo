@@ -7,3 +7,11 @@ export interface Country {
   phone_code: string;
   iso_code: string;
 }
+
+export interface City {
+  coid: string;
+  cities: {
+    name: string;
+    id: string;
+  }[];
+}
