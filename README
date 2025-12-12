@@ -1,4 +1,6 @@
-# How do I use Geo ?
+# GEO
+
+## How do I use Geo ?
 
 Simple. Just pull the Docker image `lwanzo/geo:latest` and do whatever you want with it. All the data is self contained.
 Or, you can use our API [right here](https://geo.lwanzo.site/). Or, you can just copy the json.
