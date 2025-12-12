@@ -1,0 +1,20 @@
+{
+  "coid": "AU",
+  "cities": [
+    { "name": "Sydney", "id": "d82e1c4f5a76" },
+    { "name": "Melbourne", "id": "e93f2d5a6b87" },
+    { "name": "Brisbane", "id": "f04a3e6b7c98" },
+    { "name": "Perth", "id": "a15b4f7c8d09" },
+    { "name": "Adelaide", "id": "b26c5a8d9e10" },
+    { "name": "Gold Coast", "id": "c37d6b9e0f21" },
+    { "name": "Canberra", "id": "d48e7c0f1a32" },
+    { "name": "Newcastle", "id": "e59f8d1a2b43" },
+    { "name": "Wollongong", "id": "f60a9e2b3c54" },
+    { "name": "Hobart", "id": "a71b0f3c4d65" },
+    { "name": "Geelong", "id": "b82c1a4d5e76" },
+    { "name": "Townsville", "id": "c93d2b5e6f87" },
+    { "name": "Cairns", "id": "d04e3c6f7a98" },
+    { "name": "Darwin", "id": "e15f4d7a8b09" },
+    { "name": "Toowoomba", "id": "f26a5e8b9c10" }
+  ]
+}

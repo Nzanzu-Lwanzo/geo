@@ -1,0 +1,15 @@
+{
+  "coid": "YE",
+  "cities": [
+    { "name": "Sana'a", "id": "e8f9a0b1c2d3" },
+    { "name": "Aden", "id": "f8a9b0c1d2e4" },
+    { "name": "Taiz", "id": "a9b0c1d2e3f5" },
+    { "name": "Al Hudaydah", "id": "b9c0d1e2f3a6" },
+    { "name": "Ibb", "id": "c9d0e1f2a3b7" },
+    { "name": "Dhamar", "id": "d9e0f1a2b3c8" },
+    { "name": "Al Mukalla", "id": "e9f0a1b2c3d9" },
+    { "name": "Zabid", "id": "f9a0b1c2d3e0" },
+    { "name": "Sa'dah", "id": "a0b1c2d3e4f6" },
+    { "name": "Marib", "id": "b0c1d2e3f4a7" }
+  ]
+}

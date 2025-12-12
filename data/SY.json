@@ -1,0 +1,15 @@
+{
+  "coid": "SY",
+  "cities": [
+    { "name": "Damascus", "id": "a2b3c4d5e6f7" },
+    { "name": "Aleppo", "id": "b3c4d5e6f7a8" },
+    { "name": "Homs", "id": "c4d5e6f7a8b9" },
+    { "name": "Hama", "id": "d5e6f7a8b9c0" },
+    { "name": "Latakia", "id": "e6f7a8b9c0d1" },
+    { "name": "Deir ez-Zor", "id": "f7a8b9c0d1e2" },
+    { "name": "Raqqa", "id": "a8b9c0d1e2f3" },
+    { "name": "Daraa", "id": "b9c0d1e2f3a4" },
+    { "name": "Qamishli", "id": "c0d1e2f3a4b5" },
+    { "name": "Tartus", "id": "d1e2f3a4b5c6" }
+  ]
+}

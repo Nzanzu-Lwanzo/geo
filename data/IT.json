@@ -1,0 +1,15 @@
+{
+  "coid": "IT",
+  "cities": [
+    { "name": "Rome", "id": "a83f1d2b4c65" },
+    { "name": "Milan", "id": "b94a2e3c5d76" },
+    { "name": "Naples", "id": "c15b3f4d6e87" },
+    { "name": "Turin", "id": "d26c4a5e7f98" },
+    { "name": "Palermo", "id": "e37d5b6f8a09" },
+    { "name": "Genoa", "id": "f48e6c7a9b10" },
+    { "name": "Bologna", "id": "a59f7d8b0c21" },
+    { "name": "Florence", "id": "b60a8e9c1d32" },
+    { "name": "Bari", "id": "c71b9f0d2e43" },
+    { "name": "Catania", "id": "d82c1a3d4e55" }
+  ]
+}

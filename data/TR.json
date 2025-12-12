@@ -1,0 +1,15 @@
+{
+  "coid": "TR",
+  "cities": [
+    { "name": "Istanbul", "id": "a2b3c4d5e6f7" },
+    { "name": "Ankara", "id": "b3c4d5e6f7a8" },
+    { "name": "İzmir", "id": "c4d5e6f7a8b9" },
+    { "name": "Bursa", "id": "d5e6f7a8b9c0" },
+    { "name": "Antalya", "id": "e6f7a8b9c0d1" },
+    { "name": "Adana", "id": "f7a8b9c0d1e2" },
+    { "name": "Gaziantep", "id": "a8b9c0d1e2f3" },
+    { "name": "Konya", "id": "b9c0d1e2f3a4" },
+    { "name": "Kayseri", "id": "c0d1e2f3a4b5" },
+    { "name": "Mersin", "id": "d1e2f3a4b5c6" }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "coid": "GH",
+  "cities": [
+    { "name": "Accra", "id": "a93f2d5a6b87" },
+    { "name": "Kumasi", "id": "b04a3e6b7c98" },
+    { "name": "Tamale", "id": "c15b4f7c8d09" },
+    { "name": "Takoradi", "id": "d26c5a8d9e10" },
+    { "name": "Cape Coast", "id": "e37d6b9e0f21" },
+    { "name": "Ho", "id": "f48e7c0f1a32" },
+    { "name": "Koforidua", "id": "a59f8d1a2b43" },
+    { "name": "Sunyani", "id": "b60a9e2b3c54" },
+    { "name": "Bolgatanga", "id": "c71b0f3c4d65" },
+    { "name": "Wa", "id": "d82c1a4d5e76" }
+  ]
+}

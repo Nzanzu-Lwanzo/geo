@@ -1,0 +1,15 @@
+{
+  "coid": "LA",
+  "cities": [
+    { "name": "Vientiane", "id": "c91f3a2d9b7e" },
+    { "name": "Pakse", "id": "d28e1f9ac4d2" },
+    { "name": "Savannakhet", "id": "e39d7b1e0f52" },
+    { "name": "Luang Prabang", "id": "f84a2c7f1e93" },
+    { "name": "Xam Neua", "id": "a72b9d4c3a10" },
+    { "name": "Phonsavan", "id": "b63c1a8e5b27" },
+    { "name": "Thakhek", "id": "c72d9c4f1b83" },
+    { "name": "Muang Xay", "id": "d91e3f7a2c64" },
+    { "name": "Houayxay", "id": "e58f2a9d7e31" },
+    { "name": "Attapeu", "id": "f47b1c6e9f20" }
+  ]
+}

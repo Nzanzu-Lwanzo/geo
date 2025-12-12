@@ -1,0 +1,25 @@
+{
+  "coid": "AR",
+  "cities": [
+    { "name": "Buenos Aires", "id": "d72e9c1a3b54" },
+    { "name": "Córdoba", "id": "e83f1d2b4c65" },
+    { "name": "Rosario", "id": "f94a2e3c5d76" },
+    { "name": "Mendoza", "id": "a15b3f4d6e87" },
+    { "name": "La Plata", "id": "b26c4a5e7f98" },
+    { "name": "San Miguel de Tucumán", "id": "c37d5b6f8a09" },
+    { "name": "Mar del Plata", "id": "d48e6c7a9b10" },
+    { "name": "Salta", "id": "e59f7d8b0c21" },
+    { "name": "Santa Fe", "id": "f60a8e9c1d32" },
+    { "name": "San Juan", "id": "a71b9f0d2e43" },
+    { "name": "Resistencia", "id": "b82c1a3d4e55" },
+    { "name": "Neuquén", "id": "c93d2b4e5f66" },
+    { "name": "Santiago del Estero", "id": "d04e3c5f6a77" },
+    { "name": "Corrientes", "id": "e15f4d6a7b88" },
+    { "name": "Bahía Blanca", "id": "f26a5e7b8c99" },
+    { "name": "San Salvador de Jujuy", "id": "a37b6f8c9d10" },
+    { "name": "Paraná", "id": "b48c7a9d0e21" },
+    { "name": "Posadas", "id": "c59d8b1e2f33" },
+    { "name": "Quilmes", "id": "d60e9c2f3a44" },
+    { "name": "Lanús", "id": "e71f0d3a4b55" }
+  ]
+}

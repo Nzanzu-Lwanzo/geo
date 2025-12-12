@@ -1,0 +1,15 @@
+{
+  "coid": "NL",
+  "cities": [
+    { "name": "Amsterdam", "id": "c91f3a2d9b7e" },
+    { "name": "Rotterdam", "id": "d28e1f9ac4d2" },
+    { "name": "The Hague", "id": "e39d7b1e0f52" },
+    { "name": "Utrecht", "id": "f84a2c7f1e93" },
+    { "name": "Eindhoven", "id": "a72b9d4c3a10" },
+    { "name": "Tilburg", "id": "b63c1a8e5b27" },
+    { "name": "Groningen", "id": "c72d9c4f1b83" },
+    { "name": "Almere", "id": "d91e3f7a2c64" },
+    { "name": "Breda", "id": "e58f2a9d7e31" },
+    { "name": "Nijmegen", "id": "f47b1c6e9f20" }
+  ]
+}

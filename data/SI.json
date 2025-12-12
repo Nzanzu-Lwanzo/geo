@@ -1,0 +1,15 @@
+{
+  "coid": "SI",
+  "cities": [
+    { "name": "Ljubljana", "id": "a1b2c3d4e5f6" },
+    { "name": "Maribor", "id": "b2c3d4e5f6a7" },
+    { "name": "Celje", "id": "c3d4e5f6a7b8" },
+    { "name": "Kranj", "id": "d4e5f6a7b8c9" },
+    { "name": "Velenje", "id": "e5f6a7b8c9d0" },
+    { "name": "Koper", "id": "f6a7b8c9d0e1" },
+    { "name": "Novo Mesto", "id": "a7b8c9d0e1f2" },
+    { "name": "Ptuj", "id": "b7c8d9e0f1a3" },
+    { "name": "Trbovlje", "id": "c8d9e0f1a2b4" },
+    { "name": "Kamnik", "id": "d9e0f1a2b3c5" }
+  ]
+}

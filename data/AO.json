@@ -1,0 +1,15 @@
+{
+  "coid": "AO",
+  "cities": [
+    { "name": "Luanda", "id": "c59d8b1e2f33" },
+    { "name": "Huambo", "id": "d60e9c2f3a44" },
+    { "name": "Lobito", "id": "e71f0d3a4b55" },
+    { "name": "Benguela", "id": "f82a1e4b5c66" },
+    { "name": "Lubango", "id": "a93b2f5c6d77" },
+    { "name": "Kuito", "id": "b04c3a6d7e88" },
+    { "name": "Malanje", "id": "c15d4b7e8f99" },
+    { "name": "Namibe", "id": "d26e5c8f9a10" },
+    { "name": "Soyo", "id": "e37f6d9a0b21" },
+    { "name": "Cabinda", "id": "f48a7e0b1c32" }
+  ]
+}

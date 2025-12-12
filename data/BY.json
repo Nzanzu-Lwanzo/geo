@@ -1,0 +1,15 @@
+{
+  "coid": "BY",
+  "cities": [
+    { "name": "Minsk", "id": "a91f3c2d9b7e" },
+    { "name": "Gomel", "id": "b28e1f9ac4d2" },
+    { "name": "Mogilev", "id": "c39d7b1e0f52" },
+    { "name": "Vitebsk", "id": "d84a2c7f1e93" },
+    { "name": "Grodno", "id": "e72b9d4c3a10" },
+    { "name": "Brest", "id": "f63c1a8e5b27" },
+    { "name": "Baranovichi", "id": "a72d9c4f1b83" },
+    { "name": "Borisov", "id": "b91e3f7a2c64" },
+    { "name": "Pinsk", "id": "c58f2a9d7e31" },
+    { "name": "Orsha", "id": "d47b1c6e9f20" }
+  ]
+}

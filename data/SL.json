@@ -1,0 +1,15 @@
+{
+  "coid": "SL",
+  "cities": [
+    { "name": "Freetown", "id": "e2g4i6k8m0o1" },
+    { "name": "Bo", "id": "f3h5j7l9n1p2" },
+    { "name": "Kenema", "id": "a4i6k8m0o2q3" },
+    { "name": "Makeni", "id": "b5j7l9n1p3r4" },
+    { "name": "Koidu", "id": "c6k8m0o2q4s5" },
+    { "name": "Port Loko", "id": "d7l9n1p3r5t6" },
+    { "name": "Kambia", "id": "e8m0o2q4s6u7" },
+    { "name": "Moyamba", "id": "f9n1p3r5t7v8" },
+    { "name": "Bonthe", "id": "a0o2q4s6u8w9" },
+    { "name": "Kabala", "id": "b1p3r5t7v9x0" }
+  ]
+}

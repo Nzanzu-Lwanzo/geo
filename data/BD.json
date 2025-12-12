@@ -1,0 +1,15 @@
+{
+  "coid": "BD",
+  "cities": [
+    { "name": "Dhaka", "id": "e71f0d3a4b55" },
+    { "name": "Chittagong", "id": "f82a1e4b5c66" },
+    { "name": "Khulna", "id": "a93b2f5c6d77" },
+    { "name": "Rajshahi", "id": "b04c3a6d7e88" },
+    { "name": "Sylhet", "id": "c15d4b7e8f99" },
+    { "name": "Barisal", "id": "d26e5c8f9a10" },
+    { "name": "Rangpur", "id": "e37f6d9a0b21" },
+    { "name": "Comilla", "id": "f48a7e0b1c32" },
+    { "name": "Narayanganj", "id": "a59b8f1c2d43" },
+    { "name": "Gazipur", "id": "b60c9a2d3e54" }
+  ]
+}

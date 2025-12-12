@@ -1,0 +1,12 @@
+{
+  "coid": "AD",
+  "cities": [
+    { "name": "Andorra la Vella", "id": "b82c1a3d4e55" },
+    { "name": "Escaldes-Engordany", "id": "c93d2b4e5f66" },
+    { "name": "Encamp", "id": "d04e3c5f6a77" },
+    { "name": "Sant Julià de Lòria", "id": "e15f4d6a7b88" },
+    { "name": "La Massana", "id": "f26a5e7b8c99" },
+    { "name": "Ordino", "id": "a37b6f8c9d10" },
+    { "name": "Canillo", "id": "b48c7a9d0e21" }
+  ]
+}

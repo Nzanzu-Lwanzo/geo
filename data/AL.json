@@ -1,0 +1,15 @@
+{
+  "coid": "AL",
+  "cities": [
+    { "name": "Tirana", "id": "f82c1d9a3b70" },
+    { "name": "Durrës", "id": "a63b9e4f2c18" },
+    { "name": "Vlorë", "id": "b74c1a8d5e29" },
+    { "name": "Shkodër", "id": "c95d2b7e1f36" },
+    { "name": "Fier", "id": "d16e3c9a4b57" },
+    { "name": "Elbasan", "id": "e27f4d1b6c82" },
+    { "name": "Korçë", "id": "f38a5e2c7d91" },
+    { "name": "Berat", "id": "a49b6f3d8e20" },
+    { "name": "Lushnjë", "id": "b50c7a4e9f31" },
+    { "name": "Pogradec", "id": "c61d8b5f0a42" }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "coid": "US",
+  "cities": [
+    { "name": "New York", "id": "a1b2c3d4e5f6" },
+    { "name": "Los Angeles", "id": "b2c3d4e5f6a7" },
+    { "name": "Chicago", "id": "c3d4e5f6a7b8" },
+    { "name": "Houston", "id": "d4e5f6a7b8c9" },
+    { "name": "Phoenix", "id": "e5f6a7b8c9d0" },
+    { "name": "Philadelphia", "id": "f6a7b8c9d0e1" },
+    { "name": "San Antonio", "id": "a7b8c9d0e1f2" },
+    { "name": "San Diego", "id": "b7c8d9e0f1a3" },
+    { "name": "Dallas", "id": "c8d9e0f1a2b4" },
+    { "name": "San Jose", "id": "d9e0f1a2b3c5" }
+  ]
+}

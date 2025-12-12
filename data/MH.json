@@ -1,0 +1,15 @@
+{
+  "coid": "MH",
+  "cities": [
+    { "name": "Majuro", "id": "c91f3a2d9b7e" },
+    { "name": "Ebeye", "id": "d28e1f9ac4d2" },
+    { "name": "Rongelap", "id": "e39d7b1e0f52" },
+    { "name": "Wotje", "id": "f84a2c7f1e93" },
+    { "name": "Jaluit", "id": "a72b9d4c3a10" },
+    { "name": "Ailinglaplap", "id": "b63c1a8e5b27" },
+    { "name": "Arno", "id": "c72d9c4f1b83" },
+    { "name": "Likiep", "id": "d91e3f7a2c64" },
+    { "name": "Maloelap", "id": "e58f2a9d7e31" },
+    { "name": "Utrik", "id": "f47b1c6e9f20" }
+  ]
+}

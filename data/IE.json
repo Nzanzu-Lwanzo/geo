@@ -1,0 +1,15 @@
+{
+  "coid": "IE",
+  "cities": [
+    { "name": "Dublin", "id": "a93f2d5a6b87" },
+    { "name": "Cork", "id": "b04a3e6b7c98" },
+    { "name": "Limerick", "id": "c15b4f7c8d09" },
+    { "name": "Galway", "id": "d26c5a8d9e10" },
+    { "name": "Waterford", "id": "e37d6b9e0f21" },
+    { "name": "Drogheda", "id": "f48e7c0f1a32" },
+    { "name": "Dundalk", "id": "a59f8d1a2b43" },
+    { "name": "Swords", "id": "b60a9e2b3c54" },
+    { "name": "Bray", "id": "c71b0f3c4d65" },
+    { "name": "Navan", "id": "d82c1a4d5e76" }
+  ]
+}

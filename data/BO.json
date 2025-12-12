@@ -1,0 +1,15 @@
+{
+  "coid": "BO",
+  "cities": [
+    { "name": "La Paz", "id": "a91f3c2d9b7e" },
+    { "name": "Santa Cruz", "id": "b28e1f9ac4d2" },
+    { "name": "Cochabamba", "id": "c39d7b1e0f52" },
+    { "name": "Sucre", "id": "d84a2c7f1e93" },
+    { "name": "Oruro", "id": "e72b9d4c3a10" },
+    { "name": "Tarija", "id": "f63c1a8e5b27" },
+    { "name": "Potosí", "id": "a72d9c4f1b83" },
+    { "name": "Trinidad", "id": "b91e3f7a2c64" },
+    { "name": "Cobija", "id": "c58f2a9d7e31" },
+    { "name": "El Alto", "id": "d47b1c6e9f20" }
+  ]
+}

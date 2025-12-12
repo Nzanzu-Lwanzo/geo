@@ -1,0 +1,15 @@
+{
+  "coid": "GB",
+  "cities": [
+    { "name": "London", "id": "a4b5c6d7e8f9" },
+    { "name": "Birmingham", "id": "b5c6d7e8f9a0" },
+    { "name": "Manchester", "id": "c6d7e8f9a0b1" },
+    { "name": "Glasgow", "id": "d7e8f9a0b1c2" },
+    { "name": "Leeds", "id": "e8f9a0b1c2d3" },
+    { "name": "Liverpool", "id": "f9a0b1c2d3e4" },
+    { "name": "Bristol", "id": "a0b1c2d3e4f6" },
+    { "name": "Sheffield", "id": "b0c1d2e3f4a7" },
+    { "name": "Edinburgh", "id": "c1d2e3f4a5b8" },
+    { "name": "Leicester", "id": "d2e3f4a5b6c9" }
+  ]
+}

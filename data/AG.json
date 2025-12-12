@@ -1,0 +1,14 @@
+{
+  "coid": "AG",
+  "cities": [
+    { "name": "St. John's", "id": "a91f3c2d9b7e" },
+    { "name": "All Saints", "id": "b28e1f9ac4d2" },
+    { "name": "Liberta", "id": "c39d7b1e0f52" },
+    { "name": "Potters Village", "id": "d84a2c7f1e93" },
+    { "name": "Bolands", "id": "e72b9d4c3a10" },
+    { "name": "Swetes", "id": "f63c1a8e5b27" },
+    { "name": "Seaview Farm", "id": "a72d9c4f1b83" },
+    { "name": "Piggotts", "id": "b91e3f7a2c64" },
+    { "name": "Codrington (Barbuda)", "id": "c58f2a9d7e31" }
+  ]
+}

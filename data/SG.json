@@ -1,0 +1,15 @@
+{
+  "coid": "SG",
+  "cities": [
+    { "name": "Singapore", "id": "c2q4s6u8w0y1" },
+    { "name": "Tampines", "id": "d3r5t7v9x1z2" },
+    { "name": "Jurong East", "id": "e4s6u8w0y2a3" },
+    { "name": "Woodlands", "id": "f5t7v9x1z3b4" },
+    { "name": "Hougang", "id": "a6u8w0y2a4c5" },
+    { "name": "Bedok", "id": "b7v9x1z3b5d6" },
+    { "name": "Clementi", "id": "c8w0y2a4c6e7" },
+    { "name": "Bukit Merah", "id": "d9x1z3b5d7f8" },
+    { "name": "Ang Mo Kio", "id": "e0y2a4c6e8g9" },
+    { "name": "Sengkang", "id": "f1z3b5d7f9h0" }
+  ]
+}

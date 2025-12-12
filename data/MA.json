@@ -1,0 +1,15 @@
+{
+  "coid": "MA",
+  "cities": [
+    { "name": "Casablanca", "id": "a93f2d5a6b87" },
+    { "name": "Rabat", "id": "b04a3e6b7c98" },
+    { "name": "Fes", "id": "c15b4f7c8d09" },
+    { "name": "Marrakesh", "id": "d26c5a8d9e10" },
+    { "name": "Tangier", "id": "e37d6b9e0f21" },
+    { "name": "Agadir", "id": "f48e7c0f1a32" },
+    { "name": "Meknes", "id": "a59f8d1a2b43" },
+    { "name": "Oujda", "id": "b60a9e2b3c54" },
+    { "name": "Kenitra", "id": "c71b0f3c4d65" },
+    { "name": "Tetouan", "id": "d82c1a4d5e76" }
+  ]
+}

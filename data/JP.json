@@ -1,0 +1,15 @@
+{
+  "coid": "JP",
+  "cities": [
+    { "name": "Tokyo", "id": "c93b2f5c6d77" },
+    { "name": "Yokohama", "id": "d04c3a6d7e88" },
+    { "name": "Osaka", "id": "e15d4b7e8f99" },
+    { "name": "Nagoya", "id": "f26e5c8f9a10" },
+    { "name": "Sapporo", "id": "a37f6d9a0b21" },
+    { "name": "Fukuoka", "id": "b48a7e0b1c32" },
+    { "name": "Kobe", "id": "c59b8f1c2d43" },
+    { "name": "Kyoto", "id": "d60c9a2d3e54" },
+    { "name": "Kawasaki", "id": "e71d0b3e4f65" },
+    { "name": "Saitama", "id": "f82e1c4f5a76" }
+  ]
+}

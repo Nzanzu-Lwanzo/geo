@@ -1,0 +1,15 @@
+{
+  "coid": "EG",
+  "cities": [
+    { "name": "Cairo", "id": "c91f3a2d9b7e" },
+    { "name": "Alexandria", "id": "d28e1f9ac4d2" },
+    { "name": "Giza", "id": "e39d7b1e0f52" },
+    { "name": "Shubra El Kheima", "id": "f84a2c7f1e93" },
+    { "name": "Port Said", "id": "a72b9d4c3a10" },
+    { "name": "Suez", "id": "b63c1a8e5b27" },
+    { "name": "Luxor", "id": "c72d9c4f1b83" },
+    { "name": "Asyut", "id": "d91e3f7a2c64" },
+    { "name": "Mansoura", "id": "e58f2a9d7e31" },
+    { "name": "Tanta", "id": "f47b1c6e9f20" }
+  ]
+}

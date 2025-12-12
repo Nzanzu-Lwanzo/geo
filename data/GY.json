@@ -1,0 +1,15 @@
+{
+  "coid": "GY",
+  "cities": [
+    { "name": "Georgetown", "id": "c91f3a2d9b7e" },
+    { "name": "Linden", "id": "d28e1f9ac4d2" },
+    { "name": "New Amsterdam", "id": "e39d7b1e0f52" },
+    { "name": "Bartica", "id": "f84a2c7f1e93" },
+    { "name": "Skeldon", "id": "a72b9d4c3a10" },
+    { "name": "Rosignol", "id": "b63c1a8e5b27" },
+    { "name": "Anna Regina", "id": "c72d9c4f1b83" },
+    { "name": "Lethem", "id": "d91e3f7a2c64" },
+    { "name": "Mabaruma", "id": "e58f2a9d7e31" },
+    { "name": "Mahdia", "id": "f47b1c6e9f20" }
+  ]
+}

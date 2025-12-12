@@ -1,0 +1,15 @@
+{
+  "coid": "TL",
+  "cities": [
+    { "name": "Dili", "id": "c3d4e5f6a7b9" },
+    { "name": "Baucau", "id": "d4e5f6a7b8c0" },
+    { "name": "Maliana", "id": "e5f6a7b8c9d1" },
+    { "name": "Suai", "id": "f6a7b8c9d0e2" },
+    { "name": "Lospalos", "id": "a7b8c9d0e1f3" },
+    { "name": "Liquiçá", "id": "b7c8d9e0f1a4" },
+    { "name": "Viqueque", "id": "c8d9e0f1a2b5" },
+    { "name": "Oecusse", "id": "d9e0f1a2b3c6" },
+    { "name": "Ainaro", "id": "e0f1a2b3c4d7" },
+    { "name": "Manatuto", "id": "f1a2b3c4d5e8" }
+  ]
+}

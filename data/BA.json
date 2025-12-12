@@ -1,0 +1,15 @@
+{
+  "coid": "BA",
+  "cities": [
+    { "name": "Sarajevo", "id": "e83f1d2b4c65" },
+    { "name": "Banja Luka", "id": "f94a2e3c5d76" },
+    { "name": "Tuzla", "id": "a15b3f4d6e87" },
+    { "name": "Zenica", "id": "b26c4a5e7f98" },
+    { "name": "Mostar", "id": "c37d5b6f8a09" },
+    { "name": "Bihać", "id": "d48e6c7a9b10" },
+    { "name": "Doboj", "id": "e59f7d8b0c21" },
+    { "name": "Bijeljina", "id": "f60a8e9c1d32" },
+    { "name": "Prijedor", "id": "a71b9f0d2e43" },
+    { "name": "Trebinje", "id": "b82c1a3d4e55" }
+  ]
+}

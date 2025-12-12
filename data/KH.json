@@ -1,0 +1,15 @@
+{
+  "coid": "KH",
+  "cities": [
+    { "name": "Phnom Penh", "id": "a93f2d5a6b87" },
+    { "name": "Siem Reap", "id": "b04a3e6b7c98" },
+    { "name": "Battambang", "id": "c15b4f7c8d09" },
+    { "name": "Sihanoukville", "id": "d26c5a8d9e10" },
+    { "name": "Poipet", "id": "e37d6b9e0f21" },
+    { "name": "Kampong Cham", "id": "f48e7c0f1a32" },
+    { "name": "Kampot", "id": "a59f8d1a2b43" },
+    { "name": "Takeo", "id": "b60a9e2b3c54" },
+    { "name": "Kampong Thom", "id": "c71b0f3c4d65" },
+    { "name": "Pursat", "id": "d82c1a4d5e76" }
+  ]
+}

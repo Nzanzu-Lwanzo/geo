@@ -1,0 +1,15 @@
+{
+  "coid": "BE",
+  "cities": [
+    { "name": "Brussels", "id": "e83f1d2b4c65" },
+    { "name": "Antwerp", "id": "f94a2e3c5d76" },
+    { "name": "Ghent", "id": "a15b3f4d6e87" },
+    { "name": "Charleroi", "id": "b26c4a5e7f98" },
+    { "name": "Liège", "id": "c37d5b6f8a09" },
+    { "name": "Bruges", "id": "d48e6c7a9b10" },
+    { "name": "Namur", "id": "e59f7d8b0c21" },
+    { "name": "Leuven", "id": "f60a8e9c1d32" },
+    { "name": "Mons", "id": "a71b9f0d2e43" },
+    { "name": "Aalst", "id": "b82c1a3d4e55" }
+  ]
+}

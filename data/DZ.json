@@ -1,0 +1,15 @@
+{
+  "coid": "DZ",
+  "cities": [
+    { "name": "Algiers", "id": "d72e9c1a3b54" },
+    { "name": "Oran", "id": "e83f1d2b4c65" },
+    { "name": "Constantine", "id": "f94a2e3c5d76" },
+    { "name": "Annaba", "id": "a15b3f4d6e87" },
+    { "name": "Blida", "id": "b26c4a5e7f98" },
+    { "name": "Batna", "id": "c37d5b6f8a09" },
+    { "name": "Sétif", "id": "d48e6c7a9b10" },
+    { "name": "Sidi Bel Abbès", "id": "e59f7d8b0c21" },
+    { "name": "Tlemcen", "id": "f60a8e9c1d32" },
+    { "name": "Béjaïa", "id": "a71b9f0d2e43" }
+  ]
+}

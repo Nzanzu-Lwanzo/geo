@@ -1,0 +1,13 @@
+{
+  "coid": "BB",
+  "cities": [
+    { "name": "Bridgetown", "id": "c71d0b3e4f65" },
+    { "name": "Speightstown", "id": "d82e1c4f5a76" },
+    { "name": "Oistins", "id": "e93f2d5a6b87" },
+    { "name": "Holetown", "id": "f04a3e6b7c98" },
+    { "name": "Bathsheba", "id": "a15b4f7c8d09" },
+    { "name": "Crane", "id": "b26c5a8d9e10" },
+    { "name": "Blackmans", "id": "c37d6b9e0f21" },
+    { "name": "Greenland", "id": "d48e7c0f1a32" }
+  ]
+}

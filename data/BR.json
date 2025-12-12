@@ -1,0 +1,15 @@
+{
+  "coid": "BR",
+  "cities": [
+    { "name": "São Paulo", "id": "a93b2f5c6d77" },
+    { "name": "Rio de Janeiro", "id": "b04c3a6d7e88" },
+    { "name": "Brasília", "id": "c15d4b7e8f99" },
+    { "name": "Salvador", "id": "d26e5c8f9a10" },
+    { "name": "Fortaleza", "id": "e37f6d9a0b21" },
+    { "name": "Belo Horizonte", "id": "f48a7e0b1c32" },
+    { "name": "Manaus", "id": "a59b8f1c2d43" },
+    { "name": "Curitiba", "id": "b60c9a2d3e54" },
+    { "name": "Recife", "id": "c71d0b3e4f65" },
+    { "name": "Porto Alegre", "id": "d82e1c4f5a76" }
+  ]
+}

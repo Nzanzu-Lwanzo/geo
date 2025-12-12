@@ -1,0 +1,15 @@
+{
+  "coid": "TJ",
+  "cities": [
+    { "name": "Dushanbe", "id": "c2d3e4f5a6b7" },
+    { "name": "Khujand", "id": "d3e4f5a6b7c8" },
+    { "name": "Kulob", "id": "e4f5a6b7c8d9" },
+    { "name": "Khorugh", "id": "f5a6b7c8d9e0" },
+    { "name": "Istaravshan", "id": "a6b7c8d9e0f1" },
+    { "name": "Tursunzoda", "id": "b7c8d9e0f1a2" },
+    { "name": "Vahdat", "id": "c8d9e0f1a2b3" },
+    { "name": "Isfara", "id": "d9e0f1a2b3c4" },
+    { "name": "Panjakent", "id": "e0f1a2b3c4d5" },
+    { "name": "Konibodom", "id": "f1a2b3c4d5e6" }
+  ]
+}

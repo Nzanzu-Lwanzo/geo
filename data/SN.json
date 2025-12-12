@@ -1,0 +1,15 @@
+{
+  "coid": "SN",
+  "cities": [
+    { "name": "Dakar", "id": "e1f3a5c7b9d2" },
+    { "name": "Pikine", "id": "f2a4b6d8c0e3" },
+    { "name": "Touba", "id": "a3b5c7e9d1f4" },
+    { "name": "Thiès", "id": "b4c6d8f0e2a5" },
+    { "name": "Saint-Louis", "id": "c5d7e9a1f3b6" },
+    { "name": "Kaolack", "id": "d6e8f0b2a4c7" },
+    { "name": "Ziguinchor", "id": "e7f9a1c3b5d8" },
+    { "name": "Rufisque", "id": "f8a0b2d4c6e9" },
+    { "name": "Mbour", "id": "a9b1c3e5d7f0" },
+    { "name": "Kolda", "id": "b0c2d4f6e8a1" }
+  ]
+}

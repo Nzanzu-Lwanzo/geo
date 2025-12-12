@@ -1,0 +1,15 @@
+{
+  "coid": "AM",
+  "cities": [
+    { "name": "Yerevan", "id": "f82a1e4b5c66" },
+    { "name": "Gyumri", "id": "a93b2f5c6d77" },
+    { "name": "Vanadzor", "id": "b04c3a6d7e88" },
+    { "name": "Vagharshapat", "id": "c15d4b7e8f99" },
+    { "name": "Hrazdan", "id": "d26e5c8f9a10" },
+    { "name": "Abovyan", "id": "e37f6d9a0b21" },
+    { "name": "Kapan", "id": "f48a7e0b1c32" },
+    { "name": "Armavir", "id": "a59b8f1c2d43" },
+    { "name": "Ijevan", "id": "b60c9a2d3e54" },
+    { "name": "Gavar", "id": "c71d0b3e4f65" }
+  ]
+}

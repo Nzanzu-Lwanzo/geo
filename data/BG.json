@@ -1,0 +1,15 @@
+{
+  "coid": "BG",
+  "cities": [
+    { "name": "Sofia", "id": "c91f3a2d9b7e" },
+    { "name": "Plovdiv", "id": "d28e1f9ac4d2" },
+    { "name": "Varna", "id": "e39d7b1e0f52" },
+    { "name": "Burgas", "id": "f84a2c7f1e93" },
+    { "name": "Ruse", "id": "a72b9d4c3a10" },
+    { "name": "Stara Zagora", "id": "b63c1a8e5b27" },
+    { "name": "Pleven", "id": "c72d9c4f1b83" },
+    { "name": "Sliven", "id": "d91e3f7a2c64" },
+    { "name": "Dobrich", "id": "e58f2a9d7e31" },
+    { "name": "Shumen", "id": "f47b1c6e9f20" }
+  ]
+}

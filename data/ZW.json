@@ -1,0 +1,15 @@
+{
+  "coid": "ZW",
+  "cities": [
+    { "name": "Harare", "id": "a0c1e2g3i4k5" },
+    { "name": "Bulawayo", "id": "b0d1f2h3j4l6" },
+    { "name": "Mutare", "id": "c0e1g2i3k4m7" },
+    { "name": "Gweru", "id": "d0f1h2j3l4n8" },
+    { "name": "Kwekwe", "id": "e0g1i2k3m4o9" },
+    { "name": "Masvingo", "id": "f0h1j2l3n4p0" },
+    { "name": "Chinhoyi", "id": "a1i2k3m4o5q1" },
+    { "name": "Marondera", "id": "b1j2l3n4p5r2" },
+    { "name": "Kadoma", "id": "c1k2m3o4q5s3" },
+    { "name": "Bindura", "id": "d1l2n3p4r5t4" }
+  ]
+}

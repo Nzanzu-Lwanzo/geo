@@ -1,0 +1,15 @@
+{
+  "coid": "SD",
+  "cities": [
+    { "name": "Khartoum", "id": "c1v2b3n4m5l6" },
+    { "name": "Omdurman", "id": "d2b3n4m5l6k7" },
+    { "name": "Port Sudan", "id": "e3n4m5l6k7j8" },
+    { "name": "Kassala", "id": "f4m5l6k7j8h9" },
+    { "name": "El Obeid", "id": "a5l6k7j8h9g0" },
+    { "name": "Nyala", "id": "b6k7j8h9g0f1" },
+    { "name": "Al-Fashir", "id": "c7j8h9g0f1d2" },
+    { "name": "Wad Madani", "id": "d8h9g0f1d2s3" },
+    { "name": "Kosti", "id": "e9g0f1d2s3a4" },
+    { "name": "Sennar", "id": "f0f1d2s3a4q5" }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "coid": "MC",
+  "cities": [
+    { "name": "Monaco-Ville", "id": "a83f1d2b4c65" },
+    { "name": "Monte Carlo", "id": "b94a2e3c5d76" },
+    { "name": "La Condamine", "id": "c15b3f4d6e87" },
+    { "name": "Fontvieille", "id": "d26c4a5e7f98" },
+    { "name": "Moneghetti", "id": "e37d5b6f8a09" },
+    { "name": "Larvotto", "id": "f48e6c7a9b10" },
+    { "name": "Saint Roman", "id": "a59f7d8b0c21" },
+    { "name": "Jardin Exotique", "id": "b60a8e9c1d32" },
+    { "name": "La Rousse", "id": "c71b9f0d2e43" },
+    { "name": "Les Révoires", "id": "d82c1a3d4e55" }
+  ]
+}

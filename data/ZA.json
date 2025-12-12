@@ -1,0 +1,15 @@
+{
+  "coid": "ZA",
+  "cities": [
+    { "name": "Johannesburg", "id": "a1c2e3g4i5k6" },
+    { "name": "Cape Town", "id": "b2d3f4h5j6l7" },
+    { "name": "Durban", "id": "c3e4g5i6k7m8" },
+    { "name": "Pretoria", "id": "d4f5h6j7l8n9" },
+    { "name": "Port Elizabeth", "id": "e5g6i7k8m9o0" },
+    { "name": "Bloemfontein", "id": "f6h7j8l9n0p1" },
+    { "name": "Nelspruit", "id": "a7i8k9m0o1q2" },
+    { "name": "Polokwane", "id": "b8j9l0n1p2r3" },
+    { "name": "East London", "id": "c9k0m1o2q3s4" },
+    { "name": "Kimberley", "id": "d0l1n2p3r4t5" }
+  ]
+}

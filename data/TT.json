@@ -1,0 +1,15 @@
+{
+  "coid": "TT",
+  "cities": [
+    { "name": "Port of Spain", "id": "e1f2a3b4c5d6" },
+    { "name": "San Fernando", "id": "f2a3b4c5d6e7" },
+    { "name": "Chaguanas", "id": "a3b4c5d6e7f8" },
+    { "name": "Arima", "id": "b4c5d6e7f8a9" },
+    { "name": "Point Fortin", "id": "c5d6e7f8a9b0" },
+    { "name": "Couva", "id": "d6e7f8a9b0c1" },
+    { "name": "Tobago", "id": "e7f8a9b0c1d2" },
+    { "name": "Sangre Grande", "id": "f8a9b0c1d2e3" },
+    { "name": "Princes Town", "id": "a9b0c1d2e3f4" },
+    { "name": "Mayaro", "id": "b0c1d2e3f4a5" }
+  ]
+}

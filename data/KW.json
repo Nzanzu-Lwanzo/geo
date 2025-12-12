@@ -1,0 +1,15 @@
+{
+  "coid": "KW",
+  "cities": [
+    { "name": "Kuwait City", "id": "c93b2f5c6d77" },
+    { "name": "Al Ahmadi", "id": "d04c3a6d7e88" },
+    { "name": "Hawalli", "id": "e15d4b7e8f99" },
+    { "name": "Salmiya", "id": "f26e5c8f9a10" },
+    { "name": "Farwaniya", "id": "a37f6d9a0b21" },
+    { "name": "Jahra", "id": "b48a7e0b1c32" },
+    { "name": "Sabah Al Salem", "id": "c59b8f1c2d43" },
+    { "name": "Mubarak Al-Kabeer", "id": "d60c9a2d3e54" },
+    { "name": "Fahaheel", "id": "e71d0b3e4f65" },
+    { "name": "Mangaf", "id": "f82e1c4f5a76" }
+  ]
+}

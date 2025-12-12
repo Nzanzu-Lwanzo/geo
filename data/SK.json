@@ -1,0 +1,15 @@
+{
+  "coid": "SK",
+  "cities": [
+    { "name": "Bratislava", "id": "a3r5t7v9x1z2" },
+    { "name": "Košice", "id": "b4s6u8w0y2a3" },
+    { "name": "Prešov", "id": "c5t7v9x1z3b4" },
+    { "name": "Žilina", "id": "d6u8w0y2a4c5" },
+    { "name": "Nitra", "id": "e7v9x1z3b5d6" },
+    { "name": "Banská Bystrica", "id": "f8w0y2a4c6e7" },
+    { "name": "Trnava", "id": "a9x1z3b5d7f8" },
+    { "name": "Martin", "id": "b0y2a4c6e8g9" },
+    { "name": "Poprad", "id": "c1z3b5d7f9h0" },
+    { "name": "Prievidza", "id": "d2a4c6e8g0i1" }
+  ]
+}

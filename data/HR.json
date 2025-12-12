@@ -1,0 +1,15 @@
+{
+  "coid": "HR",
+  "cities": [
+    { "name": "Zagreb", "id": "c91f3a2d9b7e" },
+    { "name": "Split", "id": "d28e1f9ac4d2" },
+    { "name": "Rijeka", "id": "e39d7b1e0f52" },
+    { "name": "Osijek", "id": "f84a2c7f1e93" },
+    { "name": "Zadar", "id": "a72b9d4c3a10" },
+    { "name": "Pula", "id": "b63c1a8e5b27" },
+    { "name": "Slavonski Brod", "id": "c72d9c4f1b83" },
+    { "name": "Karlovac", "id": "d91e3f7a2c64" },
+    { "name": "Varaždin", "id": "e58f2a9d7e31" },
+    { "name": "Šibenik", "id": "f47b1c6e9f20" }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "coid": "TN",
+  "cities": [
+    { "name": "Tunis", "id": "c1d2e3f4a5b6" },
+    { "name": "Sfax", "id": "d2e3f4a5b6c7" },
+    { "name": "Sousse", "id": "e3f4a5b6c7d8" },
+    { "name": "Ettadhamen", "id": "f4a5b6c7d8e9" },
+    { "name": "Kairouan", "id": "a5b6c7d8e9f0" },
+    { "name": "Gabès", "id": "b6c7d8e9f0a1" },
+    { "name": "Bizerte", "id": "c7d8e9f0a1b2" },
+    { "name": "Ariana", "id": "d8e9f0a1b2c3" },
+    { "name": "Gafsa", "id": "e9f0a1b2c3d4" },
+    { "name": "Monastir", "id": "f0a1b2c3d4e5" }
+  ]
+}

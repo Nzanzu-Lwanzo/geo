@@ -1,0 +1,15 @@
+{
+  "coid": "TW",
+  "cities": [
+    { "name": "Taipei", "id": "e2f3a4b5c6d7" },
+    { "name": "Kaohsiung", "id": "f3a4b5c6d7e8" },
+    { "name": "Taichung", "id": "a4b5c6d7e8f9" },
+    { "name": "Tainan", "id": "b5c6d7e8f9a0" },
+    { "name": "Taoyuan", "id": "c6d7e8f9a0b1" },
+    { "name": "Hsinchu", "id": "d7e8f9a0b1c2" },
+    { "name": "Keelung", "id": "e8f9a0b1c2d3" },
+    { "name": "Chiayi", "id": "f9a0b1c2d3e4" },
+    { "name": "Hualien", "id": "a0b1c2d3e4f5" },
+    { "name": "Yilan", "id": "b1c2d3e4f5a6" }
+  ]
+}

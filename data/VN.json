@@ -1,0 +1,15 @@
+{
+  "coid": "VN",
+  "cities": [
+    { "name": "Hanoi", "id": "a7b8c9d0e1f3" },
+    { "name": "Ho Chi Minh City", "id": "b7c8d9e0f1a4" },
+    { "name": "Da Nang", "id": "c7d8e9f0a1b5" },
+    { "name": "Hai Phong", "id": "d7e8f9a0b1c6" },
+    { "name": "Can Tho", "id": "e7f8a9b0c1d7" },
+    { "name": "Nha Trang", "id": "f7a8b9c0d1e8" },
+    { "name": "Hue", "id": "a8b9c0d1e2f9" },
+    { "name": "Bien Hoa", "id": "b8c9d0e1f2a0" },
+    { "name": "Vung Tau", "id": "c8d9e0f1a2b1" },
+    { "name": "Rach Gia", "id": "d8e9f0a1b2c2" }
+  ]
+}

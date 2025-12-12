@@ -1,0 +1,15 @@
+{
+  "coid": "SB",
+  "cities": [
+    { "name": "Honiara", "id": "e1f2a3b4c5d6" },
+    { "name": "Gizo", "id": "f2a3b4c5d6e7" },
+    { "name": "Auki", "id": "a3b4c5d6e7f8" },
+    { "name": "Kirakira", "id": "b3c4d5e6f7a9" },
+    { "name": "Taro", "id": "c4d5e6f7a8b0" },
+    { "name": "Lata", "id": "d5e6f7a8b9c1" },
+    { "name": "Munda", "id": "e6f7a8b9c0d2" },
+    { "name": "Noro", "id": "f7a8b9c0d1e3" },
+    { "name": "Buala", "id": "a8b9c0d1e2f4" },
+    { "name": "Yandina", "id": "b9c0d1e2f3a5" }
+  ]
+}

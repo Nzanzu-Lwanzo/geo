@@ -1,0 +1,15 @@
+{
+  "coid": "CR",
+  "cities": [
+    { "name": "San José", "id": "a93f2d5a6b87" },
+    { "name": "Alajuela", "id": "b04a3e6b7c98" },
+    { "name": "Cartago", "id": "c15b4f7c8d09" },
+    { "name": "Heredia", "id": "d26c5a8d9e10" },
+    { "name": "Liberia", "id": "e37d6b9e0f21" },
+    { "name": "Puntarenas", "id": "f48e7c0f1a32" },
+    { "name": "Limón", "id": "a59f8d1a2b43" },
+    { "name": "San Isidro", "id": "b60a9e2b3c54" },
+    { "name": "Quesada", "id": "c71b0f3c4d65" },
+    { "name": "Curridabat", "id": "d82c1a4d5e76" }
+  ]
+}

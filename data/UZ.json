@@ -1,0 +1,15 @@
+{
+  "coid": "UZ",
+  "cities": [
+    { "name": "Tashkent", "id": "c2d3e4f5a6b7" },
+    { "name": "Samarkand", "id": "d3e4f5a6b7c8" },
+    { "name": "Bukhara", "id": "e4f5a6b7c8d9" },
+    { "name": "Namangan", "id": "f5a6b7c8d9e0" },
+    { "name": "Andijan", "id": "a6b7c8d9e0f1" },
+    { "name": "Nukus", "id": "b6c7d8e9f0a2" },
+    { "name": "Fergana", "id": "c7d8e9f0a1b3" },
+    { "name": "Kokand", "id": "d8e9f0a1b2c4" },
+    { "name": "Karshi", "id": "e9f0a1b2c3d5" },
+    { "name": "Termez", "id": "f0a1b2c3d4e6" }
+  ]
+}

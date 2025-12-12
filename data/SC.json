@@ -1,0 +1,15 @@
+{
+  "coid": "SC",
+  "cities": [
+    { "name": "Victoria", "id": "a2c4e6g8i0k1" },
+    { "name": "Anse Boileau", "id": "b3d5f7h9j1l2" },
+    { "name": "Beau Vallon", "id": "c4e6g8i0k2m3" },
+    { "name": "Anse Royale", "id": "d5f7h9j1l3n4" },
+    { "name": "Baie Lazare", "id": "e6g8i0k2m4o5" },
+    { "name": "Anse aux Pins", "id": "f7h9j1l3n5p6" },
+    { "name": "Grand Anse", "id": "a8i0k2m4o6q7" },
+    { "name": "La Digue", "id": "b9j1l3n5p7r8" },
+    { "name": "Bel Ombre", "id": "c0k2m4o6q8s9" },
+    { "name": "Glacis", "id": "d1l3n5p7r9t0" }
+  ]
+}

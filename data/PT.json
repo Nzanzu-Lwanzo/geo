@@ -1,0 +1,15 @@
+{
+  "coid": "PT",
+  "cities": [
+    { "name": "Lisbon", "id": "e93d2b4e5f66" },
+    { "name": "Porto", "id": "f04e3c5f6a77" },
+    { "name": "Vila Nova de Gaia", "id": "a15f4d6a7b88" },
+    { "name": "Amadora", "id": "b26a5e7b8c99" },
+    { "name": "Braga", "id": "c37b6f8c9d10" },
+    { "name": "Coimbra", "id": "d48c7a9d0e21" },
+    { "name": "Funchal", "id": "e59d8b1e2f33" },
+    { "name": "Setúbal", "id": "f60e9c2f3a44" },
+    { "name": "Queluz", "id": "a71f0d3a4b55" },
+    { "name": "Aveiro", "id": "b82a1e4b5c66" }
+  ]
+}

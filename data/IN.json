@@ -1,0 +1,15 @@
+{
+  "coid": "IN",
+  "cities": [
+    { "name": "Mumbai", "id": "c91f3a2d9b7e" },
+    { "name": "Delhi", "id": "d28e1f9ac4d2" },
+    { "name": "Bengaluru", "id": "e39d7b1e0f52" },
+    { "name": "Hyderabad", "id": "f84a2c7f1e93" },
+    { "name": "Ahmedabad", "id": "a72b9d4c3a10" },
+    { "name": "Chennai", "id": "b63c1a8e5b27" },
+    { "name": "Kolkata", "id": "c72d9c4f1b83" },
+    { "name": "Pune", "id": "d91e3f7a2c64" },
+    { "name": "Surat", "id": "e58f2a9d7e31" },
+    { "name": "Jaipur", "id": "f47b1c6e9f20" }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "coid": "BI",
+  "cities": [
+    { "name": "Bujumbura", "id": "e93d2b4e5f66" },
+    { "name": "Gitega", "id": "f04e3c5f6a77" },
+    { "name": "Ngozi", "id": "a15f4d6a7b88" },
+    { "name": "Rumonge", "id": "b26a5e7b8c99" },
+    { "name": "Muyinga", "id": "c37b6f8c9d10" },
+    { "name": "Ruyigi", "id": "d48c7a9d0e21" },
+    { "name": "Kayanza", "id": "e59d8b1e2f33" },
+    { "name": "Bururi", "id": "f60e9c2f3a44" },
+    { "name": "Makamba", "id": "a71f0d3a4b55" },
+    { "name": "Muramvya", "id": "b82a1e4b5c66" }
+  ]
+}

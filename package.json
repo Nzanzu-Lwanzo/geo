@@ -1,0 +1,28 @@
+{
+  "name": "geo",
+  "version": "1.0.0",
+  "description": "All the countries and cities of the world",
+  "main": "server.ts",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/server.js",
+    "dev": "nodemon --watch '**/*.ts' --exec 'ts-node' server.ts",
+    "lint": "eslint '**/*.ts'"
+  },
+  "author": "NZANZU MUHAYRWA L.",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/express": "^5.0.6",
+    "@types/node": "^25.0.0",
+    "dotenv": "^17.2.3",
+    "eslint": "^9.39.1",
+    "express": "^5.2.1",
+    "install": "^0.13.0",
+    "nodemon": "^3.1.11",
+    "npm": "^11.7.0",
+    "prettier": "^3.7.4",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}

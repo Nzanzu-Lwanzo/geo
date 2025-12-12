@@ -1,0 +1,15 @@
+{
+  "coid": "TO",
+  "cities": [
+    { "name": "Nukuʻalofa", "id": "a1b2c3d4e5f6" },
+    { "name": "Neiafu", "id": "b2c3d4e5f6a7" },
+    { "name": "Haveluloto", "id": "c3d4e5f6a7b8" },
+    { "name": "Pangai", "id": "d4e5f6a7b8c9" },
+    { "name": "Vavaʻu", "id": "e5f6a7b8c9d0" },
+    { "name": "Muʻa", "id": "f6a7b8c9d0e1" },
+    { "name": "Fuaʻamotu", "id": "a7b8c9d0e1f2" },
+    { "name": "Kolomotuʻa", "id": "b7c8d9e0f1a3" },
+    { "name": "Haʻapai", "id": "c8d9e0f1a2b4" },
+    { "name": "Lifuka", "id": "d9e0f1a2b3c5" }
+  ]
+}

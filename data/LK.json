@@ -1,0 +1,15 @@
+{
+  "coid": "LK",
+  "cities": [
+    { "name": "Colombo", "id": "e1m2n3b4v5c6" },
+    { "name": "Kandy", "id": "f2n3b4v5c6x7" },
+    { "name": "Galle", "id": "a3b4v5c6x7z8" },
+    { "name": "Jaffna", "id": "b4v5c6x7z8a9" },
+    { "name": "Negombo", "id": "c5c6x7z8a9s0" },
+    { "name": "Trincomalee", "id": "d6x7z8a9s0d1" },
+    { "name": "Batticaloa", "id": "e7z8a9s0d1f2" },
+    { "name": "Anuradhapura", "id": "f8a9s0d1f2g3" },
+    { "name": "Polonnaruwa", "id": "a9s0d1f2g3h4" },
+    { "name": "Matara", "id": "b0d1f2g3h4j5" }
+  ]
+}

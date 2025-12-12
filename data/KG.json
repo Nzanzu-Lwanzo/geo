@@ -1,0 +1,15 @@
+{
+  "coid": "KG",
+  "cities": [
+    { "name": "Bishkek", "id": "a93f2d5a6b87" },
+    { "name": "Osh", "id": "b04a3e6b7c98" },
+    { "name": "Jalal-Abad", "id": "c15b4f7c8d09" },
+    { "name": "Karakol", "id": "d26c5a8d9e10" },
+    { "name": "Tokmok", "id": "e37d6b9e0f21" },
+    { "name": "Talas", "id": "f48e7c0f1a32" },
+    { "name": "Naryn", "id": "a59f8d1a2b43" },
+    { "name": "Uzgen", "id": "b60a9e2b3c54" },
+    { "name": "Balykchy", "id": "c71b0f3c4d65" },
+    { "name": "Kant", "id": "d82c1a4d5e76" }
+  ]
+}

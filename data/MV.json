@@ -1,0 +1,15 @@
+{
+  "coid": "MV",
+  "cities": [
+    { "name": "Malé", "id": "e93d2b4e5f66" },
+    { "name": "Addu City", "id": "f04e3c5f6a77" },
+    { "name": "Fuvahmulah", "id": "a15f4d6a7b88" },
+    { "name": "Kulhudhuffushi", "id": "b26a5e7b8c99" },
+    { "name": "Thinadhoo", "id": "c37b6f8c9d10" },
+    { "name": "Naifaru", "id": "d48c7a9d0e21" },
+    { "name": "Hithadhoo", "id": "e59d8b1e2f33" },
+    { "name": "Mahibadhoo", "id": "f60e9c2f3a44" },
+    { "name": "Eydhafushi", "id": "a71f0d3a4b55" },
+    { "name": "Dhidhdhoo", "id": "b82a1e4b5c66" }
+  ]
+}

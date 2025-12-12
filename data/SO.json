@@ -1,0 +1,15 @@
+{
+  "coid": "SO",
+  "cities": [
+    { "name": "Mogadishu", "id": "c1d2e3f4a5b6" },
+    { "name": "Hargeisa", "id": "d2e3f4a5b6c7" },
+    { "name": "Bosaso", "id": "e3f4a5b6c7d8" },
+    { "name": "Kismayo", "id": "f4a5b6c7d8e9" },
+    { "name": "Galkayo", "id": "a5b6c7d8e9f0" },
+    { "name": "Berbera", "id": "b6c7d8e9f0a1" },
+    { "name": "Baidoa", "id": "c6d7e8f9a0b2" },
+    { "name": "Jowhar", "id": "d7e8f9a0b1c3" },
+    { "name": "Buurhakaba", "id": "e8f9a0b1c2d4" },
+    { "name": "Qardho", "id": "f9a0b1c2d3e5" }
+  ]
+}

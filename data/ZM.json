@@ -1,0 +1,15 @@
+{
+  "coid": "ZM",
+  "cities": [
+    { "name": "Lusaka", "id": "c9d0e1f2a3b8" },
+    { "name": "Ndola", "id": "d9e0f1a2b3c9" },
+    { "name": "Kitwe", "id": "e9f0a1b2c3d0" },
+    { "name": "Kabwe", "id": "f9a0b1c2d3e1" },
+    { "name": "Chingola", "id": "a0b1c2d3e4f7" },
+    { "name": "Mufulira", "id": "b0c1d2e3f4a8" },
+    { "name": "Livingstone", "id": "c0d1e2f3a4b9" },
+    { "name": "Chipata", "id": "d0e1f2a3b4c0" },
+    { "name": "Kasama", "id": "e0f1a2b3c4d1" },
+    { "name": "Mongu", "id": "f0a1b2c3d4e2" }
+  ]
+}

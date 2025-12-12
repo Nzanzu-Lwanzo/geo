@@ -1,0 +1,15 @@
+{
+  "coid": "VE",
+  "cities": [
+    { "name": "Caracas", "id": "c5d6e7f8a9b0" },
+    { "name": "Maracaibo", "id": "d6e7f8a9b0c1" },
+    { "name": "Valencia", "id": "e6f7a8b9c0d2" },
+    { "name": "Barquisimeto", "id": "f6a7b8c9d0e3" },
+    { "name": "Maracay", "id": "a6b7c8d9e0f4" },
+    { "name": "Ciudad Guayana", "id": "b6c7d8e9f0a5" },
+    { "name": "Maturín", "id": "c6d7e8f9a0b6" },
+    { "name": "Puerto La Cruz", "id": "d6e7f8a9b0c7" },
+    { "name": "San Cristóbal", "id": "e6f7a8b9c0d8" },
+    { "name": "Cumaná", "id": "f6a7b8c9d0e9" }
+  ]
+}
