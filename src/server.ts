@@ -1,6 +1,6 @@
 import { config } from 'dotenv';
 config();
-import * as express from 'express';
+import express from 'express';
 import { getFileContent, getISOCodes } from './lib/helpers';
 import type { City, Country } from './lib/@types';
 import path = require('node:path');
