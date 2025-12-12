@@ -10,8 +10,9 @@
   },
   "author": "NZANZU MUHAYRWA L.",
   "license": "ISC",
-  "depenendies": {
+  "dependencies": {
     "dotenv": "^17.2.3",
+    "nanoid": "^5.1.6",
     "ts-node": "^10.9.2",
     "express": "^5.2.1"
   },
@@ -22,10 +23,5 @@
     "nodemon": "^3.1.11",
     "prettier": "^3.7.4",
     "typescript": "^5.9.3"
-  },
-  "dependencies": {
-    "dotenv": "^17.2.3",
-    "nanoid": "^5.1.6",
-    "ts-node": "^10.9.2"
   }
 }
