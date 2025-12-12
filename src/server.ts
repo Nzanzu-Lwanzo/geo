@@ -3,15 +3,20 @@ config();
 import * as express from 'express';
 import { getFileContent, getISOCodes } from './lib/helpers';
 import type { City, Country } from './lib/@types';
+import path = require('node:path');
 
 const app = express();
 const PORT = process.env['PORT'] || 8888;
 
 app.use(express.json());
 
+//#region Helpers
+const getFilePath = (relPath: string) => path.join(__dirname, relPath);
+//#endregion
+
 // Get all the countries
 app.get('/countries', async (req, res) => {
-  const countries = await getFileContent<Country[]>('data/$.json');
+  const countries = await getFileContent<Country[]>(getFilePath('data/$.json'));
   res.json(countries);
 });
 
@@ -19,7 +24,7 @@ app.get('/countries', async (req, res) => {
 app.get('/cities/:coid', async (req, res) => {
   try {
     const cities = await getFileContent<City[]>(
-      `data/${req.params.coid.toUpperCase()}.json`,
+      getFilePath(`data/${req.params.coid.toUpperCase()}.json`),
     );
     res.json(cities);
   } catch {
