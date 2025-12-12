@@ -3,12 +3,11 @@
   "version": "1.0.0",
   "description": "All the countries and cities of the world",
   "main": "server.ts",
-  "type": "module",
   "scripts": {
     "build": "tsc",
     "start": "node dist/server.js",
-    "dev": "nodemon --watch '**/*.ts' --exec 'ts-node' server.ts",
-    "lint": "eslint '**/*.ts'"
+    "dev": "nodemon --watch 'src/**/*.ts' --exec 'ts-node' src/server.ts",
+    "lint": "eslint 'src/**/*.ts'"
   },
   "author": "NZANZU MUHAYRWA L.",
   "license": "ISC",

@@ -1,8 +1,12 @@
-import express from 'express';
-import { getFileContent, getISOCodes } from './lib/helpers.ts';
-import type { City, Country } from './lib/@types.ts';
+import { config } from 'dotenv';
+config();
+import * as express from 'express';
+import { getFileContent, getISOCodes } from './lib/helpers';
+import type { City, Country } from './lib/@types';
 
 const app = express();
+const PORT = process.env['PORT'] || 8888;
+
 app.use(express.json());
 
 // Get all the countries
@@ -26,4 +30,4 @@ app.get('/cities/:coid', async (req, res) => {
   }
 });
 
-app.listen(8888, () => console.log('Server is up and running'));
+app.listen(PORT, () => console.log('The server is up 🚀'));
