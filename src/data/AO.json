@@ -1,15 +1,89 @@
 {
   "coid": "AO",
   "cities": [
-    { "name": "Luanda", "id": "c59d8b1e2f33" },
-    { "name": "Huambo", "id": "d60e9c2f3a44" },
-    { "name": "Lobito", "id": "e71f0d3a4b55" },
-    { "name": "Benguela", "id": "f82a1e4b5c66" },
-    { "name": "Lubango", "id": "a93b2f5c6d77" },
-    { "name": "Kuito", "id": "b04c3a6d7e88" },
-    { "name": "Malanje", "id": "c15d4b7e8f99" },
-    { "name": "Namibe", "id": "d26e5c8f9a10" },
-    { "name": "Soyo", "id": "e37f6d9a0b21" },
-    { "name": "Cabinda", "id": "f48a7e0b1c32" }
+    {
+      "name": "Ambriz",
+      "id": "2Q6CEuqjlFo5"
+    },
+    {
+      "name": "Benguela",
+      "id": "3U6GWHk4Yx6M"
+    },
+    {
+      "name": "Cabinda",
+      "id": "uCGi0Dcdb4yX"
+    },
+    {
+      "name": "Cacole",
+      "id": "8-zhWIy0UlG4"
+    },
+    {
+      "name": "Camabatela",
+      "id": "Ut8ZViE19apB"
+    },
+    {
+      "name": "Cazeta",
+      "id": "3_FTnHKVO4p1"
+    },
+    {
+      "name": "Huambo",
+      "id": "eEEevOQQznqg"
+    },
+    {
+      "name": "Kuito",
+      "id": "cL4buPlCIATN"
+    },
+    {
+      "name": "Lobito",
+      "id": "b3AChO4l4Gn8"
+    },
+    {
+      "name": "Luanda",
+      "id": "RPMF-O19IAAK"
+    },
+    {
+      "name": "Lubango",
+      "id": "Yur0MhmJaXYS"
+    },
+    {
+      "name": "Lucapa",
+      "id": "2bjZpDcvu5jf"
+    },
+    {
+      "name": "Lumeje",
+      "id": "OaPMLFJkzXy9"
+    },
+    {
+      "name": "Malanje",
+      "id": "XwYun6Lj8O4O"
+    },
+    {
+      "name": "Menongue",
+      "id": "TJqdZeF6Ski_"
+    },
+    {
+      "name": "Muxaluando",
+      "id": "eUQuuovl1H5u"
+    },
+    {
+      "name": "Namibe",
+      "id": "tazSV8GgYuZ1"
+    },
+    {
+      "name": "Ondjiva",
+      "id": "58Tw_YFME1Zd"
+    },
+    {
+      "name": "Piri",
+      "id": "P1t5_jPrPVsw"
+    },
+    {
+      "name": "Saurimo",
+      "id": "9l7xHICGrkwY"
+    },
+    {
+      "name": "Talatona",
+      "id": "je10Wcct1fYx"
+    }
   ]
 }

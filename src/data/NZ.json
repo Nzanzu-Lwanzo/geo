@@ -1,15 +1,1117 @@
 {
   "coid": "NZ",
   "cities": [
-    { "name": "Auckland", "id": "a83f1d2b4c65" },
-    { "name": "Wellington", "id": "b94a2e3c5d76" },
-    { "name": "Christchurch", "id": "c15b3f4d6e87" },
-    { "name": "Hamilton", "id": "d26c4a5e7f98" },
-    { "name": "Tauranga", "id": "e37d5b6f8a09" },
-    { "name": "Napier-Hastings", "id": "f48e6c7a9b10" },
-    { "name": "Dunedin", "id": "a59f7d8b0c21" },
-    { "name": "Palmerston North", "id": "b60a8e9c1d32" },
-    { "name": "Nelson", "id": "c71b9f0d2e43" },
-    { "name": "Rotorua", "id": "d82c1a3d4e55" }
+    {
+      "name": "Ahaura",
+      "id": "JhZ-Qsydvnya"
+    },
+    {
+      "name": "Albany",
+      "id": "1p84d-BArs7X"
+    },
+    {
+      "name": "Amberley",
+      "id": "GxypgHH0hCmj"
+    },
+    {
+      "name": "Ashhurst",
+      "id": "8c_lau5qe-Ai"
+    },
+    {
+      "name": "Auckland",
+      "id": "8bXV1GoVgFOO"
+    },
+    {
+      "name": "Avondale",
+      "id": "VJwpHgyAK-BB"
+    },
+    {
+      "name": "Awanui",
+      "id": "lXdFXhj6Lwdh"
+    },
+    {
+      "name": "Balclutha",
+      "id": "lUI72w58mq3w"
+    },
+    {
+      "name": "Balfour",
+      "id": "Pp1JPOI2DRSt"
+    },
+    {
+      "name": "Beachlands",
+      "id": "zc5E_sXI1P1A"
+    },
+    {
+      "name": "Belmont",
+      "id": "QYh9A-ts5cg-"
+    },
+    {
+      "name": "Bethlehem",
+      "id": "aigWz7gwLAIA"
+    },
+    {
+      "name": "Blackburn",
+      "id": "T-cJ25pQ5f9k"
+    },
+    {
+      "name": "Bombay",
+      "id": "PBxkxOlhvF5R"
+    },
+    {
+      "name": "Brightwater",
+      "id": "R4vgykKKBtdL"
+    },
+    {
+      "name": "Browns Bay",
+      "id": "9SvkBIMlqxxK"
+    },
+    {
+      "name": "Bulls",
+      "id": "-hQv0RbQ7Og7"
+    },
+    {
+      "name": "Campbells Bay",
+      "id": "EKFPobtseAeJ"
+    },
+    {
+      "name": "Cashmere Hills",
+      "id": "sXvIGMPcJ-ky"
+    },
+    {
+      "name": "Cave",
+      "id": "nKoY-qYXImlY"
+    },
+    {
+      "name": "Cheviot",
+      "id": "PnvvEJCDO0b0"
+    },
+    {
+      "name": "Christchurch",
+      "id": "OVsrGR2C4RpW"
+    },
+    {
+      "name": "Clarks",
+      "id": "GklfB5jzZJtx"
+    },
+    {
+      "name": "Clevedon",
+      "id": "RFVvwApC6AZV"
+    },
+    {
+      "name": "Clinton",
+      "id": "I2BjYYzWUl1p"
+    },
+    {
+      "name": "Clive",
+      "id": "1GpXmZiuMiue"
+    },
+    {
+      "name": "Clyde",
+      "id": "qfF4kTYdAqkb"
+    },
+    {
+      "name": "Coalgate",
+      "id": "CDnJKwL_mCl1"
+    },
+    {
+      "name": "Coatesville",
+      "id": "Lfa6FxSjvC2M"
+    },
+    {
+      "name": "Collingwood",
+      "id": "n9DEqVXKnD1v"
+    },
+    {
+      "name": "Colville",
+      "id": "T582PDBVL6j0"
+    },
+    {
+      "name": "Coromandel",
+      "id": "KjjjUOmGWzLi"
+    },
+    {
+      "name": "Darfield",
+      "id": "W0rYDb8ShtFt"
+    },
+    {
+      "name": "Dargaville",
+      "id": "oBs_ktjGngnn"
+    },
+    {
+      "name": "Douglas",
+      "id": "7ss4M1UI05kz"
+    },
+    {
+      "name": "Doyleston",
+      "id": "XF4tpFYuvxKx"
+    },
+    {
+      "name": "Drury",
+      "id": "LG2SyTDNZt_7"
+    },
+    {
+      "name": "Dunedin",
+      "id": "-iBKVjRSKGfD"
+    },
+    {
+      "name": "Duvauchelle",
+      "id": "BynvOtSoe4hK"
+    },
+    {
+      "name": "East Tamaki",
+      "id": "sFY8-lBae9fS"
+    },
+    {
+      "name": "Eastbourne",
+      "id": "vsKii-pbKP2A"
+    },
+    {
+      "name": "Edendale",
+      "id": "gAfnEeyp5pSF"
+    },
+    {
+      "name": "Eltham",
+      "id": "pX9BBZ9Bk5FY"
+    },
+    {
+      "name": "Fairlie",
+      "id": "wBZyUUh2zSdy"
+    },
+    {
+      "name": "Favona",
+      "id": "vYHcXPQroqLy"
+    },
+    {
+      "name": "Foxton",
+      "id": "iz-BzAx3QlUH"
+    },
+    {
+      "name": "Foxton Beach",
+      "id": "T9i5ybSW53ys"
+    },
+    {
+      "name": "Franz Josef",
+      "id": "qndDGXTJL9_P"
+    },
+    {
+      "name": "Gisborne",
+      "id": "mwExCF6wGkAQ"
+    },
+    {
+      "name": "Glen Eden",
+      "id": "_zJD_vJPyqoX"
+    },
+    {
+      "name": "Glenbrook",
+      "id": "fuLbODueqHdA"
+    },
+    {
+      "name": "Greenhithe",
+      "id": "9NurFrFiY9Dl"
+    },
+    {
+      "name": "Greerton",
+      "id": "NW1Jd2dJpY2g"
+    },
+    {
+      "name": "Greymouth",
+      "id": "kvzmT4OkEyo5"
+    },
+    {
+      "name": "Haast",
+      "id": "VVunaCt0cS_U"
+    },
+    {
+      "name": "Halswell",
+      "id": "wVyepvFfJiqO"
+    },
+    {
+      "name": "Hamilton",
+      "id": "a3P0tAQrrldA"
+    },
+    {
+      "name": "Hastings",
+      "id": "ULzrCx9gJtwM"
+    },
+    {
+      "name": "Havelock North",
+      "id": "ag1hnuJTd6lb"
+    },
+    {
+      "name": "Hawarden",
+      "id": "wsyIZthScIAU"
+    },
+    {
+      "name": "Hawera",
+      "id": "xtFYI0Gc45tQ"
+    },
+    {
+      "name": "Herne Bay",
+      "id": "Ku5sCPwnhKAh"
+    },
+    {
+      "name": "Hikuai",
+      "id": "OSl_64H1ew32"
+    },
+    {
+      "name": "Hokitika",
+      "id": "OUgvklTSl9rI"
+    },
+    {
+      "name": "Howick",
+      "id": "0Ltjc_7TzFLK"
+    },
+    {
+      "name": "Hunterville",
+      "id": "a1jTGUCESo8O"
+    },
+    {
+      "name": "Invercargill",
+      "id": "r9dlWie3DPXT"
+    },
+    {
+      "name": "Johnsonville",
+      "id": "TSt5ThZT-qzu"
+    },
+    {
+      "name": "Kaeo",
+      "id": "K1tA8m901Dbn"
+    },
+    {
+      "name": "Kaiata",
+      "id": "Jtx9btJD7C5M"
+    },
+    {
+      "name": "Kaikoura",
+      "id": "O-_rM-wtTmQ1"
+    },
+    {
+      "name": "Kaitangata",
+      "id": "3vtsXYGP1tdF"
+    },
+    {
+      "name": "Kaiwaka",
+      "id": "cS7a4JQsd12w"
+    },
+    {
+      "name": "Kaiwharawhara",
+      "id": "Ie_01vNTHWQS"
+    },
+    {
+      "name": "Kamo",
+      "id": "_wRvY_Ddc4of"
+    },
+    {
+      "name": "Karamea",
+      "id": "8YcRfE0Tm1dZ"
+    },
+    {
+      "name": "Katikati",
+      "id": "sQuGOvfVFOpc"
+    },
+    {
+      "name": "Kawakawa",
+      "id": "rpbh3W3O1WzJ"
+    },
+    {
+      "name": "Kawerau",
+      "id": "40g4KQOoUNJN"
+    },
+    {
+      "name": "Kawhia",
+      "id": "bob_He0yk0s8"
+    },
+    {
+      "name": "Kerikeri",
+      "id": "cm8OpIoc1FFH"
+    },
+    {
+      "name": "Khandallah",
+      "id": "K8aDS24okLRL"
+    },
+    {
+      "name": "Kimbolton",
+      "id": "qM3uEdJpWd7J"
+    },
+    {
+      "name": "Kirwee",
+      "id": "mEf_O-W6Oo1Q"
+    },
+    {
+      "name": "Kohukohu",
+      "id": "W-PJMv7BphVq"
+    },
+    {
+      "name": "Kumeu",
+      "id": "jtXCELD4y8Dk"
+    },
+    {
+      "name": "Kurow",
+      "id": "S_kCt8mx0c_Z"
+    },
+    {
+      "name": "Lake Tekapo",
+      "id": "0a3LvAGM3wEh"
+    },
+    {
+      "name": "Leamington",
+      "id": "MyoZw-INTI3n"
+    },
+    {
+      "name": "Leeston",
+      "id": "aLnAhLKdPAya"
+    },
+    {
+      "name": "Levels",
+      "id": "DlaP2FuYT15G"
+    },
+    {
+      "name": "Levin",
+      "id": "P-MxFQwhKDw2"
+    },
+    {
+      "name": "Lincoln",
+      "id": "vIIIW1xHgD9c"
+    },
+    {
+      "name": "Linwood",
+      "id": "SVLRvd1pEoOV"
+    },
+    {
+      "name": "Longburn",
+      "id": "Rqj9MXb90PvG"
+    },
+    {
+      "name": "Lower Hutt",
+      "id": "dfhy6uhWXjR5"
+    },
+    {
+      "name": "Lumsden",
+      "id": "B_eWny2a3pXa"
+    },
+    {
+      "name": "Mangaroa",
+      "id": "r8kyF8bw3g8F"
+    },
+    {
+      "name": "Mangawhai Heads",
+      "id": "sXn9mqB9F6u3"
+    },
+    {
+      "name": "Mangere",
+      "id": "w34AgEAlHRqN"
+    },
+    {
+      "name": "Mangonui",
+      "id": "S4qrOe2ngA5s"
+    },
+    {
+      "name": "Manukau",
+      "id": "oQgJaNaHZckS"
+    },
+    {
+      "name": "Manunui",
+      "id": "PUDTzlQhuS0N"
+    },
+    {
+      "name": "Marua",
+      "id": "YF-kRIiGZTKU"
+    },
+    {
+      "name": "Masterton",
+      "id": "IfOWzXnZb2Xm"
+    },
+    {
+      "name": "Matakana",
+      "id": "H7_hl0hiln50"
+    },
+    {
+      "name": "Maungatapere",
+      "id": "NwNfMRKlgk23"
+    },
+    {
+      "name": "Maungaturoto",
+      "id": "qVL0RpvyuNTa"
+    },
+    {
+      "name": "Menzies Ferry",
+      "id": "2Zz4cidsLwOP"
+    },
+    {
+      "name": "Methven",
+      "id": "Ov1a0aH2DDoL"
+    },
+    {
+      "name": "Milton",
+      "id": "SgMGDE2v7hoh"
+    },
+    {
+      "name": "Mission Bay",
+      "id": "Bc1v70pCWdTI"
+    },
+    {
+      "name": "Moerewa",
+      "id": "XBacxRVC39te"
+    },
+    {
+      "name": "Mosgiel",
+      "id": "ZoMWf2qcpJ3N"
+    },
+    {
+      "name": "Mossburn",
+      "id": "EzXmTq9kB7B6"
+    },
+    {
+      "name": "Mount Maunganui",
+      "id": "lebgzqAOIqEA"
+    },
+    {
+      "name": "Murupara",
+      "id": "TMXZY37fYBAK"
+    },
+    {
+      "name": "Myross Bush",
+      "id": "WdTbZ_z7GpNp"
+    },
+    {
+      "name": "Napier City",
+      "id": "rqeZqn_g8ueA"
+    },
+    {
+      "name": "Nelson",
+      "id": "hQEV8UGNGucF"
+    },
+    {
+      "name": "New Plymouth",
+      "id": "LFm0CLVKj3Qm"
+    },
+    {
+      "name": "Ngaio",
+      "id": "TZT4C-gnrQJJ"
+    },
+    {
+      "name": "Ngatea",
+      "id": "C1O5Twsj8Df_"
+    },
+    {
+      "name": "North Shore",
+      "id": "d9sDoR2IY-77"
+    },
+    {
+      "name": "Northcote Point",
+      "id": "3dafaBG761rc"
+    },
+    {
+      "name": "Northland",
+      "id": "eevt_BFKrJ3G"
+    },
+    {
+      "name": "Oakura",
+      "id": "obni6dljrxJp"
+    },
+    {
+      "name": "Oamaru",
+      "id": "2je_cLIsby8o"
+    },
+    {
+      "name": "Oban",
+      "id": "4x4BzxgpfvtF"
+    },
+    {
+      "name": "Ohaupo",
+      "id": "2qc1lhMMKf9p"
+    },
+    {
+      "name": "Ohura",
+      "id": "KuPKcFFUtsQ7"
+    },
+    {
+      "name": "Okaiawa",
+      "id": "BD4LiRoaIiBP"
+    },
+    {
+      "name": "Okaihau",
+      "id": "WykE4_ZlZcbN"
+    },
+    {
+      "name": "Okato",
+      "id": "58CloTBkUSoU"
+    },
+    {
+      "name": "Onga Onga",
+      "id": "Dbis219Tscgy"
+    },
+    {
+      "name": "Opaheke",
+      "id": "jmO-tzPAO_49"
+    },
+    {
+      "name": "Opotiki",
+      "id": "ydgYeltP3Csa"
+    },
+    {
+      "name": "Opunake",
+      "id": "OBpUdVA1hnfD"
+    },
+    {
+      "name": "Orakei",
+      "id": "-cMYSaOgmbY5"
+    },
+    {
+      "name": "Oratia",
+      "id": "pIGjtcm-1pwe"
+    },
+    {
+      "name": "Orewa",
+      "id": "4SL4t3h1_7L-"
+    },
+    {
+      "name": "Otaki",
+      "id": "zEkz60qlrqpQ"
+    },
+    {
+      "name": "Otaki Beach",
+      "id": "B4q-c1DaPWwY"
+    },
+    {
+      "name": "Otane",
+      "id": "j9c2Q2DkJjnL"
+    },
+    {
+      "name": "Otautau",
+      "id": "rSXMVRyBWJZ6"
+    },
+    {
+      "name": "Otematata",
+      "id": "RCLahT_4iXUA"
+    },
+    {
+      "name": "Otorohanga",
+      "id": "WAEMkQcuedk2"
+    },
+    {
+      "name": "Oturehua",
+      "id": "aN_VA5FAyokK"
+    },
+    {
+      "name": "Outram",
+      "id": "I5uSfnJVHyjJ"
+    },
+    {
+      "name": "Owaka",
+      "id": "QVC6h8x-nmgz"
+    },
+    {
+      "name": "Oxford",
+      "id": "N0RgvXJl_bWQ"
+    },
+    {
+      "name": "Paekakariki",
+      "id": "_JbF2wqhHKp7"
+    },
+    {
+      "name": "Paeroa",
+      "id": "bAjJ8Cy_R-sB"
+    },
+    {
+      "name": "Paihia",
+      "id": "mUPDamn1GXN4"
+    },
+    {
+      "name": "Pakuranga",
+      "id": "wAeUKSxTjHpJ"
+    },
+    {
+      "name": "Palmerston North",
+      "id": "_TnWlySLTOHX"
+    },
+    {
+      "name": "Panmure",
+      "id": "faRhp-mluLcC"
+    },
+    {
+      "name": "Papakura",
+      "id": "7JSyqahfreKy"
+    },
+    {
+      "name": "Papamoa",
+      "id": "mi7-eUJdF-NS"
+    },
+    {
+      "name": "Paradise",
+      "id": "lC_WOeHYqAvZ"
+    },
+    {
+      "name": "Paraparaumu",
+      "id": "9jCo3YqKuqUJ"
+    },
+    {
+      "name": "Paraparaumu Beach",
+      "id": "odY2fFzW3YxU"
+    },
+    {
+      "name": "Paremata",
+      "id": "Yv1byj-CaLns"
+    },
+    {
+      "name": "Parnell",
+      "id": "Bz-zyo0i3DWQ"
+    },
+    {
+      "name": "Penrose",
+      "id": "Ox2Ohe42k_kw"
+    },
+    {
+      "name": "Petone",
+      "id": "IAJJpJmdMFCe"
+    },
+    {
+      "name": "Piopio",
+      "id": "vWh2axb1zbjy"
+    },
+    {
+      "name": "Pirongia",
+      "id": "m8G5XStGAtZX"
+    },
+    {
+      "name": "Pleasant Point",
+      "id": "okCKDYdkw__Z"
+    },
+    {
+      "name": "Pokeno",
+      "id": "3HDwBOBp8n0Z"
+    },
+    {
+      "name": "Ponsonby",
+      "id": "lVpu8Q_wwdBX"
+    },
+    {
+      "name": "Porangahau",
+      "id": "OFqreZU8MNxa"
+    },
+    {
+      "name": "Porirua",
+      "id": "MHp7Aqa_ab4A"
+    },
+    {
+      "name": "Port Chalmers",
+      "id": "9hJypf_dxGBN"
+    },
+    {
+      "name": "Portland",
+      "id": "4GDIe28Lj4eb"
+    },
+    {
+      "name": "Puhoi",
+      "id": "kDZCMTSkITZ9"
+    },
+    {
+      "name": "Pukeatua",
+      "id": "jqpjndtLIgYt"
+    },
+    {
+      "name": "Punakaiki",
+      "id": "ZOHlj5bM6jEf"
+    },
+    {
+      "name": "Queenstown",
+      "id": "WWinSuBzKWLU"
+    },
+    {
+      "name": "Raglan",
+      "id": "P943hJybQMid"
+    },
+    {
+      "name": "Rakaia",
+      "id": "4maW95UYGf9c"
+    },
+    {
+      "name": "Rakaia Gorge",
+      "id": "tmhlPuOI6Eg6"
+    },
+    {
+      "name": "Ranfurly",
+      "id": "FVtD9Svc5Tcb"
+    },
+    {
+      "name": "Red Beach",
+      "id": "9zDEHnKpgUAU"
+    },
+    {
+      "name": "Renwick",
+      "id": "S-baz-gHdUH8"
+    },
+    {
+      "name": "Reporoa",
+      "id": "OABPGpmFBeaF"
+    },
+    {
+      "name": "Riverhead",
+      "id": "GNeqaeAj528b"
+    },
+    {
+      "name": "Riversdale",
+      "id": "q0d8wxHzo9VX"
+    },
+    {
+      "name": "Riverton",
+      "id": "Ju8NmtWJfqLf"
+    },
+    {
+      "name": "Rolleston",
+      "id": "8jnRsQqdZMQ9"
+    },
+    {
+      "name": "Rotherham",
+      "id": "9d_0VQC016P-"
+    },
+    {
+      "name": "Rotorua",
+      "id": "8jF2M4iREkm5"
+    },
+    {
+      "name": "Ruawai",
+      "id": "uMISKDZg_xJc"
+    },
+    {
+      "name": "Russell",
+      "id": "E-CZa96Fb1VL"
+    },
+    {
+      "name": "Saint Heliers",
+      "id": "ZcaZaJlBnl-v"
+    },
+    {
+      "name": "Sawyers Bay",
+      "id": "GhuZiMAmEho5"
+    },
+    {
+      "name": "Sefton",
+      "id": "bFQb_iZgO8iK"
+    },
+    {
+      "name": "Silverdale",
+      "id": "Ie8E9i7mvWkp"
+    },
+    {
+      "name": "Springs Junction",
+      "id": "UaVkESUbMq9X"
+    },
+    {
+      "name": "Stanmore Bay",
+      "id": "FaX0eb1YcrEV"
+    },
+    {
+      "name": "Swanson",
+      "id": "vpWrFC369oak"
+    },
+    {
+      "name": "Tahoraiti",
+      "id": "pmWXff6C8zek"
+    },
+    {
+      "name": "Takaka",
+      "id": "S2-p-MGK2NK_"
+    },
+    {
+      "name": "Takanini",
+      "id": "eCkawSn0NwmH"
+    },
+    {
+      "name": "Takapau",
+      "id": "xfHnQA9DUIBS"
+    },
+    {
+      "name": "Takapuna",
+      "id": "vLN8gUD8YsO1"
+    },
+    {
+      "name": "Tamahere",
+      "id": "TKuebeU37W3n"
+    },
+    {
+      "name": "Taradale",
+      "id": "m5rvzEgblyPR"
+    },
+    {
+      "name": "Tasman",
+      "id": "fNt_FNwGNGOT"
+    },
+    {
+      "name": "Taupiri",
+      "id": "WE-9C4oxfbHA"
+    },
+    {
+      "name": "Taupo",
+      "id": "apWWni1GCfkP"
+    },
+    {
+      "name": "Tauranga",
+      "id": "crou0ItDNMpr"
+    },
+    {
+      "name": "Te Anau",
+      "id": "voC_hJkzPNzA"
+    },
+    {
+      "name": "Te Atatu",
+      "id": "_YreuzOOYy7A"
+    },
+    {
+      "name": "Te Kauwhata",
+      "id": "-XJrWaSjA4Rj"
+    },
+    {
+      "name": "Te Roti",
+      "id": "GvY1yFSO9Jjr"
+    },
+    {
+      "name": "Templeton",
+      "id": "Yv9iORwATEDN"
+    },
+    {
+      "name": "Thames",
+      "id": "dMD7lOmGkjk0"
+    },
+    {
+      "name": "Timaru",
+      "id": "5Hc77fuJYnwb"
+    },
+    {
+      "name": "Tinwald",
+      "id": "4J2I37Su4MUR"
+    },
+    {
+      "name": "Tirau",
+      "id": "KVqrlFsn_IfS"
+    },
+    {
+      "name": "Titirangi North",
+      "id": "CkdD4K-LCwfc"
+    },
+    {
+      "name": "Tokomaru",
+      "id": "61-g2QYAIkmP"
+    },
+    {
+      "name": "Tokoroa",
+      "id": "TnFGTPyvH1zd"
+    },
+    {
+      "name": "Torbay",
+      "id": "gkCH46tZ5iRL"
+    },
+    {
+      "name": "Tuakau",
+      "id": "_-0LkdngQXun"
+    },
+    {
+      "name": "Tuatapere",
+      "id": "dBF0QncTnDBu"
+    },
+    {
+      "name": "Turangi",
+      "id": "1JQk48JBqUwJ"
+    },
+    {
+      "name": "Upper Moutere",
+      "id": "jvockwu4M9lF"
+    },
+    {
+      "name": "Urenui",
+      "id": "x8HCmraW2jGf"
+    },
+    {
+      "name": "Waiau",
+      "id": "rZjHyapLISV7"
+    },
+    {
+      "name": "Waiau Pa",
+      "id": "ugfpce7ZOkr-"
+    },
+    {
+      "name": "Waihi",
+      "id": "rbbLdLDJGwQu"
+    },
+    {
+      "name": "Waihi Beach",
+      "id": "Wdc9MCEEQRiF"
+    },
+    {
+      "name": "Waikanae",
+      "id": "6qHPYuh50CZZ"
+    },
+    {
+      "name": "Waikari",
+      "id": "SVZn8_swdBPO"
+    },
+    {
+      "name": "Waikawa",
+      "id": "ao-kY8izjkz6"
+    },
+    {
+      "name": "Waikuku",
+      "id": "gjHos1rAD1uH"
+    },
+    {
+      "name": "Waikuku Beach",
+      "id": "J7muAgNicnO5"
+    },
+    {
+      "name": "Waimana",
+      "id": "WVXoN59nweFT"
+    },
+    {
+      "name": "Waimauku",
+      "id": "HnI-QjA6gV0T"
+    },
+    {
+      "name": "Wainuiomata",
+      "id": "zu7UBzRm4rOw"
+    },
+    {
+      "name": "Waiouru",
+      "id": "Nv9Po9C4MsHZ"
+    },
+    {
+      "name": "Waipara",
+      "id": "z9GB3fw-bKRP"
+    },
+    {
+      "name": "Waipawa",
+      "id": "bNHUO1YsaZjx"
+    },
+    {
+      "name": "Waipu",
+      "id": "z61-OZ7AE_Z2"
+    },
+    {
+      "name": "Wairoa",
+      "id": "Tg5yUyVbSiFI"
+    },
+    {
+      "name": "Waitakere City",
+      "id": "_nkaLhkStUIY"
+    },
+    {
+      "name": "Waitangi",
+      "id": "oF6ozrS5oCLs"
+    },
+    {
+      "name": "Waitara",
+      "id": "r8zsGzL9u6ax"
+    },
+    {
+      "name": "Waitati",
+      "id": "iuk6ObEHUQcK"
+    },
+    {
+      "name": "Waitoa",
+      "id": "cTgyACPW1Cnk"
+    },
+    {
+      "name": "Waiuku",
+      "id": "ubyQvAuJr_tf"
+    },
+    {
+      "name": "Wakefield",
+      "id": "K2Bum4dDhnR1"
+    },
+    {
+      "name": "Walton",
+      "id": "Gdg00UAbiRQL"
+    },
+    {
+      "name": "Wanaka",
+      "id": "nZBgzBK3dKpz"
+    },
+    {
+      "name": "Wanganui",
+      "id": "i1P0dXixKDCY"
+    },
+    {
+      "name": "Warkworth",
+      "id": "fSw2TsTJo74Z"
+    },
+    {
+      "name": "Waverley",
+      "id": "SycA7DerEw2Q"
+    },
+    {
+      "name": "Wellington",
+      "id": "y8BEZygAeQ6q"
+    },
+    {
+      "name": "Wellsford",
+      "id": "F-Ee1k9r_i45"
+    },
+    {
+      "name": "Wendon Valley",
+      "id": "HVeVD61540l5"
+    },
+    {
+      "name": "West Melton",
+      "id": "qV0k2MUG_OkY"
+    },
+    {
+      "name": "Weston",
+      "id": "EUwh28z84NJw"
+    },
+    {
+      "name": "Westport",
+      "id": "2GQj6Ui7D3Mp"
+    },
+    {
+      "name": "Weymouth",
+      "id": "oP5Vm5gpb5o9"
+    },
+    {
+      "name": "Whakatane",
+      "id": "o3dZS7TT_cqZ"
+    },
+    {
+      "name": "Whangamata",
+      "id": "YnJfQUiNzwZa"
+    },
+    {
+      "name": "Whangaparaoa",
+      "id": "bCaL0H_wSxkL"
+    },
+    {
+      "name": "Whangarei",
+      "id": "xeiQNjT9vIlf"
+    },
+    {
+      "name": "Whitianga",
+      "id": "vZzDNq9atq3-"
+    },
+    {
+      "name": "Winchester",
+      "id": "_gwFmpQ7Kdif"
+    },
+    {
+      "name": "Windermere",
+      "id": "ElTURrYDtsQs"
+    },
+    {
+      "name": "Winton",
+      "id": "361lGuJkKbRp"
+    },
+    {
+      "name": "Woodend",
+      "id": "dSnD9s84ioCf"
+    },
+    {
+      "name": "Woolston",
+      "id": "-4yrZaCEix3p"
+    },
+    {
+      "name": "Wyndham",
+      "id": "lyvN_gFCH6Li"
+    },
+    {
+      "name": "Yaldhurst",
+      "id": "ISAY_5JFJ-hS"
+    }
   ]
 }

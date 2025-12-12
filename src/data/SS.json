@@ -1,15 +1,45 @@
 {
   "coid": "SS",
   "cities": [
-    { "name": "Juba", "id": "c1q2w3e4r5t6" },
-    { "name": "Malakal", "id": "d2w3e4r5t6y7" },
-    { "name": "Wau", "id": "e3e4r5t6y7u8" },
-    { "name": "Bor", "id": "f4r5t6y7u8i9" },
-    { "name": "Rumbek", "id": "a5t6y7u8i9o0" },
-    { "name": "Aweil", "id": "b6y7u8i9o0p1" },
-    { "name": "Yei", "id": "c7u8i9o0p1a2" },
-    { "name": "Torit", "id": "d8i9o0p1a2s3" },
-    { "name": "Bentiu", "id": "e9o0p1a2s3d4" },
-    { "name": "Pibor", "id": "f0p1a2s3d4f5" }
+    {
+      "name": "Juba",
+      "id": "EZs_xPwF4FVe"
+    },
+    {
+      "name": "Malakal",
+      "id": "PvXjOIoN44X0"
+    },
+    {
+      "name": "Wau",
+      "id": "deCLLXlgISr8"
+    },
+    {
+      "name": "Bor",
+      "id": "4Tm4Z5PHr2t2"
+    },
+    {
+      "name": "Rumbek",
+      "id": "aDEQuvVxRlV7"
+    },
+    {
+      "name": "Aweil",
+      "id": "oh8W8Y5dycVB"
+    },
+    {
+      "name": "Yei",
+      "id": "Y9uhCS8uSro2"
+    },
+    {
+      "name": "Torit",
+      "id": "Sw8afF3uFdNZ"
+    },
+    {
+      "name": "Bentiu",
+      "id": "vqRVq5lNYK00"
+    },
+    {
+      "name": "Pibor",
+      "id": "eqLEkchhTtJT"
+    }
   ]
 }

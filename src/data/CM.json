@@ -1,15 +1,41 @@
 {
   "coid": "CM",
   "cities": [
-    { "name": "Douala", "id": "c91f3a2d9b7e" },
-    { "name": "Yaoundé", "id": "d28e1f9ac4d2" },
-    { "name": "Bamenda", "id": "e39d7b1e0f52" },
-    { "name": "Garoua", "id": "f84a2c7f1e93" },
-    { "name": "Maroua", "id": "a72b9d4c3a10" },
-    { "name": "Ngaoundéré", "id": "b63c1a8e5b27" },
-    { "name": "Bafoussam", "id": "c72d9c4f1b83" },
-    { "name": "Kumba", "id": "d91e3f7a2c64" },
-    { "name": "Limbe", "id": "e58f2a9d7e31" },
-    { "name": "Ebolowa", "id": "f47b1c6e9f20" }
+    {
+      "name": "Bafia",
+      "id": "icQQeOBumAKl"
+    },
+    {
+      "name": "Bafoussam",
+      "id": "EohlFIsSyq68"
+    },
+    {
+      "name": "Bamenda",
+      "id": "Eh3Vp9CJch7w"
+    },
+    {
+      "name": "Buea",
+      "id": "holG6nS2E-xh"
+    },
+    {
+      "name": "Douala",
+      "id": "9-s-H7Xzka1S"
+    },
+    {
+      "name": "Kribi",
+      "id": "62LMTlZeaRYW"
+    },
+    {
+      "name": "Kumba",
+      "id": "Y00fCxylsydg"
+    },
+    {
+      "name": "Ringo",
+      "id": "XsLHOlSAlfmO"
+    },
+    {
+      "name": "Tibati",
+      "id": "IkHltPPs7ZJf"
+    }
   ]
 }

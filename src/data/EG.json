@@ -1,15 +1,161 @@
 {
   "coid": "EG",
   "cities": [
-    { "name": "Cairo", "id": "c91f3a2d9b7e" },
-    { "name": "Alexandria", "id": "d28e1f9ac4d2" },
-    { "name": "Giza", "id": "e39d7b1e0f52" },
-    { "name": "Shubra El Kheima", "id": "f84a2c7f1e93" },
-    { "name": "Port Said", "id": "a72b9d4c3a10" },
-    { "name": "Suez", "id": "b63c1a8e5b27" },
-    { "name": "Luxor", "id": "c72d9c4f1b83" },
-    { "name": "Asyut", "id": "d91e3f7a2c64" },
-    { "name": "Mansoura", "id": "e58f2a9d7e31" },
-    { "name": "Tanta", "id": "f47b1c6e9f20" }
+    {
+      "name": "Abu Hammad",
+      "id": "p0CYhYG1Wzet"
+    },
+    {
+      "name": "Al Mahallah al Kubra",
+      "id": "3aLEYn1nrTtO"
+    },
+    {
+      "name": "Al Mansurah",
+      "id": "mLJ5lRY1mHGJ"
+    },
+    {
+      "name": "Al Marj",
+      "id": "UYvok2iqOA9G"
+    },
+    {
+      "name": "Alexandria",
+      "id": "DIx2h8oupddz"
+    },
+    {
+      "name": "Almazah",
+      "id": "I1IrrkYSpFoa"
+    },
+    {
+      "name": "Ar Rawdah",
+      "id": "HMYuo5QGzCd5"
+    },
+    {
+      "name": "Assiut",
+      "id": "-P_8dNUbNtXp"
+    },
+    {
+      "name": "Az Zamalik",
+      "id": "dARnu_7mRIx4"
+    },
+    {
+      "name": "Badr",
+      "id": "ql36G6eEzmLb"
+    },
+    {
+      "name": "Banha",
+      "id": "Ng0nwVmbVdne"
+    },
+    {
+      "name": "Bani Suwayf",
+      "id": "DKQFsA2yaGLy"
+    },
+    {
+      "name": "Cairo",
+      "id": "7NBKL9NrWnIQ"
+    },
+    {
+      "name": "Damietta",
+      "id": "itqPOzzs_thE"
+    },
+    {
+      "name": "Faraskur",
+      "id": "cij5J8-LOUXw"
+    },
+    {
+      "name": "Flaminj",
+      "id": "W9c_aN3DJ1CE"
+    },
+    {
+      "name": "Giza",
+      "id": "Xs5-zgcSC3A3"
+    },
+    {
+      "name": "Heliopolis",
+      "id": "1WjbtSo53EJY"
+    },
+    {
+      "name": "Helwan",
+      "id": "4QbCi4j-8PPK"
+    },
+    {
+      "name": "Hurghada",
+      "id": "3WmjVUDaRyhE"
+    },
+    {
+      "name": "Ismailia",
+      "id": "QL1w6aBSreaM"
+    },
+    {
+      "name": "Kafr ash Shaykh",
+      "id": "9veWDYaj29Lb"
+    },
+    {
+      "name": "Luxor",
+      "id": "13Ygin0eaGbn"
+    },
+    {
+      "name": "Madinat an Nasr",
+      "id": "rCUGHWWUv_me"
+    },
+    {
+      "name": "Madinat as Sadis min Uktubar",
+      "id": "P6kLWRB8S0Yk"
+    },
+    {
+      "name": "Minya",
+      "id": "mwdIcQKS0xJG"
+    },
+    {
+      "name": "Nasr",
+      "id": "9HIoDfBVb_qz"
+    },
+    {
+      "name": "New Cairo",
+      "id": "VsgX4peTuIhc"
+    },
+    {
+      "name": "Port Said",
+      "id": "9VRUM91m6iOB"
+    },
+    {
+      "name": "Rafah",
+      "id": "G9j-yompZOIf"
+    },
+    {
+      "name": "Ramsis",
+      "id": "cRlrBGZGiiRv"
+    },
+    {
+      "name": "Sadat",
+      "id": "m37GdgzK3jEZ"
+    },
+    {
+      "name": "Shirbin",
+      "id": "7J1aCSnDPaCP"
+    },
+    {
+      "name": "Shubra",
+      "id": "5AmTl-eEtywJ"
+    },
+    {
+      "name": "Sohag",
+      "id": "fExt-sdJZUoA"
+    },
+    {
+      "name": "Suez",
+      "id": "pl6Mt7__D4tH"
+    },
+    {
+      "name": "Tanta",
+      "id": "CXsC3vl76K8X"
+    },
+    {
+      "name": "Toukh",
+      "id": "32CoJekMbLWN"
+    },
+    {
+      "name": "Zagazig",
+      "id": "ePhL4jb6hxmV"
+    }
   ]
 }

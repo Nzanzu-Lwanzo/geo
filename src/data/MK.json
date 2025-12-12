@@ -1,15 +1,45 @@
 {
   "coid": "MK",
   "cities": [
-    { "name": "Skopje", "id": "a83f1d2b4c65" },
-    { "name": "Bitola", "id": "b94a2e3c5d76" },
-    { "name": "Kumanovo", "id": "c15b3f4d6e87" },
-    { "name": "Prilep", "id": "d26c4a5e7f98" },
-    { "name": "Tetovo", "id": "e37d5b6f8a09" },
-    { "name": "Veles", "id": "f48e6c7a9b10" },
-    { "name": "Ohrid", "id": "a59f7d8b0c21" },
-    { "name": "Gostivar", "id": "b60a8e9c1d32" },
-    { "name": "Štip", "id": "c71b9f0d2e43" },
-    { "name": "Strumica", "id": "d82c1a3d4e55" }
+    {
+      "name": "Skopje",
+      "id": "LOATFfhYQmrS"
+    },
+    {
+      "name": "Bitola",
+      "id": "PEyYp6Ywk0L7"
+    },
+    {
+      "name": "Kumanovo",
+      "id": "Oy2GFs6SShq3"
+    },
+    {
+      "name": "Prilep",
+      "id": "HIWHpNZeSwdf"
+    },
+    {
+      "name": "Tetovo",
+      "id": "u67SiyIMWpSz"
+    },
+    {
+      "name": "Veles",
+      "id": "zruYlVF1O1TJ"
+    },
+    {
+      "name": "Ohrid",
+      "id": "ZZur6D8P_xf-"
+    },
+    {
+      "name": "Gostivar",
+      "id": "WeMWQ_NHUzmZ"
+    },
+    {
+      "name": "Štip",
+      "id": "VRZxbt48MDBs"
+    },
+    {
+      "name": "Strumica",
+      "id": "T1uI-8hPm3A1"
+    }
   ]
 }

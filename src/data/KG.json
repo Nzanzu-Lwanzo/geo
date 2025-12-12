@@ -1,15 +1,45 @@
 {
   "coid": "KG",
   "cities": [
-    { "name": "Bishkek", "id": "a93f2d5a6b87" },
-    { "name": "Osh", "id": "b04a3e6b7c98" },
-    { "name": "Jalal-Abad", "id": "c15b4f7c8d09" },
-    { "name": "Karakol", "id": "d26c5a8d9e10" },
-    { "name": "Tokmok", "id": "e37d6b9e0f21" },
-    { "name": "Talas", "id": "f48e7c0f1a32" },
-    { "name": "Naryn", "id": "a59f8d1a2b43" },
-    { "name": "Uzgen", "id": "b60a9e2b3c54" },
-    { "name": "Balykchy", "id": "c71b0f3c4d65" },
-    { "name": "Kant", "id": "d82c1a4d5e76" }
+    {
+      "name": "Bishkek",
+      "id": "MyD4PcaPPC2I"
+    },
+    {
+      "name": "Osh",
+      "id": "0U1U8vLoE_su"
+    },
+    {
+      "name": "Jalal-Abad",
+      "id": "Jjgmj5NcqdqS"
+    },
+    {
+      "name": "Karakol",
+      "id": "vMNzS-oQtikf"
+    },
+    {
+      "name": "Tokmok",
+      "id": "7RjLlf8i4jJ3"
+    },
+    {
+      "name": "Talas",
+      "id": "KoRvjXfSvr5F"
+    },
+    {
+      "name": "Naryn",
+      "id": "Iwt4fuOxGtgj"
+    },
+    {
+      "name": "Uzgen",
+      "id": "kLViTcCPC-VW"
+    },
+    {
+      "name": "Balykchy",
+      "id": "GywZkJNAmkKZ"
+    },
+    {
+      "name": "Kant",
+      "id": "Bcc6ciAShJlT"
+    }
   ]
 }

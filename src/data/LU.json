@@ -1,15 +1,469 @@
 {
   "coid": "LU",
   "cities": [
-    { "name": "Luxembourg City", "id": "c93b2f5c6d77" },
-    { "name": "Esch-sur-Alzette", "id": "d04c3a6d7e88" },
-    { "name": "Differdange", "id": "e15d4b7e8f99" },
-    { "name": "Dudelange", "id": "f26e5c8f9a10" },
-    { "name": "Ettelbruck", "id": "a37f6d9a0b21" },
-    { "name": "Diekirch", "id": "b48a7e0b1c32" },
-    { "name": "Wiltz", "id": "c59b8f1c2d43" },
-    { "name": "Grevenmacher", "id": "d60c9a2d3e54" },
-    { "name": "Remich", "id": "e71d0b3e4f65" },
-    { "name": "Clervaux", "id": "f82e1c4f5a76" }
+    {
+      "name": "Ahn",
+      "id": "ZsGnTpAU9_lF"
+    },
+    {
+      "name": "Alzingen",
+      "id": "KBYwbs_Zoc6H"
+    },
+    {
+      "name": "Bascharage",
+      "id": "YADXBo46_-04"
+    },
+    {
+      "name": "Beaufort",
+      "id": "QLnly6ae-hGL"
+    },
+    {
+      "name": "Beckerich",
+      "id": "tLvtCEF9oVDW"
+    },
+    {
+      "name": "Beggen",
+      "id": "ujaq2ZPy9tYB"
+    },
+    {
+      "name": "Beidweiler",
+      "id": "xjXGB8EMtKsJ"
+    },
+    {
+      "name": "Belvaux",
+      "id": "9hwl4atzsKCQ"
+    },
+    {
+      "name": "Berchem",
+      "id": "Jur1Q0CHdIIy"
+    },
+    {
+      "name": "Bereldange",
+      "id": "mAZ9C6Ny0EoA"
+    },
+    {
+      "name": "Bergem",
+      "id": "DI6hORNZW50y"
+    },
+    {
+      "name": "Bertrange",
+      "id": "Sfm65rkwC6fP"
+    },
+    {
+      "name": "Bettembourg",
+      "id": "L03MIkWgZBku"
+    },
+    {
+      "name": "Betzdorf",
+      "id": "6wYwigo6zutO"
+    },
+    {
+      "name": "Bigonville",
+      "id": "OzV2KI2kH-Ga"
+    },
+    {
+      "name": "Bissen",
+      "id": "XIKsq0gr3GE0"
+    },
+    {
+      "name": "Bivange",
+      "id": "NfwJN9z3rSIs"
+    },
+    {
+      "name": "Bofferdange",
+      "id": "tNONP1040lkR"
+    },
+    {
+      "name": "Bonnevoie",
+      "id": "Cpat5DCulWgs"
+    },
+    {
+      "name": "Bourglinster",
+      "id": "jnZmercBmpu-"
+    },
+    {
+      "name": "Bridel",
+      "id": "LYMeLJIHQuo9"
+    },
+    {
+      "name": "Burmerange",
+      "id": "CNZmuAtiqy3s"
+    },
+    {
+      "name": "Canach",
+      "id": "_SD_JDnKKC9u"
+    },
+    {
+      "name": "Cap",
+      "id": "B-fJwsujwhdD"
+    },
+    {
+      "name": "Capellen",
+      "id": "HvfieAK9C8KU"
+    },
+    {
+      "name": "Colmar",
+      "id": "yxovK332YvvI"
+    },
+    {
+      "name": "Contern",
+      "id": "2cPByO1REs6U"
+    },
+    {
+      "name": "Crauthem",
+      "id": "2fv1CsdlZgrl"
+    },
+    {
+      "name": "Dalheim",
+      "id": "M390gvT6KSCw"
+    },
+    {
+      "name": "Differdange",
+      "id": "pakgr1BvW5TT"
+    },
+    {
+      "name": "Dippach",
+      "id": "0bNEvgtj1ACN"
+    },
+    {
+      "name": "Dudelange",
+      "id": "Qrmb25o2M8x0"
+    },
+    {
+      "name": "Echternach",
+      "id": "WSmKB_U4CXBm"
+    },
+    {
+      "name": "Ehnen",
+      "id": "IAlASTG9CFLy"
+    },
+    {
+      "name": "Ernster",
+      "id": "YWyqI56Ef_5f"
+    },
+    {
+      "name": "Erpeldange-lez-Bous",
+      "id": "blxx8Jd-2IBs"
+    },
+    {
+      "name": "Esch-sur-Alzette",
+      "id": "q--ZOCBJE2PP"
+    },
+    {
+      "name": "Esch-sur-Sure",
+      "id": "j7pc3l0NovII"
+    },
+    {
+      "name": "Ettelbruck",
+      "id": "OLIJPkmRLKJd"
+    },
+    {
+      "name": "Foetz",
+      "id": "5FkdczMbqPxA"
+    },
+    {
+      "name": "Frisange",
+      "id": "ovmf-sa9kwC0"
+    },
+    {
+      "name": "Godbrange",
+      "id": "oW1Oh64Q0Jur"
+    },
+    {
+      "name": "Goetzingen",
+      "id": "5cQxv_FOP-TR"
+    },
+    {
+      "name": "Gonderange",
+      "id": "3gea4yHKzTnX"
+    },
+    {
+      "name": "Gosseldange",
+      "id": "86WvtqoYCc5h"
+    },
+    {
+      "name": "Gostingen",
+      "id": "-8oaoeARDX7Y"
+    },
+    {
+      "name": "Grevenknapp",
+      "id": "YgVCbLXxIIyi"
+    },
+    {
+      "name": "Grevenmacher",
+      "id": "NvdoQG38uhBo"
+    },
+    {
+      "name": "Grosbous",
+      "id": "dU9cdzs11PjE"
+    },
+    {
+      "name": "Hagen",
+      "id": "AdGidi7WLRt-"
+    },
+    {
+      "name": "Hautcharage",
+      "id": "eoDWJ1b-Q9EQ"
+    },
+    {
+      "name": "Heffingen",
+      "id": "cLIslY6jZFQ6"
+    },
+    {
+      "name": "Heisdorf-sur-Alzette",
+      "id": "LT7wScZg3Ifz"
+    },
+    {
+      "name": "Helmdange",
+      "id": "fuxDfcSYMEdR"
+    },
+    {
+      "name": "Helmsange",
+      "id": "i978v71nW4B9"
+    },
+    {
+      "name": "Hersberg",
+      "id": "xG5b21X_QUaL"
+    },
+    {
+      "name": "Hesperange",
+      "id": "82o4wTn1erIY"
+    },
+    {
+      "name": "Hobscheid",
+      "id": "CHfculDwaVgb"
+    },
+    {
+      "name": "Hollerich",
+      "id": "-its50pK4aR4"
+    },
+    {
+      "name": "Holzem",
+      "id": "WbHyhrfQ3h55"
+    },
+    {
+      "name": "Huncherange",
+      "id": "9zIdoVPL7JfQ"
+    },
+    {
+      "name": "Hunsdorf",
+      "id": "YHq7Q_JXfSbs"
+    },
+    {
+      "name": "Itzig",
+      "id": "ZHhbxe-5jHrA"
+    },
+    {
+      "name": "Junglinster",
+      "id": "UdPNPxd6UAWP"
+    },
+    {
+      "name": "Kayl",
+      "id": "30PRDugxiBrk"
+    },
+    {
+      "name": "Kehlen",
+      "id": "X4kCcSl3VEPb"
+    },
+    {
+      "name": "Kleinbettingen",
+      "id": "d1FPBcqobNvT"
+    },
+    {
+      "name": "Koetschette",
+      "id": "1O5jWRKlXbxK"
+    },
+    {
+      "name": "Lamadelaine",
+      "id": "aKbQymEQtLqT"
+    },
+    {
+      "name": "Larochette",
+      "id": "t6NXcA1avcwg"
+    },
+    {
+      "name": "Leudelange",
+      "id": "XeMOnegSawu6"
+    },
+    {
+      "name": "Limpertsberg",
+      "id": "S_CZp0s0g2ki"
+    },
+    {
+      "name": "Lintgen",
+      "id": "PF1ly9MJUlyq"
+    },
+    {
+      "name": "Lorentzweiler",
+      "id": "vi26p42555y3"
+    },
+    {
+      "name": "Luxembourg",
+      "id": "qOEOxp0L7gAE"
+    },
+    {
+      "name": "Luxembourg-Kirchberg",
+      "id": "_mNBwgKgTVFK"
+    },
+    {
+      "name": "Mamer",
+      "id": "7E85h6mK4872"
+    },
+    {
+      "name": "Medernach",
+      "id": "5PlbJ-2aLgh1"
+    },
+    {
+      "name": "Merl",
+      "id": "hGKW4wlvvD5-"
+    },
+    {
+      "name": "Mersch",
+      "id": "TcZUugF2cWO5"
+    },
+    {
+      "name": "Mertert",
+      "id": "XjE1wwgP03ZV"
+    },
+    {
+      "name": "Mondercange",
+      "id": "qkmT-V8Zahxc"
+    },
+    {
+      "name": "Mondorf-les-Bains",
+      "id": "kzGHklhGLV_g"
+    },
+    {
+      "name": "Moutfort",
+      "id": "GilVv5PapesQ"
+    },
+    {
+      "name": "Niedercorn",
+      "id": "ruM8vS9BvSHe"
+    },
+    {
+      "name": "Noerdange",
+      "id": "-_a3ad-_JHIl"
+    },
+    {
+      "name": "Nospelt",
+      "id": "htlO27JglhIb"
+    },
+    {
+      "name": "Oberanven",
+      "id": "YVoaBqsyxRpG"
+    },
+    {
+      "name": "Oetrange",
+      "id": "yRDXoKZ2brxv"
+    },
+    {
+      "name": "Olm",
+      "id": "MQ0fvggRcicU"
+    },
+    {
+      "name": "Pontpierre",
+      "id": "ddB8GPJ-tviQ"
+    },
+    {
+      "name": "Remerschen",
+      "id": "XMubFiQ27Ku3"
+    },
+    {
+      "name": "Remich",
+      "id": "zQRpp8vD4dpk"
+    },
+    {
+      "name": "Rodange",
+      "id": "yftS3c5c_u-s"
+    },
+    {
+      "name": "Roeser",
+      "id": "X0nFhPbK4X2t"
+    },
+    {
+      "name": "Roodt-sur-Syre",
+      "id": "BvIlpNT7SpRH"
+    },
+    {
+      "name": "Rumelange",
+      "id": "PjSX1Osqp0eT"
+    },
+    {
+      "name": "Sandweiler",
+      "id": "kABUgC_HOSiY"
+    },
+    {
+      "name": "Sanem",
+      "id": "ibrYBDCHxjTl"
+    },
+    {
+      "name": "Schieren",
+      "id": "qoBZomeEsrAE"
+    },
+    {
+      "name": "Schifflange",
+      "id": "QnR5a70Z7z-H"
+    },
+    {
+      "name": "Schoos",
+      "id": "9u3JM6aZAu7S"
+    },
+    {
+      "name": "Schouweiler",
+      "id": "bmvg6x07sIOj"
+    },
+    {
+      "name": "Schuttrange",
+      "id": "lI8UiNNakS_B"
+    },
+    {
+      "name": "Soleuvre",
+      "id": "l61_YE7LfY4D"
+    },
+    {
+      "name": "Steinfort",
+      "id": "CwhpvEZDrX0m"
+    },
+    {
+      "name": "Steinsel",
+      "id": "80hWwY3KE_Ca"
+    },
+    {
+      "name": "Strassen",
+      "id": "SuaNh6EUPR-P"
+    },
+    {
+      "name": "Syren",
+      "id": "N8AZYWoQx3Jk"
+    },
+    {
+      "name": "Tetange",
+      "id": "KnyrJTXhpJa4"
+    },
+    {
+      "name": "Tuntange",
+      "id": "Fhorg7oSJ3w1"
+    },
+    {
+      "name": "Uebersyren",
+      "id": "si3MSqeaVmOR"
+    },
+    {
+      "name": "Walferdange",
+      "id": "UE84CHhN6bYI"
+    },
+    {
+      "name": "Wasserbillig",
+      "id": "acjEf3zQKg6g"
+    },
+    {
+      "name": "Wolpert",
+      "id": "uGV5p4dcw_PR"
+    },
+    {
+      "name": "Wormeldange",
+      "id": "pcodqRhOOBqj"
+    }
   ]
 }

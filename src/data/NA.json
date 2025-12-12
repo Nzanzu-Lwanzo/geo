@@ -1,15 +1,69 @@
 {
   "coid": "NA",
   "cities": [
-    { "name": "Windhoek", "id": "e93d2b4e5f66" },
-    { "name": "Rundu", "id": "f04e3c5f6a77" },
-    { "name": "Walvis Bay", "id": "a15f4d6a7b88" },
-    { "name": "Swakopmund", "id": "b26a5e7b8c99" },
-    { "name": "Oshakati", "id": "c37b6f8c9d10" },
-    { "name": "Rehoboth", "id": "d48c7a9d0e21" },
-    { "name": "Katima Mulilo", "id": "e59d8b1e2f33" },
-    { "name": "Grootfontein", "id": "f60e9c2f3a44" },
-    { "name": "Otjiwarongo", "id": "a71f0d3a4b55" },
-    { "name": "Tsumeb", "id": "b82a1e4b5c66" }
+    {
+      "name": "Etunda",
+      "id": "qOvMLi2x2W_r"
+    },
+    {
+      "name": "Grootfontein",
+      "id": "tifDORCCJ6uF"
+    },
+    {
+      "name": "Katima Mulilo",
+      "id": "hH8CzPNCAOV_"
+    },
+    {
+      "name": "Keetmanshoop",
+      "id": "cpoIT2_ZGz69"
+    },
+    {
+      "name": "Mpapuka",
+      "id": "1pT0GYzWPDTE"
+    },
+    {
+      "name": "Olympia",
+      "id": "LaIph_8bQTBI"
+    },
+    {
+      "name": "Ondangwa",
+      "id": "fVlNgY0ifB-v"
+    },
+    {
+      "name": "Ongwediva",
+      "id": "zYAbJkQXM7B8"
+    },
+    {
+      "name": "Oranjemund",
+      "id": "AEkcWhFBjtqD"
+    },
+    {
+      "name": "Oshakati",
+      "id": "Cw_z7GBqQE9-"
+    },
+    {
+      "name": "Otjiwarongo",
+      "id": "2gsEY2bltHOk"
+    },
+    {
+      "name": "Outapi",
+      "id": "2Kxp_wNInCXG"
+    },
+    {
+      "name": "Swakopmund",
+      "id": "PwKDrUA76c-R"
+    },
+    {
+      "name": "Tsumeb",
+      "id": "lx2cVoF0OIaO"
+    },
+    {
+      "name": "Walvis Bay",
+      "id": "-FUv7wfUEk5j"
+    },
+    {
+      "name": "Windhoek",
+      "id": "GNhnimCVT9Ot"
+    }
   ]
 }

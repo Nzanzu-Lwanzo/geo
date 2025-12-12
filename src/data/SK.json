@@ -1,15 +1,925 @@
 {
   "coid": "SK",
   "cities": [
-    { "name": "Bratislava", "id": "a3r5t7v9x1z2" },
-    { "name": "Košice", "id": "b4s6u8w0y2a3" },
-    { "name": "Prešov", "id": "c5t7v9x1z3b4" },
-    { "name": "Žilina", "id": "d6u8w0y2a4c5" },
-    { "name": "Nitra", "id": "e7v9x1z3b5d6" },
-    { "name": "Banská Bystrica", "id": "f8w0y2a4c6e7" },
-    { "name": "Trnava", "id": "a9x1z3b5d7f8" },
-    { "name": "Martin", "id": "b0y2a4c6e8g9" },
-    { "name": "Poprad", "id": "c1z3b5d7f9h0" },
-    { "name": "Prievidza", "id": "d2a4c6e8g0i1" }
+    {
+      "name": "Bahon",
+      "id": "q8xQxsIyfLIn"
+    },
+    {
+      "name": "Baka",
+      "id": "MjtkmvCu6SOf"
+    },
+    {
+      "name": "Banovce nad Bebravou",
+      "id": "Pk7xZXhVB5IY"
+    },
+    {
+      "name": "Bardejov",
+      "id": "Vi8NwzjPbrN-"
+    },
+    {
+      "name": "Bela",
+      "id": "s2ZmN4st5k_c"
+    },
+    {
+      "name": "Beladice",
+      "id": "HAbwzktr24_0"
+    },
+    {
+      "name": "Bernolakovo",
+      "id": "bukDgM4fsyu-"
+    },
+    {
+      "name": "Besenov",
+      "id": "MRix1rGM1nCz"
+    },
+    {
+      "name": "Blatnica",
+      "id": "pzRWr-XSC7yl"
+    },
+    {
+      "name": "Bobrov",
+      "id": "sB_HYS0hLEAF"
+    },
+    {
+      "name": "Bohdanovce",
+      "id": "mXo3hgqvjzOQ"
+    },
+    {
+      "name": "Boleraz",
+      "id": "HBFcHiqC1g9I"
+    },
+    {
+      "name": "Borovce",
+      "id": "h4Evg0ZDU50L"
+    },
+    {
+      "name": "Branc",
+      "id": "fFUVX2PmnjRm"
+    },
+    {
+      "name": "Bratislava",
+      "id": "HY9QCdZQ7DhF"
+    },
+    {
+      "name": "Brezno",
+      "id": "aIirSYX6a0Wg"
+    },
+    {
+      "name": "Brezova pod Bradlom",
+      "id": "P-608QehdCod"
+    },
+    {
+      "name": "Bystricka",
+      "id": "G24ZsB6BBJEJ"
+    },
+    {
+      "name": "Cecejovce",
+      "id": "yRjtRwOcGgww"
+    },
+    {
+      "name": "Cechynce",
+      "id": "JyWo56xyhHrM"
+    },
+    {
+      "name": "Cerova",
+      "id": "GCQhE-9j0FVX"
+    },
+    {
+      "name": "Cerveny Hradok",
+      "id": "SIyGPrcbJPXo"
+    },
+    {
+      "name": "Cerveny Kamen",
+      "id": "_nsp4FGWFQQQ"
+    },
+    {
+      "name": "Chlebnice",
+      "id": "eI1LjDy00M-U"
+    },
+    {
+      "name": "Chorvatsky Grob",
+      "id": "NhoQW1FmMEkv"
+    },
+    {
+      "name": "Chtelnica",
+      "id": "N5WLb-YFgzoE"
+    },
+    {
+      "name": "Cifer",
+      "id": "X7imBXVZvt2R"
+    },
+    {
+      "name": "Detva",
+      "id": "gTsrwsHgB7Im"
+    },
+    {
+      "name": "Diakovce",
+      "id": "ZmbihhesBNVh"
+    },
+    {
+      "name": "Diviaky nad Nitricou",
+      "id": "x2-CNoiEYsBa"
+    },
+    {
+      "name": "Dlha nad Oravou",
+      "id": "ySNFy8Cq98GI"
+    },
+    {
+      "name": "Dlhe Klcovo",
+      "id": "9uDTYNL9W48X"
+    },
+    {
+      "name": "Dlhe nad Cirochou",
+      "id": "NUY-3DGlqnl0"
+    },
+    {
+      "name": "Dolna Marikova",
+      "id": "_1pffckPfvPU"
+    },
+    {
+      "name": "Dolna Streda",
+      "id": "6NUYYU9CP0Ip"
+    },
+    {
+      "name": "Dolne Oresany",
+      "id": "j3xmFI3GHeED"
+    },
+    {
+      "name": "Dolne Vestenice",
+      "id": "IesvkaBGL74K"
+    },
+    {
+      "name": "Dolny Hricov",
+      "id": "v5O62cOCIoA3"
+    },
+    {
+      "name": "Dolny Stal",
+      "id": "8vsTqWUqn-Ul"
+    },
+    {
+      "name": "Druzstevna pri Hornade",
+      "id": "sBS0LuXpFE4M"
+    },
+    {
+      "name": "Eliasovce",
+      "id": "CON4SflfqXjC"
+    },
+    {
+      "name": "Fintice",
+      "id": "BWTGRVWMcgkK"
+    },
+    {
+      "name": "Galanta",
+      "id": "sUfx8zoQBHEu"
+    },
+    {
+      "name": "Gbely",
+      "id": "K_Fn-UymD042"
+    },
+    {
+      "name": "Gelnica",
+      "id": "11d-YYiRGEDy"
+    },
+    {
+      "name": "Giraltovce",
+      "id": "UOcLtkQMOiC4"
+    },
+    {
+      "name": "Golianovo",
+      "id": "AA3-IUkThkU7"
+    },
+    {
+      "name": "Handlova",
+      "id": "Yx3sWAZY973a"
+    },
+    {
+      "name": "Hencovce",
+      "id": "P5pHi-hXJGaP"
+    },
+    {
+      "name": "Hlinik",
+      "id": "lXvIj2NlNMEQ"
+    },
+    {
+      "name": "Hlinik nad Hronom",
+      "id": "eM0Lhgj-YnHr"
+    },
+    {
+      "name": "Hlohovec",
+      "id": "eh8-BCg3hT9n"
+    },
+    {
+      "name": "Holic",
+      "id": "MEHDb1jzlLv6"
+    },
+    {
+      "name": "Holice",
+      "id": "uFyYFBO3gk2C"
+    },
+    {
+      "name": "Horna Lehota",
+      "id": "BnUcYc3DD6VN"
+    },
+    {
+      "name": "Horna Stubna",
+      "id": "3UyljSfbW6rC"
+    },
+    {
+      "name": "Horne Oresany",
+      "id": "5AAelh48vbBJ"
+    },
+    {
+      "name": "Horne Saliby",
+      "id": "M1dopLOafHGI"
+    },
+    {
+      "name": "Horny Smokovec",
+      "id": "JcCIBC7HCCky"
+    },
+    {
+      "name": "Hradiste",
+      "id": "Whsk_GS5rHe6"
+    },
+    {
+      "name": "Hrinova",
+      "id": "-YqOxhnAjXxs"
+    },
+    {
+      "name": "Hrochot,Slovakia",
+      "id": "kiDotSfJ1a0q"
+    },
+    {
+      "name": "Hruby Sur",
+      "id": "Pq4BQLUKsv-G"
+    },
+    {
+      "name": "Ilava",
+      "id": "FRFZMDyYZYbk"
+    },
+    {
+      "name": "Istebne",
+      "id": "0okN4CYsc_cC"
+    },
+    {
+      "name": "Ivanka pri Dunaji",
+      "id": "nAliicYYDSbm"
+    },
+    {
+      "name": "Jablonove",
+      "id": "tz6ngIR05sAX"
+    },
+    {
+      "name": "Jacovce",
+      "id": "5DZxVwCQ3oKf"
+    },
+    {
+      "name": "Jasenica",
+      "id": "cOywRv0lfZFb"
+    },
+    {
+      "name": "Jaslovske Bohunice",
+      "id": "73ICl9i7V06I"
+    },
+    {
+      "name": "Jelenec",
+      "id": "B1qUEirbxdbe"
+    },
+    {
+      "name": "Jelka",
+      "id": "yfG0daBr2p5R"
+    },
+    {
+      "name": "Kajal",
+      "id": "BfnYDfPq5FXA"
+    },
+    {
+      "name": "Kanianka",
+      "id": "CZiW53Ri9qPO"
+    },
+    {
+      "name": "Klatova Nova Ves",
+      "id": "jzCZmuUbTvJO"
+    },
+    {
+      "name": "Klokoc",
+      "id": "hc6Aw2wx33tx"
+    },
+    {
+      "name": "Klokocov",
+      "id": "UeG-ZtMAU66G"
+    },
+    {
+      "name": "Kolarovo",
+      "id": "TCetoE3P2Zxb"
+    },
+    {
+      "name": "Komjatice",
+      "id": "RF0GDLe58U6R"
+    },
+    {
+      "name": "Kopcany",
+      "id": "BjxvF4jZF7_I"
+    },
+    {
+      "name": "Kosicka Nova Ves",
+      "id": "GD_JRpvud5qO"
+    },
+    {
+      "name": "Kremnica",
+      "id": "ACnIVCzHkOf0"
+    },
+    {
+      "name": "Krizovany nad Dudvahom",
+      "id": "o022JiBfydCd"
+    },
+    {
+      "name": "Krompachy",
+      "id": "jXhIIfrtn9fe"
+    },
+    {
+      "name": "Krupina",
+      "id": "NEEIhAb8syqp"
+    },
+    {
+      "name": "Krusovce",
+      "id": "Wsvt5JlrBy3U"
+    },
+    {
+      "name": "Kukova",
+      "id": "44X19_h8FyBU"
+    },
+    {
+      "name": "Kvetoslavov",
+      "id": "0uZ9xtzp60dz"
+    },
+    {
+      "name": "Kysucky Lieskovec",
+      "id": "HrMbHkEincKr"
+    },
+    {
+      "name": "Ladce",
+      "id": "yzKfVa7A6PDf"
+    },
+    {
+      "name": "Lednicke Rovne",
+      "id": "qvhugiJQcg0H"
+    },
+    {
+      "name": "Lehota",
+      "id": "drN7Ui1Rl6E8"
+    },
+    {
+      "name": "Lemesany",
+      "id": "QmF4hiVmN9cj"
+    },
+    {
+      "name": "Levice",
+      "id": "tY0P3-k_DsvG"
+    },
+    {
+      "name": "Likavka",
+      "id": "jkzfFYYblSso"
+    },
+    {
+      "name": "Liptovske Revuce",
+      "id": "_mMpIThMLBWc"
+    },
+    {
+      "name": "Liptovsky Hradok",
+      "id": "QrDYFx98HYpN"
+    },
+    {
+      "name": "Lozorno",
+      "id": "ZvvZwBTPd786"
+    },
+    {
+      "name": "Lubina",
+      "id": "c6UfuXskmt0m"
+    },
+    {
+      "name": "Ludanice",
+      "id": "Xs0K8OlJv77A"
+    },
+    {
+      "name": "Lukacovce",
+      "id": "fyhoV-kGEMIl"
+    },
+    {
+      "name": "Madunice",
+      "id": "i9Gvb2vtcfRy"
+    },
+    {
+      "name": "Malacky",
+      "id": "7kz96IxGULsH"
+    },
+    {
+      "name": "Maly Lapas",
+      "id": "h_xtHdBRVg1r"
+    },
+    {
+      "name": "Marianka",
+      "id": "JOuj3TdnaXDj"
+    },
+    {
+      "name": "Martin",
+      "id": "WlROpDGKnYGG"
+    },
+    {
+      "name": "Mesto",
+      "id": "9ndWbCFUJ88V"
+    },
+    {
+      "name": "Michalovce",
+      "id": "8KfMnr7S8zOL"
+    },
+    {
+      "name": "Miloslavov",
+      "id": "G4DhIJylXxl9"
+    },
+    {
+      "name": "Mojmirovce",
+      "id": "7tm2YumUZdEI"
+    },
+    {
+      "name": "Moldava nad Bodvou",
+      "id": "9tM18yJs07NL"
+    },
+    {
+      "name": "Moravany nad Vahom",
+      "id": "oppMtrchWX6a"
+    },
+    {
+      "name": "Mutne",
+      "id": "3OpVRo4hkg8s"
+    },
+    {
+      "name": "Myjava",
+      "id": "HmtMI8UezDRm"
+    },
+    {
+      "name": "Nana",
+      "id": "c1pxK9Seqv5u"
+    },
+    {
+      "name": "Nededza",
+      "id": "D96M2MZUbH0P"
+    },
+    {
+      "name": "Nitra",
+      "id": "GsCkiHzgH5Dp"
+    },
+    {
+      "name": "Nitrianske Rudno",
+      "id": "lXohPloLmByR"
+    },
+    {
+      "name": "Nitrianske Sucany",
+      "id": "UUEbKiRgdNST"
+    },
+    {
+      "name": "Nizna",
+      "id": "4idC25TK_SpO"
+    },
+    {
+      "name": "Nizna Kamenica",
+      "id": "qmeJbl8NrRWT"
+    },
+    {
+      "name": "Nova Bana",
+      "id": "37S3sVERFWab"
+    },
+    {
+      "name": "Novaky",
+      "id": "SuSAi4bmV2_K"
+    },
+    {
+      "name": "Nove Sady",
+      "id": "YBiv6QIY8w72"
+    },
+    {
+      "name": "Novy Salas",
+      "id": "XucYlszxynP0"
+    },
+    {
+      "name": "Nyrovce",
+      "id": "-ZhE99YXZ_cv"
+    },
+    {
+      "name": "Okoc",
+      "id": "ZNywb5QSJxCH"
+    },
+    {
+      "name": "Olesna",
+      "id": "-iTC-VhOf0_3"
+    },
+    {
+      "name": "Opatovce nad Nitrou",
+      "id": "Efv1hRpkunFQ"
+    },
+    {
+      "name": "Opoj",
+      "id": "FmTz3Ftp5lDu"
+    },
+    {
+      "name": "Oravske Vesele",
+      "id": "OIPyWORZS5vv"
+    },
+    {
+      "name": "Pastuchov",
+      "id": "ZV-4s3-lcaQO"
+    },
+    {
+      "name": "Pata",
+      "id": "wezAlLsmYnFC"
+    },
+    {
+      "name": "Pernek",
+      "id": "7A5OhNS8fv37"
+    },
+    {
+      "name": "Pezinok",
+      "id": "nmwJbEEkzB4y"
+    },
+    {
+      "name": "Plave Vozokany",
+      "id": "L0JxEdhXB_-q"
+    },
+    {
+      "name": "Plavecke Podhradie",
+      "id": "QXD5R3I06jjO"
+    },
+    {
+      "name": "Pliesovce",
+      "id": "Llzso4_AjLHN"
+    },
+    {
+      "name": "Pobedim",
+      "id": "brTcFDwa1Bxs"
+    },
+    {
+      "name": "Podbrezova",
+      "id": "jXEuWsuUYbL7"
+    },
+    {
+      "name": "Podolie",
+      "id": "COW-c_d2oe3e"
+    },
+    {
+      "name": "Polomka",
+      "id": "BotB1PO0R8a8"
+    },
+    {
+      "name": "Poprad",
+      "id": "syzHnSXUvAbW"
+    },
+    {
+      "name": "Potvorice",
+      "id": "Kh7P87hK8Fdh"
+    },
+    {
+      "name": "Praha",
+      "id": "PiG8agCVbuhA"
+    },
+    {
+      "name": "Prakovce",
+      "id": "LdSJ5yHE1Cdw"
+    },
+    {
+      "name": "Praznovce",
+      "id": "JiU2xbOOiNQX"
+    },
+    {
+      "name": "Prievidza",
+      "id": "NqCaZ42lT2YU"
+    },
+    {
+      "name": "Proc",
+      "id": "hJhAHpgsFPHB"
+    },
+    {
+      "name": "Reca",
+      "id": "tXX4_na6mdHI"
+    },
+    {
+      "name": "Rosina",
+      "id": "XKph9YTTAeAl"
+    },
+    {
+      "name": "Rovinka",
+      "id": "Mhkp8RtU8r6p"
+    },
+    {
+      "name": "Ruzindol",
+      "id": "Ht9A1UyIAr5q"
+    },
+    {
+      "name": "Sabinov",
+      "id": "ak9BoBwFM5rJ"
+    },
+    {
+      "name": "Samorin",
+      "id": "v1Hpf--Iv0zB"
+    },
+    {
+      "name": "Sarisske Bohdanovce",
+      "id": "qpuNgp3olheZ"
+    },
+    {
+      "name": "Secovce",
+      "id": "pIlodcdfiUtk"
+    },
+    {
+      "name": "Secovska Polianka",
+      "id": "7xLpUWPOxgDS"
+    },
+    {
+      "name": "Selice",
+      "id": "DhDWU3N48jkL"
+    },
+    {
+      "name": "Selpice",
+      "id": "iQ9AStWFOHdW"
+    },
+    {
+      "name": "Sena",
+      "id": "Vs2fG15r_c7Y"
+    },
+    {
+      "name": "Senec",
+      "id": "bJ2zldPYpWdZ"
+    },
+    {
+      "name": "Senica",
+      "id": "mBLl4n0R2LGw"
+    },
+    {
+      "name": "Sipkove",
+      "id": "1V2RCS684Xit"
+    },
+    {
+      "name": "Skalica",
+      "id": "z_BwxepxmTbh"
+    },
+    {
+      "name": "Sladkovicovo",
+      "id": "Q5IHMQlhnYoP"
+    },
+    {
+      "name": "Slovenska Ves",
+      "id": "aulFgsY0sjEs"
+    },
+    {
+      "name": "Slovensky Grob",
+      "id": "LQ9Ox58LX5PE"
+    },
+    {
+      "name": "Smizany",
+      "id": "6fcO9Fkvh9wP"
+    },
+    {
+      "name": "Snina",
+      "id": "NOlnYJuxludt"
+    },
+    {
+      "name": "Sobrance",
+      "id": "_kYaZkerSCjG"
+    },
+    {
+      "name": "Solosnica",
+      "id": "3nqTnB-dAdUt"
+    },
+    {
+      "name": "Spacince",
+      "id": "_acrPwZJ5Aop"
+    },
+    {
+      "name": "Spissky Hrusov",
+      "id": "XGbjE6odffDw"
+    },
+    {
+      "name": "Spissky Stiavnik",
+      "id": "-TlSBlu5MlC3"
+    },
+    {
+      "name": "Spissky Stvrtok",
+      "id": "4RNAwK3V2Syh"
+    },
+    {
+      "name": "Stara Lesna",
+      "id": "73A_q16m8ux1"
+    },
+    {
+      "name": "Stara Tura",
+      "id": "-1qZhlJXr8IH"
+    },
+    {
+      "name": "Stary Smokovec",
+      "id": "vXoploBeW8H6"
+    },
+    {
+      "name": "Staskov",
+      "id": "ywVWjSzEAKtZ"
+    },
+    {
+      "name": "Stefanov",
+      "id": "OxIAcvKq4AvO"
+    },
+    {
+      "name": "Stropkov",
+      "id": "DIbO9R5n-v6K"
+    },
+    {
+      "name": "Studienka",
+      "id": "dCPYGco2QdpL"
+    },
+    {
+      "name": "Stupava",
+      "id": "LL1ZHQQrBYyp"
+    },
+    {
+      "name": "Sucany",
+      "id": "nCpxFvewjRmR"
+    },
+    {
+      "name": "Sucha nad Parnou",
+      "id": "oL5jrkEE7Xtq"
+    },
+    {
+      "name": "Svaty Kriz",
+      "id": "pKgIUmN8sYIC"
+    },
+    {
+      "name": "Svaty Peter",
+      "id": "QetSZ3Iyx-av"
+    },
+    {
+      "name": "Svit",
+      "id": "l0CzlVyMyXnd"
+    },
+    {
+      "name": "Svodin",
+      "id": "FNrdpmfWxgiJ"
+    },
+    {
+      "name": "Tajov",
+      "id": "sv4XFST2bdbk"
+    },
+    {
+      "name": "Terchova",
+      "id": "Q86CDWRp83YY"
+    },
+    {
+      "name": "Tesedikovo",
+      "id": "SD8yL_3IhXzK"
+    },
+    {
+      "name": "Tlmace",
+      "id": "GK5d_bUFnUul"
+    },
+    {
+      "name": "Tomasov",
+      "id": "rxcrzvJgbedc"
+    },
+    {
+      "name": "Torysky",
+      "id": "SnKcqUaKTRyN"
+    },
+    {
+      "name": "Trnava",
+      "id": "OSKHxNDlzvzc"
+    },
+    {
+      "name": "Trnovec nad Vahom",
+      "id": "4Tjfxj5JbIAV"
+    },
+    {
+      "name": "Trstena",
+      "id": "wdRz41UUCvoC"
+    },
+    {
+      "name": "Turany",
+      "id": "BQIhSH_PMQqq"
+    },
+    {
+      "name": "Tvrdosin",
+      "id": "FcPohSpSG-J7"
+    },
+    {
+      "name": "Tvrdosovce",
+      "id": "LmvDMqxFm4vv"
+    },
+    {
+      "name": "Udavske",
+      "id": "UkXYbx9T3Wdm"
+    },
+    {
+      "name": "Urmince",
+      "id": "bcnd6Gy0dWT4"
+    },
+    {
+      "name": "Vahovce",
+      "id": "gFg4btX-xTV9"
+    },
+    {
+      "name": "Varhanovce",
+      "id": "1GAUMTAju89S"
+    },
+    {
+      "name": "Varin",
+      "id": "ibFCI7fWXGcx"
+    },
+    {
+      "name": "Vecelkov",
+      "id": "UvQiZVJLavAi"
+    },
+    {
+      "name": "Velcice",
+      "id": "Rgz7NCtZ_Ehe"
+    },
+    {
+      "name": "Velicna",
+      "id": "Zb0p80vDxDBl"
+    },
+    {
+      "name": "Velky Meder",
+      "id": "Y1X1BPZh-JR9"
+    },
+    {
+      "name": "Vinne",
+      "id": "B1Fl7OWdfzkA"
+    },
+    {
+      "name": "Vitanova",
+      "id": "XMRR8nUGw0UC"
+    },
+    {
+      "name": "Vlckovce",
+      "id": "LWhv3m2Xv1iD"
+    },
+    {
+      "name": "Vlkanova",
+      "id": "O6dw9dTJGQjU"
+    },
+    {
+      "name": "Vojcice",
+      "id": "SKBl95C0Abcz"
+    },
+    {
+      "name": "Vrable",
+      "id": "3JV4MuOFt8PK"
+    },
+    {
+      "name": "Vrutky",
+      "id": "BhTlB_EOSWUY"
+    },
+    {
+      "name": "Vysne Raslavice",
+      "id": "qXwVtffOiQJr"
+    },
+    {
+      "name": "Vysny Orlik",
+      "id": "GoiTacyyVYEI"
+    },
+    {
+      "name": "Zakamenne",
+      "id": "6NKjBEylD-yZ"
+    },
+    {
+      "name": "Zavod",
+      "id": "tf0JJTm_OQw1"
+    },
+    {
+      "name": "Zbince",
+      "id": "Z0ATjUv_7y24"
+    },
+    {
+      "name": "Zelenec",
+      "id": "uB7Ftz1db99e"
+    },
+    {
+      "name": "Zeliezovce",
+      "id": "z6qfsLqG1pAg"
+    },
+    {
+      "name": "Ziar nad Hronom",
+      "id": "Y9HlTBHz7W7J"
+    },
+    {
+      "name": "Zikava",
+      "id": "gJ8vfpv1NP3_"
+    },
+    {
+      "name": "Zlate",
+      "id": "r9mgUre56qEb"
+    },
+    {
+      "name": "Zuberec",
+      "id": "Tda-iF6eAyJp"
+    },
+    {
+      "name": "Zvolen",
+      "id": "EaT59LMZ6daR"
+    }
   ]
 }

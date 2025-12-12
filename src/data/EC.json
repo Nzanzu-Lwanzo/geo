@@ -1,15 +1,281 @@
 {
   "coid": "EC",
   "cities": [
-    { "name": "Quito", "id": "a93f2d5a6b87" },
-    { "name": "Guayaquil", "id": "b04a3e6b7c98" },
-    { "name": "Cuenca", "id": "c15b4f7c8d09" },
-    { "name": "Santo Domingo", "id": "d26c5a8d9e10" },
-    { "name": "Machala", "id": "e37d6b9e0f21" },
-    { "name": "Manta", "id": "f48e7c0f1a32" },
-    { "name": "Portoviejo", "id": "a59f8d1a2b43" },
-    { "name": "Loja", "id": "b60a9e2b3c54" },
-    { "name": "Ambato", "id": "c71b0f3c4d65" },
-    { "name": "Esmeraldas", "id": "d82c1a4d5e76" }
+    {
+      "name": "Ambato",
+      "id": "EP9aQub3buKh"
+    },
+    {
+      "name": "Atacames",
+      "id": "Nm69z9UwVjzz"
+    },
+    {
+      "name": "Atuntaqui",
+      "id": "4NGwO9opKaEu"
+    },
+    {
+      "name": "Bahia de Caraquez",
+      "id": "5V8QJHgLDpSg"
+    },
+    {
+      "name": "Banos",
+      "id": "yqoKFXO3klZJ"
+    },
+    {
+      "name": "Calderon",
+      "id": "SB0Hna_7QDPn"
+    },
+    {
+      "name": "Cayambe",
+      "id": "vErU80rpNEu0"
+    },
+    {
+      "name": "Cuenca",
+      "id": "5PvvCOF6gc9x"
+    },
+    {
+      "name": "Daule",
+      "id": "8onliMgCDO5g"
+    },
+    {
+      "name": "El Carmen",
+      "id": "pjsH9WZYfbSR"
+    },
+    {
+      "name": "El Naranjal",
+      "id": "oClLBQhGdM69"
+    },
+    {
+      "name": "Esmeraldas",
+      "id": "qbjtTA9TlwSX"
+    },
+    {
+      "name": "Florida",
+      "id": "0_EhY98gWmFK"
+    },
+    {
+      "name": "General Leonidas Plaza Gutierrez",
+      "id": "cAjkeqcwJhKL"
+    },
+    {
+      "name": "Guabo",
+      "id": "3z785D4u9p48"
+    },
+    {
+      "name": "Gualaceo",
+      "id": "zk_4GL3XFpbI"
+    },
+    {
+      "name": "Guamote",
+      "id": "y78NOxchm8jJ"
+    },
+    {
+      "name": "Guayaquil",
+      "id": "T_2YBczOrmk4"
+    },
+    {
+      "name": "Guayas",
+      "id": "0N68rV3zziOd"
+    },
+    {
+      "name": "Guayllabamba",
+      "id": "M9vMUbQO0vBE"
+    },
+    {
+      "name": "Hacienda Bolivia",
+      "id": "IPDcMWyjtLmt"
+    },
+    {
+      "name": "Hacienda Duran",
+      "id": "tojM9k02w36f"
+    },
+    {
+      "name": "Hacienda Ibarra",
+      "id": "rKGnw8GpzG5B"
+    },
+    {
+      "name": "Hacienda Santa Catalina",
+      "id": "prO5adfmjGha"
+    },
+    {
+      "name": "Huaquillas",
+      "id": "gNb3ftQOYmFq"
+    },
+    {
+      "name": "Ibarra",
+      "id": "IyaEgx8HlKCG"
+    },
+    {
+      "name": "Jipijapa",
+      "id": "phtDXVUFuAgH"
+    },
+    {
+      "name": "La Esperanza",
+      "id": "dtrmrA4gHQFX"
+    },
+    {
+      "name": "La Libertad",
+      "id": "McqMfhHd0n-1"
+    },
+    {
+      "name": "La Troncal",
+      "id": "YYEVLkYH6VFR"
+    },
+    {
+      "name": "Latacunga",
+      "id": "jDd1YFRUYK7B"
+    },
+    {
+      "name": "Loja",
+      "id": "ufGY382-6h4h"
+    },
+    {
+      "name": "Loreto",
+      "id": "5DD1KqY6LOqV"
+    },
+    {
+      "name": "Macara",
+      "id": "E5Ew2N7hBDpE"
+    },
+    {
+      "name": "Macas",
+      "id": "_RddBh-QRQV2"
+    },
+    {
+      "name": "Machachi",
+      "id": "FKsbT2_MY_1A"
+    },
+    {
+      "name": "Machala",
+      "id": "-5cGF7mnY-3y"
+    },
+    {
+      "name": "Manta",
+      "id": "ZGJOmhsYxOqy"
+    },
+    {
+      "name": "Milagro",
+      "id": "gS_Dkb7OsGNk"
+    },
+    {
+      "name": "Montecristi",
+      "id": "nJcWy0P3MMTC"
+    },
+    {
+      "name": "Nabon",
+      "id": "jDWPBXv4566S"
+    },
+    {
+      "name": "Olmedo",
+      "id": "TWSI-3sd6SGc"
+    },
+    {
+      "name": "Otavalo",
+      "id": "yVQRmRugWxcs"
+    },
+    {
+      "name": "Paccha",
+      "id": "1NjJPAlM_du9"
+    },
+    {
+      "name": "Pasaje",
+      "id": "0Iyx_wY7AMEJ"
+    },
+    {
+      "name": "Pelileo",
+      "id": "HWJ9VxTL7OVF"
+    },
+    {
+      "name": "Pichincha",
+      "id": "RDndgRNfOTIr"
+    },
+    {
+      "name": "Playas",
+      "id": "3Is7wsw6eiy9"
+    },
+    {
+      "name": "Portoviejo",
+      "id": "OK4-boOO8O_Z"
+    },
+    {
+      "name": "Puerto Francisco de Orellana",
+      "id": "nfVXN-XBZoaI"
+    },
+    {
+      "name": "Puyo",
+      "id": "UrxcgkFbPbah"
+    },
+    {
+      "name": "Quevedo",
+      "id": "xfmDYPv4XWHT"
+    },
+    {
+      "name": "Quito",
+      "id": "N26d1L6_SKs9"
+    },
+    {
+      "name": "Riobamba",
+      "id": "jsJARLs1p-j-"
+    },
+    {
+      "name": "Salinas",
+      "id": "XvGVqkpTnQKF"
+    },
+    {
+      "name": "Samborondon",
+      "id": "Ldin2RQzyQcu"
+    },
+    {
+      "name": "San Miguel",
+      "id": "smKQg4yYqWbS"
+    },
+    {
+      "name": "San Rafael",
+      "id": "0-H7i-DDFUER"
+    },
+    {
+      "name": "Santa Cruz",
+      "id": "GiO9-oVHurGG"
+    },
+    {
+      "name": "Santa Elena",
+      "id": "uray7ZbWpwjs"
+    },
+    {
+      "name": "Santo Domingo de los Colorados",
+      "id": "j2EuDEstCgj5"
+    },
+    {
+      "name": "Sucre",
+      "id": "HHxRAkn1PHIu"
+    },
+    {
+      "name": "Tababela",
+      "id": "Ceq8OQQgL1an"
+    },
+    {
+      "name": "Tarapoa",
+      "id": "WF4FOircTQkS"
+    },
+    {
+      "name": "Tena",
+      "id": "V-KIRHQX00KZ"
+    },
+    {
+      "name": "Vinces",
+      "id": "f09S1B2I1lJe"
+    },
+    {
+      "name": "Zamora",
+      "id": "USjNb1orPRIq"
+    },
+    {
+      "name": "Zaruma",
+      "id": "Ao8SFvmmp0W-"
+    },
+    {
+      "name": "Zumba",
+      "id": "55RcjfgWQocO"
+    }
   ]
 }

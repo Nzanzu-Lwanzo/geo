@@ -1,15 +1,489 @@
 {
   "coid": "CL",
   "cities": [
-    { "name": "Santiago", "id": "a93f2d5a6b87" },
-    { "name": "Valparaíso", "id": "b04a3e6b7c98" },
-    { "name": "Concepción", "id": "c15b4f7c8d09" },
-    { "name": "La Serena", "id": "d26c5a8d9e10" },
-    { "name": "Antofagasta", "id": "e37d6b9e0f21" },
-    { "name": "Temuco", "id": "f48e7c0f1a32" },
-    { "name": "Rancagua", "id": "a59f8d1a2b43" },
-    { "name": "Iquique", "id": "b60a9e2b3c54" },
-    { "name": "Talca", "id": "c71b0f3c4d65" },
-    { "name": "Arica", "id": "d82c1a4d5e76" }
+    {
+      "name": "Algarrobo",
+      "id": "R8h4MQZTn3Nh"
+    },
+    {
+      "name": "Angol",
+      "id": "I8p4daRkBA-U"
+    },
+    {
+      "name": "Antofagasta",
+      "id": "8lo_ySaMkemk"
+    },
+    {
+      "name": "Apoquindo",
+      "id": "HTgd9IIRMFt3"
+    },
+    {
+      "name": "Arauco",
+      "id": "tOma3id8FSNH"
+    },
+    {
+      "name": "Arica",
+      "id": "902TC7eHANye"
+    },
+    {
+      "name": "Buin",
+      "id": "KaqElRIlrGMQ"
+    },
+    {
+      "name": "Bulnes",
+      "id": "Lw28qmWFThsZ"
+    },
+    {
+      "name": "Calama",
+      "id": "hDqbO37c1z0i"
+    },
+    {
+      "name": "Caldera",
+      "id": "56MbjvavzU0K"
+    },
+    {
+      "name": "Castro",
+      "id": "Rd-tEmbQ258W"
+    },
+    {
+      "name": "Catemu",
+      "id": "RaLhPzw-Tsze"
+    },
+    {
+      "name": "Centro",
+      "id": "UiMZiIeIQ76B"
+    },
+    {
+      "name": "Cerrillos de Tamaya",
+      "id": "CByE-J54gO-7"
+    },
+    {
+      "name": "Chicureo Abajo",
+      "id": "k7RYZRK57BcW"
+    },
+    {
+      "name": "Chiguayante",
+      "id": "SmenN7_KuQ0h"
+    },
+    {
+      "name": "Chillan",
+      "id": "m5IZeysLjAww"
+    },
+    {
+      "name": "Chillan Viejo",
+      "id": "K7Az-dnFeHd6"
+    },
+    {
+      "name": "Chimbarongo",
+      "id": "N05sbwB7BYfQ"
+    },
+    {
+      "name": "Chonchi",
+      "id": "12a3TWexT2-A"
+    },
+    {
+      "name": "Chuquicamata",
+      "id": "eQ-AP1Jh2pFU"
+    },
+    {
+      "name": "Coihaique",
+      "id": "wr5y7DFjx-HF"
+    },
+    {
+      "name": "Colina",
+      "id": "VJURTuIE0m7b"
+    },
+    {
+      "name": "Collipulli",
+      "id": "0fXBUwGB6ufz"
+    },
+    {
+      "name": "Concon",
+      "id": "x6plIQw6mCZE"
+    },
+    {
+      "name": "Constitucion",
+      "id": "evFZuY5mwJ-P"
+    },
+    {
+      "name": "Coquimbo",
+      "id": "72JxlKRBqQnE"
+    },
+    {
+      "name": "Coronel",
+      "id": "cdcJlDV3Bit2"
+    },
+    {
+      "name": "Cunco",
+      "id": "jtm2I6AfE1xE"
+    },
+    {
+      "name": "Curacavi",
+      "id": "zg2lzkf_nQy2"
+    },
+    {
+      "name": "Dalcahue",
+      "id": "d3nUZC8cT1zX"
+    },
+    {
+      "name": "El Arco",
+      "id": "6ISDEP0Ho_J0"
+    },
+    {
+      "name": "El Bosque",
+      "id": "dhlugj3eMsDP"
+    },
+    {
+      "name": "El Monte",
+      "id": "Ux21lZuAvSdV"
+    },
+    {
+      "name": "El Quisco",
+      "id": "gifwO23YF20i"
+    },
+    {
+      "name": "El Salto",
+      "id": "6oAbXRFDPs_3"
+    },
+    {
+      "name": "El Salvador",
+      "id": "18JOQcEc8QLR"
+    },
+    {
+      "name": "El Valle",
+      "id": "EmV-TAM8WQy8"
+    },
+    {
+      "name": "Fresia",
+      "id": "3LcHnQa4ryxi"
+    },
+    {
+      "name": "Galvarino",
+      "id": "nlOefjCGgfpQ"
+    },
+    {
+      "name": "Graneros",
+      "id": "lrjUEE3LO9Xl"
+    },
+    {
+      "name": "Hanga Roa",
+      "id": "MlfmXStr4UiA"
+    },
+    {
+      "name": "Iquique",
+      "id": "5IaqTaeHruus"
+    },
+    {
+      "name": "La Calera",
+      "id": "nJxNd98uYjGQ"
+    },
+    {
+      "name": "La Cisterna",
+      "id": "n49vnea-_ljh"
+    },
+    {
+      "name": "La Granja",
+      "id": "h0GyMoktvwU4"
+    },
+    {
+      "name": "La Laja",
+      "id": "EGKw31mvSHn5"
+    },
+    {
+      "name": "La Ligua",
+      "id": "RpewXxEA7uHg"
+    },
+    {
+      "name": "La Reina",
+      "id": "bzP5bQ85ZQNh"
+    },
+    {
+      "name": "La Serena",
+      "id": "5f0ea_t_bDz1"
+    },
+    {
+      "name": "La Union",
+      "id": "9PrqzPY5mUWM"
+    },
+    {
+      "name": "Lampa",
+      "id": "28ehrsPhyDut"
+    },
+    {
+      "name": "Las Condes",
+      "id": "bv_C3Rt9q5A2"
+    },
+    {
+      "name": "Lautaro",
+      "id": "z2Xn2eS1Fws2"
+    },
+    {
+      "name": "Llanquihue",
+      "id": "c_mvjHfj7XYP"
+    },
+    {
+      "name": "Lo Barnechea",
+      "id": "sLLvfoHGcgof"
+    },
+    {
+      "name": "Lolol",
+      "id": "0wUPXE8QeDG_"
+    },
+    {
+      "name": "Los Andes",
+      "id": "X-C_Shg-QVBS"
+    },
+    {
+      "name": "Los Angeles",
+      "id": "quRma8kO949W"
+    },
+    {
+      "name": "Machali",
+      "id": "0CVkl6Cpoy7r"
+    },
+    {
+      "name": "Macul",
+      "id": "YTJes72VBclE"
+    },
+    {
+      "name": "Maipu",
+      "id": "H7DpgXn6qOK7"
+    },
+    {
+      "name": "Maquina Atacama",
+      "id": "dRjx3E48Zeh3"
+    },
+    {
+      "name": "Maule",
+      "id": "9yI9F__uo-0F"
+    },
+    {
+      "name": "Mejillones",
+      "id": "YvhHC0ZsLAZE"
+    },
+    {
+      "name": "Melipilla",
+      "id": "cWE-QVc_571_"
+    },
+    {
+      "name": "Miraflores",
+      "id": "He1KFWXQYSis"
+    },
+    {
+      "name": "Molina",
+      "id": "4tQaiB3mpdWU"
+    },
+    {
+      "name": "Monte Aguila",
+      "id": "DehWqzYwXLL7"
+    },
+    {
+      "name": "Nacimiento",
+      "id": "JN9jNt1--3Gf"
+    },
+    {
+      "name": "Nogales",
+      "id": "VhX-gjqOPYz3"
+    },
+    {
+      "name": "Nunoa",
+      "id": "vORBLPUA3JKC"
+    },
+    {
+      "name": "Olmue",
+      "id": "P6ZZJ3Hfojr1"
+    },
+    {
+      "name": "Osorno",
+      "id": "fW4RskhWdvvC"
+    },
+    {
+      "name": "Ovalle",
+      "id": "9TzQChkjgKWl"
+    },
+    {
+      "name": "Paillaco",
+      "id": "kEIXDZIZAtpJ"
+    },
+    {
+      "name": "Penablanca",
+      "id": "RGdyEnh4eatH"
+    },
+    {
+      "name": "Penaflor",
+      "id": "QBvOr-iq1k0v"
+    },
+    {
+      "name": "Port Montt",
+      "id": "EEHqmrXoMiry"
+    },
+    {
+      "name": "Providencia",
+      "id": "q70Eb0JQq6UR"
+    },
+    {
+      "name": "Puchuncavi",
+      "id": "sTjaDJBex5Vx"
+    },
+    {
+      "name": "Pucon",
+      "id": "xZjxnvSfQ2tt"
+    },
+    {
+      "name": "Puente Alto",
+      "id": "npPMXWBcPtT3"
+    },
+    {
+      "name": "Puerto Aisen",
+      "id": "WHK2hh1sDd2d"
+    },
+    {
+      "name": "Puerto Natales",
+      "id": "Z3scFeN1ViGT"
+    },
+    {
+      "name": "Puerto Varas",
+      "id": "2OdKISCxII5t"
+    },
+    {
+      "name": "Punta Arenas",
+      "id": "civX8b8hUAyj"
+    },
+    {
+      "name": "Puren",
+      "id": "o2xT1XqMzl87"
+    },
+    {
+      "name": "Purranque",
+      "id": "CJlvE88fLW4N"
+    },
+    {
+      "name": "Quellon",
+      "id": "ZaOJHrrtS49Q"
+    },
+    {
+      "name": "Quemchi",
+      "id": "wBiZvfhtDPm-"
+    },
+    {
+      "name": "Quilicura",
+      "id": "tk9IMIhIkIfw"
+    },
+    {
+      "name": "Quillota",
+      "id": "9axaAuz8mflA"
+    },
+    {
+      "name": "Rancagua",
+      "id": "jsbyANOP3Fby"
+    },
+    {
+      "name": "Recoleta",
+      "id": "g1fcPxy-O2Ix"
+    },
+    {
+      "name": "Renaca",
+      "id": "MkbJt9VMMT7t"
+    },
+    {
+      "name": "Renca",
+      "id": "4ykgFh9ZRK_C"
+    },
+    {
+      "name": "Rengo",
+      "id": "6WvnipIPAxpY"
+    },
+    {
+      "name": "Rinconada",
+      "id": "tKsZ5YLkZOBR"
+    },
+    {
+      "name": "Rio Bueno",
+      "id": "G8dyTHWJReeU"
+    },
+    {
+      "name": "San Antonio",
+      "id": "Zb8bJSAJznVE"
+    },
+    {
+      "name": "San Bernardo",
+      "id": "JRIzT3fvBGDb"
+    },
+    {
+      "name": "San Carlos",
+      "id": "Reeqy_LRNXzV"
+    },
+    {
+      "name": "San Felipe",
+      "id": "kwP7srq9ePtp"
+    },
+    {
+      "name": "San Fernando",
+      "id": "Y3lcIMN-tOuE"
+    },
+    {
+      "name": "San Javier",
+      "id": "wPcIb08vA1qS"
+    },
+    {
+      "name": "San Martin",
+      "id": "A0JcDIxfgtgA"
+    },
+    {
+      "name": "San Pedro",
+      "id": "hRi4zw65Hbh3"
+    },
+    {
+      "name": "Santa Barbara",
+      "id": "tNA3jepop4B3"
+    },
+    {
+      "name": "Santiago",
+      "id": "SRSe0PwgHVYG"
+    },
+    {
+      "name": "Talagante",
+      "id": "sB9KGbD7D5oV"
+    },
+    {
+      "name": "Talca",
+      "id": "2xZQNFFyGvPU"
+    },
+    {
+      "name": "Talcahuano",
+      "id": "1B7ML2jBeldm"
+    },
+    {
+      "name": "Tarapaca",
+      "id": "gJaY0ZGXHHPr"
+    },
+    {
+      "name": "Temuco",
+      "id": "3imYCfXxWyzX"
+    },
+    {
+      "name": "Tome",
+      "id": "FfUEPsh3m-ue"
+    },
+    {
+      "name": "Valdivia",
+      "id": "NS4xdwEvQ3Mg"
+    },
+    {
+      "name": "Vallenar",
+      "id": "YC2XBGnt48EN"
+    },
+    {
+      "name": "Villa Alemana",
+      "id": "ZTvZ0zIkszUm"
+    },
+    {
+      "name": "Villarrica",
+      "id": "vJn2HpkLE53X"
+    },
+    {
+      "name": "Vitacura",
+      "id": "W-YhT2Rw2ei_"
+    }
   ]
 }

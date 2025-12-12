@@ -1,15 +1,45 @@
 {
   "coid": "SC",
   "cities": [
-    { "name": "Victoria", "id": "a2c4e6g8i0k1" },
-    { "name": "Anse Boileau", "id": "b3d5f7h9j1l2" },
-    { "name": "Beau Vallon", "id": "c4e6g8i0k2m3" },
-    { "name": "Anse Royale", "id": "d5f7h9j1l3n4" },
-    { "name": "Baie Lazare", "id": "e6g8i0k2m4o5" },
-    { "name": "Anse aux Pins", "id": "f7h9j1l3n5p6" },
-    { "name": "Grand Anse", "id": "a8i0k2m4o6q7" },
-    { "name": "La Digue", "id": "b9j1l3n5p7r8" },
-    { "name": "Bel Ombre", "id": "c0k2m4o6q8s9" },
-    { "name": "Glacis", "id": "d1l3n5p7r9t0" }
+    {
+      "name": "Victoria",
+      "id": "RAy-HawmB6j5"
+    },
+    {
+      "name": "Anse Boileau",
+      "id": "RLF7tw-vM4NR"
+    },
+    {
+      "name": "Beau Vallon",
+      "id": "1wc061N_OJOx"
+    },
+    {
+      "name": "Anse Royale",
+      "id": "tFUFtojxav5Q"
+    },
+    {
+      "name": "Baie Lazare",
+      "id": "xwliN0EihmeN"
+    },
+    {
+      "name": "Anse aux Pins",
+      "id": "MebL6qbUX1Bg"
+    },
+    {
+      "name": "Grand Anse",
+      "id": "SvAFP_BKD3Mp"
+    },
+    {
+      "name": "La Digue",
+      "id": "JwNOqyW2UV7j"
+    },
+    {
+      "name": "Bel Ombre",
+      "id": "tKvdVdzlYzZS"
+    },
+    {
+      "name": "Glacis",
+      "id": "BG46cqEfmP0e"
+    }
   ]
 }

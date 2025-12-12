@@ -1,15 +1,45 @@
 {
   "coid": "ME",
   "cities": [
-    { "name": "Podgorica", "id": "c93b2f5c6d77" },
-    { "name": "Nikšić", "id": "d04c3a6d7e88" },
-    { "name": "Herceg Novi", "id": "e15d4b7e8f99" },
-    { "name": "Pljevlja", "id": "f26e5c8f9a10" },
-    { "name": "Bar", "id": "a37f6d9a0b21" },
-    { "name": "Bijelo Polje", "id": "b48a7e0b1c32" },
-    { "name": "Budva", "id": "c59b8f1c2d43" },
-    { "name": "Cetinje", "id": "d60c9a2d3e54" },
-    { "name": "Ulcinj", "id": "e71d0b3e4f65" },
-    { "name": "Tivat", "id": "f82e1c4f5a76" }
+    {
+      "name": "Budva",
+      "id": "WKmW9-nSQXQn"
+    },
+    {
+      "name": "Crna Gora",
+      "id": "eyzrD9enr5H1"
+    },
+    {
+      "name": "Herceg Novi",
+      "id": "SbaysQK_RRb6"
+    },
+    {
+      "name": "Igalo",
+      "id": "ISwf74LuuUYf"
+    },
+    {
+      "name": "Kotor",
+      "id": "gpivvliQJ1Gn"
+    },
+    {
+      "name": "Niksic",
+      "id": "AOsFg42fZcUd"
+    },
+    {
+      "name": "Pljevlja",
+      "id": "TkSOM6x4OJuO"
+    },
+    {
+      "name": "Podgorica",
+      "id": "X2dLYCOnE3Uv"
+    },
+    {
+      "name": "Stari Bar",
+      "id": "Bo3bK7CMSnmP"
+    },
+    {
+      "name": "Ulcinj",
+      "id": "54T_Tj7Eb6FW"
+    }
   ]
 }

@@ -1,15 +1,45 @@
 {
   "coid": "FM",
   "cities": [
-    { "name": "Palikir", "id": "a93f2d5a6b87" },
-    { "name": "Weno", "id": "b04a3e6b7c98" },
-    { "name": "Kolonia", "id": "c15b4f7c8d09" },
-    { "name": "Tofol", "id": "d26c5a8d9e10" },
-    { "name": "Colonia", "id": "e37d6b9e0f21" },
-    { "name": "Rumung", "id": "f48e7c0f1a32" },
-    { "name": "Tamil", "id": "a59f8d1a2b43" },
-    { "name": "Fefan", "id": "b60a9e2b3c54" },
-    { "name": "Pohnlangas", "id": "c71b0f3c4d65" },
-    { "name": "Moen", "id": "d82c1a4d5e76" }
+    {
+      "name": "Palikir",
+      "id": "W0YcrpWwN7HQ"
+    },
+    {
+      "name": "Weno",
+      "id": "Y1X9pralRag8"
+    },
+    {
+      "name": "Kolonia",
+      "id": "pbAOyGqrL2Hp"
+    },
+    {
+      "name": "Tofol",
+      "id": "ZFVJcGypbfYH"
+    },
+    {
+      "name": "Colonia",
+      "id": "z9ay215UIP5E"
+    },
+    {
+      "name": "Rumung",
+      "id": "NIR2r3cjQuA2"
+    },
+    {
+      "name": "Tamil",
+      "id": "dLAvts6HUOur"
+    },
+    {
+      "name": "Fefan",
+      "id": "_9vS2DDm-kLY"
+    },
+    {
+      "name": "Pohnlangas",
+      "id": "u3dsjgUZ2qRi"
+    },
+    {
+      "name": "Moen",
+      "id": "cgPR3Cg3gomn"
+    }
   ]
 }

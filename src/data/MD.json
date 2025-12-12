@@ -1,15 +1,45 @@
 {
   "coid": "MD",
   "cities": [
-    { "name": "Chișinău", "id": "c91f3a2d9b7e" },
-    { "name": "Bălți", "id": "d28e1f9ac4d2" },
-    { "name": "Tiraspol", "id": "e39d7b1e0f52" },
-    { "name": "Bender", "id": "f84a2c7f1e93" },
-    { "name": "Rîbnița", "id": "a72b9d4c3a10" },
-    { "name": "Cahul", "id": "b63c1a8e5b27" },
-    { "name": "Ungheni", "id": "c72d9c4f1b83" },
-    { "name": "Soroca", "id": "d91e3f7a2c64" },
-    { "name": "Orhei", "id": "e58f2a9d7e31" },
-    { "name": "Comrat", "id": "f47b1c6e9f20" }
+    {
+      "name": "Chișinău",
+      "id": "zrO9Y-1RPmcX"
+    },
+    {
+      "name": "Bălți",
+      "id": "oD4V80C2LaaK"
+    },
+    {
+      "name": "Tiraspol",
+      "id": "gaG6zjJWbExx"
+    },
+    {
+      "name": "Bender",
+      "id": "F4vHZIHt6XD4"
+    },
+    {
+      "name": "Rîbnița",
+      "id": "dWtA62AmIc6J"
+    },
+    {
+      "name": "Cahul",
+      "id": "1SnoOaucn_1y"
+    },
+    {
+      "name": "Ungheni",
+      "id": "BCtnWXLO0aT8"
+    },
+    {
+      "name": "Soroca",
+      "id": "Ff-bhYZFG-E5"
+    },
+    {
+      "name": "Orhei",
+      "id": "NzCA0AMswQW4"
+    },
+    {
+      "name": "Comrat",
+      "id": "agWhpkPpDvPb"
+    }
   ]
 }

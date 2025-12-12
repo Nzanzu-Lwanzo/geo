@@ -1,15 +1,197 @@
 {
   "coid": "LV",
   "cities": [
-    { "name": "Riga", "id": "a83f1d2b4c65" },
-    { "name": "Daugavpils", "id": "b94a2e3c5d76" },
-    { "name": "Liepāja", "id": "c15b3f4d6e87" },
-    { "name": "Jelgava", "id": "d26c4a5e7f98" },
-    { "name": "Jūrmala", "id": "e37d5b6f8a09" },
-    { "name": "Ventspils", "id": "f48e6c7a9b10" },
-    { "name": "Rēzekne", "id": "a59f7d8b0c21" },
-    { "name": "Valmiera", "id": "b60a8e9c1d32" },
-    { "name": "Ogre", "id": "c71b9f0d2e43" },
-    { "name": "Jēkabpils", "id": "d82c1a3d4e55" }
+    {
+      "name": "Adazi",
+      "id": "bZ18G4hWphIJ"
+    },
+    {
+      "name": "Agenskalns",
+      "id": "WPOO78zP-EWj"
+    },
+    {
+      "name": "Aizkraukle",
+      "id": "SdEmemBCcNBp"
+    },
+    {
+      "name": "Aizpute",
+      "id": "yxHk4YurSO2Q"
+    },
+    {
+      "name": "Baldone",
+      "id": "UPJRw3jcjqQD"
+    },
+    {
+      "name": "Balvi",
+      "id": "6LY2AC00Ptzy"
+    },
+    {
+      "name": "Bauska",
+      "id": "8buc6IWmLVcw"
+    },
+    {
+      "name": "Brankas",
+      "id": "gVJIyl__fhJ9"
+    },
+    {
+      "name": "Carnikava",
+      "id": "j-ylT-tOM-p5"
+    },
+    {
+      "name": "Centrs",
+      "id": "ZCc9qbQm4rOS"
+    },
+    {
+      "name": "Daugavpils",
+      "id": "oAE-j6w63NT2"
+    },
+    {
+      "name": "Dobele",
+      "id": "O-ZnL_tFmkHZ"
+    },
+    {
+      "name": "Durbe",
+      "id": "Qhw0FQ1u8-MX"
+    },
+    {
+      "name": "Gulbene",
+      "id": "6sRuXM6YLUEf"
+    },
+    {
+      "name": "Ilguciems",
+      "id": "2yJE0NzSCSij"
+    },
+    {
+      "name": "Izvalta",
+      "id": "AMbOKk0gJYR6"
+    },
+    {
+      "name": "Jaunolaine",
+      "id": "JXzhZWnrY-sS"
+    },
+    {
+      "name": "Jelgava",
+      "id": "_HUBxV-bpjH7"
+    },
+    {
+      "name": "Kandava",
+      "id": "8omU3eR5RQjQ"
+    },
+    {
+      "name": "Kolka",
+      "id": "oQ7Ws8jy7mO_"
+    },
+    {
+      "name": "Lapmezciems",
+      "id": "oZy5wwCdEQMl"
+    },
+    {
+      "name": "Liepa",
+      "id": "tP1sC367GHLe"
+    },
+    {
+      "name": "Ludza",
+      "id": "iKn8P5hotqQz"
+    },
+    {
+      "name": "Madona",
+      "id": "pApZyab_2pea"
+    },
+    {
+      "name": "Malpils",
+      "id": "g7sTqe9xSW3Q"
+    },
+    {
+      "name": "Malta",
+      "id": "BBHY9328V7j6"
+    },
+    {
+      "name": "Marupe",
+      "id": "ZMZQ8fKl-yiQ"
+    },
+    {
+      "name": "Mazsalaca",
+      "id": "VARsNQqRiWuy"
+    },
+    {
+      "name": "Ogre",
+      "id": "Mg_WasBfLs40"
+    },
+    {
+      "name": "Olaine",
+      "id": "KMylPRoqyIwz"
+    },
+    {
+      "name": "Ozolnieki",
+      "id": "VYqH1O8qVk0H"
+    },
+    {
+      "name": "Pilsrundale",
+      "id": "ax2BFQ5iU26G"
+    },
+    {
+      "name": "Priedkalne",
+      "id": "cnwGA4hBi5vE"
+    },
+    {
+      "name": "Pure",
+      "id": "f8dF1ymK1Ywt"
+    },
+    {
+      "name": "Riga",
+      "id": "NcISfaVioVlD"
+    },
+    {
+      "name": "Salaspils",
+      "id": "uE0hO-pgCSmw"
+    },
+    {
+      "name": "Saldus",
+      "id": "PAZO3Fb_oOXu"
+    },
+    {
+      "name": "Sigulda",
+      "id": "Mt1uMqND0pdE"
+    },
+    {
+      "name": "Smiltene",
+      "id": "4M_cSS4MRTXF"
+    },
+    {
+      "name": "Stalgene",
+      "id": "IEDkTnetuDER"
+    },
+    {
+      "name": "Talsi",
+      "id": "uRx2m84NOIa2"
+    },
+    {
+      "name": "Tukums",
+      "id": "vGmvKWVm9xbd"
+    },
+    {
+      "name": "Valka",
+      "id": "jsXzWHUJq_BD"
+    },
+    {
+      "name": "Valmiera",
+      "id": "60xkfXhMOt_3"
+    },
+    {
+      "name": "Varsava",
+      "id": "dsIP-7zpGj9F"
+    },
+    {
+      "name": "Ventspils",
+      "id": "RUwolqGXGMDV"
+    },
+    {
+      "name": "Zasa",
+      "id": "k24M0C4mQLHJ"
+    },
+    {
+      "name": "Zilupe",
+      "id": "iXktGEUrjU4m"
+    }
   ]
 }

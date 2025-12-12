@@ -1,15 +1,81 @@
 {
   "coid": "HN",
   "cities": [
-    { "name": "Tegucigalpa", "id": "e93d2b4e5f66" },
-    { "name": "San Pedro Sula", "id": "f04e3c5f6a77" },
-    { "name": "Choloma", "id": "a15f4d6a7b88" },
-    { "name": "La Ceiba", "id": "b26a5e7b8c99" },
-    { "name": "El Progreso", "id": "c37b6f8c9d10" },
-    { "name": "Comayagua", "id": "d48c7a9d0e21" },
-    { "name": "Puerto Cortés", "id": "e59d8b1e2f33" },
-    { "name": "Danlí", "id": "f60e9c2f3a44" },
-    { "name": "Siguatepeque", "id": "a71f0d3a4b55" },
-    { "name": "Juticalpa", "id": "b82a1e4b5c66" }
+    {
+      "name": "Choloma",
+      "id": "xpsFLsTfS171"
+    },
+    {
+      "name": "Comayagua",
+      "id": "kJCTvQ7FwHS6"
+    },
+    {
+      "name": "Comayaguela",
+      "id": "PBKaXM9RNdFi"
+    },
+    {
+      "name": "Coxen Hole",
+      "id": "zvOqyNvvkupU"
+    },
+    {
+      "name": "El Barro",
+      "id": "4fZc4ceYIxuT"
+    },
+    {
+      "name": "El Paraiso",
+      "id": "u8iZnTeXo64_"
+    },
+    {
+      "name": "El Progreso",
+      "id": "wsWgpJTjHVIA"
+    },
+    {
+      "name": "La Ceiba",
+      "id": "hzwBnvU8Kyj4"
+    },
+    {
+      "name": "La Hacienda",
+      "id": "bX6ZoofXXwH5"
+    },
+    {
+      "name": "Morazan",
+      "id": "8l2pa6hsrTzd"
+    },
+    {
+      "name": "Nacaome",
+      "id": "nJ0LFK8N_iew"
+    },
+    {
+      "name": "Pinalejo",
+      "id": "Nn_l7vY0AA7s"
+    },
+    {
+      "name": "Piraera",
+      "id": "6IQTZ7cspN7w"
+    },
+    {
+      "name": "Puerto Lempira",
+      "id": "9voOQ--KwpNb"
+    },
+    {
+      "name": "San Antonio de Flores",
+      "id": "Eit5T_NoKSjJ"
+    },
+    {
+      "name": "San Pedro Sula",
+      "id": "TcqGwqXpx3iJ"
+    },
+    {
+      "name": "Santa Barbara",
+      "id": "9JILDi6vmgTj"
+    },
+    {
+      "name": "Sula",
+      "id": "BqiQlObtWpOa"
+    },
+    {
+      "name": "Tegucigalpa",
+      "id": "7X-IxFQp94Dj"
+    }
   ]
 }

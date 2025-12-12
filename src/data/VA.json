@@ -1,15 +1,45 @@
 {
   "coid": "VA",
   "cities": [
-    { "name": "Vatican City", "id": "e3f4a5b6c7d8" },
-    { "name": "Borgo", "id": "f4a5b6c7d8e9" },
-    { "name": "Prati", "id": "a4b5c6d7e8f9" },
-    { "name": "Trastevere", "id": "b4c5d6e7f8a0" },
-    { "name": "Aurelio", "id": "c4d5e6f7a8b1" },
-    { "name": "Flaminio", "id": "d4e5f6a7b8c2" },
-    { "name": "Campo Marzio", "id": "e4f5a6b7c8d3" },
-    { "name": "Parioli", "id": "f4a5b6c7d8e4" },
-    { "name": "Monti", "id": "a5b6c7d8e9f0" },
-    { "name": "Testaccio", "id": "b5c6d7e8f9a1" }
+    {
+      "name": "Vatican City",
+      "id": "Ouev2ICLod0T"
+    },
+    {
+      "name": "Borgo",
+      "id": "H2TDILJzGAlg"
+    },
+    {
+      "name": "Prati",
+      "id": "cMhUCH5-L81b"
+    },
+    {
+      "name": "Trastevere",
+      "id": "TMMhd-mpdQLk"
+    },
+    {
+      "name": "Aurelio",
+      "id": "BWM7jV-AfzME"
+    },
+    {
+      "name": "Flaminio",
+      "id": "iUC0w4rloRVF"
+    },
+    {
+      "name": "Campo Marzio",
+      "id": "GNWmVZhRxQs5"
+    },
+    {
+      "name": "Parioli",
+      "id": "pFXSucKobgUW"
+    },
+    {
+      "name": "Monti",
+      "id": "DSCsW5xmvljw"
+    },
+    {
+      "name": "Testaccio",
+      "id": "DDdhBRyFHMNT"
+    }
   ]
 }

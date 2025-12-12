@@ -1,15 +1,113 @@
 {
   "coid": "PG",
   "cities": [
-    { "name": "Port Moresby", "id": "e93d2b4e5f66" },
-    { "name": "Lae", "id": "f04e3c5f6a77" },
-    { "name": "Mount Hagen", "id": "a15f4d6a7b88" },
-    { "name": "Madang", "id": "b26a5e7b8c99" },
-    { "name": "Goroka", "id": "c37b6f8c9d10" },
-    { "name": "Kokopo", "id": "d48c7a9d0e21" },
-    { "name": "Arawa", "id": "e59d8b1e2f33" },
-    { "name": "Kimbe", "id": "f60e9c2f3a44" },
-    { "name": "Wewak", "id": "a71f0d3a4b55" },
-    { "name": "Alotau", "id": "b82a1e4b5c66" }
+    {
+      "name": "Aitape",
+      "id": "F11BKkAxnl4z"
+    },
+    {
+      "name": "Arawa",
+      "id": "gzbl47iQotCL"
+    },
+    {
+      "name": "Daru",
+      "id": "_8dJixpzz7jl"
+    },
+    {
+      "name": "Goroka",
+      "id": "NSEVWYX9ass4"
+    },
+    {
+      "name": "Kavieng",
+      "id": "bRbiQSq_25HW"
+    },
+    {
+      "name": "Kerema",
+      "id": "Zq8IihYgHCF5"
+    },
+    {
+      "name": "Kikori",
+      "id": "6PuA_8MQd5qt"
+    },
+    {
+      "name": "Kimbe",
+      "id": "i_7pbURNh7Uk"
+    },
+    {
+      "name": "Kiunga",
+      "id": "Iuuqvzilps0k"
+    },
+    {
+      "name": "Kokopo",
+      "id": "P8e2zMeh6uPx"
+    },
+    {
+      "name": "Kundiawa",
+      "id": "i_FRSEyRDSPs"
+    },
+    {
+      "name": "Kupano",
+      "id": "8x9W5zxGd2vL"
+    },
+    {
+      "name": "Lae",
+      "id": "GNa70_iOMZC5"
+    },
+    {
+      "name": "Lorengau",
+      "id": "EyOOl92RTdOo"
+    },
+    {
+      "name": "Madang",
+      "id": "bm5KYPg6dCJ6"
+    },
+    {
+      "name": "Mendi",
+      "id": "qJ_d-TNDN1mg"
+    },
+    {
+      "name": "Mount Hagen",
+      "id": "gW7w04fRWnZr"
+    },
+    {
+      "name": "Namatanai",
+      "id": "pxe8TiwCzudm"
+    },
+    {
+      "name": "Nambaga",
+      "id": "gkurmcxm_TqS"
+    },
+    {
+      "name": "Paivara",
+      "id": "8QeW_zoCK-Tr"
+    },
+    {
+      "name": "Pongani",
+      "id": "ZjfGOSmBRV02"
+    },
+    {
+      "name": "Popondetta",
+      "id": "rGonaDmNedyb"
+    },
+    {
+      "name": "Port Moresby",
+      "id": "nldGK1SdQRl3"
+    },
+    {
+      "name": "Vanimo",
+      "id": "RSJz1pQ1Q-5F"
+    },
+    {
+      "name": "Wabag",
+      "id": "67JVwkCLZ8I5"
+    },
+    {
+      "name": "Waigani",
+      "id": "4jvUv_0q1RXM"
+    },
+    {
+      "name": "Wewak",
+      "id": "msaiucvJ3XZd"
+    }
   ]
 }

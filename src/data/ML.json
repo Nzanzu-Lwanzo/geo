@@ -1,15 +1,45 @@
 {
   "coid": "ML",
   "cities": [
-    { "name": "Bamako", "id": "c93b2f5c6d77" },
-    { "name": "Sikasso", "id": "d04c3a6d7e88" },
-    { "name": "Mopti", "id": "e15d4b7e8f99" },
-    { "name": "Koutiala", "id": "f26e5c8f9a10" },
-    { "name": "Kayes", "id": "a37f6d9a0b21" },
-    { "name": "Ségou", "id": "b48a7e0b1c32" },
-    { "name": "Gao", "id": "c59b8f1c2d43" },
-    { "name": "Tombouctou", "id": "d60c9a2d3e54" },
-    { "name": "Kati", "id": "e71d0b3e4f65" },
-    { "name": "Markala", "id": "f82e1c4f5a76" }
+    {
+      "name": "Bamako",
+      "id": "ld225CE06UIX"
+    },
+    {
+      "name": "Sikasso",
+      "id": "b3XVar8Rf920"
+    },
+    {
+      "name": "Mopti",
+      "id": "S_4RvzogVrYm"
+    },
+    {
+      "name": "Koutiala",
+      "id": "wDNaWBHwdG2F"
+    },
+    {
+      "name": "Kayes",
+      "id": "6Nur6FsllEUs"
+    },
+    {
+      "name": "Ségou",
+      "id": "Ns_QTDKBk2R2"
+    },
+    {
+      "name": "Gao",
+      "id": "sY2F4tQhSR51"
+    },
+    {
+      "name": "Tombouctou",
+      "id": "xzNPu-ID8rEl"
+    },
+    {
+      "name": "Kati",
+      "id": "kIpzNKnzBKjT"
+    },
+    {
+      "name": "Markala",
+      "id": "G5MzoWwl74Vr"
+    }
   ]
 }

@@ -1,15 +1,6409 @@
 {
   "coid": "PL",
   "cities": [
-    { "name": "Warsaw", "id": "a83f1d2b4c65" },
-    { "name": "Kraków", "id": "b94a2e3c5d76" },
-    { "name": "Łódź", "id": "c15b3f4d6e87" },
-    { "name": "Wrocław", "id": "d26c4a5e7f98" },
-    { "name": "Poznań", "id": "e37d5b6f8a09" },
-    { "name": "Gdańsk", "id": "f48e6c7a9b10" },
-    { "name": "Szczecin", "id": "a59f7d8b0c21" },
-    { "name": "Bydgoszcz", "id": "b60a8e9c1d32" },
-    { "name": "Lublin", "id": "c71b9f0d2e43" },
-    { "name": "Katowice", "id": "d82c1a3d4e55" }
+    {
+      "name": "Adama",
+      "id": "CykaNEaVpEZP"
+    },
+    {
+      "name": "Alwernia",
+      "id": "E4XzCpOYTlpQ"
+    },
+    {
+      "name": "Andrespol",
+      "id": "sRr1-lOQ3qXw"
+    },
+    {
+      "name": "Andrychow",
+      "id": "P9I9yMw57Jee"
+    },
+    {
+      "name": "Anin",
+      "id": "p8_9gTIXCTmg"
+    },
+    {
+      "name": "Annopol",
+      "id": "e6D918OsQ1NT"
+    },
+    {
+      "name": "Arkadia",
+      "id": "Opq0A39VHu8Z"
+    },
+    {
+      "name": "Babienica",
+      "id": "vaB4-yOoVYqI"
+    },
+    {
+      "name": "Babimost",
+      "id": "dgr0PteZXkrP"
+    },
+    {
+      "name": "Baborow",
+      "id": "geRmO25dGVmQ"
+    },
+    {
+      "name": "Baboszewo",
+      "id": "YTkAR9dutljh"
+    },
+    {
+      "name": "Balice",
+      "id": "MYjOazjz4YC1"
+    },
+    {
+      "name": "Banino",
+      "id": "L29YyXm1T5Nk"
+    },
+    {
+      "name": "Baniocha",
+      "id": "pa7RFZupuTvB"
+    },
+    {
+      "name": "Baran",
+      "id": "r8D47PZTEb1A"
+    },
+    {
+      "name": "Baranow",
+      "id": "gFGuf12PZVkB"
+    },
+    {
+      "name": "Baranowko",
+      "id": "Q0gjXQoPsbLY"
+    },
+    {
+      "name": "Barciany",
+      "id": "GjR6jI0r2ynZ"
+    },
+    {
+      "name": "Barcice",
+      "id": "51IyfAWe8AgA"
+    },
+    {
+      "name": "Barcin",
+      "id": "JVWXgYSJGueh"
+    },
+    {
+      "name": "Barczewo",
+      "id": "vtZ5uRdfVfnI"
+    },
+    {
+      "name": "Barglowka",
+      "id": "fIhqf0TtmRY4"
+    },
+    {
+      "name": "Barlinek",
+      "id": "g2sTJebRQ0FS"
+    },
+    {
+      "name": "Bartoszyce",
+      "id": "VDPk4Bn0TWd_"
+    },
+    {
+      "name": "Baruchowo",
+      "id": "Gujwk-Yn8YYM"
+    },
+    {
+      "name": "Barwice",
+      "id": "8r6kWQp42ulQ"
+    },
+    {
+      "name": "Bazanowka",
+      "id": "28EfGRQcO752"
+    },
+    {
+      "name": "Beblo",
+      "id": "djwuOtwLvfU8"
+    },
+    {
+      "name": "Bedkow",
+      "id": "E-XXFrlxo9rY"
+    },
+    {
+      "name": "Bejsce",
+      "id": "l-MBv2bBpC89"
+    },
+    {
+      "name": "Belk",
+      "id": "7000-6KPF7QH"
+    },
+    {
+      "name": "Belsk Duzy",
+      "id": "K6o1N5id_YiZ"
+    },
+    {
+      "name": "Belsznica",
+      "id": "CH3fzv_Gv3sU"
+    },
+    {
+      "name": "Bestwina",
+      "id": "v_DBkTL_LMWd"
+    },
+    {
+      "name": "Bestwinka",
+      "id": "4rLxiVyXvYxk"
+    },
+    {
+      "name": "Biala",
+      "id": "kJesXzGQQPIy"
+    },
+    {
+      "name": "Bialobrzegi",
+      "id": "UkB3C2bNj0wx"
+    },
+    {
+      "name": "Bialy Dunajec",
+      "id": "4YPb6jczwC-0"
+    },
+    {
+      "name": "Bibice",
+      "id": "zaO0Tds4T92K"
+    },
+    {
+      "name": "Biecz",
+      "id": "Z-dogFnFtlPZ"
+    },
+    {
+      "name": "Biedrusko",
+      "id": "ScR55F1BPHBo"
+    },
+    {
+      "name": "Bielany",
+      "id": "r9kC28GxQBtI"
+    },
+    {
+      "name": "Bielany Wroclawskie",
+      "id": "3TaqoCYWBHfg"
+    },
+    {
+      "name": "Bielawa",
+      "id": "lG2F4bGOvJYE"
+    },
+    {
+      "name": "Bielawy",
+      "id": "SKRS9MuAq7xj"
+    },
+    {
+      "name": "Bielcza",
+      "id": "M6BcJRHsJ_36"
+    },
+    {
+      "name": "Bieliny",
+      "id": "oRkFqtuTpLay"
+    },
+    {
+      "name": "Bielkowo",
+      "id": "JdY8HLHvwbRx"
+    },
+    {
+      "name": "Bielsk",
+      "id": "f-ZblCUPpM1Z"
+    },
+    {
+      "name": "Bielsk Podlaski",
+      "id": "Y7AweoZ2Orqg"
+    },
+    {
+      "name": "Bielsko-Biala",
+      "id": "6YB9w3JrZwKv"
+    },
+    {
+      "name": "Bierun",
+      "id": "mHxoKi_44EGk"
+    },
+    {
+      "name": "Bierun Nowy",
+      "id": "mN0fUvI_MDe2"
+    },
+    {
+      "name": "Bierutow",
+      "id": "KwgGV-IwzQm8"
+    },
+    {
+      "name": "Biesiekierz",
+      "id": "qtIGG8fYNrup"
+    },
+    {
+      "name": "Biezanow-Prokocim",
+      "id": "MVa0YHbS69M0"
+    },
+    {
+      "name": "Bircza",
+      "id": "PEVbq5kbwaF_"
+    },
+    {
+      "name": "Biskupice",
+      "id": "GibRXcHbA0kZ"
+    },
+    {
+      "name": "Biskupice Oloboczne",
+      "id": "J5es1_TeOzhv"
+    },
+    {
+      "name": "Biskupiec",
+      "id": "9Apqmgu88v2Z"
+    },
+    {
+      "name": "Biskupin",
+      "id": "MYDxYALhh56o"
+    },
+    {
+      "name": "Bisztynek",
+      "id": "1JF9oAC3O8iL"
+    },
+    {
+      "name": "Blachownia",
+      "id": "vMKsqX_Klwe9"
+    },
+    {
+      "name": "Blazowa",
+      "id": "nXf16KBZ9uVm"
+    },
+    {
+      "name": "Bledzew",
+      "id": "bH9rVx5d207m"
+    },
+    {
+      "name": "Blizne",
+      "id": "4wqtLX8Aylu5"
+    },
+    {
+      "name": "Blizyn",
+      "id": "FJw8Pw7vJ7W6"
+    },
+    {
+      "name": "Bobrowniki",
+      "id": "Qy57JOoMSznd"
+    },
+    {
+      "name": "Bobrza",
+      "id": "kuJVNU1B5pAA"
+    },
+    {
+      "name": "Bochnia",
+      "id": "p5-7aMl-4z5b"
+    },
+    {
+      "name": "Bochotnica",
+      "id": "a-hRgp7GhZFC"
+    },
+    {
+      "name": "Bochowo",
+      "id": "ttC6g9u5dvFy"
+    },
+    {
+      "name": "Bodzentyn",
+      "id": "41EqX3TuNzqo"
+    },
+    {
+      "name": "Bogatynia",
+      "id": "KJkHSSYWQa18"
+    },
+    {
+      "name": "Bogdaszowice",
+      "id": "-vVOfF2jq8V_"
+    },
+    {
+      "name": "Bogumilowice",
+      "id": "oMpio_902B1f"
+    },
+    {
+      "name": "Bogunice",
+      "id": "ykmTxoBq5de5"
+    },
+    {
+      "name": "Boguslaw",
+      "id": "WytIm6Re183z"
+    },
+    {
+      "name": "Bohdan",
+      "id": "XPsIO6-8xtDy"
+    },
+    {
+      "name": "Bojadla",
+      "id": "q7KbMtLINul6"
+    },
+    {
+      "name": "Bojano",
+      "id": "8i6aYdF3Kv91"
+    },
+    {
+      "name": "Bojanowo",
+      "id": "_0In7gyU2gRl"
+    },
+    {
+      "name": "Bojszow",
+      "id": "D6lruRDN-2Pc"
+    },
+    {
+      "name": "Bojszowy",
+      "id": "qaxMWeR3n38y"
+    },
+    {
+      "name": "Bolechowice",
+      "id": "_cYYxMDZXjS6"
+    },
+    {
+      "name": "Boleslaw",
+      "id": "11HSVKoLf8iA"
+    },
+    {
+      "name": "Bolewice",
+      "id": "hZqWkhiLTNuK"
+    },
+    {
+      "name": "Bolkow",
+      "id": "wofRptGLBRxl"
+    },
+    {
+      "name": "Bolszewo",
+      "id": "DPiajBmBHoNX"
+    },
+    {
+      "name": "Borek Strzelinski",
+      "id": "ewQnoqBy_IZe"
+    },
+    {
+      "name": "Borki",
+      "id": "Jt1i752yBOMq"
+    },
+    {
+      "name": "Borkowice",
+      "id": "Dq16h-d9xMqp"
+    },
+    {
+      "name": "Borkowo",
+      "id": "TJFu-g6Mb5or"
+    },
+    {
+      "name": "Borne Sulinowo",
+      "id": "SsXtLPPSyftk"
+    },
+    {
+      "name": "Borowa",
+      "id": "q_RLP_5uqi4-"
+    },
+    {
+      "name": "Borowe",
+      "id": "0-gYa9INhj61"
+    },
+    {
+      "name": "Borowiec",
+      "id": "trffMI4FqDqm"
+    },
+    {
+      "name": "Bory",
+      "id": "ro-uj6cQIzDs"
+    },
+    {
+      "name": "Borzecin",
+      "id": "M8z78zY8sgXt"
+    },
+    {
+      "name": "Borzykowo",
+      "id": "yR9lUHluoCxw"
+    },
+    {
+      "name": "Bralin",
+      "id": "Je4cXbC3V5wn"
+    },
+    {
+      "name": "Bramki",
+      "id": "SAXQVFwIkMzg"
+    },
+    {
+      "name": "Braniewo",
+      "id": "zA4pLf5uGVAN"
+    },
+    {
+      "name": "Braszewice",
+      "id": "42ZiFIc62-cu"
+    },
+    {
+      "name": "Bratkowice",
+      "id": "i_p06yTFtFiU"
+    },
+    {
+      "name": "Brenna",
+      "id": "8lzii-Q3ySeE"
+    },
+    {
+      "name": "Brochocin",
+      "id": "MWOHKHZJOLV5"
+    },
+    {
+      "name": "Brodnica",
+      "id": "WqsfDSe4UUa1"
+    },
+    {
+      "name": "Brok",
+      "id": "KN4utB-5W5Cl"
+    },
+    {
+      "name": "Brudzice",
+      "id": "EsgaVEGwTRWT"
+    },
+    {
+      "name": "Brudzowice",
+      "id": "IbgWOz9jO6U2"
+    },
+    {
+      "name": "Brynica",
+      "id": "BcyB0oGIYejZ"
+    },
+    {
+      "name": "Brzeg",
+      "id": "S6rmCedmF_yh"
+    },
+    {
+      "name": "Brzeg Dolny",
+      "id": "UohEVmD_QIV_"
+    },
+    {
+      "name": "Brzesko",
+      "id": "U-dIekRHb5iN"
+    },
+    {
+      "name": "Brzeszcze",
+      "id": "xi6qNTEYOOAA"
+    },
+    {
+      "name": "Brzezinka",
+      "id": "6t_7ncugneTP"
+    },
+    {
+      "name": "Brzeziny",
+      "id": "HH4PVMAgesyu"
+    },
+    {
+      "name": "Brzeznica",
+      "id": "dbt_s_XbTtC8"
+    },
+    {
+      "name": "Brzostek",
+      "id": "pG7UZSe-t9yi"
+    },
+    {
+      "name": "Brzostowka",
+      "id": "l-6ZPZ23yx_n"
+    },
+    {
+      "name": "Brzoza Krolewska",
+      "id": "kW8AvxmQb8TG"
+    },
+    {
+      "name": "Brzozow",
+      "id": "xWC4-f2baWGO"
+    },
+    {
+      "name": "Brzyska Wola",
+      "id": "BEzX55-ulPKl"
+    },
+    {
+      "name": "Buczkowice",
+      "id": "A2kCsZ_ewhF3"
+    },
+    {
+      "name": "Budziska",
+      "id": "M_NG14c_Dh9y"
+    },
+    {
+      "name": "Budzyn",
+      "id": "nPFpT3UzwcBW"
+    },
+    {
+      "name": "Buk",
+      "id": "U1F0JA4JKN_V"
+    },
+    {
+      "name": "Bukowice",
+      "id": "NksSpFyv-KiE"
+    },
+    {
+      "name": "Bukowiec Opoczynski",
+      "id": "YB3uP9SdcGCR"
+    },
+    {
+      "name": "Bukowina Tatrzanska",
+      "id": "Ag0kBtPZJRzM"
+    },
+    {
+      "name": "Bukowno",
+      "id": "YIIf7X6-wMgj"
+    },
+    {
+      "name": "Bukowsko",
+      "id": "biCjzz_eFEBH"
+    },
+    {
+      "name": "Burzenin",
+      "id": "o4J0HNrH9WFo"
+    },
+    {
+      "name": "Bychawa",
+      "id": "M_TmwpCpJjvW"
+    },
+    {
+      "name": "Byczyna",
+      "id": "MHzsATWYAh6C"
+    },
+    {
+      "name": "Bydgoszcz",
+      "id": "1lOvLVpfP-nR"
+    },
+    {
+      "name": "Bydlin",
+      "id": "WjnQFrS4Firq"
+    },
+    {
+      "name": "Byslaw",
+      "id": "_LuGrddwuQr-"
+    },
+    {
+      "name": "Bystra",
+      "id": "9zywP-0iJY28"
+    },
+    {
+      "name": "Bystrzyca Klodzka",
+      "id": "ebVcbM8zewtS"
+    },
+    {
+      "name": "Bytom",
+      "id": "2wldRSRgnLRZ"
+    },
+    {
+      "name": "Cekcyn",
+      "id": "_zwdjfM4eWc0"
+    },
+    {
+      "name": "Cekow",
+      "id": "f6pAOZzdo9nK"
+    },
+    {
+      "name": "Chalupki",
+      "id": "RjgPeTCYNspe"
+    },
+    {
+      "name": "Charzykowy",
+      "id": "a-UGvA4lnKTm"
+    },
+    {
+      "name": "Checiny",
+      "id": "a0ZcQYggs9fM"
+    },
+    {
+      "name": "Chelm",
+      "id": "usxapuJs8xMO"
+    },
+    {
+      "name": "Chelmek",
+      "id": "8sdT7HMHIsuL"
+    },
+    {
+      "name": "Chelmsko Slaskie",
+      "id": "2YTwaAb0I2Qc"
+    },
+    {
+      "name": "Chmielnik",
+      "id": "RznNKuMKXrp2"
+    },
+    {
+      "name": "Chmielow",
+      "id": "iwDAzHb1mfM-"
+    },
+    {
+      "name": "Chocianow",
+      "id": "JjHDycBe2ALn"
+    },
+    {
+      "name": "Chociwel",
+      "id": "Rz-AIQJlikH1"
+    },
+    {
+      "name": "Choczewo",
+      "id": "DX294mXfwZw9"
+    },
+    {
+      "name": "Chocznia",
+      "id": "1iCQM79w6MLV"
+    },
+    {
+      "name": "Chojna",
+      "id": "NXzI6kN43VAr"
+    },
+    {
+      "name": "Chojnice",
+      "id": "ueTDeylBfdIJ"
+    },
+    {
+      "name": "Choroszcz",
+      "id": "ev0EEVMw6kKg"
+    },
+    {
+      "name": "Chorzele",
+      "id": "T5kvQbAQ1G8D"
+    },
+    {
+      "name": "Chorzelow",
+      "id": "Ld48fskal3pC"
+    },
+    {
+      "name": "Choszczno",
+      "id": "2g6foY5VsOmG"
+    },
+    {
+      "name": "Chotel",
+      "id": "VKR57evE27kz"
+    },
+    {
+      "name": "Chotomow",
+      "id": "HEWnWNChtVh7"
+    },
+    {
+      "name": "Chrzan",
+      "id": "V_b9ncjCo4-6"
+    },
+    {
+      "name": "Chrzastowka",
+      "id": "-H2zHg_S9yjc"
+    },
+    {
+      "name": "Chrzesne",
+      "id": "F47y_jkhePVX"
+    },
+    {
+      "name": "Chrzowice",
+      "id": "HR6fS5zEgKBU"
+    },
+    {
+      "name": "Chwaszczyno",
+      "id": "bQ_FOAuVYv8d"
+    },
+    {
+      "name": "Chybie",
+      "id": "t6xLnQm-Zx4f"
+    },
+    {
+      "name": "Chylice",
+      "id": "XkE7BLUjNuei"
+    },
+    {
+      "name": "Chyliczki",
+      "id": "HnT7vGWaYRsM"
+    },
+    {
+      "name": "Cianowice Duze",
+      "id": "lYf3IAL1aalZ"
+    },
+    {
+      "name": "Ciasna",
+      "id": "ptd6dEveNDPw"
+    },
+    {
+      "name": "Ciechocin",
+      "id": "F-HBd-qOQMZX"
+    },
+    {
+      "name": "Ciechocinek",
+      "id": "mhwG9NTKN5N2"
+    },
+    {
+      "name": "Cierpice",
+      "id": "CzCzfflpZ6b0"
+    },
+    {
+      "name": "Cieszkow",
+      "id": "XWt0jXJD9XY2"
+    },
+    {
+      "name": "Cieszyn",
+      "id": "qwIE_xQ4j0mT"
+    },
+    {
+      "name": "Ciezkowice",
+      "id": "-18FfhkiP7C0"
+    },
+    {
+      "name": "Cigacice",
+      "id": "ybLMwtv5Rj7K"
+    },
+    {
+      "name": "Cisiec",
+      "id": "w_g5UgfTk8Jq"
+    },
+    {
+      "name": "Cmielow",
+      "id": "b4eWcGuu-RH1"
+    },
+    {
+      "name": "Cmolas",
+      "id": "l_qvamgVjIMi"
+    },
+    {
+      "name": "Cwiklice",
+      "id": "d9wYHnaX18v_"
+    },
+    {
+      "name": "Cybinka",
+      "id": "tfhWoR9BuO_S"
+    },
+    {
+      "name": "Czaniec",
+      "id": "KFzGkRJZ6zOW"
+    },
+    {
+      "name": "Czaplinek",
+      "id": "qBdtMxSW50_V"
+    },
+    {
+      "name": "Czapury",
+      "id": "SjWN0I4O4lF3"
+    },
+    {
+      "name": "Czarna",
+      "id": "6Xx9l9w1lrYJ"
+    },
+    {
+      "name": "Czarne",
+      "id": "A7lkvJySu2lB"
+    },
+    {
+      "name": "Czarnkow",
+      "id": "bzRlGoDww-6W"
+    },
+    {
+      "name": "Czarnozyly",
+      "id": "bwDL1i1-7Xs8"
+    },
+    {
+      "name": "Czarny Bor",
+      "id": "bLc4TcQjDDbw"
+    },
+    {
+      "name": "Czarny Dunajec",
+      "id": "H1MJ5TqXeHv6"
+    },
+    {
+      "name": "Czarny Las",
+      "id": "9NPYXf6pCGH8"
+    },
+    {
+      "name": "Czarze",
+      "id": "pHcMx07axTDY"
+    },
+    {
+      "name": "Czastary",
+      "id": "n3_o64Be5nJc"
+    },
+    {
+      "name": "Czechowice-Dziedzice",
+      "id": "56RynrnlVaVH"
+    },
+    {
+      "name": "Czekanow",
+      "id": "NLtl2HPQtnqd"
+    },
+    {
+      "name": "Czeladz",
+      "id": "j58ClG_Pwv-N"
+    },
+    {
+      "name": "Czempin",
+      "id": "jxaUEMmImExz"
+    },
+    {
+      "name": "Czernica",
+      "id": "IDktZsNzGin8"
+    },
+    {
+      "name": "Czernichow",
+      "id": "VXv5i0SjvzcR"
+    },
+    {
+      "name": "Czerniewice",
+      "id": "v7so2TUHEwxM"
+    },
+    {
+      "name": "Czersk",
+      "id": "-ls5WJnjtmrz"
+    },
+    {
+      "name": "Czerwiensk",
+      "id": "vqMNC2cJxAd4"
+    },
+    {
+      "name": "Czerwionka-Leszczyny",
+      "id": "7-3abi0CdeUJ"
+    },
+    {
+      "name": "Czerwonak",
+      "id": "-shlhGMcrd2a"
+    },
+    {
+      "name": "Czluchow",
+      "id": "EU_p5uhyO8j0"
+    },
+    {
+      "name": "Czosnow",
+      "id": "QfT7WdFAm5FH"
+    },
+    {
+      "name": "Czudec",
+      "id": "WOHv3LYguW-b"
+    },
+    {
+      "name": "Czyzyny",
+      "id": "PcvRUuycLDDE"
+    },
+    {
+      "name": "Dabki",
+      "id": "3nHE-g3ltGz0"
+    },
+    {
+      "name": "Dabrowa",
+      "id": "Npf2-L0YYnQZ"
+    },
+    {
+      "name": "Dabrowa Bialostocka",
+      "id": "lVQ-mw7ZZTRg"
+    },
+    {
+      "name": "Dabrowa Biskupia",
+      "id": "VL_mDgzartkd"
+    },
+    {
+      "name": "Dabrowa Chelminska",
+      "id": "-W8WabYkAFwJ"
+    },
+    {
+      "name": "Dabrowa Chotomowska",
+      "id": "Sy2WMmaVDD2j"
+    },
+    {
+      "name": "Dabrowka Wielka",
+      "id": "5q0T4CC0qCqD"
+    },
+    {
+      "name": "Dabrowno",
+      "id": "YcmFCYJ-gm-F"
+    },
+    {
+      "name": "Dabrowskie",
+      "id": "gxxE3Kcp8B5C"
+    },
+    {
+      "name": "Daleszyce",
+      "id": "sOVudS05aA21"
+    },
+    {
+      "name": "Damnica",
+      "id": "GFB0JnRsjDPB"
+    },
+    {
+      "name": "Dankowice",
+      "id": "WJnnRrUMCwXe"
+    },
+    {
+      "name": "Dargoslaw",
+      "id": "dNLQYfxDHXnh"
+    },
+    {
+      "name": "Darnowo",
+      "id": "uNqNCPtGNMS_"
+    },
+    {
+      "name": "Debe Wielkie",
+      "id": "2JoLdD_AuAXP"
+    },
+    {
+      "name": "Debica",
+      "id": "TAnr9d5pOzT5"
+    },
+    {
+      "name": "Debina",
+      "id": "KMBo5Ma5Ga9c"
+    },
+    {
+      "name": "Deblin",
+      "id": "HTWnayqJu843"
+    },
+    {
+      "name": "Debno",
+      "id": "_4BxGrzGwrFK"
+    },
+    {
+      "name": "Debowiec",
+      "id": "PdZq4TEQdVev"
+    },
+    {
+      "name": "Debrzno Wies",
+      "id": "yeBUyH8DrOQK"
+    },
+    {
+      "name": "Deszczno",
+      "id": "CRdrx_b0Bi-K"
+    },
+    {
+      "name": "Dlugopole-Zdroj",
+      "id": "AUSfdJ_C1oHl"
+    },
+    {
+      "name": "Dobiesz",
+      "id": "H-OZhm0oetIf"
+    },
+    {
+      "name": "Dobieszowice",
+      "id": "rIDLRTF9BcBu"
+    },
+    {
+      "name": "Dobra",
+      "id": "ItJGaOSDOpz-"
+    },
+    {
+      "name": "Dobre Miasto",
+      "id": "JADQQnF9ERDg"
+    },
+    {
+      "name": "Dobrodzien",
+      "id": "S7glR-slGr4N"
+    },
+    {
+      "name": "Dobromierz",
+      "id": "x3P07x3d7v6H"
+    },
+    {
+      "name": "Dobron",
+      "id": "3sDgemWmhh4V"
+    },
+    {
+      "name": "Dobroszyce",
+      "id": "2IxQHFHCNMne"
+    },
+    {
+      "name": "Dobrzany",
+      "id": "_6dQpIEnAX9Z"
+    },
+    {
+      "name": "Dobrzen Wielki",
+      "id": "SSKJfBcsbpT4"
+    },
+    {
+      "name": "Dobrzyca",
+      "id": "Li4R2PhpBK-C"
+    },
+    {
+      "name": "Dolaszewo",
+      "id": "KgdVYI7AQsua"
+    },
+    {
+      "name": "Dolice",
+      "id": "c6yi5AyFHqxm"
+    },
+    {
+      "name": "Domaniewice",
+      "id": "SHcY2uYJ0BQz"
+    },
+    {
+      "name": "Domaradz",
+      "id": "5Bp2nOdr6zeh"
+    },
+    {
+      "name": "Domaslaw",
+      "id": "2qRlviVcXGAp"
+    },
+    {
+      "name": "Dopiewiec",
+      "id": "KaiTNMpAXhSU"
+    },
+    {
+      "name": "Drawno",
+      "id": "Vagx6C7Nr6Wp"
+    },
+    {
+      "name": "Drawsko Pomorskie",
+      "id": "dnqgCTWpNY2w"
+    },
+    {
+      "name": "Drewnica",
+      "id": "Cdc1EO3qI7l9"
+    },
+    {
+      "name": "Drezdenko",
+      "id": "sIc9NzOytrQn"
+    },
+    {
+      "name": "Drohiczyn",
+      "id": "1qCVs6FIHuY_"
+    },
+    {
+      "name": "Drozdowo",
+      "id": "YM99f6daJLn_"
+    },
+    {
+      "name": "Druzbice",
+      "id": "ScJ5EN2GNaWr"
+    },
+    {
+      "name": "Drzewica",
+      "id": "Q69EAAfCddBR"
+    },
+    {
+      "name": "Duczki",
+      "id": "qkICIeYUJ3lH"
+    },
+    {
+      "name": "Dukla",
+      "id": "dYiuRi2cbqKf"
+    },
+    {
+      "name": "Dulcza Wielka",
+      "id": "k5fd7vKuFniE"
+    },
+    {
+      "name": "Dunaj",
+      "id": "NL272NEnAtKv"
+    },
+    {
+      "name": "Duszniki-Zdroj",
+      "id": "M-zjlKp25dEM"
+    },
+    {
+      "name": "Dygowo",
+      "id": "_mcqltDCd7PX"
+    },
+    {
+      "name": "Dylewo",
+      "id": "cKJdLLNXG5sg"
+    },
+    {
+      "name": "Dynow",
+      "id": "RMJVDTfz9naR"
+    },
+    {
+      "name": "Dywity",
+      "id": "cs_k70VkU7YO"
+    },
+    {
+      "name": "Dzialoszyn",
+      "id": "kbJ0Fl7Vak-N"
+    },
+    {
+      "name": "Dziechciniec",
+      "id": "sR0UxcXOEY9k"
+    },
+    {
+      "name": "Dziegielow",
+      "id": "l2I2lZWo_PPu"
+    },
+    {
+      "name": "Dziekanow Lesny",
+      "id": "BmmAwV6jIikf"
+    },
+    {
+      "name": "Dzielna",
+      "id": "rOgWZAwN11P0"
+    },
+    {
+      "name": "Dzierzazno",
+      "id": "VDu5F7yhFDbD"
+    },
+    {
+      "name": "Dzierzgon",
+      "id": "Wv1QCEoEuEDs"
+    },
+    {
+      "name": "Dzierzoniow",
+      "id": "W6_aR09BCmZx"
+    },
+    {
+      "name": "Dziewin",
+      "id": "ADHySDhLXndZ"
+    },
+    {
+      "name": "Dzikowiec",
+      "id": "eZXI4lMgGPE-"
+    },
+    {
+      "name": "Dziwnow",
+      "id": "5ZB85ZG3oF-Y"
+    },
+    {
+      "name": "Dzwierzuty",
+      "id": "5wxdURIvtCXp"
+    },
+    {
+      "name": "Elblag",
+      "id": "FVUf4wCQKhJv"
+    },
+    {
+      "name": "Elzbieta",
+      "id": "lpLg473-8yCi"
+    },
+    {
+      "name": "Fabianki",
+      "id": "qfPi__-GGt1F"
+    },
+    {
+      "name": "Falkow",
+      "id": "Zs7cvwH71Mvp"
+    },
+    {
+      "name": "Falkowo",
+      "id": "MQTkUy5SGlOP"
+    },
+    {
+      "name": "Frank",
+      "id": "pARdy0Re5ZlN"
+    },
+    {
+      "name": "Frombork",
+      "id": "LDY26O6o9jTf"
+    },
+    {
+      "name": "Frydrychowice",
+      "id": "lhCd2qpN10nS"
+    },
+    {
+      "name": "Frysztak",
+      "id": "Hkvh9MA6jRL_"
+    },
+    {
+      "name": "Gadka Stara",
+      "id": "Bd7CYS-CiJLD"
+    },
+    {
+      "name": "Garbow",
+      "id": "HUBcR3CrXY9f"
+    },
+    {
+      "name": "Garby",
+      "id": "hSPoKnNt0Odg"
+    },
+    {
+      "name": "Garki",
+      "id": "WlnHxBzcZanc"
+    },
+    {
+      "name": "Garwolin",
+      "id": "Py3Zn-n-bBRv"
+    },
+    {
+      "name": "Gaszowice",
+      "id": "zsOwnL9AEsJ1"
+    },
+    {
+      "name": "Gaworzyce",
+      "id": "ekWRc-QL6Q5h"
+    },
+    {
+      "name": "Gdow",
+      "id": "fIhNJfC9Xmzc"
+    },
+    {
+      "name": "Gdynia",
+      "id": "F3r4HWlDR3Tc"
+    },
+    {
+      "name": "Giby",
+      "id": "BK36_4y7Xg_o"
+    },
+    {
+      "name": "Gieraltowice",
+      "id": "3ZYGI9gY3WEU"
+    },
+    {
+      "name": "Gizalki",
+      "id": "zcgZgv809Fhs"
+    },
+    {
+      "name": "Gizyce",
+      "id": "nNeNAuz43opH"
+    },
+    {
+      "name": "Gliwice",
+      "id": "sSFFAefcqFAk"
+    },
+    {
+      "name": "Glogow Malopolski",
+      "id": "t5oOkh__jZeN"
+    },
+    {
+      "name": "Glogowek",
+      "id": "wQGol9f7nfSa"
+    },
+    {
+      "name": "Gloskow",
+      "id": "K0nABn6weJJB"
+    },
+    {
+      "name": "Glowienka",
+      "id": "WIMjcrkATy0K"
+    },
+    {
+      "name": "Glowna",
+      "id": "5bzlyg2goIAQ"
+    },
+    {
+      "name": "Glowno",
+      "id": "csHR46qmXGLK"
+    },
+    {
+      "name": "Glubczyce",
+      "id": "Gl06tl_BgrSW"
+    },
+    {
+      "name": "Glucholazy",
+      "id": "5bANVWWC3GRX"
+    },
+    {
+      "name": "Gluchow",
+      "id": "Lle3jFWZyrBO"
+    },
+    {
+      "name": "Gluszyca",
+      "id": "fTXtndlqtEaf"
+    },
+    {
+      "name": "Gmina Babiak",
+      "id": "-suqsAEWtBKs"
+    },
+    {
+      "name": "Gmina Bobrowo",
+      "id": "woLSkez1ipKN"
+    },
+    {
+      "name": "Gmina Chmielno",
+      "id": "Jw2CA-aVv-A6"
+    },
+    {
+      "name": "Gmina Ciechanowiec",
+      "id": "nnytQLLp__V3"
+    },
+    {
+      "name": "Gmina Gnojno",
+      "id": "4Ab9ZocNYPah"
+    },
+    {
+      "name": "Gmina Kiszkowo",
+      "id": "hWJ3dCoE1p8g"
+    },
+    {
+      "name": "Gmina Kolno",
+      "id": "opEAOgBks3dw"
+    },
+    {
+      "name": "Gmina Konarzyny",
+      "id": "NXhGW9u20Jvy"
+    },
+    {
+      "name": "Gmina Lipno",
+      "id": "G3zdg-XXN-uA"
+    },
+    {
+      "name": "Gmina Ludwin",
+      "id": "S9ytnSL-0qfy"
+    },
+    {
+      "name": "Gmina Lutomiersk",
+      "id": "bWpTjjK4JaPq"
+    },
+    {
+      "name": "Gmina Morawica",
+      "id": "fKWVfsxzXX6h"
+    },
+    {
+      "name": "Gmina Moszczenica",
+      "id": "Q_kEV5qGi3bq"
+    },
+    {
+      "name": "Gmina Opole Lubelskie",
+      "id": "olcsY_TPJyiA"
+    },
+    {
+      "name": "Gmina Przywidz",
+      "id": "VKHuyPP1witS"
+    },
+    {
+      "name": "Gmina Sadowie",
+      "id": "19eQMf8uGivh"
+    },
+    {
+      "name": "Gmina Sierakowice",
+      "id": "4kEsG0EH7U3-"
+    },
+    {
+      "name": "Gmina Strzelin",
+      "id": "shILgwB8HiI3"
+    },
+    {
+      "name": "Gmina Szubin",
+      "id": "0fEcstlY2ARd"
+    },
+    {
+      "name": "Gmina Widawa",
+      "id": "zBi6ET-6-M2u"
+    },
+    {
+      "name": "Gmina Wyszki",
+      "id": "8SnlSUzLSKQv"
+    },
+    {
+      "name": "Gmina Zakliczyn",
+      "id": "n6AzkW2yFUIN"
+    },
+    {
+      "name": "Gniew",
+      "id": "839Nc-kyw36v"
+    },
+    {
+      "name": "Gniewino",
+      "id": "cUDhzS6znf_R"
+    },
+    {
+      "name": "Gniewkowo",
+      "id": "-StTt5vW4smf"
+    },
+    {
+      "name": "Gniezno",
+      "id": "5uThmRCO_NL9"
+    },
+    {
+      "name": "Gnuszyn",
+      "id": "hmmwt7H-dNm8"
+    },
+    {
+      "name": "Godziszewo",
+      "id": "DlysJNE6ZkKX"
+    },
+    {
+      "name": "Gogolin",
+      "id": "SBywqbhbcf1u"
+    },
+    {
+      "name": "Golanice",
+      "id": "qCaNs_9n4xAb"
+    },
+    {
+      "name": "Golasowice",
+      "id": "c5shtRi4lm0-"
+    },
+    {
+      "name": "Golczewo",
+      "id": "2TjcOgpYDZaH"
+    },
+    {
+      "name": "Goleszow",
+      "id": "8IXWz9jdZFFa"
+    },
+    {
+      "name": "Golkowice",
+      "id": "lqG80M7PxmqL"
+    },
+    {
+      "name": "Golotczyzna",
+      "id": "A0WZcT1W7VWI"
+    },
+    {
+      "name": "Golub-Dobrzyn",
+      "id": "ZYrF2ggvk1LK"
+    },
+    {
+      "name": "Gomunice",
+      "id": "5ud6X4DLZ51R"
+    },
+    {
+      "name": "Gora",
+      "id": "ebKEnY72HDCw"
+    },
+    {
+      "name": "Gora Kalwaria",
+      "id": "1xZgEnOcpbJM"
+    },
+    {
+      "name": "Gora Pulawska",
+      "id": "m3tIOowKxhRV"
+    },
+    {
+      "name": "Gora Siewierska",
+      "id": "g4owJ8_iVhG1"
+    },
+    {
+      "name": "Gorazdze",
+      "id": "gn5n-jYVTayz"
+    },
+    {
+      "name": "Gorki Wielkie",
+      "id": "EWBW5ujZ6Oa6"
+    },
+    {
+      "name": "Gorlice",
+      "id": "UO1jjgWkvuQw"
+    },
+    {
+      "name": "Gorno",
+      "id": "pSsUJkj6S25C"
+    },
+    {
+      "name": "Gorz",
+      "id": "mtzK2n8877Rp"
+    },
+    {
+      "name": "Gorzkow",
+      "id": "GD82HbbJGiIB"
+    },
+    {
+      "name": "Gorzkowice",
+      "id": "9hpXtIqkzg-Y"
+    },
+    {
+      "name": "Gorzow",
+      "id": "di5_9UcH5rZu"
+    },
+    {
+      "name": "Gorzow Slaski",
+      "id": "qbLVicuhpc0H"
+    },
+    {
+      "name": "Gorzyce",
+      "id": "8SfHJSn1t2fk"
+    },
+    {
+      "name": "Gorzyczki",
+      "id": "FZUcPhn-UDjj"
+    },
+    {
+      "name": "Gostyn",
+      "id": "vptgBLDcRti4"
+    },
+    {
+      "name": "Gostynin",
+      "id": "ah1hVmb3_HRk"
+    },
+    {
+      "name": "Goszczyn",
+      "id": "8A8OGp2Qp-pl"
+    },
+    {
+      "name": "Gowarzewo",
+      "id": "AKgVI9lj26iu"
+    },
+    {
+      "name": "Gowino",
+      "id": "4-_K6Uc3mefg"
+    },
+    {
+      "name": "Gozdnica",
+      "id": "Jr3v_nHRLujh"
+    },
+    {
+      "name": "Gozdowo",
+      "id": "6qC1h7F9OY1c"
+    },
+    {
+      "name": "Grabiec",
+      "id": "-T6kKpqn6m21"
+    },
+    {
+      "name": "Grabki Duze",
+      "id": "29Ai-h93IVK5"
+    },
+    {
+      "name": "Grabow nad Prosna",
+      "id": "Eko2vsjHX91r"
+    },
+    {
+      "name": "Grabowka",
+      "id": "BVYJEZIvTHUs"
+    },
+    {
+      "name": "Gracze",
+      "id": "JPnjBhLHIOQ8"
+    },
+    {
+      "name": "Grajewo",
+      "id": "KWqj7g-6BB55"
+    },
+    {
+      "name": "Grebocice",
+      "id": "CeJSsaVxowOI"
+    },
+    {
+      "name": "Grebocin",
+      "id": "d42wGDxtmYRU"
+    },
+    {
+      "name": "Grodki",
+      "id": "tK5o_IqX61AG"
+    },
+    {
+      "name": "Grodkow",
+      "id": "u2UvuZQ9xOGo"
+    },
+    {
+      "name": "Grodzisk",
+      "id": "EPGBYaFfy8LT"
+    },
+    {
+      "name": "Grodzisk Mazowiecki",
+      "id": "uvXkhSl1usXW"
+    },
+    {
+      "name": "Grodzisk Wielkopolski",
+      "id": "Dvq_QmKD1344"
+    },
+    {
+      "name": "Grodzisko Dolne",
+      "id": "_AeeCjzcmPmg"
+    },
+    {
+      "name": "Grojec",
+      "id": "iEfQaBEQ6C1q"
+    },
+    {
+      "name": "Gromiec",
+      "id": "7JUH-wxnhPYg"
+    },
+    {
+      "name": "Gronowo Elblaskie",
+      "id": "E1srAgg6OfgX"
+    },
+    {
+      "name": "Gruczno",
+      "id": "B7HlzU2SSSUe"
+    },
+    {
+      "name": "Grunwald",
+      "id": "kWpzTV35-Mr6"
+    },
+    {
+      "name": "Grupa",
+      "id": "0QTAX0gTS1Vk"
+    },
+    {
+      "name": "Gruszczyn",
+      "id": "FhK-uKI5p_cN"
+    },
+    {
+      "name": "Grybow",
+      "id": "Po1otEeMbHSm"
+    },
+    {
+      "name": "Gryfice",
+      "id": "TuDOjBSzT5g2"
+    },
+    {
+      "name": "Gryfino",
+      "id": "yQ1DtiC6UGel"
+    },
+    {
+      "name": "Gryfow Slaski",
+      "id": "cT7_o0B8JYx2"
+    },
+    {
+      "name": "Grzebien",
+      "id": "uIXE1IsQnIXl"
+    },
+    {
+      "name": "Grzegorz",
+      "id": "Rw_AU48eWDUM"
+    },
+    {
+      "name": "Grzmiaca",
+      "id": "s0C_AQWsV1c8"
+    },
+    {
+      "name": "Grzmucin",
+      "id": "JGeb_GrY2wRV"
+    },
+    {
+      "name": "Gubin",
+      "id": "onvSnusLNrTV"
+    },
+    {
+      "name": "Gzin",
+      "id": "XK4P9CdQNtKt"
+    },
+    {
+      "name": "Haczow",
+      "id": "-NpMp2kWrCul"
+    },
+    {
+      "name": "Harasiuki",
+      "id": "j4fyG4YT1sAj"
+    },
+    {
+      "name": "Hecznarowice",
+      "id": "2M8vFXFhEzRG"
+    },
+    {
+      "name": "Henrykow",
+      "id": "ZB8gnGjFxjKE"
+    },
+    {
+      "name": "Hornowek",
+      "id": "7p9JmX6eY0XE"
+    },
+    {
+      "name": "Hucisko Jawornickie",
+      "id": "vkGcCGvwcZfB"
+    },
+    {
+      "name": "Humniska",
+      "id": "v99Qjs6HMyOu"
+    },
+    {
+      "name": "Huta Dabrowa",
+      "id": "qQdLk8Vqwyl1"
+    },
+    {
+      "name": "Huta Dlutowska",
+      "id": "E4ZRjjI74ktC"
+    },
+    {
+      "name": "Huta Stara",
+      "id": "b-moGQfv1eTx"
+    },
+    {
+      "name": "Ilowa",
+      "id": "7vF5iLJEtcZo"
+    },
+    {
+      "name": "Ilowo",
+      "id": "-grpJPPSbVXW"
+    },
+    {
+      "name": "Ilza",
+      "id": "qybzcrxieDNa"
+    },
+    {
+      "name": "Imielin",
+      "id": "hNmMVmTS_Ced"
+    },
+    {
+      "name": "Iwaniska",
+      "id": "2WYW-E8M4RnV"
+    },
+    {
+      "name": "Iwanowice",
+      "id": "Lz4YHaPYCbDS"
+    },
+    {
+      "name": "Iwiczna",
+      "id": "vPxrBUgMdW65"
+    },
+    {
+      "name": "Iwierzyce",
+      "id": "72vN5CXxcagR"
+    },
+    {
+      "name": "Iwla",
+      "id": "1SzAxTualC-2"
+    },
+    {
+      "name": "Iwonicz-Zdroj",
+      "id": "-hWZQl8lQijF"
+    },
+    {
+      "name": "Izabela",
+      "id": "dJfn1sbc4NOB"
+    },
+    {
+      "name": "Izabelin",
+      "id": "DttckuwS_w7J"
+    },
+    {
+      "name": "Jablonica",
+      "id": "LMwRVn2z4Aiq"
+    },
+    {
+      "name": "Jablonka",
+      "id": "3jhCXlC6Ai90"
+    },
+    {
+      "name": "Jablonna",
+      "id": "8UEyfe3VHAS7"
+    },
+    {
+      "name": "Janin",
+      "id": "e8BrgqPJtFMt"
+    },
+    {
+      "name": "Jankowice",
+      "id": "4XQ31b2MnqB2"
+    },
+    {
+      "name": "Janow",
+      "id": "9vscneSFhOKb"
+    },
+    {
+      "name": "Janow Lubelski",
+      "id": "rBjGX_AH6ri7"
+    },
+    {
+      "name": "Jarkowice",
+      "id": "HQAgfnUomx-2"
+    },
+    {
+      "name": "Jarocin",
+      "id": "z6aS8u_2Zwik"
+    },
+    {
+      "name": "Jaroszow",
+      "id": "LGdw-gqx7pV1"
+    },
+    {
+      "name": "Jaroszowiec",
+      "id": "-ERwnCb4co92"
+    },
+    {
+      "name": "Jasienica",
+      "id": "66YNpt8uZcKT"
+    },
+    {
+      "name": "Jasienica Dolna",
+      "id": "Us_OWRW3H9BA"
+    },
+    {
+      "name": "Jasieniec",
+      "id": "lc5_jX5m_O2s"
+    },
+    {
+      "name": "Jaslo",
+      "id": "A32Zy0xfYftX"
+    },
+    {
+      "name": "Jastkow",
+      "id": "YLEikG7SW-je"
+    },
+    {
+      "name": "Jastrowie",
+      "id": "GIoAB5W9XRC3"
+    },
+    {
+      "name": "Jastrzebie",
+      "id": "ivia9HCRwm06"
+    },
+    {
+      "name": "Jawiszowice",
+      "id": "FWRNe3TqlsJT"
+    },
+    {
+      "name": "Jawor",
+      "id": "pRDdPiPcOtvH"
+    },
+    {
+      "name": "Jaworzno",
+      "id": "93QB5PWSkrgN"
+    },
+    {
+      "name": "Jaworzyna Slaska",
+      "id": "nHP-cJaqW7DW"
+    },
+    {
+      "name": "Jedlicze",
+      "id": "LGHbCimL7tVL"
+    },
+    {
+      "name": "Jedlnia-Letnisko",
+      "id": "MIAmco34th54"
+    },
+    {
+      "name": "Jelesnia",
+      "id": "IjRn2vktYXBr"
+    },
+    {
+      "name": "Jemielnica",
+      "id": "v-aiaRExBCTY"
+    },
+    {
+      "name": "Jerzmanowice",
+      "id": "mdp2nJIAHe1X"
+    },
+    {
+      "name": "Jeziora Wielkie",
+      "id": "n8exr7vq_kKO"
+    },
+    {
+      "name": "Jeziorany",
+      "id": "aGk-3GOYEX0d"
+    },
+    {
+      "name": "Jezowe",
+      "id": "MEJx-gN-dbEd"
+    },
+    {
+      "name": "Jordanow",
+      "id": "wABO1so0ZJqG"
+    },
+    {
+      "name": "Jozefatow",
+      "id": "4sHXWKWZLbYf"
+    },
+    {
+      "name": "Jozefoslaw",
+      "id": "_ohm1NO5C7yI"
+    },
+    {
+      "name": "Jozefow",
+      "id": "n8M4XJ1ZSXIz"
+    },
+    {
+      "name": "Juchnowiec Koscielny",
+      "id": "OUJVk00SzIcJ"
+    },
+    {
+      "name": "Jugow",
+      "id": "zNizwrDRasNY"
+    },
+    {
+      "name": "Juszkowo",
+      "id": "yqvmf_NEYewh"
+    },
+    {
+      "name": "Jutrosin",
+      "id": "KYsGpkvF8T3R"
+    },
+    {
+      "name": "Kaczkowo",
+      "id": "I8W6lRIT751P"
+    },
+    {
+      "name": "Kaczor",
+      "id": "vneoYNUQK1S6"
+    },
+    {
+      "name": "Kalety",
+      "id": "8seHw79mAkFZ"
+    },
+    {
+      "name": "Kalisz",
+      "id": "vaasCTkYKVyV"
+    },
+    {
+      "name": "Kalwaria Zebrzydowska",
+      "id": "s4Tp1vTke4cu"
+    },
+    {
+      "name": "Kamien",
+      "id": "FMu7u4X9rfnd"
+    },
+    {
+      "name": "Kamien Krajenski",
+      "id": "98CSWTyuqT4N"
+    },
+    {
+      "name": "Kamien Pomorski",
+      "id": "PNI1ZApfu_oY"
+    },
+    {
+      "name": "Kamien Slaski",
+      "id": "BFesy61pyawa"
+    },
+    {
+      "name": "Kamienica Polska",
+      "id": "mz1C_mcpyNOF"
+    },
+    {
+      "name": "Kamieniec",
+      "id": "FTIX9LSL2Z05"
+    },
+    {
+      "name": "Kamienna Gora",
+      "id": "ukPESP1qZNw4"
+    },
+    {
+      "name": "Kamionki",
+      "id": "t0qv0EB62oFm"
+    },
+    {
+      "name": "Kampinos",
+      "id": "0o_4XYLkgsZc"
+    },
+    {
+      "name": "Kanczuga",
+      "id": "U7xcj_jEkdaO"
+    },
+    {
+      "name": "Karchowice",
+      "id": "cAO6XNPysXe7"
+    },
+    {
+      "name": "Karczew",
+      "id": "T7FSnLZsu-du"
+    },
+    {
+      "name": "Kargowa",
+      "id": "1YvDMOGefsMf"
+    },
+    {
+      "name": "Karlikowo",
+      "id": "a9BGPrbU080X"
+    },
+    {
+      "name": "Karlino",
+      "id": "QbfFEwJsIw4X"
+    },
+    {
+      "name": "Karnice",
+      "id": "05njlQMW1P0P"
+    },
+    {
+      "name": "Karniowice",
+      "id": "W7leNbz4D5AS"
+    },
+    {
+      "name": "Karpacz",
+      "id": "3vxXul8Rwab3"
+    },
+    {
+      "name": "Karpiska",
+      "id": "izkxV94ZPvcO"
+    },
+    {
+      "name": "Karsko",
+      "id": "4OZDbD81MY-V"
+    },
+    {
+      "name": "Kartuzy",
+      "id": "GeTkrhUIg7T2"
+    },
+    {
+      "name": "Kasinka",
+      "id": "SL0QoFE--O14"
+    },
+    {
+      "name": "Katarzyna",
+      "id": "wIqAfl58FHmp"
+    },
+    {
+      "name": "Katowice",
+      "id": "rl7vJHSKwDp5"
+    },
+    {
+      "name": "Katy",
+      "id": "V2YQF-YT5rha"
+    },
+    {
+      "name": "Katy Wroclawskie",
+      "id": "VQ0flBxvO-Gb"
+    },
+    {
+      "name": "Kazimierz Biskupi",
+      "id": "qL2okALfYokh"
+    },
+    {
+      "name": "Kazimierz Dolny",
+      "id": "_cMdrRJRyuJ_"
+    },
+    {
+      "name": "Kazimierza Wielka",
+      "id": "1oSrA4hDsU_B"
+    },
+    {
+      "name": "Kazmierz",
+      "id": "BMkoboN06-1u"
+    },
+    {
+      "name": "Kcynia",
+      "id": "5L2p8bA-tYAH"
+    },
+    {
+      "name": "Keblowo",
+      "id": "33IB0vZk9ITX"
+    },
+    {
+      "name": "Kedzierzyn",
+      "id": "wOt2T0pGawsm"
+    },
+    {
+      "name": "Kedzierzyn-Kozle",
+      "id": "xhbo6fsplYws"
+    },
+    {
+      "name": "Kety",
+      "id": "OxnQf4ttzI1r"
+    },
+    {
+      "name": "Kicin",
+      "id": "aBDczM9N3ClZ"
+    },
+    {
+      "name": "Kielce",
+      "id": "ndFnroO3e385"
+    },
+    {
+      "name": "Kielcz",
+      "id": "g0uEPu5mJLEs"
+    },
+    {
+      "name": "Kielczow",
+      "id": "P798jmYIUq5F"
+    },
+    {
+      "name": "Kielno",
+      "id": "Lwtr3eorPGK5"
+    },
+    {
+      "name": "Kielpin",
+      "id": "O0vWMLMe1BQ9"
+    },
+    {
+      "name": "Kijewo Krolewskie",
+      "id": "KxRzdr65firN"
+    },
+    {
+      "name": "Klaj",
+      "id": "v39XGRNj2bAQ"
+    },
+    {
+      "name": "Klecko",
+      "id": "D4UmgFf96xGr"
+    },
+    {
+      "name": "Klecza Dolna",
+      "id": "-Tpgi9ch43Og"
+    },
+    {
+      "name": "Kleczany",
+      "id": "yOyVxeunK5R8"
+    },
+    {
+      "name": "Klenica",
+      "id": "Ozva7m_srOxj"
+    },
+    {
+      "name": "Kleszczewo",
+      "id": "_xfwB15dO40s"
+    },
+    {
+      "name": "Kleszczow",
+      "id": "r7XHXo56KMIC"
+    },
+    {
+      "name": "Klikawa",
+      "id": "k0qp_dmlyjgE"
+    },
+    {
+      "name": "Klikuszowa",
+      "id": "XTAl4WLAeokh"
+    },
+    {
+      "name": "Klimontow",
+      "id": "k_xrkmvtbfA2"
+    },
+    {
+      "name": "Kliniska",
+      "id": "HQzJ6eTvhBnZ"
+    },
+    {
+      "name": "Klobuck",
+      "id": "ADfd1RGOw-EM"
+    },
+    {
+      "name": "Klodawa",
+      "id": "sounbifvvIGH"
+    },
+    {
+      "name": "Klomnice",
+      "id": "bkOrB8lCM3XN"
+    },
+    {
+      "name": "Kluczbork",
+      "id": "yLITaLjGGtOd"
+    },
+    {
+      "name": "Klucze",
+      "id": "JYeoCWTa6wQg"
+    },
+    {
+      "name": "Knurow",
+      "id": "iNTMWdp3dxqG"
+    },
+    {
+      "name": "Knyszyn",
+      "id": "yeLRNqC2ZFSi"
+    },
+    {
+      "name": "Kobiernice",
+      "id": "EDQXJ8Q0156W"
+    },
+    {
+      "name": "Kobierzyce",
+      "id": "6ia7sIOO6KBJ"
+    },
+    {
+      "name": "Kobior",
+      "id": "lhl5TwhMkYhN"
+    },
+    {
+      "name": "Kobylanka",
+      "id": "GtI5VCpWbrxi"
+    },
+    {
+      "name": "Kobylka",
+      "id": "7JDZwKqeLdJ8"
+    },
+    {
+      "name": "Kobylnica",
+      "id": "uESaZ0kSst-Q"
+    },
+    {
+      "name": "Kochcice",
+      "id": "z7LAZ7OptnVh"
+    },
+    {
+      "name": "Kocierzew Poludniowy",
+      "id": "bY_mBC8qiNtj"
+    },
+    {
+      "name": "Kocmyrzow",
+      "id": "U_M4kPQGsB8l"
+    },
+    {
+      "name": "Kojszowka",
+      "id": "NnXolLJ4lMMt"
+    },
+    {
+      "name": "Kokoszkowy",
+      "id": "trXZfHEYsdq4"
+    },
+    {
+      "name": "Kolbudy",
+      "id": "8D4nwlNANxPX"
+    },
+    {
+      "name": "Kolbuszowa",
+      "id": "331dZsdLDeLE"
+    },
+    {
+      "name": "Koleczkowo",
+      "id": "R1lhdfHjbyr9"
+    },
+    {
+      "name": "Kolno",
+      "id": "44FtXaxJXYXg"
+    },
+    {
+      "name": "Kolodziejewo",
+      "id": "KUrosozRRUvR"
+    },
+    {
+      "name": "Kolonia Zawada",
+      "id": "FN4Zq5lVV2yY"
+    },
+    {
+      "name": "Kolonowskie",
+      "id": "m7gMN7FNStfS"
+    },
+    {
+      "name": "Koluszki",
+      "id": "PVjaeJCHdtUI"
+    },
+    {
+      "name": "Komorniki",
+      "id": "r2tDYnw3-_Ho"
+    },
+    {
+      "name": "Komorow",
+      "id": "GhES4Q3HGJec"
+    },
+    {
+      "name": "Komorsk",
+      "id": "Rn0m8jXvzMZu"
+    },
+    {
+      "name": "Konarzewo",
+      "id": "3L18qP-ZhlNT"
+    },
+    {
+      "name": "Konarzyce",
+      "id": "49wui7ljk2Ze"
+    },
+    {
+      "name": "Konczyce Male",
+      "id": "51VQkJYclqlB"
+    },
+    {
+      "name": "Koniakow",
+      "id": "0C3J64k9hPm4"
+    },
+    {
+      "name": "Koniecpol",
+      "id": "vVrlOkK4Npcd"
+    },
+    {
+      "name": "Konin",
+      "id": "qt0Y3dlB3J5F"
+    },
+    {
+      "name": "Koniusza",
+      "id": "NZpwzEUGm1zK"
+    },
+    {
+      "name": "Konopiska",
+      "id": "aa3itLJ83WEM"
+    },
+    {
+      "name": "Konradowka",
+      "id": "wPjK9_LLsbqH"
+    },
+    {
+      "name": "Konstancin-Jeziorna",
+      "id": "zF_TD7rejZ4w"
+    },
+    {
+      "name": "Konstantyn",
+      "id": "-oO3sfzbUvd_"
+    },
+    {
+      "name": "Konstantynow",
+      "id": "o2t6KVqRSihq"
+    },
+    {
+      "name": "Konstantynow Lodzki",
+      "id": "vNr7irnLrPOk"
+    },
+    {
+      "name": "Kopki",
+      "id": "v5bxcZPIpA18"
+    },
+    {
+      "name": "Korczyna",
+      "id": "RojoFE1dqWYi"
+    },
+    {
+      "name": "Korfantow",
+      "id": "4duxfcI3udxh"
+    },
+    {
+      "name": "Kornik",
+      "id": "CWd1A-5z6dfv"
+    },
+    {
+      "name": "Koronowo",
+      "id": "M6FRepOzwmQF"
+    },
+    {
+      "name": "Korsze",
+      "id": "G8bihFBai3vC"
+    },
+    {
+      "name": "Korytow",
+      "id": "PggXeoEJcQxU"
+    },
+    {
+      "name": "Korzenna",
+      "id": "U_fyANLehK7M"
+    },
+    {
+      "name": "Kosakowo",
+      "id": "Jn07w-Hiw1_e"
+    },
+    {
+      "name": "Koscielisko",
+      "id": "m0W6n3QBITkY"
+    },
+    {
+      "name": "Koscierzyna",
+      "id": "U6ymWUH3h4aW"
+    },
+    {
+      "name": "Kosina",
+      "id": "uHm5H0vrv4Mw"
+    },
+    {
+      "name": "Kostrzyn",
+      "id": "Nwo4eACgpjGc"
+    },
+    {
+      "name": "Kostrzyn nad Odra",
+      "id": "JafEsHKQXKV-"
+    },
+    {
+      "name": "Koszalin",
+      "id": "C_BNWeM-EFig"
+    },
+    {
+      "name": "Koszecin",
+      "id": "E4Ix2LjMBWUy"
+    },
+    {
+      "name": "Koszyce",
+      "id": "YNt_CNUq0he9"
+    },
+    {
+      "name": "Koteze",
+      "id": "-bH5OJjj-PaL"
+    },
+    {
+      "name": "Kotlin",
+      "id": "LdzxeNJEis6l"
+    },
+    {
+      "name": "Kowal",
+      "id": "VytbrQzz3yx8"
+    },
+    {
+      "name": "Kowalew",
+      "id": "T5nUpC7PLFQf"
+    },
+    {
+      "name": "Kowalewo",
+      "id": "-3Kt31FEW1CG"
+    },
+    {
+      "name": "Kowalewo Pomorskie",
+      "id": "2evppfWIpDlR"
+    },
+    {
+      "name": "Kowalkow",
+      "id": "KgDfg9YTWo_L"
+    },
+    {
+      "name": "Kowalowa",
+      "id": "eAmRJxF-uoB5"
+    },
+    {
+      "name": "Kowary",
+      "id": "YmpJYKpuHvB7"
+    },
+    {
+      "name": "Kowiesy",
+      "id": "apv6EhS4IJFI"
+    },
+    {
+      "name": "Kozieglowy",
+      "id": "xYBkl6wtYiqf"
+    },
+    {
+      "name": "Kozienice",
+      "id": "GfMXg5EZOuzd"
+    },
+    {
+      "name": "Kozmin Wielkopolski",
+      "id": "16125pfB_CrU"
+    },
+    {
+      "name": "Kozminek",
+      "id": "dRy4PAl9CZW-"
+    },
+    {
+      "name": "Kozuchow",
+      "id": "18n3HmsovSOt"
+    },
+    {
+      "name": "Kozy",
+      "id": "sF-UciwIa0E-"
+    },
+    {
+      "name": "Krakow",
+      "id": "9oJGQxjCg6eg"
+    },
+    {
+      "name": "Krapkowice",
+      "id": "wW7LnwrBe_zx"
+    },
+    {
+      "name": "Krasiejow",
+      "id": "nhQ0L_Wxs80s"
+    },
+    {
+      "name": "Krasne",
+      "id": "UVWMUFrZNZ_x"
+    },
+    {
+      "name": "Krasnik",
+      "id": "-FmB6-Kl-Fnr"
+    },
+    {
+      "name": "Krasnystaw",
+      "id": "O-l32SBA1dzN"
+    },
+    {
+      "name": "Krasocin",
+      "id": "DYxlZeuaJfp4"
+    },
+    {
+      "name": "Kraszew",
+      "id": "ws9x6WD_qP1K"
+    },
+    {
+      "name": "Krepa Kaszubska",
+      "id": "O9Dx6wB5MyWM"
+    },
+    {
+      "name": "Krokowa",
+      "id": "kr1YZe5F_PxT"
+    },
+    {
+      "name": "Kroscienko Wyzne",
+      "id": "7d44EsWOBTEB"
+    },
+    {
+      "name": "Krosno",
+      "id": "opyRJEKpWFgk"
+    },
+    {
+      "name": "Krosno Odrzanskie",
+      "id": "kiUBpG6s1DVL"
+    },
+    {
+      "name": "Krosnowice",
+      "id": "26wxj4LNJCh6"
+    },
+    {
+      "name": "Krotoszyn",
+      "id": "JHa6MhbrVy1b"
+    },
+    {
+      "name": "Kruszyn",
+      "id": "63bgdkuqzhRt"
+    },
+    {
+      "name": "Kruszyna",
+      "id": "3IEpAK0-K_rR"
+    },
+    {
+      "name": "Krynica",
+      "id": "rqPpxsqCDt0R"
+    },
+    {
+      "name": "Krynica-Zdroj",
+      "id": "QSAUYUihNg3m"
+    },
+    {
+      "name": "Krypno",
+      "id": "K-30Hdr0mR47"
+    },
+    {
+      "name": "Krzepice",
+      "id": "ZLTIeAHcy6l4"
+    },
+    {
+      "name": "Krzeszow",
+      "id": "S3Vt2ku7mYMb"
+    },
+    {
+      "name": "Krzeszowice",
+      "id": "b62orkfCnW9b"
+    },
+    {
+      "name": "Krzyki-Partynice",
+      "id": "CkSQM04A3k8C"
+    },
+    {
+      "name": "Krzyszkowice",
+      "id": "oSVsGwmI7AlQ"
+    },
+    {
+      "name": "Krzywcza",
+      "id": "esOmH0asbnnK"
+    },
+    {
+      "name": "Krzywin",
+      "id": "yco6_e2otQgV"
+    },
+    {
+      "name": "Krzyz Wielkopolski",
+      "id": "82U3FwKYu0Oz"
+    },
+    {
+      "name": "Krzyzanowice",
+      "id": "RkLfO27ASyRA"
+    },
+    {
+      "name": "Ksiazenice",
+      "id": "FhGG-70zuqa4"
+    },
+    {
+      "name": "Ksieginice",
+      "id": "Xy_3UulnziwM"
+    },
+    {
+      "name": "Kukow",
+      "id": "W2A2UFNke5PA"
+    },
+    {
+      "name": "Kuligow",
+      "id": "uq2bMptz5mOz"
+    },
+    {
+      "name": "Kunice",
+      "id": "V6eNDzFZ7Pca"
+    },
+    {
+      "name": "Kunow",
+      "id": "LhdGsehizbrw"
+    },
+    {
+      "name": "Kurdwanow",
+      "id": "oJDUmMiPuMHP"
+    },
+    {
+      "name": "Kurek",
+      "id": "erkuJq2mTRYE"
+    },
+    {
+      "name": "Kurylowka",
+      "id": "tgzKL-P06GE8"
+    },
+    {
+      "name": "Kurzetnik",
+      "id": "cNzdujcPotAN"
+    },
+    {
+      "name": "Kusnierz",
+      "id": "I3sKmHCa6Xcf"
+    },
+    {
+      "name": "Kutno",
+      "id": "Wk3VEho9fIKg"
+    },
+    {
+      "name": "Kuznia",
+      "id": "VZ4vprWZ7hoL"
+    },
+    {
+      "name": "Kuznica Czarnkowska",
+      "id": "7LmQs4rIOJek"
+    },
+    {
+      "name": "Kuzniki",
+      "id": "WVZIfz66UrPV"
+    },
+    {
+      "name": "Kwaczala",
+      "id": "5o5a2hfTvsCL"
+    },
+    {
+      "name": "Kwidzyn",
+      "id": "sCsL-oP6uiLA"
+    },
+    {
+      "name": "Kwilcz",
+      "id": "IfcDmK9SYSIS"
+    },
+    {
+      "name": "Labiszyn",
+      "id": "5jMchR0GK4DI"
+    },
+    {
+      "name": "Labowa",
+      "id": "4RpA0zWclPg7"
+    },
+    {
+      "name": "Labunie",
+      "id": "kVqNRc2wMFWt"
+    },
+    {
+      "name": "Lachowice",
+      "id": "snu8oc18aMCf"
+    },
+    {
+      "name": "Lack",
+      "id": "WK0-EtH1iBlv"
+    },
+    {
+      "name": "Lacko",
+      "id": "ff6VPfQwE9jM"
+    },
+    {
+      "name": "Ladek",
+      "id": "FzeaEFLv8SXJ"
+    },
+    {
+      "name": "Lajsk",
+      "id": "hZqxfhdZ6MDo"
+    },
+    {
+      "name": "Laka",
+      "id": "rOUQ99VZzDpm"
+    },
+    {
+      "name": "Lancut",
+      "id": "s3eek0Cgx7_x"
+    },
+    {
+      "name": "Lany",
+      "id": "1GyvCMJkffza"
+    },
+    {
+      "name": "Lask",
+      "id": "2-S_I5pZuklV"
+    },
+    {
+      "name": "Laska",
+      "id": "IQxMQ8hKMzA4"
+    },
+    {
+      "name": "Laskarzew",
+      "id": "qMoB0cwtJHxz"
+    },
+    {
+      "name": "Latowicz",
+      "id": "kbWwQ9XjHM3M"
+    },
+    {
+      "name": "Laziska",
+      "id": "reRReT6sHsqa"
+    },
+    {
+      "name": "Laziska Gorne",
+      "id": "kjgRXmvwOiSA"
+    },
+    {
+      "name": "Leba",
+      "id": "EiDrr61k7TsV"
+    },
+    {
+      "name": "Lebork",
+      "id": "MtQ2PTIRfpjv"
+    },
+    {
+      "name": "Leczna",
+      "id": "fcRPSwgoCKEm"
+    },
+    {
+      "name": "Ledziny",
+      "id": "myHRqZHitemX"
+    },
+    {
+      "name": "Legionowo",
+      "id": "J0iMNrJXsd16"
+    },
+    {
+      "name": "Legnica",
+      "id": "YG-gNz8cJjSX"
+    },
+    {
+      "name": "Legowo",
+      "id": "MwiHkBuB8rpt"
+    },
+    {
+      "name": "Lekawica",
+      "id": "Fd9nYqdTz9_B"
+    },
+    {
+      "name": "Lelow",
+      "id": "aYsXkXkWyDIG"
+    },
+    {
+      "name": "Lesko",
+      "id": "ZY5Qjq2HUfDR"
+    },
+    {
+      "name": "Lesna",
+      "id": "_CawC1nJEcFU"
+    },
+    {
+      "name": "Lesnica",
+      "id": "Vr3tQClZMie6"
+    },
+    {
+      "name": "Leszkowice",
+      "id": "ecBa5AGrXiFr"
+    },
+    {
+      "name": "Leszno",
+      "id": "46vEB7FgJysh"
+    },
+    {
+      "name": "Lewin Brzeski",
+      "id": "yG_XwSyc2ep9"
+    },
+    {
+      "name": "Lezajsk",
+      "id": "HSXhe3mldKEQ"
+    },
+    {
+      "name": "Libiaz",
+      "id": "WdmtSVPedGSu"
+    },
+    {
+      "name": "Lidzbark",
+      "id": "ayAUtkPAREN1"
+    },
+    {
+      "name": "Ligota",
+      "id": "lnOaVI2sSE1D"
+    },
+    {
+      "name": "Limanowa",
+      "id": "UzuLS4Yr-rz7"
+    },
+    {
+      "name": "Liniewo",
+      "id": "22V8RbTQ8MtF"
+    },
+    {
+      "name": "Linowko",
+      "id": "UItf7dTToav6"
+    },
+    {
+      "name": "Lipinki Luzyckie",
+      "id": "FkSjT35veHkz"
+    },
+    {
+      "name": "Lipiny",
+      "id": "mNBDkAuecLVe"
+    },
+    {
+      "name": "Lipnica Murowana",
+      "id": "xfkfrhk0dt0r"
+    },
+    {
+      "name": "Lipnica Wielka",
+      "id": "KYADd8uRUsGD"
+    },
+    {
+      "name": "Lipnik",
+      "id": "OYk_pzTkKEul"
+    },
+    {
+      "name": "Lipno",
+      "id": "LuFfW0iZeiia"
+    },
+    {
+      "name": "Lipowa",
+      "id": "tvTrIQsHuqSS"
+    },
+    {
+      "name": "Lipsko",
+      "id": "vUGQM0H5g1eP"
+    },
+    {
+      "name": "Lipusz",
+      "id": "hIjG9e7fdcmj"
+    },
+    {
+      "name": "Lisewo",
+      "id": "9B8O2JUNhKwe"
+    },
+    {
+      "name": "Liskow",
+      "id": "ZSXR8J9Kit1W"
+    },
+    {
+      "name": "Liszki",
+      "id": "-1cZ_d2xC9ji"
+    },
+    {
+      "name": "Liw",
+      "id": "8P8zqXr48mlk"
+    },
+    {
+      "name": "Lobez",
+      "id": "PQmaiYm9nP_Q"
+    },
+    {
+      "name": "Lobzenica",
+      "id": "7Yjsg12qt7e9"
+    },
+    {
+      "name": "Lochow",
+      "id": "S-yMQJ9Z6sqa"
+    },
+    {
+      "name": "Lochowo",
+      "id": "kDN1UHK3n3v0"
+    },
+    {
+      "name": "Lodygowice",
+      "id": "mln7a2LyTYx5"
+    },
+    {
+      "name": "Lomianki",
+      "id": "fsQWiMXaUgQC"
+    },
+    {
+      "name": "Lomianki Dolne",
+      "id": "dDHy4JGufInV"
+    },
+    {
+      "name": "Lomnica",
+      "id": "c6aTVxocWVH9"
+    },
+    {
+      "name": "Lotyn",
+      "id": "Vo_K0hv0s6U2"
+    },
+    {
+      "name": "Lowicz",
+      "id": "E40PhLMg8bVf"
+    },
+    {
+      "name": "Lubaczow",
+      "id": "uBOzLZaeTcXv"
+    },
+    {
+      "name": "Luban",
+      "id": "9EyR1x5QXEOr"
+    },
+    {
+      "name": "Lubanie",
+      "id": "hU-jVc1eulbW"
+    },
+    {
+      "name": "Lubartow",
+      "id": "Yx8Yr617nk5w"
+    },
+    {
+      "name": "Lubaszowa",
+      "id": "jw6W96fIh1JM"
+    },
+    {
+      "name": "Lubawa",
+      "id": "Ll_g850l7Nuk"
+    },
+    {
+      "name": "Lubawka",
+      "id": "y_WgFBSf0lbn"
+    },
+    {
+      "name": "Lubenia",
+      "id": "ifHO6sHkjL1O"
+    },
+    {
+      "name": "Lubichowo",
+      "id": "w_6BfKRoCwiy"
+    },
+    {
+      "name": "Lubicz",
+      "id": "4DfAE5H0Wivq"
+    },
+    {
+      "name": "Lubien",
+      "id": "EFWHzz9ydbSi"
+    },
+    {
+      "name": "Lubin",
+      "id": "_q7a3tQwsPO3"
+    },
+    {
+      "name": "Lublewo",
+      "id": "qvLM973tA_ou"
+    },
+    {
+      "name": "Lublin",
+      "id": "enGMV1q9ZNZ7"
+    },
+    {
+      "name": "Lubliniec",
+      "id": "6-BVzFIRnxW-"
+    },
+    {
+      "name": "Lubnice",
+      "id": "UKXwVaJ1sjkz"
+    },
+    {
+      "name": "Lubochnia",
+      "id": "2J8oQgXLT73W"
+    },
+    {
+      "name": "Lubomia",
+      "id": "ZnDii4R-rFyI"
+    },
+    {
+      "name": "Lubomierz",
+      "id": "-EzBc2iL5kMf"
+    },
+    {
+      "name": "Lubon",
+      "id": "1tGyzFJBmCfR"
+    },
+    {
+      "name": "Luborzyca",
+      "id": "iGga51TGvU4f"
+    },
+    {
+      "name": "Lubraniec",
+      "id": "LjwWaWAnNaz4"
+    },
+    {
+      "name": "Lubsko",
+      "id": "5NJ4Z2X3YVA2"
+    },
+    {
+      "name": "Lubsza",
+      "id": "7_Dn3_bzHRf7"
+    },
+    {
+      "name": "Lubycza Krolewska",
+      "id": "qyZdJ5fOuVMU"
+    },
+    {
+      "name": "Lukow",
+      "id": "NFy_2Hf-WcOS"
+    },
+    {
+      "name": "Lulin",
+      "id": "aQx2uULKbfyH"
+    },
+    {
+      "name": "Lusowko",
+      "id": "b_b97X7eixRt"
+    },
+    {
+      "name": "Lutynia",
+      "id": "uBoZS_cy4J0b"
+    },
+    {
+      "name": "Luzino",
+      "id": "yc8v7Ls1dTef"
+    },
+    {
+      "name": "Lysomice",
+      "id": "8uK8z-L7rRRE"
+    },
+    {
+      "name": "Mackowice",
+      "id": "H5ZNeEmyJTFH"
+    },
+    {
+      "name": "Magnuszew",
+      "id": "_bNkgj5AEecT"
+    },
+    {
+      "name": "Majdan Krolewski",
+      "id": "wC_cIPXVacQX"
+    },
+    {
+      "name": "Majewo",
+      "id": "b6A_Q3RJUXEs"
+    },
+    {
+      "name": "Makow",
+      "id": "K3IyPnpBXiK9"
+    },
+    {
+      "name": "Makow Mazowiecki",
+      "id": "TmWqCR0w2Hn2"
+    },
+    {
+      "name": "Makow Podhalanski",
+      "id": "TvsRF5jLl6ir"
+    },
+    {
+      "name": "Makowiec",
+      "id": "Azg5bAX6Nx5F"
+    },
+    {
+      "name": "Maksymilianowo",
+      "id": "4dTPXJNvvyUj"
+    },
+    {
+      "name": "Malbork",
+      "id": "_JwPFRWkpHAu"
+    },
+    {
+      "name": "Malczyce",
+      "id": "6h0larN0XaYF"
+    },
+    {
+      "name": "Malogoszcz",
+      "id": "X1pEi8iQ-tJk"
+    },
+    {
+      "name": "Manowo",
+      "id": "SSX-KOWP7wO-"
+    },
+    {
+      "name": "Marcinowice",
+      "id": "R_dUKDbV94W_"
+    },
+    {
+      "name": "Marek",
+      "id": "kJUaecq72hHO"
+    },
+    {
+      "name": "Margonin",
+      "id": "JWiVUPND4R3l"
+    },
+    {
+      "name": "Maria",
+      "id": "Z4ZvXfzT1DBf"
+    },
+    {
+      "name": "Marki",
+      "id": "EZvoYKFUtLGl"
+    },
+    {
+      "name": "Marklowice",
+      "id": "ge5Gmt6KTCY7"
+    },
+    {
+      "name": "Marta",
+      "id": "CYeSC8LomuAH"
+    },
+    {
+      "name": "Mary",
+      "id": "jPPuJwKn_GXt"
+    },
+    {
+      "name": "MaryLka",
+      "id": "06DTsTY9wSjO"
+    },
+    {
+      "name": "Maslice",
+      "id": "u1zWFZsmfW9z"
+    },
+    {
+      "name": "Maslow",
+      "id": "EUJ8cIhq1Wv2"
+    },
+    {
+      "name": "Maszewo",
+      "id": "4haxng9ynVzb"
+    },
+    {
+      "name": "Mazancowice",
+      "id": "dpThFVHKWf5r"
+    },
+    {
+      "name": "Mechelinki",
+      "id": "nUhptbd_v0QG"
+    },
+    {
+      "name": "Medyka",
+      "id": "2Ok7KOXtJAhv"
+    },
+    {
+      "name": "Medynia Glogowska",
+      "id": "WXzpUlNTIbY2"
+    },
+    {
+      "name": "Melno",
+      "id": "cLfjW1Zy2Tvz"
+    },
+    {
+      "name": "Meszna",
+      "id": "mVAeqCyn5LUY"
+    },
+    {
+      "name": "Mialy",
+      "id": "Cpo_e-NuYF_d"
+    },
+    {
+      "name": "Miasteczko Slaskie",
+      "id": "-bcCjGRLuwwM"
+    },
+    {
+      "name": "Miastko",
+      "id": "-_JWbd9KBbiq"
+    },
+    {
+      "name": "Michalowice",
+      "id": "nXRGAuJUfUtG"
+    },
+    {
+      "name": "Miechow",
+      "id": "UsWRlKUgUZwT"
+    },
+    {
+      "name": "Mieczewo",
+      "id": "oN9ouQXg-AgH"
+    },
+    {
+      "name": "Miedzna",
+      "id": "5ILV1xa0zeMj"
+    },
+    {
+      "name": "Miedzyborow",
+      "id": "DsNV7AtJMNTE"
+    },
+    {
+      "name": "Miedzyborz",
+      "id": "81qcxlgkqCzx"
+    },
+    {
+      "name": "Miedzybrodzie Zywieckie",
+      "id": "R0k2wpxVwrBx"
+    },
+    {
+      "name": "Miedzylesie",
+      "id": "cFr56LMrn-DX"
+    },
+    {
+      "name": "Miedzyzdroje",
+      "id": "QCiYqXLmi_NJ"
+    },
+    {
+      "name": "Miejska Gorka",
+      "id": "IX-Xa-1hidA8"
+    },
+    {
+      "name": "Mielec",
+      "id": "g--zo8CUWbmc"
+    },
+    {
+      "name": "Mielno",
+      "id": "BLU_yHdpkRvB"
+    },
+    {
+      "name": "Mieroszow",
+      "id": "JI2xbPIwzl3N"
+    },
+    {
+      "name": "Mierzecice",
+      "id": "eDY5Xzx25c2d"
+    },
+    {
+      "name": "Mierzeszyn",
+      "id": "NGcT9L9632o-"
+    },
+    {
+      "name": "Mikolajki",
+      "id": "Ncd1HFMeHYwq"
+    },
+    {
+      "name": "Mikoszewo",
+      "id": "-f7vloq7outD"
+    },
+    {
+      "name": "Mikstat",
+      "id": "Qn8F2bhauSbT"
+    },
+    {
+      "name": "Milanow",
+      "id": "fSPf13QJnpwT"
+    },
+    {
+      "name": "Milcza",
+      "id": "u4Xa9lNbBnr8"
+    },
+    {
+      "name": "Milejow",
+      "id": "XsE1qakZUagL"
+    },
+    {
+      "name": "Milicz",
+      "id": "E3q2FTFVlkNG"
+    },
+    {
+      "name": "Milkowice",
+      "id": "05Be_yjd6WUn"
+    },
+    {
+      "name": "Milobadz",
+      "id": "vKFZjVFS1mu6"
+    },
+    {
+      "name": "Miloradz",
+      "id": "F8SKbc1b_SCR"
+    },
+    {
+      "name": "Milowka",
+      "id": "LpqUvrrecra2"
+    },
+    {
+      "name": "Minoga",
+      "id": "N6CSJcnse1tG"
+    },
+    {
+      "name": "Mirkow",
+      "id": "zu4tYBkLdSas"
+    },
+    {
+      "name": "Miroslaw",
+      "id": "XI6hMQWLwN2E"
+    },
+    {
+      "name": "Miroslawiec",
+      "id": "mb899yITHrEi"
+    },
+    {
+      "name": "Mirsk",
+      "id": "9rUqAfK9Q9Ww"
+    },
+    {
+      "name": "Miszkowice",
+      "id": "QbXjD2PCXIbX"
+    },
+    {
+      "name": "Mniow",
+      "id": "xsQ9MjybAzWg"
+    },
+    {
+      "name": "Modlnica",
+      "id": "VSZuKwPaUWYO"
+    },
+    {
+      "name": "Modlniczka",
+      "id": "fUhRripcMEip"
+    },
+    {
+      "name": "Modrze",
+      "id": "VI7tVOe5Xa2U"
+    },
+    {
+      "name": "Mogilany",
+      "id": "G0VzVk-zYC11"
+    },
+    {
+      "name": "Mogilno",
+      "id": "HMTpTSOG21vF"
+    },
+    {
+      "name": "Mokrsko",
+      "id": "7J7Py3Sl3B7t"
+    },
+    {
+      "name": "Morawica",
+      "id": "D1V1jPwZMe5Q"
+    },
+    {
+      "name": "Moryn",
+      "id": "HMprXTNCB6h1"
+    },
+    {
+      "name": "Mosina",
+      "id": "gXk25ZTY6cne"
+    },
+    {
+      "name": "Mosty",
+      "id": "KB9cKkfJcjE3"
+    },
+    {
+      "name": "Moszczanka",
+      "id": "-Xa8_YyBTGmo"
+    },
+    {
+      "name": "Mragowo",
+      "id": "guWu_z9EoCX3"
+    },
+    {
+      "name": "Mrocza",
+      "id": "NXl7sjYEa1ES"
+    },
+    {
+      "name": "Mrowino",
+      "id": "E9xNR6GHPCfT"
+    },
+    {
+      "name": "Mscice",
+      "id": "p53QyzuiUtm-"
+    },
+    {
+      "name": "Msciwojow",
+      "id": "3hLlEJCdu8GC"
+    },
+    {
+      "name": "Mszana",
+      "id": "jypCEZEVyMY7"
+    },
+    {
+      "name": "Mszana Dolna",
+      "id": "ejW5sCcyuw3G"
+    },
+    {
+      "name": "Mucharz",
+      "id": "LTw56yPrvosX"
+    },
+    {
+      "name": "Murowana Goslina",
+      "id": "miJtQY7BgpzW"
+    },
+    {
+      "name": "Muszyna",
+      "id": "28_vxYHTO2PO"
+    },
+    {
+      "name": "Myslachowice",
+      "id": "95PjLu4b7uYA"
+    },
+    {
+      "name": "Myslenice",
+      "id": "adr-8ZS20v-Q"
+    },
+    {
+      "name": "Mysliborz",
+      "id": "OE8XzptGbDpP"
+    },
+    {
+      "name": "Myszkow",
+      "id": "faa1N2cXEXMn"
+    },
+    {
+      "name": "Myszyniec",
+      "id": "x9Bp40SUAz16"
+    },
+    {
+      "name": "Nacpolsk",
+      "id": "7Cf4qzVHWziu"
+    },
+    {
+      "name": "Nadarzyn",
+      "id": "edlhJ5vY1aq0"
+    },
+    {
+      "name": "Naklo",
+      "id": "FftzueiWUP6v"
+    },
+    {
+      "name": "Naleczow",
+      "id": "wAXE7ww9hv_J"
+    },
+    {
+      "name": "Namyslow",
+      "id": "7Fkw04RsoZZY"
+    },
+    {
+      "name": "Naprawa",
+      "id": "NkqTjQLIqoRL"
+    },
+    {
+      "name": "Narew",
+      "id": "Xp7OHh1__qng"
+    },
+    {
+      "name": "Narzym",
+      "id": "urmpB4jdIslb"
+    },
+    {
+      "name": "Nasielsk",
+      "id": "zXygwD55_ZtT"
+    },
+    {
+      "name": "Nawodna",
+      "id": "XUR8EwihSD24"
+    },
+    {
+      "name": "Nebrowo Wielkie",
+      "id": "SI-Vv44KUQEO"
+    },
+    {
+      "name": "Nidzica",
+      "id": "0Tq_aOkEndK7"
+    },
+    {
+      "name": "Nieborowice",
+      "id": "js6A0M-fcozh"
+    },
+    {
+      "name": "Niechanowo",
+      "id": "7kgRBCJLfFjv"
+    },
+    {
+      "name": "Niedomice",
+      "id": "iuqqHJ26wJCS"
+    },
+    {
+      "name": "Niedrzwica Duza",
+      "id": "wB9BxjgsBprC"
+    },
+    {
+      "name": "Niegoslawice",
+      "id": "_3VpSDRgE9af"
+    },
+    {
+      "name": "Nielisz",
+      "id": "N6aDhtN_hz7e"
+    },
+    {
+      "name": "Niemcz",
+      "id": "urnofG3MsB2P"
+    },
+    {
+      "name": "Niemcza",
+      "id": "w2keWX07xohf"
+    },
+    {
+      "name": "Niemodlin",
+      "id": "NgSbe-AlPg2r"
+    },
+    {
+      "name": "Nienadowka",
+      "id": "Mtir5HIaPNrn"
+    },
+    {
+      "name": "Niepolomice",
+      "id": "D4UZp4rIYC3l"
+    },
+    {
+      "name": "Niewierz",
+      "id": "Aa9uKnfG2gcj"
+    },
+    {
+      "name": "Nisko",
+      "id": "g5PoVadlhY9K"
+    },
+    {
+      "name": "Niwica",
+      "id": "zjT3e4c-nX1g"
+    },
+    {
+      "name": "Nowa",
+      "id": "3PHWB9FbXf7A"
+    },
+    {
+      "name": "Nowa Biala",
+      "id": "hrthYRNHk29d"
+    },
+    {
+      "name": "Nowa Deba",
+      "id": "ytJEroYVPTyI"
+    },
+    {
+      "name": "Nowa Huta",
+      "id": "Fj-qNp1U5dc8"
+    },
+    {
+      "name": "Nowa Ruda",
+      "id": "lhvo6IoWJPrl"
+    },
+    {
+      "name": "Nowa Slupia",
+      "id": "KsqwzHb0mq6w"
+    },
+    {
+      "name": "Nowa Sol",
+      "id": "XfxKZCOL0rL1"
+    },
+    {
+      "name": "Nowa Wies Elcka",
+      "id": "Snpbol0UFUPQ"
+    },
+    {
+      "name": "Nowe Chechlo",
+      "id": "tLgVmGD1T0_E"
+    },
+    {
+      "name": "Nowe Lignowy",
+      "id": "FJFadd5ck-_F"
+    },
+    {
+      "name": "Nowe Miasto Lubawskie",
+      "id": "tnFX5g55lNDM"
+    },
+    {
+      "name": "Nowe Miasto nad Pilica",
+      "id": "LDlQXmS77NTj"
+    },
+    {
+      "name": "Nowe Miasto nad Warta",
+      "id": "Qo816zigxCM6"
+    },
+    {
+      "name": "Nowe Skalmierzyce",
+      "id": "5USeNO3laGED"
+    },
+    {
+      "name": "Nowo-Aleksandrowo",
+      "id": "JBH90YjnR97K"
+    },
+    {
+      "name": "Nowogard",
+      "id": "zj5ojtTkN9kM"
+    },
+    {
+      "name": "Nowogrodziec",
+      "id": "KJPX9TlYNBeW"
+    },
+    {
+      "name": "Nowy Dwor",
+      "id": "znbsAMHGRnD7"
+    },
+    {
+      "name": "Nowy Dwor Gdanski",
+      "id": "v7RVLSkJ0Zh8"
+    },
+    {
+      "name": "Nowy Dwor Mazowiecki",
+      "id": "nfpqPOGYc5tx"
+    },
+    {
+      "name": "Nowy Korczyn",
+      "id": "0smzsEE-wzBb"
+    },
+    {
+      "name": "Nowy Staw",
+      "id": "YSeTIPk5zJCn"
+    },
+    {
+      "name": "Nowy Swietow",
+      "id": "hZ76CIw17xfF"
+    },
+    {
+      "name": "Nowy Targ",
+      "id": "odFcRo0Ya2td"
+    },
+    {
+      "name": "Nowy Tomysl",
+      "id": "cgaNkyR4D2lH"
+    },
+    {
+      "name": "Nowy Wisnicz",
+      "id": "hm4AIXcqopPs"
+    },
+    {
+      "name": "Nysa",
+      "id": "isiTPHIpORrj"
+    },
+    {
+      "name": "Oblaczkowo",
+      "id": "9nhchEp4DXtI"
+    },
+    {
+      "name": "Oborniki",
+      "id": "hogd3d83aarc"
+    },
+    {
+      "name": "Obrzycko",
+      "id": "nT182EoGj7PK"
+    },
+    {
+      "name": "Obsza",
+      "id": "qxZP8SVPrf0n"
+    },
+    {
+      "name": "Odolanow",
+      "id": "iCtaFCi7KQfm"
+    },
+    {
+      "name": "Odolin",
+      "id": "eukW5CaS3I1K"
+    },
+    {
+      "name": "Odrzykon",
+      "id": "OlkkLx7fW--u"
+    },
+    {
+      "name": "Ogrody",
+      "id": "az7SiARYiHO9"
+    },
+    {
+      "name": "Ogrodzieniec",
+      "id": "eg0ng22EHhRx"
+    },
+    {
+      "name": "Ojrzen",
+      "id": "1HveWQkVkf0S"
+    },
+    {
+      "name": "Oksywie",
+      "id": "cQs9TcVclmTf"
+    },
+    {
+      "name": "Olawa",
+      "id": "Xj4xuwIbj30s"
+    },
+    {
+      "name": "Olecko",
+      "id": "3gNsxLAzfmgc"
+    },
+    {
+      "name": "Olejnica",
+      "id": "7efo5rDx2ooj"
+    },
+    {
+      "name": "Olesnica",
+      "id": "ESQe8XuE1HXb"
+    },
+    {
+      "name": "Olesno",
+      "id": "nZFxpRufUIve"
+    },
+    {
+      "name": "Oleszno",
+      "id": "Jh17x8h9AWOQ"
+    },
+    {
+      "name": "Olimpia",
+      "id": "A5UhangQ__vY"
+    },
+    {
+      "name": "Olkusz",
+      "id": "5ap-rlgus7FW"
+    },
+    {
+      "name": "Olszany",
+      "id": "x1IbhrJza_0W"
+    },
+    {
+      "name": "Olszowice",
+      "id": "mpj0tsdVG6AF"
+    },
+    {
+      "name": "Olsztyn",
+      "id": "3QS5zKTUaZ3h"
+    },
+    {
+      "name": "Olsztynek",
+      "id": "XqBf_m1WJcqc"
+    },
+    {
+      "name": "Olszyna",
+      "id": "fH3PWQpkuCav"
+    },
+    {
+      "name": "Oltarzew",
+      "id": "hQRVXa2FzMov"
+    },
+    {
+      "name": "Opalenica",
+      "id": "WpqZ5XdphHRK"
+    },
+    {
+      "name": "Opatow",
+      "id": "QmUzT-y7ATCx"
+    },
+    {
+      "name": "Opatowek",
+      "id": "eokoKWgLUtjO"
+    },
+    {
+      "name": "Opoczno",
+      "id": "SEhGhrw3MDjI"
+    },
+    {
+      "name": "Opole",
+      "id": "bI03va2RaQ6S"
+    },
+    {
+      "name": "Orchowo",
+      "id": "3YDbJrK0dwMf"
+    },
+    {
+      "name": "Orneta",
+      "id": "eQD-ZpI0COZ8"
+    },
+    {
+      "name": "Ornontowice",
+      "id": "GK5cjDohERqf"
+    },
+    {
+      "name": "Orzel",
+      "id": "1F3HYiXSei3C"
+    },
+    {
+      "name": "Orzesze",
+      "id": "mC-jLIxEInmF"
+    },
+    {
+      "name": "Orzysz",
+      "id": "tME5TgDbdiEG"
+    },
+    {
+      "name": "Osieck",
+      "id": "6A83zD1O83Xp"
+    },
+    {
+      "name": "Osieczna",
+      "id": "oz9guWScZ2vp"
+    },
+    {
+      "name": "Osiek",
+      "id": "6J86IsSbY3RD"
+    },
+    {
+      "name": "Osiek Jasielski",
+      "id": "N9uaJJUi9qsR"
+    },
+    {
+      "name": "Osielsko",
+      "id": "ecUbOSpZ3S-_"
+    },
+    {
+      "name": "Osno",
+      "id": "DKvUVpGU7iX_"
+    },
+    {
+      "name": "Osno Lubuskie",
+      "id": "FXWptZLNd5jC"
+    },
+    {
+      "name": "Ostaszewo",
+      "id": "eBZ5dUjB_Qza"
+    },
+    {
+      "name": "Ostrog",
+      "id": "XPDweuKizD_N"
+    },
+    {
+      "name": "Ostroszowice",
+      "id": "J6IoBh_fWOpf"
+    },
+    {
+      "name": "Ostrow",
+      "id": "dST3LR4ZU-_g"
+    },
+    {
+      "name": "Ostrow Lubelski",
+      "id": "jBHvXnqM6PKc"
+    },
+    {
+      "name": "Ostrow Mazowiecka",
+      "id": "_Mp7VwOD1d7S"
+    },
+    {
+      "name": "Ostrowek",
+      "id": "l4rvE6d8oett"
+    },
+    {
+      "name": "Ostrowite",
+      "id": "HrnfU5t8zWZj"
+    },
+    {
+      "name": "Ostrowy",
+      "id": "TueunoT_pqzg"
+    },
+    {
+      "name": "Ostrzeszow",
+      "id": "4cOQ_mgt9eI0"
+    },
+    {
+      "name": "Otoki",
+      "id": "8tFMXj7pwpNt"
+    },
+    {
+      "name": "Otomin",
+      "id": "ZospSdpPh6El"
+    },
+    {
+      "name": "Otrebusy",
+      "id": "OpE7zYNWnfSX"
+    },
+    {
+      "name": "Otwock",
+      "id": "3c_MFDM-CjdV"
+    },
+    {
+      "name": "Otyn",
+      "id": "BWJhzGbIJX9q"
+    },
+    {
+      "name": "Owinska",
+      "id": "s3zMOV4DPQKa"
+    },
+    {
+      "name": "Ozarow Mazowiecki",
+      "id": "J75BgJftBt3x"
+    },
+    {
+      "name": "Ozimek",
+      "id": "DYQcoXhWhTJJ"
+    },
+    {
+      "name": "Ozorkow",
+      "id": "UBPsJwX3av7z"
+    },
+    {
+      "name": "Pabianice",
+      "id": "viQ0Zmbe6oa_"
+    },
+    {
+      "name": "Pacanow",
+      "id": "vy-BHaUtIyzT"
+    },
+    {
+      "name": "Pajeczno",
+      "id": "Qh_6NOsoi0EP"
+    },
+    {
+      "name": "Paledzie",
+      "id": "gD4pgUN0OtGj"
+    },
+    {
+      "name": "Paliszewo",
+      "id": "C1I9mMIiM-wL"
+    },
+    {
+      "name": "Paniowki",
+      "id": "jhbeQdSxvFJ0"
+    },
+    {
+      "name": "Papowo",
+      "id": "mqpd_uxdOoCL"
+    },
+    {
+      "name": "Parczew",
+      "id": "hTZi9cOJ_Ad-"
+    },
+    {
+      "name": "Pastuchow",
+      "id": "k0SJ5_42B0jV"
+    },
+    {
+      "name": "Paulina",
+      "id": "EGE0eBTzBaet"
+    },
+    {
+      "name": "Pawlowice",
+      "id": "1-K0vCFXKBRL"
+    },
+    {
+      "name": "Pcim",
+      "id": "coMgUaGIcj6c"
+    },
+    {
+      "name": "Peczniew",
+      "id": "aGMuRjroIcgU"
+    },
+    {
+      "name": "Pedziwiatry",
+      "id": "ksJ108UEIchv"
+    },
+    {
+      "name": "Pegow",
+      "id": "P4-m4yvggEKi"
+    },
+    {
+      "name": "Pelplin",
+      "id": "7XFwB7zuJmcj"
+    },
+    {
+      "name": "Pepowo",
+      "id": "-4pt1biRgity"
+    },
+    {
+      "name": "Pewel Mala",
+      "id": "KLyH5xBVGLf5"
+    },
+    {
+      "name": "Piaseczno",
+      "id": "UVvFlEJyTdZ5"
+    },
+    {
+      "name": "Piasek",
+      "id": "uqpmkrHBmxn1"
+    },
+    {
+      "name": "Piaski",
+      "id": "6LQCgdO2_wcB"
+    },
+    {
+      "name": "Piastow",
+      "id": "gsT81I8CWdhm"
+    },
+    {
+      "name": "Piechowice",
+      "id": "W7uabssAi14Y"
+    },
+    {
+      "name": "Piekary",
+      "id": "uj199sM8_7ku"
+    },
+    {
+      "name": "Piekary Slaskie",
+      "id": "nvJlIXR6oB4N"
+    },
+    {
+      "name": "Piekielnik",
+      "id": "p4ZlGka3LeIx"
+    },
+    {
+      "name": "Piekoszow",
+      "id": "ccdWGLuej_du"
+    },
+    {
+      "name": "Pielgrzymka",
+      "id": "5v6vYjbXPPk-"
+    },
+    {
+      "name": "Pielice",
+      "id": "rweC2Jfpwf4x"
+    },
+    {
+      "name": "Piensk",
+      "id": "qV-3tJ02RV_f"
+    },
+    {
+      "name": "Pierwoszyno",
+      "id": "nBMKOAyvvBAG"
+    },
+    {
+      "name": "Pieszkow",
+      "id": "R-uCLwANUYG7"
+    },
+    {
+      "name": "Pieszyce",
+      "id": "ZpVEME7EUNb2"
+    },
+    {
+      "name": "Pietrowice Wielkie",
+      "id": "iPJ5Yigxqywr"
+    },
+    {
+      "name": "Pietrzykowice",
+      "id": "MUWeKMM90R8T"
+    },
+    {
+      "name": "Pila",
+      "id": "oUpa8k8VmaNG"
+    },
+    {
+      "name": "Pila Koscielecka",
+      "id": "fgbmqULuiiiG"
+    },
+    {
+      "name": "Pilawa",
+      "id": "C45gWDmmkdkn"
+    },
+    {
+      "name": "Pilawa Gorna",
+      "id": "hdClHqR1nRP2"
+    },
+    {
+      "name": "Pilchowice",
+      "id": "XriJIEJQ4Ae1"
+    },
+    {
+      "name": "Pilica",
+      "id": "d0C8J5-gyC7-"
+    },
+    {
+      "name": "Pinczow",
+      "id": "ApBBKMl0alMK"
+    },
+    {
+      "name": "Pionki",
+      "id": "hBmQPogTEv5Q"
+    },
+    {
+      "name": "Pisarzowice",
+      "id": "vLA7PtkRWXcu"
+    },
+    {
+      "name": "Pisz",
+      "id": "yLIAveApGQnh"
+    },
+    {
+      "name": "Plesna",
+      "id": "53FH1WcrXMJM"
+    },
+    {
+      "name": "Pleszew",
+      "id": "vwA8S4zuqBzV"
+    },
+    {
+      "name": "Plewiska",
+      "id": "X8v_nGOW0HGz"
+    },
+    {
+      "name": "Plochocin",
+      "id": "_dlkQwsssls5"
+    },
+    {
+      "name": "Pniewy",
+      "id": "QZDiJ5gjjK5y"
+    },
+    {
+      "name": "Pobiedna",
+      "id": "-keGGbhIIy6b"
+    },
+    {
+      "name": "Pobiedziska",
+      "id": "PU1_zHhCi1uB"
+    },
+    {
+      "name": "Poczesna",
+      "id": "EXGGZZbizJZ7"
+    },
+    {
+      "name": "Podegrodzie",
+      "id": "J0h7Io_u3Zf_"
+    },
+    {
+      "name": "Podgorne",
+      "id": "2IYYXggblmNy"
+    },
+    {
+      "name": "Podgorze",
+      "id": "1utMNVQpTsK8"
+    },
+    {
+      "name": "Podlasie",
+      "id": "C2GzJjZi0-TK"
+    },
+    {
+      "name": "Podleze",
+      "id": "X3VKf0iPnHuW"
+    },
+    {
+      "name": "Pogodki",
+      "id": "nwX27QQKmDvT"
+    },
+    {
+      "name": "Pogorzela",
+      "id": "MNnMk1GF6re9"
+    },
+    {
+      "name": "Pogwizdow",
+      "id": "VfWB6hM8UYyK"
+    },
+    {
+      "name": "Pokrzywnica",
+      "id": "BkQLab5igyG3"
+    },
+    {
+      "name": "Polajewo",
+      "id": "FsWcGlpl_932"
+    },
+    {
+      "name": "Polanka Wielka",
+      "id": "AaLrIQtgeTl_"
+    },
+    {
+      "name": "Polczyn-Zdroj",
+      "id": "XFso0ucV0BT3"
+    },
+    {
+      "name": "Police",
+      "id": "TL4o2ixSWf3v"
+    },
+    {
+      "name": "Polkowice",
+      "id": "2Q94Z3KXDg_U"
+    },
+    {
+      "name": "Polomia",
+      "id": "D5rmIPMq3buP"
+    },
+    {
+      "name": "Polskie",
+      "id": "YYlFIowMfG4p"
+    },
+    {
+      "name": "Pomiechowek",
+      "id": "sKfAh7jx9wfu"
+    },
+    {
+      "name": "Pomorskie",
+      "id": "oUnmGDALri0k"
+    },
+    {
+      "name": "Popow",
+      "id": "oEmugSDsHN2P"
+    },
+    {
+      "name": "Popowice",
+      "id": "NvawzWJTdCbM"
+    },
+    {
+      "name": "Poraj",
+      "id": "FV28bvu4Mv7S"
+    },
+    {
+      "name": "Poreba",
+      "id": "JdQL6vjG-yAw"
+    },
+    {
+      "name": "Poswietne",
+      "id": "tXwgL7Lhzfa1"
+    },
+    {
+      "name": "Poznan",
+      "id": "NSz2MxqUdH5m"
+    },
+    {
+      "name": "Prabuty",
+      "id": "RmgESh4IdyVR"
+    },
+    {
+      "name": "Praca",
+      "id": "u2EUL5744mod"
+    },
+    {
+      "name": "Praszka",
+      "id": "CR038meJmncS"
+    },
+    {
+      "name": "Prawiedniki",
+      "id": "gOw574CZzCmx"
+    },
+    {
+      "name": "Prochowice",
+      "id": "UrUgL8-z9jU_"
+    },
+    {
+      "name": "Prokocim",
+      "id": "Hq5QWsQiR6qN"
+    },
+    {
+      "name": "Prosna",
+      "id": "xKtoJSmfrSlh"
+    },
+    {
+      "name": "Proszowice",
+      "id": "ZRY9xyTuMOok"
+    },
+    {
+      "name": "Pruchna",
+      "id": "BcDBfBKkbFfz"
+    },
+    {
+      "name": "Prudnik",
+      "id": "qk-it8Wgrgpr"
+    },
+    {
+      "name": "Prusice",
+      "id": "pIFgOEOPKlEk"
+    },
+    {
+      "name": "Pruszcz Gdanski",
+      "id": "-DMKxLfu-Uhv"
+    },
+    {
+      "name": "Pruszcz Pomorski",
+      "id": "YY-fQflJolkE"
+    },
+    {
+      "name": "Przasnysz",
+      "id": "FOiziKnCnDK-"
+    },
+    {
+      "name": "Przechlewo",
+      "id": "9-DGbVKQIo1c"
+    },
+    {
+      "name": "Przeclaw",
+      "id": "YNjLaYZQ7lDy"
+    },
+    {
+      "name": "Przemet",
+      "id": "T3vuaLjpSc_P"
+    },
+    {
+      "name": "Przemysl",
+      "id": "ITXNzMHfhT9u"
+    },
+    {
+      "name": "Przemyslaw",
+      "id": "9q0K5mqJ77w1"
+    },
+    {
+      "name": "Przeworsk",
+      "id": "TlX6u9Kq1F6_"
+    },
+    {
+      "name": "Przezmierowo",
+      "id": "MPXfv3ymmQ5O"
+    },
+    {
+      "name": "Przygodzice",
+      "id": "AOBjysH44FCf"
+    },
+    {
+      "name": "Przylep",
+      "id": "RFTH8yzWPM2K"
+    },
+    {
+      "name": "Przyrow",
+      "id": "7RL7RzqV6RHg"
+    },
+    {
+      "name": "Przysiek",
+      "id": "1V71EHM0bSD7"
+    },
+    {
+      "name": "Przystajn",
+      "id": "X8YTZ28WlGny"
+    },
+    {
+      "name": "Przyszowice",
+      "id": "7wrhodDERxh3"
+    },
+    {
+      "name": "Pszczew",
+      "id": "CBF9DlRK_6l_"
+    },
+    {
+      "name": "Pszczyna",
+      "id": "EoZx74_jcoEp"
+    },
+    {
+      "name": "Pszow",
+      "id": "tXLX-wHW2tFt"
+    },
+    {
+      "name": "Puck",
+      "id": "MGjbZ3xbHJVa"
+    },
+    {
+      "name": "Pustkow",
+      "id": "NNXDc5RLIa6f"
+    },
+    {
+      "name": "Puszczew",
+      "id": "yweTDjGaQJMt"
+    },
+    {
+      "name": "Puszczykowo",
+      "id": "P8V4dAJQPzxQ"
+    },
+    {
+      "name": "Pyrzyce",
+      "id": "1po121N8k7r8"
+    },
+    {
+      "name": "Pyskowice",
+      "id": "VA945hgfH0xB"
+    },
+    {
+      "name": "Pysznica",
+      "id": "HkporSdrn1zo"
+    },
+    {
+      "name": "Rabien",
+      "id": "iiRuiCWcxNTW"
+    },
+    {
+      "name": "Rabka-Zdroj",
+      "id": "1KmL5QxLxkUJ"
+    },
+    {
+      "name": "Raciaz",
+      "id": "gINyD6017rDc"
+    },
+    {
+      "name": "Raciazek",
+      "id": "zGGw-3SQyMxA"
+    },
+    {
+      "name": "Racula",
+      "id": "kJ1sU6AgouRa"
+    },
+    {
+      "name": "Raczka",
+      "id": "L_JgpFYUq_ad"
+    },
+    {
+      "name": "Raczki",
+      "id": "2aB3fQoF-J5f"
+    },
+    {
+      "name": "Radgoszcz",
+      "id": "yzRBR4fc1Yqf"
+    },
+    {
+      "name": "Radlin",
+      "id": "mxKqN2w7bOc2"
+    },
+    {
+      "name": "Radlow",
+      "id": "LEWfwxyDHvMS"
+    },
+    {
+      "name": "Radom",
+      "id": "RfsqDkNBXdax"
+    },
+    {
+      "name": "Radomin",
+      "id": "IRZ4ljEPzGYS"
+    },
+    {
+      "name": "Radomsko",
+      "id": "jvJYpobfJzxb"
+    },
+    {
+      "name": "Radomysl Wielki",
+      "id": "2sXSv5Orvz5L"
+    },
+    {
+      "name": "Radoslaw",
+      "id": "kc7IjQIb3UKk"
+    },
+    {
+      "name": "Radostowice",
+      "id": "l0lYhIMbXyhg"
+    },
+    {
+      "name": "Radoszyce",
+      "id": "bQ4CokkdI67g"
+    },
+    {
+      "name": "Radymno",
+      "id": "iWGFnwzT2vtD"
+    },
+    {
+      "name": "Radzanow",
+      "id": "vmOeC7-fr2x9"
+    },
+    {
+      "name": "Radzanowo",
+      "id": "QLLsvF70MuET"
+    },
+    {
+      "name": "Radziechowy",
+      "id": "xVWzVvjtOx3y"
+    },
+    {
+      "name": "Radziejowice",
+      "id": "qtdWQghwcmmD"
+    },
+    {
+      "name": "Radzionkow",
+      "id": "Ll7EQWd8CubK"
+    },
+    {
+      "name": "Radzymin",
+      "id": "6cyvBwjvLA8g"
+    },
+    {
+      "name": "Radzyn Podlaski",
+      "id": "fDnO_5Slqs17"
+    },
+    {
+      "name": "Rajszew",
+      "id": "1x6bgy9R5DAs"
+    },
+    {
+      "name": "Rakow",
+      "id": "XYdOrfYgpoJ4"
+    },
+    {
+      "name": "Rakowiec",
+      "id": "zpARc_ofQQB5"
+    },
+    {
+      "name": "Rakszawa",
+      "id": "nrg24RGFWPwg"
+    },
+    {
+      "name": "Ranizow",
+      "id": "PoK6gmdStgtB"
+    },
+    {
+      "name": "Raszowa",
+      "id": "htxnDdpQ4f0Z"
+    },
+    {
+      "name": "Raszowka",
+      "id": "WY3TkJowbSVU"
+    },
+    {
+      "name": "Raszyn",
+      "id": "rFu_WlgwJs44"
+    },
+    {
+      "name": "Rawa Mazowiecka",
+      "id": "sECXy_9iNYgS"
+    },
+    {
+      "name": "Rawicz",
+      "id": "PNbM53mPCaTc"
+    },
+    {
+      "name": "Rebkow",
+      "id": "h1kLPqUdHhpw"
+    },
+    {
+      "name": "Rebowo",
+      "id": "mwNxKWRWq9eP"
+    },
+    {
+      "name": "Reczno",
+      "id": "kO1UWONrFxRq"
+    },
+    {
+      "name": "Reda",
+      "id": "n3SQPLNyPJCT"
+    },
+    {
+      "name": "Regimin",
+      "id": "U2eJoeAVy1oS"
+    },
+    {
+      "name": "Rejowiec",
+      "id": "okHyAgkiRSTB"
+    },
+    {
+      "name": "Reszel",
+      "id": "Aw8yr_DHJygh"
+    },
+    {
+      "name": "Rewa",
+      "id": "xY0sgzw7tH1x"
+    },
+    {
+      "name": "Rewal",
+      "id": "56z-FrguIuMA"
+    },
+    {
+      "name": "Roczyny",
+      "id": "8GXC4-A5wW3s"
+    },
+    {
+      "name": "Rogalinek",
+      "id": "j-Kwr0wvog-L"
+    },
+    {
+      "name": "Rogow",
+      "id": "GIfy5vASi6bR"
+    },
+    {
+      "name": "Rogowo",
+      "id": "zQLVcKJxMWZp"
+    },
+    {
+      "name": "Rogoznik",
+      "id": "pvsuKK-YmY4S"
+    },
+    {
+      "name": "Rogozno",
+      "id": "mwiUQz_K7XIe"
+    },
+    {
+      "name": "Rokietnica",
+      "id": "XstS1mxhb5y6"
+    },
+    {
+      "name": "Rokitki",
+      "id": "MU6wqKLxw2q4"
+    },
+    {
+      "name": "Rokitnica",
+      "id": "45gfzC38565F"
+    },
+    {
+      "name": "Ropczyce",
+      "id": "IYol4jE9m4fN"
+    },
+    {
+      "name": "Rosnowko",
+      "id": "feCAdx76S29Q"
+    },
+    {
+      "name": "Rostarzewo",
+      "id": "8z6gmkQpljP5"
+    },
+    {
+      "name": "Rozanka",
+      "id": "oDhMrVMlOCy0"
+    },
+    {
+      "name": "Rozgarty",
+      "id": "pWD336aehYom"
+    },
+    {
+      "name": "Rozprza",
+      "id": "MNzh5WkTCJaL"
+    },
+    {
+      "name": "Roztoka",
+      "id": "8dabppmCXxSp"
+    },
+    {
+      "name": "Ruda",
+      "id": "iNNxObz0Umo3"
+    },
+    {
+      "name": "Rudka",
+      "id": "NKsiU3Ptvcyp"
+    },
+    {
+      "name": "Rudna Mala",
+      "id": "4TAsd1VnF2DZ"
+    },
+    {
+      "name": "Rudnik nad Sanem",
+      "id": "PBtCKEJVpY4v"
+    },
+    {
+      "name": "Rudy",
+      "id": "Iu708PwhVlu0"
+    },
+    {
+      "name": "Rudzica",
+      "id": "4QpsoWuUWRNp"
+    },
+    {
+      "name": "Rudziniec",
+      "id": "4oqz1WhaZqmh"
+    },
+    {
+      "name": "Rumia",
+      "id": "0DO8rm5Yoh16"
+    },
+    {
+      "name": "Rumianek",
+      "id": "Tppxjp-O5p_8"
+    },
+    {
+      "name": "Rusiec",
+      "id": "YLDwTcDie2cF"
+    },
+    {
+      "name": "Rybna",
+      "id": "GnN1zirnlrOl"
+    },
+    {
+      "name": "Rybnik",
+      "id": "GPMiCkwucPSh"
+    },
+    {
+      "name": "Rybno",
+      "id": "dpJLGI04VN8J"
+    },
+    {
+      "name": "Rychwal",
+      "id": "5mx9F2Bjk9Kn"
+    },
+    {
+      "name": "Rydzyna",
+      "id": "w5xTqw9uQA54"
+    },
+    {
+      "name": "Ryglice",
+      "id": "OgAcyB7j9AJx"
+    },
+    {
+      "name": "Ryki",
+      "id": "ov84Wt599MZu"
+    },
+    {
+      "name": "Ryman",
+      "id": "-gOHrUZMroZG"
+    },
+    {
+      "name": "Rymanow",
+      "id": "lrQ2L9yoF9QZ"
+    },
+    {
+      "name": "Ryn",
+      "id": "gcPLHlk7dZrj"
+    },
+    {
+      "name": "Rypin",
+      "id": "TfYxVkgZcQGb"
+    },
+    {
+      "name": "Rzasnia",
+      "id": "eD_8y5i4G5io"
+    },
+    {
+      "name": "Rzeczyce",
+      "id": "scYEXaDIn3HX"
+    },
+    {
+      "name": "Rzemien",
+      "id": "p5FjSnmd2kXo"
+    },
+    {
+      "name": "Rzepin",
+      "id": "NrPm6qUR7SJ-"
+    },
+    {
+      "name": "Rzeszotary",
+      "id": "1UqA7YqwwGk7"
+    },
+    {
+      "name": "Rzewnie",
+      "id": "l2iDUOj6VS-2"
+    },
+    {
+      "name": "Rzgow Pierwszy",
+      "id": "f4gJHiJPmWMh"
+    },
+    {
+      "name": "Rzuchowa",
+      "id": "ix0b6qdcXH1B"
+    },
+    {
+      "name": "Sadlinki",
+      "id": "henG8AnafHLe"
+    },
+    {
+      "name": "Sadlno",
+      "id": "Hi44luwbCQAc"
+    },
+    {
+      "name": "Sady",
+      "id": "YUzTV4DrQe62"
+    },
+    {
+      "name": "Samin",
+      "id": "oT-VB1Nn6tIk"
+    },
+    {
+      "name": "Sandomierz",
+      "id": "cdLNOgnhBHNI"
+    },
+    {
+      "name": "Sanniki",
+      "id": "3rzjSDtttoRc"
+    },
+    {
+      "name": "Sanok",
+      "id": "8l5nMaFW_Bem"
+    },
+    {
+      "name": "Santok",
+      "id": "K86CWCBh0LWv"
+    },
+    {
+      "name": "Sarbinowo",
+      "id": "YQZ4fhNOToa9"
+    },
+    {
+      "name": "Scinawa Mala",
+      "id": "3MhXRSHo4asR"
+    },
+    {
+      "name": "Scinawa Nyska",
+      "id": "zMtduJVsjjSK"
+    },
+    {
+      "name": "Sedziszow",
+      "id": "aGiAnEBB34qO"
+    },
+    {
+      "name": "Sedziszow Malopolski",
+      "id": "Oal2w4RrwyzZ"
+    },
+    {
+      "name": "Sepolno Krajenskie",
+      "id": "hFUnMefZ3uDE"
+    },
+    {
+      "name": "Serock",
+      "id": "BQxLw0Mx3Std"
+    },
+    {
+      "name": "Serwis",
+      "id": "gldCRERAkoVg"
+    },
+    {
+      "name": "Sianow",
+      "id": "7YlosG6Gdww5"
+    },
+    {
+      "name": "Sidra",
+      "id": "hyLqQ9IRqR5A"
+    },
+    {
+      "name": "Sidzina",
+      "id": "Nf-fWPEb-TDS"
+    },
+    {
+      "name": "Siechnice",
+      "id": "LKPHAYc5Tyyk"
+    },
+    {
+      "name": "Siedlce",
+      "id": "RhFKloaOOrV8"
+    },
+    {
+      "name": "Siedlec",
+      "id": "rTMh_zCPqPR9"
+    },
+    {
+      "name": "Siekierczyn",
+      "id": "DGymZgz75k7o"
+    },
+    {
+      "name": "Siemiatycze",
+      "id": "Ggbr1vIdt6hz"
+    },
+    {
+      "name": "Siemirowice",
+      "id": "1kMKCUeRGG-E"
+    },
+    {
+      "name": "Siemkowice",
+      "id": "YtiA-x6HAsGI"
+    },
+    {
+      "name": "Sieniawa",
+      "id": "zZf8UWIVNTGb"
+    },
+    {
+      "name": "Sieniawa Zarska",
+      "id": "woDIKV3RPDxV"
+    },
+    {
+      "name": "Sieniawka",
+      "id": "OvVLEfoIMQ47"
+    },
+    {
+      "name": "Siennica",
+      "id": "LtrKoD3kxFxU"
+    },
+    {
+      "name": "Siennica Nadolna",
+      "id": "8UiuJlfvKDyK"
+    },
+    {
+      "name": "Sieradz",
+      "id": "eyPDQBK6S_kc"
+    },
+    {
+      "name": "Sieroszowice",
+      "id": "2mRgxiqsj-zM"
+    },
+    {
+      "name": "Sierpc",
+      "id": "gid1302F3M7X"
+    },
+    {
+      "name": "Siewierz",
+      "id": "SOQEndYo2hSH"
+    },
+    {
+      "name": "Siwek",
+      "id": "98mRbnFePiBx"
+    },
+    {
+      "name": "Skala",
+      "id": "7xuI0uPrg_XK"
+    },
+    {
+      "name": "Skarszewy",
+      "id": "Qa-voGpZXTM2"
+    },
+    {
+      "name": "Skarzysko-Kamienna",
+      "id": "gkA7ufhAdCpz"
+    },
+    {
+      "name": "Skawina",
+      "id": "loZeUbtvQn85"
+    },
+    {
+      "name": "Skierdy",
+      "id": "SdMVE9ZCr1xn"
+    },
+    {
+      "name": "Skierniewice",
+      "id": "7UEeTuBIarB9"
+    },
+    {
+      "name": "Skoczow",
+      "id": "LaneV3242x0U"
+    },
+    {
+      "name": "Skomlin",
+      "id": "ECnBtkXM0aIo"
+    },
+    {
+      "name": "Skopanie",
+      "id": "9dZj1CSfMT1i"
+    },
+    {
+      "name": "Skorcz",
+      "id": "wV17C746Szol"
+    },
+    {
+      "name": "Skorzec",
+      "id": "2hedQVrD9tl2"
+    },
+    {
+      "name": "Skorzewo",
+      "id": "rYba4otrLzCn"
+    },
+    {
+      "name": "Skrbensko",
+      "id": "7RqtwV-K5dLx"
+    },
+    {
+      "name": "Skrzetusz",
+      "id": "c_TvYbKTJGH0"
+    },
+    {
+      "name": "Skrzyszow",
+      "id": "_SWYPOuueG61"
+    },
+    {
+      "name": "Skwierzyna",
+      "id": "U7Tii7uTAMJy"
+    },
+    {
+      "name": "Slawkow",
+      "id": "R3Z_pnUpUz5v"
+    },
+    {
+      "name": "Slawno B",
+      "id": "41aTK49eIvn9"
+    },
+    {
+      "name": "Slawoszyno",
+      "id": "EXVbDD5AxxvB"
+    },
+    {
+      "name": "Slemien",
+      "id": "LHAlrWST0SA-"
+    },
+    {
+      "name": "Slomniki",
+      "id": "kdbB1IGpbLBR"
+    },
+    {
+      "name": "Slone",
+      "id": "yEyEYR6KrcSJ"
+    },
+    {
+      "name": "Slupca",
+      "id": "mREERbyWoBqH"
+    },
+    {
+      "name": "Slupno",
+      "id": "tqCDBRlusrdm"
+    },
+    {
+      "name": "Smardzew",
+      "id": "KLJL9SeKkShD"
+    },
+    {
+      "name": "Smardzowice",
+      "id": "76TnhKCRy_R-"
+    },
+    {
+      "name": "Smigiel",
+      "id": "j20v_E_8Frhh"
+    },
+    {
+      "name": "Smolec",
+      "id": "nRErfzRI2cDC"
+    },
+    {
+      "name": "Smolnica",
+      "id": "FX_9Lu3m1PKB"
+    },
+    {
+      "name": "Smolnik",
+      "id": "KmVAUtHXitYp"
+    },
+    {
+      "name": "Sobienie Jeziory",
+      "id": "zS_2ScHmYFhD"
+    },
+    {
+      "name": "Sobotka",
+      "id": "vUBDFExXGK8F"
+    },
+    {
+      "name": "Sobowidz",
+      "id": "qttcmIX6gnCz"
+    },
+    {
+      "name": "Sochaczew",
+      "id": "VUtip8BKwh3v"
+    },
+    {
+      "name": "Sochocin",
+      "id": "GXVcT11PXYps"
+    },
+    {
+      "name": "Soczewka",
+      "id": "fSfiRuzCwG9L"
+    },
+    {
+      "name": "Sokolow Malopolski",
+      "id": "wTK3T_oRY-ji"
+    },
+    {
+      "name": "Sokolowsko",
+      "id": "DW5FuExKvLPK"
+    },
+    {
+      "name": "Solec Kujawski",
+      "id": "m2vYg-Ltv4fQ"
+    },
+    {
+      "name": "Sompolno",
+      "id": "v4nJCeBhu1D6"
+    },
+    {
+      "name": "Sopot",
+      "id": "XDGAnzYUkSWI"
+    },
+    {
+      "name": "Sosnie",
+      "id": "jiT0IYWJiBqX"
+    },
+    {
+      "name": "Sosnowiec",
+      "id": "Gpj6ekGphALu"
+    },
+    {
+      "name": "Sroda Wielkopolska",
+      "id": "-6c4nuQe-Fe_"
+    },
+    {
+      "name": "Stadla",
+      "id": "741n3dfw8n7t"
+    },
+    {
+      "name": "Stalowa Wola",
+      "id": "HNn2dCszeTwF"
+    },
+    {
+      "name": "Staniatki",
+      "id": "tGcx4UvTP9BU"
+    },
+    {
+      "name": "Staniszow",
+      "id": "QqiUc7kAeIw5"
+    },
+    {
+      "name": "Stankowo",
+      "id": "IGFR8R6nK5cF"
+    },
+    {
+      "name": "Stanowice",
+      "id": "GRqUIxXj8oOM"
+    },
+    {
+      "name": "Stara",
+      "id": "jaqZjrJlkru9"
+    },
+    {
+      "name": "Stara Kamienica",
+      "id": "ncfSFYzVnArW"
+    },
+    {
+      "name": "Stara Lubianka",
+      "id": "2n2GvFuIkgRO"
+    },
+    {
+      "name": "Starachowice",
+      "id": "Ggpp9VVTNZpv"
+    },
+    {
+      "name": "Stare Babice",
+      "id": "Ymx2AY44voPz"
+    },
+    {
+      "name": "Stare Bogaczowice",
+      "id": "Enm3em75VlK3"
+    },
+    {
+      "name": "Stare Czarnowo",
+      "id": "sRY7Nx4YXISf"
+    },
+    {
+      "name": "Stare Juchy",
+      "id": "79XVSCB_kbBQ"
+    },
+    {
+      "name": "Stare Kurowo",
+      "id": "A80n39NzuLR1"
+    },
+    {
+      "name": "Stare Miasto",
+      "id": "0_PVNVTgLbgs"
+    },
+    {
+      "name": "Stary Broniszew",
+      "id": "A4hWcJkQdXoG"
+    },
+    {
+      "name": "Stary Garbow",
+      "id": "3vIHbxzVib0S"
+    },
+    {
+      "name": "Stary Sacz",
+      "id": "aZI_qudACDKR"
+    },
+    {
+      "name": "Stary Zamosc",
+      "id": "V-fGzN2R4a6W"
+    },
+    {
+      "name": "Staszow",
+      "id": "N0gjHS_EvjTA"
+    },
+    {
+      "name": "Staw",
+      "id": "0UCqy2LLhyx6"
+    },
+    {
+      "name": "Stawiany",
+      "id": "E3UvoBX7YLCi"
+    },
+    {
+      "name": "Stawiguda",
+      "id": "5Jc-XH4NjxDQ"
+    },
+    {
+      "name": "Stegna",
+      "id": "Mu500nVnX8PW"
+    },
+    {
+      "name": "Steszew",
+      "id": "14NSC5Y3URR4"
+    },
+    {
+      "name": "Stoczek",
+      "id": "EHjiBNwmbUY7"
+    },
+    {
+      "name": "Stolno",
+      "id": "4ku3UQhyC_Ex"
+    },
+    {
+      "name": "Stopnica",
+      "id": "jubeZ7p--Iz_"
+    },
+    {
+      "name": "Straszyn",
+      "id": "xWUAiStCBx0C"
+    },
+    {
+      "name": "Strawczyn",
+      "id": "AoOh4ViBZlv5"
+    },
+    {
+      "name": "Strazow",
+      "id": "svzh08xHfvD7"
+    },
+    {
+      "name": "Stronie Slaskie",
+      "id": "wzCBLuDhi6ej"
+    },
+    {
+      "name": "Stroze",
+      "id": "BoxpzOJiIcKm"
+    },
+    {
+      "name": "Strumien",
+      "id": "rSKyFAfH7MkV"
+    },
+    {
+      "name": "Strykow",
+      "id": "bF9kUwvxQLew"
+    },
+    {
+      "name": "Stryszawa",
+      "id": "URK6szJhpXHg"
+    },
+    {
+      "name": "Stryszow",
+      "id": "xw379N9ytXUA"
+    },
+    {
+      "name": "Strzalkowo",
+      "id": "s-qoL2LIZqL5"
+    },
+    {
+      "name": "Strzebielino",
+      "id": "JwpSntuCaJ8n"
+    },
+    {
+      "name": "Strzebin",
+      "id": "nVRAdJTM8ZZy"
+    },
+    {
+      "name": "Strzegom",
+      "id": "FGDOD2J2yJH4"
+    },
+    {
+      "name": "Strzelce Krajenskie",
+      "id": "sQLE023BL-BZ"
+    },
+    {
+      "name": "Strzelce Opolskie",
+      "id": "BAEPu_a8uROD"
+    },
+    {
+      "name": "Strzeleczki",
+      "id": "4zujWK0OfT0k"
+    },
+    {
+      "name": "Strzelno",
+      "id": "AF2meEWCZLHb"
+    },
+    {
+      "name": "Strzeszow",
+      "id": "-StdXjMB-IsJ"
+    },
+    {
+      "name": "Strzyze",
+      "id": "qKQ1EY3KAHdK"
+    },
+    {
+      "name": "Strzyzow",
+      "id": "iXQ9HcrPYsXI"
+    },
+    {
+      "name": "Studzieniec",
+      "id": "pJEw2Y72luTa"
+    },
+    {
+      "name": "Subkowy",
+      "id": "3FTVPhx_LD2A"
+    },
+    {
+      "name": "Sucha Beskidzka",
+      "id": "LR_2fwCnPCzg"
+    },
+    {
+      "name": "Suchedniow",
+      "id": "R8nUCL9-Vy0X"
+    },
+    {
+      "name": "Suchowola",
+      "id": "-fzjG5OSLlN1"
+    },
+    {
+      "name": "Suchy Dab",
+      "id": "lxpQGsIRAacS"
+    },
+    {
+      "name": "Suchy Las",
+      "id": "BTVc3Q-gMtw0"
+    },
+    {
+      "name": "Sulechow",
+      "id": "kspjbuhbB4v-"
+    },
+    {
+      "name": "Sulejow",
+      "id": "Ny3KPlewVDuz"
+    },
+    {
+      "name": "Sulejowek",
+      "id": "QgXegTrqqZRY"
+    },
+    {
+      "name": "Sulistrowice",
+      "id": "_1_8mJkCE7vR"
+    },
+    {
+      "name": "Sulmierzyce",
+      "id": "ZiH1bA1iD4R2"
+    },
+    {
+      "name": "Sulmin",
+      "id": "ls3CIHe3w3mb"
+    },
+    {
+      "name": "Suloszowa",
+      "id": "2KsatyYZwB-q"
+    },
+    {
+      "name": "Supienie",
+      "id": "djBzqbQ5nEcA"
+    },
+    {
+      "name": "Susiec",
+      "id": "0YaTvApVJ_cJ"
+    },
+    {
+      "name": "Susz",
+      "id": "pYnatkUuIIzM"
+    },
+    {
+      "name": "Suszec",
+      "id": "XadVsVWfM72p"
+    },
+    {
+      "name": "Suwaki",
+      "id": "ByGobf3gZ-BV"
+    },
+    {
+      "name": "Swarorzyn",
+      "id": "znGCb1SiqKUB"
+    },
+    {
+      "name": "Swarzedz",
+      "id": "wogBeodASn5T"
+    },
+    {
+      "name": "Swarzewo",
+      "id": "AMu63w9abNHo"
+    },
+    {
+      "name": "Swiatki",
+      "id": "FM7E-ezhg4uJ"
+    },
+    {
+      "name": "Swidnica",
+      "id": "IZdBhXwUyWPu"
+    },
+    {
+      "name": "Swidnik",
+      "id": "iBBOjFaJPSW9"
+    },
+    {
+      "name": "Swidwin",
+      "id": "uJ1FB-kPaqE1"
+    },
+    {
+      "name": "Swiebodzice",
+      "id": "l1_MuR8Br8nz"
+    },
+    {
+      "name": "Swiebodzin",
+      "id": "J4vqYDad4DP6"
+    },
+    {
+      "name": "Swiecie nad Osa",
+      "id": "uDzBWTwjp02v"
+    },
+    {
+      "name": "Swiekatowo",
+      "id": "jJlaBPNWxnDT"
+    },
+    {
+      "name": "Swierk",
+      "id": "l3T35rpmYXVF"
+    },
+    {
+      "name": "Swierklany",
+      "id": "gIea71okix07"
+    },
+    {
+      "name": "Swieta Katarzyna",
+      "id": "ncWXeAmwLnUL"
+    },
+    {
+      "name": "Swietno",
+      "id": "4Zzj5eniVMWo"
+    },
+    {
+      "name": "Swietoniowa",
+      "id": "KFcE4j0t47cj"
+    },
+    {
+      "name": "Swiniary",
+      "id": "SXXgJEuLQ7Cd"
+    },
+    {
+      "name": "Swoboda",
+      "id": "_D41zgPi5xmd"
+    },
+    {
+      "name": "Sycewice",
+      "id": "yb7KKoipEqXQ"
+    },
+    {
+      "name": "Sycow",
+      "id": "sejIIMmr3RmB"
+    },
+    {
+      "name": "Syrynia",
+      "id": "feTYnZLvuntx"
+    },
+    {
+      "name": "Szadek",
+      "id": "c5fHtsYWDthQ"
+    },
+    {
+      "name": "Szadlowice",
+      "id": "33znVDkym-mf"
+    },
+    {
+      "name": "Szczaniec",
+      "id": "2jqOs3yCwbzN"
+    },
+    {
+      "name": "Szczawno",
+      "id": "7QjhhHqfbfoD"
+    },
+    {
+      "name": "Szczawno-Zdroj",
+      "id": "vfLfREQ-igii"
+    },
+    {
+      "name": "Szczecin",
+      "id": "sCd09YRFnxsf"
+    },
+    {
+      "name": "Szczecinek",
+      "id": "VGFwSiU9ggbm"
+    },
+    {
+      "name": "Szczejkowice",
+      "id": "fe32VJ97cQRh"
+    },
+    {
+      "name": "Szczepanow",
+      "id": "eOms9jxJwFg8"
+    },
+    {
+      "name": "Szczercow",
+      "id": "7TOCgb4IMX5W"
+    },
+    {
+      "name": "Szczucin",
+      "id": "tejjCD19GSL5"
+    },
+    {
+      "name": "Szczuczyn",
+      "id": "y5qZTfWJ_yFN"
+    },
+    {
+      "name": "Szczurowa",
+      "id": "hF0LoyjPEZZ7"
+    },
+    {
+      "name": "Szczyrk",
+      "id": "-jDJjAic_3y3"
+    },
+    {
+      "name": "Szczytniki",
+      "id": "2xn8smR5NOt8"
+    },
+    {
+      "name": "Szczytno",
+      "id": "e9UYzDFh2KB0"
+    },
+    {
+      "name": "Szebnie",
+      "id": "uzfGXIWI8q68"
+    },
+    {
+      "name": "Szemud",
+      "id": "C8ng_4vFCOzH"
+    },
+    {
+      "name": "Szepietowo",
+      "id": "zfLmopWl2pwu"
+    },
+    {
+      "name": "Szewce",
+      "id": "vOxxyrEg4AD8"
+    },
+    {
+      "name": "Szlachta",
+      "id": "hnp92zWEMOJY"
+    },
+    {
+      "name": "Szostka",
+      "id": "VXtuQSS61b8F"
+    },
+    {
+      "name": "Szowsko",
+      "id": "8euPBuDVwCx5"
+    },
+    {
+      "name": "Szprotawa",
+      "id": "gvWEAubVru75"
+    },
+    {
+      "name": "Szreniawa",
+      "id": "2ixVNVSHHc0b"
+    },
+    {
+      "name": "Sztum",
+      "id": "QG-CFmMADDXc"
+    },
+    {
+      "name": "Sztutowo",
+      "id": "fIw2TZCJQQjM"
+    },
+    {
+      "name": "Szyce",
+      "id": "2LTYYxy9L3Yc"
+    },
+    {
+      "name": "Szydlowiec",
+      "id": "xPPzL4C3_2d1"
+    },
+    {
+      "name": "Szydlowo",
+      "id": "ne42foIDv-vC"
+    },
+    {
+      "name": "Szyldak",
+      "id": "2GZswYd2xznq"
+    },
+    {
+      "name": "Szymanow",
+      "id": "ddZo90w_OMb6"
+    },
+    {
+      "name": "Szypliszki",
+      "id": "dD3Qucbr6Nqg"
+    },
+    {
+      "name": "Tanowo",
+      "id": "_yxVzRrfR2Fm"
+    },
+    {
+      "name": "Tarchaly Wielkie",
+      "id": "9D2K0i_ZI0Yc"
+    },
+    {
+      "name": "Tarczyn",
+      "id": "xzXug7oetJc_"
+    },
+    {
+      "name": "Targanice",
+      "id": "SjRyrIejmsvu"
+    },
+    {
+      "name": "Tarnobrzeg",
+      "id": "FL1ZR13nhiZq"
+    },
+    {
+      "name": "Tarnogrod",
+      "id": "Osyrx_Yo9gRS"
+    },
+    {
+      "name": "Tarnow Opolski",
+      "id": "7KW8P_q8b1-K"
+    },
+    {
+      "name": "Tarnowiec",
+      "id": "qQqO1Q3Mmi4P"
+    },
+    {
+      "name": "Tarnowo Podgorne",
+      "id": "IwLYapELLp5F"
+    },
+    {
+      "name": "Tarnowskie Gory",
+      "id": "tfUg9Agx5s2l"
+    },
+    {
+      "name": "Tczew",
+      "id": "F0h7iUxCQKAy"
+    },
+    {
+      "name": "Tecza",
+      "id": "F9QgQy5_ikL2"
+    },
+    {
+      "name": "Tegoborze",
+      "id": "mUs0z7c7QVoi"
+    },
+    {
+      "name": "Tenczyn",
+      "id": "HfLJor-pQbDf"
+    },
+    {
+      "name": "Teofilow",
+      "id": "YIsg9cx2hcpD"
+    },
+    {
+      "name": "Teresin",
+      "id": "J_VxdGGFvTCN"
+    },
+    {
+      "name": "Terespol",
+      "id": "dlaR0TZ_eaai"
+    },
+    {
+      "name": "Tluczan",
+      "id": "R7YmzL3rYc2w"
+    },
+    {
+      "name": "Tolkmicko",
+      "id": "8FO_DEBa6vK_"
+    },
+    {
+      "name": "Tomaszow",
+      "id": "l767Sod9K4cA"
+    },
+    {
+      "name": "Tomaszow Lubelski",
+      "id": "OU94EJ63uiYp"
+    },
+    {
+      "name": "Tomaszowice",
+      "id": "3qWIUa7YriQx"
+    },
+    {
+      "name": "Topola Mala",
+      "id": "rW6gjXA-KMoP"
+    },
+    {
+      "name": "Torzym",
+      "id": "df8HkOZ3Ltar"
+    },
+    {
+      "name": "Toszek",
+      "id": "h7-5vcqnWwfv"
+    },
+    {
+      "name": "Towarzystwo",
+      "id": "i7lGv0SuffS2"
+    },
+    {
+      "name": "Trabki",
+      "id": "Dl8ZYhbzDazS"
+    },
+    {
+      "name": "Trawniki",
+      "id": "4Z_5E4xgV8AA"
+    },
+    {
+      "name": "Trojanow",
+      "id": "PoxUcVG7NFyB"
+    },
+    {
+      "name": "Trzciana",
+      "id": "pRouit7zj_pu"
+    },
+    {
+      "name": "Trzcianka",
+      "id": "pFCMXvuF_pro"
+    },
+    {
+      "name": "Trzciel",
+      "id": "tq0PB_0YwR17"
+    },
+    {
+      "name": "Trzcinsko",
+      "id": "YUGLZrolcIWa"
+    },
+    {
+      "name": "Trzebinia",
+      "id": "IJ-cAGiMHaYh"
+    },
+    {
+      "name": "Trzebnica",
+      "id": "5RnNIbV9lWnw"
+    },
+    {
+      "name": "Trzebownisko",
+      "id": "Gh3VBp9RBdtx"
+    },
+    {
+      "name": "Trzebunia",
+      "id": "K3mFFWeIuJTh"
+    },
+    {
+      "name": "Trzemesnia",
+      "id": "Hj_HS-4Ycwzg"
+    },
+    {
+      "name": "Trzemeszno",
+      "id": "XQwUzbKf06Xn"
+    },
+    {
+      "name": "Trzemeszno Lubuskie",
+      "id": "hAHNcT6MnTnF"
+    },
+    {
+      "name": "Trzesniow",
+      "id": "JEssQsNheJRF"
+    },
+    {
+      "name": "Trzeszczyn",
+      "id": "q-fT_BCKdsHX"
+    },
+    {
+      "name": "Trzyciaz",
+      "id": "jqBoeC5crUHU"
+    },
+    {
+      "name": "Trzydnik Duzy",
+      "id": "W9_j58N_76Tk"
+    },
+    {
+      "name": "Tuchola",
+      "id": "zwZGkke0Fi5h"
+    },
+    {
+      "name": "Tuchow",
+      "id": "25dq9xRHJxgE"
+    },
+    {
+      "name": "Tuczno",
+      "id": "RvfYr-vibX5M"
+    },
+    {
+      "name": "Tulce",
+      "id": "xSO_z0P9M-Hl"
+    },
+    {
+      "name": "Turbia",
+      "id": "J46CfR9lhx8y"
+    },
+    {
+      "name": "Turek",
+      "id": "QYTvtlHfF2kz"
+    },
+    {
+      "name": "Turobin",
+      "id": "WGQODZBKrOpw"
+    },
+    {
+      "name": "Turowiec",
+      "id": "hUeHYNDtsFs7"
+    },
+    {
+      "name": "Tuszyn",
+      "id": "oi2nzfz4DQe7"
+    },
+    {
+      "name": "Twardawa",
+      "id": "r28nmgj1v0Lg"
+    },
+    {
+      "name": "Twardogora",
+      "id": "LeOgVTViC6_w"
+    },
+    {
+      "name": "Tworog",
+      "id": "mXIAU4GNeVbF"
+    },
+    {
+      "name": "Tychy",
+      "id": "EK4JUJssJ10j"
+    },
+    {
+      "name": "Tyczyn",
+      "id": "a8GCkKHDMprf"
+    },
+    {
+      "name": "Tykocin",
+      "id": "ATJtAETxSgCX"
+    },
+    {
+      "name": "Tylicz",
+      "id": "zIUtkR_ixs5o"
+    },
+    {
+      "name": "Tylmanowa",
+      "id": "LOUae9jwbB-P"
+    },
+    {
+      "name": "Tymbark",
+      "id": "weVA5c0_Lnfo"
+    },
+    {
+      "name": "Tymowa",
+      "id": "aa-QuukUgAS_"
+    },
+    {
+      "name": "Tyszowce",
+      "id": "61bTumMDt8h1"
+    },
+    {
+      "name": "Uciechow",
+      "id": "DGzTGmS3Htvw"
+    },
+    {
+      "name": "Ujazd",
+      "id": "e-93c3FieVjN"
+    },
+    {
+      "name": "Ujscie",
+      "id": "moKwD5DE0dpE"
+    },
+    {
+      "name": "Ulez",
+      "id": "3MX4sHsbRKL8"
+    },
+    {
+      "name": "Unieszewo",
+      "id": "VC0RkPNC4k7Z"
+    },
+    {
+      "name": "Ustanow",
+      "id": "3VaMDMK3QINg"
+    },
+    {
+      "name": "Ustka",
+      "id": "VnjNoeU5q_4L"
+    },
+    {
+      "name": "Ustron",
+      "id": "Et3u6C6jkm8Z"
+    },
+    {
+      "name": "Ustrzyki Dolne",
+      "id": "C6N9WmORFjDi"
+    },
+    {
+      "name": "Wabrzezno",
+      "id": "JfL_UiYJOBA8"
+    },
+    {
+      "name": "Wachock",
+      "id": "ZY-kh1yNk6WC"
+    },
+    {
+      "name": "Wadowice",
+      "id": "6bqmnFwzsC5b"
+    },
+    {
+      "name": "Wadowice Gorne",
+      "id": "CN3Z0J5hDFPt"
+    },
+    {
+      "name": "Waganiec",
+      "id": "ohZ0j7kk7Zg-"
+    },
+    {
+      "name": "Wagrowiec",
+      "id": "_wsgocGcJ7yG"
+    },
+    {
+      "name": "Walcz",
+      "id": "zCp_vCeZyN_F"
+    },
+    {
+      "name": "Walim",
+      "id": "3Uamv7bCgg_3"
+    },
+    {
+      "name": "Wambierzyce",
+      "id": "YjYkoS70IhfF"
+    },
+    {
+      "name": "Wapielsk",
+      "id": "4qCacOE-cOtI"
+    },
+    {
+      "name": "Warka",
+      "id": "f1WBgQka0hNG"
+    },
+    {
+      "name": "Warsaw",
+      "id": "o2AY7abne_9B"
+    },
+    {
+      "name": "Warzachewka Polska",
+      "id": "9nATVqRD_mll"
+    },
+    {
+      "name": "Warzno",
+      "id": "F7DlUpBxDf7H"
+    },
+    {
+      "name": "Warzymice",
+      "id": "ovCzVRwImzxi"
+    },
+    {
+      "name": "Wasilkow",
+      "id": "yuOWKpNcKBdX"
+    },
+    {
+      "name": "Wasniow",
+      "id": "dB0tH7zFwO2G"
+    },
+    {
+      "name": "Wawel",
+      "id": "d2_ZzWubW2Rn"
+    },
+    {
+      "name": "Wawolnica",
+      "id": "2YlE9c_2Y6M5"
+    },
+    {
+      "name": "Wegierska Gorka",
+      "id": "FMe8-WXyjFWU"
+    },
+    {
+      "name": "Wegliniec",
+      "id": "1z4ZJ4FKy8Vp"
+    },
+    {
+      "name": "Weglowice",
+      "id": "yeXY5V5ufXar"
+    },
+    {
+      "name": "Wegrzce Wielkie",
+      "id": "EKndk6fH6IuN"
+    },
+    {
+      "name": "Wejherowo",
+      "id": "3yzJSNo6qc5H"
+    },
+    {
+      "name": "Wiazow",
+      "id": "aP2of8FNhcWI"
+    },
+    {
+      "name": "Wicko",
+      "id": "k5KkXHUnzfmX"
+    },
+    {
+      "name": "Wieckowice",
+      "id": "6FAzxlBmSKvp"
+    },
+    {
+      "name": "Wielbark",
+      "id": "yIX05ZKW0Ulz"
+    },
+    {
+      "name": "Wielen Zaobrzanski",
+      "id": "B5vBp9Lw50e_"
+    },
+    {
+      "name": "Wielgie",
+      "id": "NSpeBVDmelGv"
+    },
+    {
+      "name": "Wielichowo",
+      "id": "ViYfg0qrcFOu"
+    },
+    {
+      "name": "Wieliczka",
+      "id": "UICWlZXESnN2"
+    },
+    {
+      "name": "Wieliszew",
+      "id": "inuO3KsHBWBQ"
+    },
+    {
+      "name": "Wielki Klincz",
+      "id": "ezyXYIpeFNrS"
+    },
+    {
+      "name": "Wieloglowy",
+      "id": "2WMLd27XtDED"
+    },
+    {
+      "name": "Wielopole Skrzynskie",
+      "id": "HZmIi6mX6QL5"
+    },
+    {
+      "name": "Wielowies",
+      "id": "vMWLGObV8LgK"
+    },
+    {
+      "name": "Wieruszow",
+      "id": "ljO9oaL_MAP-"
+    },
+    {
+      "name": "Wierzchowisko",
+      "id": "DJtxXbMWN78W"
+    },
+    {
+      "name": "Wieszowa",
+      "id": "z1Rl1PGEfnp2"
+    },
+    {
+      "name": "Wijewo",
+      "id": "aENRrcfFASlE"
+    },
+    {
+      "name": "Wilczeta",
+      "id": "x8Ugt1mjjkE3"
+    },
+    {
+      "name": "Wilczyce",
+      "id": "fSUEE7UfU7-5"
+    },
+    {
+      "name": "Wilczyn",
+      "id": "WVpFkD0hsDhz"
+    },
+    {
+      "name": "Wilga",
+      "id": "9EBAFIY2fxeF"
+    },
+    {
+      "name": "Wilkanowo",
+      "id": "ny8k2ed6IEz6"
+    },
+    {
+      "name": "Wilkow",
+      "id": "RQ-P5dCOWYSJ"
+    },
+    {
+      "name": "Wilkowice",
+      "id": "61T-0bd6hHe8"
+    },
+    {
+      "name": "Wilkowisko",
+      "id": "5I8tu07S_2yf"
+    },
+    {
+      "name": "Winnica",
+      "id": "skTbIIebGBf3"
+    },
+    {
+      "name": "Winsko",
+      "id": "QSoIUaBAtmn1"
+    },
+    {
+      "name": "Wiorek",
+      "id": "0lN_vkdRbN9F"
+    },
+    {
+      "name": "Wisla",
+      "id": "65VPX3qyXAKt"
+    },
+    {
+      "name": "Wisla Wielka",
+      "id": "ZJMdLHNGSvNK"
+    },
+    {
+      "name": "Wisniew",
+      "id": "hakgwjokT-GB"
+    },
+    {
+      "name": "Wisniowa",
+      "id": "ORYl0Ol4sN4B"
+    },
+    {
+      "name": "Wisznice",
+      "id": "VreGJPs3Fftn"
+    },
+    {
+      "name": "Witaszyce",
+      "id": "fkcngTGKWIp1"
+    },
+    {
+      "name": "Witkowo",
+      "id": "wRg4SO5Qt5Hs"
+    },
+    {
+      "name": "Witnica",
+      "id": "oul_e76sz5Qa"
+    },
+    {
+      "name": "Wlodawa",
+      "id": "wnLhzKETj8Uq"
+    },
+    {
+      "name": "Wlodzimierz",
+      "id": "ptqGdhhtZtTU"
+    },
+    {
+      "name": "Wloszczowa",
+      "id": "55YZUa0npm9X"
+    },
+    {
+      "name": "Wojciech",
+      "id": "KvNQTT4NbM23"
+    },
+    {
+      "name": "Wojkowice",
+      "id": "9w1vJJpyjrSj"
+    },
+    {
+      "name": "Wojkowice Koscielne",
+      "id": "NNsucTKL4Ow4"
+    },
+    {
+      "name": "Wola Baranowska",
+      "id": "3KeGI1uknnPJ"
+    },
+    {
+      "name": "Wola Filipowska",
+      "id": "_ioqo42mKEwp"
+    },
+    {
+      "name": "Wola Kopcowa",
+      "id": "Q5yMVQYBIb9g"
+    },
+    {
+      "name": "Wola Krzysztoporska",
+      "id": "iZIjIFbApHJw"
+    },
+    {
+      "name": "Wola Radlowska",
+      "id": "iuiUA5ru7Zkx"
+    },
+    {
+      "name": "Wola Rasztowska",
+      "id": "rm2xq3_0eBYw"
+    },
+    {
+      "name": "Wola Rebkowska",
+      "id": "DIykWpeIFRA2"
+    },
+    {
+      "name": "Wola Zaradzynska",
+      "id": "gwP9ZiiiLWAx"
+    },
+    {
+      "name": "Wolborz",
+      "id": "QjSnoJTWDY1X"
+    },
+    {
+      "name": "Wolbrom",
+      "id": "TGru2uzBwIF2"
+    },
+    {
+      "name": "Wolin",
+      "id": "9cROgbzbctkt"
+    },
+    {
+      "name": "Wolka",
+      "id": "YkpBkEctn6mz"
+    },
+    {
+      "name": "Wolow",
+      "id": "gfTurd3mcBVt"
+    },
+    {
+      "name": "Wolsztyn",
+      "id": "-aFH1CEo-J13"
+    },
+    {
+      "name": "Wozniki",
+      "id": "F-bOn9UvUQM_"
+    },
+    {
+      "name": "Wreczyca Wielka",
+      "id": "F0Z96IFg3EAP"
+    },
+    {
+      "name": "Wronki",
+      "id": "UX3lADLmF3xE"
+    },
+    {
+      "name": "Wrzesnia",
+      "id": "H0BdL4vESBvT"
+    },
+    {
+      "name": "Wrzosowa",
+      "id": "T1l4MLsBGtpt"
+    },
+    {
+      "name": "Wrzosowka",
+      "id": "xzCVl_n-voVe"
+    },
+    {
+      "name": "Wschowa",
+      "id": "FuBdEBGXJClJ"
+    },
+    {
+      "name": "Wylatowo",
+      "id": "zwciPIWV7Q68"
+    },
+    {
+      "name": "Wymiarki",
+      "id": "taK9vQF3LzGg"
+    },
+    {
+      "name": "Wyrzysk",
+      "id": "69sTqa4D7w_e"
+    },
+    {
+      "name": "Wysogotowo",
+      "id": "OnonpgbpcEoS"
+    },
+    {
+      "name": "Wysoka",
+      "id": "zJyk374fsyUW"
+    },
+    {
+      "name": "Wysoka Strzyzowska",
+      "id": "SZz8QbxZQRKZ"
+    },
+    {
+      "name": "Wysokie Mazowieckie",
+      "id": "ZUOZ_H34rJdz"
+    },
+    {
+      "name": "Wystep",
+      "id": "CuB1SKhNdXbE"
+    },
+    {
+      "name": "Wyszogrod",
+      "id": "2S_HDJrUYJHC"
+    },
+    {
+      "name": "Zabia Wola",
+      "id": "SDKCogqxFe_V"
+    },
+    {
+      "name": "Zabierzow Bochenski",
+      "id": "PjI-S9yyHr3U"
+    },
+    {
+      "name": "Zablocie",
+      "id": "92D2I4CIih8Q"
+    },
+    {
+      "name": "Zabno",
+      "id": "m8eXGtLerKHX"
+    },
+    {
+      "name": "Zabor",
+      "id": "ywxvDv2Xi2-f"
+    },
+    {
+      "name": "Zabrowo",
+      "id": "qfqLgs0GdGcV"
+    },
+    {
+      "name": "Zabrze",
+      "id": "RlRdDQOCqY4K"
+    },
+    {
+      "name": "Zabrzeg",
+      "id": "aOlAikWOlGY4"
+    },
+    {
+      "name": "Zaczernie",
+      "id": "n4OH8gyhgYAV"
+    },
+    {
+      "name": "Zagnansk",
+      "id": "aR0KVxoUIYDP"
+    },
+    {
+      "name": "Zagorow",
+      "id": "VW0rtLHaEdVQ"
+    },
+    {
+      "name": "Zagorzyce",
+      "id": "2V2m1q4k-gYV"
+    },
+    {
+      "name": "Zagosciniec",
+      "id": "GtKT2nUHv-0w"
+    },
+    {
+      "name": "Zagrodno",
+      "id": "GRpVvha2m3Vc"
+    },
+    {
+      "name": "Zakopane",
+      "id": "YeUJRQmRfy10"
+    },
+    {
+      "name": "Zalakowo",
+      "id": "ITBAaNYZxejU"
+    },
+    {
+      "name": "Zalasewo",
+      "id": "lCG7tQ00NQwx"
+    },
+    {
+      "name": "Zalesie",
+      "id": "ba1i6TeRlFx_"
+    },
+    {
+      "name": "Zaleszany",
+      "id": "xLX6ReNfUVmQ"
+    },
+    {
+      "name": "Zalewo",
+      "id": "FUM7JRFHROxm"
+    },
+    {
+      "name": "Zalubice Nowe",
+      "id": "_niyY43tW7AK"
+    },
+    {
+      "name": "Zalubice Stare",
+      "id": "n5l_oqDTZ9X0"
+    },
+    {
+      "name": "Zaluski",
+      "id": "nFk-8Ovays7x"
+    },
+    {
+      "name": "Zaniemysl",
+      "id": "YV29kIrjVDAP"
+    },
+    {
+      "name": "Zaparcin",
+      "id": "SjIXokkfbL-B"
+    },
+    {
+      "name": "Zarow",
+      "id": "vXPBxtUsMR8T"
+    },
+    {
+      "name": "Zarowka",
+      "id": "AgOUKnCdqK8Z"
+    },
+    {
+      "name": "Zarszyn",
+      "id": "zruhHsZpnaQV"
+    },
+    {
+      "name": "Zary",
+      "id": "ldqRXkQRcBUY"
+    },
+    {
+      "name": "Zator",
+      "id": "x6WojN3k77oO"
+    },
+    {
+      "name": "Zawada",
+      "id": "BEXnPsS6LRc2"
+    },
+    {
+      "name": "Zawady",
+      "id": "mDpmXu7fgS1I"
+    },
+    {
+      "name": "Zawadzkie",
+      "id": "1hUM4LcxMDeM"
+    },
+    {
+      "name": "Zawidow",
+      "id": "x8mAQB_xAsi6"
+    },
+    {
+      "name": "Zawiercie",
+      "id": "zSU86WRJnPrk"
+    },
+    {
+      "name": "Zawoja",
+      "id": "aT49SEs5KZ2N"
+    },
+    {
+      "name": "Zawonia",
+      "id": "pY7fJ67CoepO"
+    },
+    {
+      "name": "Zbaszyn",
+      "id": "PzbR9w5CwB-E"
+    },
+    {
+      "name": "Zbaszynek",
+      "id": "klHqXePIvDXb"
+    },
+    {
+      "name": "Zbiczno",
+      "id": "CCOpIRISmCaq"
+    },
+    {
+      "name": "Zblewo",
+      "id": "3Qm8dW-CzkWT"
+    },
+    {
+      "name": "Zbroslawice",
+      "id": "VOPTTAqxYKQr"
+    },
+    {
+      "name": "Zdunska Wola",
+      "id": "cfQx3Ok9oabC"
+    },
+    {
+      "name": "Zduny",
+      "id": "JqbUcW2Sx5Ft"
+    },
+    {
+      "name": "Zdzieszowice",
+      "id": "FLUIWkHG-ZGP"
+    },
+    {
+      "name": "Zebowice",
+      "id": "ggCBleEb7iOm"
+    },
+    {
+      "name": "Zebrzydowice",
+      "id": "KoqJimpLgntY"
+    },
+    {
+      "name": "Zegrze Pomorskie",
+      "id": "4CRU10ZB6j5Y"
+    },
+    {
+      "name": "Zelazkow",
+      "id": "w5m2cleLzSHS"
+    },
+    {
+      "name": "Zelow",
+      "id": "g94IV5dt5yd0"
+    },
+    {
+      "name": "Zembrzyce",
+      "id": "2adHBD6sebfp"
+    },
+    {
+      "name": "Zerkow",
+      "id": "T-OQuBoQNGbl"
+    },
+    {
+      "name": "Zernica",
+      "id": "loQCeTO-TjQK"
+    },
+    {
+      "name": "Zerniki",
+      "id": "Lo8jQW5oDeUV"
+    },
+    {
+      "name": "Zgierz",
+      "id": "TeX4d8gfXpJZ"
+    },
+    {
+      "name": "Zglobice",
+      "id": "O51ocm7DlZE0"
+    },
+    {
+      "name": "Zglobien",
+      "id": "sjlcIxC3Yhig"
+    },
+    {
+      "name": "Zgorsko",
+      "id": "MkSekZ-J5awX"
+    },
+    {
+      "name": "Zgorzala",
+      "id": "Y5iOQSpygMjP"
+    },
+    {
+      "name": "Zgorzelec",
+      "id": "GwvWurceWci6"
+    },
+    {
+      "name": "Ziebice",
+      "id": "Mskq2jzWcs4h"
+    },
+    {
+      "name": "Zielona",
+      "id": "BtO-hfBaAZB1"
+    },
+    {
+      "name": "Zielone",
+      "id": "M9_4Pcd8KDf3"
+    },
+    {
+      "name": "Zielonka",
+      "id": "JC85Wn7WsSen"
+    },
+    {
+      "name": "Zielonki",
+      "id": "UGVqAzTgEh8F"
+    },
+    {
+      "name": "Zielonki-Wies",
+      "id": "_7NJqScouqUY"
+    },
+    {
+      "name": "Zlocieniec",
+      "id": "_K4F1-XNy7lM"
+    },
+    {
+      "name": "Zloczew",
+      "id": "G226wb-K7aDk"
+    },
+    {
+      "name": "Zlotow",
+      "id": "E4xm7xWWUM_L"
+    },
+    {
+      "name": "Zloty Stok",
+      "id": "AP7Mx1l5Wlnd"
+    },
+    {
+      "name": "Zmigrod",
+      "id": "e5D7S4cpJEoe"
+    },
+    {
+      "name": "Znin",
+      "id": "MUH6y1RvJ35Q"
+    },
+    {
+      "name": "Zofia",
+      "id": "oasISpQWyaYu"
+    },
+    {
+      "name": "Zorawia",
+      "id": "M7doCiX6dGUB"
+    },
+    {
+      "name": "Zorawina",
+      "id": "6XbWflXkG7k3"
+    },
+    {
+      "name": "Zosin",
+      "id": "3vhuHe1g_n8M"
+    },
+    {
+      "name": "Zrecin",
+      "id": "E1YfLBaqHyk1"
+    },
+    {
+      "name": "Zukowo",
+      "id": "JccHAxr-ebZa"
+    },
+    {
+      "name": "Zurawica",
+      "id": "pWXsZF4x8XAm"
+    },
+    {
+      "name": "Zwolen",
+      "id": "Vz59mQpS0Woj"
+    },
+    {
+      "name": "Zyrakow",
+      "id": "4rCISa589Shn"
+    }
   ]
 }

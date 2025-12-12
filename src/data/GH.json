@@ -1,15 +1,69 @@
 {
   "coid": "GH",
   "cities": [
-    { "name": "Accra", "id": "a93f2d5a6b87" },
-    { "name": "Kumasi", "id": "b04a3e6b7c98" },
-    { "name": "Tamale", "id": "c15b4f7c8d09" },
-    { "name": "Takoradi", "id": "d26c5a8d9e10" },
-    { "name": "Cape Coast", "id": "e37d6b9e0f21" },
-    { "name": "Ho", "id": "f48e7c0f1a32" },
-    { "name": "Koforidua", "id": "a59f8d1a2b43" },
-    { "name": "Sunyani", "id": "b60a9e2b3c54" },
-    { "name": "Bolgatanga", "id": "c71b0f3c4d65" },
-    { "name": "Wa", "id": "d82c1a4d5e76" }
+    {
+      "name": "Accra",
+      "id": "XLND10BOHom7"
+    },
+    {
+      "name": "Bawku",
+      "id": "3pRz7oY2Y0hF"
+    },
+    {
+      "name": "Berekum",
+      "id": "wihamw91E5dS"
+    },
+    {
+      "name": "Bolgatanga",
+      "id": "g9jlDvSboQFa"
+    },
+    {
+      "name": "Cape Coast",
+      "id": "LLsu5nxYv-IB"
+    },
+    {
+      "name": "Home",
+      "id": "VPs_4hzzuaiz"
+    },
+    {
+      "name": "Koforidua",
+      "id": "eOjHgFr2wAIG"
+    },
+    {
+      "name": "Kumasi",
+      "id": "nP-f9q4dXDv1"
+    },
+    {
+      "name": "Legon",
+      "id": "em5QucxCfIz8"
+    },
+    {
+      "name": "Mampong",
+      "id": "JttrKcuqcws9"
+    },
+    {
+      "name": "Navrongo",
+      "id": "p7bA1OvzHNvu"
+    },
+    {
+      "name": "Sunyani",
+      "id": "CdCLL0Rb0UiF"
+    },
+    {
+      "name": "Takoradi",
+      "id": "NpiDH_xQ-TjQ"
+    },
+    {
+      "name": "Tema",
+      "id": "uNE4F5FQ_1QD"
+    },
+    {
+      "name": "Wa",
+      "id": "dM_VjYzprb7x"
+    },
+    {
+      "name": "Winneba",
+      "id": "4XIWC9NGK0ST"
+    }
   ]
 }

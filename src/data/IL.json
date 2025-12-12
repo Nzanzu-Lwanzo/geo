@@ -1,15 +1,609 @@
 {
   "coid": "IL",
   "cities": [
-    { "name": "Jerusalem", "id": "c91f3a2d9b7e" },
-    { "name": "Tel Aviv", "id": "d28e1f9ac4d2" },
-    { "name": "Haifa", "id": "e39d7b1e0f52" },
-    { "name": "Rishon LeZion", "id": "f84a2c7f1e93" },
-    { "name": "Petah Tikva", "id": "a72b9d4c3a10" },
-    { "name": "Ashdod", "id": "b63c1a8e5b27" },
-    { "name": "Netanya", "id": "c72d9c4f1b83" },
-    { "name": "Beer Sheva", "id": "d91e3f7a2c64" },
-    { "name": "Holon", "id": "e58f2a9d7e31" },
-    { "name": "Bnei Brak", "id": "f47b1c6e9f20" }
+    {
+      "name": "`Alma",
+      "id": "gXofpIjM1m3J"
+    },
+    {
+      "name": "`Amir",
+      "id": "5yZWuiST_eBN"
+    },
+    {
+      "name": "`Arugot",
+      "id": "o9GY-zpEqshQ"
+    },
+    {
+      "name": "`Aseret",
+      "id": "YVi9jhz2TCWp"
+    },
+    {
+      "name": "`En Ayyala",
+      "id": "fM8nmU2MdF5p"
+    },
+    {
+      "name": "`En HaShelosha",
+      "id": "rhgdwV2iPi4Q"
+    },
+    {
+      "name": "`Evron",
+      "id": "dJMHE5I_giAk"
+    },
+    {
+      "name": "Acre",
+      "id": "PmZYkNdGbw0t"
+    },
+    {
+      "name": "Afiqim",
+      "id": "kWl2LUNV__Kx"
+    },
+    {
+      "name": "Ahituv",
+      "id": "K1OGN1glD7Df"
+    },
+    {
+      "name": "Allonim",
+      "id": "qSFfd1ZfVZcy"
+    },
+    {
+      "name": "Ashdod",
+      "id": "z4T90k6ut5-D"
+    },
+    {
+      "name": "Ashqelon",
+      "id": "XpxvkVidnxPm"
+    },
+    {
+      "name": "Azor",
+      "id": "O1iT65LsNGFi"
+    },
+    {
+      "name": "Bahan",
+      "id": "xx31RDbWu5t1"
+    },
+    {
+      "name": "Baraq",
+      "id": "eniwUpSz5HXa"
+    },
+    {
+      "name": "Bareqet",
+      "id": "QYAFjYWcgLR0"
+    },
+    {
+      "name": "Bat Hadar",
+      "id": "cuAWRJ6eONEL"
+    },
+    {
+      "name": "Bat Hefer",
+      "id": "veCo-wgjvo-_"
+    },
+    {
+      "name": "Bat Yam",
+      "id": "WA9iAQF4-qH8"
+    },
+    {
+      "name": "Beersheba",
+      "id": "Cxj2SmG1lNO3"
+    },
+    {
+      "name": "Ben Shemen-Kefar Hano`ar",
+      "id": "E2g49gfeOaJp"
+    },
+    {
+      "name": "Bene Ziyyon",
+      "id": "z9awW4twSshh"
+    },
+    {
+      "name": "Bet Alfa",
+      "id": "a9x3bz9Om4YF"
+    },
+    {
+      "name": "Bet Dagan",
+      "id": "25DDclhsSrHC"
+    },
+    {
+      "name": "Bet Oren",
+      "id": "uhQAmnYuizvd"
+    },
+    {
+      "name": "Bet Shemesh",
+      "id": "4hDYRKeIG0Vu"
+    },
+    {
+      "name": "Binyamina",
+      "id": "ZH-QbxbOZOxK"
+    },
+    {
+      "name": "Biriyya",
+      "id": "lTvcbPtqCnKY"
+    },
+    {
+      "name": "Dabburiya",
+      "id": "rQFc_Cj3VaEL"
+    },
+    {
+      "name": "Dimona",
+      "id": "9DlvQmUq0A9t"
+    },
+    {
+      "name": "Eilat",
+      "id": "sCeGaoTeGOH9"
+    },
+    {
+      "name": "Elyakhin",
+      "id": "phtGACoAB6Kg"
+    },
+    {
+      "name": "Elyaqim",
+      "id": "xQfa7qzmggdj"
+    },
+    {
+      "name": "Emunim",
+      "id": "oejLxh9z_CuW"
+    },
+    {
+      "name": "Et Taiyiba",
+      "id": "OqaQyQ00R8FH"
+    },
+    {
+      "name": "Even Yehuda",
+      "id": "fGN0Nt0a89hz"
+    },
+    {
+      "name": "Gan Hayyim",
+      "id": "gRcsy_Z7xn4h"
+    },
+    {
+      "name": "Gan Yavne",
+      "id": "RWZ3l0lWiEIL"
+    },
+    {
+      "name": "Ganne Tiqwa",
+      "id": "sgkntE1NVnTU"
+    },
+    {
+      "name": "Gedera",
+      "id": "paWHcBGU4ofk"
+    },
+    {
+      "name": "Gibbeton",
+      "id": "DlUsyG2dZC9Z"
+    },
+    {
+      "name": "Gimzo",
+      "id": "-ukPlVgdf9Y6"
+    },
+    {
+      "name": "Ginnosar",
+      "id": "OhJC6TdjMSsn"
+    },
+    {
+      "name": "Giv`at Hayyim",
+      "id": "hZc2BN4dyC8u"
+    },
+    {
+      "name": "Hadar `Am",
+      "id": "MeFek4pZqMdT"
+    },
+    {
+      "name": "Hadar Ramatayim",
+      "id": "ESpFPMdKGgxZ"
+    },
+    {
+      "name": "Hadera",
+      "id": "9a8ZCtVXvGGY"
+    },
+    {
+      "name": "Hadid",
+      "id": "TLVdF3k852n-"
+    },
+    {
+      "name": "Haifa",
+      "id": "pKC7jARqf7k8"
+    },
+    {
+      "name": "HaKarmel",
+      "id": "7oKVEbWE3XTo"
+    },
+    {
+      "name": "Haluz",
+      "id": "DT4xbdWr6vyZ"
+    },
+    {
+      "name": "Hazav",
+      "id": "v1prxFF7hWVw"
+    },
+    {
+      "name": "Hazor Ashdod",
+      "id": "3rD_Ainvnho2"
+    },
+    {
+      "name": "Hazor HaGelilit",
+      "id": "OIkndrNw9HPl"
+    },
+    {
+      "name": "Herut",
+      "id": "mM5Q6bDapGp3"
+    },
+    {
+      "name": "Herzliya",
+      "id": "trGHNN1aWFMe"
+    },
+    {
+      "name": "Hever",
+      "id": "WA7xlZ1ouLB7"
+    },
+    {
+      "name": "Hod HaSharon",
+      "id": "Fdy02na4VDWG"
+    },
+    {
+      "name": "Holon",
+      "id": "bO7xD3tBiqZ0"
+    },
+    {
+      "name": "Hurfeish",
+      "id": "gjqCQY0OZ778"
+    },
+    {
+      "name": "Jaffa",
+      "id": "sMn72lS8KwpP"
+    },
+    {
+      "name": "Jerusalem",
+      "id": "vrntFh2Gt7si"
+    },
+    {
+      "name": "Kadima",
+      "id": "_pQBwlqMJr1i"
+    },
+    {
+      "name": "Karkur",
+      "id": "tnXDshjX9HzW"
+    },
+    {
+      "name": "Kefar Daniyyel",
+      "id": "e8n5Sd7GCdtZ"
+    },
+    {
+      "name": "Kefar Netter",
+      "id": "IbUQbwrjBCUl"
+    },
+    {
+      "name": "Kefar Witqin",
+      "id": "AVb8oV26LdkR"
+    },
+    {
+      "name": "Kefar Yona",
+      "id": "lxTFMxlPvoBu"
+    },
+    {
+      "name": "Kfar Saba",
+      "id": "FNDB_aK_0wB4"
+    },
+    {
+      "name": "Liman",
+      "id": "6d6jUI3ixb3M"
+    },
+    {
+      "name": "Lod",
+      "id": "iWiiDK0P5K6I"
+    },
+    {
+      "name": "maalot Tarshiha",
+      "id": "ZFKJpTOJ3-XS"
+    },
+    {
+      "name": "Magen",
+      "id": "2lj2oKUtIngN"
+    },
+    {
+      "name": "Maghar",
+      "id": "h_6jEO93kdyj"
+    },
+    {
+      "name": "Mazkeret Batya",
+      "id": "xN8dDWVxQ25e"
+    },
+    {
+      "name": "Mazliah",
+      "id": "EhVupsbfKXW_"
+    },
+    {
+      "name": "Mazor",
+      "id": "3Js_Se7KXaWK"
+    },
+    {
+      "name": "Mesillat Ziyyon",
+      "id": "0ien6wdv0weW"
+    },
+    {
+      "name": "Migdal",
+      "id": "Vy1LVCqDsHu1"
+    },
+    {
+      "name": "Mikhmoret",
+      "id": "jnzYp1vMPt-h"
+    },
+    {
+      "name": "Misgav Regional Council",
+      "id": "pKwPPVF7o8CL"
+    },
+    {
+      "name": "Mizpe Netofa",
+      "id": "s-JZ9J2W2rYR"
+    },
+    {
+      "name": "Modiin",
+      "id": "4vXA2gtkMfff"
+    },
+    {
+      "name": "Moran",
+      "id": "BJxtJwaM-Twk"
+    },
+    {
+      "name": "Naham",
+      "id": "X8Rz6Bs-ByNt"
+    },
+    {
+      "name": "Nahariya",
+      "id": "FrQcR9lcDDAP"
+    },
+    {
+      "name": "Nazareth",
+      "id": "XFD3ZZ6dReVh"
+    },
+    {
+      "name": "Nazerat `Illit",
+      "id": "cm2IJeCAffEz"
+    },
+    {
+      "name": "Nesher",
+      "id": "dLRsitVXmsaq"
+    },
+    {
+      "name": "Ness Ziona",
+      "id": "V9pIGLTHkWPu"
+    },
+    {
+      "name": "Netanya",
+      "id": "0YJJFOnwgeQ4"
+    },
+    {
+      "name": "Netivot",
+      "id": "UnokglniGkm8"
+    },
+    {
+      "name": "Newe Efrayim",
+      "id": "KsijTNitpP7O"
+    },
+    {
+      "name": "Newe Yamin",
+      "id": "7VuhKiEL6ct9"
+    },
+    {
+      "name": "Nir Zevi",
+      "id": "kDEL53LFLQSC"
+    },
+    {
+      "name": "Nirim",
+      "id": "rO9Xnt7c5H0d"
+    },
+    {
+      "name": "Nordiyya",
+      "id": "Bj6SxKqtYmaN"
+    },
+    {
+      "name": "Ofaqim",
+      "id": "ljLriGJPeCSe"
+    },
+    {
+      "name": "Or `Aqiva",
+      "id": "0uLHI9jCKO41"
+    },
+    {
+      "name": "Or Yehuda",
+      "id": "miZQnYapE3RC"
+    },
+    {
+      "name": "Pardes Hanna Karkur",
+      "id": "EMfpxo3D5TpF"
+    },
+    {
+      "name": "Pardesiyya",
+      "id": "JYKPYpcTTylv"
+    },
+    {
+      "name": "Pasuta",
+      "id": "hRF4-d-veIJa"
+    },
+    {
+      "name": "Petah Tikwah",
+      "id": "I6FBK3v5i687"
+    },
+    {
+      "name": "Qiryat Ata",
+      "id": "3bJeQZ5Q3BGj"
+    },
+    {
+      "name": "Qiryat Bialik",
+      "id": "-HrKDqt0U1k1"
+    },
+    {
+      "name": "Qiryat Gat",
+      "id": "MsnSnQR7YxYX"
+    },
+    {
+      "name": "Qiryat Hayyim",
+      "id": "-boeWyMOFnj7"
+    },
+    {
+      "name": "Qiryat Motzkin",
+      "id": "mO0gv2ey4oh3"
+    },
+    {
+      "name": "Qiryat Ono",
+      "id": "TwWXn2IA_quT"
+    },
+    {
+      "name": "Qiryat Tiv`on",
+      "id": "uIP54gcBAOkF"
+    },
+    {
+      "name": "Qiryat Yam",
+      "id": "MCbwCjIUUwIU"
+    },
+    {
+      "name": "Ramat Aviv",
+      "id": "y022LKC1zadJ"
+    },
+    {
+      "name": "Ramat Dawid",
+      "id": "f14bL5dZSjs_"
+    },
+    {
+      "name": "Ramat Ef`al",
+      "id": "RaAnZGzayhfT"
+    },
+    {
+      "name": "Ramat Gan",
+      "id": "B22pZbSoL-JJ"
+    },
+    {
+      "name": "Ramat HaSharon",
+      "id": "Wm8qyD_VlVuh"
+    },
+    {
+      "name": "Ramat Poleg",
+      "id": "GinOcL1EVISZ"
+    },
+    {
+      "name": "Ramat Yishay",
+      "id": "Jj8qTHmgP8x9"
+    },
+    {
+      "name": "Ramla",
+      "id": "656aZ88NnWzf"
+    },
+    {
+      "name": "Ramot Naftali",
+      "id": "4AGtiZqUl0Af"
+    },
+    {
+      "name": "Rehovot",
+      "id": "nZzfwEidOk1f"
+    },
+    {
+      "name": "Rinnatya",
+      "id": "0znvqXIRbGYC"
+    },
+    {
+      "name": "Rishon LeZion",
+      "id": "3brBuoiNInB0"
+    },
+    {
+      "name": "Rishpon",
+      "id": "m201MUnZkXdB"
+    },
+    {
+      "name": "Safed",
+      "id": "oNj_gTDIzn7O"
+    },
+    {
+      "name": "Sarid",
+      "id": "lMiuFvl00gcj"
+    },
+    {
+      "name": "Savyon",
+      "id": "7Ri2JsDTNrUH"
+    },
+    {
+      "name": "Sde Boker",
+      "id": "FnB0TL-Xz84O"
+    },
+    {
+      "name": "Sde Warburg",
+      "id": "4tNWrnqCt52i"
+    },
+    {
+      "name": "Sderot",
+      "id": "p3MOM8wHb5O4"
+    },
+    {
+      "name": "Sedot Yam",
+      "id": "Pp82wUko6X1j"
+    },
+    {
+      "name": "Shamir",
+      "id": "yk3h8HQ1Pv72"
+    },
+    {
+      "name": "Shave Ziyyon",
+      "id": "eYSg5z1RaY4k"
+    },
+    {
+      "name": "Shefayim",
+      "id": "gkuPuClp7E1M"
+    },
+    {
+      "name": "Shelomi",
+      "id": "eeFISC_A3e4e"
+    },
+    {
+      "name": "Shetulim",
+      "id": "TI_hqYCF8m42"
+    },
+    {
+      "name": "Shoval",
+      "id": "3Sk38qmGI5NR"
+    },
+    {
+      "name": "Talme Menashe",
+      "id": "quCwsRNa99JL"
+    },
+    {
+      "name": "Tel Aviv",
+      "id": "Lk_VXkDSYdI2"
+    },
+    {
+      "name": "Tel Mond",
+      "id": "-zOG2h65VuUb"
+    },
+    {
+      "name": "Tiberias",
+      "id": "5Ic50iDFgtl_"
+    },
+    {
+      "name": "Timrat",
+      "id": "28w8SEx_maIK"
+    },
+    {
+      "name": "Tirat Karmel",
+      "id": "OMxrpv0e3b5q"
+    },
+    {
+      "name": "Tirat Yehuda",
+      "id": "DCtVdd16IeKN"
+    },
+    {
+      "name": "Urim",
+      "id": "WKqS1AURgmSe"
+    },
+    {
+      "name": "Yaqum",
+      "id": "Yoc-YjM5d7sI"
+    },
+    {
+      "name": "Yavne",
+      "id": "5Dls_4afV4dn"
+    },
+    {
+      "name": "Yehud",
+      "id": "0FW_996hZLrC"
+    },
+    {
+      "name": "Zoran",
+      "id": "iH8l_pdMLVCM"
+    }
   ]
 }

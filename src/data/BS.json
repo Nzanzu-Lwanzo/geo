@@ -1,14 +1,33 @@
 {
   "coid": "BS",
   "cities": [
-    { "name": "Nassau", "id": "e83f1d2b4c65" },
-    { "name": "Freeport", "id": "f94a2e3c5d76" },
-    { "name": "West End", "id": "a15b3f4d6e87" },
-    { "name": "Cooper's Town", "id": "b26c4a5e7f98" },
-    { "name": "Marsh Harbour", "id": "c37d5b6f8a09" },
-    { "name": "High Rock", "id": "d48e6c7a9b10" },
-    { "name": "Andros Town", "id": "e59f7d8b0c21" },
-    { "name": "Clarence Town", "id": "f60a8e9c1d32" },
-    { "name": "Dunmore Town", "id": "a71b9f0d2e43" }
+    {
+      "name": "Andros Town",
+      "id": "_1RScPovvLCd"
+    },
+    {
+      "name": "Dunmore Town",
+      "id": "oRsUMudDzYzB"
+    },
+    {
+      "name": "Freeport",
+      "id": "13jUCayDGFMm"
+    },
+    {
+      "name": "Marsh Harbour",
+      "id": "01fAxorHCEV5"
+    },
+    {
+      "name": "Nassau",
+      "id": "DOg2MAIK9wah"
+    },
+    {
+      "name": "Palmetto Point",
+      "id": "CR3ITey5vAjn"
+    },
+    {
+      "name": "Spanish Wells",
+      "id": "P4psQKsh09zv"
+    }
   ]
 }

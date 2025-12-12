@@ -1,15 +1,345 @@
 {
   "coid": "NG",
   "cities": [
-    { "name": "Lagos", "id": "a93f2d5a6b87" },
-    { "name": "Kano", "id": "b04a3e6b7c98" },
-    { "name": "Ibadan", "id": "c15b4f7c8d09" },
-    { "name": "Abuja", "id": "d26c5a8d9e10" },
-    { "name": "Port Harcourt", "id": "e37d6b9e0f21" },
-    { "name": "Benin City", "id": "f48e7c0f1a32" },
-    { "name": "Kaduna", "id": "a59f8d1a2b43" },
-    { "name": "Maiduguri", "id": "b60a9e2b3c54" },
-    { "name": "Zaria", "id": "c71b0f3c4d65" },
-    { "name": "Aba", "id": "d82c1a4d5e76" }
+    {
+      "name": "Aba",
+      "id": "LS7qiinIrl3Y"
+    },
+    {
+      "name": "Abakaliki",
+      "id": "k0bhHCsINXBu"
+    },
+    {
+      "name": "Abeokuta",
+      "id": "BzqbkcvBW-ru"
+    },
+    {
+      "name": "Abraka",
+      "id": "HHTUyvGY4pCC"
+    },
+    {
+      "name": "Abuja",
+      "id": "QEjKDsVqFdRR"
+    },
+    {
+      "name": "Ado-Ekiti",
+      "id": "hdYSRo3rewNZ"
+    },
+    {
+      "name": "Adodo",
+      "id": "PO9O7fHsG4LP"
+    },
+    {
+      "name": "Aganga",
+      "id": "xYnqN_i8QWJU"
+    },
+    {
+      "name": "Agege",
+      "id": "QedFlIcfp6Xf"
+    },
+    {
+      "name": "Agidingbi",
+      "id": "ZfdxC9rXS6rL"
+    },
+    {
+      "name": "Ajegunle",
+      "id": "fQQ4lZsrlMLw"
+    },
+    {
+      "name": "Ajuwon",
+      "id": "s_b0I-BsPvyQ"
+    },
+    {
+      "name": "Akure",
+      "id": "up7uG1B7w51f"
+    },
+    {
+      "name": "Alimosho",
+      "id": "67QCN7AMmQay"
+    },
+    {
+      "name": "Anambra",
+      "id": "v4JUEZA5K2yn"
+    },
+    {
+      "name": "Apapa",
+      "id": "c2LDw30w4YNq"
+    },
+    {
+      "name": "Ayobo",
+      "id": "B6vJ9aCG7p1q"
+    },
+    {
+      "name": "Benin City",
+      "id": "zSzqDYxJUhrY"
+    },
+    {
+      "name": "Birnin Kebbi",
+      "id": "0fE3Qjg85jfW"
+    },
+    {
+      "name": "Bonny",
+      "id": "3tFGSXYtEa_U"
+    },
+    {
+      "name": "Burutu",
+      "id": "fDGIfdVSeZzg"
+    },
+    {
+      "name": "Bwari",
+      "id": "XeeJTexbzMVN"
+    },
+    {
+      "name": "Calabar",
+      "id": "6TJUOq8_bL1O"
+    },
+    {
+      "name": "Chafe",
+      "id": "8W-vjyIhlJGi"
+    },
+    {
+      "name": "Damaturu",
+      "id": "ac8Cpxwww5_M"
+    },
+    {
+      "name": "Egbeda",
+      "id": "AI07_Ug2YwJK"
+    },
+    {
+      "name": "Ekpoma",
+      "id": "5o9jxDoefr9J"
+    },
+    {
+      "name": "Enugu",
+      "id": "NZHZCRiSkvd9"
+    },
+    {
+      "name": "Forum",
+      "id": "Xb8tLjCqdaF9"
+    },
+    {
+      "name": "Funtua",
+      "id": "r2ikEf-OE0mw"
+    },
+    {
+      "name": "Ibadan",
+      "id": "wQJaZNXUiuuQ"
+    },
+    {
+      "name": "Ido",
+      "id": "AEetGCjqPk__"
+    },
+    {
+      "name": "Ifako",
+      "id": "tLmimOC6t_fj"
+    },
+    {
+      "name": "Igando",
+      "id": "DzuW8QRK7Ayt"
+    },
+    {
+      "name": "Igueben",
+      "id": "_zVZHrftaROn"
+    },
+    {
+      "name": "Ikeja",
+      "id": "revhvE-feV4Q"
+    },
+    {
+      "name": "Ikorodu",
+      "id": "bnvApH8cZxtE"
+    },
+    {
+      "name": "Ikotun",
+      "id": "M6t47jWkXNAb"
+    },
+    {
+      "name": "Ile-Ife",
+      "id": "0YOMDV--XvCH"
+    },
+    {
+      "name": "Ilesa",
+      "id": "FQVcA6CH76Ms"
+    },
+    {
+      "name": "Ilorin",
+      "id": "eks97v6A4x8V"
+    },
+    {
+      "name": "Ipaja",
+      "id": "cAAi5SqLgP7f"
+    },
+    {
+      "name": "Iseri-Oke",
+      "id": "-ehGzNL9pMXm"
+    },
+    {
+      "name": "Isolo",
+      "id": "jQv2glJ1X_uP"
+    },
+    {
+      "name": "Jalingo",
+      "id": "EBLgc6xFY_4g"
+    },
+    {
+      "name": "Jos",
+      "id": "voFCf-R_lq_6"
+    },
+    {
+      "name": "Kaduna",
+      "id": "YGs-3cobsqxJ"
+    },
+    {
+      "name": "Kano",
+      "id": "psgyL33q6o57"
+    },
+    {
+      "name": "Kebbi",
+      "id": "J5Z6R2JDvcL7"
+    },
+    {
+      "name": "Lagos",
+      "id": "z_UlFaeMEK84"
+    },
+    {
+      "name": "Lekki",
+      "id": "wqrhLpi-DqNw"
+    },
+    {
+      "name": "Lokoja",
+      "id": "qUbBiXsmv-SB"
+    },
+    {
+      "name": "Magodo",
+      "id": "lAQ_UnbmY_BJ"
+    },
+    {
+      "name": "Makurdi",
+      "id": "BSR29bnwHhfS"
+    },
+    {
+      "name": "Maryland",
+      "id": "dXL0ttKvmuec"
+    },
+    {
+      "name": "Minna",
+      "id": "XsekQDRcEiqA"
+    },
+    {
+      "name": "Mogho",
+      "id": "W0Zk2RG2LJHb"
+    },
+    {
+      "name": "Mowe",
+      "id": "8Jxht-3c9pGE"
+    },
+    {
+      "name": "Mushin",
+      "id": "G1RarwG-fdJL"
+    },
+    {
+      "name": "Nsukka",
+      "id": "F33KAW4RXpOe"
+    },
+    {
+      "name": "Obafemi",
+      "id": "VPDP1I9Z0qzb"
+    },
+    {
+      "name": "Obudu",
+      "id": "_4uQxjGO6yWD"
+    },
+    {
+      "name": "Odau",
+      "id": "YjofVGsC6Oay"
+    },
+    {
+      "name": "Ojo",
+      "id": "k3Ey-xQiRY3o"
+    },
+    {
+      "name": "Ojota",
+      "id": "6R_omMUELv2N"
+    },
+    {
+      "name": "Ondo",
+      "id": "rBpHWc6dpm-4"
+    },
+    {
+      "name": "Onigbongbo",
+      "id": "IIx0QXQdoGBT"
+    },
+    {
+      "name": "Orile Oshodi",
+      "id": "clqrbl5suEpi"
+    },
+    {
+      "name": "Oshodi",
+      "id": "PIwKYATYsDJ9"
+    },
+    {
+      "name": "Osogbo",
+      "id": "b1KwDUJ4jmnS"
+    },
+    {
+      "name": "Ota",
+      "id": "Ss1Q_VmViD--"
+    },
+    {
+      "name": "Owerri",
+      "id": "zLgq89187HX5"
+    },
+    {
+      "name": "Oworonsoki",
+      "id": "J9Ew9ZpLHOdv"
+    },
+    {
+      "name": "Port Harcourt",
+      "id": "-UgkMOuBcb7g"
+    },
+    {
+      "name": "Shomolu",
+      "id": "DV4X052Z7x3v"
+    },
+    {
+      "name": "Suleja",
+      "id": "A5SurI_T5CkW"
+    },
+    {
+      "name": "Suru-Lere",
+      "id": "2s1v3ifbBFlu"
+    },
+    {
+      "name": "Tara",
+      "id": "CJXIFfUjDux4"
+    },
+    {
+      "name": "Ughelli",
+      "id": "qNFP-_zscNJ9"
+    },
+    {
+      "name": "Ungwan Madaki",
+      "id": "zwd5VBuMa7p0"
+    },
+    {
+      "name": "Uyo",
+      "id": "ewBrtPDxdBnE"
+    },
+    {
+      "name": "Warri",
+      "id": "cZsmNsYGNlJI"
+    },
+    {
+      "name": "Yaba",
+      "id": "EDAG6UJRo5ua"
+    },
+    {
+      "name": "Yola",
+      "id": "M2wdB7JMXVz7"
+    },
+    {
+      "name": "Zaria",
+      "id": "DlYW_goGs3uh"
+    }
   ]
 }

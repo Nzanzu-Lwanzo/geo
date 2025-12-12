@@ -1,15 +1,33 @@
 {
   "coid": "MG",
   "cities": [
-    { "name": "Antananarivo", "id": "a93f2d5a6b87" },
-    { "name": "Toamasina", "id": "b04a3e6b7c98" },
-    { "name": "Antsirabe", "id": "c15b4f7c8d09" },
-    { "name": "Fianarantsoa", "id": "d26c5a8d9e10" },
-    { "name": "Mahajanga", "id": "e37d6b9e0f21" },
-    { "name": "Toliara", "id": "f48e7c0f1a32" },
-    { "name": "Antsiranana", "id": "a59f8d1a2b43" },
-    { "name": "Ambovombe", "id": "b60a9e2b3c54" },
-    { "name": "Manakara", "id": "c71b0f3c4d65" },
-    { "name": "Morondava", "id": "d82c1a4d5e76" }
+    {
+      "name": "Ambanja",
+      "id": "VBfJOHC5-Xdy"
+    },
+    {
+      "name": "Antananarivo",
+      "id": "aFDro2F9c-85"
+    },
+    {
+      "name": "Antsirabe",
+      "id": "MKnjyI5xapbQ"
+    },
+    {
+      "name": "Antsiranana",
+      "id": "1NHTCH788qtj"
+    },
+    {
+      "name": "Fianarantsoa",
+      "id": "vI6T9tDNm6nQ"
+    },
+    {
+      "name": "Toamasina",
+      "id": "r6nM1Rds0Nxa"
+    },
+    {
+      "name": "Toliara",
+      "id": "veV8zb_iYDOT"
+    }
   ]
 }

@@ -1,15 +1,37 @@
 {
   "coid": "AF",
   "cities": [
-    { "name": "Kabul", "id": "a91f3c2d9b7e" },
-    { "name": "Kandahar", "id": "b28e1f9ac4d2" },
-    { "name": "Herat", "id": "c39d7b1e0f52" },
-    { "name": "Mazar-i-Sharif", "id": "d84a2c7f1e93" },
-    { "name": "Jalalabad", "id": "e72b9d4c3a10" },
-    { "name": "Kunduz", "id": "f63c1a8e5b27" },
-    { "name": "Ghazni", "id": "a72d9c4f1b83" },
-    { "name": "Balkh", "id": "b91e3f7a2c64" },
-    { "name": "Baghlan", "id": "c58f2a9d7e31" },
-    { "name": "Taloqan", "id": "d47b1c6e9f20" }
+    {
+      "name": "Herat",
+      "id": "JeBYSlZLkOdu"
+    },
+    {
+      "name": "Kabul",
+      "id": "Iun0Ef9ScCwE"
+    },
+    {
+      "name": "Kandahar",
+      "id": "CRuEW8q7BuQt"
+    },
+    {
+      "name": "Molah",
+      "id": "UdElaTzw99j3"
+    },
+    {
+      "name": "Rana",
+      "id": "XGIXDzYEjEMP"
+    },
+    {
+      "name": "Shar",
+      "id": "ZowclsprU6ZJ"
+    },
+    {
+      "name": "Sharif",
+      "id": "HSjZzOjBlTgk"
+    },
+    {
+      "name": "Wazir Akbar Khan",
+      "id": "HXDwzWkIS7L5"
+    }
   ]
 }

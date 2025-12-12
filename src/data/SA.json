@@ -1,15 +1,157 @@
 {
   "coid": "SA",
   "cities": [
-    { "name": "Riyadh", "id": "a1b3c5d7e9f0" },
-    { "name": "Jeddah", "id": "b2c4d6e8f0a1" },
-    { "name": "Mecca", "id": "c3d5e7f9a1b2" },
-    { "name": "Medina", "id": "d4e6f8a0b2c3" },
-    { "name": "Dammam", "id": "e5f7a9b1c3d4" },
-    { "name": "Khobar", "id": "f6a8b0c2d4e5" },
-    { "name": "Taif", "id": "a7b9c1d3e5f6" },
-    { "name": "Tabuk", "id": "b8c0d2e4f6a7" },
-    { "name": "Buraidah", "id": "c9d1e3f5a7b8" },
-    { "name": "Khamis Mushait", "id": "d0e2f4a6b8c9" }
+    {
+      "name": "Abha",
+      "id": "BwFvzmjH770c"
+    },
+    {
+      "name": "Abqaiq",
+      "id": "p2X00W3ycxqe"
+    },
+    {
+      "name": "Al Bahah",
+      "id": "WxtV2_IYjltt"
+    },
+    {
+      "name": "Al Faruq",
+      "id": "dke2ErYmadhY"
+    },
+    {
+      "name": "Al Hufuf",
+      "id": "1cYGLzkTW6I_"
+    },
+    {
+      "name": "Al Qatif",
+      "id": "76qC2StjzS5T"
+    },
+    {
+      "name": "Al Yamamah",
+      "id": "btYbl7fSR8vx"
+    },
+    {
+      "name": "At Tuwal",
+      "id": "qJPZEexh-lV_"
+    },
+    {
+      "name": "Buraidah",
+      "id": "IFMpsorGkDVe"
+    },
+    {
+      "name": "Dammam",
+      "id": "jwDILu88TJB0"
+    },
+    {
+      "name": "Dhahran",
+      "id": "JQ9479Uhvf-e"
+    },
+    {
+      "name": "Hayil",
+      "id": "E8nGPsAdqXnn"
+    },
+    {
+      "name": "Jazirah",
+      "id": "LLtqSO3Wr--r"
+    },
+    {
+      "name": "Jeddah",
+      "id": "jQDFBgdSKrjo"
+    },
+    {
+      "name": "Jizan",
+      "id": "vl4M_ey0lm4P"
+    },
+    {
+      "name": "Jubail",
+      "id": "BeKlaFV7lJwB"
+    },
+    {
+      "name": "Khamis Mushait",
+      "id": "yapBLbMf_YIh"
+    },
+    {
+      "name": "Khobar",
+      "id": "yhCQE7Hvk6ds"
+    },
+    {
+      "name": "Khulays",
+      "id": "v6VVpD9TrX1Q"
+    },
+    {
+      "name": "Linah",
+      "id": "EADq7XD6YkZR"
+    },
+    {
+      "name": "Madinat Yanbu` as Sina`iyah",
+      "id": "pnQvFQw_kxQt"
+    },
+    {
+      "name": "Mecca",
+      "id": "DZJDoIE2zsY1"
+    },
+    {
+      "name": "Medina",
+      "id": "ODdQsLND4h5I"
+    },
+    {
+      "name": "Mina",
+      "id": "PXN3aOnb2NnR"
+    },
+    {
+      "name": "Najran",
+      "id": "qXlQuHIbwuSo"
+    },
+    {
+      "name": "Rabigh",
+      "id": "bqCKrB5waQHJ"
+    },
+    {
+      "name": "Rahimah",
+      "id": "mKrNJRAvEKIT"
+    },
+    {
+      "name": "Rahman",
+      "id": "9Ea15XH_aguz"
+    },
+    {
+      "name": "Ramdah",
+      "id": "pxXQSlsHeGLt"
+    },
+    {
+      "name": "Ras Tanura",
+      "id": "rTZv7Z9AaSA1"
+    },
+    {
+      "name": "Riyadh",
+      "id": "djy7M2QH4bUq"
+    },
+    {
+      "name": "Sabya",
+      "id": "YOyNP3nRa7nG"
+    },
+    {
+      "name": "Safwa",
+      "id": "Csmx6P3kLVVq"
+    },
+    {
+      "name": "Sakaka",
+      "id": "YIaw1hiM7FfW"
+    },
+    {
+      "name": "Sambah",
+      "id": "uj_DNQc3Pnb1"
+    },
+    {
+      "name": "Sayhat",
+      "id": "xVR6sHKdYDk6"
+    },
+    {
+      "name": "Tabuk",
+      "id": "Pm7VRvM59Jj_"
+    },
+    {
+      "name": "Yanbu` al Bahr",
+      "id": "YhlrhPy5XhSy"
+    }
   ]
 }

@@ -1,15 +1,93 @@
 {
   "coid": "BY",
   "cities": [
-    { "name": "Minsk", "id": "a91f3c2d9b7e" },
-    { "name": "Gomel", "id": "b28e1f9ac4d2" },
-    { "name": "Mogilev", "id": "c39d7b1e0f52" },
-    { "name": "Vitebsk", "id": "d84a2c7f1e93" },
-    { "name": "Grodno", "id": "e72b9d4c3a10" },
-    { "name": "Brest", "id": "f63c1a8e5b27" },
-    { "name": "Baranovichi", "id": "a72d9c4f1b83" },
-    { "name": "Borisov", "id": "b91e3f7a2c64" },
-    { "name": "Pinsk", "id": "c58f2a9d7e31" },
-    { "name": "Orsha", "id": "d47b1c6e9f20" }
+    {
+      "name": "Baranovichi",
+      "id": "bg73gAFD_N3s"
+    },
+    {
+      "name": "Borisov",
+      "id": "9gVMEuzQa1_Q"
+    },
+    {
+      "name": "Brest",
+      "id": "LQXEtA3kmEic"
+    },
+    {
+      "name": "Dzyarzhynsk",
+      "id": "gIC_cqfYWHHS"
+    },
+    {
+      "name": "Horki",
+      "id": "pJEbm2bJmkip"
+    },
+    {
+      "name": "Hrodna",
+      "id": "d350t4zXignu"
+    },
+    {
+      "name": "Lahoysk",
+      "id": "SGqQf5xFrnLX"
+    },
+    {
+      "name": "Lida",
+      "id": "azrW5fuVIR0t"
+    },
+    {
+      "name": "Lyakhovichi",
+      "id": "KEcNgRDqlQCY"
+    },
+    {
+      "name": "Lyaskavichy",
+      "id": "UXl77ea-jR5m"
+    },
+    {
+      "name": "Mazyr",
+      "id": "mCrjjVLdENLT"
+    },
+    {
+      "name": "Minsk",
+      "id": "8rDBM4WZj-lg"
+    },
+    {
+      "name": "Mogilev",
+      "id": "1x_0A15jnteO"
+    },
+    {
+      "name": "Navapolatsk",
+      "id": "CnYK8AMAP1JS"
+    },
+    {
+      "name": "Orsha",
+      "id": "MhA3G68Y2Jnb"
+    },
+    {
+      "name": "Pinsk",
+      "id": "TgjIutoBcU2w"
+    },
+    {
+      "name": "Polatsk",
+      "id": "k3vrpjpxbwBM"
+    },
+    {
+      "name": "Radoshkovichi",
+      "id": "O5j6K4voe9T2"
+    },
+    {
+      "name": "Shklow",
+      "id": "qm1-ljAyuM1s"
+    },
+    {
+      "name": "Vitebsk",
+      "id": "_TamgED9egD0"
+    },
+    {
+      "name": "Zaslawye",
+      "id": "tmzemocwuKgo"
+    },
+    {
+      "name": "Zhodzina",
+      "id": "7yrAv2o6PK4m"
+    }
   ]
 }

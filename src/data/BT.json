@@ -1,13 +1,37 @@
 {
   "coid": "BT",
   "cities": [
-    { "name": "Thimphu", "id": "c71d0b3e4f65" },
-    { "name": "Phuentsholing", "id": "d82e1c4f5a76" },
-    { "name": "Punakha", "id": "e93f2d5a6b87" },
-    { "name": "Gelephu", "id": "f04a3e6b7c98" },
-    { "name": "Wangdue Phodrang", "id": "a15b4f7c8d09" },
-    { "name": "Samdrup Jongkhar", "id": "b26c5a8d9e10" },
-    { "name": "Trongsa", "id": "c37d6b9e0f21" },
-    { "name": "Trashigang", "id": "d48e7c0f1a32" }
+    {
+      "name": "Thimphu",
+      "id": "iealVaDkYQ3v"
+    },
+    {
+      "name": "Phuentsholing",
+      "id": "nLp0v2iJFx0s"
+    },
+    {
+      "name": "Punakha",
+      "id": "LxCal0dGLi7N"
+    },
+    {
+      "name": "Gelephu",
+      "id": "GXcsQIXzvZea"
+    },
+    {
+      "name": "Wangdue Phodrang",
+      "id": "gM78-zcHUtlI"
+    },
+    {
+      "name": "Samdrup Jongkhar",
+      "id": "n96jEUcL42lp"
+    },
+    {
+      "name": "Trongsa",
+      "id": "13ts9LqZC0fB"
+    },
+    {
+      "name": "Trashigang",
+      "id": "TPDhwQ0zVnwr"
+    }
   ]
 }

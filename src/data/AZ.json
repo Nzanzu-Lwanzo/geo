@@ -1,15 +1,37 @@
 {
   "coid": "AZ",
   "cities": [
-    { "name": "Baku", "id": "a91f3c2d9b7e" },
-    { "name": "Ganja", "id": "b28e1f9ac4d2" },
-    { "name": "Sumqayit", "id": "c39d7b1e0f52" },
-    { "name": "Mingachevir", "id": "d84a2c7f1e93" },
-    { "name": "Lankaran", "id": "e72b9d4c3a10" },
-    { "name": "Shirvan", "id": "f63c1a8e5b27" },
-    { "name": "Nakhchivan", "id": "a72d9c4f1b83" },
-    { "name": "Shaki", "id": "b91e3f7a2c64" },
-    { "name": "Yevlakh", "id": "c58f2a9d7e31" },
-    { "name": "Khirdalan", "id": "d47b1c6e9f20" }
+    {
+      "name": "Baku",
+      "id": "YLHB7vjvMI1-"
+    },
+    {
+      "name": "Nakhchivan",
+      "id": "r0I3okWchXmM"
+    },
+    {
+      "name": "Quba",
+      "id": "LaOGfu_F7pB5"
+    },
+    {
+      "name": "Qusar",
+      "id": "Tdp7DIdahFzU"
+    },
+    {
+      "name": "Sulutapa",
+      "id": "26FAHBMFYvEI"
+    },
+    {
+      "name": "Sumqayit",
+      "id": "Uc8tUStUE__8"
+    },
+    {
+      "name": "Xirdalan",
+      "id": "l1EaIxkjVUe1"
+    },
+    {
+      "name": "Zurges",
+      "id": "s5W3lO2h9OKX"
+    }
   ]
 }

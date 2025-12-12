@@ -1,15 +1,5165 @@
 {
   "coid": "CH",
   "cities": [
-    { "name": "Zurich", "id": "c1d2e3f4a5b6" },
-    { "name": "Geneva", "id": "d2e3f4a5b6c7" },
-    { "name": "Basel", "id": "e3f4a5b6c7d8" },
-    { "name": "Lausanne", "id": "f4a5b6c7d8e9" },
-    { "name": "Bern", "id": "a5b6c7d8e9f0" },
-    { "name": "Winterthur", "id": "b6c7d8e9f0a1" },
-    { "name": "Lucerne", "id": "c7d8e9f0a1b2" },
-    { "name": "St. Gallen", "id": "d8e9f0a1b2c3" },
-    { "name": "Lugano", "id": "e9f0a1b2c3d4" },
-    { "name": "Biel/Bienne", "id": "f0a1b2c3d4e5" }
+    {
+      "name": "Aadorf",
+      "id": "v3y7ZiyGP_or"
+    },
+    {
+      "name": "Aarau",
+      "id": "LYIYhmL8T6XU"
+    },
+    {
+      "name": "Aarberg",
+      "id": "BCelCD8njJzP"
+    },
+    {
+      "name": "Aarburg",
+      "id": "EVqPXH7cicwv"
+    },
+    {
+      "name": "Abtwil",
+      "id": "4wgh3LgZNAbt"
+    },
+    {
+      "name": "Adelboden",
+      "id": "sCrA4gUWVA9U"
+    },
+    {
+      "name": "Adligenswil",
+      "id": "kKZaHRMyUv0T"
+    },
+    {
+      "name": "Adliswil",
+      "id": "F3P0XjAX5-dx"
+    },
+    {
+      "name": "Aesch",
+      "id": "ijxTlB-QJqZW"
+    },
+    {
+      "name": "Aeschau",
+      "id": "XRDIzldYJDcT"
+    },
+    {
+      "name": "Aeschlen ob Gunten",
+      "id": "KhEm1ewpKBCx"
+    },
+    {
+      "name": "Aettenschwil",
+      "id": "B9C5tW1V_JUt"
+    },
+    {
+      "name": "Aeugst am Albis",
+      "id": "ikjI8yI2mDiu"
+    },
+    {
+      "name": "Affoltern am Albis",
+      "id": "x_SrPZP6UnhT"
+    },
+    {
+      "name": "Agno",
+      "id": "1THIqvJ85YFF"
+    },
+    {
+      "name": "Agra",
+      "id": "uKk_QePp1XyE"
+    },
+    {
+      "name": "Aigle",
+      "id": "UNCtLnmocZme"
+    },
+    {
+      "name": "Airolo",
+      "id": "JAx_F1ZUIjRm"
+    },
+    {
+      "name": "Alberswil",
+      "id": "d_Z1dVAM9ebV"
+    },
+    {
+      "name": "Albligen",
+      "id": "ugws1t90CHlX"
+    },
+    {
+      "name": "Alchenstorf",
+      "id": "f8CnlM5HdatL"
+    },
+    {
+      "name": "Allaman",
+      "id": "jBY-PVtxOm6M"
+    },
+    {
+      "name": "Allschwil",
+      "id": "XCXH_GAHoRoM"
+    },
+    {
+      "name": "Alpnach",
+      "id": "qe4oOGAmQMMd"
+    },
+    {
+      "name": "Alt-Bachs",
+      "id": "y4OQPT5sV5YH"
+    },
+    {
+      "name": "Altdorf",
+      "id": "oGE39dSV9SLy"
+    },
+    {
+      "name": "Altendorf",
+      "id": "WJWKktarcLjo"
+    },
+    {
+      "name": "Altenrhein",
+      "id": "FUVmo64B222T"
+    },
+    {
+      "name": "Alterswil",
+      "id": "eXGLBZ8CJ9dz"
+    },
+    {
+      "name": "Altishofen",
+      "id": "A600UJG7ddwb"
+    },
+    {
+      "name": "Altnau",
+      "id": "ytEcSqI_RxHI"
+    },
+    {
+      "name": "Altstatten",
+      "id": "jr5JRo8TydZV"
+    },
+    {
+      "name": "Amden",
+      "id": "sOKx9gry2EA1"
+    },
+    {
+      "name": "Amriswil",
+      "id": "UQmVzSbJM35u"
+    },
+    {
+      "name": "Amsoldingen",
+      "id": "RIJSgnVRy0_p"
+    },
+    {
+      "name": "Andermatt",
+      "id": "gnJq1fZmuZgz"
+    },
+    {
+      "name": "Andwil",
+      "id": "Bk_GgQoYXXO_"
+    },
+    {
+      "name": "Anieres",
+      "id": "clCR8Pn1YUjS"
+    },
+    {
+      "name": "Appenzell",
+      "id": "CMwqa0wuv8gw"
+    },
+    {
+      "name": "Apples",
+      "id": "mWAbXXO3Q3lV"
+    },
+    {
+      "name": "Apro",
+      "id": "7mck-rKD0T_w"
+    },
+    {
+      "name": "Arbaz",
+      "id": "8mVzmq1OLrn0"
+    },
+    {
+      "name": "Arbedo",
+      "id": "_eC8Dh4nOLJ7"
+    },
+    {
+      "name": "Arbon",
+      "id": "Iubg4qpv5dpg"
+    },
+    {
+      "name": "Arcegno",
+      "id": "mbNRT1axqJ_C"
+    },
+    {
+      "name": "Ardon",
+      "id": "6yPkbPix7v0k"
+    },
+    {
+      "name": "Arisdorf",
+      "id": "aDWtXFzREFUH"
+    },
+    {
+      "name": "Aristau",
+      "id": "virfWk_pwwHj"
+    },
+    {
+      "name": "Arlesheim",
+      "id": "wFTRpkNGQ7Id"
+    },
+    {
+      "name": "Arni",
+      "id": "uZqJAfSN9fXg"
+    },
+    {
+      "name": "Arogno",
+      "id": "j38pzx-Y-VU7"
+    },
+    {
+      "name": "Arosa",
+      "id": "AuQjicYOr2KH"
+    },
+    {
+      "name": "Arth",
+      "id": "rnxLglGqnYoS"
+    },
+    {
+      "name": "Arzier",
+      "id": "ulQIxlTm_9pR"
+    },
+    {
+      "name": "Arzo",
+      "id": "7uL8xhpzI9gO"
+    },
+    {
+      "name": "Ascona",
+      "id": "4R8oyX_O8AY0"
+    },
+    {
+      "name": "Assens",
+      "id": "-AVargboJ5yj"
+    },
+    {
+      "name": "Attalens",
+      "id": "O4da40Lo63KC"
+    },
+    {
+      "name": "Attinghausen",
+      "id": "bdMntnFXF_Xu"
+    },
+    {
+      "name": "Attiswil",
+      "id": "kq8BHcsaZUTU"
+    },
+    {
+      "name": "Au",
+      "id": "yHjNsdaTVobN"
+    },
+    {
+      "name": "Aubonne",
+      "id": "Nfhl8saSKmAY"
+    },
+    {
+      "name": "Auenstein",
+      "id": "-Jab_5fCnOrW"
+    },
+    {
+      "name": "Augst",
+      "id": "sR4YrS2zzKpE"
+    },
+    {
+      "name": "Ausser-Dinhard",
+      "id": "xrUwAComKk00"
+    },
+    {
+      "name": "Autigny",
+      "id": "6PgEhc_AQ56B"
+    },
+    {
+      "name": "Auvernier",
+      "id": "JMonxtx3niMf"
+    },
+    {
+      "name": "Auw",
+      "id": "yWuFyJDCNGMi"
+    },
+    {
+      "name": "Avenches",
+      "id": "1ibIz1fLPfjk"
+    },
+    {
+      "name": "Avry",
+      "id": "zB7lSX0kWD_F"
+    },
+    {
+      "name": "Ayent",
+      "id": "GhsjYEDkz9Wk"
+    },
+    {
+      "name": "Ayer",
+      "id": "dKJyOssR5t-O"
+    },
+    {
+      "name": "Baar",
+      "id": "V0qyV7jwoOQ-"
+    },
+    {
+      "name": "Bach",
+      "id": "xOll5AlcLn3m"
+    },
+    {
+      "name": "Bachenbulach",
+      "id": "MiL1sRSHhjMm"
+    },
+    {
+      "name": "Bad Ragaz",
+      "id": "yw8rjuvBH-bE"
+    },
+    {
+      "name": "Bad Zurzach",
+      "id": "jT-YD9sT-41c"
+    },
+    {
+      "name": "Baden",
+      "id": "zcv5AC-ssvaD"
+    },
+    {
+      "name": "Balerna",
+      "id": "6BOg2RAhC0FI"
+    },
+    {
+      "name": "Balgach",
+      "id": "LbjyJa8tXk9B"
+    },
+    {
+      "name": "Ballwil",
+      "id": "BYQ3-6NDT8kc"
+    },
+    {
+      "name": "Balsthal",
+      "id": "sY6raoZB1Q8o"
+    },
+    {
+      "name": "Balterswil",
+      "id": "QqhUwm71WvUw"
+    },
+    {
+      "name": "Banco",
+      "id": "hGV8h2JtjEwo"
+    },
+    {
+      "name": "Bangerten",
+      "id": "82MNGcG8MQ5W"
+    },
+    {
+      "name": "Bannwil",
+      "id": "FPqiLgoTvD5x"
+    },
+    {
+      "name": "Barbereche",
+      "id": "aQS1IdAuiwLl"
+    },
+    {
+      "name": "Baretswil",
+      "id": "k3t8ROsNgevr"
+    },
+    {
+      "name": "Bariswil",
+      "id": "gS636BdLByAx"
+    },
+    {
+      "name": "Basadingen",
+      "id": "awqdSmHbNlfv"
+    },
+    {
+      "name": "Basel",
+      "id": "u_mOVqoqCpvt"
+    },
+    {
+      "name": "Basse-Nendaz",
+      "id": "DfOXR8ohLi86"
+    },
+    {
+      "name": "Bassecourt",
+      "id": "GT90QtfBVNgS"
+    },
+    {
+      "name": "Bassersdorf",
+      "id": "pWoxook5v9Xi"
+    },
+    {
+      "name": "Batterkinden",
+      "id": "mk_LZoXhwUgd"
+    },
+    {
+      "name": "Baulmes",
+      "id": "8SBZB8PD2SVs"
+    },
+    {
+      "name": "Bauma",
+      "id": "9oo84FC6v08v"
+    },
+    {
+      "name": "Bavois",
+      "id": "lOy5cu3q_Eze"
+    },
+    {
+      "name": "Bazenheid",
+      "id": "yXrMNlq61dzx"
+    },
+    {
+      "name": "Beckenried",
+      "id": "pttWIcVDaeyD"
+    },
+    {
+      "name": "Begnins",
+      "id": "5QhfMH7bfASi"
+    },
+    {
+      "name": "Beinwil",
+      "id": "RW8Vmqb0qG3u"
+    },
+    {
+      "name": "Belfaux",
+      "id": "6zh0J7iGxQ1d"
+    },
+    {
+      "name": "Bellerive",
+      "id": "CJ6cuaK7wgs5"
+    },
+    {
+      "name": "Bellevue",
+      "id": "wWdCgyLSus9G"
+    },
+    {
+      "name": "Bellinzona",
+      "id": "hQOp2GegKIBG"
+    },
+    {
+      "name": "Bellmund",
+      "id": "hc0G3JMf_K6Q"
+    },
+    {
+      "name": "Belmont-sur-Lausanne",
+      "id": "S8meuikEUXDp"
+    },
+    {
+      "name": "Belp",
+      "id": "VI1vFceq_Gzj"
+    },
+    {
+      "name": "Benken",
+      "id": "hEzs5mWhP8QG"
+    },
+    {
+      "name": "Berg",
+      "id": "z_6SkBzAiV6r"
+    },
+    {
+      "name": "Berikon",
+      "id": "NMQXgyL6-gO3"
+    },
+    {
+      "name": "Beringen",
+      "id": "yGOk4caoW1bD"
+    },
+    {
+      "name": "Berlikon",
+      "id": "77QMiZeV0Tka"
+    },
+    {
+      "name": "Bern",
+      "id": "xXNk4Dm-sfor"
+    },
+    {
+      "name": "Bern / Liebefeld",
+      "id": "lsvNtWC8eHlF"
+    },
+    {
+      "name": "Berneck",
+      "id": "t3MXIqB0xxLT"
+    },
+    {
+      "name": "Bernex",
+      "id": "KsrL1QOwHrY4"
+    },
+    {
+      "name": "Beromuenster",
+      "id": "FIpdKBTtcJ7q"
+    },
+    {
+      "name": "Bettingen",
+      "id": "WhH-fsRvzTEL"
+    },
+    {
+      "name": "Bettlach",
+      "id": "ZFJLj7pAiE6V"
+    },
+    {
+      "name": "Beuson",
+      "id": "hyI6xmrRrno_"
+    },
+    {
+      "name": "Bevaix",
+      "id": "jOw-djuoheJU"
+    },
+    {
+      "name": "Bevilard",
+      "id": "2dHS25Aqc71p"
+    },
+    {
+      "name": "Bex",
+      "id": "UgW284VpDu-z"
+    },
+    {
+      "name": "Biasca",
+      "id": "Gz7ZsNVW70Iy"
+    },
+    {
+      "name": "Biberist",
+      "id": "70rjIH6w2F9o"
+    },
+    {
+      "name": "Biel-Benken",
+      "id": "vdb6Vw-s5EHx"
+    },
+    {
+      "name": "Biel/Bienne",
+      "id": "nsBFENrVr-LS"
+    },
+    {
+      "name": "Biere",
+      "id": "hcQt5Jw5uvVp"
+    },
+    {
+      "name": "Bigenthal",
+      "id": "MAgJsWx30JFh"
+    },
+    {
+      "name": "Bigorio",
+      "id": "HYf2sBmlBncB"
+    },
+    {
+      "name": "Bilten",
+      "id": "4S8WBFIc-Tdd"
+    },
+    {
+      "name": "Binningen",
+      "id": "nYYPaBDKKktv"
+    },
+    {
+      "name": "Bioggio",
+      "id": "njsn1ONsaZ1h"
+    },
+    {
+      "name": "Birmensdorf",
+      "id": "dn4vsf0C1xp3"
+    },
+    {
+      "name": "Birmenstorf",
+      "id": "eYEbK0fjHTIW"
+    },
+    {
+      "name": "Birr",
+      "id": "dl2LI8gCsDuK"
+    },
+    {
+      "name": "Birsfelden",
+      "id": "00Xg8O7fcuz1"
+    },
+    {
+      "name": "Bissegg",
+      "id": "fmgxuCyBMTtP"
+    },
+    {
+      "name": "Bissone",
+      "id": "t0joXevNagRN"
+    },
+    {
+      "name": "Bitsch",
+      "id": "VSBEfEb9dKUk"
+    },
+    {
+      "name": "Blonay",
+      "id": "LEj8epD8p3oe"
+    },
+    {
+      "name": "Blumenstein",
+      "id": "2t7A9ctK3T0_"
+    },
+    {
+      "name": "Bogis-Bossey",
+      "id": "Nft8atFnpxDN"
+    },
+    {
+      "name": "Boll",
+      "id": "o2Uv2mKiq5kS"
+    },
+    {
+      "name": "Bolligen",
+      "id": "OSCobB7ne5Kh"
+    },
+    {
+      "name": "Bonaduz",
+      "id": "Mf0SMdc9QpnF"
+    },
+    {
+      "name": "Bonigen",
+      "id": "y-2DFlTOsMAH"
+    },
+    {
+      "name": "Bonnefontaine",
+      "id": "lYSbRMKZ9BY8"
+    },
+    {
+      "name": "Bonstetten",
+      "id": "jL6VP-YZwmDW"
+    },
+    {
+      "name": "Borex",
+      "id": "fZ0X2j8KGlTc"
+    },
+    {
+      "name": "Bosingen",
+      "id": "HU5ywUFcGhV-"
+    },
+    {
+      "name": "Bottens",
+      "id": "N29vcOMl-pr5"
+    },
+    {
+      "name": "Bottenwil",
+      "id": "3YHV_eNIOgJS"
+    },
+    {
+      "name": "Bottighofen",
+      "id": "SGik-bw89Tzi"
+    },
+    {
+      "name": "Bottmingen",
+      "id": "QVSq2Hbb6Qcj"
+    },
+    {
+      "name": "Boudry",
+      "id": "gLvvVQ8nDV-9"
+    },
+    {
+      "name": "Bouveret",
+      "id": "LvB4ZiBjDFqN"
+    },
+    {
+      "name": "Bramois",
+      "id": "VP1ew9V2bGoi"
+    },
+    {
+      "name": "Breitenbach",
+      "id": "e6p5FfBSAW90"
+    },
+    {
+      "name": "Bremgarten",
+      "id": "EYInjBYFgOxj"
+    },
+    {
+      "name": "Brenzikofen",
+      "id": "wbEiGuLTSvXf"
+    },
+    {
+      "name": "Brienz",
+      "id": "dYgIZ03tnd9Y"
+    },
+    {
+      "name": "Brig",
+      "id": "VZlzZh2TpkeD"
+    },
+    {
+      "name": "Brislach",
+      "id": "5bEvZdTBuk6G"
+    },
+    {
+      "name": "Brissago",
+      "id": "bBVA0S7bycrw"
+    },
+    {
+      "name": "Bristen",
+      "id": "R83bxcoLs-8H"
+    },
+    {
+      "name": "Brittnau",
+      "id": "4kZ2AgDSeRSA"
+    },
+    {
+      "name": "Broc",
+      "id": "ZFYgi2w2vPwl"
+    },
+    {
+      "name": "Bronschhofen",
+      "id": "6-amVJPhVhfY"
+    },
+    {
+      "name": "Brugg",
+      "id": "3EiTu9ngfpZT"
+    },
+    {
+      "name": "Brunnen",
+      "id": "uFJsMszeKMg8"
+    },
+    {
+      "name": "Brusino Arsizio",
+      "id": "3JfdwXK8Ee9l"
+    },
+    {
+      "name": "Brutten",
+      "id": "1asKeOLekBmp"
+    },
+    {
+      "name": "Bruttisellen",
+      "id": "cgUt8BUYm2j8"
+    },
+    {
+      "name": "Bubendorf",
+      "id": "Yd142bMT7Gmi"
+    },
+    {
+      "name": "Bubikon",
+      "id": "wx0ZNHNxMBov"
+    },
+    {
+      "name": "Buch",
+      "id": "B1kMbsskr2gv"
+    },
+    {
+      "name": "Buchberg",
+      "id": "basGq083IN9x"
+    },
+    {
+      "name": "Buchrain",
+      "id": "thNqEUUoSFvO"
+    },
+    {
+      "name": "Buchs",
+      "id": "7osWaeifhkgj"
+    },
+    {
+      "name": "Buchs / Buchs (Dorf)",
+      "id": "3ZtIFRqEY7TQ"
+    },
+    {
+      "name": "Buetschwil",
+      "id": "0Ias9nFlY4oE"
+    },
+    {
+      "name": "Buix",
+      "id": "JaHiQ9sX5z1B"
+    },
+    {
+      "name": "Bulach",
+      "id": "N1s3Ql2KQJvs"
+    },
+    {
+      "name": "Bulle",
+      "id": "EbIirGwwfknF"
+    },
+    {
+      "name": "Buochs",
+      "id": "zNCK2YBn6cTw"
+    },
+    {
+      "name": "Buonas",
+      "id": "fv0sXEx0lTN9"
+    },
+    {
+      "name": "Burchen",
+      "id": "a2upFTMoSHDx"
+    },
+    {
+      "name": "Buren an der Aare",
+      "id": "YUK9IVP9C3JH"
+    },
+    {
+      "name": "Buren nid dem Bach",
+      "id": "AMjGX2WRlXwY"
+    },
+    {
+      "name": "Burgdorf",
+      "id": "zNaDfh45q8zT"
+    },
+    {
+      "name": "Burglen",
+      "id": "sKtjD-WvtcDp"
+    },
+    {
+      "name": "Bursins",
+      "id": "uEOBggxZ5Gci"
+    },
+    {
+      "name": "Busserach",
+      "id": "EkY_hE4Z9F9K"
+    },
+    {
+      "name": "Bussigny",
+      "id": "LbHLQ27lQxS_"
+    },
+    {
+      "name": "Busswil",
+      "id": "2ZK5tYft350I"
+    },
+    {
+      "name": "Buttes",
+      "id": "UoKWysnxlp2z"
+    },
+    {
+      "name": "Buttisholz",
+      "id": "vYSy8TfSdOUv"
+    },
+    {
+      "name": "Butzberg",
+      "id": "_gDjTz1AiS_I"
+    },
+    {
+      "name": "Buus",
+      "id": "KS6K0yJVf9uI"
+    },
+    {
+      "name": "Cadempino",
+      "id": "kqbs-d3eyIq2"
+    },
+    {
+      "name": "Cadenazzo",
+      "id": "xaP7l3MiEDCW"
+    },
+    {
+      "name": "Cadro",
+      "id": "JrpWDn82dETd"
+    },
+    {
+      "name": "Camorino",
+      "id": "PCPn1v5LASnH"
+    },
+    {
+      "name": "Campfer",
+      "id": "QAyCobeeHHPA"
+    },
+    {
+      "name": "Canobbio",
+      "id": "NWgzImBwVKmK"
+    },
+    {
+      "name": "Capolago",
+      "id": "SyqUSGkbAGUh"
+    },
+    {
+      "name": "Carouge",
+      "id": "egMGf3zButRw"
+    },
+    {
+      "name": "Cartigny",
+      "id": "3FbqYpXMm0jb"
+    },
+    {
+      "name": "Caslano",
+      "id": "I1zbLs8e14w9"
+    },
+    {
+      "name": "Castione",
+      "id": "I45y5o9t03Yn"
+    },
+    {
+      "name": "Cazis",
+      "id": "X5EOisKAFS5i"
+    },
+    {
+      "name": "Celerina",
+      "id": "wfORBGs_nezo"
+    },
+    {
+      "name": "Celigny",
+      "id": "EVbVQwXzpR8Z"
+    },
+    {
+      "name": "Cernier",
+      "id": "of8j0Qg2Y8WQ"
+    },
+    {
+      "name": "Chalais",
+      "id": "-F-zuH49q10Q"
+    },
+    {
+      "name": "Cham",
+      "id": "vwO8XdFd-z-J"
+    },
+    {
+      "name": "Chambesy",
+      "id": "cblqtFDL7v5j"
+    },
+    {
+      "name": "Chamoson",
+      "id": "XaDDOGmbNWnA"
+    },
+    {
+      "name": "Champagne",
+      "id": "Dq1KxHciNYiU"
+    },
+    {
+      "name": "Champex",
+      "id": "saDcmLAtf6bW"
+    },
+    {
+      "name": "Champsec",
+      "id": "kQarzK4qBY9z"
+    },
+    {
+      "name": "Chancy",
+      "id": "4fsuKIk1kFBI"
+    },
+    {
+      "name": "Chapelle",
+      "id": "SPDIdvzLalp9"
+    },
+    {
+      "name": "Chardonne",
+      "id": "E-D4DmrdJEWg"
+    },
+    {
+      "name": "Charmey",
+      "id": "ENz1livhEQib"
+    },
+    {
+      "name": "Charrat-les-Chenes",
+      "id": "HwQVM7Znf3rN"
+    },
+    {
+      "name": "Chatel-Saint-Denis",
+      "id": "ejcRJO0MIQZl"
+    },
+    {
+      "name": "Chatelaine",
+      "id": "QusxbuoiQaI0"
+    },
+    {
+      "name": "Chavannes",
+      "id": "pWEnYVY4uO-r"
+    },
+    {
+      "name": "Chavannes de Bogis",
+      "id": "CMl5da88TM7x"
+    },
+    {
+      "name": "Chavannes-les-Forts",
+      "id": "60NmkXB94DEd"
+    },
+    {
+      "name": "Chavornay",
+      "id": "6pQXd75ZpUIl"
+    },
+    {
+      "name": "Cheiry",
+      "id": "GGI5VuQ7vE9y"
+    },
+    {
+      "name": "Chene-Bougeries",
+      "id": "bZeh-u6_rCgc"
+    },
+    {
+      "name": "Chene-Bourg",
+      "id": "9VCzNUkJ-WlV"
+    },
+    {
+      "name": "Chene-Paquier",
+      "id": "YWmUtv_EUD2v"
+    },
+    {
+      "name": "Cheseaux-sur-Lausanne",
+      "id": "BmeZI11jfamk"
+    },
+    {
+      "name": "Chesieres",
+      "id": "YGDw0rBxNs2H"
+    },
+    {
+      "name": "Chexbres",
+      "id": "zoFsE4paKNgz"
+    },
+    {
+      "name": "Cheyres",
+      "id": "e7I0uEYl8JOR"
+    },
+    {
+      "name": "Chez-le-Bart",
+      "id": "aQrjXul1BMtR"
+    },
+    {
+      "name": "Chiasso",
+      "id": "bxM2KbHaMyv7"
+    },
+    {
+      "name": "Chippis",
+      "id": "PwB9cmXbt6tw"
+    },
+    {
+      "name": "Chur",
+      "id": "JDuyAp7R2hUH"
+    },
+    {
+      "name": "Claro",
+      "id": "kegLtPwu7f-9"
+    },
+    {
+      "name": "Coeuve",
+      "id": "A0U5-NaN3wSt"
+    },
+    {
+      "name": "Cointrin",
+      "id": "Imxb2Mxfh6Ua"
+    },
+    {
+      "name": "Collombey",
+      "id": "aB66IAPWvVLi"
+    },
+    {
+      "name": "Colombier",
+      "id": "FRiU4whY4uPG"
+    },
+    {
+      "name": "Concise",
+      "id": "rOUrEuDn0SHV"
+    },
+    {
+      "name": "Confignon",
+      "id": "2toCXyWQy3Ka"
+    },
+    {
+      "name": "Conthey",
+      "id": "-KqBoVkJsEPE"
+    },
+    {
+      "name": "Contone",
+      "id": "uBBU9NVhTrO2"
+    },
+    {
+      "name": "Coppet",
+      "id": "4W1Q2xrk7wdI"
+    },
+    {
+      "name": "Corcelles",
+      "id": "7SH-OwKPpwiW"
+    },
+    {
+      "name": "Cordast",
+      "id": "QErr5ad-aC0Z"
+    },
+    {
+      "name": "Corgemont",
+      "id": "Agek5B3ob8Js"
+    },
+    {
+      "name": "Corminboeuf",
+      "id": "-8kvYPdpWKS9"
+    },
+    {
+      "name": "Cornaux",
+      "id": "9vfmP23WN_2d"
+    },
+    {
+      "name": "Corsier",
+      "id": "NA52d5uS9MsT"
+    },
+    {
+      "name": "Cortaillod",
+      "id": "GH-T5wtJdTri"
+    },
+    {
+      "name": "Cossonay",
+      "id": "eQc7UT10SYKM"
+    },
+    {
+      "name": "Cottens",
+      "id": "I4MAYLmk3MJr"
+    },
+    {
+      "name": "Courfaivre",
+      "id": "ntm_qQNaupcA"
+    },
+    {
+      "name": "Courgenay",
+      "id": "VSSJVfX84UB8"
+    },
+    {
+      "name": "Courrendlin",
+      "id": "nb8uBnasEMQk"
+    },
+    {
+      "name": "Courroux",
+      "id": "6HYQzvXzbwCp"
+    },
+    {
+      "name": "Court",
+      "id": "4qrAhkNzzEqB"
+    },
+    {
+      "name": "Courtedoux",
+      "id": "5OaD897NzdR-"
+    },
+    {
+      "name": "Courtelary",
+      "id": "TqPOsr66FA7r"
+    },
+    {
+      "name": "Courtemaiche",
+      "id": "vf_1eMIEesJc"
+    },
+    {
+      "name": "Courtepin",
+      "id": "CywgGOXQH2g5"
+    },
+    {
+      "name": "Courtetelle",
+      "id": "MranIC1ps4t1"
+    },
+    {
+      "name": "Courtion",
+      "id": "TXixZNhe6wFr"
+    },
+    {
+      "name": "Couvet",
+      "id": "f_lPFrfWOJp3"
+    },
+    {
+      "name": "Crassier",
+      "id": "wBthBfLNk9u_"
+    },
+    {
+      "name": "Cremines",
+      "id": "D8RXm054-MfK"
+    },
+    {
+      "name": "Cressier",
+      "id": "p8hfNNiyP2sQ"
+    },
+    {
+      "name": "Crissier",
+      "id": "nGI4S9d4OUQF"
+    },
+    {
+      "name": "Cudrefin",
+      "id": "kueDg1LdOr_g"
+    },
+    {
+      "name": "Cugnasco",
+      "id": "XS_VX0WoRJeE"
+    },
+    {
+      "name": "Cugy",
+      "id": "7ftRFV1Wzp6v"
+    },
+    {
+      "name": "Cully",
+      "id": "uNYkwMsVXV3o"
+    },
+    {
+      "name": "Dachsen",
+      "id": "6H0RZi89ydlA"
+    },
+    {
+      "name": "Daettlikon",
+      "id": "JsAe5dWseI_4"
+    },
+    {
+      "name": "Dagmersellen",
+      "id": "bL6HCRZ5YvHJ"
+    },
+    {
+      "name": "Daillens",
+      "id": "6bnrla5e-zVp"
+    },
+    {
+      "name": "Dallenwil",
+      "id": "urMJTsKhmhuD"
+    },
+    {
+      "name": "Daniken",
+      "id": "RPqyZUQE4lq0"
+    },
+    {
+      "name": "Dardagny",
+      "id": "ZI6Tjcj4kaHW"
+    },
+    {
+      "name": "Dattwil",
+      "id": "OBJyJEBPGFN_"
+    },
+    {
+      "name": "Davos",
+      "id": "ghB5vf_McuUx"
+    },
+    {
+      "name": "Davos Dorf",
+      "id": "3fzlMuO0Funq"
+    },
+    {
+      "name": "Davos Platz",
+      "id": "owpvORYydt29"
+    },
+    {
+      "name": "Degersheim",
+      "id": "x_lZt_BoHKKH"
+    },
+    {
+      "name": "Deitingen",
+      "id": "x4ftbr42IJ2d"
+    },
+    {
+      "name": "Densbueren",
+      "id": "8CO-Y9tM92Uk"
+    },
+    {
+      "name": "Derendingen",
+      "id": "MauA980RvTj1"
+    },
+    {
+      "name": "Diegten",
+      "id": "We59Rdxdl1Zm"
+    },
+    {
+      "name": "Dielsdorf",
+      "id": "5bShH6NEJZY5"
+    },
+    {
+      "name": "Diepoldsau",
+      "id": "-NwoOZCA4E2O"
+    },
+    {
+      "name": "Diessbach",
+      "id": "uzKQ36wocQN5"
+    },
+    {
+      "name": "Diessenhofen",
+      "id": "jBXyB45T2FVk"
+    },
+    {
+      "name": "Dietikon",
+      "id": "KCXl64TExzQW"
+    },
+    {
+      "name": "Doettingen",
+      "id": "ZLFw60nXCOHG"
+    },
+    {
+      "name": "Domat",
+      "id": "H3ekXreNyXUX"
+    },
+    {
+      "name": "Dombresson",
+      "id": "7jpCTaIKiJST"
+    },
+    {
+      "name": "Domdidier",
+      "id": "pdt5x0tSKcdg"
+    },
+    {
+      "name": "Dompierre",
+      "id": "TSZdAWvSvBsV"
+    },
+    {
+      "name": "Dornach",
+      "id": "kgXTXN9WjlEU"
+    },
+    {
+      "name": "Dottikon",
+      "id": "EHCJ1XBISGLZ"
+    },
+    {
+      "name": "Dozwil",
+      "id": "ej9PgC6GzN0x"
+    },
+    {
+      "name": "Dubendorf",
+      "id": "4JQxcMyLwYm0"
+    },
+    {
+      "name": "Durnten",
+      "id": "DxP0oAuGxbBI"
+    },
+    {
+      "name": "Durrenasch",
+      "id": "9gN38XIm2grF"
+    },
+    {
+      "name": "Ebikon",
+      "id": "ZUnzlr9hR83V"
+    },
+    {
+      "name": "Ebnat-Kappel",
+      "id": "GBKXOA3L50jW"
+    },
+    {
+      "name": "Ecublens",
+      "id": "JMJeyewjxMOu"
+    },
+    {
+      "name": "Ecuvillens",
+      "id": "hQa4zpLrcg5C"
+    },
+    {
+      "name": "Effretikon",
+      "id": "3ln0--t1SepG"
+    },
+    {
+      "name": "Egerkingen",
+      "id": "zFGT24DVwUlW"
+    },
+    {
+      "name": "Egg",
+      "id": "0rwOxGCHTYWs"
+    },
+    {
+      "name": "Eggenwil",
+      "id": "uqMF14EsaRDc"
+    },
+    {
+      "name": "Eggersriet",
+      "id": "l0r_r9E1_hcc"
+    },
+    {
+      "name": "Eggiwil",
+      "id": "zud2MLu__rh0"
+    },
+    {
+      "name": "Eglisau",
+      "id": "w4sH3rK65WJv"
+    },
+    {
+      "name": "Egliswil",
+      "id": "GyhnlwX9bN_0"
+    },
+    {
+      "name": "Egnach",
+      "id": "3QHN5C4qElTd"
+    },
+    {
+      "name": "Eich",
+      "id": "coRVKUU09OYb"
+    },
+    {
+      "name": "Eichberg",
+      "id": "RXzFEgXk6ET0"
+    },
+    {
+      "name": "Eiken",
+      "id": "-VDqST7ygUea"
+    },
+    {
+      "name": "Einigen",
+      "id": "pI4hId2CQYOy"
+    },
+    {
+      "name": "Einsiedeln",
+      "id": "7bfXgB0MroWV"
+    },
+    {
+      "name": "Elgg",
+      "id": "pz-GuLw1qxjk"
+    },
+    {
+      "name": "Ellikon an der Thur",
+      "id": "j9SdkBtePP10"
+    },
+    {
+      "name": "Elsau-Raeterschen",
+      "id": "xKKaguWvXmNi"
+    },
+    {
+      "name": "Embrach",
+      "id": "5vrjhIXVbkOr"
+    },
+    {
+      "name": "Emmen",
+      "id": "9TUA8HTA-c0v"
+    },
+    {
+      "name": "Emmenbruecke",
+      "id": "Td306v7xqFny"
+    },
+    {
+      "name": "Emmetten",
+      "id": "Q7oFCRz__-KQ"
+    },
+    {
+      "name": "Endingen",
+      "id": "WZBuaNlOUteX"
+    },
+    {
+      "name": "Engelberg",
+      "id": "sc2nFRNltSF4"
+    },
+    {
+      "name": "Ennenda",
+      "id": "0EA1br5haEqC"
+    },
+    {
+      "name": "Enney",
+      "id": "s5dHqsMdwXb-"
+    },
+    {
+      "name": "Entlebuch",
+      "id": "BDPxi4RaU0KF"
+    },
+    {
+      "name": "Epalinges",
+      "id": "1PEWZA431vrF"
+    },
+    {
+      "name": "Epautheyres",
+      "id": "MkiqS1RFfBzN"
+    },
+    {
+      "name": "Ependes",
+      "id": "6nswokMX3nmW"
+    },
+    {
+      "name": "Erde",
+      "id": "fYxR4GAAX6EW"
+    },
+    {
+      "name": "Erlach",
+      "id": "gvTJF2-ad1JG"
+    },
+    {
+      "name": "Erlen",
+      "id": "tUL_FUcfMqQz"
+    },
+    {
+      "name": "Erlenbach",
+      "id": "jr-RQzfiKDHE"
+    },
+    {
+      "name": "Ermatingen",
+      "id": "vKTnGl7arNcl"
+    },
+    {
+      "name": "Erschwil",
+      "id": "zrzNCERU42kX"
+    },
+    {
+      "name": "Ersigen",
+      "id": "Ns0eZ1l4hKPt"
+    },
+    {
+      "name": "Erstfeld",
+      "id": "ftpxG5DEeKSh"
+    },
+    {
+      "name": "Eschenbach",
+      "id": "dO89ps0hXnfu"
+    },
+    {
+      "name": "Eschlikon",
+      "id": "zrM7U6x7ajrZ"
+    },
+    {
+      "name": "Escholzmatt",
+      "id": "G3gpHO1I4v8Q"
+    },
+    {
+      "name": "Essertines-sur-Rolle",
+      "id": "4jTUx1LGQRHe"
+    },
+    {
+      "name": "Estavayer-le-Lac",
+      "id": "vyR1ysfENkIK"
+    },
+    {
+      "name": "Ettingen",
+      "id": "_lVed5M1RQ3l"
+    },
+    {
+      "name": "Euthal",
+      "id": "7o5TG2YWhdiJ"
+    },
+    {
+      "name": "Evilard",
+      "id": "JpS9EUpmvi5V"
+    },
+    {
+      "name": "Evionnaz",
+      "id": "S7_A7tK5O9EW"
+    },
+    {
+      "name": "Eysins",
+      "id": "28BQko29zu4A"
+    },
+    {
+      "name": "Fahrwangen",
+      "id": "fN2HLVASicmI"
+    },
+    {
+      "name": "Fallanden",
+      "id": "R2C2DuwSrLWU"
+    },
+    {
+      "name": "Faoug",
+      "id": "sjhqX0ZcYv1z"
+    },
+    {
+      "name": "Fehraltorf",
+      "id": "7NWGpEbPjKdz"
+    },
+    {
+      "name": "Felben",
+      "id": "4Lk9La4IFDlt"
+    },
+    {
+      "name": "Feldbach",
+      "id": "IHsEZflgGsz0"
+    },
+    {
+      "name": "Feldbrunnen",
+      "id": "694oWU11KOP5"
+    },
+    {
+      "name": "Feldmeilen",
+      "id": "vRaHMRcsS3pS"
+    },
+    {
+      "name": "Felsberg",
+      "id": "Gb8uNKPnDApW"
+    },
+    {
+      "name": "Felsenau",
+      "id": "NER-T5Pn8Hdz"
+    },
+    {
+      "name": "Ferden",
+      "id": "DuyJUhfgRtjv"
+    },
+    {
+      "name": "Ferenbalm",
+      "id": "oeFxkWKOtoYc"
+    },
+    {
+      "name": "Feuerthalen",
+      "id": "gvW3Lse0MA4F"
+    },
+    {
+      "name": "Feusisberg",
+      "id": "1n3PM4Rs5V9R"
+    },
+    {
+      "name": "Finhaut",
+      "id": "EIaxNd_9WBp5"
+    },
+    {
+      "name": "Fischenthal",
+      "id": "1jCNILDfvv8H"
+    },
+    {
+      "name": "Fischingen",
+      "id": "lPAtIhYOOrcW"
+    },
+    {
+      "name": "Flaach",
+      "id": "KmoTuh10P9Bb"
+    },
+    {
+      "name": "Flamatt",
+      "id": "pRFkA0DQ4Jxp"
+    },
+    {
+      "name": "Flawil",
+      "id": "HuBTeHr0d3VS"
+    },
+    {
+      "name": "Fleurier",
+      "id": "_3FI53g5eMwF"
+    },
+    {
+      "name": "Flims",
+      "id": "JqTj3YnKfuet"
+    },
+    {
+      "name": "Fluehli",
+      "id": "tVnqCyDY2kro"
+    },
+    {
+      "name": "Flueli",
+      "id": "rfHAuGHgDaLN"
+    },
+    {
+      "name": "Flums",
+      "id": "NkSchrknp5US"
+    },
+    {
+      "name": "Flurlingen",
+      "id": "AhmiuPCJQ6Be"
+    },
+    {
+      "name": "Fontainemelon",
+      "id": "6iKwi3vmmfVQ"
+    },
+    {
+      "name": "Forel",
+      "id": "eBRZ-Uw8tTx4"
+    },
+    {
+      "name": "Founex",
+      "id": "eAaetkj_V1Ad"
+    },
+    {
+      "name": "Fraubrunnen",
+      "id": "JPEuCEndNVnB"
+    },
+    {
+      "name": "Frauenfeld",
+      "id": "v57vfBOq0b-b"
+    },
+    {
+      "name": "Freidorf",
+      "id": "gMkWB3blQjfj"
+    },
+    {
+      "name": "Freienbach",
+      "id": "I2hK3pitNjDS"
+    },
+    {
+      "name": "Frenkendorf",
+      "id": "El2PAmKUX3Sy"
+    },
+    {
+      "name": "Fribourg",
+      "id": "O9METQnubAX9"
+    },
+    {
+      "name": "Frick",
+      "id": "HFY6l10nLA9Z"
+    },
+    {
+      "name": "Froideville",
+      "id": "2qbDD_OgOWC7"
+    },
+    {
+      "name": "Frutigen",
+      "id": "SJB4LRNQerNE"
+    },
+    {
+      "name": "Fulenbach",
+      "id": "N-zt87-bf2NM"
+    },
+    {
+      "name": "Full",
+      "id": "zjhVCev93eva"
+    },
+    {
+      "name": "Fullinsdorf",
+      "id": "XhBIy6TyFR0_"
+    },
+    {
+      "name": "Fully",
+      "id": "9vtGO-6IHIoq"
+    },
+    {
+      "name": "Furstenaubruck",
+      "id": "rGb-CYojXk-_"
+    },
+    {
+      "name": "Gachlingen",
+      "id": "BsisSasiO55Y"
+    },
+    {
+      "name": "Gais",
+      "id": "0CwU3H4Z-405"
+    },
+    {
+      "name": "Gampel",
+      "id": "mSAhYud1nS8M"
+    },
+    {
+      "name": "Gampelen",
+      "id": "JiTveFsia3E9"
+    },
+    {
+      "name": "Gandria",
+      "id": "i4CKZpXPjWkd"
+    },
+    {
+      "name": "Ganterschwil",
+      "id": "bINWKiNZMjun"
+    },
+    {
+      "name": "Gebenstorf",
+      "id": "v9cCIVHf0noV"
+    },
+    {
+      "name": "Gelfingen",
+      "id": "jPGAEtNYC9bJ"
+    },
+    {
+      "name": "Gelterkinden",
+      "id": "cjnDoni0T4BX"
+    },
+    {
+      "name": "Genestrerio",
+      "id": "eZ3YGnfKGqFj"
+    },
+    {
+      "name": "Geneva",
+      "id": "YKWyhP-omh66"
+    },
+    {
+      "name": "Gerlafingen",
+      "id": "eguwsC2tyPTi"
+    },
+    {
+      "name": "Gerlikon",
+      "id": "OVsOEGxFtk8b"
+    },
+    {
+      "name": "Gersau",
+      "id": "h_LczGp5UiPs"
+    },
+    {
+      "name": "Gerzensee",
+      "id": "8TToclvNTIz5"
+    },
+    {
+      "name": "Gettnau",
+      "id": "qlhpVcv-J_ix"
+    },
+    {
+      "name": "Geuensee",
+      "id": "uMf7ZZ2XY4WH"
+    },
+    {
+      "name": "Gimel",
+      "id": "NwTIeW5yqXBB"
+    },
+    {
+      "name": "Gingins",
+      "id": "pStQqlBcyEXp"
+    },
+    {
+      "name": "Gipf-Oberfrick",
+      "id": "TWcjkhFTvfOQ"
+    },
+    {
+      "name": "Giswil",
+      "id": "XQcuD4fgXkbA"
+    },
+    {
+      "name": "Giubiasco",
+      "id": "KMv4ewN3_xhK"
+    },
+    {
+      "name": "Givrins",
+      "id": "yoNWZ8PxhX4a"
+    },
+    {
+      "name": "Gland",
+      "id": "wFjiuOunoytU"
+    },
+    {
+      "name": "Glaris",
+      "id": "He_hfmEKs-TT"
+    },
+    {
+      "name": "Glarus",
+      "id": "sIz9bxKIyLY5"
+    },
+    {
+      "name": "Glattburg",
+      "id": "LKQWFmNylNeJ"
+    },
+    {
+      "name": "Glattfelden",
+      "id": "M-pJkqHNsuJH"
+    },
+    {
+      "name": "Glion",
+      "id": "8XTQ1vEZobed"
+    },
+    {
+      "name": "Glis",
+      "id": "142kwiji2Kij"
+    },
+    {
+      "name": "Gnosca",
+      "id": "QajHLLlPWXjh"
+    },
+    {
+      "name": "Goldach",
+      "id": "J3E-uKWUhBT4"
+    },
+    {
+      "name": "Goldau",
+      "id": "MJAgDHX511c4"
+    },
+    {
+      "name": "Goldiwil",
+      "id": "TVtzUy7EdqjD"
+    },
+    {
+      "name": "Gommiswald",
+      "id": "eRUA3hI5vKML"
+    },
+    {
+      "name": "Gonten",
+      "id": "9ki1SMk7JaUN"
+    },
+    {
+      "name": "Gontenschwil",
+      "id": "gHJuVkBTGtx7"
+    },
+    {
+      "name": "Gordevio",
+      "id": "ifY6jTHf_Ur7"
+    },
+    {
+      "name": "Gordola",
+      "id": "bUJrqmOL8kDa"
+    },
+    {
+      "name": "Goslikon",
+      "id": "fRj8N17NskLL"
+    },
+    {
+      "name": "Gossau",
+      "id": "Z8lEP5JZjHQA"
+    },
+    {
+      "name": "Gottlieben",
+      "id": "9FOdnv7xzRC9"
+    },
+    {
+      "name": "Grabs",
+      "id": "Ka3r9y291n3Q"
+    },
+    {
+      "name": "Graenichen",
+      "id": "6LutlQz-Vupz"
+    },
+    {
+      "name": "Grancy",
+      "id": "-m5qH0gv3-iV"
+    },
+    {
+      "name": "Grandcour",
+      "id": "pO-Kwj9OwOwB"
+    },
+    {
+      "name": "Grandson",
+      "id": "ynenOQssklbH"
+    },
+    {
+      "name": "Grandval",
+      "id": "KSybYoiwcqpy"
+    },
+    {
+      "name": "Grandvillard",
+      "id": "GLewSbBe3jBR"
+    },
+    {
+      "name": "Granges",
+      "id": "DIxpuXV4kCCm"
+    },
+    {
+      "name": "Granges-pres-Sion",
+      "id": "w5opsMtYtui1"
+    },
+    {
+      "name": "Gravesano",
+      "id": "eSm9yD2NWXnP"
+    },
+    {
+      "name": "Greifensee",
+      "id": "VMR3VQ_VNS39"
+    },
+    {
+      "name": "Grellingen",
+      "id": "aVI18Mc2TWTH"
+    },
+    {
+      "name": "Grenchen",
+      "id": "CXmNm_Q60BNJ"
+    },
+    {
+      "name": "Greppen",
+      "id": "1mjzVgmpslag"
+    },
+    {
+      "name": "Grimentz",
+      "id": "Dfg5l0kZ6zD-"
+    },
+    {
+      "name": "Grimisuat",
+      "id": "xSX_2PXEoalE"
+    },
+    {
+      "name": "Grindelwald",
+      "id": "K3lkK3lCAPAe"
+    },
+    {
+      "name": "Grolley",
+      "id": "KJl-RGKU5bQl"
+    },
+    {
+      "name": "Grone",
+      "id": "E_n6NiTSjLx7"
+    },
+    {
+      "name": "Grono",
+      "id": "xWQXUDAgoT83"
+    },
+    {
+      "name": "Grossandelfingen",
+      "id": "BsZAK6CC-teH"
+    },
+    {
+      "name": "Grosswangen",
+      "id": "mywChAK1DUEX"
+    },
+    {
+      "name": "Grueningen",
+      "id": "102pVVkRgaZZ"
+    },
+    {
+      "name": "Grund",
+      "id": "zxcllvIPfwK2"
+    },
+    {
+      "name": "Gryon",
+      "id": "jYKuz3I0O9Ir"
+    },
+    {
+      "name": "Gstaad",
+      "id": "AHjwduLEYPIK"
+    },
+    {
+      "name": "Gumligen",
+      "id": "w9Gw-KZNWAgs"
+    },
+    {
+      "name": "Gummenen",
+      "id": "Pbgem_n4NTyJ"
+    },
+    {
+      "name": "Gunten",
+      "id": "WZyprtx4trwT"
+    },
+    {
+      "name": "Gunzgen",
+      "id": "RMbus0Gnxmxh"
+    },
+    {
+      "name": "Guttingen",
+      "id": "9SHjJufd4d70"
+    },
+    {
+      "name": "Gwatt",
+      "id": "UwIXAj71yZ3i"
+    },
+    {
+      "name": "Habkern",
+      "id": "eOBk4kq8TMl5"
+    },
+    {
+      "name": "Habsburg",
+      "id": "RSNP9jGiNpEB"
+    },
+    {
+      "name": "Hagenbuch",
+      "id": "XZtQ684-B-gF"
+    },
+    {
+      "name": "Hagendorf",
+      "id": "kespRcYyaumv"
+    },
+    {
+      "name": "Hagglingen",
+      "id": "Dc_kPbQR9XXf"
+    },
+    {
+      "name": "Hagneck",
+      "id": "ZEm9sI2vbncK"
+    },
+    {
+      "name": "Haldenstein",
+      "id": "nlWJefM1DIK4"
+    },
+    {
+      "name": "Hasle",
+      "id": "_gGeS5i48a09"
+    },
+    {
+      "name": "Hauptwil",
+      "id": "IeyQim0KZKB_"
+    },
+    {
+      "name": "Hausen",
+      "id": "ni0CShwSWhiN"
+    },
+    {
+      "name": "Hausen am Albis / Hausen (Dorf)",
+      "id": "ME2PRjYP2GIV"
+    },
+    {
+      "name": "Hauterive",
+      "id": "RKrqThKu98nk"
+    },
+    {
+      "name": "Hauteville",
+      "id": "LxLFt2Vm7RkW"
+    },
+    {
+      "name": "Heerbrugg",
+      "id": "XoDmYD7Cc1Tm"
+    },
+    {
+      "name": "Heiden",
+      "id": "5-HoyxlWn2C7"
+    },
+    {
+      "name": "Heimberg",
+      "id": "P-EKEqlRHBUI"
+    },
+    {
+      "name": "Heimiswil",
+      "id": "z13P-QIxyGw6"
+    },
+    {
+      "name": "Heitenried",
+      "id": "T-ESTjeN-yu8"
+    },
+    {
+      "name": "Hellbuehl",
+      "id": "NW41j36udxWz"
+    },
+    {
+      "name": "Hemmental",
+      "id": "WttZSEUojZAP"
+    },
+    {
+      "name": "Henau",
+      "id": "X8__9FzUERwS"
+    },
+    {
+      "name": "Hendschiken",
+      "id": "tE7EbAE1Oij1"
+    },
+    {
+      "name": "Henggart",
+      "id": "dfCxVKG35BCp"
+    },
+    {
+      "name": "Herbetswil",
+      "id": "SVclNdIcn50K"
+    },
+    {
+      "name": "Herdern",
+      "id": "Jf5PaczW3G-M"
+    },
+    {
+      "name": "Hergiswil",
+      "id": "e2w2MxrfBoPH"
+    },
+    {
+      "name": "Herisau",
+      "id": "VbAW2gSoUmNF"
+    },
+    {
+      "name": "Hermance",
+      "id": "i11RsDyNl4Tm"
+    },
+    {
+      "name": "Hermetschwil-Staffeln",
+      "id": "smcDiCpEz2P0"
+    },
+    {
+      "name": "Herrliberg",
+      "id": "K6HN64r1U10W"
+    },
+    {
+      "name": "Herzogenbuchsee",
+      "id": "Hi0fXRoZHBln"
+    },
+    {
+      "name": "Hettlingen",
+      "id": "HXpLgh-HiY2x"
+    },
+    {
+      "name": "Hildisrieden",
+      "id": "Cto0EWKP1NHJ"
+    },
+    {
+      "name": "Hilterfingen",
+      "id": "JOQaeHd0pZOh"
+    },
+    {
+      "name": "Himmelried",
+      "id": "68qWDQcqjIrE"
+    },
+    {
+      "name": "Hindelbank",
+      "id": "d_Oi0pHLkQrk"
+    },
+    {
+      "name": "Hinterkappelen",
+      "id": "Jmde8GAtblS1"
+    },
+    {
+      "name": "Hinwil",
+      "id": "qgAGYW90OK7y"
+    },
+    {
+      "name": "Hirzel-Kirche",
+      "id": "n9PVeGK4IX84"
+    },
+    {
+      "name": "Hittnau",
+      "id": "Xe01eGN0iRQi"
+    },
+    {
+      "name": "Hitzkirch",
+      "id": "s12enAzdaRFV"
+    },
+    {
+      "name": "Hochdorf",
+      "id": "vCkygNXoC3Ow"
+    },
+    {
+      "name": "Hochwald",
+      "id": "ulZ4ywKFAyml"
+    },
+    {
+      "name": "Hoerstetten",
+      "id": "b8wap4GdFyzZ"
+    },
+    {
+      "name": "Hofstetten",
+      "id": "6vjF6zuHnCgC"
+    },
+    {
+      "name": "Holderbank",
+      "id": "Im5BucBlxsF9"
+    },
+    {
+      "name": "Holstein",
+      "id": "VFf1-4WAju30"
+    },
+    {
+      "name": "Hombrechtikon",
+      "id": "z4CRTqYiJ-oA"
+    },
+    {
+      "name": "Horgen",
+      "id": "94Yv6diy-Jwo"
+    },
+    {
+      "name": "Horn",
+      "id": "51v5P5xEMrc4"
+    },
+    {
+      "name": "Hornussen",
+      "id": "_Riguy-Z60Ai"
+    },
+    {
+      "name": "Horw",
+      "id": "6tYhMHj4gtxg"
+    },
+    {
+      "name": "Hundwil",
+      "id": "Eb5kA0PKOXK3"
+    },
+    {
+      "name": "Hunenberg",
+      "id": "lc4qFJtXjfpZ"
+    },
+    {
+      "name": "Hunibach",
+      "id": "WdF4fT5VJx0g"
+    },
+    {
+      "name": "Huntwangen",
+      "id": "0CYeVbo3TCNV"
+    },
+    {
+      "name": "Hunzenschwil",
+      "id": "EHh88EG6y81t"
+    },
+    {
+      "name": "Huttwil",
+      "id": "fZG_haK8Lczi"
+    },
+    {
+      "name": "Ibach",
+      "id": "VZr8FnU3sBSB"
+    },
+    {
+      "name": "Igis",
+      "id": "b9tvkNa0ETAQ"
+    },
+    {
+      "name": "Ilanz",
+      "id": "rN3YZIOSpjak"
+    },
+    {
+      "name": "Illnau",
+      "id": "Tc44ZFtNtrQZ"
+    },
+    {
+      "name": "Immensee",
+      "id": "msR0_OKKePLv"
+    },
+    {
+      "name": "Ingenbohl",
+      "id": "C6yVs5ZxqgQh"
+    },
+    {
+      "name": "Ins",
+      "id": "HQ24m9-L-CQs"
+    },
+    {
+      "name": "Interlaken",
+      "id": "KgBfd_P7bJIS"
+    },
+    {
+      "name": "Inwil",
+      "id": "BkkausQKX7NP"
+    },
+    {
+      "name": "Iragna",
+      "id": "-9BqzUzK30KN"
+    },
+    {
+      "name": "Iseo",
+      "id": "Vwa6OEmPSlOP"
+    },
+    {
+      "name": "Iserables",
+      "id": "5iBL3byV5Kps"
+    },
+    {
+      "name": "Islikon",
+      "id": "Q1brpr7rcFLM"
+    },
+    {
+      "name": "Ittenthal",
+      "id": "2aQgddRdZIVx"
+    },
+    {
+      "name": "Jegenstorf",
+      "id": "eT4XVe7eCEXT"
+    },
+    {
+      "name": "Jenaz",
+      "id": "EsrgU2a5uOwx"
+    },
+    {
+      "name": "Jona",
+      "id": "8iEUCVidMLyt"
+    },
+    {
+      "name": "Jonen",
+      "id": "1q5EGPXLsole"
+    },
+    {
+      "name": "Jonschwil",
+      "id": "36J7e7ie33p1"
+    },
+    {
+      "name": "Jussy",
+      "id": "im5Cx50dS0lB"
+    },
+    {
+      "name": "Kaiseraugst",
+      "id": "mV0XNddyZTV6"
+    },
+    {
+      "name": "Kaiserstuhl",
+      "id": "h5sGeHfc_VhO"
+    },
+    {
+      "name": "Kaisten",
+      "id": "03NsLqj12-Sk"
+    },
+    {
+      "name": "Kallnach",
+      "id": "v850znzfEnYL"
+    },
+    {
+      "name": "Kaltbrunn",
+      "id": "9a6UQ4NGX2-3"
+    },
+    {
+      "name": "Kappel",
+      "id": "ayjlRKMUKQHJ"
+    },
+    {
+      "name": "Kastanienbaum",
+      "id": "IIppk1_B1RPr"
+    },
+    {
+      "name": "Kefikon",
+      "id": "BzVT_KaQcMKI"
+    },
+    {
+      "name": "Kehrsatz",
+      "id": "WZnW_WJNKPSg"
+    },
+    {
+      "name": "Kempttal",
+      "id": "Snitm25LLir8"
+    },
+    {
+      "name": "Kernenried",
+      "id": "z0DUV7yILS7T"
+    },
+    {
+      "name": "Kerns",
+      "id": "BRV0o-CB2q9V"
+    },
+    {
+      "name": "Kerzers",
+      "id": "WtSfwWjQkGB-"
+    },
+    {
+      "name": "Kiesen",
+      "id": "3EGqEGqvpi1H"
+    },
+    {
+      "name": "Kilchberg",
+      "id": "lwVJBcrINRAL"
+    },
+    {
+      "name": "Killwangen",
+      "id": "3JApaxUfkGIX"
+    },
+    {
+      "name": "Kirchberg",
+      "id": "gHLhyXzmSAhz"
+    },
+    {
+      "name": "Kirchdorf",
+      "id": "UWsHg87NCs5y"
+    },
+    {
+      "name": "Kleinlutzel",
+      "id": "yq5wFINEoHZ0"
+    },
+    {
+      "name": "Klingnau",
+      "id": "gT6U_1UBSyiR"
+    },
+    {
+      "name": "Klosters Platz",
+      "id": "K4dHLjd-7tG8"
+    },
+    {
+      "name": "Klosters Serneus",
+      "id": "tfDgd4i_zCkz"
+    },
+    {
+      "name": "Kloten",
+      "id": "iDbvpuZP9DjK"
+    },
+    {
+      "name": "Koblenz",
+      "id": "KSWsTQ2oyEco"
+    },
+    {
+      "name": "Kollbrunn",
+      "id": "L12VI4kfY2WX"
+    },
+    {
+      "name": "Kolliken",
+      "id": "zAx2eERYIldq"
+    },
+    {
+      "name": "Konolfingen",
+      "id": "XO47MXmDUQ1F"
+    },
+    {
+      "name": "Koppigen",
+      "id": "8FGv5rxPGCup"
+    },
+    {
+      "name": "Kradolf",
+      "id": "tARcLd8HtvjN"
+    },
+    {
+      "name": "Krauchthal",
+      "id": "8uxAibnr9NAZ"
+    },
+    {
+      "name": "Kreuzlingen",
+      "id": "hb7YIhpdi4pU"
+    },
+    {
+      "name": "Kriegstetten",
+      "id": "6dziF28Q7v2T"
+    },
+    {
+      "name": "Kriens",
+      "id": "rMLrG3fGUmoZ"
+    },
+    {
+      "name": "Kronbuhl",
+      "id": "_jDEgKQe7zdB"
+    },
+    {
+      "name": "Kuesnacht",
+      "id": "Or-7gZU5bW-o"
+    },
+    {
+      "name": "Kulm",
+      "id": "C6fNFGCO8Usl"
+    },
+    {
+      "name": "La Chaux",
+      "id": "O143NhXCJWL0"
+    },
+    {
+      "name": "La Chaux-de-Fonds",
+      "id": "2I5S80bDh3jr"
+    },
+    {
+      "name": "La Chiesaz",
+      "id": "VpodnF6dnx0u"
+    },
+    {
+      "name": "La Neuveville",
+      "id": "I0QHkuIHojlM"
+    },
+    {
+      "name": "La Plaine",
+      "id": "pGrYCrGaouTx"
+    },
+    {
+      "name": "La Roche",
+      "id": "CYAK61RuDE2X"
+    },
+    {
+      "name": "La Sarraz",
+      "id": "My7FXEOT3DDl"
+    },
+    {
+      "name": "La Tour-de-Peilz",
+      "id": "h3YtMhfN4gwU"
+    },
+    {
+      "name": "Laax",
+      "id": "GL2afTPDAmef"
+    },
+    {
+      "name": "Lachen",
+      "id": "7messsesVcYS"
+    },
+    {
+      "name": "Lamboing",
+      "id": "gvLRnlN93suB"
+    },
+    {
+      "name": "Landquart",
+      "id": "ft5r5zn-DK1C"
+    },
+    {
+      "name": "Langenbruck",
+      "id": "y_rTTGmJgdZR"
+    },
+    {
+      "name": "Langenthal",
+      "id": "bCfJZTo6WuJ9"
+    },
+    {
+      "name": "Langnau",
+      "id": "qgncr6CiED2d"
+    },
+    {
+      "name": "Langnau am Albis",
+      "id": "7ott-8Sq9d6f"
+    },
+    {
+      "name": "Lauenen",
+      "id": "eN7EwRjouMiK"
+    },
+    {
+      "name": "Lauerz",
+      "id": "GLKymtqazoMA"
+    },
+    {
+      "name": "Laufelfingen",
+      "id": "wi_ACQgMKpsr"
+    },
+    {
+      "name": "Laufen",
+      "id": "AfqDmq1H7wZd"
+    },
+    {
+      "name": "Laufenburg",
+      "id": "d9AouXGVU3zq"
+    },
+    {
+      "name": "Laupen",
+      "id": "8687R1AahZ-7"
+    },
+    {
+      "name": "Lausanne",
+      "id": "g3F_YPJ8BhOb"
+    },
+    {
+      "name": "Lausen",
+      "id": "a_2uc6oTX2_y"
+    },
+    {
+      "name": "Le Brassus",
+      "id": "V1FsJC_SIhaM"
+    },
+    {
+      "name": "Le Bry",
+      "id": "dSuHqOOvtPg_"
+    },
+    {
+      "name": "Le Cret",
+      "id": "aAGe5mPurbef"
+    },
+    {
+      "name": "Le Grand-Saconnex",
+      "id": "lwjRJcE0DyJ7"
+    },
+    {
+      "name": "Le Landeron",
+      "id": "Al5xLPLlughl"
+    },
+    {
+      "name": "Le Locle",
+      "id": "qhNF5GaQZ0YR"
+    },
+    {
+      "name": "Le Mont-sur-Lausanne",
+      "id": "ax4zBVpH_ttW"
+    },
+    {
+      "name": "Le Noirmont",
+      "id": "aprJIOPEHtuv"
+    },
+    {
+      "name": "Le Sentier",
+      "id": "U5S5NDiYFn17"
+    },
+    {
+      "name": "Le Vaud",
+      "id": "uFwr8G5p4Q7q"
+    },
+    {
+      "name": "Leibstadt",
+      "id": "6WZYcJ88ZNnr"
+    },
+    {
+      "name": "Lengnau",
+      "id": "mzpABcxF-74Y"
+    },
+    {
+      "name": "Lenk",
+      "id": "MiX3mvlijmHa"
+    },
+    {
+      "name": "Lenz",
+      "id": "eKOX3FOcILdp"
+    },
+    {
+      "name": "Lenzburg",
+      "id": "zmc19XMlRtjZ"
+    },
+    {
+      "name": "Lenzerheide",
+      "id": "uXduugmtRBYp"
+    },
+    {
+      "name": "Les Acacias",
+      "id": "ZCcjlYqdIQTI"
+    },
+    {
+      "name": "Les Breuleux",
+      "id": "p2LF-t2oTuPP"
+    },
+    {
+      "name": "Les Diablerets",
+      "id": "-I7yL5DryqzZ"
+    },
+    {
+      "name": "Les Geneveys-sur-Coffrane",
+      "id": "N152ewSy045O"
+    },
+    {
+      "name": "Les Genevez",
+      "id": "6UgHpUIPvyuG"
+    },
+    {
+      "name": "Les Hauts-Geneveys",
+      "id": "--uWj0_6Dnrs"
+    },
+    {
+      "name": "Les Pommerats",
+      "id": "mT2pRLVulZ7c"
+    },
+    {
+      "name": "Les Verrieres",
+      "id": "ZBrTpoa1nSpm"
+    },
+    {
+      "name": "Leukerbad",
+      "id": "rD0OZXDfgsl5"
+    },
+    {
+      "name": "Leutwil",
+      "id": "0gbeL96x5zmO"
+    },
+    {
+      "name": "Leysin",
+      "id": "Iw_ZpaNDQL4W"
+    },
+    {
+      "name": "Lichtensteig",
+      "id": "IdmZYkTgWG1_"
+    },
+    {
+      "name": "Liddes",
+      "id": "4QGH0bdwELHr"
+    },
+    {
+      "name": "Liebistorf",
+      "id": "_2RS8E19HfSS"
+    },
+    {
+      "name": "Lienz",
+      "id": "BV4SzqjO5PgJ"
+    },
+    {
+      "name": "Liestal",
+      "id": "tuM9Fcwxj2nA"
+    },
+    {
+      "name": "Ligerz",
+      "id": "HI3ly8Ismneo"
+    },
+    {
+      "name": "Lignieres",
+      "id": "b4uW73WP2tqi"
+    },
+    {
+      "name": "Lindau",
+      "id": "peFenr-5-aqo"
+    },
+    {
+      "name": "Littau",
+      "id": "K-52yvt4J72D"
+    },
+    {
+      "name": "Locarno",
+      "id": "RubWI7E9ejkv"
+    },
+    {
+      "name": "Loco",
+      "id": "ECFlga8qBVQc"
+    },
+    {
+      "name": "Lodrino",
+      "id": "8EG9Yk2aX2u_"
+    },
+    {
+      "name": "Lohn",
+      "id": "ohV9BWSkqEht"
+    },
+    {
+      "name": "Lommis",
+      "id": "5DamjZeQ4o8O"
+    },
+    {
+      "name": "Losone",
+      "id": "5RDIoG4kHaVi"
+    },
+    {
+      "name": "Lostorf",
+      "id": "pY96FdomwTwP"
+    },
+    {
+      "name": "Lotzwil",
+      "id": "lQbFwca43O1m"
+    },
+    {
+      "name": "Lucens",
+      "id": "IxMRJuD3UakE"
+    },
+    {
+      "name": "Lucerne",
+      "id": "2RoJUUwcSgFs"
+    },
+    {
+      "name": "Lugano",
+      "id": "gRBeig-tQbbi"
+    },
+    {
+      "name": "Lungern",
+      "id": "CFosFt5OyQqS"
+    },
+    {
+      "name": "Lurtigen",
+      "id": "Gr3vBhRfbZE3"
+    },
+    {
+      "name": "Lutisburg",
+      "id": "Vk8MBDX6MfH5"
+    },
+    {
+      "name": "Lutry",
+      "id": "GA0sl38Ll9zw"
+    },
+    {
+      "name": "Luvis",
+      "id": "yArRUJtklXZJ"
+    },
+    {
+      "name": "Lyss",
+      "id": "Na3HBOwD9R_S"
+    },
+    {
+      "name": "Lyssach",
+      "id": "el6YnzRvtmMl"
+    },
+    {
+      "name": "Maerstetten-Dorf",
+      "id": "_5D_9Vtlem8G"
+    },
+    {
+      "name": "Magadino",
+      "id": "Od0OC_GMOMsv"
+    },
+    {
+      "name": "Magden",
+      "id": "VQJ3GcwZO6yM"
+    },
+    {
+      "name": "Maggia",
+      "id": "qcV5Iw94Srdi"
+    },
+    {
+      "name": "Maisprach",
+      "id": "v3ZyAvHC9AY5"
+    },
+    {
+      "name": "Malleray",
+      "id": "Uj6ZiiUB5SrA"
+    },
+    {
+      "name": "Malters",
+      "id": "PMwgylhbmyKn"
+    },
+    {
+      "name": "Mannedorf",
+      "id": "pkcCSISLlbHx"
+    },
+    {
+      "name": "Manno",
+      "id": "awK0elpBwyjR"
+    },
+    {
+      "name": "Marin",
+      "id": "us26VG-fhQKO"
+    },
+    {
+      "name": "Maroggia",
+      "id": "6FAOqMBocLwm"
+    },
+    {
+      "name": "Marsens",
+      "id": "PtYhWDtKywgh"
+    },
+    {
+      "name": "Martigny-Croix",
+      "id": "_ZxyHbWpqKEi"
+    },
+    {
+      "name": "Martigny-Ville",
+      "id": "lpKdFXRVZw72"
+    },
+    {
+      "name": "Maschwanden",
+      "id": "yyyyUeoqmhV5"
+    },
+    {
+      "name": "Massagno",
+      "id": "gKAQubQsZpmk"
+    },
+    {
+      "name": "Matt",
+      "id": "wZzaRxG5Si1n"
+    },
+    {
+      "name": "Matzendorf",
+      "id": "V-hq4Fa_us-0"
+    },
+    {
+      "name": "Matzingen",
+      "id": "npFKoHLPxXDT"
+    },
+    {
+      "name": "Mauensee",
+      "id": "9yKYrfyh3gat"
+    },
+    {
+      "name": "Maur",
+      "id": "l0vdRNvGlXKY"
+    },
+    {
+      "name": "Meggen",
+      "id": "f6gWIR_rA4v3"
+    },
+    {
+      "name": "Meierskappel",
+      "id": "twWX141W4hzB"
+    },
+    {
+      "name": "Meilen",
+      "id": "7b2XcXJmeKa8"
+    },
+    {
+      "name": "Meinier",
+      "id": "m1d63bnZ_8cR"
+    },
+    {
+      "name": "Meinisberg",
+      "id": "GDbMYer7Q9JC"
+    },
+    {
+      "name": "Meiringen",
+      "id": "LgGSbgwYJ8Yj"
+    },
+    {
+      "name": "Meisterschwanden",
+      "id": "gSPxB_g_vqjQ"
+    },
+    {
+      "name": "Melano",
+      "id": "EpUTaYLgcBx4"
+    },
+    {
+      "name": "Melchnau",
+      "id": "rp8Iy03TdDZg"
+    },
+    {
+      "name": "Melide",
+      "id": "DTs4U6S25d3k"
+    },
+    {
+      "name": "Mellingen",
+      "id": "Y4CgOiEHyGKW"
+    },
+    {
+      "name": "Mels",
+      "id": "N39n00-ZMbyC"
+    },
+    {
+      "name": "Mendrisio",
+      "id": "IpXmVLG5pilA"
+    },
+    {
+      "name": "Menziken",
+      "id": "lQd_oSWtuxKS"
+    },
+    {
+      "name": "Menzingen",
+      "id": "NuvayIWIVFTL"
+    },
+    {
+      "name": "Merenschwand",
+      "id": "TSoqlhUgHkeM"
+    },
+    {
+      "name": "Merishausen",
+      "id": "j6zOXCxnAU3g"
+    },
+    {
+      "name": "Messen",
+      "id": "mWJ4Be9fH1ml"
+    },
+    {
+      "name": "Mettendorf",
+      "id": "6tBdqQmlY_rC"
+    },
+    {
+      "name": "Mettlen",
+      "id": "bGyRNETTL5ou"
+    },
+    {
+      "name": "Mettmenstetten",
+      "id": "aYA6RQ-frs1x"
+    },
+    {
+      "name": "Meyrin",
+      "id": "Eurlo6ZOjor1"
+    },
+    {
+      "name": "Miecourt",
+      "id": "BpOcSAkJTE-O"
+    },
+    {
+      "name": "Minusio",
+      "id": "_84xAy-23MsZ"
+    },
+    {
+      "name": "Mohlin",
+      "id": "oUjHueekEX6w"
+    },
+    {
+      "name": "Mollis",
+      "id": "R2z_dpAVR9fR"
+    },
+    {
+      "name": "Monchaltorf",
+      "id": "rMYtSCRi1GHI"
+    },
+    {
+      "name": "Montagnola",
+      "id": "1aPA5kbxMH0r"
+    },
+    {
+      "name": "Montana",
+      "id": "wCXZo8GRlDxb"
+    },
+    {
+      "name": "Montet",
+      "id": "KHgoZCbQIRDa"
+    },
+    {
+      "name": "Monthey",
+      "id": "MieIbOW6-wLU"
+    },
+    {
+      "name": "Montreux",
+      "id": "0ML8GMXCfpLV"
+    },
+    {
+      "name": "Moosleerau",
+      "id": "BQxoxujciDVt"
+    },
+    {
+      "name": "Morbio Inferiore",
+      "id": "xlSAgsUXwZZ9"
+    },
+    {
+      "name": "Morcote",
+      "id": "Fhj_gnzL3HUQ"
+    },
+    {
+      "name": "Morges",
+      "id": "jsuyA0jiwMQ1"
+    },
+    {
+      "name": "Morgins",
+      "id": "EIwTk3DSFlxP"
+    },
+    {
+      "name": "Morigen",
+      "id": "7sv6ZSrLPyup"
+    },
+    {
+      "name": "Moriken",
+      "id": "3wsjuv485knK"
+    },
+    {
+      "name": "Morschach",
+      "id": "zov66s9Zc7Uu"
+    },
+    {
+      "name": "Morschwil",
+      "id": "61Qh9eGFE5mC"
+    },
+    {
+      "name": "Mosnang",
+      "id": "J0bs9TIScS2d"
+    },
+    {
+      "name": "Motiers",
+      "id": "Bu8Ro7uVf4pe"
+    },
+    {
+      "name": "Moudon",
+      "id": "FU_CnH7FiXc2"
+    },
+    {
+      "name": "Moutier",
+      "id": "PzHU8weoc1Ui"
+    },
+    {
+      "name": "Muerren",
+      "id": "JAGDlNy9Cmwc"
+    },
+    {
+      "name": "Muhen",
+      "id": "JwG1w6Sr6hOI"
+    },
+    {
+      "name": "Muhlau",
+      "id": "rZoJR91rromw"
+    },
+    {
+      "name": "Muhleberg",
+      "id": "WfskE1z86Wvl"
+    },
+    {
+      "name": "Mullheim",
+      "id": "pyk5MZWuDqci"
+    },
+    {
+      "name": "Mumliswil",
+      "id": "9PKKLtkQyl9A"
+    },
+    {
+      "name": "Mumpf",
+      "id": "cjhPROxR-5WS"
+    },
+    {
+      "name": "Munchenbuchsee",
+      "id": "UBfDew6bUYd2"
+    },
+    {
+      "name": "Munchenstein",
+      "id": "KGLmhMJyjrDp"
+    },
+    {
+      "name": "Munchwilen",
+      "id": "mvbbFp-Y7Cn2"
+    },
+    {
+      "name": "Munsingen",
+      "id": "hBPVqV_mfxKs"
+    },
+    {
+      "name": "Munster",
+      "id": "HEjbTnZfAttr"
+    },
+    {
+      "name": "Muolen",
+      "id": "E0j6sVjn2N14"
+    },
+    {
+      "name": "Muotathal",
+      "id": "td8BSOEfBHT8"
+    },
+    {
+      "name": "Murgenthal",
+      "id": "_ri9iZL83nkc"
+    },
+    {
+      "name": "Muri",
+      "id": "WYdYc48qU6bk"
+    },
+    {
+      "name": "Muri bei Bern",
+      "id": "4_5R50hhHKSS"
+    },
+    {
+      "name": "Murten",
+      "id": "66nlEbHAD6-w"
+    },
+    {
+      "name": "Muttenz",
+      "id": "Sx8K6VqrtTAS"
+    },
+    {
+      "name": "Nafels",
+      "id": "VZiHUFM8Xcn8"
+    },
+    {
+      "name": "Nanikon",
+      "id": "bh3s00RnnKQz"
+    },
+    {
+      "name": "Naters",
+      "id": "7jIdA4LD9B66"
+    },
+    {
+      "name": "Nax",
+      "id": "KhxmL-eRaLdf"
+    },
+    {
+      "name": "Neftenbach",
+      "id": "0VOBuEQYlIli"
+    },
+    {
+      "name": "Nesslau",
+      "id": "50ScvbUjXOff"
+    },
+    {
+      "name": "Netstal",
+      "id": "y02tCcLydY78"
+    },
+    {
+      "name": "Neu-Rheinau",
+      "id": "wFOsw9Jul_XE"
+    },
+    {
+      "name": "Neuchatel",
+      "id": "sVe5G9WkZu5d"
+    },
+    {
+      "name": "Neuenhof",
+      "id": "pv0SWdLNyVKt"
+    },
+    {
+      "name": "Neuenkirch",
+      "id": "t22Y-RvAnOk5"
+    },
+    {
+      "name": "Neuhausen",
+      "id": "Nohf215Xvkc0"
+    },
+    {
+      "name": "Neuheim",
+      "id": "OFh8aUA1N_q9"
+    },
+    {
+      "name": "Neukirch",
+      "id": "MUJA5DgROEYl"
+    },
+    {
+      "name": "Neunkirch",
+      "id": "Hp1z91BoJuut"
+    },
+    {
+      "name": "Neyruz",
+      "id": "n0KYj-Rs9s8u"
+    },
+    {
+      "name": "Nidau",
+      "id": "INeHPziNShi0"
+    },
+    {
+      "name": "Niederbipp",
+      "id": "wNV1wo0tt_an"
+    },
+    {
+      "name": "Niederbuchsiten",
+      "id": "SBwWNjYXI9wb"
+    },
+    {
+      "name": "Niederburen",
+      "id": "XhR4vY0iIbzW"
+    },
+    {
+      "name": "Niedererlinsbach",
+      "id": "4fhm7F6L9l6_"
+    },
+    {
+      "name": "Niedergosgen",
+      "id": "-97yePXXVO5Y"
+    },
+    {
+      "name": "Niederhallwil",
+      "id": "qcw7wjigvWC5"
+    },
+    {
+      "name": "Niederhelfenschwil",
+      "id": "z7xwkF6YNGA3"
+    },
+    {
+      "name": "Niederlenz",
+      "id": "yezGJGTYtVCy"
+    },
+    {
+      "name": "Niederrohrdorf",
+      "id": "fWdrqdUveUT5"
+    },
+    {
+      "name": "Niederscherli",
+      "id": "B6nZUlYrXyti"
+    },
+    {
+      "name": "Niederurnen",
+      "id": "ILIw47Bof6PM"
+    },
+    {
+      "name": "Niederuzwil",
+      "id": "Cd0-2us48AFb"
+    },
+    {
+      "name": "Niederweningen",
+      "id": "1DsVD4pZ40NY"
+    },
+    {
+      "name": "Nohl",
+      "id": "TKA-OJnxHhkp"
+    },
+    {
+      "name": "Noreaz",
+      "id": "fnfvixdEcDIw"
+    },
+    {
+      "name": "Nottwil",
+      "id": "UA43dCaFkQbG"
+    },
+    {
+      "name": "Novaggio",
+      "id": "qKPTceyiJzOG"
+    },
+    {
+      "name": "Novazzano",
+      "id": "V_ILU8MSPkEC"
+    },
+    {
+      "name": "Nunningen",
+      "id": "O5s2jEaIelWH"
+    },
+    {
+      "name": "Nurensdorf",
+      "id": "pCzSf5k1Ti86"
+    },
+    {
+      "name": "Nussbaumen",
+      "id": "7TqJB5LUV9ov"
+    },
+    {
+      "name": "Nyon",
+      "id": "OovIDXQ_CsdA"
+    },
+    {
+      "name": "Ober Urdorf",
+      "id": "lIutWzJdFZiP"
+    },
+    {
+      "name": "Oberbalm",
+      "id": "hYT5PsNub9hh"
+    },
+    {
+      "name": "Oberbipp",
+      "id": "Mh2sur3Qyk9X"
+    },
+    {
+      "name": "Oberbuchsiten",
+      "id": "GtT_z36fA6to"
+    },
+    {
+      "name": "Oberburg",
+      "id": "zXu_BOGUv2Ai"
+    },
+    {
+      "name": "Oberdiessbach",
+      "id": "Wyvyz3fHh6fY"
+    },
+    {
+      "name": "Oberdorf",
+      "id": "W3wcJYe80OeK"
+    },
+    {
+      "name": "Oberegg",
+      "id": "GRpif3aK3bEw"
+    },
+    {
+      "name": "Oberembrach",
+      "id": "xXBUQ-t613F6"
+    },
+    {
+      "name": "Oberengstringen",
+      "id": "3ep87r_AHRT9"
+    },
+    {
+      "name": "Oberentfelden",
+      "id": "s2vqSEKtzYDh"
+    },
+    {
+      "name": "Obergerlafingen",
+      "id": "iNl870pI6WRA"
+    },
+    {
+      "name": "Oberglatt",
+      "id": "3w0lMV6kST1B"
+    },
+    {
+      "name": "Obergosgen",
+      "id": "enqZzBUyUcL3"
+    },
+    {
+      "name": "Oberhelfenschwil",
+      "id": "1VVgJKACAQt4"
+    },
+    {
+      "name": "Oberhofen",
+      "id": "VD_zakOIT6Gm"
+    },
+    {
+      "name": "Oberhofen bei Etzgen",
+      "id": "jaOECTc-lHxb"
+    },
+    {
+      "name": "Oberkirch",
+      "id": "z6Jaxi4r7TyG"
+    },
+    {
+      "name": "Oberlunkhofen",
+      "id": "6_8Ms66nbjNC"
+    },
+    {
+      "name": "Oberonz",
+      "id": "m4BifbC_e_eo"
+    },
+    {
+      "name": "Oberrieden",
+      "id": "vdTaR7BXL8BL"
+    },
+    {
+      "name": "Oberriet",
+      "id": "o_hy18BVj592"
+    },
+    {
+      "name": "Obersaxen",
+      "id": "Cmt-qoeCpO7h"
+    },
+    {
+      "name": "Oberschlatt",
+      "id": "4LC5daUhwuEc"
+    },
+    {
+      "name": "Oberstocken",
+      "id": "YUQtEJAUKP6c"
+    },
+    {
+      "name": "Oberuzwil",
+      "id": "QmSU4qQ0GtUf"
+    },
+    {
+      "name": "Obervaz",
+      "id": "pRuuE0ZoRwLL"
+    },
+    {
+      "name": "Oberwangen",
+      "id": "uF9N-ckqBaCV"
+    },
+    {
+      "name": "Oberweningen",
+      "id": "sligzYPtiGwO"
+    },
+    {
+      "name": "Oberwil",
+      "id": "MVvzgL5jSNYE"
+    },
+    {
+      "name": "Obfelden",
+      "id": "XAbg53IukZdJ"
+    },
+    {
+      "name": "Oensingen",
+      "id": "rWdg8Sitr-eM"
+    },
+    {
+      "name": "Oetwil / Oetwil an der Limmat",
+      "id": "TIqHbNGq2Z9i"
+    },
+    {
+      "name": "Oetwil am See",
+      "id": "1DRwnK6HzMoD"
+    },
+    {
+      "name": "Oftringen",
+      "id": "6dhgTGFYFn3B"
+    },
+    {
+      "name": "Olten",
+      "id": "6woTxqWRAMnH"
+    },
+    {
+      "name": "Onex",
+      "id": "-JDi8VxnvZ4n"
+    },
+    {
+      "name": "Onnens",
+      "id": "hrZEei9JWtlE"
+    },
+    {
+      "name": "Opfikon",
+      "id": "BLJF2fvB51Sk"
+    },
+    {
+      "name": "Orbe",
+      "id": "LpVEqKeruIwK"
+    },
+    {
+      "name": "Ormalingen",
+      "id": "3drCG97RaJLP"
+    },
+    {
+      "name": "Oron-la-ville",
+      "id": "gP5PcEQekyCK"
+    },
+    {
+      "name": "Orpund",
+      "id": "bMlQYBXsTw-e"
+    },
+    {
+      "name": "Orsonnens",
+      "id": "A8sDFLd8dRDz"
+    },
+    {
+      "name": "Orvin",
+      "id": "eUdgrwU7218m"
+    },
+    {
+      "name": "Ossingen",
+      "id": "v9rSD2ZSx17U"
+    },
+    {
+      "name": "Ostermundigen",
+      "id": "wnsZYSLr6ozn"
+    },
+    {
+      "name": "Otelfingen",
+      "id": "FMF9KbGWkyuC"
+    },
+    {
+      "name": "Othmarsingen",
+      "id": "nEzaXMu4aF-u"
+    },
+    {
+      "name": "Ottenbach",
+      "id": "ALRrQW6iEO3_"
+    },
+    {
+      "name": "Ouchy",
+      "id": "mvu6WLdomQUF"
+    },
+    {
+      "name": "Ovronnaz",
+      "id": "lOGO9X7uX-Lw"
+    },
+    {
+      "name": "Palezieux",
+      "id": "WZa8aK-4v5S2"
+    },
+    {
+      "name": "Pampigny",
+      "id": "ZFSN9vRPoYLE"
+    },
+    {
+      "name": "Paudex",
+      "id": "ZPK4AxcqNPy_"
+    },
+    {
+      "name": "Payerne",
+      "id": "WFDU7UUP31W0"
+    },
+    {
+      "name": "Perlen",
+      "id": "kAKUGS8jklUE"
+    },
+    {
+      "name": "Perroy",
+      "id": "L6SRFlFHcWO5"
+    },
+    {
+      "name": "Pery",
+      "id": "qYka8RT-U-4f"
+    },
+    {
+      "name": "Peseux",
+      "id": "6pSaoQSiKb23"
+    },
+    {
+      "name": "Pfaeffikon",
+      "id": "0bwCWy43wAv3"
+    },
+    {
+      "name": "Pfaffnau",
+      "id": "cnS2Mh7kkKDt"
+    },
+    {
+      "name": "Pfeffikon",
+      "id": "ehyEoRjUqmBA"
+    },
+    {
+      "name": "Pfeffingen",
+      "id": "w3qxYA30mt-S"
+    },
+    {
+      "name": "Pfungen",
+      "id": "q-0-hXFDLC2E"
+    },
+    {
+      "name": "Pfyn",
+      "id": "9AEPea2mjaik"
+    },
+    {
+      "name": "Pieterlen",
+      "id": "4OYKeHQPnJwY"
+    },
+    {
+      "name": "Plaffeien",
+      "id": "Ln4MbNBV6AiY"
+    },
+    {
+      "name": "Plan-les-Ouates",
+      "id": "H-rtcDhsvxk4"
+    },
+    {
+      "name": "Porrentruy",
+      "id": "BWomtm2Fyjta"
+    },
+    {
+      "name": "Porsel",
+      "id": "bukpwZBSBUm_"
+    },
+    {
+      "name": "Portalban- Dessous",
+      "id": "Z18svmrB4fiD"
+    },
+    {
+      "name": "Prangins",
+      "id": "mdIhrPMfI4_Y"
+    },
+    {
+      "name": "Pratteln",
+      "id": "lmiYyI7pvgUi"
+    },
+    {
+      "name": "Pregassona",
+      "id": "jQv5WvuReqxX"
+    },
+    {
+      "name": "Preles",
+      "id": "mKS0UDJN4spW"
+    },
+    {
+      "name": "Preverenges",
+      "id": "IflSIGk-vxFY"
+    },
+    {
+      "name": "Prilly",
+      "id": "awjWf0unD_tL"
+    },
+    {
+      "name": "Puidoux",
+      "id": "wK_pOMuFzmIL"
+    },
+    {
+      "name": "Pully",
+      "id": "skmLz0WFumRK"
+    },
+    {
+      "name": "Pura",
+      "id": "zj5P_3B5Kxoz"
+    },
+    {
+      "name": "Quartino",
+      "id": "61gGXDOM0u21"
+    },
+    {
+      "name": "Rafz",
+      "id": "I_LhUIok5o8q"
+    },
+    {
+      "name": "Ramsen",
+      "id": "pIx6x6DIr6-N"
+    },
+    {
+      "name": "Rances",
+      "id": "BdIbSeOvbdYX"
+    },
+    {
+      "name": "Raperswilen",
+      "id": "ruf1DIybgZnH"
+    },
+    {
+      "name": "Rapperswil",
+      "id": "FU1odQNmhDO4"
+    },
+    {
+      "name": "Raron",
+      "id": "dNKs0oMcKbpd"
+    },
+    {
+      "name": "Rebstein",
+      "id": "zCuZ57jpBQBS"
+    },
+    {
+      "name": "Rechthalten",
+      "id": "amKKzkxrqiEZ"
+    },
+    {
+      "name": "Reconvilier",
+      "id": "EIPcSqinXjBr"
+    },
+    {
+      "name": "Regensdorf",
+      "id": "dAkKdWkB-Xq5"
+    },
+    {
+      "name": "Rehetobel",
+      "id": "VJV1aR4JfPPL"
+    },
+    {
+      "name": "Reichenburg",
+      "id": "XsB4J1ZZC_IN"
+    },
+    {
+      "name": "Reiden",
+      "id": "xHiDQgrdDLtg"
+    },
+    {
+      "name": "Reigoldswil",
+      "id": "49ZOGnSHwqHo"
+    },
+    {
+      "name": "Reinach",
+      "id": "_rBetLOFtyvA"
+    },
+    {
+      "name": "Rekingen",
+      "id": "rmQn1C2u_rvc"
+    },
+    {
+      "name": "Renens",
+      "id": "o35j45vtJ3xd"
+    },
+    {
+      "name": "Rhazuns",
+      "id": "Jv396yFJc1Cy"
+    },
+    {
+      "name": "Rheineck",
+      "id": "7V4BQCngQkNQ"
+    },
+    {
+      "name": "Rheinfelden",
+      "id": "i5j-gKVN0-Iv"
+    },
+    {
+      "name": "Riaz",
+      "id": "xvP87ng8oTZi"
+    },
+    {
+      "name": "Richenthal",
+      "id": "PZfNl9FmKVrs"
+    },
+    {
+      "name": "Richigen",
+      "id": "kYCuqeHlDnd-"
+    },
+    {
+      "name": "Richterswil",
+      "id": "tdElcoHGTCOV"
+    },
+    {
+      "name": "Ricken",
+      "id": "sVc1QLzfbOZF"
+    },
+    {
+      "name": "Rickenbach",
+      "id": "AK3fXrOaq9Ip"
+    },
+    {
+      "name": "Riddes",
+      "id": "7E0uqR4bF8rg"
+    },
+    {
+      "name": "Ried",
+      "id": "WDGfiQ06sknb"
+    },
+    {
+      "name": "Riedholz",
+      "id": "VUmqXYmkAful"
+    },
+    {
+      "name": "Rifferswil",
+      "id": "KrxWN6fgo7IC"
+    },
+    {
+      "name": "Riggisberg",
+      "id": "e_if3Yyqyxjn"
+    },
+    {
+      "name": "Rikon / Rikon (Dorfkern)",
+      "id": "ETRnPf3pXlXC"
+    },
+    {
+      "name": "Ringgenberg",
+      "id": "0Y9BXel6s4ln"
+    },
+    {
+      "name": "Riva San Vitale",
+      "id": "Gb7By1eNHhoN"
+    },
+    {
+      "name": "Roche",
+      "id": "6NXsAZFy-X-i"
+    },
+    {
+      "name": "Roemerswil",
+      "id": "bhSIG-7ZO-7L"
+    },
+    {
+      "name": "Roggwil",
+      "id": "nKaXEd0C9r8C"
+    },
+    {
+      "name": "Rohr",
+      "id": "bRfvVzyHWO6R"
+    },
+    {
+      "name": "Rohrbach",
+      "id": "WLpVUltd85_v"
+    },
+    {
+      "name": "Rolle",
+      "id": "YUK0pT4BAQOe"
+    },
+    {
+      "name": "Romainmotier",
+      "id": "Ojq4R_Kj_Ias"
+    },
+    {
+      "name": "Romanel",
+      "id": "oBcNOGDhS80l"
+    },
+    {
+      "name": "Romanshorn",
+      "id": "1-PdGTicErIc"
+    },
+    {
+      "name": "Romont",
+      "id": "-2GA_To7dhfC"
+    },
+    {
+      "name": "Rondchatel",
+      "id": "M-vhXUdC92ev"
+    },
+    {
+      "name": "Root",
+      "id": "xEFKhk7FPgZP"
+    },
+    {
+      "name": "Rorbas",
+      "id": "6RUpBag3sql1"
+    },
+    {
+      "name": "Rorschach",
+      "id": "21THtzh5D7NU"
+    },
+    {
+      "name": "Roschenz",
+      "id": "8xhYZDc_Z0i-"
+    },
+    {
+      "name": "Rossens",
+      "id": "uJRnGHiFCt-v"
+    },
+    {
+      "name": "Rothenbach",
+      "id": "86GEM4iamuJx"
+    },
+    {
+      "name": "Rothenthurm",
+      "id": "Psc4M1miEmuL"
+    },
+    {
+      "name": "Rothrist",
+      "id": "29mvCv8IFe5h"
+    },
+    {
+      "name": "Rotkreuz",
+      "id": "5pHfUlTfS94i"
+    },
+    {
+      "name": "Roveredo",
+      "id": "JZ5medu6DQ23"
+    },
+    {
+      "name": "Rubigen",
+      "id": "u-t7O4JghzGo"
+    },
+    {
+      "name": "Rudlingen",
+      "id": "GefmAQjekODW"
+    },
+    {
+      "name": "Rudolfstetten",
+      "id": "yk_kB9XgBVSg"
+    },
+    {
+      "name": "Rue",
+      "id": "KMInZH7apCB1"
+    },
+    {
+      "name": "Rueggisberg",
+      "id": "cfDUCHdl0_Or"
+    },
+    {
+      "name": "Rueti",
+      "id": "6sihMIpYaYtu"
+    },
+    {
+      "name": "Rueyres",
+      "id": "VVHXFfOhUANU"
+    },
+    {
+      "name": "Rufi",
+      "id": "18aniXzKO0u5"
+    },
+    {
+      "name": "Rumlang",
+      "id": "8JXqBmE9lhS-"
+    },
+    {
+      "name": "Rupperswil",
+      "id": "LRPBs6uOXhGH"
+    },
+    {
+      "name": "Ruschlikon",
+      "id": "uExUCdJtEWEA"
+    },
+    {
+      "name": "Russikon",
+      "id": "pDm9x6NFWNW5"
+    },
+    {
+      "name": "Russin",
+      "id": "fV6mo8rNfDD3"
+    },
+    {
+      "name": "Ruswil",
+      "id": "7M_6qclKaAr1"
+    },
+    {
+      "name": "Ruthi",
+      "id": "nuqWA1xgovwi"
+    },
+    {
+      "name": "Saanen",
+      "id": "Vt8DNcdyjVgG"
+    },
+    {
+      "name": "Saanenmoser",
+      "id": "mMUsGsm4DBsg"
+    },
+    {
+      "name": "Saas-Fee",
+      "id": "zhEXVbCXLDY4"
+    },
+    {
+      "name": "Saas-Grund",
+      "id": "kSkpwvy-kgaw"
+    },
+    {
+      "name": "Sachseln",
+      "id": "nNG7KSduwJdx"
+    },
+    {
+      "name": "Safenwil",
+      "id": "OhCntMUHw27F"
+    },
+    {
+      "name": "Saignelegier",
+      "id": "jn2XjRg9u0LP"
+    },
+    {
+      "name": "Saint-Aubin",
+      "id": "GR4tDtH_1V_I"
+    },
+    {
+      "name": "Saint-Aubin-Sauges",
+      "id": "YtZBHxQ_oloo"
+    },
+    {
+      "name": "Saint-Blaise",
+      "id": "ZPIw0xm3ql1c"
+    },
+    {
+      "name": "Saint-Cergue",
+      "id": "sYe__e_w3ENe"
+    },
+    {
+      "name": "Saint-Imier",
+      "id": "VW1astdOj68w"
+    },
+    {
+      "name": "Saint-Leonard",
+      "id": "rshWFNBdniII"
+    },
+    {
+      "name": "Saint-Livres",
+      "id": "9YFImzqMjy0Z"
+    },
+    {
+      "name": "Saint-Maurice",
+      "id": "cRPHgNqN2fNG"
+    },
+    {
+      "name": "Saint-Prex",
+      "id": "gRQqY92ZXk-7"
+    },
+    {
+      "name": "Saint-Sulpice",
+      "id": "a36xQfHnQR3q"
+    },
+    {
+      "name": "Sainte-Croix",
+      "id": "ghpYxw1_Aex1"
+    },
+    {
+      "name": "Salmsach",
+      "id": "9mC-v8Rejl0M"
+    },
+    {
+      "name": "Samstagern",
+      "id": "BbwyroPY9Ylv"
+    },
+    {
+      "name": "Sankt Gallenkappel",
+      "id": "zOCAq4dywRai"
+    },
+    {
+      "name": "Sankt Margrethen",
+      "id": "mryXF7RrYq07"
+    },
+    {
+      "name": "Sargans",
+      "id": "kZhhWQvnjQ8U"
+    },
+    {
+      "name": "Sariswil",
+      "id": "gTllvE_7932f"
+    },
+    {
+      "name": "Sarmenstorf",
+      "id": "e-emeo6mZBbO"
+    },
+    {
+      "name": "Sarn",
+      "id": "xK_p1wIEzThB"
+    },
+    {
+      "name": "Sarnen",
+      "id": "zU-WAdsjIxFD"
+    },
+    {
+      "name": "Satigny",
+      "id": "pYg-HZNFFyTH"
+    },
+    {
+      "name": "Sattel",
+      "id": "ciTRVCGoPOu1"
+    },
+    {
+      "name": "Saviese",
+      "id": "P-OpLXOGK-9v"
+    },
+    {
+      "name": "Savigny",
+      "id": "OEd93fHsPWZC"
+    },
+    {
+      "name": "Savognin",
+      "id": "IirWhKecWBc6"
+    },
+    {
+      "name": "Saxon",
+      "id": "pCwBpRjEkxMX"
+    },
+    {
+      "name": "Schachen",
+      "id": "K0AflZLsk0mv"
+    },
+    {
+      "name": "Schaffhausen",
+      "id": "JN24C9yzCzxg"
+    },
+    {
+      "name": "Schafisheim",
+      "id": "SRxXVhXJPoIK"
+    },
+    {
+      "name": "Schanis",
+      "id": "vca5KNBa_TJS"
+    },
+    {
+      "name": "Schattdorf",
+      "id": "b3Ih8fUDKTmg"
+    },
+    {
+      "name": "Schenkon",
+      "id": "t58Vp8cHcGTV"
+    },
+    {
+      "name": "Schiers",
+      "id": "qRX8Tk5ThAHM"
+    },
+    {
+      "name": "Schindellegi",
+      "id": "YvKyU75MhHcn"
+    },
+    {
+      "name": "Schinznach Bad",
+      "id": "nyecv09le1LJ"
+    },
+    {
+      "name": "Schinznach Dorf",
+      "id": "o7AGlcmd589C"
+    },
+    {
+      "name": "Schlatt",
+      "id": "L8uqCRXiyNsG"
+    },
+    {
+      "name": "Schleitheim",
+      "id": "-9nPyQanF8cG"
+    },
+    {
+      "name": "Schlieren",
+      "id": "gaFgLgRirN-U"
+    },
+    {
+      "name": "Schmerikon",
+      "id": "gqIyXxLP2QhL"
+    },
+    {
+      "name": "Schmitten",
+      "id": "qNOCsRKE4pM3"
+    },
+    {
+      "name": "Schnottwil",
+      "id": "ErRwoRj81O5a"
+    },
+    {
+      "name": "Schoetz",
+      "id": "l8wei_ya-Y4f"
+    },
+    {
+      "name": "Schoftland",
+      "id": "6ss4dmA812a_"
+    },
+    {
+      "name": "Schonbuhl",
+      "id": "MZ47Zfr-j9oX"
+    },
+    {
+      "name": "Schonenberg",
+      "id": "SGECm75CUYf2"
+    },
+    {
+      "name": "Schonenbuch",
+      "id": "CrrbWNaqmj0W"
+    },
+    {
+      "name": "Schonenwerd",
+      "id": "cPE-rsgv5ZHL"
+    },
+    {
+      "name": "Schongau",
+      "id": "P2G8pEXY4FNk"
+    },
+    {
+      "name": "Schonholzerswilen",
+      "id": "Kq3iibTCD4r_"
+    },
+    {
+      "name": "Schonried",
+      "id": "Yz7SMrXGZLF-"
+    },
+    {
+      "name": "Schubelbach",
+      "id": "LPf41hr4irjE"
+    },
+    {
+      "name": "Schuepfheim",
+      "id": "5VjKdxviQ7wH"
+    },
+    {
+      "name": "Schupfen",
+      "id": "iFAZ5ZW6DJ8U"
+    },
+    {
+      "name": "Schwarzenberg",
+      "id": "XQjXeRxQKjiN"
+    },
+    {
+      "name": "Schwarzenburg",
+      "id": "kATszzQScIH4"
+    },
+    {
+      "name": "Schwellbrunn",
+      "id": "jNyRTrkZVxA0"
+    },
+    {
+      "name": "Schwyz",
+      "id": "Wp6ZUq5Hxo1F"
+    },
+    {
+      "name": "Scuol",
+      "id": "KDucatg_nXis"
+    },
+    {
+      "name": "Seedorf",
+      "id": "-g_YmeYT7cYH"
+    },
+    {
+      "name": "Seegraben",
+      "id": "tydklrLE7LCy"
+    },
+    {
+      "name": "Seelisberg",
+      "id": "Ju5qMRtZjL51"
+    },
+    {
+      "name": "Seengen",
+      "id": "Ttpylud5_fp3"
+    },
+    {
+      "name": "Seewis im Pratigau",
+      "id": "0rYcrTvP2AQG"
+    },
+    {
+      "name": "Seftigen",
+      "id": "0WG95gDAKSUN"
+    },
+    {
+      "name": "Seltisberg",
+      "id": "3jjTckM12Bxt"
+    },
+    {
+      "name": "Selzach",
+      "id": "n0RDLNxnVJrE"
+    },
+    {
+      "name": "Sembrancher",
+      "id": "QLjKarHMHhaP"
+    },
+    {
+      "name": "Sementina",
+      "id": "oL3aIvXUedwA"
+    },
+    {
+      "name": "Sempach",
+      "id": "7YbzSgxHbBQa"
+    },
+    {
+      "name": "Semsales",
+      "id": "7p9M4kHenfUw"
+    },
+    {
+      "name": "Sennwald",
+      "id": "2Dre3GAkrucz"
+    },
+    {
+      "name": "Seon",
+      "id": "ADTmou--tOje"
+    },
+    {
+      "name": "Sessa",
+      "id": "rUJSSYhK1w3D"
+    },
+    {
+      "name": "Seuzach Dorf",
+      "id": "0r2ryBZgjQ38"
+    },
+    {
+      "name": "Sevelen",
+      "id": "LgxT347ROaa2"
+    },
+    {
+      "name": "Sezegnin",
+      "id": "aoEviarzfGtK"
+    },
+    {
+      "name": "Siebnen",
+      "id": "JTxTgAHOpdtb"
+    },
+    {
+      "name": "Sierre",
+      "id": "s3gy2NyirafO"
+    },
+    {
+      "name": "Siglistorf",
+      "id": "zvXGSE2HRAgH"
+    },
+    {
+      "name": "Sigriswil",
+      "id": "wbkdsr3VSrM4"
+    },
+    {
+      "name": "Sils-Segl Maria",
+      "id": "vZfs9ENhC0eJ"
+    },
+    {
+      "name": "Sins",
+      "id": "wfcYrD-9rHY1"
+    },
+    {
+      "name": "Sion",
+      "id": "ho4nbhL5LdoL"
+    },
+    {
+      "name": "Sirnach",
+      "id": "3l42pSpi_35_"
+    },
+    {
+      "name": "Siselen",
+      "id": "Yy20ffyea5Bp"
+    },
+    {
+      "name": "Sissach",
+      "id": "BH7Uq7C5jDd4"
+    },
+    {
+      "name": "Siviriez",
+      "id": "5ntALBzS4RXd"
+    },
+    {
+      "name": "Solothurn",
+      "id": "Kv4wsZrAYWy_"
+    },
+    {
+      "name": "Sonceboz",
+      "id": "vGjmpO6nnURx"
+    },
+    {
+      "name": "Sonvico",
+      "id": "GnGdMcBFROeI"
+    },
+    {
+      "name": "Sonvilier",
+      "id": "6jGXNuMgGS7a"
+    },
+    {
+      "name": "Sorengo",
+      "id": "rEYgtQ-TfYby"
+    },
+    {
+      "name": "Sottens",
+      "id": "XglTt3nbAQP2"
+    },
+    {
+      "name": "Soyhieres",
+      "id": "jBHy11iSmNBU"
+    },
+    {
+      "name": "Speicher",
+      "id": "6Vl1ATuO0s48"
+    },
+    {
+      "name": "Spiez",
+      "id": "F_3wyhHxCtpM"
+    },
+    {
+      "name": "Spreitenbach",
+      "id": "ctqqt0dntHsi"
+    },
+    {
+      "name": "St. Gallen",
+      "id": "vscUHpMkpngu"
+    },
+    {
+      "name": "Stabio",
+      "id": "0Uln9j3EIiGI"
+    },
+    {
+      "name": "Stadel",
+      "id": "dJ8Xu27pGkVg"
+    },
+    {
+      "name": "Stafa",
+      "id": "IPkfjhaVrD65"
+    },
+    {
+      "name": "Stallikon",
+      "id": "DsaK11CaonFL"
+    },
+    {
+      "name": "Stans",
+      "id": "2YBp6UCK15xL"
+    },
+    {
+      "name": "Stansstad",
+      "id": "ugoVNLVv9f5l"
+    },
+    {
+      "name": "Staufen",
+      "id": "jjDmsDkESLuP"
+    },
+    {
+      "name": "Steckborn",
+      "id": "oRf3XIGRrobW"
+    },
+    {
+      "name": "Steffisburg",
+      "id": "20q5fYOlgamM"
+    },
+    {
+      "name": "Steg",
+      "id": "gjUhTAZQ4XWL"
+    },
+    {
+      "name": "Stein",
+      "id": "83dSobSKfSpo"
+    },
+    {
+      "name": "Stein am Rhein",
+      "id": "rz_lbacodpAQ"
+    },
+    {
+      "name": "Steinen",
+      "id": "3qJbtmNvi-pf"
+    },
+    {
+      "name": "Steinhausen",
+      "id": "HchnFtNKQ7Ec"
+    },
+    {
+      "name": "Stettfurt",
+      "id": "9zLq0a3WBj9N"
+    },
+    {
+      "name": "Stettlen",
+      "id": "ggdWV2CXdGHY"
+    },
+    {
+      "name": "Stoos",
+      "id": "R_OwFCt7lF41"
+    },
+    {
+      "name": "Strengelbach",
+      "id": "blf5yURhVk3Y"
+    },
+    {
+      "name": "Subingen",
+      "id": "Q8P-6qoeezok"
+    },
+    {
+      "name": "Suhr",
+      "id": "MEgrYhFPKPrh"
+    },
+    {
+      "name": "Sulgen",
+      "id": "antAGN7wyoMY"
+    },
+    {
+      "name": "Sulz",
+      "id": "039ihew7UNp4"
+    },
+    {
+      "name": "Sumiswald",
+      "id": "gv-vcFvijPMN"
+    },
+    {
+      "name": "Sursee",
+      "id": "8wOQCPKiy1BD"
+    },
+    {
+      "name": "Tafers",
+      "id": "9-4z1wIKXd6Y"
+    },
+    {
+      "name": "Tagerwilen",
+      "id": "JGNcOBTwJwL3"
+    },
+    {
+      "name": "Tamins",
+      "id": "OrBMHwmLGtsw"
+    },
+    {
+      "name": "Tanay",
+      "id": "qvX7fXar2g0V"
+    },
+    {
+      "name": "Tann",
+      "id": "wld9lvKW51Zv"
+    },
+    {
+      "name": "Tasch",
+      "id": "qR-hh2Jd3ilM"
+    },
+    {
+      "name": "Tauffelen",
+      "id": "jhKgIZhzYJxi"
+    },
+    {
+      "name": "Tavannes",
+      "id": "126KyMoAepYZ"
+    },
+    {
+      "name": "Tegerfelden",
+      "id": "T1qb-b_4nC-W"
+    },
+    {
+      "name": "Tenero",
+      "id": "sW-hxjI2_tIV"
+    },
+    {
+      "name": "Termen",
+      "id": "FvNFpnGnorYI"
+    },
+    {
+      "name": "Territet",
+      "id": "1XxiwMhKTzXx"
+    },
+    {
+      "name": "Tesserete",
+      "id": "Ktgk3_ftuvHz"
+    },
+    {
+      "name": "Teufen AR",
+      "id": "jo6jxAhZGLlx"
+    },
+    {
+      "name": "Teufenthal",
+      "id": "32eI0cVz6NQL"
+    },
+    {
+      "name": "Thalheim",
+      "id": "KGjq8qAT7JtQ"
+    },
+    {
+      "name": "Thalwil",
+      "id": "LZyBIoPFsR3P"
+    },
+    {
+      "name": "Thayngen",
+      "id": "oUj9xykhcZYh"
+    },
+    {
+      "name": "Therwil",
+      "id": "r8m2_O72vtDh"
+    },
+    {
+      "name": "Thielle",
+      "id": "DjxUofD-PsOw"
+    },
+    {
+      "name": "Thierachern",
+      "id": "SdKHRdZHYp_O"
+    },
+    {
+      "name": "Thierrens",
+      "id": "fjGmuvQjTnNB"
+    },
+    {
+      "name": "Thonex",
+      "id": "iEUd_U-KPs5O"
+    },
+    {
+      "name": "Thorishaus",
+      "id": "F744TQIEljQa"
+    },
+    {
+      "name": "Thun",
+      "id": "iOnSTf_3sGvJ"
+    },
+    {
+      "name": "Thundorf",
+      "id": "suoXQ6w4kQn1"
+    },
+    {
+      "name": "Thusis",
+      "id": "CebSrlP76HDE"
+    },
+    {
+      "name": "Toffen",
+      "id": "VP4moZDiFnW_"
+    },
+    {
+      "name": "Tramelan",
+      "id": "Q9hYgcACEY_p"
+    },
+    {
+      "name": "Trasadingen",
+      "id": "mlhj4NPWiB9J"
+    },
+    {
+      "name": "Travers",
+      "id": "yhDpikMuJ_om"
+    },
+    {
+      "name": "Treyvaux",
+      "id": "tD8U4PiyzxdT"
+    },
+    {
+      "name": "Triengen",
+      "id": "BZalLB6_rWU9"
+    },
+    {
+      "name": "Trimbach",
+      "id": "xE2c8t-Aa6QL"
+    },
+    {
+      "name": "Trimmis",
+      "id": "dyvi0_V39flC"
+    },
+    {
+      "name": "Trogen",
+      "id": "a99lM2KK4h6G"
+    },
+    {
+      "name": "Troistorrents",
+      "id": "JZtxkOZWXbnQ"
+    },
+    {
+      "name": "Trubbach",
+      "id": "6-BGop_vuWcM"
+    },
+    {
+      "name": "Trubschachen",
+      "id": "htDffuoUWLQC"
+    },
+    {
+      "name": "Trun",
+      "id": "VKrPo8OHM-XR"
+    },
+    {
+      "name": "Tschuggen",
+      "id": "Y7jHcdxQoEUL"
+    },
+    {
+      "name": "Tuggen",
+      "id": "7ikrAWxaJ7LV"
+    },
+    {
+      "name": "Turbenthal",
+      "id": "5dsfkDpU4Kj_"
+    },
+    {
+      "name": "Turgi",
+      "id": "2fh-7l9SnM-j"
+    },
+    {
+      "name": "Twann",
+      "id": "K-uqlrsMnB3r"
+    },
+    {
+      "name": "Udligenswil",
+      "id": "deNcwcN-eHWD"
+    },
+    {
+      "name": "Ueberstorf",
+      "id": "coAI6HJz6iod"
+    },
+    {
+      "name": "Uerikon",
+      "id": "uja5c6t1kt5w"
+    },
+    {
+      "name": "Uerkheim",
+      "id": "BCiB6lRQKsmF"
+    },
+    {
+      "name": "Uetendorf",
+      "id": "f3sYXj5RCh8X"
+    },
+    {
+      "name": "Uetikon",
+      "id": "_ypRGLCoqJqB"
+    },
+    {
+      "name": "Ufhusen",
+      "id": "9PEOGucYzgV9"
+    },
+    {
+      "name": "Uhwiesen",
+      "id": "uJyFalo7t7Cy"
+    },
+    {
+      "name": "Uitikon",
+      "id": "MJQo2KidI46L"
+    },
+    {
+      "name": "Ulrichen",
+      "id": "6sfNzk7XkD-t"
+    },
+    {
+      "name": "Unter-Teufen",
+      "id": "QQs0DXrlYPga"
+    },
+    {
+      "name": "Unterageri",
+      "id": "JMXBNUkthT_N"
+    },
+    {
+      "name": "Unterehrendingen",
+      "id": "nxi1Tmkyf517"
+    },
+    {
+      "name": "Unterengstringen",
+      "id": "_oBozWxOs9am"
+    },
+    {
+      "name": "Untererlinsbach",
+      "id": "IXTkTG7JjUzi"
+    },
+    {
+      "name": "Unteriberg",
+      "id": "p-iH85TBrazq"
+    },
+    {
+      "name": "Unterkulm",
+      "id": "9aFJPceePWns"
+    },
+    {
+      "name": "Unterlunkhofen",
+      "id": "ye-MJqeQ-n4o"
+    },
+    {
+      "name": "Unterseen",
+      "id": "nXYoRMUoeUeR"
+    },
+    {
+      "name": "Untersiggenthal",
+      "id": "CPMTJdXGGdos"
+    },
+    {
+      "name": "Untervaz",
+      "id": "CV7p-NugGOUe"
+    },
+    {
+      "name": "Ursenbach",
+      "id": "y0QfePw-IagP"
+    },
+    {
+      "name": "Urtenen",
+      "id": "M6T10hOEs0cJ"
+    },
+    {
+      "name": "Uster",
+      "id": "2nKjcYyqsZAj"
+    },
+    {
+      "name": "Utzenstorf",
+      "id": "n1j57NrxJ-DR"
+    },
+    {
+      "name": "Uznach",
+      "id": "5sIeehm-XYSh"
+    },
+    {
+      "name": "Uzwil",
+      "id": "erMTkFil9-qR"
+    },
+    {
+      "name": "Vacallo",
+      "id": "d_fqshWARZ8P"
+    },
+    {
+      "name": "Vallorbe",
+      "id": "eY4u8MuHoRYW"
+    },
+    {
+      "name": "Vandoeuvres",
+      "id": "OO2CK6wiGi0x"
+    },
+    {
+      "name": "Vauderens",
+      "id": "MnYfILf5HjsZ"
+    },
+    {
+      "name": "Vaulruz",
+      "id": "216aSzty4uDF"
+    },
+    {
+      "name": "Veltheim",
+      "id": "zn6ELGj5D0RX"
+    },
+    {
+      "name": "Verbier",
+      "id": "BtD0N9IUqDIW"
+    },
+    {
+      "name": "Vercorin",
+      "id": "L1d65u1yEmV7"
+    },
+    {
+      "name": "Vernayaz",
+      "id": "v42tDKGsH3p9"
+    },
+    {
+      "name": "Vernier",
+      "id": "VS9J2B7P5fBy"
+    },
+    {
+      "name": "Verscio",
+      "id": "vmwmxkORGIPt"
+    },
+    {
+      "name": "Versoix",
+      "id": "KcOYAK4J0M0C"
+    },
+    {
+      "name": "Vesenaz",
+      "id": "ndTLPLEZgNM5"
+    },
+    {
+      "name": "Vessy",
+      "id": "mLYcPHNtNV84"
+    },
+    {
+      "name": "Vetroz",
+      "id": "s1_1DbCJNRtv"
+    },
+    {
+      "name": "Vevey",
+      "id": "1vW_n7ZUotRa"
+    },
+    {
+      "name": "Vex",
+      "id": "JAzWRWLFKZqO"
+    },
+    {
+      "name": "Veyrier",
+      "id": "p0XH8aYLzqVk"
+    },
+    {
+      "name": "Veytaux",
+      "id": "ys2DVrpmtHlV"
+    },
+    {
+      "name": "Vicques",
+      "id": "TScYI5HfuHM0"
+    },
+    {
+      "name": "Viganello",
+      "id": "VLiSVVQQ92il"
+    },
+    {
+      "name": "Villa",
+      "id": "ByX8nkqP2GlJ"
+    },
+    {
+      "name": "Villars",
+      "id": "i7kqJb66VFgm"
+    },
+    {
+      "name": "Villars-sur-Glane",
+      "id": "zCC_ZhkK-jjI"
+    },
+    {
+      "name": "Villars-sur-Ollon",
+      "id": "i9VXUxx7F6de"
+    },
+    {
+      "name": "Villaz-Saint-Pierre",
+      "id": "9k9y6Wd-v7jV"
+    },
+    {
+      "name": "Villeneuve",
+      "id": "5lY_ZRf36k7q"
+    },
+    {
+      "name": "Villeret",
+      "id": "PhlPrBF0NuD6"
+    },
+    {
+      "name": "Villigen",
+      "id": "-Xsnj_fee7KL"
+    },
+    {
+      "name": "Villmergen",
+      "id": "aFOJYg7LJant"
+    },
+    {
+      "name": "Villnachern",
+      "id": "33DH6ddQWqyj"
+    },
+    {
+      "name": "Vilters",
+      "id": "Yq1jQU2kzOdw"
+    },
+    {
+      "name": "Vinzel",
+      "id": "fDAEtKRpTNb9"
+    },
+    {
+      "name": "Vionnaz",
+      "id": "mdsCbnNxXc3P"
+    },
+    {
+      "name": "Visp",
+      "id": "6XobGC1a-F3u"
+    },
+    {
+      "name": "Vitznau",
+      "id": "bw240giGZDsE"
+    },
+    {
+      "name": "Volketswil",
+      "id": "0amWiK05Uw1D"
+    },
+    {
+      "name": "Vordemwald",
+      "id": "kMXRBPTk5b2s"
+    },
+    {
+      "name": "Vouvry",
+      "id": "Auj4gHpufvUl"
+    },
+    {
+      "name": "Vuadens",
+      "id": "9yRAkV54e32V"
+    },
+    {
+      "name": "Vuiteboeuf",
+      "id": "CAZvTjQB3VWU"
+    },
+    {
+      "name": "Vullierens",
+      "id": "RD7byebBIgx-"
+    },
+    {
+      "name": "Wabern",
+      "id": "D76Vok5a1B5k"
+    },
+    {
+      "name": "Wadenswil",
+      "id": "qpDi2YaIR3r5"
+    },
+    {
+      "name": "Wagenhausen",
+      "id": "tGP12F3OVcxF"
+    },
+    {
+      "name": "Wahlen",
+      "id": "ogUkwOU0jf0N"
+    },
+    {
+      "name": "Walchwil",
+      "id": "MLpuwlxtNuQE"
+    },
+    {
+      "name": "Wald",
+      "id": "mYK1xWqPtNLQ"
+    },
+    {
+      "name": "Waldenburg",
+      "id": "rdOT7_IVsKMa"
+    },
+    {
+      "name": "Waldhaus",
+      "id": "AJjzg8qFFPw4"
+    },
+    {
+      "name": "Waldkirch",
+      "id": "YuR-di6x0864"
+    },
+    {
+      "name": "Waldstatt",
+      "id": "6lWxfVuc89y8"
+    },
+    {
+      "name": "Walkringen",
+      "id": "FZgDx_bpYZGx"
+    },
+    {
+      "name": "Wallisellen",
+      "id": "kQ2VLe2TaURe"
+    },
+    {
+      "name": "Waltenschwil",
+      "id": "fszVPCBMs1zV"
+    },
+    {
+      "name": "Walzenhausen",
+      "id": "sid6OWAlZDXQ"
+    },
+    {
+      "name": "Wangen",
+      "id": "qKLYC1ex7ZWA"
+    },
+    {
+      "name": "Wangen an der Aare",
+      "id": "FTrC9bzLgjk2"
+    },
+    {
+      "name": "Wangi",
+      "id": "u76Cx_f3BPSO"
+    },
+    {
+      "name": "Wangs",
+      "id": "T3NhU0piU3Jx"
+    },
+    {
+      "name": "Wasen",
+      "id": "0WUwmAzGEkPD"
+    },
+    {
+      "name": "Wattwil",
+      "id": "0xHlB44Qw4at"
+    },
+    {
+      "name": "Wauwil",
+      "id": "eWtajVy2OW5i"
+    },
+    {
+      "name": "Weesen",
+      "id": "YlZYTSau1PE7"
+    },
+    {
+      "name": "Wegenstetten",
+      "id": "qzgzzUh9KxZN"
+    },
+    {
+      "name": "Weggis",
+      "id": "lCn7RjeOLEsO"
+    },
+    {
+      "name": "Weinfelden",
+      "id": "kytoakM6869k"
+    },
+    {
+      "name": "Weiningen",
+      "id": "hx1qJpOgI9p1"
+    },
+    {
+      "name": "Weissbad",
+      "id": "-qYZUc2srLFM"
+    },
+    {
+      "name": "Weisslingen",
+      "id": "5-47Jbbj8Icz"
+    },
+    {
+      "name": "Welschenrohr",
+      "id": "8Ele7e88nZJU"
+    },
+    {
+      "name": "Wengen",
+      "id": "7Q8gfC83J_S-"
+    },
+    {
+      "name": "Werthenstein",
+      "id": "i2U7guEIvGxv"
+    },
+    {
+      "name": "Wettingen",
+      "id": "FmTd2rQA2Cy0"
+    },
+    {
+      "name": "Wetzikon",
+      "id": "c6bZDXEfq2iU"
+    },
+    {
+      "name": "Wichtrach",
+      "id": "htc9FBFuXzIZ"
+    },
+    {
+      "name": "Wiedlisbach",
+      "id": "I_Xj6Tp5abzf"
+    },
+    {
+      "name": "Wiesendangen",
+      "id": "Z4PRN0qbBPvr"
+    },
+    {
+      "name": "Wigoltingen",
+      "id": "KIWOX-C5pu3k"
+    },
+    {
+      "name": "Wikon",
+      "id": "hYmRmnEv467T"
+    },
+    {
+      "name": "Wil",
+      "id": "YOtBAnb3jX8W"
+    },
+    {
+      "name": "Wila",
+      "id": "KqqCAlfbM5q3"
+    },
+    {
+      "name": "Wildegg",
+      "id": "BxN73eq-Lvnq"
+    },
+    {
+      "name": "Wilderswil",
+      "id": "bsGgp8b2jLA5"
+    },
+    {
+      "name": "Wileroltigen",
+      "id": "ArYmXKUuxo02"
+    },
+    {
+      "name": "Willisau",
+      "id": "oVrh08t8X9pZ"
+    },
+    {
+      "name": "Wimmis",
+      "id": "CYx3FRocCDHH"
+    },
+    {
+      "name": "Windisch",
+      "id": "1wE8JM2lEI8H"
+    },
+    {
+      "name": "Winkel",
+      "id": "pIhsDese4Qem"
+    },
+    {
+      "name": "Winterberg",
+      "id": "oPhrYAERleIj"
+    },
+    {
+      "name": "Winterthur",
+      "id": "igkKJ5UnEZYW"
+    },
+    {
+      "name": "Wittenbach",
+      "id": "0HZ5qPYov192"
+    },
+    {
+      "name": "Wittnau",
+      "id": "YRuXgQS4OmFC"
+    },
+    {
+      "name": "Wohlen",
+      "id": "TX-qoKpz0njW"
+    },
+    {
+      "name": "Wolfenschiessen",
+      "id": "TbVfNFTfBazy"
+    },
+    {
+      "name": "Wolfgang",
+      "id": "DiMZpKHuNwmJ"
+    },
+    {
+      "name": "Wolfhalden",
+      "id": "y-ONuT49Twn0"
+    },
+    {
+      "name": "Wolfwil",
+      "id": "lvKoiBVCs61W"
+    },
+    {
+      "name": "Wolhusen",
+      "id": "NacPb6aJLLZd"
+    },
+    {
+      "name": "Wollerau",
+      "id": "Bxinb3IxGb0n"
+    },
+    {
+      "name": "Worb",
+      "id": "QBRhPFsfvE1B"
+    },
+    {
+      "name": "Worben",
+      "id": "rVPjmgfCMkIx"
+    },
+    {
+      "name": "Worblaufen",
+      "id": "IDNK2WkyYNNR"
+    },
+    {
+      "name": "Wuppenau",
+      "id": "gg9n55uILLcU"
+    },
+    {
+      "name": "Wurenlingen",
+      "id": "oOL0HP7tJuvf"
+    },
+    {
+      "name": "Wurenlos",
+      "id": "-glovnePZRW4"
+    },
+    {
+      "name": "Wynau",
+      "id": "MsXJQBlPvoAE"
+    },
+    {
+      "name": "Yens",
+      "id": "-_AoXfSnZfMu"
+    },
+    {
+      "name": "Yverdon-les-Bains",
+      "id": "ImB3YnzqEDCl"
+    },
+    {
+      "name": "Yvonand",
+      "id": "f7L0EOci8Qgo"
+    },
+    {
+      "name": "Yvorne",
+      "id": "gLPGwK2yh2_e"
+    },
+    {
+      "name": "Zaziwil",
+      "id": "CI6bQTM5N1mN"
+    },
+    {
+      "name": "Zeglingen",
+      "id": "jlg8ecyIcVt5"
+    },
+    {
+      "name": "Zeihen",
+      "id": "EO-vl9fi-cQC"
+    },
+    {
+      "name": "Zell",
+      "id": "3uO4susfk46I"
+    },
+    {
+      "name": "Zermatt",
+      "id": "gS62Gs7SbOfe"
+    },
+    {
+      "name": "Ziegelbrucke",
+      "id": "wTZrNHjqqox6"
+    },
+    {
+      "name": "Zihlschlacht",
+      "id": "FcNvnbHEoGWl"
+    },
+    {
+      "name": "Zizers",
+      "id": "pyyhsJv5v-Er"
+    },
+    {
+      "name": "Zofingen",
+      "id": "o0AdC2X9b1kW"
+    },
+    {
+      "name": "Zollbruck",
+      "id": "LipyAbPRu4Vh"
+    },
+    {
+      "name": "Zollikofen",
+      "id": "BAUPvUnti2PO"
+    },
+    {
+      "name": "Zollikon",
+      "id": "TN9ZhHOOD4Og"
+    },
+    {
+      "name": "Zuchwil",
+      "id": "icK4m-SINJMD"
+    },
+    {
+      "name": "Zuckenriet",
+      "id": "jZg_fG7V2spK"
+    },
+    {
+      "name": "Zufikon",
+      "id": "Q0x1YWwUIdMH"
+    },
+    {
+      "name": "Zug",
+      "id": "uxeGTvTm4ESs"
+    },
+    {
+      "name": "Zullwil",
+      "id": "IzIh20uJ_stf"
+    },
+    {
+      "name": "Zumikon",
+      "id": "53Bn65cg1b7R"
+    },
+    {
+      "name": "Zunzgen",
+      "id": "TGNn_aq_3YES"
+    },
+    {
+      "name": "Zurich",
+      "id": "asr_adn2-b_8"
+    },
+    {
+      "name": "Zuzgen",
+      "id": "Z7qK-UcAgfov"
+    },
+    {
+      "name": "Zuzwil",
+      "id": "-aXyO_aCrTTu"
+    },
+    {
+      "name": "Zwingen",
+      "id": "d0RX1mNbzg-K"
+    }
   ]
 }

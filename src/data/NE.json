@@ -1,15 +1,45 @@
 {
   "coid": "NE",
   "cities": [
-    { "name": "Niamey", "id": "c93b2f5c6d77" },
-    { "name": "Zinder", "id": "d04c3a6d7e88" },
-    { "name": "Maradi", "id": "e15d4b7e8f99" },
-    { "name": "Agadez", "id": "f26e5c8f9a10" },
-    { "name": "Tahoua", "id": "a37f6d9a0b21" },
-    { "name": "Dosso", "id": "b48a7e0b1c32" },
-    { "name": "Diffa", "id": "c59b8f1c2d43" },
-    { "name": "Tillabéri", "id": "d60c9a2d3e54" },
-    { "name": "Gaya", "id": "e71d0b3e4f65" },
-    { "name": "Tessaoua", "id": "f82e1c4f5a76" }
+    {
+      "name": "Niamey",
+      "id": "ECz88PfN4cdu"
+    },
+    {
+      "name": "Zinder",
+      "id": "_ouVipRngh6I"
+    },
+    {
+      "name": "Maradi",
+      "id": "Icfrl2NL5Ndq"
+    },
+    {
+      "name": "Agadez",
+      "id": "R1r_SScq7VvE"
+    },
+    {
+      "name": "Tahoua",
+      "id": "ApVcOGsTzwbY"
+    },
+    {
+      "name": "Dosso",
+      "id": "cvheMk-UDvNr"
+    },
+    {
+      "name": "Diffa",
+      "id": "SESLLR1_RzmW"
+    },
+    {
+      "name": "Tillabéri",
+      "id": "3cNU5jLXUTKV"
+    },
+    {
+      "name": "Gaya",
+      "id": "BDg1DBRmaJYZ"
+    },
+    {
+      "name": "Tessaoua",
+      "id": "FEzWJ2PQcEzw"
+    }
   ]
 }

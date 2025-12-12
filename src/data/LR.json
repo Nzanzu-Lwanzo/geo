@@ -1,15 +1,45 @@
 {
   "coid": "LR",
   "cities": [
-    { "name": "Monrovia", "id": "a93f2d5a6b87" },
-    { "name": "Gbarnga", "id": "b04a3e6b7c98" },
-    { "name": "Kakata", "id": "c15b4f7c8d09" },
-    { "name": "Bensonville", "id": "d26c5a8d9e10" },
-    { "name": "Harper", "id": "e37d6b9e0f21" },
-    { "name": "Voinjama", "id": "f48e7c0f1a32" },
-    { "name": "Zwedru", "id": "a59f8d1a2b43" },
-    { "name": "Buchanan", "id": "b60a9e2b3c54" },
-    { "name": "Sanniquellie", "id": "c71b0f3c4d65" },
-    { "name": "Greenville", "id": "d82c1a4d5e76" }
+    {
+      "name": "Monrovia",
+      "id": "fap3WBX9Vvo7"
+    },
+    {
+      "name": "Gbarnga",
+      "id": "uWoOFLzUCSu3"
+    },
+    {
+      "name": "Kakata",
+      "id": "nSQc6pHMiCmA"
+    },
+    {
+      "name": "Bensonville",
+      "id": "k8HkpCm8ikwx"
+    },
+    {
+      "name": "Harper",
+      "id": "k2KXXlyEzKWz"
+    },
+    {
+      "name": "Voinjama",
+      "id": "3EcWAo9hd6ZJ"
+    },
+    {
+      "name": "Zwedru",
+      "id": "mTL69brrsJOS"
+    },
+    {
+      "name": "Buchanan",
+      "id": "mIL1_w_0UuEU"
+    },
+    {
+      "name": "Sanniquellie",
+      "id": "Q9X4MhR1iV3l"
+    },
+    {
+      "name": "Greenville",
+      "id": "w93g8-JvDuaz"
+    }
   ]
 }

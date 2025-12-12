@@ -1,15 +1,25 @@
 {
   "coid": "LY",
   "cities": [
-    { "name": "Tripoli", "id": "c91f3a2d9b7e" },
-    { "name": "Benghazi", "id": "d28e1f9ac4d2" },
-    { "name": "Misrata", "id": "e39d7b1e0f52" },
-    { "name": "Zawiya", "id": "f84a2c7f1e93" },
-    { "name": "Bayda", "id": "a72b9d4c3a10" },
-    { "name": "Tobruk", "id": "b63c1a8e5b27" },
-    { "name": "Sabha", "id": "c72d9c4f1b83" },
-    { "name": "Derna", "id": "d91e3f7a2c64" },
-    { "name": "Sirte", "id": "e58f2a9d7e31" },
-    { "name": "Gharyan", "id": "f47b1c6e9f20" }
+    {
+      "name": "Benghazi",
+      "id": "rrpimawLrkIg"
+    },
+    {
+      "name": "Misratah",
+      "id": "AdAzQx_fabPE"
+    },
+    {
+      "name": "Sabha",
+      "id": "och1PMFzScD7"
+    },
+    {
+      "name": "Tripoli",
+      "id": "ghfyUWQDyB6v"
+    },
+    {
+      "name": "Zliten",
+      "id": "alUh8Rhh0Fgo"
+    }
   ]
 }

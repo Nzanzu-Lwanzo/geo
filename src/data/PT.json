@@ -1,15 +1,2697 @@
 {
   "coid": "PT",
   "cities": [
-    { "name": "Lisbon", "id": "e93d2b4e5f66" },
-    { "name": "Porto", "id": "f04e3c5f6a77" },
-    { "name": "Vila Nova de Gaia", "id": "a15f4d6a7b88" },
-    { "name": "Amadora", "id": "b26a5e7b8c99" },
-    { "name": "Braga", "id": "c37b6f8c9d10" },
-    { "name": "Coimbra", "id": "d48c7a9d0e21" },
-    { "name": "Funchal", "id": "e59d8b1e2f33" },
-    { "name": "Setúbal", "id": "f60e9c2f3a44" },
-    { "name": "Queluz", "id": "a71f0d3a4b55" },
-    { "name": "Aveiro", "id": "b82a1e4b5c66" }
+    {
+      "name": "Abobada",
+      "id": "03100tOnz8SO"
+    },
+    {
+      "name": "Abrantes",
+      "id": "KcfF7mWfRHfF"
+    },
+    {
+      "name": "Acores",
+      "id": "oGOPtIlFITuB"
+    },
+    {
+      "name": "Aguada de Cima",
+      "id": "Q0RRfH7QZFtw"
+    },
+    {
+      "name": "Agualva",
+      "id": "8lETa-tXt-Mu"
+    },
+    {
+      "name": "Agucadoura",
+      "id": "-nZO8EnQsI5e"
+    },
+    {
+      "name": "Aguiar da Beira Municipality",
+      "id": "irngYC4TeP4d"
+    },
+    {
+      "name": "Alandroal",
+      "id": "YNUTFYuZnBm0"
+    },
+    {
+      "name": "Albergaria-a-Velha",
+      "id": "FuT4Cq-a0I4K"
+    },
+    {
+      "name": "Albufeira",
+      "id": "wanAzbpldEHL"
+    },
+    {
+      "name": "Alcabideche",
+      "id": "_N9JYx0dXdsU"
+    },
+    {
+      "name": "Alcacer do Sal",
+      "id": "mQR9JfuBH8JT"
+    },
+    {
+      "name": "Alcains",
+      "id": "bJO3hQSZUfws"
+    },
+    {
+      "name": "Alcanede",
+      "id": "rwTElZGzXVHu"
+    },
+    {
+      "name": "Alcanena",
+      "id": "SotyrixzBKHx"
+    },
+    {
+      "name": "Alcobaca",
+      "id": "L9k_nHgoUdQ3"
+    },
+    {
+      "name": "Alcochete",
+      "id": "59LI15E1U1E_"
+    },
+    {
+      "name": "Alcoentre",
+      "id": "uVO6PDFw1HHZ"
+    },
+    {
+      "name": "Aldeia de Paio Pires",
+      "id": "SwM1LMCSewVf"
+    },
+    {
+      "name": "Aldeia do Meio",
+      "id": "DddSsiE6mpyf"
+    },
+    {
+      "name": "Aldeia dos Fernandes",
+      "id": "aYRMTdRzTahs"
+    },
+    {
+      "name": "Alenquer",
+      "id": "yn1nKmJLbuff"
+    },
+    {
+      "name": "Alfarelos",
+      "id": "BFa17nt6OzCQ"
+    },
+    {
+      "name": "Alfena",
+      "id": "FIaICy5L2L5M"
+    },
+    {
+      "name": "Alfornelos",
+      "id": "1MBCZqfPOD1x"
+    },
+    {
+      "name": "Alfragide",
+      "id": "jEcSxAIDlNHk"
+    },
+    {
+      "name": "Alges",
+      "id": "DtJVr4n7LjdQ"
+    },
+    {
+      "name": "Algoz",
+      "id": "Y3mM1BsW54FS"
+    },
+    {
+      "name": "Algueirao",
+      "id": "hFgm-0wAdwER"
+    },
+    {
+      "name": "Alhandra",
+      "id": "sIC54JkNvIUD"
+    },
+    {
+      "name": "Alhos Vedros",
+      "id": "mVefGSS1dHrd"
+    },
+    {
+      "name": "Aljezur",
+      "id": "7DzcXNrr7BdJ"
+    },
+    {
+      "name": "Aljustrel",
+      "id": "pSgYlcG41Hsw"
+    },
+    {
+      "name": "Almada",
+      "id": "jYXl6S4FIMRk"
+    },
+    {
+      "name": "Almancil",
+      "id": "UXvNVS5F6X7-"
+    },
+    {
+      "name": "Almargem",
+      "id": "HKHAHtltyujk"
+    },
+    {
+      "name": "Almeirim",
+      "id": "L_MkuoePuSn3"
+    },
+    {
+      "name": "Almodovar",
+      "id": "0-vRvG52JxXr"
+    },
+    {
+      "name": "Alpiarca",
+      "id": "N5rKKaQbtBns"
+    },
+    {
+      "name": "Alportel",
+      "id": "lE06C91VW-qW"
+    },
+    {
+      "name": "Alqueidao da Serra",
+      "id": "ZxDgnzQGRBat"
+    },
+    {
+      "name": "Alter do Chao",
+      "id": "FpboCRIMgDeS"
+    },
+    {
+      "name": "Altura",
+      "id": "dbbtZkkSvMr2"
+    },
+    {
+      "name": "Alvaiazere",
+      "id": "3c6itTuDCkwk"
+    },
+    {
+      "name": "Alvarinhos",
+      "id": "kdVTgCC-HKZK"
+    },
+    {
+      "name": "Alvelos",
+      "id": "xeQiNrSHiOBf"
+    },
+    {
+      "name": "Alverca",
+      "id": "OuvGd0ZNoODO"
+    },
+    {
+      "name": "Amadora",
+      "id": "wtWFts5QIKQc"
+    },
+    {
+      "name": "Amarante",
+      "id": "gbV3L6G-e3kk"
+    },
+    {
+      "name": "Amares",
+      "id": "OGOO52aznuLe"
+    },
+    {
+      "name": "Amiaes de Cima",
+      "id": "SAHDNr2DgvQ_"
+    },
+    {
+      "name": "Amor",
+      "id": "97POu8AoaPyC"
+    },
+    {
+      "name": "Amora",
+      "id": "4hz6y9LDI67y"
+    },
+    {
+      "name": "Amoreira",
+      "id": "H43bZvkdkikv"
+    },
+    {
+      "name": "Amorim",
+      "id": "73-BYvM_BpCq"
+    },
+    {
+      "name": "Anadia",
+      "id": "B9ipYE_gavf2"
+    },
+    {
+      "name": "Anta",
+      "id": "A8RHEuo-2X33"
+    },
+    {
+      "name": "Apulia",
+      "id": "ZRTUTgIYPlqm"
+    },
+    {
+      "name": "Arazede",
+      "id": "YD-Po7vr5Li1"
+    },
+    {
+      "name": "Arco da Calheta",
+      "id": "eKnl_qvUiH3P"
+    },
+    {
+      "name": "Arcos de Valdevez",
+      "id": "DjMF7YxVQSmd"
+    },
+    {
+      "name": "Arcozelo",
+      "id": "OZGmxOcuWJoT"
+    },
+    {
+      "name": "Arganil",
+      "id": "JnpdpxzCV1AA"
+    },
+    {
+      "name": "Argoncilhe",
+      "id": "L0Yknlja8HIU"
+    },
+    {
+      "name": "Armacao de Pera",
+      "id": "itLSHrPkqa82"
+    },
+    {
+      "name": "Arouca",
+      "id": "1hJalxrpCvks"
+    },
+    {
+      "name": "Arraiolos",
+      "id": "4uv6h4Zb-Qgt"
+    },
+    {
+      "name": "Arrifana",
+      "id": "TqdgUiUfkmr4"
+    },
+    {
+      "name": "Arronches",
+      "id": "mCQf1fJUxGxx"
+    },
+    {
+      "name": "Arruda dos Vinhos",
+      "id": "d9uez_ZCB__Q"
+    },
+    {
+      "name": "Arvore",
+      "id": "-xGi584Pu0HW"
+    },
+    {
+      "name": "Assumar",
+      "id": "VAEc8429lX9N"
+    },
+    {
+      "name": "Atalaia",
+      "id": "KBrxvLXUQAzg"
+    },
+    {
+      "name": "Atouguia da Baleia",
+      "id": "aTuSJ7aGpEKL"
+    },
+    {
+      "name": "Avanca",
+      "id": "MJ6QraKzBjLE"
+    },
+    {
+      "name": "Aveiras de Cima",
+      "id": "Bz5aadZn4SqQ"
+    },
+    {
+      "name": "Aveiro",
+      "id": "mr89YmFa8eam"
+    },
+    {
+      "name": "Avelar",
+      "id": "4hf8uQP5K-bJ"
+    },
+    {
+      "name": "Avidos",
+      "id": "tgI5XWoNyeQS"
+    },
+    {
+      "name": "Avintes",
+      "id": "572EU6jHItZC"
+    },
+    {
+      "name": "Azoia",
+      "id": "HjFLgkH8eiAL"
+    },
+    {
+      "name": "Azueira",
+      "id": "MLTPNUAU5DfK"
+    },
+    {
+      "name": "Azurem",
+      "id": "sRHqXRjmnhnt"
+    },
+    {
+      "name": "Baguim",
+      "id": "aftBQK8Z-SXq"
+    },
+    {
+      "name": "Baguim do Monte",
+      "id": "gwAMII2P-6Ft"
+    },
+    {
+      "name": "Baleia",
+      "id": "muLYiKK1rCAe"
+    },
+    {
+      "name": "Baltar",
+      "id": "usYlj59ZkO2x"
+    },
+    {
+      "name": "Barcarena",
+      "id": "0DAZpGA7qlmF"
+    },
+    {
+      "name": "Barcelos",
+      "id": "zKPkTMxIocIs"
+    },
+    {
+      "name": "Barreiro",
+      "id": "OIDFHMzigsSH"
+    },
+    {
+      "name": "Barrosas",
+      "id": "ljdXEF7UgwnA"
+    },
+    {
+      "name": "Basto",
+      "id": "mnQxed5n_zwH"
+    },
+    {
+      "name": "Batalha",
+      "id": "ol7aY0qsAyon"
+    },
+    {
+      "name": "Beira",
+      "id": "zrKSb3DsSLnA"
+    },
+    {
+      "name": "Beja",
+      "id": "Mb5H1Bv3wIoT"
+    },
+    {
+      "name": "Belas",
+      "id": "JtrnNAEG9ApD"
+    },
+    {
+      "name": "Belmonte",
+      "id": "qNgz_DILIdF8"
+    },
+    {
+      "name": "Bemfica",
+      "id": "-NXsdrZXccw4"
+    },
+    {
+      "name": "Benafim",
+      "id": "jK-ypz9bOuDz"
+    },
+    {
+      "name": "Benavente",
+      "id": "pkVzXeKkdj9l"
+    },
+    {
+      "name": "Benedita",
+      "id": "yKYJ2bQD8Eap"
+    },
+    {
+      "name": "Bicesse",
+      "id": "uFlEY4OQfJec"
+    },
+    {
+      "name": "Bico",
+      "id": "g9BL9aMkFrOa"
+    },
+    {
+      "name": "Boavista",
+      "id": "gGtyb5wfdQBT"
+    },
+    {
+      "name": "Bobadela",
+      "id": "vtTNOYfhQ5Vu"
+    },
+    {
+      "name": "Boliqueime",
+      "id": "0TgY9ZR3HOvL"
+    },
+    {
+      "name": "Bombarral",
+      "id": "GNANFHSjpQmb"
+    },
+    {
+      "name": "Borba",
+      "id": "EkD1CRbx467b"
+    },
+    {
+      "name": "Boticas",
+      "id": "dnBRsPWT2uhR"
+    },
+    {
+      "name": "Bouca",
+      "id": "2_n8G-PUtEtx"
+    },
+    {
+      "name": "Braga",
+      "id": "QdQg1txA4Zzz"
+    },
+    {
+      "name": "Braganca",
+      "id": "_JIBulWdFQRe"
+    },
+    {
+      "name": "Brito",
+      "id": "MA8JpTsEc6Yf"
+    },
+    {
+      "name": "Bucelas",
+      "id": "T7x8K6AW2sPv"
+    },
+    {
+      "name": "Buraca",
+      "id": "PSCMOGHm_PhP"
+    },
+    {
+      "name": "Cabanelas",
+      "id": "jbI_koiFcD1C"
+    },
+    {
+      "name": "Cabeceiras de Basto",
+      "id": "aDFlFw7o6rzd"
+    },
+    {
+      "name": "Cabeco de Vide",
+      "id": "ATMDAO2o13IF"
+    },
+    {
+      "name": "Cabecudos",
+      "id": "YwwexspjwDcr"
+    },
+    {
+      "name": "Cabrela",
+      "id": "AWX6f3h95pTS"
+    },
+    {
+      "name": "Cacela",
+      "id": "woBlMMyhy9-4"
+    },
+    {
+      "name": "Cacem",
+      "id": "9oE-hBbG9lCQ"
+    },
+    {
+      "name": "Cacilhas",
+      "id": "z-LcTB9p6fbY"
+    },
+    {
+      "name": "Cadaval",
+      "id": "ByRG71SBtFvN"
+    },
+    {
+      "name": "Caldas",
+      "id": "BXqbDh2M7pIC"
+    },
+    {
+      "name": "Caldas da Rainha",
+      "id": "HgtXNdHAwXzA"
+    },
+    {
+      "name": "Caldas das Taipas",
+      "id": "zKPl_Tw4J7p8"
+    },
+    {
+      "name": "Caldas de Sao Jorge",
+      "id": "xsG_OqWlvyl3"
+    },
+    {
+      "name": "Caldas de Vizela",
+      "id": "WXKw5x0_vk8f"
+    },
+    {
+      "name": "Calvao",
+      "id": "myuWEFFxd6F1"
+    },
+    {
+      "name": "Calvaria de Cima",
+      "id": "ZDkp72hZlXzh"
+    },
+    {
+      "name": "Camarate",
+      "id": "haO0MO3F2JPz"
+    },
+    {
+      "name": "Caminha",
+      "id": "HcXI8Jzm88je"
+    },
+    {
+      "name": "Campanario",
+      "id": "vj2gd-vFyeWJ"
+    },
+    {
+      "name": "Campia",
+      "id": "sLrSx3QAMK7N"
+    },
+    {
+      "name": "Campinho",
+      "id": "BuqYDG3E12NE"
+    },
+    {
+      "name": "Campo",
+      "id": "ku5BC1FUZ94u"
+    },
+    {
+      "name": "Campo Maior",
+      "id": "0c4nUGbqBoHn"
+    },
+    {
+      "name": "Canecas",
+      "id": "6kL2_Wi2wS1g"
+    },
+    {
+      "name": "Canedo",
+      "id": "OabueER0ri2v"
+    },
+    {
+      "name": "Canelas",
+      "id": "nbZBsN3_qDdv"
+    },
+    {
+      "name": "Canhas",
+      "id": "F2DZEPoAyVUA"
+    },
+    {
+      "name": "Canical",
+      "id": "gO8WXsZchwew"
+    },
+    {
+      "name": "Canico",
+      "id": "V-v4po5pENIo"
+    },
+    {
+      "name": "Canidelo",
+      "id": "ZfZGk9-xhJfQ"
+    },
+    {
+      "name": "Cano",
+      "id": "wQRwhna4Rw4D"
+    },
+    {
+      "name": "Cantanhede",
+      "id": "jDMQ-nYVC_K8"
+    },
+    {
+      "name": "Caparica",
+      "id": "OjmvRWBfQuyM"
+    },
+    {
+      "name": "Caramulo",
+      "id": "SB7E3CM-D2ha"
+    },
+    {
+      "name": "Carapinheira",
+      "id": "EeydWqkCMCdP"
+    },
+    {
+      "name": "Carcavelos",
+      "id": "kSrETrscFyU_"
+    },
+    {
+      "name": "Carnaxide",
+      "id": "Iy4hNRjULdAB"
+    },
+    {
+      "name": "Carrazedo",
+      "id": "nngcEXbvJ-_2"
+    },
+    {
+      "name": "Carregado",
+      "id": "WcJmFsXDt8HG"
+    },
+    {
+      "name": "Carrico",
+      "id": "TuTiB4nK_om7"
+    },
+    {
+      "name": "Cartaxo",
+      "id": "mCDzunYFrWtL"
+    },
+    {
+      "name": "Carvalhal",
+      "id": "pNhjmt67Ww8F"
+    },
+    {
+      "name": "Carvalho",
+      "id": "CVdDh95eMfIn"
+    },
+    {
+      "name": "Carvalhosa",
+      "id": "_PkSyhkIJqvU"
+    },
+    {
+      "name": "Carvoeiro",
+      "id": "wkGMxF1qSGl8"
+    },
+    {
+      "name": "Casal",
+      "id": "Ye-FCaF1TJSo"
+    },
+    {
+      "name": "Casal da Areia",
+      "id": "Bl67cHV8Mg77"
+    },
+    {
+      "name": "Cascais",
+      "id": "IgVrR3XQQ4R2"
+    },
+    {
+      "name": "Castanheira do Ribatejo",
+      "id": "e5Te5amaqYqg"
+    },
+    {
+      "name": "Castelejo",
+      "id": "avFYn5f55de1"
+    },
+    {
+      "name": "Castelo",
+      "id": "kn3hVXc_4w6u"
+    },
+    {
+      "name": "Castelo Branco",
+      "id": "iCUbs7P8HG0h"
+    },
+    {
+      "name": "Castelo de Paiva",
+      "id": "kEC2oqOKJQZT"
+    },
+    {
+      "name": "Castro Daire",
+      "id": "PMswRCypRBFz"
+    },
+    {
+      "name": "Castro Marim",
+      "id": "VQJ7ZU5pYvYp"
+    },
+    {
+      "name": "Castro Verde Municipality",
+      "id": "ScoWJ8-fKzfq"
+    },
+    {
+      "name": "Catraia de Sao Paio",
+      "id": "dV1meLAk_9pU"
+    },
+    {
+      "name": "Cavaleiros",
+      "id": "2YxV8Sl7Afrf"
+    },
+    {
+      "name": "Cavaloes",
+      "id": "tdY3CwtSZWn_"
+    },
+    {
+      "name": "Caxias",
+      "id": "joq36FNTdYmS"
+    },
+    {
+      "name": "Ceira",
+      "id": "5JWY_QhZD8Wj"
+    },
+    {
+      "name": "Celorico de Basto",
+      "id": "witBy4EZG-za"
+    },
+    {
+      "name": "Cercal",
+      "id": "5I6gt9EtEFNB"
+    },
+    {
+      "name": "Cernache",
+      "id": "3c-K7Ckple3j"
+    },
+    {
+      "name": "Cesar",
+      "id": "yGy2rbZrWiHs"
+    },
+    {
+      "name": "Chao de Couce",
+      "id": "99VAsjWEgTCr"
+    },
+    {
+      "name": "Charneca",
+      "id": "zC8Bdk5fL4Te"
+    },
+    {
+      "name": "Chaves",
+      "id": "L3amCEKyfvG9"
+    },
+    {
+      "name": "Cidade",
+      "id": "YWIZ92lKwWTM"
+    },
+    {
+      "name": "Cinfaes",
+      "id": "tGp_CHNKR8tR"
+    },
+    {
+      "name": "Coimbra",
+      "id": "v6UlBELbiVwk"
+    },
+    {
+      "name": "Colares",
+      "id": "XqEdyUqwuGFW"
+    },
+    {
+      "name": "Colmeias",
+      "id": "eD_KjzWonbP0"
+    },
+    {
+      "name": "Condeixa-a-Nova",
+      "id": "igdw9KfBMlNd"
+    },
+    {
+      "name": "Constance",
+      "id": "K58E-JHBGaX2"
+    },
+    {
+      "name": "Constancia",
+      "id": "9jj1rFZ3Ervr"
+    },
+    {
+      "name": "Corroios",
+      "id": "7AWPI5l61fhB"
+    },
+    {
+      "name": "Cortegaca",
+      "id": "IoQdkTey4ZZQ"
+    },
+    {
+      "name": "Costa de Caparica",
+      "id": "6fxAHzKGm369"
+    },
+    {
+      "name": "Costa de Lavos",
+      "id": "YLEoirg4Jt-l"
+    },
+    {
+      "name": "Covilha",
+      "id": "NcpfuGIs14Z7"
+    },
+    {
+      "name": "Creixomil",
+      "id": "y9jyu3LGZjPc"
+    },
+    {
+      "name": "Cruz Quebrada",
+      "id": "4a9qhzJB1eFw"
+    },
+    {
+      "name": "Cuba",
+      "id": "GEyusEeO_MF6"
+    },
+    {
+      "name": "Cucujaes",
+      "id": "VQ13sUu1JaA5"
+    },
+    {
+      "name": "Dalvares",
+      "id": "_bCX5COSE_Dd"
+    },
+    {
+      "name": "Damaia",
+      "id": "cPYXiyh-qava"
+    },
+    {
+      "name": "Darque",
+      "id": "_2JWt5mn3dR_"
+    },
+    {
+      "name": "Dois Portos",
+      "id": "rxv9utlHDA0i"
+    },
+    {
+      "name": "Dona Maria",
+      "id": "jHSUinQVSuF7"
+    },
+    {
+      "name": "Dossaos",
+      "id": "1VOZlPt8WiEN"
+    },
+    {
+      "name": "Eixo",
+      "id": "Y_PdfQWztoIb"
+    },
+    {
+      "name": "Elvas",
+      "id": "X0guDhso_4SD"
+    },
+    {
+      "name": "Encarnacao",
+      "id": "yqcLK1pT-hT2"
+    },
+    {
+      "name": "Entroncamento",
+      "id": "6_oU-zqrt-jR"
+    },
+    {
+      "name": "Ericeira",
+      "id": "KoWjYsjxa1lo"
+    },
+    {
+      "name": "Ermidas",
+      "id": "USS8JYpJQjfS"
+    },
+    {
+      "name": "Escapaes",
+      "id": "C-V2mHvnxXEp"
+    },
+    {
+      "name": "Escoural",
+      "id": "dt3dFy08sjB0"
+    },
+    {
+      "name": "Esmoriz",
+      "id": "a_GwN0Y91N7r"
+    },
+    {
+      "name": "Espinho",
+      "id": "R6xb7r3Vy2y_"
+    },
+    {
+      "name": "Esposende",
+      "id": "8eGrp5cbzjlV"
+    },
+    {
+      "name": "Estarreja",
+      "id": "GlRWOoXxm6Ds"
+    },
+    {
+      "name": "Estoi",
+      "id": "N0YMn08ph0Ym"
+    },
+    {
+      "name": "Estombar",
+      "id": "Qsj8bsn1TX1b"
+    },
+    {
+      "name": "Estoril",
+      "id": "eSFbv99mZbyV"
+    },
+    {
+      "name": "Estremoz",
+      "id": "qQUseiw6giGt"
+    },
+    {
+      "name": "Evora",
+      "id": "qFhHzrwUifqi"
+    },
+    {
+      "name": "Fafe",
+      "id": "9X6krvqd2OOG"
+    },
+    {
+      "name": "Famoes",
+      "id": "vcsSe-3lQvNq"
+    },
+    {
+      "name": "Fanzeres",
+      "id": "hI9NifELx6Y_"
+    },
+    {
+      "name": "Fao",
+      "id": "IFohpHx0ikYc"
+    },
+    {
+      "name": "Faro",
+      "id": "uwPiH3iipnYz"
+    },
+    {
+      "name": "Feira",
+      "id": "YnPqF-wT9mVa"
+    },
+    {
+      "name": "Felgueiras",
+      "id": "wE9b9aQOZ5ZT"
+    },
+    {
+      "name": "Ferradosa",
+      "id": "AECujBcUwvDe"
+    },
+    {
+      "name": "Ferreira",
+      "id": "pTMMrZ_xu6m9"
+    },
+    {
+      "name": "Ferreira do Alentejo",
+      "id": "916vd9TrQqyZ"
+    },
+    {
+      "name": "Ferrel",
+      "id": "c1I0pt3jUEOa"
+    },
+    {
+      "name": "Ferro",
+      "id": "Fm0XbnWNrGZ-"
+    },
+    {
+      "name": "Fiaes",
+      "id": "YyCg2ID-V0sZ"
+    },
+    {
+      "name": "Figueira da Foz Municipality",
+      "id": "N_sX17WFW-vN"
+    },
+    {
+      "name": "Figueira de Lorvao",
+      "id": "27yw_v_FR35f"
+    },
+    {
+      "name": "Figueiro dos Vinhos",
+      "id": "Ldck_iVKSG9G"
+    },
+    {
+      "name": "Fogueteiro",
+      "id": "PyAiIjeKXmlb"
+    },
+    {
+      "name": "Folgados",
+      "id": "2NVy8Dg6b6g-"
+    },
+    {
+      "name": "Forte",
+      "id": "hFuGKJoeJbgE"
+    },
+    {
+      "name": "Foz do Sousa",
+      "id": "SNBdAhkDMOpr"
+    },
+    {
+      "name": "Fradelos",
+      "id": "WvdGhpkGbUQ3"
+    },
+    {
+      "name": "Freamunde",
+      "id": "dEAn7p1tzzZi"
+    },
+    {
+      "name": "Frielas",
+      "id": "MpwDfNQ4HKFq"
+    },
+    {
+      "name": "Funchal",
+      "id": "mBH3PMzjP98n"
+    },
+    {
+      "name": "Fundao",
+      "id": "qBQdsYrumsj7"
+    },
+    {
+      "name": "Gafanha da Nazare",
+      "id": "KeCBfsktAGpr"
+    },
+    {
+      "name": "Galiza",
+      "id": "51b0iPas-8Ln"
+    },
+    {
+      "name": "Gandara dos Olivais",
+      "id": "q17DS4e3sjAu"
+    },
+    {
+      "name": "Gandra",
+      "id": "yOAzxIB5Q4se"
+    },
+    {
+      "name": "Garruchas",
+      "id": "ejabn6CTd2aI"
+    },
+    {
+      "name": "Gemunde",
+      "id": "XGD7RUejIeJx"
+    },
+    {
+      "name": "Godim",
+      "id": "yVn_yava-73-"
+    },
+    {
+      "name": "Golega",
+      "id": "ydLsx03kQyHz"
+    },
+    {
+      "name": "Gondomar",
+      "id": "BIqWreJ86EUp"
+    },
+    {
+      "name": "Gouveia",
+      "id": "qd8tMMIdPd-U"
+    },
+    {
+      "name": "Graca",
+      "id": "jsldVGqtdRki"
+    },
+    {
+      "name": "Gradil",
+      "id": "phbhvmPHcfoK"
+    },
+    {
+      "name": "Grandola",
+      "id": "xK_1RxLnvPJr"
+    },
+    {
+      "name": "Granja",
+      "id": "kPF5ZgxiUnL5"
+    },
+    {
+      "name": "Granja do Ulmeiro",
+      "id": "XuKLbXQT_dgO"
+    },
+    {
+      "name": "Grijo",
+      "id": "G_GKIlNf0VRe"
+    },
+    {
+      "name": "Guarda",
+      "id": "3IdKXwajMag7"
+    },
+    {
+      "name": "Guardizela",
+      "id": "CwZCQ029uecP"
+    },
+    {
+      "name": "Guia",
+      "id": "y-mBE9hXJuGf"
+    },
+    {
+      "name": "Guimaraes",
+      "id": "5vs2TxdNbuyC"
+    },
+    {
+      "name": "Gulpilhares",
+      "id": "QN7Ig7npkk5S"
+    },
+    {
+      "name": "Igreja Nova",
+      "id": "QjCltDBAkgj2"
+    },
+    {
+      "name": "Ilhavo",
+      "id": "BKuGaVFetMTj"
+    },
+    {
+      "name": "Infesta",
+      "id": "8oiE7JQRvp5P"
+    },
+    {
+      "name": "Joane",
+      "id": "u9TGzffobpUv"
+    },
+    {
+      "name": "Jovim",
+      "id": "v5kFnZxaDiUW"
+    },
+    {
+      "name": "Juncal",
+      "id": "zq6ZTkKjVPo-"
+    },
+    {
+      "name": "Lagarinhos",
+      "id": "TF1wCqDcj7rt"
+    },
+    {
+      "name": "Lago",
+      "id": "17wcKL3IsgTA"
+    },
+    {
+      "name": "Lagoa",
+      "id": "lL_M9TtVcr3H"
+    },
+    {
+      "name": "Lagoas",
+      "id": "bEuRggo4pGc-"
+    },
+    {
+      "name": "Lagos",
+      "id": "-8V2mjFG3cm3"
+    },
+    {
+      "name": "Lajes",
+      "id": "pJJz3IuXgCTQ"
+    },
+    {
+      "name": "Lamego",
+      "id": "VlXBYrA3PziA"
+    },
+    {
+      "name": "Landim",
+      "id": "xyZ_SKKmCibU"
+    },
+    {
+      "name": "Lavos",
+      "id": "KFDZeYo_QL7b"
+    },
+    {
+      "name": "Lavra",
+      "id": "ZUB8hvI3R2Kx"
+    },
+    {
+      "name": "Lavradio",
+      "id": "_uImMY090VFd"
+    },
+    {
+      "name": "Leca da Palmeira",
+      "id": "V1P86XAUvz5o"
+    },
+    {
+      "name": "Leca do Bailio",
+      "id": "iHJIvZ2XUEuf"
+    },
+    {
+      "name": "Leiria",
+      "id": "W1rm-CtxJQFb"
+    },
+    {
+      "name": "Linda a Velha",
+      "id": "x1NpiCPYUbsC"
+    },
+    {
+      "name": "Linhaceira",
+      "id": "0hsfhdC4c8_9"
+    },
+    {
+      "name": "Linho",
+      "id": "vzUW0NdycOCX"
+    },
+    {
+      "name": "Lisbon",
+      "id": "grX4wAjqq2kq"
+    },
+    {
+      "name": "Lordelo",
+      "id": "Lb_JEMJ4h1tn"
+    },
+    {
+      "name": "Loule",
+      "id": "qf3iqk0gJOGY"
+    },
+    {
+      "name": "Lourel de Baixo",
+      "id": "uDuaXYou-p4Y"
+    },
+    {
+      "name": "Loures",
+      "id": "kUe8z_53dU4z"
+    },
+    {
+      "name": "Lourical",
+      "id": "SbQwErw8zRbZ"
+    },
+    {
+      "name": "Lourosa",
+      "id": "HPyNemYhY_oZ"
+    },
+    {
+      "name": "Lousa",
+      "id": "nzo9ekGd0-sI"
+    },
+    {
+      "name": "Lousada",
+      "id": "KD5HrQD1M9S4"
+    },
+    {
+      "name": "Lousado",
+      "id": "KMYhbO2S8dAO"
+    },
+    {
+      "name": "Macas de Caminho",
+      "id": "DpHK4bUZoayq"
+    },
+    {
+      "name": "Maceda",
+      "id": "q6hRNfpJC8xf"
+    },
+    {
+      "name": "Macedo de Cavaleiros",
+      "id": "lSsZ99LD9KVq"
+    },
+    {
+      "name": "Maceira",
+      "id": "lhjZFZqoz4zH"
+    },
+    {
+      "name": "Machico",
+      "id": "BBiES9lIaUTT"
+    },
+    {
+      "name": "Macieira da Lixa",
+      "id": "tprEVwmWJGa4"
+    },
+    {
+      "name": "Madeira",
+      "id": "5Uk2NYa_Hjlm"
+    },
+    {
+      "name": "Mafra",
+      "id": "ZYDu72WXXfyV"
+    },
+    {
+      "name": "Maia",
+      "id": "FqYQf2MaPTaX"
+    },
+    {
+      "name": "Malveira",
+      "id": "1CCxaUS6Rr_a"
+    },
+    {
+      "name": "Malveira da Serra",
+      "id": "lSyH3ttD_Hku"
+    },
+    {
+      "name": "Mamouros",
+      "id": "YxUnKTita-tH"
+    },
+    {
+      "name": "Mangualde",
+      "id": "WSbwAEYRO55T"
+    },
+    {
+      "name": "Manique de Baixo",
+      "id": "c2d781iFPbCz"
+    },
+    {
+      "name": "Manique do Intendente",
+      "id": "7bldC4mbg_i4"
+    },
+    {
+      "name": "Marco",
+      "id": "xOX9pEP_d-uk"
+    },
+    {
+      "name": "Marco de Canaveses",
+      "id": "1TVU1KxFQfRM"
+    },
+    {
+      "name": "Margaride",
+      "id": "m_PeJu37-ING"
+    },
+    {
+      "name": "Marinha",
+      "id": "UeF5yMweud-6"
+    },
+    {
+      "name": "Marinha Grande",
+      "id": "NrUpzcHGNz6u"
+    },
+    {
+      "name": "Marinhais",
+      "id": "_fdbCuXizhLv"
+    },
+    {
+      "name": "Marteleira",
+      "id": "J3NSbUqBICma"
+    },
+    {
+      "name": "Martinganca",
+      "id": "P6gSVAuh5IVT"
+    },
+    {
+      "name": "Massama",
+      "id": "qaISfmmkm7PZ"
+    },
+    {
+      "name": "Massarelos",
+      "id": "KhZ2HoYX3KUa"
+    },
+    {
+      "name": "Matosinhos Municipality",
+      "id": "XY1jec7R2Wyf"
+    },
+    {
+      "name": "Mealhada",
+      "id": "sIlEbyQgrTgD"
+    },
+    {
+      "name": "Mem Martins",
+      "id": "xXwjOtbNOWDY"
+    },
+    {
+      "name": "Mesao Frio",
+      "id": "0Snjd6yH2CMX"
+    },
+    {
+      "name": "Mexilhoeira Grande",
+      "id": "dPnUzx7w9a1c"
+    },
+    {
+      "name": "Milharado",
+      "id": "P2cEP0RtOkKx"
+    },
+    {
+      "name": "Milhazes",
+      "id": "G41gWYObO5R-"
+    },
+    {
+      "name": "Minde",
+      "id": "3-aBDyUAcDwr"
+    },
+    {
+      "name": "Mira",
+      "id": "leFpDnulqFBR"
+    },
+    {
+      "name": "Miranda do Corvo",
+      "id": "Fh2vQDp5d7rS"
+    },
+    {
+      "name": "Miranda do Douro",
+      "id": "N8PW6DBDySD2"
+    },
+    {
+      "name": "Mirandela",
+      "id": "LQUiJy22Heq6"
+    },
+    {
+      "name": "Mocarria",
+      "id": "7_V9stuyYARP"
+    },
+    {
+      "name": "Modivas",
+      "id": "3S2-_1U_6op4"
+    },
+    {
+      "name": "Moita",
+      "id": "RXbgMrGR-UQJ"
+    },
+    {
+      "name": "Moncao",
+      "id": "ASAmtqKW4z7p"
+    },
+    {
+      "name": "Monchique",
+      "id": "Spga2EwxqLlo"
+    },
+    {
+      "name": "Monforte",
+      "id": "ktZ_WluRQCf5"
+    },
+    {
+      "name": "Monsanto",
+      "id": "dT728TMNn541"
+    },
+    {
+      "name": "Monsaraz",
+      "id": "sYMyek8uodah"
+    },
+    {
+      "name": "Montalvo",
+      "id": "GVRII8f0f_no"
+    },
+    {
+      "name": "Monte Estoril",
+      "id": "WEksO1tnGh_7"
+    },
+    {
+      "name": "Montelavar",
+      "id": "uBhnyGKIh1dW"
+    },
+    {
+      "name": "Montemor-o-Novo",
+      "id": "n4gJxB2d7eg2"
+    },
+    {
+      "name": "Montemor-o-Velho",
+      "id": "uFl326Zh_yY-"
+    },
+    {
+      "name": "Montes",
+      "id": "AarBAvy7c8_M"
+    },
+    {
+      "name": "Montijo",
+      "id": "xJHR-y8Ag_VC"
+    },
+    {
+      "name": "Moreira de Conegos",
+      "id": "KbdbLkK0vBj0"
+    },
+    {
+      "name": "Mortagua",
+      "id": "4REPNIqacY8a"
+    },
+    {
+      "name": "Moscavide",
+      "id": "84DraX1dk_fC"
+    },
+    {
+      "name": "Moura",
+      "id": "Nmd3Q_x0QoBM"
+    },
+    {
+      "name": "Moure",
+      "id": "-8A1bSRFMmot"
+    },
+    {
+      "name": "Mourisca do Vouga",
+      "id": "cFqMpAwOVz1Y"
+    },
+    {
+      "name": "Mozelos",
+      "id": "AyXP2CROMLIa"
+    },
+    {
+      "name": "Muro",
+      "id": "_ENrkNdknRYT"
+    },
+    {
+      "name": "Murtede",
+      "id": "2yQD8i71HjFX"
+    },
+    {
+      "name": "Murteira",
+      "id": "yv68sI3c77RE"
+    },
+    {
+      "name": "Nadadouro",
+      "id": "qZj1kTnkNueU"
+    },
+    {
+      "name": "Negrelos",
+      "id": "4lw4t-ggxpi9"
+    },
+    {
+      "name": "Neiva",
+      "id": "eH-BJtQE3UbA"
+    },
+    {
+      "name": "Nelas",
+      "id": "giK-FmKo1qrl"
+    },
+    {
+      "name": "Nespereira",
+      "id": "j2nYi9WE6_9T"
+    },
+    {
+      "name": "Nine",
+      "id": "K1JHA-J-svBA"
+    },
+    {
+      "name": "Nisa",
+      "id": "pSb1KkdUUp4R"
+    },
+    {
+      "name": "Nogueira",
+      "id": "jZgNJmQ83Uos"
+    },
+    {
+      "name": "Nogueira da Regedoura",
+      "id": "c5IER68NvOiU"
+    },
+    {
+      "name": "Nogueira do Cravo",
+      "id": "jayL2AqJO8_4"
+    },
+    {
+      "name": "Obidos",
+      "id": "SXcX-JLvlzVY"
+    },
+    {
+      "name": "Odemira",
+      "id": "07Dx-Cl-nma6"
+    },
+    {
+      "name": "Odivelas",
+      "id": "AM0IOViNmyJI"
+    },
+    {
+      "name": "Oeiras",
+      "id": "nz6Jbsu687Y8"
+    },
+    {
+      "name": "Oia",
+      "id": "zc6RkZB_A0nG"
+    },
+    {
+      "name": "Olhao",
+      "id": "P9ZmmEsPItFw"
+    },
+    {
+      "name": "Olhos de Agua",
+      "id": "wTP9Vjv0baI5"
+    },
+    {
+      "name": "Olivais",
+      "id": "DwSGVaLvygg4"
+    },
+    {
+      "name": "Olival",
+      "id": "lxLy1QfrH6sK"
+    },
+    {
+      "name": "Oliveira",
+      "id": "GG_PYNpN1v4D"
+    },
+    {
+      "name": "Oliveira do Bairro",
+      "id": "WOmTiL8graeH"
+    },
+    {
+      "name": "Oliveira do Douro",
+      "id": "eXvx_m5xvWyo"
+    },
+    {
+      "name": "Oliveira do Hospital",
+      "id": "GBVF88BewC6z"
+    },
+    {
+      "name": "Ortiga",
+      "id": "az2TKoIT6Qz4"
+    },
+    {
+      "name": "Ota",
+      "id": "GZyaX0xe4F3W"
+    },
+    {
+      "name": "Ourem",
+      "id": "1Bkjzrx35W9p"
+    },
+    {
+      "name": "Ourique",
+      "id": "2nZak7otuerL"
+    },
+    {
+      "name": "Outeiro",
+      "id": "ufAvwV1YbhNZ"
+    },
+    {
+      "name": "Ovar",
+      "id": "CWdowXtJs5ZC"
+    },
+    {
+      "name": "Paco de Arcos",
+      "id": "xxRF2Ftgk64F"
+    },
+    {
+      "name": "Paderne",
+      "id": "dEWmrZB8tVn9"
+    },
+    {
+      "name": "Palhaca",
+      "id": "igy95RtWFuJD"
+    },
+    {
+      "name": "Palhais",
+      "id": "aoWCDnnILH5K"
+    },
+    {
+      "name": "Palmeira",
+      "id": "W-mb0YJ-kmn3"
+    },
+    {
+      "name": "Palmela",
+      "id": "OTsRRcVr-Wvj"
+    },
+    {
+      "name": "Parada de Gonta",
+      "id": "PwSnd1fwuY5g"
+    },
+    {
+      "name": "Parada do Bispo",
+      "id": "xeZDXsuXFPAQ"
+    },
+    {
+      "name": "Paraiso",
+      "id": "1Pw1ilx69Yig"
+    },
+    {
+      "name": "Parchal",
+      "id": "gZIC0BqgI5Qp"
+    },
+    {
+      "name": "Pardilho",
+      "id": "fgfOjhZw6vvm"
+    },
+    {
+      "name": "Parede",
+      "id": "uWLqc4E1zOEB"
+    },
+    {
+      "name": "Paredes",
+      "id": "A38UYIm-w6oe"
+    },
+    {
+      "name": "Paredes da Beira",
+      "id": "EjCWgzYr-qOP"
+    },
+    {
+      "name": "Paredes de Coura",
+      "id": "nVPK8bFzQuAT"
+    },
+    {
+      "name": "Pataias",
+      "id": "z0OQoGyl1Zsu"
+    },
+    {
+      "name": "Paul",
+      "id": "W2_anbt-QNF_"
+    },
+    {
+      "name": "Pechao",
+      "id": "F3FtsIRgDRTP"
+    },
+    {
+      "name": "Pedreiras",
+      "id": "YUA08pnMXz0D"
+    },
+    {
+      "name": "Pedroso",
+      "id": "gmvZmVkB8MOz"
+    },
+    {
+      "name": "Pedroucos",
+      "id": "EE0vGPvntOUk"
+    },
+    {
+      "name": "Pegoes Velhos",
+      "id": "wCOMv5_Q1qrL"
+    },
+    {
+      "name": "Penacova",
+      "id": "mMP3E-nmESiJ"
+    },
+    {
+      "name": "Penafiel",
+      "id": "1_oC2j_QPHWd"
+    },
+    {
+      "name": "Penedono",
+      "id": "IbNBuWWgcsgW"
+    },
+    {
+      "name": "Penela",
+      "id": "U8cV50BWUCRv"
+    },
+    {
+      "name": "Penha Garcia",
+      "id": "Eu20fiErk9_f"
+    },
+    {
+      "name": "Peniche",
+      "id": "rQxUx-v9jsFq"
+    },
+    {
+      "name": "Penteado",
+      "id": "Ad5cIvSBPeL5"
+    },
+    {
+      "name": "Pereira",
+      "id": "_efPpbSdH1hb"
+    },
+    {
+      "name": "Pero Pinheiro",
+      "id": "DnzF9VfDVoke"
+    },
+    {
+      "name": "Pevidem",
+      "id": "Lx9Mop062wlQ"
+    },
+    {
+      "name": "Piedade",
+      "id": "bm-O78dfaHK_"
+    },
+    {
+      "name": "Pinhal",
+      "id": "NXQQkpPKbAEW"
+    },
+    {
+      "name": "Pinhal Novo",
+      "id": "_0RW-4hiqppP"
+    },
+    {
+      "name": "Pinheiro",
+      "id": "V9mUzwkr3AkA"
+    },
+    {
+      "name": "Pinheiro da Bemposta",
+      "id": "c6Olm7AgdfuN"
+    },
+    {
+      "name": "Pinheiro de Azere",
+      "id": "oV3DYWWbDi7Y"
+    },
+    {
+      "name": "Poceirao",
+      "id": "UZgtjYd31eVX"
+    },
+    {
+      "name": "Poco Barreto",
+      "id": "VAif-tMEzNUk"
+    },
+    {
+      "name": "Poiares",
+      "id": "Ix5YUgU5IKoW"
+    },
+    {
+      "name": "Polima",
+      "id": "dDTeVG2i9Wgo"
+    },
+    {
+      "name": "Pombal",
+      "id": "Plgy-fmay7X_"
+    },
+    {
+      "name": "Ponta",
+      "id": "m9rVkcmCsiAk"
+    },
+    {
+      "name": "Ponta Delgada",
+      "id": "osIRiExe5CSU"
+    },
+    {
+      "name": "Ponta do Sol",
+      "id": "D7bf9YrmA0Tq"
+    },
+    {
+      "name": "Ponte",
+      "id": "x0qebUdYgRDB"
+    },
+    {
+      "name": "Ponte da Barca",
+      "id": "FfYrhymTUmzN"
+    },
+    {
+      "name": "Ponte de Lima",
+      "id": "JQwr8Q8oFHOM"
+    },
+    {
+      "name": "Ponte de Sor",
+      "id": "U4qATV3VKoVM"
+    },
+    {
+      "name": "Ponte de Vagos",
+      "id": "E3FHKbZJjglG"
+    },
+    {
+      "name": "Pontevel",
+      "id": "xKXt8MOX3F_x"
+    },
+    {
+      "name": "Pontinha",
+      "id": "2z3YS0l1cWfN"
+    },
+    {
+      "name": "Portalegre",
+      "id": "Ffewnj_57eW-"
+    },
+    {
+      "name": "Portel",
+      "id": "kW0GZmoV_Hjk"
+    },
+    {
+      "name": "Portela",
+      "id": "Nz8B1aJDy3XC"
+    },
+    {
+      "name": "Portimao",
+      "id": "Ipz7tXESJ03T"
+    },
+    {
+      "name": "Porto",
+      "id": "uKAD-mcb-a6U"
+    },
+    {
+      "name": "Porto Alto",
+      "id": "cZJCmHQvrVw-"
+    },
+    {
+      "name": "Porto da Cruz",
+      "id": "DEwr6Re-rU1h"
+    },
+    {
+      "name": "Porto de Mos",
+      "id": "QDsIiN35Wz_Y"
+    },
+    {
+      "name": "Porto Moniz",
+      "id": "bu3k_S9ipTX_"
+    },
+    {
+      "name": "Porto Salvo",
+      "id": "btdu-xXYCs2h"
+    },
+    {
+      "name": "Povoa",
+      "id": "fhDRALa-iPbY"
+    },
+    {
+      "name": "Povoa da Galega",
+      "id": "5EE0lNBiF7rt"
+    },
+    {
+      "name": "Povoa de Lanhoso",
+      "id": "_MP21GrQvpAP"
+    },
+    {
+      "name": "Povoa de Santa Iria",
+      "id": "WAoY6_nvlReC"
+    },
+    {
+      "name": "Povoa de Santo Adriao",
+      "id": "uhT2hGbyLbtz"
+    },
+    {
+      "name": "Povoa do Forno",
+      "id": "TsHiFG-E3IlT"
+    },
+    {
+      "name": "Prado",
+      "id": "EzjBTKzwDJOP"
+    },
+    {
+      "name": "Pragal",
+      "id": "Fpt3SkYli-KB"
+    },
+    {
+      "name": "Praia da Vitoria",
+      "id": "--lcSVYow6jq"
+    },
+    {
+      "name": "Praia de Mira",
+      "id": "BXtDEK8if0mI"
+    },
+    {
+      "name": "Praia do Almoxarife",
+      "id": "8yj2wt6ynkWP"
+    },
+    {
+      "name": "Praia do Carvoeiro",
+      "id": "L1qjjkxa34pw"
+    },
+    {
+      "name": "Praia do Ribatejo",
+      "id": "7MYJnvOFIOd2"
+    },
+    {
+      "name": "Prazins",
+      "id": "okOwE4-OUG4K"
+    },
+    {
+      "name": "Prime",
+      "id": "m2owZnqNa83U"
+    },
+    {
+      "name": "Proenca-a-Nova",
+      "id": "WvjFERfGXQEm"
+    },
+    {
+      "name": "Quarteira",
+      "id": "m5_xM7MjT-Oa"
+    },
+    {
+      "name": "Quejas",
+      "id": "8wNt1BB4jlSw"
+    },
+    {
+      "name": "Queluz",
+      "id": "iCmp6Q8hBn9k"
+    },
+    {
+      "name": "Queluz de Baixo",
+      "id": "z7o6IPWswD2f"
+    },
+    {
+      "name": "Quinchaes",
+      "id": "v5AfH24is7LB"
+    },
+    {
+      "name": "Quinta",
+      "id": "qudYykYY2kjs"
+    },
+    {
+      "name": "Quinta do Anjo",
+      "id": "Cj-lpj0piPFm"
+    },
+    {
+      "name": "Ramada",
+      "id": "OnwVHtKvBjDl"
+    },
+    {
+      "name": "Ramo",
+      "id": "rrwypkVl7fzp"
+    },
+    {
+      "name": "Rana",
+      "id": "KIEqSvaH1vty"
+    },
+    {
+      "name": "Real",
+      "id": "DwVMwNrqTdwy"
+    },
+    {
+      "name": "Rebordosa",
+      "id": "L82KikrgSTSQ"
+    },
+    {
+      "name": "Recarei",
+      "id": "PsCPcToTUF7N"
+    },
+    {
+      "name": "Redondo",
+      "id": "ezVWD5Cat3HI"
+    },
+    {
+      "name": "Regueira de Pontes",
+      "id": "cPbyuO4I6IEp"
+    },
+    {
+      "name": "Reguengo Grande",
+      "id": "Kh9VZlxrdnaf"
+    },
+    {
+      "name": "Reguengos de Monsaraz",
+      "id": "4B2MQ9qc0cdh"
+    },
+    {
+      "name": "Riachos",
+      "id": "NXF7LrLG4RAC"
+    },
+    {
+      "name": "Riba de Ave",
+      "id": "SN_TGj7VXHWM"
+    },
+    {
+      "name": "Ribeira Brava",
+      "id": "kg1ZFnHTr2II"
+    },
+    {
+      "name": "Ribeira Grande",
+      "id": "tl3y7nx9O4Lg"
+    },
+    {
+      "name": "Ribeirao",
+      "id": "og7nvwcTr-ly"
+    },
+    {
+      "name": "Rinchoa",
+      "id": "0yZMYLbWfpau"
+    },
+    {
+      "name": "Rio de Moinhos",
+      "id": "-QezxyAUthUf"
+    },
+    {
+      "name": "Rio de Mouro",
+      "id": "Fz_rXF1zFr8M"
+    },
+    {
+      "name": "Rio Maior",
+      "id": "T0HDDhq--Qw4"
+    },
+    {
+      "name": "Rio Tinto",
+      "id": "4XPhtAcOqHCJ"
+    },
+    {
+      "name": "Romariz",
+      "id": "dbuXkOfUwyke"
+    },
+    {
+      "name": "Ronfe",
+      "id": "KgmW_XZgShlC"
+    },
+    {
+      "name": "Roque",
+      "id": "Jqd-oPDHkw9o"
+    },
+    {
+      "name": "Roriz",
+      "id": "xqPJv8VUX8ds"
+    },
+    {
+      "name": "Runa",
+      "id": "ygp-fVplzo_p"
+    },
+    {
+      "name": "Sabugal",
+      "id": "ZLm1K1Xebxzt"
+    },
+    {
+      "name": "Sacavem",
+      "id": "oRNoXOZBmAlW"
+    },
+    {
+      "name": "Salreu",
+      "id": "wYQoOY6PQVHZ"
+    },
+    {
+      "name": "Salto",
+      "id": "3F6XDyVjibkC"
+    },
+    {
+      "name": "Salvaterra de Magos",
+      "id": "x4_Q_KivgAXd"
+    },
+    {
+      "name": "Samil",
+      "id": "IEPxdNMJrdRO"
+    },
+    {
+      "name": "Samora Correia",
+      "id": "OGobCHpM4Wra"
+    },
+    {
+      "name": "Samouco",
+      "id": "6FmuhYp0yBqP"
+    },
+    {
+      "name": "Sandim",
+      "id": "uG8_mp6G_K0C"
+    },
+    {
+      "name": "Sanfins do Douro",
+      "id": "miH0WGqHEF3O"
+    },
+    {
+      "name": "Sangalhos",
+      "id": "DECbWAnGic-M"
+    },
+    {
+      "name": "Sanguedo",
+      "id": "a5LwaKEc0TAI"
+    },
+    {
+      "name": "Santa Barbara de Nexe",
+      "id": "GnptNuP9bf3-"
+    },
+    {
+      "name": "Santa Catarina",
+      "id": "_eu9n1my5jh1"
+    },
+    {
+      "name": "Santa Catarina da Serra",
+      "id": "Zv-3xC3OOBzz"
+    },
+    {
+      "name": "Santa Clara-a-Velha",
+      "id": "dRzU23WHZ7SZ"
+    },
+    {
+      "name": "Santa Comba Dao",
+      "id": "D4K22URf5c12"
+    },
+    {
+      "name": "Santa Cruz",
+      "id": "d6wPbFrPzILo"
+    },
+    {
+      "name": "Santa Iria da Azoia",
+      "id": "OGgIwrnoWpVA"
+    },
+    {
+      "name": "Santa Marta",
+      "id": "ZtRytEax5gkI"
+    },
+    {
+      "name": "Santa Marta de Penaguiao",
+      "id": "mfDFZ6I0OEqO"
+    },
+    {
+      "name": "Santana",
+      "id": "yOBDGJyFnsgy"
+    },
+    {
+      "name": "Santiago",
+      "id": "xtv1ybrMXJ6a"
+    },
+    {
+      "name": "Santiago da Guarda",
+      "id": "D2WXvjy5h4QY"
+    },
+    {
+      "name": "Santiago de Riba-Ul",
+      "id": "pQEQCmQm_Ck_"
+    },
+    {
+      "name": "Santiago do Cacem",
+      "id": "73ahZD3i9717"
+    },
+    {
+      "name": "Santo Andre",
+      "id": "oip7JKIKuknl"
+    },
+    {
+      "name": "Santo Antao do Tojal",
+      "id": "q3aOJKbxebeU"
+    },
+    {
+      "name": "Santo Antonio",
+      "id": "VxkUR246gSSL"
+    },
+    {
+      "name": "Santo Antonio da Charneca",
+      "id": "SvGWtzWrsxIa"
+    },
+    {
+      "name": "Santo Tirso",
+      "id": "BNFhGK_eH0Hm"
+    },
+    {
+      "name": "Sao Bras",
+      "id": "BtFAPB7vwwJP"
+    },
+    {
+      "name": "Sao Bras de Alportel",
+      "id": "Qp2ksgW5O6kH"
+    },
+    {
+      "name": "Sao Domingos de Rana",
+      "id": "VSXIuuOJQarB"
+    },
+    {
+      "name": "Sao Felix da Marinha",
+      "id": "1bWOizeEu9wI"
+    },
+    {
+      "name": "Sao Francisco",
+      "id": "tNf2z-URajb2"
+    },
+    {
+      "name": "Sao Joao",
+      "id": "4kUQyNC-U0qk"
+    },
+    {
+      "name": "Sao Joao da Madeira",
+      "id": "o6SE5tnW70kq"
+    },
+    {
+      "name": "Sao Joao da Talha",
+      "id": "-1-J1mqGr_mR"
+    },
+    {
+      "name": "Sao Joao das Lampas",
+      "id": "kgetuEJeq19S"
+    },
+    {
+      "name": "Sao Joao de Ver",
+      "id": "9rQWZ9Z_Hplp"
+    },
+    {
+      "name": "Sao Joao do Campo",
+      "id": "rHUVBMi6rREQ"
+    },
+    {
+      "name": "Sao Joao dos Montes",
+      "id": "8v1O0I85PRYs"
+    },
+    {
+      "name": "Sao Juliao do Tojal",
+      "id": "BlkkDPx3RooJ"
+    },
+    {
+      "name": "Sao Mamede de Infesta",
+      "id": "B1M2_NpZAtqI"
+    },
+    {
+      "name": "Sao Marcos",
+      "id": "rcAXESzc7qx7"
+    },
+    {
+      "name": "Sao Pedro da Cadeira",
+      "id": "-7WOEehHF2re"
+    },
+    {
+      "name": "Sao Pedro do Estoril",
+      "id": "O-xcH_X5VXEJ"
+    },
+    {
+      "name": "Sao Romao do Coronado",
+      "id": "vgoOIqJ61QVP"
+    },
+    {
+      "name": "Sao Roque",
+      "id": "ccMXdPgcgsjx"
+    },
+    {
+      "name": "Sao Vicente da Beira",
+      "id": "nlB7WPIGWhI3"
+    },
+    {
+      "name": "Sao Vicente de Lafoes",
+      "id": "Rq3EOlrxC6qD"
+    },
+    {
+      "name": "Sardoal",
+      "id": "L-A5ZLGKXZmt"
+    },
+    {
+      "name": "Sarilhos Grandes",
+      "id": "UJTMIKGIPGzv"
+    },
+    {
+      "name": "Satao",
+      "id": "6TB1WD3E4Sao"
+    },
+    {
+      "name": "Seia",
+      "id": "vDLrADGQipx5"
+    },
+    {
+      "name": "Seixal",
+      "id": "jTVmra5X0zli"
+    },
+    {
+      "name": "Sendim",
+      "id": "8FHT280Zx7jx"
+    },
+    {
+      "name": "Senhora da Hora",
+      "id": "NYRuCovpVGxb"
+    },
+    {
+      "name": "Seroa",
+      "id": "38Th8I-fjTEO"
+    },
+    {
+      "name": "Serpa",
+      "id": "4moXYtHgbNux"
+    },
+    {
+      "name": "Serpins",
+      "id": "5nHBDR0MamE_"
+    },
+    {
+      "name": "Serta",
+      "id": "IrudKacxnmK5"
+    },
+    {
+      "name": "Sesimbra",
+      "id": "vxacU5vMq37L"
+    },
+    {
+      "name": "Sete Rios",
+      "id": "Qbqj7aJEwqSx"
+    },
+    {
+      "name": "Sever do Vouga",
+      "id": "t6YszXstUVrZ"
+    },
+    {
+      "name": "Silva",
+      "id": "mSLR-VvCs6CG"
+    },
+    {
+      "name": "Silvares",
+      "id": "uVYp5oHP4BZJ"
+    },
+    {
+      "name": "Silveira",
+      "id": "XNeW-nSFUD9i"
+    },
+    {
+      "name": "Silves",
+      "id": "14B2XmNerxVe"
+    },
+    {
+      "name": "Sines Municipality",
+      "id": "gP3t0VcijHZF"
+    },
+    {
+      "name": "Sintra",
+      "id": "lPLmd0hWu0mO"
+    },
+    {
+      "name": "Soalheira",
+      "id": "swQ7y0_2MxcB"
+    },
+    {
+      "name": "Sobrado",
+      "id": "kBN3yVNYwhwf"
+    },
+    {
+      "name": "Sobrado de Paiva",
+      "id": "V7bj_rbhmJJP"
+    },
+    {
+      "name": "Sobral de Monte Agraco",
+      "id": "HCet_U6C4V1E"
+    },
+    {
+      "name": "Sobralinho",
+      "id": "Inr31YCdtgD8"
+    },
+    {
+      "name": "Sobreda",
+      "id": "r_55iOZGocgx"
+    },
+    {
+      "name": "Sobreiro",
+      "id": "9uGxxiP-1bvO"
+    },
+    {
+      "name": "Sobrosa",
+      "id": "Avex4z5T8Uho"
+    },
+    {
+      "name": "Soito",
+      "id": "A0BfzBLAmJ8X"
+    },
+    {
+      "name": "Soure Municipality",
+      "id": "FkJ922s85uDG"
+    },
+    {
+      "name": "Souto da Carpalhosa",
+      "id": "EGoER43eNCaE"
+    },
+    {
+      "name": "Souzel",
+      "id": "0qIdh1tDswNp"
+    },
+    {
+      "name": "Sul",
+      "id": "QfmC_wFgOcf4"
+    },
+    {
+      "name": "Tabuaco",
+      "id": "Gr8AuZ66aOP8"
+    },
+    {
+      "name": "Talaide",
+      "id": "8iafmro8IGGy"
+    },
+    {
+      "name": "Tamel",
+      "id": "dl1fA6MbKxxA"
+    },
+    {
+      "name": "Tarouca",
+      "id": "hF6IPM349ngu"
+    },
+    {
+      "name": "Taveiro",
+      "id": "Uck_ak-HmRdo"
+    },
+    {
+      "name": "Tavira Municipality",
+      "id": "XCQUpxAcFcJy"
+    },
+    {
+      "name": "Teixoso",
+      "id": "HjJOuyGuBrxu"
+    },
+    {
+      "name": "Telhado",
+      "id": "yVmTTLOtxxqY"
+    },
+    {
+      "name": "Tercena",
+      "id": "1e6xlPJ77oJS"
+    },
+    {
+      "name": "Terena",
+      "id": "A7uQ7aO6CNu4"
+    },
+    {
+      "name": "Tires",
+      "id": "deBSkxUWCujl"
+    },
+    {
+      "name": "Tocha",
+      "id": "TjwW14VaT0WK"
+    },
+    {
+      "name": "Tomar",
+      "id": "rjazbU3d9jST"
+    },
+    {
+      "name": "Tondela",
+      "id": "XmZvX-kwIEqX"
+    },
+    {
+      "name": "Torre da Marinha",
+      "id": "-KbpIiPFNLd3"
+    },
+    {
+      "name": "Torre de Moncorvo",
+      "id": "EaK3lL3DSoeQ"
+    },
+    {
+      "name": "Torres Novas",
+      "id": "TfZJR7FVQLUH"
+    },
+    {
+      "name": "Torres Vedras",
+      "id": "hG0AwYmhLgcD"
+    },
+    {
+      "name": "Touguinha",
+      "id": "402IIssSFBFc"
+    },
+    {
+      "name": "Tourais",
+      "id": "ZVQ9RX041335"
+    },
+    {
+      "name": "Trafaria",
+      "id": "G89khWQ-dJff"
+    },
+    {
+      "name": "Trancoso",
+      "id": "Nv0ROFB_eYXn"
+    },
+    {
+      "name": "Trancoso de Baixo",
+      "id": "hYCJ20KOlXjf"
+    },
+    {
+      "name": "Travanca",
+      "id": "b9GHqf8Z59AY"
+    },
+    {
+      "name": "Treixedo",
+      "id": "4Gn-dfoZcTQY"
+    },
+    {
+      "name": "Trofa",
+      "id": "U4_zljpaNC2Q"
+    },
+    {
+      "name": "Tunes",
+      "id": "Peyo4o6Rc14i"
+    },
+    {
+      "name": "Turcifal",
+      "id": "naWwt4-xxSql"
+    },
+    {
+      "name": "Vagos",
+      "id": "kZiC98KHwHPV"
+    },
+    {
+      "name": "Valado de Frades",
+      "id": "YKEc1JsVzs5d"
+    },
+    {
+      "name": "Valbom",
+      "id": "RMP_7wkbPTeO"
+    },
+    {
+      "name": "Vale",
+      "id": "OhdFQCC2rbK1"
+    },
+    {
+      "name": "Vale da Pinta",
+      "id": "M4z6AqKa-BRV"
+    },
+    {
+      "name": "Vale de Acor",
+      "id": "RCW-tRQFP3c5"
+    },
+    {
+      "name": "Vale de Cambra",
+      "id": "T2yqE4RP0uk_"
+    },
+    {
+      "name": "Valega",
+      "id": "tDc5pch-q4I_"
+    },
+    {
+      "name": "Valenca",
+      "id": "0LbUepobLzgK"
+    },
+    {
+      "name": "Valongo",
+      "id": "a0rYPHZFjXtv"
+    },
+    {
+      "name": "Valverde",
+      "id": "zduUatQEkVmk"
+    },
+    {
+      "name": "Varzea do Douro",
+      "id": "5SJkO4wouoCe"
+    },
+    {
+      "name": "Venda do Pinheiro",
+      "id": "k7ixES2Rw31x"
+    },
+    {
+      "name": "Vendas Novas",
+      "id": "g14lZiTEPF3B"
+    },
+    {
+      "name": "Vermelha",
+      "id": "RJ40qrKGyteF"
+    },
+    {
+      "name": "Vermoil",
+      "id": "yCaMxIxpidn3"
+    },
+    {
+      "name": "Vialonga",
+      "id": "cbUE7mDYUW9S"
+    },
+    {
+      "name": "Viana do Alentejo",
+      "id": "sMmWcetE0sY7"
+    },
+    {
+      "name": "Viana do Castelo",
+      "id": "LHfbKGzTRGCT"
+    },
+    {
+      "name": "Vidago",
+      "id": "3L2RF1WCbdY_"
+    },
+    {
+      "name": "Vidigueira",
+      "id": "4LPUXSp_tae7"
+    },
+    {
+      "name": "Vieira de Leiria",
+      "id": "y-YhmY1NA4nQ"
+    },
+    {
+      "name": "Vieira do Minho",
+      "id": "zK_HOCdCzk6C"
+    },
+    {
+      "name": "Vila Alva",
+      "id": "w_TxJpejeTrL"
+    },
+    {
+      "name": "Vila Boa de Quires",
+      "id": "RsYrr6NAKiSH"
+    },
+    {
+      "name": "Vila Cha",
+      "id": "gTZfM1PDSk5A"
+    },
+    {
+      "name": "Vila Cha de Ourique",
+      "id": "YKOxcMypNDEM"
+    },
+    {
+      "name": "Vila de Porto Santo",
+      "id": "LvXxfFEzQzvi"
+    },
+    {
+      "name": "Vila do Bispo",
+      "id": "ihOmv4tgVffF"
+    },
+    {
+      "name": "Vila do Conde",
+      "id": "ecOzTRO8RDYs"
+    },
+    {
+      "name": "Vila Franca de Xira",
+      "id": "RWDG5jFHdy5n"
+    },
+    {
+      "name": "Vila Franca do Rosario",
+      "id": "WjpyEMNwTK3Q"
+    },
+    {
+      "name": "Vila Nogueira de Azeitao",
+      "id": "7NZjGxviR4T8"
+    },
+    {
+      "name": "Vila Nova",
+      "id": "cwwrz8psZDNY"
+    },
+    {
+      "name": "Vila Nova da Barquinha",
+      "id": "1_EvDDIKJCWW"
+    },
+    {
+      "name": "Vila Nova de Cerveira",
+      "id": "vQdTun950jKR"
+    },
+    {
+      "name": "Vila Nova de Famalicao",
+      "id": "_-xwUM025pEG"
+    },
+    {
+      "name": "Vila Nova de Gaia",
+      "id": "ddo_Bj2gNmy0"
+    },
+    {
+      "name": "Vila Nova de Paiva",
+      "id": "ctX0Lpq3QJ8Q"
+    },
+    {
+      "name": "Vila Praia de Ancora",
+      "id": "h-fEY5ppW4Zx"
+    },
+    {
+      "name": "Vila Real",
+      "id": "9UIszpt-KLIe"
+    },
+    {
+      "name": "Vila Verde",
+      "id": "HBScwlD9QIOh"
+    },
+    {
+      "name": "Vilar de Perdizes",
+      "id": "7AGtDhy3YdrD"
+    },
+    {
+      "name": "Vilar do Paraiso",
+      "id": "a0FNvUNGmH3T"
+    },
+    {
+      "name": "Vilar do Pinheiro",
+      "id": "q1e6QnFWPe_O"
+    },
+    {
+      "name": "Vilar Formoso",
+      "id": "DW1fTQvOEQRv"
+    },
+    {
+      "name": "Vilarinho das Paranheiras",
+      "id": "cBnqjFQh0apB"
+    },
+    {
+      "name": "Vilarinho de Arcos",
+      "id": "NILXSnbAYSQI"
+    },
+    {
+      "name": "Vilarinho do Bairro",
+      "id": "ppUwKITccA1W"
+    },
+    {
+      "name": "Vilela",
+      "id": "0GRf5q4koFIv"
+    },
+    {
+      "name": "Vimieiro",
+      "id": "421qsdwuElTo"
+    },
+    {
+      "name": "Vinhais",
+      "id": "GDb-ADDhhsAT"
+    },
+    {
+      "name": "Viseu",
+      "id": "KKJ17dWmUrmH"
+    },
+    {
+      "name": "Vizela",
+      "id": "_wWWDnzzmvv1"
+    },
+    {
+      "name": "Zambujal",
+      "id": "l7ok2HRD2-Jm"
+    },
+    {
+      "name": "Zibreira",
+      "id": "-YEpWgmpeWtI"
+    }
   ]
 }

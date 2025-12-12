@@ -1,15 +1,45 @@
 {
   "coid": "QA",
   "cities": [
-    { "name": "Doha", "id": "c93b2f5c6d77" },
-    { "name": "Al Rayyan", "id": "d04c3a6d7e88" },
-    { "name": "Umm Salal", "id": "e15d4b7e8f99" },
-    { "name": "Al Wakrah", "id": "f26e5c8f9a10" },
-    { "name": "Al Khor", "id": "a37f6d9a0b21" },
-    { "name": "Dukhan", "id": "b48a7e0b1c32" },
-    { "name": "Mesaieed", "id": "c59b8f1c2d43" },
-    { "name": "Madinat ash Shamal", "id": "d60c9a2d3e54" },
-    { "name": "Al Daayen", "id": "e71d0b3e4f65" },
-    { "name": "Ras Laffan", "id": "f82e1c4f5a76" }
+    {
+      "name": "Doha",
+      "id": "bgrgwSz-Gd9a"
+    },
+    {
+      "name": "Al Rayyan",
+      "id": "PgjJKBDvhNY1"
+    },
+    {
+      "name": "Umm Salal",
+      "id": "VlmyFJXRriJx"
+    },
+    {
+      "name": "Al Wakrah",
+      "id": "1XvjMlOPeKv6"
+    },
+    {
+      "name": "Al Khor",
+      "id": "8bWtEHUjWNQI"
+    },
+    {
+      "name": "Dukhan",
+      "id": "jJ37ock9TiJE"
+    },
+    {
+      "name": "Mesaieed",
+      "id": "A6Y5SlvxkA_1"
+    },
+    {
+      "name": "Madinat ash Shamal",
+      "id": "tm2zDIUBnGFg"
+    },
+    {
+      "name": "Al Daayen",
+      "id": "IO1fZRZbWKH7"
+    },
+    {
+      "name": "Ras Laffan",
+      "id": "UGUPcdcsUaN-"
+    }
   ]
 }

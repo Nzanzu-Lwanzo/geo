@@ -1,15 +1,113 @@
 {
   "coid": "PY",
   "cities": [
-    { "name": "Asunción", "id": "c93b2f5c6d77" },
-    { "name": "Ciudad del Este", "id": "d04c3a6d7e88" },
-    { "name": "San Lorenzo", "id": "e15d4b7e8f99" },
-    { "name": "Luque", "id": "f26e5c8f9a10" },
-    { "name": "Capiatá", "id": "a37f6d9a0b21" },
-    { "name": "Lambaré", "id": "b48a7e0b1c32" },
-    { "name": "Fernando de la Mora", "id": "c59b8f1c2d43" },
-    { "name": "Encarnación", "id": "d60c9a2d3e54" },
-    { "name": "Itauguá", "id": "e71d0b3e4f65" },
-    { "name": "Mariano Roque Alonso", "id": "f82e1c4f5a76" }
+    {
+      "name": "Ayolas",
+      "id": "Mpo3kciotjJP"
+    },
+    {
+      "name": "Boqueron",
+      "id": "4tUpy_xhTUwO"
+    },
+    {
+      "name": "Chore",
+      "id": "STB316f8w-Cq"
+    },
+    {
+      "name": "Ciudad del Este",
+      "id": "D_FJUYFhRJv0"
+    },
+    {
+      "name": "Colonia Mariano Roque Alonso",
+      "id": "YkVta1BOT3g0"
+    },
+    {
+      "name": "Coronel Oviedo",
+      "id": "h6s_WUx_Zsc0"
+    },
+    {
+      "name": "Fernando de la Mora",
+      "id": "sN7VIDqdNAJC"
+    },
+    {
+      "name": "Fuerte Olimpo",
+      "id": "rV3EmVtE0V3Q"
+    },
+    {
+      "name": "Hernandarias",
+      "id": "6q_bqWsPAMU8"
+    },
+    {
+      "name": "Hohenau",
+      "id": "jonP3KQKtMJe"
+    },
+    {
+      "name": "Independencia",
+      "id": "pwN6SoFAIOCQ"
+    },
+    {
+      "name": "La Paz",
+      "id": "TwJqy7l5RkPN"
+    },
+    {
+      "name": "Limpio",
+      "id": "tHh7rpJNNlqU"
+    },
+    {
+      "name": "Loma Plata",
+      "id": "SEt2E8wMVyhp"
+    },
+    {
+      "name": "Luque",
+      "id": "tTg_GuYyEc2K"
+    },
+    {
+      "name": "Nemby",
+      "id": "C3DH_K5vAIU_"
+    },
+    {
+      "name": "Presidente Franco",
+      "id": "3pQaDuCTDfhc"
+    },
+    {
+      "name": "Salto del Guaira",
+      "id": "6QB5a9PnnKIN"
+    },
+    {
+      "name": "San Alberto",
+      "id": "7nfYxIY99L2c"
+    },
+    {
+      "name": "San Juan Bautista",
+      "id": "eZC7_qGdgH_9"
+    },
+    {
+      "name": "San Lorenzo",
+      "id": "Rihc9MvKL4u-"
+    },
+    {
+      "name": "Santa Rita",
+      "id": "vkiYKv_-agk4"
+    },
+    {
+      "name": "Santa Rosa",
+      "id": "PK29P8XCWNfE"
+    },
+    {
+      "name": "Villa Elisa",
+      "id": "b3b3d5g-fYfc"
+    },
+    {
+      "name": "Villa Hayes",
+      "id": "H_qwWut5w8iW"
+    },
+    {
+      "name": "Villarrica",
+      "id": "xv0E_JcbtaQM"
+    },
+    {
+      "name": "Yataity",
+      "id": "fZ5Kkth5YB_A"
+    }
   ]
 }

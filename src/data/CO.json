@@ -1,15 +1,449 @@
 {
   "coid": "CO",
   "cities": [
-    { "name": "Bogotá", "id": "a83f1d2b4c65" },
-    { "name": "Medellín", "id": "b94a2e3c5d76" },
-    { "name": "Cali", "id": "c15b3f4d6e87" },
-    { "name": "Barranquilla", "id": "d26c4a5e7f98" },
-    { "name": "Cartagena", "id": "e37d5b6f8a09" },
-    { "name": "Cúcuta", "id": "f48e6c7a9b10" },
-    { "name": "Bucaramanga", "id": "a59f7d8b0c21" },
-    { "name": "Pereira", "id": "b60a8e9c1d32" },
-    { "name": "Santa Marta", "id": "c71b9f0d2e43" },
-    { "name": "Ibagué", "id": "d82c1a3d4e55" }
+    {
+      "name": "Acacias",
+      "id": "x3L-CC1dI-HF"
+    },
+    {
+      "name": "Acevedo",
+      "id": "zIVpmN2DhdsC"
+    },
+    {
+      "name": "Aguachica",
+      "id": "QnxM7CtMZMk0"
+    },
+    {
+      "name": "Antioquia",
+      "id": "1O4kCe7zi9A_"
+    },
+    {
+      "name": "Arauca",
+      "id": "_X2Jw3efISWL"
+    },
+    {
+      "name": "Armenia",
+      "id": "ZawVjOKhhrVd"
+    },
+    {
+      "name": "Atlantico",
+      "id": "jQ2WOzm_YKPQ"
+    },
+    {
+      "name": "Barrancabermeja",
+      "id": "5cBa6j4giQbE"
+    },
+    {
+      "name": "Barranquilla",
+      "id": "Rk9VNWPL5aDw"
+    },
+    {
+      "name": "Bello",
+      "id": "xfbJ3C6y4MZy"
+    },
+    {
+      "name": "Bermudez",
+      "id": "J30G6I_m5FXY"
+    },
+    {
+      "name": "Boyaca",
+      "id": "mKfxUHNEczh0"
+    },
+    {
+      "name": "Bucaramanga",
+      "id": "1b9DxgdMtxV8"
+    },
+    {
+      "name": "Buenaventura",
+      "id": "QnZN-eYdz7L4"
+    },
+    {
+      "name": "Buga",
+      "id": "Z4djtgEJJc1A"
+    },
+    {
+      "name": "Cajica",
+      "id": "0Nr74LzG8TZl"
+    },
+    {
+      "name": "Calamar",
+      "id": "m_80IfW9VWGV"
+    },
+    {
+      "name": "Caldas",
+      "id": "cCMMW3TjZ6OL"
+    },
+    {
+      "name": "Candelaria",
+      "id": "iuKKJjvwRdGr"
+    },
+    {
+      "name": "Cartagena",
+      "id": "P7vAvfICYKaR"
+    },
+    {
+      "name": "Cartago",
+      "id": "LK3ParlFO6zO"
+    },
+    {
+      "name": "Cauca",
+      "id": "KOK3hX8XAiMR"
+    },
+    {
+      "name": "Chia",
+      "id": "M0DXJhcxbFax"
+    },
+    {
+      "name": "Chiquinquira",
+      "id": "v-CLQfqvW0zi"
+    },
+    {
+      "name": "Chocho",
+      "id": "3VTXh4fomqxx"
+    },
+    {
+      "name": "Columbia",
+      "id": "qlMGeanEEQRc"
+    },
+    {
+      "name": "Corozal",
+      "id": "HdU1lXasaVxm"
+    },
+    {
+      "name": "Cota",
+      "id": "vB5iXAtZmCLR"
+    },
+    {
+      "name": "Cumaribo",
+      "id": "hYww1qCP1qDr"
+    },
+    {
+      "name": "Cundinamarca",
+      "id": "8nB1F1U7K7An"
+    },
+    {
+      "name": "Dosquebradas",
+      "id": "IwcRnexIsTFf"
+    },
+    {
+      "name": "Duitama",
+      "id": "Pta1V5yYFnuQ"
+    },
+    {
+      "name": "El Colegio",
+      "id": "gI-2kOyWVtxZ"
+    },
+    {
+      "name": "Engativa",
+      "id": "UgmOfJvXvlTQ"
+    },
+    {
+      "name": "Envigado",
+      "id": "Aix_JktKrNgo"
+    },
+    {
+      "name": "Espinal",
+      "id": "hzQiwQKSivUq"
+    },
+    {
+      "name": "Florencia",
+      "id": "qoG57vGGCXWO"
+    },
+    {
+      "name": "Floridablanca",
+      "id": "7blgEj9QSxYO"
+    },
+    {
+      "name": "Fonseca",
+      "id": "zVdya0v8BsTZ"
+    },
+    {
+      "name": "Fundacion",
+      "id": "x1Q5Fly1W9-S"
+    },
+    {
+      "name": "Fusagasuga",
+      "id": "lzjqCs5GHavS"
+    },
+    {
+      "name": "Galapa",
+      "id": "15ah3Odf4ll3"
+    },
+    {
+      "name": "Ginebra",
+      "id": "iFBWb--PHnV8"
+    },
+    {
+      "name": "Giron",
+      "id": "iDr1Siu4UlPe"
+    },
+    {
+      "name": "Guarne",
+      "id": "4ejr6sBNWOmd"
+    },
+    {
+      "name": "Ibague",
+      "id": "he7VP-TZuuAg"
+    },
+    {
+      "name": "Inirida",
+      "id": "KdnXRpvJaBiG"
+    },
+    {
+      "name": "Ipiales",
+      "id": "jG3MyNM2qrwB"
+    },
+    {
+      "name": "Itagui",
+      "id": "l2YJkmTLwKLY"
+    },
+    {
+      "name": "La Ceja",
+      "id": "hKccWG31ySBB"
+    },
+    {
+      "name": "La Estrella",
+      "id": "W58s0eOzTB9m"
+    },
+    {
+      "name": "La Mesa",
+      "id": "4cgAM7n9abGy"
+    },
+    {
+      "name": "La Union",
+      "id": "5rhB5E7OTz6L"
+    },
+    {
+      "name": "Los Patios",
+      "id": "icjKyEVUnSFW"
+    },
+    {
+      "name": "Madrid",
+      "id": "VI4JRj6p6piP"
+    },
+    {
+      "name": "Magdalena",
+      "id": "bKkzHmIh3F5v"
+    },
+    {
+      "name": "Manizales",
+      "id": "SYARKMAlKbep"
+    },
+    {
+      "name": "Miami",
+      "id": "cSJ8J_zN9ZBF"
+    },
+    {
+      "name": "Mitu",
+      "id": "6K8LeuVxId7V"
+    },
+    {
+      "name": "Montenegro",
+      "id": "rNKVPeFE_1j3"
+    },
+    {
+      "name": "Mosquera",
+      "id": "_FzSl8vaXMdh"
+    },
+    {
+      "name": "Municipio de Copacabana",
+      "id": "guI4xLR-S-uk"
+    },
+    {
+      "name": "Neiva",
+      "id": "fWEojh9EMBYm"
+    },
+    {
+      "name": "Obando",
+      "id": "VaLe6B4MgPUs"
+    },
+    {
+      "name": "Palmira",
+      "id": "yYdrMTQ7CTrz"
+    },
+    {
+      "name": "Pamplona",
+      "id": "_cr2E6fIXaoT"
+    },
+    {
+      "name": "Pasto",
+      "id": "GK2Ur58AQIoA"
+    },
+    {
+      "name": "Pereira",
+      "id": "xXVH0IZateev"
+    },
+    {
+      "name": "Piedecuesta",
+      "id": "Z1f_BHBxM1Ry"
+    },
+    {
+      "name": "Pitalito",
+      "id": "L7kgpAGzLJ2Z"
+    },
+    {
+      "name": "Planadas",
+      "id": "suGpmfaGHgMs"
+    },
+    {
+      "name": "Popayan",
+      "id": "ELD5sbKYR3i-"
+    },
+    {
+      "name": "Puerta Roja",
+      "id": "ihrFjMGg22Lb"
+    },
+    {
+      "name": "Puerto Tejada",
+      "id": "3ZkTKqdo1phY"
+    },
+    {
+      "name": "Purificacion",
+      "id": "C_JlqTOwdU8f"
+    },
+    {
+      "name": "Riohacha",
+      "id": "E-UoRaHIfa-g"
+    },
+    {
+      "name": "Rionegro",
+      "id": "9j1vEQg0y_tn"
+    },
+    {
+      "name": "Risaralda",
+      "id": "lqWo1THNwgho"
+    },
+    {
+      "name": "Sabana de Torres",
+      "id": "Oo5rfG6-vvds"
+    },
+    {
+      "name": "Sabaneta",
+      "id": "F22yY2040Dou"
+    },
+    {
+      "name": "Sachica",
+      "id": "wMrHqCgMcTX9"
+    },
+    {
+      "name": "San Clemente",
+      "id": "jo4Up5ne-5rx"
+    },
+    {
+      "name": "San Diego",
+      "id": "oadtmfc_PT2e"
+    },
+    {
+      "name": "San Gil",
+      "id": "Oc3IPUBpYnlW"
+    },
+    {
+      "name": "San Martin",
+      "id": "jOdM0WYIuwsR"
+    },
+    {
+      "name": "Santa Marta",
+      "id": "XKBMamQF_XaT"
+    },
+    {
+      "name": "Santa Rosa de Cabal",
+      "id": "zhUq5E6BPYZ3"
+    },
+    {
+      "name": "Santa Rosa del Sur",
+      "id": "AaA80tW8lF7x"
+    },
+    {
+      "name": "Santiago de Cali",
+      "id": "aedK61SQ2cTT"
+    },
+    {
+      "name": "Silvania",
+      "id": "zQ5e09YefJRP"
+    },
+    {
+      "name": "Sincelejo",
+      "id": "Qhy0W0EhmKws"
+    },
+    {
+      "name": "Soacha",
+      "id": "APxzbCRjqSi6"
+    },
+    {
+      "name": "Sogamoso",
+      "id": "W7X10xGJi759"
+    },
+    {
+      "name": "Soledad",
+      "id": "FCO2J5wjuClj"
+    },
+    {
+      "name": "Sopo",
+      "id": "XSVW3oC5hc7O"
+    },
+    {
+      "name": "Tarapaca",
+      "id": "g3IRIdWxys53"
+    },
+    {
+      "name": "Tauramena",
+      "id": "nCDT0oyu83DP"
+    },
+    {
+      "name": "Tenjo",
+      "id": "SK1Qt1qAVqnz"
+    },
+    {
+      "name": "Tocancipa",
+      "id": "qYl_wjMMMyJI"
+    },
+    {
+      "name": "Tunja",
+      "id": "WkBVjhoeKlGE"
+    },
+    {
+      "name": "Turbaco",
+      "id": "i-LARDYwBsMl"
+    },
+    {
+      "name": "Ubaque",
+      "id": "Y3W3BhOhA1KE"
+    },
+    {
+      "name": "Urumita",
+      "id": "sPgqgtcyffgD"
+    },
+    {
+      "name": "Valledupar",
+      "id": "EM3yqwIfNyGj"
+    },
+    {
+      "name": "Velez",
+      "id": "kNZkQnukL05Q"
+    },
+    {
+      "name": "Villa del Rosario",
+      "id": "t0b9gvkr5Zsp"
+    },
+    {
+      "name": "Villamaria",
+      "id": "qYIAgEZ8ln01"
+    },
+    {
+      "name": "Villavicencio",
+      "id": "jPFcajXMjPWA"
+    },
+    {
+      "name": "Yopal",
+      "id": "BMqTi7FJL4oN"
+    },
+    {
+      "name": "Yotoco",
+      "id": "ZCAyg4qJdGa4"
+    },
+    {
+      "name": "Yumbo",
+      "id": "yARJmuNnPM40"
+    }
   ]
 }

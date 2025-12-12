@@ -1,15 +1,45 @@
 {
   "coid": "KN",
   "cities": [
-    { "name": "Basseterre", "id": "e3f4a5b6c7d8" },
-    { "name": "Sandy Point Town", "id": "f4a5b6c7d8e9" },
-    { "name": "Cayon", "id": "a5b6c7d8e9f0" },
-    { "name": "Dieppe Bay Town", "id": "b6c7d8e9f0a1" },
-    { "name": "Old Road Town", "id": "c7d8e9f0a1b2" },
-    { "name": "St. Peter's", "id": "d8e9f0a1b2c3" },
-    { "name": "Tabernacle", "id": "e9f0a1b2c3d4" },
-    { "name": "Monkey Hill", "id": "f0a1b2c3d4e5" },
-    { "name": "Molyneux", "id": "a0b1c2d3e4f6" },
-    { "name": "Conaree", "id": "b1c2d3e4f5a7" }
+    {
+      "name": "Basseterre",
+      "id": "oy110xgXiOCe"
+    },
+    {
+      "name": "Sandy Point Town",
+      "id": "aZg0JI9b1Gfr"
+    },
+    {
+      "name": "Cayon",
+      "id": "kWWZVjZv9o4z"
+    },
+    {
+      "name": "Dieppe Bay Town",
+      "id": "puYuFdoe7E2R"
+    },
+    {
+      "name": "Old Road Town",
+      "id": "gxrKh8P33uXZ"
+    },
+    {
+      "name": "St. Peter's",
+      "id": "UaWSF_WGklzH"
+    },
+    {
+      "name": "Tabernacle",
+      "id": "Yc6EXzGl82fF"
+    },
+    {
+      "name": "Monkey Hill",
+      "id": "UERfC74o2DXs"
+    },
+    {
+      "name": "Molyneux",
+      "id": "Uty-scmgYued"
+    },
+    {
+      "name": "Conaree",
+      "id": "nQXjfqYMDa3R"
+    }
   ]
 }

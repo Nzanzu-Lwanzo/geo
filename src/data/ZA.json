@@ -1,15 +1,1305 @@
 {
   "coid": "ZA",
   "cities": [
-    { "name": "Johannesburg", "id": "a1c2e3g4i5k6" },
-    { "name": "Cape Town", "id": "b2d3f4h5j6l7" },
-    { "name": "Durban", "id": "c3e4g5i6k7m8" },
-    { "name": "Pretoria", "id": "d4f5h6j7l8n9" },
-    { "name": "Port Elizabeth", "id": "e5g6i7k8m9o0" },
-    { "name": "Bloemfontein", "id": "f6h7j8l9n0p1" },
-    { "name": "Nelspruit", "id": "a7i8k9m0o1q2" },
-    { "name": "Polokwane", "id": "b8j9l0n1p2r3" },
-    { "name": "East London", "id": "c9k0m1o2q3s4" },
-    { "name": "Kimberley", "id": "d0l1n2p3r4t5" }
+    {
+      "name": "Alberton",
+      "id": "58t6hxHl3esN"
+    },
+    {
+      "name": "Alice",
+      "id": "0cQTyvBzAxGC"
+    },
+    {
+      "name": "Alrode",
+      "id": "a0SH-XAODPq5"
+    },
+    {
+      "name": "Amanzimtoti",
+      "id": "OufMdJaiGHz2"
+    },
+    {
+      "name": "Ashton",
+      "id": "AiUKuX9nWG-g"
+    },
+    {
+      "name": "Atlantis",
+      "id": "fRTVhR2VfWXj"
+    },
+    {
+      "name": "Balfour",
+      "id": "lS9fr1xm6Rpx"
+    },
+    {
+      "name": "Bathurst",
+      "id": "8LVfFvNUXLAi"
+    },
+    {
+      "name": "Beaufort West",
+      "id": "wSf-iXxkZ1Jd"
+    },
+    {
+      "name": "Bedfordview",
+      "id": "IA_Iw5Dclf-L"
+    },
+    {
+      "name": "Belhar",
+      "id": "Mg_IYm3eHAtT"
+    },
+    {
+      "name": "Bellville",
+      "id": "fiNNsl4F4039"
+    },
+    {
+      "name": "Benoni",
+      "id": "QJTrmw8efy8K"
+    },
+    {
+      "name": "Bergvliet",
+      "id": "uOYfhqTT7KXg"
+    },
+    {
+      "name": "Bethal",
+      "id": "Ln94ii40Rtil"
+    },
+    {
+      "name": "Bethlehem",
+      "id": "oCN-_mOjE31i"
+    },
+    {
+      "name": "Bloemfontein",
+      "id": "2LpkDoEd4xVC"
+    },
+    {
+      "name": "Boksburg",
+      "id": "lzni901uFseF"
+    },
+    {
+      "name": "Bothasig",
+      "id": "x8dpQ2HkSdrp"
+    },
+    {
+      "name": "Botshabelo",
+      "id": "KfEB9FdrpF3u"
+    },
+    {
+      "name": "Braamfontein",
+      "id": "-oclKG5sx5-0"
+    },
+    {
+      "name": "Brackenfell",
+      "id": "XHnTRcVqa53K"
+    },
+    {
+      "name": "Brakpan",
+      "id": "DuhpcbCgTp7y"
+    },
+    {
+      "name": "Bredasdorp",
+      "id": "lz2HURy1SSSf"
+    },
+    {
+      "name": "Brits",
+      "id": "tMvqjxzvQez-"
+    },
+    {
+      "name": "Bronkhorstspruit",
+      "id": "9NB6wPBuHh4G"
+    },
+    {
+      "name": "Brooklyn",
+      "id": "ksgYM6XUFTJV"
+    },
+    {
+      "name": "Bryanston",
+      "id": "XOGiAXdqiUeu"
+    },
+    {
+      "name": "Buffalo",
+      "id": "DEqa5aK0OF3k"
+    },
+    {
+      "name": "Butterworth",
+      "id": "B5UBh6jEScoU"
+    },
+    {
+      "name": "Cape Town",
+      "id": "p079RQ4rNH2O"
+    },
+    {
+      "name": "Capital Park",
+      "id": "4NtWEz-mlGCF"
+    },
+    {
+      "name": "Carletonville",
+      "id": "njQmZO8sZDZY"
+    },
+    {
+      "name": "Carolina",
+      "id": "ZBWM0GWQq_s-"
+    },
+    {
+      "name": "Centurion",
+      "id": "d3KWpf0BpZWY"
+    },
+    {
+      "name": "City of Cape Town",
+      "id": "ab5BRHzlj1XY"
+    },
+    {
+      "name": "Clanwilliam",
+      "id": "pO-0GHNJ1_pV"
+    },
+    {
+      "name": "Claremont",
+      "id": "BkhkZHay0Biy"
+    },
+    {
+      "name": "Coega",
+      "id": "qUrLDMuUkxLP"
+    },
+    {
+      "name": "Coligny",
+      "id": "5kl8TBcvhDJC"
+    },
+    {
+      "name": "Constantia",
+      "id": "dSFwY9gowEto"
+    },
+    {
+      "name": "Craighall",
+      "id": "wiDPoxuu2N_U"
+    },
+    {
+      "name": "Cullinan",
+      "id": "GIq4kzdD3buP"
+    },
+    {
+      "name": "De Aar",
+      "id": "PovtJ2HmXikQ"
+    },
+    {
+      "name": "Delmas",
+      "id": "N-k5VPdBgeW8"
+    },
+    {
+      "name": "Deneysville",
+      "id": "-AZp4wlwB6lJ"
+    },
+    {
+      "name": "Despatch",
+      "id": "MSsPecxsuK33"
+    },
+    {
+      "name": "Doornfontein",
+      "id": "euAWytUFsUSn"
+    },
+    {
+      "name": "Dube Location",
+      "id": "s-GpgeC7exvp"
+    },
+    {
+      "name": "Duiwelskloof",
+      "id": "VKjZqlK2PyR2"
+    },
+    {
+      "name": "Dullstroom",
+      "id": "J8GOhOWVt5br"
+    },
+    {
+      "name": "Dundee",
+      "id": "6qc1jpaB1Uti"
+    },
+    {
+      "name": "Durban",
+      "id": "Lx3NHwzykk8r"
+    },
+    {
+      "name": "Durbanville",
+      "id": "kBhnnhLsBmSK"
+    },
+    {
+      "name": "East London",
+      "id": "J2qefP-VoKBh"
+    },
+    {
+      "name": "Edenburg",
+      "id": "lW7fPNVy5lZx"
+    },
+    {
+      "name": "Edenvale",
+      "id": "PN6--0aatrtE"
+    },
+    {
+      "name": "Eersterivier",
+      "id": "kipAJRFHN6zV"
+    },
+    {
+      "name": "Elandsfontein",
+      "id": "MQRTW7iu9bC-"
+    },
+    {
+      "name": "Elarduspark",
+      "id": "hXCGdsvFAbZp"
+    },
+    {
+      "name": "Eloff",
+      "id": "ZD_UyZquicYt"
+    },
+    {
+      "name": "Elsburg",
+      "id": "LEyf_Sdl2L1d"
+    },
+    {
+      "name": "Elsenburg",
+      "id": "kILvYaKUZLCm"
+    },
+    {
+      "name": "Emerald Hill",
+      "id": "qVER1BpvcN6h"
+    },
+    {
+      "name": "Emnambithi-Ladysmith",
+      "id": "O6QAlapODAAM"
+    },
+    {
+      "name": "Empangeni",
+      "id": "pkzgNonA-O51"
+    },
+    {
+      "name": "Erasmia",
+      "id": "PVsasSi8EMjD"
+    },
+    {
+      "name": "Ermelo",
+      "id": "jRpVq9tzAchY"
+    },
+    {
+      "name": "Eshowe",
+      "id": "qBtaioQRzvm7"
+    },
+    {
+      "name": "Evander",
+      "id": "wmYg1sLHN2nd"
+    },
+    {
+      "name": "Faure",
+      "id": "azvSzn-Sx-57"
+    },
+    {
+      "name": "Florida Glen",
+      "id": "gEphW6YBdKw6"
+    },
+    {
+      "name": "Fochville",
+      "id": "UsfrgI0uiVI_"
+    },
+    {
+      "name": "Fordsburg",
+      "id": "hGhz4pu6r-th"
+    },
+    {
+      "name": "Fort Cox",
+      "id": "vIgCEZxG1Sy0"
+    },
+    {
+      "name": "Franschhoek",
+      "id": "3mUQSOsbfsLn"
+    },
+    {
+      "name": "Gansbaai",
+      "id": "nn3SNZ0-r5P8"
+    },
+    {
+      "name": "Ganspan",
+      "id": "ie_kNu1Uerg_"
+    },
+    {
+      "name": "George",
+      "id": "dc8RVeXY9Ase"
+    },
+    {
+      "name": "Germiston",
+      "id": "i-CJh-6srCo-"
+    },
+    {
+      "name": "Gezina",
+      "id": "6NKeYbT2eGjR"
+    },
+    {
+      "name": "Gillitts",
+      "id": "Nqz8k86eJfsF"
+    },
+    {
+      "name": "Gingindlovu",
+      "id": "MdK_-K8xLSxc"
+    },
+    {
+      "name": "Glen Austin",
+      "id": "5qWpN77QJmwO"
+    },
+    {
+      "name": "Goodwood",
+      "id": "7WwNK8P0CHAe"
+    },
+    {
+      "name": "Graaff Reinet",
+      "id": "z0MybJOkys79"
+    },
+    {
+      "name": "Grabouw",
+      "id": "O-XdPR5Cz56L"
+    },
+    {
+      "name": "Grahamstown",
+      "id": "4XU5J9sJKm4e"
+    },
+    {
+      "name": "Greytown",
+      "id": "CYJ7_BMnW4yv"
+    },
+    {
+      "name": "Groblersdal",
+      "id": "mUFnorPxIgLz"
+    },
+    {
+      "name": "Haenertsburg",
+      "id": "4YU-INEd8F25"
+    },
+    {
+      "name": "Harrismith",
+      "id": "eE5pHHLf6oGq"
+    },
+    {
+      "name": "Hartbeespoort",
+      "id": "7mSV8ySfWNxW"
+    },
+    {
+      "name": "Hartenbos",
+      "id": "t7BmInv5IMvc"
+    },
+    {
+      "name": "Hartswater",
+      "id": "LW_4A6uh1iaO"
+    },
+    {
+      "name": "Hatfield",
+      "id": "K7Z1oQF4D54U"
+    },
+    {
+      "name": "Hawston",
+      "id": "olANX-zNzt8V"
+    },
+    {
+      "name": "Hazyview",
+      "id": "u0dGmsx5GM5S"
+    },
+    {
+      "name": "Heidelberg",
+      "id": "95lMLzsFD9Ne"
+    },
+    {
+      "name": "Hekpoort",
+      "id": "mnl3LBnkC-6P"
+    },
+    {
+      "name": "Henley on Klip",
+      "id": "HbBF9yDsQPWT"
+    },
+    {
+      "name": "Hennenman",
+      "id": "J2OHrI-wVBWT"
+    },
+    {
+      "name": "Hermanus",
+      "id": "zb4PtHex4pIl"
+    },
+    {
+      "name": "Hillcrest",
+      "id": "fkgOW11kyl-U"
+    },
+    {
+      "name": "Hilton",
+      "id": "FTHy8SLPoWPQ"
+    },
+    {
+      "name": "Himeville",
+      "id": "ko1hgCBqgVS6"
+    },
+    {
+      "name": "Hluhluwe",
+      "id": "qZXbV0Tb-myD"
+    },
+    {
+      "name": "Hoedspruit",
+      "id": "efaWv4fRVpvM"
+    },
+    {
+      "name": "Hogsback",
+      "id": "5J-sYgUOIdK-"
+    },
+    {
+      "name": "Houghton Estate",
+      "id": "rxmQMN5EOSDd"
+    },
+    {
+      "name": "Hout Bay",
+      "id": "m8WClk9QSqiA"
+    },
+    {
+      "name": "Howick",
+      "id": "yGWVqJaPOT6g"
+    },
+    {
+      "name": "Humansdorp",
+      "id": "fKO5keNIVlzG"
+    },
+    {
+      "name": "Hyde Park",
+      "id": "vTRBcvYr5EJ3"
+    },
+    {
+      "name": "Irene",
+      "id": "0mgi5Fkr2phT"
+    },
+    {
+      "name": "Isando",
+      "id": "OxQcVGY_eN5n"
+    },
+    {
+      "name": "Ixopo",
+      "id": "SDmrAjjnt2Yc"
+    },
+    {
+      "name": "Johannesburg",
+      "id": "gs8T87CjxSZy"
+    },
+    {
+      "name": "Kalkbaai",
+      "id": "9vP_RrFozYgS"
+    },
+    {
+      "name": "Katlehong",
+      "id": "mR714QuUZzQO"
+    },
+    {
+      "name": "Kempton Park",
+      "id": "GblegP2LVat2"
+    },
+    {
+      "name": "Kimberley",
+      "id": "c2nJEzId9rNp"
+    },
+    {
+      "name": "Kingsborough",
+      "id": "AZ_Mo91AzBjA"
+    },
+    {
+      "name": "Kingsley",
+      "id": "kMzOkH0D6tpH"
+    },
+    {
+      "name": "Kingsmead",
+      "id": "rmFcgyQM9nm9"
+    },
+    {
+      "name": "Kinross",
+      "id": "yQPSCFGbJZmk"
+    },
+    {
+      "name": "Kleinmond",
+      "id": "nQV_1DtzMja4"
+    },
+    {
+      "name": "Klerksdorp",
+      "id": "WRJ3Xz31CnpJ"
+    },
+    {
+      "name": "Kloof",
+      "id": "CnttlA4HisCT"
+    },
+    {
+      "name": "Knysna",
+      "id": "NjxtTMU8xoL0"
+    },
+    {
+      "name": "Kokstad",
+      "id": "8QI1Bb2iRzMM"
+    },
+    {
+      "name": "Kraaifontein",
+      "id": "epM4wkxcbb1N"
+    },
+    {
+      "name": "Kranskop",
+      "id": "c35WOs7jdfSM"
+    },
+    {
+      "name": "Kriel",
+      "id": "kQaMMJoIUpTf"
+    },
+    {
+      "name": "Kroonstad",
+      "id": "2YhC93NvSTTf"
+    },
+    {
+      "name": "Krugersdorp",
+      "id": "GfdpqINsHL6-"
+    },
+    {
+      "name": "Kuils River",
+      "id": "JIIRTDgSUV_W"
+    },
+    {
+      "name": "KwaDukuza",
+      "id": "dYUDOcQSWUET"
+    },
+    {
+      "name": "La Lucia",
+      "id": "e9tkVrrpClc6"
+    },
+    {
+      "name": "La Motte",
+      "id": "Jo77eHK0Z90_"
+    },
+    {
+      "name": "Ladybrand",
+      "id": "zuMOUZCXlBV9"
+    },
+    {
+      "name": "Lansdowne",
+      "id": "I1yKkNYpx3XO"
+    },
+    {
+      "name": "Laudium",
+      "id": "4bNkaZxNuY83"
+    },
+    {
+      "name": "Lephalale",
+      "id": "ehvYG6NfLsvq"
+    },
+    {
+      "name": "Lichtenburg",
+      "id": "fkFVWkijQWeu"
+    },
+    {
+      "name": "Lombardy East",
+      "id": "k0HmfFJqbS_2"
+    },
+    {
+      "name": "London",
+      "id": "4O1EviMOZVfw"
+    },
+    {
+      "name": "Louis Trichardt",
+      "id": "v830eRsekAFD"
+    },
+    {
+      "name": "Lutzville",
+      "id": "l_Zd_vQsyGb2"
+    },
+    {
+      "name": "Lydenburg",
+      "id": "zuA4Zx4l8Zcs"
+    },
+    {
+      "name": "Lyndhurst",
+      "id": "aPN_NEB9GJl3"
+    },
+    {
+      "name": "Lynnwood",
+      "id": "heGc4KS_JkZl"
+    },
+    {
+      "name": "Lyttelton",
+      "id": "QWMLY_MhJE5c"
+    },
+    {
+      "name": "Machadodorp",
+      "id": "UjxtSysu0PVT"
+    },
+    {
+      "name": "Mafikeng",
+      "id": "TUa8x7mYoG_q"
+    },
+    {
+      "name": "Maidstone",
+      "id": "b1o_KbDsC2ej"
+    },
+    {
+      "name": "Majuba",
+      "id": "I6VbYQ29Pz6r"
+    },
+    {
+      "name": "Malmesbury",
+      "id": "NSTGL83be7Wp"
+    },
+    {
+      "name": "Malvern",
+      "id": "ZoRLSJLyIOi3"
+    },
+    {
+      "name": "Maraisburg",
+      "id": "tBwlKXk-g0kE"
+    },
+    {
+      "name": "Margate",
+      "id": "32-sSTAPum8L"
+    },
+    {
+      "name": "Marshalltown",
+      "id": "78COIEbtmK42"
+    },
+    {
+      "name": "Meadowridge",
+      "id": "rx_0sk-CBjxv"
+    },
+    {
+      "name": "Medunsa",
+      "id": "tHdfUhc_sDPg"
+    },
+    {
+      "name": "Melkbosstrand",
+      "id": "ErnNOLAdovpD"
+    },
+    {
+      "name": "Merrivale",
+      "id": "1j8Kp-tfX6qy"
+    },
+    {
+      "name": "Messina",
+      "id": "1xQTJUBY2XKg"
+    },
+    {
+      "name": "Meyerton",
+      "id": "wp-9TL3ktoB5"
+    },
+    {
+      "name": "Middelburg",
+      "id": "Yh0kQeyJ-JAr"
+    },
+    {
+      "name": "Midrand",
+      "id": "9HvXdCeo3iEP"
+    },
+    {
+      "name": "Milnerton",
+      "id": "1xEATHGWzjqA"
+    },
+    {
+      "name": "Mmabatho",
+      "id": "XNRhKxKFwOlM"
+    },
+    {
+      "name": "Mobeni",
+      "id": "S-g1lHODPS61"
+    },
+    {
+      "name": "Modderfontein",
+      "id": "lIyA0FZbvDER"
+    },
+    {
+      "name": "Mokopane",
+      "id": "Sa8j7KolsMKN"
+    },
+    {
+      "name": "Montagu",
+      "id": "jxEr-RDi0Yxt"
+    },
+    {
+      "name": "Monument Park",
+      "id": "IOtUFbhadfSC"
+    },
+    {
+      "name": "Mooi River",
+      "id": "b_DoJ4clQmbL"
+    },
+    {
+      "name": "Mookgophong",
+      "id": "7UY_gT2tDB28"
+    },
+    {
+      "name": "Moorreesburg",
+      "id": "Z37Lb_SElftx"
+    },
+    {
+      "name": "Morningside Manor",
+      "id": "q1UB5qpY89FC"
+    },
+    {
+      "name": "Mossel Bay",
+      "id": "58lFnIvw5usP"
+    },
+    {
+      "name": "Mount Edgecombe",
+      "id": "zlBteWEFe4XE"
+    },
+    {
+      "name": "Mthatha",
+      "id": "knRZap02_RgL"
+    },
+    {
+      "name": "Muizenberg",
+      "id": "l7lMpetyYHDH"
+    },
+    {
+      "name": "Napier",
+      "id": "s2SQH-U1ZLMZ"
+    },
+    {
+      "name": "Nelspruit",
+      "id": "J3uTWnvouREu"
+    },
+    {
+      "name": "New Germany",
+      "id": "gCrshRe8rjW5"
+    },
+    {
+      "name": "Newcastle",
+      "id": "GbNMe34VP5en"
+    },
+    {
+      "name": "Newlands",
+      "id": "FdpUKdAi-pyH"
+    },
+    {
+      "name": "Nigel",
+      "id": "gXXpnHX-sSnz"
+    },
+    {
+      "name": "Northcliff",
+      "id": "JgJczXIckg9T"
+    },
+    {
+      "name": "Odendaalsrus",
+      "id": "Dv36GGYSaA3l"
+    },
+    {
+      "name": "Ogies",
+      "id": "J-G3uWTs9TzY"
+    },
+    {
+      "name": "Olifantsfontein",
+      "id": "GQicN7wP4vUa"
+    },
+    {
+      "name": "Onderstepoort",
+      "id": "CNqMMNYeFCHJ"
+    },
+    {
+      "name": "Onverwacht",
+      "id": "V9fI2AmRCXsX"
+    },
+    {
+      "name": "Oranjeville",
+      "id": "DTcvdtORa9cR"
+    },
+    {
+      "name": "Oranjezicht",
+      "id": "vt5ZnWy0yVW0"
+    },
+    {
+      "name": "Ottosdal",
+      "id": "eqM_7_NGnQ6W"
+    },
+    {
+      "name": "Oudtshoorn",
+      "id": "NI7SXj52gmlg"
+    },
+    {
+      "name": "Overport",
+      "id": "u8jVix1rTcgJ"
+    },
+    {
+      "name": "Paarl",
+      "id": "d8WreEGaE18S"
+    },
+    {
+      "name": "Panorama",
+      "id": "UgMVeRyQKGiU"
+    },
+    {
+      "name": "Parktown",
+      "id": "iXMBSVADKcOY"
+    },
+    {
+      "name": "Parkview",
+      "id": "1DDCHsjJK9mf"
+    },
+    {
+      "name": "Parow",
+      "id": "CMr7X8Qy-5H8"
+    },
+    {
+      "name": "Peninsula",
+      "id": "67wPK3ABoYlX"
+    },
+    {
+      "name": "Phalaborwa",
+      "id": "Ep8inCKgNt-8"
+    },
+    {
+      "name": "Philadelphia",
+      "id": "HAeVZQyZ3vIH"
+    },
+    {
+      "name": "Philipstown",
+      "id": "5SwsI8Fd_YIk"
+    },
+    {
+      "name": "Phoenix",
+      "id": "zI8aXPnbKMxd"
+    },
+    {
+      "name": "Phokeng",
+      "id": "Zy7bvmUh_Bd8"
+    },
+    {
+      "name": "Pietermaritzburg",
+      "id": "D4FU5UZ-sOD1"
+    },
+    {
+      "name": "Pinelands",
+      "id": "zKyGHj6W1VKr"
+    },
+    {
+      "name": "Pinetown",
+      "id": "mZ_BJCUvISL0"
+    },
+    {
+      "name": "Plettenberg Bay",
+      "id": "sUUkAzNCe9Pf"
+    },
+    {
+      "name": "Plumstead",
+      "id": "NnLRCfWGPx39"
+    },
+    {
+      "name": "Polokwane",
+      "id": "BLvO5DeJvkFX"
+    },
+    {
+      "name": "Pongola",
+      "id": "XYNldd5pEe2h"
+    },
+    {
+      "name": "Port Alfred",
+      "id": "DNaybOLIKzAY"
+    },
+    {
+      "name": "Port Elizabeth",
+      "id": "0Vx1LhHgOeHt"
+    },
+    {
+      "name": "Port Shepstone",
+      "id": "qpkURc46EciM"
+    },
+    {
+      "name": "Potchefstroom",
+      "id": "eiw5V_Ayl6kM"
+    },
+    {
+      "name": "Pretoria",
+      "id": "7woHpBXicjLt"
+    },
+    {
+      "name": "Prieska",
+      "id": "u3N2F6lLvqms"
+    },
+    {
+      "name": "Primrose",
+      "id": "TdkSOgceMIa4"
+    },
+    {
+      "name": "Pringle Bay",
+      "id": "krc68f71r-5D"
+    },
+    {
+      "name": "Queensburgh",
+      "id": "pPPtZM4XC4p1"
+    },
+    {
+      "name": "Queenstown",
+      "id": "WOjyE6Wg7I45"
+    },
+    {
+      "name": "Queenswood",
+      "id": "NQeZaixfj3IJ"
+    },
+    {
+      "name": "Randburg",
+      "id": "e3rd_Bo73F35"
+    },
+    {
+      "name": "Randfontein",
+      "id": "MS4ywvYr-PEQ"
+    },
+    {
+      "name": "Rawsonville",
+      "id": "3eU_mLUXBOzv"
+    },
+    {
+      "name": "Rhodes",
+      "id": "qwjFC54J6xRk"
+    },
+    {
+      "name": "Richards Bay",
+      "id": "YQrBOTL5ocMY"
+    },
+    {
+      "name": "Richmond",
+      "id": "N-YehfsFDIH9"
+    },
+    {
+      "name": "Riebeek-Kasteel",
+      "id": "CHml0NSRVbYH"
+    },
+    {
+      "name": "Rivonia",
+      "id": "nG1J8QL_GbZF"
+    },
+    {
+      "name": "Roggebaai",
+      "id": "pT6rQKaP_EvC"
+    },
+    {
+      "name": "Roodepoort",
+      "id": "pzlgC6ytljJZ"
+    },
+    {
+      "name": "Rooigrond",
+      "id": "MqxrgTuPfrhn"
+    },
+    {
+      "name": "Rooihuiskraal",
+      "id": "PlbdkDb5C6JR"
+    },
+    {
+      "name": "Rosebank",
+      "id": "kGR8dV5BPBdn"
+    },
+    {
+      "name": "Rosettenville",
+      "id": "Ue3JLrtuOu-I"
+    },
+    {
+      "name": "Rosslyn",
+      "id": "gzXCoKv3UGpg"
+    },
+    {
+      "name": "Rustenburg",
+      "id": "fEkDa5SKEvFy"
+    },
+    {
+      "name": "Sabie",
+      "id": "2g9HOlI9I_K1"
+    },
+    {
+      "name": "Saint Helena Bay",
+      "id": "WzkUPsVsElDf"
+    },
+    {
+      "name": "Saint James",
+      "id": "E39grFcvDVR1"
+    },
+    {
+      "name": "Saldanha",
+      "id": "Vh9isfuAFhKu"
+    },
+    {
+      "name": "Salt Rock",
+      "id": "T6i8zSeYtHm2"
+    },
+    {
+      "name": "Sandown",
+      "id": "DuECHh0Te5mU"
+    },
+    {
+      "name": "Sandton",
+      "id": "HVRtsbZolfqS"
+    },
+    {
+      "name": "Sasolburg",
+      "id": "LhZIi0LJ5UKb"
+    },
+    {
+      "name": "Schweizer-Reneke",
+      "id": "RsWFC04HsK0y"
+    },
+    {
+      "name": "Scottburgh",
+      "id": "9_piloFkD6tC"
+    },
+    {
+      "name": "Sebokeng",
+      "id": "9ivbRtZtfAWA"
+    },
+    {
+      "name": "Secunda",
+      "id": "RV98Z8Qf11cI"
+    },
+    {
+      "name": "Sedgefield",
+      "id": "NAqaa-B8rTKn"
+    },
+    {
+      "name": "Senekal",
+      "id": "Th6Io5-mOH2Y"
+    },
+    {
+      "name": "Shelly Beach",
+      "id": "d5zFY-BTt0zX"
+    },
+    {
+      "name": "Silverton",
+      "id": "aniGJ58AMvnt"
+    },
+    {
+      "name": "Sinoville",
+      "id": "HLLJwWIcgiSN"
+    },
+    {
+      "name": "Somerset West",
+      "id": "BS4e-LoYFntc"
+    },
+    {
+      "name": "Soshanguve",
+      "id": "sBWh3cDZjxBS"
+    },
+    {
+      "name": "Soweto",
+      "id": "tmGcp2s3SoSI"
+    },
+    {
+      "name": "Springs",
+      "id": "BUjL8-iSI3do"
+    },
+    {
+      "name": "Standerton",
+      "id": "oUIl8Nyxi0UB"
+    },
+    {
+      "name": "Stanford",
+      "id": "Bjh_U2NsuNTl"
+    },
+    {
+      "name": "Stellenbosch",
+      "id": "a6nkDL38osoU"
+    },
+    {
+      "name": "Stilfontein",
+      "id": "MlhnlCBNexW8"
+    },
+    {
+      "name": "Strand",
+      "id": "-LXNMi1Hy4qQ"
+    },
+    {
+      "name": "Sun Valley",
+      "id": "9hS-PIL57POO"
+    },
+    {
+      "name": "Swartkops",
+      "id": "f67bYJ5hC5Pd"
+    },
+    {
+      "name": "Temba",
+      "id": "q1Z5WLpnckNl"
+    },
+    {
+      "name": "Tembisa",
+      "id": "kHYNvuyi9N7q"
+    },
+    {
+      "name": "Thabazimbi",
+      "id": "SZlKQ-MnWooI"
+    },
+    {
+      "name": "The Rest",
+      "id": "jZrMoc7TKNCi"
+    },
+    {
+      "name": "Thohoyandou",
+      "id": "akDGsMwJw_8n"
+    },
+    {
+      "name": "Three Anchor Bay",
+      "id": "bQrkBY5Pci0O"
+    },
+    {
+      "name": "Three Rivers",
+      "id": "ESL6UqAAImUy"
+    },
+    {
+      "name": "Tokai",
+      "id": "ANo0s_YYFz4C"
+    },
+    {
+      "name": "Tongaat",
+      "id": "PsguYmpKVRu2"
+    },
+    {
+      "name": "Tzaneen",
+      "id": "8LUDRR8hzY6J"
+    },
+    {
+      "name": "Uitenhage",
+      "id": "bBBa09stAnnc"
+    },
+    {
+      "name": "Umbogintwini",
+      "id": "z-LlhXCtxsL2"
+    },
+    {
+      "name": "Umdloti",
+      "id": "FgGBs4Zbx4zu"
+    },
+    {
+      "name": "Umhlanga",
+      "id": "OC6Kv8lTsIlV"
+    },
+    {
+      "name": "Umkomaas",
+      "id": "Rob5lkN84Vwj"
+    },
+    {
+      "name": "Umtentweni",
+      "id": "_DTAhvooxwxV"
+    },
+    {
+      "name": "Upington",
+      "id": "-RJtF-lDxOWl"
+    },
+    {
+      "name": "Vaalbank",
+      "id": "xd02nzvAzo8e"
+    },
+    {
+      "name": "Vaalpark",
+      "id": "tGIKUsqJbFul"
+    },
+    {
+      "name": "Vanderbijlpark",
+      "id": "J0PMqejaiiqf"
+    },
+    {
+      "name": "Vereeniging",
+      "id": "DOGy_wo0CQW2"
+    },
+    {
+      "name": "Verulam",
+      "id": "VpC_wq2XjQON"
+    },
+    {
+      "name": "Villiersdorp",
+      "id": "t4jWpIBK5J3b"
+    },
+    {
+      "name": "Virginia",
+      "id": "zofYojG5iOCh"
+    },
+    {
+      "name": "Vosloorus",
+      "id": "WDYd6G2nCrOH"
+    },
+    {
+      "name": "Vrededorp",
+      "id": "D7sVT2SyRLaM"
+    },
+    {
+      "name": "Vredenburg",
+      "id": "qMk6P__6usf3"
+    },
+    {
+      "name": "Vryheid",
+      "id": "12Qb3DOygKs0"
+    },
+    {
+      "name": "Walkerville",
+      "id": "RhFFgM--MBqr"
+    },
+    {
+      "name": "Walmer Heights",
+      "id": "Sl9NifKpmk6N"
+    },
+    {
+      "name": "Warner Beach",
+      "id": "_qpKuZQ-9TYS"
+    },
+    {
+      "name": "Wartburg",
+      "id": "4jhHm6oa7iWb"
+    },
+    {
+      "name": "Waverley",
+      "id": "FjJ2iFVqoWr0"
+    },
+    {
+      "name": "Welgelegen",
+      "id": "Cr8K57R-ic38"
+    },
+    {
+      "name": "Welgemoed",
+      "id": "axLqtzb7hWIO"
+    },
+    {
+      "name": "Welkom",
+      "id": "5zXNaQPadiMd"
+    },
+    {
+      "name": "Wellington",
+      "id": "n8lImuQOLRqq"
+    },
+    {
+      "name": "Weltevreden",
+      "id": "0iGS0QdQCRdV"
+    },
+    {
+      "name": "Weltevreedenpark",
+      "id": "OQMirAJL5apj"
+    },
+    {
+      "name": "Westonaria",
+      "id": "RJbJGjjAXM1R"
+    },
+    {
+      "name": "Westville",
+      "id": "ggXubOMwqEeV"
+    },
+    {
+      "name": "White River",
+      "id": "VTLtbumGSVOv"
+    },
+    {
+      "name": "Wilderness",
+      "id": "_UXvo0LTPTC_"
+    },
+    {
+      "name": "Winterton",
+      "id": "ufEuLj5DV_q1"
+    },
+    {
+      "name": "Witbank",
+      "id": "U_pW_J7vV3yK"
+    },
+    {
+      "name": "Witpoortjie",
+      "id": "PvYqPtlV7jY2"
+    },
+    {
+      "name": "Wonderboom",
+      "id": "fI_KhJJ6_3_4"
+    },
+    {
+      "name": "Worcester",
+      "id": "EkSR7dsA07WZ"
+    },
+    {
+      "name": "Wynberg",
+      "id": "qWTHK3b2X854"
+    },
+    {
+      "name": "Zeerust",
+      "id": "61wKxn7dYyxs"
+    }
   ]
 }

@@ -1,15 +1,333 @@
 {
   "coid": "PE",
   "cities": [
-    { "name": "Lima", "id": "a93f2d5a6b87" },
-    { "name": "Arequipa", "id": "b04a3e6b7c98" },
-    { "name": "Trujillo", "id": "c15b4f7c8d09" },
-    { "name": "Chiclayo", "id": "d26c5a8d9e10" },
-    { "name": "Piura", "id": "e37d6b9e0f21" },
-    { "name": "Iquitos", "id": "f48e7c0f1a32" },
-    { "name": "Cusco", "id": "a59f8d1a2b43" },
-    { "name": "Huancayo", "id": "b60a9e2b3c54" },
-    { "name": "Tacna", "id": "c71b0f3c4d65" },
-    { "name": "Juliaca", "id": "d82c1a4d5e76" }
+    {
+      "name": "Abancay",
+      "id": "qil5c1M2AO2y"
+    },
+    {
+      "name": "Arequipa",
+      "id": "UyR9SPZTNTmX"
+    },
+    {
+      "name": "Ate",
+      "id": "V4yN0Kjn9RX0"
+    },
+    {
+      "name": "Ayacucho",
+      "id": "Tx4YVdRccnSJ"
+    },
+    {
+      "name": "Bagua",
+      "id": "juJvMR6zFkAW"
+    },
+    {
+      "name": "Barranca",
+      "id": "5NFLMwb2ls34"
+    },
+    {
+      "name": "Barranco",
+      "id": "OCw7jO0h-Fu8"
+    },
+    {
+      "name": "Bellavista",
+      "id": "jGb_Krx5LJt2"
+    },
+    {
+      "name": "Bolivar",
+      "id": "5m2V5rfVJOUk"
+    },
+    {
+      "name": "Cajamarca",
+      "id": "og81RnhM7pGt"
+    },
+    {
+      "name": "Callao",
+      "id": "vwCg-9operK3"
+    },
+    {
+      "name": "Calle",
+      "id": "_u0KpbMqCrm0"
+    },
+    {
+      "name": "Caras",
+      "id": "WoFjvhLjpiYa"
+    },
+    {
+      "name": "Cerro de Pasco",
+      "id": "Myv0S5Moi1Y6"
+    },
+    {
+      "name": "Chachapoyas",
+      "id": "XtgWrUVBUvTF"
+    },
+    {
+      "name": "Chiclayo",
+      "id": "6ytoEqIAa_y6"
+    },
+    {
+      "name": "Chimbote",
+      "id": "oyDb-O78Nt1L"
+    },
+    {
+      "name": "Chincha",
+      "id": "3kYU_9M8syH4"
+    },
+    {
+      "name": "Cusco",
+      "id": "fLJ4MDz1Ugg3"
+    },
+    {
+      "name": "Cuzco",
+      "id": "Isj-DyuJdbzg"
+    },
+    {
+      "name": "El Agustino",
+      "id": "9PCnG6oBpnrq"
+    },
+    {
+      "name": "Hacienda La Palma",
+      "id": "WKPx5T05lr7Y"
+    },
+    {
+      "name": "Huacho",
+      "id": "yMLVRVKduwAB"
+    },
+    {
+      "name": "Huancavelica",
+      "id": "PZTAMZCYp5TN"
+    },
+    {
+      "name": "Huancayo",
+      "id": "b8M-nb4oi01Y"
+    },
+    {
+      "name": "Huaral",
+      "id": "VMwIpaXw8oRj"
+    },
+    {
+      "name": "Huaraz",
+      "id": "ZZaIosIXhZRs"
+    },
+    {
+      "name": "Huaytara",
+      "id": "9tqxtjE1iaY2"
+    },
+    {
+      "name": "Ica",
+      "id": "kds1yybTryb6"
+    },
+    {
+      "name": "Ilo",
+      "id": "x_RZA0BI5U_i"
+    },
+    {
+      "name": "Imperial",
+      "id": "YQE_jFYbvs3F"
+    },
+    {
+      "name": "Iquitos",
+      "id": "FhKlFMQ8I0rX"
+    },
+    {
+      "name": "Jaen",
+      "id": "AcuT_B-jli2P"
+    },
+    {
+      "name": "Jesus Maria",
+      "id": "Vj80Z6xl6Y41"
+    },
+    {
+      "name": "Jose Olaya",
+      "id": "Lgo_KkH_OqKv"
+    },
+    {
+      "name": "Juliaca",
+      "id": "J3BRUtStYY5F"
+    },
+    {
+      "name": "Junin",
+      "id": "N2ZInUsDzHPc"
+    },
+    {
+      "name": "La Molina",
+      "id": "eO7_r9rqoLmQ"
+    },
+    {
+      "name": "La Perla",
+      "id": "AenlvBI6_2oT"
+    },
+    {
+      "name": "La Punta",
+      "id": "htx4I3pWkQYh"
+    },
+    {
+      "name": "Lambayeque",
+      "id": "FjfecdapLbLc"
+    },
+    {
+      "name": "Lima",
+      "id": "Gz71lcL_H-YB"
+    },
+    {
+      "name": "Lince",
+      "id": "Lr-vbblTQOzk"
+    },
+    {
+      "name": "Loreto",
+      "id": "DIe4V4WyRnN8"
+    },
+    {
+      "name": "Lurigancho",
+      "id": "foCztxnbMG3u"
+    },
+    {
+      "name": "Machu Picchu",
+      "id": "4OsGOfnruIwu"
+    },
+    {
+      "name": "Maldonado",
+      "id": "K6uRFHbCgGYy"
+    },
+    {
+      "name": "Minas de Marcona",
+      "id": "Wz6NFHEhm5OJ"
+    },
+    {
+      "name": "Miraflores",
+      "id": "l9qToZH_LsfG"
+    },
+    {
+      "name": "Moquegua",
+      "id": "dGAQSJKiZ2zR"
+    },
+    {
+      "name": "Moyobamba",
+      "id": "XBvEefwN3Ntj"
+    },
+    {
+      "name": "Pasco",
+      "id": "IxlkVSyisphk"
+    },
+    {
+      "name": "Paucarpata",
+      "id": "6_Ku1cBCjzh5"
+    },
+    {
+      "name": "Pimentel",
+      "id": "pw43kYNVRPZc"
+    },
+    {
+      "name": "Pisco",
+      "id": "1qeWK8RTekv2"
+    },
+    {
+      "name": "Piura",
+      "id": "UiJXDTdLN0KH"
+    },
+    {
+      "name": "Progreso",
+      "id": "3ATRUjbCkdGu"
+    },
+    {
+      "name": "Pucallpa",
+      "id": "daQ1qhs_9AEW"
+    },
+    {
+      "name": "Puerto Inca",
+      "id": "pJ8T08Twt_v4"
+    },
+    {
+      "name": "Puerto Maldonado",
+      "id": "lkZOYb_hkQK8"
+    },
+    {
+      "name": "Puno",
+      "id": "ccuvW0JLmAzQ"
+    },
+    {
+      "name": "Rimac",
+      "id": "A3m-gXD6fnPT"
+    },
+    {
+      "name": "Rioja",
+      "id": "CtCpOW4pTIFA"
+    },
+    {
+      "name": "San Borja",
+      "id": "OyhD4JwiA28t"
+    },
+    {
+      "name": "San Isidro",
+      "id": "mgxjxXXAvaf6"
+    },
+    {
+      "name": "San Juan Bautista",
+      "id": "kz6nGEPL3XP-"
+    },
+    {
+      "name": "San Martin",
+      "id": "YzBTm2zTWKt4"
+    },
+    {
+      "name": "San Miguel",
+      "id": "CwqFV7GyBuVk"
+    },
+    {
+      "name": "Santa",
+      "id": "3mlN1oNLAcKq"
+    },
+    {
+      "name": "Santiago",
+      "id": "qCLumeHJLG0a"
+    },
+    {
+      "name": "Santiago De Surco",
+      "id": "3lTWf5rA_WYd"
+    },
+    {
+      "name": "Sullana",
+      "id": "LVRZDnIbswmR"
+    },
+    {
+      "name": "Surco",
+      "id": "NCkz6noVneEB"
+    },
+    {
+      "name": "Surquillo",
+      "id": "Rnu-nAJoqhFi"
+    },
+    {
+      "name": "Tacna",
+      "id": "KK9iEAJYcRTq"
+    },
+    {
+      "name": "Talara",
+      "id": "Q3C0KrwS35G7"
+    },
+    {
+      "name": "Tarapoto",
+      "id": "ru3PBQhYBepq"
+    },
+    {
+      "name": "Tingo Maria",
+      "id": "iYaGA4l2tcnT"
+    },
+    {
+      "name": "Trujillo",
+      "id": "7KKKs10yByeK"
+    },
+    {
+      "name": "Tumbes",
+      "id": "9uXHY39Zf2fk"
+    },
+    {
+      "name": "Ventanilla",
+      "id": "c72cR5VSsFSv"
+    },
+    {
+      "name": "Victoria",
+      "id": "UdFSBQ8F8MiP"
+    }
   ]
 }

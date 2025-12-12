@@ -1,15 +1,97 @@
 {
   "coid": "KE",
   "cities": [
-    { "name": "Nairobi", "id": "a83f1d2b4c65" },
-    { "name": "Mombasa", "id": "b94a2e3c5d76" },
-    { "name": "Kisumu", "id": "c15b3f4d6e87" },
-    { "name": "Nakuru", "id": "d26c4a5e7f98" },
-    { "name": "Eldoret", "id": "e37d5b6f8a09" },
-    { "name": "Thika", "id": "f48e6c7a9b10" },
-    { "name": "Malindi", "id": "a59f7d8b0c21" },
-    { "name": "Kitale", "id": "b60a8e9c1d32" },
-    { "name": "Garissa", "id": "c71b9f0d2e43" },
-    { "name": "Kakamega", "id": "d82c1a3d4e55" }
+    {
+      "name": "Bondo",
+      "id": "W9XFquOdlk-D"
+    },
+    {
+      "name": "Chuka",
+      "id": "QJMc-NH7x2uS"
+    },
+    {
+      "name": "Eldoret",
+      "id": "ePugvvXniWBV"
+    },
+    {
+      "name": "Kabete",
+      "id": "FjNDmUgUZjLM"
+    },
+    {
+      "name": "Kaiboi",
+      "id": "UpIa2gnPCB3Q"
+    },
+    {
+      "name": "Karatina",
+      "id": "5LaxIblAVFuC"
+    },
+    {
+      "name": "Kiambu",
+      "id": "WIUAqY4AAiC5"
+    },
+    {
+      "name": "Kikuyu",
+      "id": "knDFYXJbfvOK"
+    },
+    {
+      "name": "Kisii",
+      "id": "q_k8APRHi095"
+    },
+    {
+      "name": "Kisumu",
+      "id": "9ojVXsqdGquF"
+    },
+    {
+      "name": "Kitale",
+      "id": "S3EHqTG72Jww"
+    },
+    {
+      "name": "Kitui",
+      "id": "hoY7Yrpl0UzW"
+    },
+    {
+      "name": "Machakos",
+      "id": "S7YuXESL-3GF"
+    },
+    {
+      "name": "Maseno",
+      "id": "uu_FQWaQvvlr"
+    },
+    {
+      "name": "Mbita",
+      "id": "IQyw5t0bqHyE"
+    },
+    {
+      "name": "Mombasa",
+      "id": "Ts8EVkZa-pZo"
+    },
+    {
+      "name": "Nairobi",
+      "id": "-oxX32yZfPBY"
+    },
+    {
+      "name": "Nakuru",
+      "id": "CtN6Dk4F5d_A"
+    },
+    {
+      "name": "Sawa Sawa",
+      "id": "Ec8axlgJidGS"
+    },
+    {
+      "name": "Siaya",
+      "id": "9uSwN0OqGk6y"
+    },
+    {
+      "name": "Thika",
+      "id": "y5-QK7bLRybI"
+    },
+    {
+      "name": "Turbo",
+      "id": "Z_hERIpoRSOE"
+    },
+    {
+      "name": "Wote",
+      "id": "WqTyEIow9tzP"
+    }
   ]
 }

@@ -1,15 +1,45 @@
 {
   "coid": "DM",
   "cities": [
-    { "name": "Roseau", "id": "a83f1d2b4c65" },
-    { "name": "Portsmouth", "id": "b94a2e3c5d76" },
-    { "name": "Marigot", "id": "c15b3f4d6e87" },
-    { "name": "Berekua", "id": "d26c4a5e7f98" },
-    { "name": "Wesley", "id": "e37d5b6f8a09" },
-    { "name": "Mahaut", "id": "f48e6c7a9b10" },
-    { "name": "Castle Bruce", "id": "a59f7d8b0c21" },
-    { "name": "La Plaine", "id": "b60a8e9c1d32" },
-    { "name": "Salisbury", "id": "c71b9f0d2e43" },
-    { "name": "Colihaut", "id": "d82c1a3d4e55" }
+    {
+      "name": "Roseau",
+      "id": "U_KC9VAQkT4m"
+    },
+    {
+      "name": "Portsmouth",
+      "id": "rTMJ2fUP_ukq"
+    },
+    {
+      "name": "Marigot",
+      "id": "SbV-K-vOai8T"
+    },
+    {
+      "name": "Berekua",
+      "id": "LWaLZ45uxhdO"
+    },
+    {
+      "name": "Wesley",
+      "id": "kTvUOjjOxWDN"
+    },
+    {
+      "name": "Mahaut",
+      "id": "3eb3H0IeHfWz"
+    },
+    {
+      "name": "Castle Bruce",
+      "id": "IcvYkUL2j6of"
+    },
+    {
+      "name": "La Plaine",
+      "id": "SpQ_GLIUw6m3"
+    },
+    {
+      "name": "Salisbury",
+      "id": "MHM9MiaQ4By_"
+    },
+    {
+      "name": "Colihaut",
+      "id": "kj58Vaqzb32A"
+    }
   ]
 }

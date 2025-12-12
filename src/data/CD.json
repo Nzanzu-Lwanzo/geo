@@ -1,15 +1,45 @@
 {
   "coid": "CD",
   "cities": [
-    { "name": "Kinshasa", "id": "c93b2f5c6d77" },
-    { "name": "Lubumbashi", "id": "d04c3a6d7e88" },
-    { "name": "Mbuji-Mayi", "id": "e15d4b7e8f99" },
-    { "name": "Kisangani", "id": "f26e5c8f9a10" },
-    { "name": "Bukavu", "id": "a37f6d9a0b21" },
-    { "name": "Goma", "id": "b48a7e0b1c32" },
-    { "name": "Kolwezi", "id": "c59b8f1c2d43" },
-    { "name": "Likasi", "id": "d60c9a2d3e54" },
-    { "name": "Tshikapa", "id": "e71d0b3e4f65" },
-    { "name": "Kananga", "id": "f82e1c4f5a76" }
+    {
+      "name": "Kinshasa",
+      "id": "_3d-Qcu860XK"
+    },
+    {
+      "name": "Lubumbashi",
+      "id": "6Xoa8b2BQCI-"
+    },
+    {
+      "name": "Mbuji-Mayi",
+      "id": "4QRCite9KboA"
+    },
+    {
+      "name": "Kisangani",
+      "id": "OmDKWNJo7rUe"
+    },
+    {
+      "name": "Bukavu",
+      "id": "lCuQQRr04f2Z"
+    },
+    {
+      "name": "Goma",
+      "id": "Z_8SyG15--0z"
+    },
+    {
+      "name": "Kolwezi",
+      "id": "IxeMAA6fIADd"
+    },
+    {
+      "name": "Likasi",
+      "id": "b3sAUfCgUuAn"
+    },
+    {
+      "name": "Tshikapa",
+      "id": "C7iBDtpi818U"
+    },
+    {
+      "name": "Kananga",
+      "id": "DF5XYJT_U_s0"
+    }
   ]
 }

@@ -1,15 +1,69 @@
 {
   "coid": "UY",
   "cities": [
-    { "name": "Montevideo", "id": "e1f2a3b4c5d6" },
-    { "name": "Salto", "id": "f2a3b4c5d6e7" },
-    { "name": "Paysandú", "id": "a3b4c5d6e7f8" },
-    { "name": "Maldonado", "id": "b3c4d5e6f7a9" },
-    { "name": "Rivera", "id": "c4d5e6f7a8b0" },
-    { "name": "Tacuarembó", "id": "d5e6f7a8b9c1" },
-    { "name": "Mercedes", "id": "e6f7a8b9c0d2" },
-    { "name": "Artigas", "id": "f7a8b9c0d1e3" },
-    { "name": "Colonia del Sacramento", "id": "a8b9c0d1e2f4" },
-    { "name": "Florida", "id": "b9c0d1e2f3a5" }
+    {
+      "name": "Barra de Carrasco",
+      "id": "WgAlKyWKCULu"
+    },
+    {
+      "name": "Canelones",
+      "id": "pnjrF-BrVIjs"
+    },
+    {
+      "name": "Colonia del Sacramento",
+      "id": "tZPBB4O0aFWt"
+    },
+    {
+      "name": "Durazno",
+      "id": "62vMuJyB6Inf"
+    },
+    {
+      "name": "Florida",
+      "id": "oH4ySXnFIc7a"
+    },
+    {
+      "name": "La Floresta",
+      "id": "tlK0o_q1ebU4"
+    },
+    {
+      "name": "La Paz",
+      "id": "T4HVl5nQPGL0"
+    },
+    {
+      "name": "Las Piedras",
+      "id": "W7u-t-Xn4-NZ"
+    },
+    {
+      "name": "Maldonado",
+      "id": "eUOZTi4baO_X"
+    },
+    {
+      "name": "Mercedes",
+      "id": "q5rbil7inVUF"
+    },
+    {
+      "name": "Montevideo",
+      "id": "j0c8tVv6-h0S"
+    },
+    {
+      "name": "Punta del Este",
+      "id": "cY6nGdRKjbqy"
+    },
+    {
+      "name": "Salto",
+      "id": "KxeOm-daL1XN"
+    },
+    {
+      "name": "San Carlos",
+      "id": "JO8JOBJj_kBO"
+    },
+    {
+      "name": "Toledo",
+      "id": "905-Ad7oygiZ"
+    },
+    {
+      "name": "Union",
+      "id": "H141ofr_oH9c"
+    }
   ]
 }

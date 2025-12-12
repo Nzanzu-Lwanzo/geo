@@ -1,15 +1,37 @@
 {
   "coid": "GN",
   "cities": [
-    { "name": "Conakry", "id": "c93b2f5c6d77" },
-    { "name": "Nzérékoré", "id": "d04c3a6d7e88" },
-    { "name": "Kankan", "id": "e15d4b7e8f99" },
-    { "name": "Kindia", "id": "f26e5c8f9a10" },
-    { "name": "Labé", "id": "a37f6d9a0b21" },
-    { "name": "Boké", "id": "b48a7e0b1c32" },
-    { "name": "Mamou", "id": "c59b8f1c2d43" },
-    { "name": "Siguiri", "id": "d60c9a2d3e54" },
-    { "name": "Faranah", "id": "e71d0b3e4f65" },
-    { "name": "Kissidougou", "id": "f82e1c4f5a76" }
+    {
+      "name": "Conakry",
+      "id": "EVxAyBWHOUcv"
+    },
+    {
+      "name": "Dabola",
+      "id": "SstZ8jpZ2apr"
+    },
+    {
+      "name": "Kalia",
+      "id": "-gN-Z4nfndMW"
+    },
+    {
+      "name": "Kankan",
+      "id": "l9gepeJT9kkZ"
+    },
+    {
+      "name": "Lola",
+      "id": "jRUmsZDzsObg"
+    },
+    {
+      "name": "Mamou",
+      "id": "LHhSEhL5MCO4"
+    },
+    {
+      "name": "Port Kamsar",
+      "id": "pGM_hgvZI7Oz"
+    },
+    {
+      "name": "Sangaredi",
+      "id": "MhENuqUj-ksb"
+    }
   ]
 }

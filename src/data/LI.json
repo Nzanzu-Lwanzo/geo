@@ -1,15 +1,61 @@
 {
   "coid": "LI",
   "cities": [
-    { "name": "Vaduz", "id": "a83f1d2b4c65" },
-    { "name": "Schaan", "id": "b94a2e3c5d76" },
-    { "name": "Balzers", "id": "c15b3f4d6e87" },
-    { "name": "Eschen", "id": "d26c4a5e7f98" },
-    { "name": "Mauren", "id": "e37d5b6f8a09" },
-    { "name": "Triesen", "id": "f48e6c7a9b10" },
-    { "name": "Ruggell", "id": "a59f7d8b0c21" },
-    { "name": "Gamprin", "id": "b60a8e9c1d32" },
-    { "name": "Schellenberg", "id": "c71b9f0d2e43" },
-    { "name": "Planken", "id": "d82c1a3d4e55" }
+    {
+      "name": "Balzers",
+      "id": "fvRNWrG0wes3"
+    },
+    {
+      "name": "Bendern",
+      "id": "frbmnR-RvjOu"
+    },
+    {
+      "name": "Eschen",
+      "id": "IGqI2jkY3ti5"
+    },
+    {
+      "name": "Gamprin",
+      "id": "811uLp1lmWlW"
+    },
+    {
+      "name": "Mauren",
+      "id": "PTeMr-VLhZI1"
+    },
+    {
+      "name": "Nendeln",
+      "id": "6T8oNHITIwRh"
+    },
+    {
+      "name": "Planken",
+      "id": "uHF9ujgJQWs1"
+    },
+    {
+      "name": "Ruggell",
+      "id": "UyKZaVeZS0DQ"
+    },
+    {
+      "name": "Schaan",
+      "id": "cn02QnFeCV5F"
+    },
+    {
+      "name": "Schaanwald",
+      "id": "fSv-DE0pxeVg"
+    },
+    {
+      "name": "Schellenberg",
+      "id": "gF7Aqr2jcB3R"
+    },
+    {
+      "name": "Triesen",
+      "id": "RBlGMowzFXYW"
+    },
+    {
+      "name": "Triesenberg",
+      "id": "EwV086Z2hC3C"
+    },
+    {
+      "name": "Vaduz",
+      "id": "ZTQaVDyMx92J"
+    }
   ]
 }

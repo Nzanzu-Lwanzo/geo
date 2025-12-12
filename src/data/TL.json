@@ -1,15 +1,45 @@
 {
   "coid": "TL",
   "cities": [
-    { "name": "Dili", "id": "c3d4e5f6a7b9" },
-    { "name": "Baucau", "id": "d4e5f6a7b8c0" },
-    { "name": "Maliana", "id": "e5f6a7b8c9d1" },
-    { "name": "Suai", "id": "f6a7b8c9d0e2" },
-    { "name": "Lospalos", "id": "a7b8c9d0e1f3" },
-    { "name": "Liquiçá", "id": "b7c8d9e0f1a4" },
-    { "name": "Viqueque", "id": "c8d9e0f1a2b5" },
-    { "name": "Oecusse", "id": "d9e0f1a2b3c6" },
-    { "name": "Ainaro", "id": "e0f1a2b3c4d7" },
-    { "name": "Manatuto", "id": "f1a2b3c4d5e8" }
+    {
+      "name": "Dili",
+      "id": "fmZFqMd39b_r"
+    },
+    {
+      "name": "Baucau",
+      "id": "heTod-d7zvcT"
+    },
+    {
+      "name": "Maliana",
+      "id": "hXLN0xBs79IT"
+    },
+    {
+      "name": "Suai",
+      "id": "71UJQajtrpVu"
+    },
+    {
+      "name": "Lospalos",
+      "id": "HyalfCoCpao9"
+    },
+    {
+      "name": "Liquiçá",
+      "id": "UtSuG79PPcIR"
+    },
+    {
+      "name": "Viqueque",
+      "id": "ARB4LemGCj0N"
+    },
+    {
+      "name": "Oecusse",
+      "id": "TfBfAUranWVe"
+    },
+    {
+      "name": "Ainaro",
+      "id": "y7oHtQtYkgq8"
+    },
+    {
+      "name": "Manatuto",
+      "id": "5xrr66aqzbMw"
+    }
   ]
 }

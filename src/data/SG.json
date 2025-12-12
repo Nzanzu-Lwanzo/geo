@@ -1,15 +1,141 @@
 {
   "coid": "SG",
   "cities": [
-    { "name": "Singapore", "id": "c2q4s6u8w0y1" },
-    { "name": "Tampines", "id": "d3r5t7v9x1z2" },
-    { "name": "Jurong East", "id": "e4s6u8w0y2a3" },
-    { "name": "Woodlands", "id": "f5t7v9x1z3b4" },
-    { "name": "Hougang", "id": "a6u8w0y2a4c5" },
-    { "name": "Bedok", "id": "b7v9x1z3b5d6" },
-    { "name": "Clementi", "id": "c8w0y2a4c6e7" },
-    { "name": "Bukit Merah", "id": "d9x1z3b5d7f8" },
-    { "name": "Ang Mo Kio", "id": "e0y2a4c6e8g9" },
-    { "name": "Sengkang", "id": "f1z3b5d7f9h0" }
+    {
+      "name": "Ang Mo Kio New Town",
+      "id": "BFI37_zuu9JI"
+    },
+    {
+      "name": "Ayer Raja New Town",
+      "id": "uACIHnTSqdBR"
+    },
+    {
+      "name": "Bedok New Town",
+      "id": "Y8936lIdDtR7"
+    },
+    {
+      "name": "Boon Lay",
+      "id": "0EL7S12vj6fy"
+    },
+    {
+      "name": "Bukit Batok New Town",
+      "id": "9ZDwt5nr4Kt4"
+    },
+    {
+      "name": "Bukit Panjang New Town",
+      "id": "nNBRMMFRqBC4"
+    },
+    {
+      "name": "Bukit Timah",
+      "id": "PMemdxtkXaIQ"
+    },
+    {
+      "name": "Bukit Timah Estate",
+      "id": "1oCuoeWd1ZgW"
+    },
+    {
+      "name": "Changi Village",
+      "id": "FulRugkrEGR4"
+    },
+    {
+      "name": "Choa Chu Kang New Town",
+      "id": "TTjltRcQSnPt"
+    },
+    {
+      "name": "Clementi New Town",
+      "id": "_To1ydzACcgV"
+    },
+    {
+      "name": "Holland Village",
+      "id": "8UYIpQ_QIbEP"
+    },
+    {
+      "name": "Hougang",
+      "id": "3oP08rEm8yah"
+    },
+    {
+      "name": "Jurong East New Town",
+      "id": "krcglldYo2H0"
+    },
+    {
+      "name": "Jurong Town",
+      "id": "kykJjd2n8hkX"
+    },
+    {
+      "name": "Jurong West New Town",
+      "id": "ozhS5-KRxawZ"
+    },
+    {
+      "name": "Kalang",
+      "id": "CaMLw8BWfxHo"
+    },
+    {
+      "name": "Kampong Pasir Ris",
+      "id": "kAfZUJ6k17K0"
+    },
+    {
+      "name": "Kembangan",
+      "id": "UgbnaJE1TDF3"
+    },
+    {
+      "name": "Pandan Valley",
+      "id": "XnXXlxPe2IED"
+    },
+    {
+      "name": "Pasir Panjang",
+      "id": "NcU9W7zzGfkG"
+    },
+    {
+      "name": "Punggol",
+      "id": "olqaOxQ_IBER"
+    },
+    {
+      "name": "Queenstown Estate",
+      "id": "b9EfzYSpe-dt"
+    },
+    {
+      "name": "Serangoon",
+      "id": "fMmypFnb1MGM"
+    },
+    {
+      "name": "Simei New Town",
+      "id": "3fE8kKYW5Vma"
+    },
+    {
+      "name": "Singapore",
+      "id": "vgIW63Fm3KlH"
+    },
+    {
+      "name": "Tai Seng",
+      "id": "Z9aVZItlcbU6"
+    },
+    {
+      "name": "Tampines New Town",
+      "id": "3mQC3vzUIIYv"
+    },
+    {
+      "name": "Tanglin Halt",
+      "id": "4M0dJuJmy0Jr"
+    },
+    {
+      "name": "Tanjong Pagar",
+      "id": "TfolHxOvjkbZ"
+    },
+    {
+      "name": "Toa Payoh New Town",
+      "id": "xQhOkiqvSthq"
+    },
+    {
+      "name": "Woodlands New Town",
+      "id": "Ro7PZcohYFO2"
+    },
+    {
+      "name": "Yew Tee",
+      "id": "MBjJ3buviDH9"
+    },
+    {
+      "name": "Yishun New Town",
+      "id": "kQ_NEuyvCByk"
+    }
   ]
 }

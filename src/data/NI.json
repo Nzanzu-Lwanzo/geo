@@ -1,15 +1,57 @@
 {
   "coid": "NI",
   "cities": [
-    { "name": "Managua", "id": "e93d2b4e5f66" },
-    { "name": "León", "id": "f04e3c5f6a77" },
-    { "name": "Masaya", "id": "a15f4d6a7b88" },
-    { "name": "Chinandega", "id": "b26a5e7b8c99" },
-    { "name": "Matagalpa", "id": "c37b6f8c9d10" },
-    { "name": "Estelí", "id": "d48c7a9d0e21" },
-    { "name": "Granada", "id": "e59d8b1e2f33" },
-    { "name": "Jinotega", "id": "f60e9c2f3a44" },
-    { "name": "Bluefields", "id": "a71f0d3a4b55" },
-    { "name": "Rivas", "id": "b82a1e4b5c66" }
+    {
+      "name": "Bluefields",
+      "id": "X4cIm9ga4Rl4"
+    },
+    {
+      "name": "Chinandega",
+      "id": "yAt8YEZgUx7c"
+    },
+    {
+      "name": "El Panama",
+      "id": "P0NSqJY6GKv0"
+    },
+    {
+      "name": "Esteli",
+      "id": "2iddiww7-ppx"
+    },
+    {
+      "name": "Granada",
+      "id": "ho_l6QyWBqkH"
+    },
+    {
+      "name": "Jinotega",
+      "id": "x6dBuKjWXxDS"
+    },
+    {
+      "name": "Los Arados",
+      "id": "samsHdPAh4kS"
+    },
+    {
+      "name": "Managua",
+      "id": "IahW2AGOmj0b"
+    },
+    {
+      "name": "Masaya",
+      "id": "42HGkbxonmgP"
+    },
+    {
+      "name": "Matagalpa",
+      "id": "wBVdOf3fA8j5"
+    },
+    {
+      "name": "Ocotal",
+      "id": "IdpfnfK2hs91"
+    },
+    {
+      "name": "Rivas",
+      "id": "4qIPKhpYip7N"
+    },
+    {
+      "name": "San Juan del Sur",
+      "id": "U_HTlGc6ie7M"
+    }
   ]
 }

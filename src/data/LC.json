@@ -1,15 +1,29 @@
 {
   "coid": "LC",
   "cities": [
-    { "name": "Castries", "id": "c3d4e5f6a7b8" },
-    { "name": "Gros Islet", "id": "d4e5f6a7b8c9" },
-    { "name": "Vieux Fort", "id": "e5f6a7b8c9d0" },
-    { "name": "Soufrière", "id": "f6a7b8c9d0e1" },
-    { "name": "Dennery", "id": "a7b8c9d0e1f3" },
-    { "name": "Choiseul", "id": "b8c9d0e1f2a4" },
-    { "name": "Anse La Raye", "id": "c9d0e1f2a3b5" },
-    { "name": "Laborie", "id": "d0e1f2a3b4c6" },
-    { "name": "Micoud", "id": "e1f2a3b4c5d7" },
-    { "name": "Canaries", "id": "f2a3b4c5d6e8" }
+    {
+      "name": "Anse La Raye",
+      "id": "zYZqHX95Hu39"
+    },
+    {
+      "name": "Castries",
+      "id": "H2u3pM2zNGsi"
+    },
+    {
+      "name": "Choiseul",
+      "id": "-2q4ggPJuqwO"
+    },
+    {
+      "name": "Dauphin",
+      "id": "ned_7-HzHlLj"
+    },
+    {
+      "name": "Gros Islet",
+      "id": "ZFQv8ZMOOiik"
+    },
+    {
+      "name": "Vieux Fort",
+      "id": "_I-UQDncZzCD"
+    }
   ]
 }

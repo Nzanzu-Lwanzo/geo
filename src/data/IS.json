@@ -1,15 +1,77 @@
 {
   "coid": "IS",
   "cities": [
-    { "name": "Reykjavík", "id": "a93f2d5a6b87" },
-    { "name": "Kópavogur", "id": "b04a3e6b7c98" },
-    { "name": "Hafnarfjörður", "id": "c15b4f7c8d09" },
-    { "name": "Akureyri", "id": "d26c5a8d9e10" },
-    { "name": "Reykjanesbær", "id": "e37d6b9e0f21" },
-    { "name": "Garðabær", "id": "f48e7c0f1a32" },
-    { "name": "Mosfellsbær", "id": "a59f8d1a2b43" },
-    { "name": "Árborg", "id": "b60a9e2b3c54" },
-    { "name": "Akranes", "id": "c71b0f3c4d65" },
-    { "name": "Fjarðabyggð", "id": "d82c1a4d5e76" }
+    {
+      "name": "Akranes",
+      "id": "GsiXb4ZJov8O"
+    },
+    {
+      "name": "Akureyri",
+      "id": "01hUscevNLii"
+    },
+    {
+      "name": "Borgarnes",
+      "id": "SoFNsabIykgl"
+    },
+    {
+      "name": "Dalvik",
+      "id": "7pR2OABEQrYk"
+    },
+    {
+      "name": "Grindavik",
+      "id": "rBcrVoyogFxy"
+    },
+    {
+      "name": "Hella",
+      "id": "GlJickt7VvT_"
+    },
+    {
+      "name": "Holmavik",
+      "id": "ixu6mVWTbO17"
+    },
+    {
+      "name": "Husavik",
+      "id": "hEOJNZ_zKnyN"
+    },
+    {
+      "name": "Hvammstangi",
+      "id": "u700Kz2XFXv4"
+    },
+    {
+      "name": "Hveragerdi",
+      "id": "-kHbK4ZViU9a"
+    },
+    {
+      "name": "Hvolsvollur",
+      "id": "sXwW31mI-cdm"
+    },
+    {
+      "name": "Kopavogur",
+      "id": "yrO9bzgiADKp"
+    },
+    {
+      "name": "Reykjavik",
+      "id": "6xpTqXbenJ-f"
+    },
+    {
+      "name": "Selfoss",
+      "id": "cVOgeXdnQjd4"
+    },
+    {
+      "name": "Skagastrond",
+      "id": "-pwOqXnBqYuI"
+    },
+    {
+      "name": "Stokkseyri",
+      "id": "4cT-AwalBDMJ"
+    },
+    {
+      "name": "Vestmannaeyjar",
+      "id": "8ui5FT9FD5kZ"
+    },
+    {
+      "name": "Vogar",
+      "id": "G1IfA3kd8q3Z"
+    }
   ]
 }

@@ -1,15 +1,1401 @@
 {
   "coid": "RO",
   "cities": [
-    { "name": "Bucharest", "id": "a93f2d5a6b87" },
-    { "name": "Cluj-Napoca", "id": "b04a3e6b7c98" },
-    { "name": "Timișoara", "id": "c15b4f7c8d09" },
-    { "name": "Iași", "id": "d26c5a8d9e10" },
-    { "name": "Constanța", "id": "e37d6b9e0f21" },
-    { "name": "Craiova", "id": "f48e7c0f1a32" },
-    { "name": "Brașov", "id": "a59f8d1a2b43" },
-    { "name": "Galați", "id": "b60a9e2b3c54" },
-    { "name": "Ploiești", "id": "c71b0f3c4d65" },
-    { "name": "Oradea", "id": "d82c1a4d5e76" }
+    {
+      "name": "Adjud",
+      "id": "m6iiwte4uzbZ"
+    },
+    {
+      "name": "Afumati",
+      "id": "Y0MfFgIrwbkB"
+    },
+    {
+      "name": "Agnita",
+      "id": "3t2FlLRJ8d-M"
+    },
+    {
+      "name": "Aiud",
+      "id": "7n3PGuRgkSGK"
+    },
+    {
+      "name": "Alba",
+      "id": "F9eSHgqYYER3"
+    },
+    {
+      "name": "Alba Iulia",
+      "id": "q3FKFK5dRQNC"
+    },
+    {
+      "name": "Albesti-Paleologu",
+      "id": "PHFCR__8xXWx"
+    },
+    {
+      "name": "Alesd",
+      "id": "d1naw3UeN9R8"
+    },
+    {
+      "name": "Alexandria",
+      "id": "fEYPN4-wBrrC"
+    },
+    {
+      "name": "Alunu",
+      "id": "kEt_DK_HSArq"
+    },
+    {
+      "name": "Apahida",
+      "id": "45Lcv90OE4dE"
+    },
+    {
+      "name": "Apata",
+      "id": "K2FsPUrljlEw"
+    },
+    {
+      "name": "Arad",
+      "id": "N_rHwAjKl3Z2"
+    },
+    {
+      "name": "Avrig",
+      "id": "VZ1DRPo5UQWt"
+    },
+    {
+      "name": "Baba Novac",
+      "id": "QOWzGt-KdZlQ"
+    },
+    {
+      "name": "Baia Mare",
+      "id": "h2Mluxa4tves"
+    },
+    {
+      "name": "Baia Sprie",
+      "id": "nm0VBQ4p8ZAt"
+    },
+    {
+      "name": "Baicoi",
+      "id": "ty9XaDw-2gy_"
+    },
+    {
+      "name": "Baile Olanesti",
+      "id": "RcMJFzqh2dKf"
+    },
+    {
+      "name": "Baiut",
+      "id": "5n4TZhp3JSrE"
+    },
+    {
+      "name": "Balomiru de Camp",
+      "id": "UDADsQssjIXc"
+    },
+    {
+      "name": "Balotesti",
+      "id": "aIuYH9nx3e_7"
+    },
+    {
+      "name": "Banesti",
+      "id": "hRUIl_UBynvI"
+    },
+    {
+      "name": "Baraolt",
+      "id": "UOxiCX9Zh_fi"
+    },
+    {
+      "name": "Barbuletu",
+      "id": "J4zXF6ncyRYr"
+    },
+    {
+      "name": "Bascov",
+      "id": "U8SOIMWevOch"
+    },
+    {
+      "name": "Becicherecu Mic",
+      "id": "eWq6VlAY0W7A"
+    },
+    {
+      "name": "Berceni",
+      "id": "OPYt3Iwq2iwI"
+    },
+    {
+      "name": "Berzasca",
+      "id": "twwriPmTi7Rq"
+    },
+    {
+      "name": "Bethausen",
+      "id": "GM6x_5nEIpdU"
+    },
+    {
+      "name": "Bic",
+      "id": "5o-CGdp4CKUw"
+    },
+    {
+      "name": "Bilciuresti",
+      "id": "PejH7UnvWRO-"
+    },
+    {
+      "name": "Birda",
+      "id": "Cy1Le5opDtvA"
+    },
+    {
+      "name": "Blaj",
+      "id": "rs_RtnHqpkcB"
+    },
+    {
+      "name": "Bobolia",
+      "id": "n1tUglYivSJM"
+    },
+    {
+      "name": "Bocsa",
+      "id": "ZLGCYI1FGvJx"
+    },
+    {
+      "name": "Bogdanita",
+      "id": "futkDBkQTJJk"
+    },
+    {
+      "name": "Bolintin Deal",
+      "id": "B2bX8ciWWo2O"
+    },
+    {
+      "name": "Borca",
+      "id": "6kJs9hbXj8oN"
+    },
+    {
+      "name": "Borsa",
+      "id": "JB25co9UqGNb"
+    },
+    {
+      "name": "Bozieni",
+      "id": "GDMFtYL37QeV"
+    },
+    {
+      "name": "Bragadiru",
+      "id": "s_ahbLW1AISt"
+    },
+    {
+      "name": "Branistea",
+      "id": "SZqOx0xLu2Mw"
+    },
+    {
+      "name": "Brazii de Sus",
+      "id": "QLMbf14_xTp4"
+    },
+    {
+      "name": "Breaza",
+      "id": "DXJkrM0_VmwC"
+    },
+    {
+      "name": "Bucecea",
+      "id": "cCypQ3LPVXF5"
+    },
+    {
+      "name": "Bucharest",
+      "id": "QsZpTEyNIgoR"
+    },
+    {
+      "name": "Bucsani",
+      "id": "1e6puCj0Ff8y"
+    },
+    {
+      "name": "Bucu",
+      "id": "4Kq9fxxFvCdy"
+    },
+    {
+      "name": "Bucurestii Noi",
+      "id": "NbbpGUC3WOlH"
+    },
+    {
+      "name": "Buftea",
+      "id": "dpAGPizE24c0"
+    },
+    {
+      "name": "Buhusi",
+      "id": "sWdqI5JIQw6t"
+    },
+    {
+      "name": "Bujor",
+      "id": "Oj3Oy5i4wPmo"
+    },
+    {
+      "name": "Bumbesti-Jiu",
+      "id": "u9gSP5Gz4Jl1"
+    },
+    {
+      "name": "Busteni",
+      "id": "KpO_SVO4hseC"
+    },
+    {
+      "name": "Buzias",
+      "id": "UJoN3eyR5czT"
+    },
+    {
+      "name": "Calafat",
+      "id": "VV2v_nyGiNSo"
+    },
+    {
+      "name": "Calan",
+      "id": "R3_qhy0eq-Dd"
+    },
+    {
+      "name": "Calarasi",
+      "id": "P9PMYJ_AV2FG"
+    },
+    {
+      "name": "Calinesti",
+      "id": "zX1tujqcbAj_"
+    },
+    {
+      "name": "Campeni",
+      "id": "Mj1t451ZAah_"
+    },
+    {
+      "name": "Campia",
+      "id": "AO26fg41HIf1"
+    },
+    {
+      "name": "Campia Turzii",
+      "id": "jF72nrQNWJO0"
+    },
+    {
+      "name": "Campina",
+      "id": "z4WdOZkBvjBJ"
+    },
+    {
+      "name": "Campulung Moldovenesc",
+      "id": "LkzybtweFm4u"
+    },
+    {
+      "name": "Campulung Muscel",
+      "id": "QBz-zF-hjRdH"
+    },
+    {
+      "name": "Cara",
+      "id": "Fvcx5a0XzYIC"
+    },
+    {
+      "name": "Caracal",
+      "id": "qy2hCnm3qlft"
+    },
+    {
+      "name": "Caransebes",
+      "id": "ThNLcBvo4JOd"
+    },
+    {
+      "name": "Carbunesti",
+      "id": "DDcFG6XBTCLO"
+    },
+    {
+      "name": "Carei",
+      "id": "7tDNWq7fSq8-"
+    },
+    {
+      "name": "Catcau",
+      "id": "9j2prWmSiHhn"
+    },
+    {
+      "name": "Catunele",
+      "id": "1zQ0OVRedgkI"
+    },
+    {
+      "name": "Cernisoara",
+      "id": "3jUrBckt2ecT"
+    },
+    {
+      "name": "Cetatea de Balta",
+      "id": "4TxiIOHE_p8q"
+    },
+    {
+      "name": "Cetatuia",
+      "id": "D7HFbD8OUnFc"
+    },
+    {
+      "name": "Chiajna",
+      "id": "_Ufg_QYR3juF"
+    },
+    {
+      "name": "Chiselet",
+      "id": "NvxfV3JImomd"
+    },
+    {
+      "name": "Chisineu-Cris",
+      "id": "WJKxxT2B38W_"
+    },
+    {
+      "name": "Chisoda",
+      "id": "AgXJETiGqX14"
+    },
+    {
+      "name": "Chitila",
+      "id": "2FeLiIcpH34C"
+    },
+    {
+      "name": "Cisnadie",
+      "id": "IkMw5elECIjD"
+    },
+    {
+      "name": "Ciumani",
+      "id": "vA7RWy6507By"
+    },
+    {
+      "name": "Cluj-Napoca",
+      "id": "QZsgbS1xw9Ru"
+    },
+    {
+      "name": "Cobadin",
+      "id": "Tg6O5MfHi40H"
+    },
+    {
+      "name": "Codlea",
+      "id": "b_vskbfejq-a"
+    },
+    {
+      "name": "Cojasca",
+      "id": "5PNDUN6QORba"
+    },
+    {
+      "name": "Comana",
+      "id": "wruwrcynB6JU"
+    },
+    {
+      "name": "Comanesti",
+      "id": "BrQqggoiNNBR"
+    },
+    {
+      "name": "Corabia",
+      "id": "YeY4IruiX1wo"
+    },
+    {
+      "name": "Corbeanca",
+      "id": "NUD9Q40lpSTr"
+    },
+    {
+      "name": "Corbita",
+      "id": "PVfHGoMFw3m6"
+    },
+    {
+      "name": "Corlateni",
+      "id": "y639NxLcu64d"
+    },
+    {
+      "name": "Cosbuc",
+      "id": "_NjP6ccqpKyO"
+    },
+    {
+      "name": "Costesti",
+      "id": "CM1YsgqdRt2C"
+    },
+    {
+      "name": "Cotnari",
+      "id": "VNWcJlbnHovc"
+    },
+    {
+      "name": "Covasna",
+      "id": "rdxrxY6Yebkd"
+    },
+    {
+      "name": "Craiova",
+      "id": "L5EraEDaEMrx"
+    },
+    {
+      "name": "Crangasi",
+      "id": "J_0c8Qryi1pm"
+    },
+    {
+      "name": "Crasna",
+      "id": "kLTGCP0HbCSO"
+    },
+    {
+      "name": "Cris",
+      "id": "1d5VgoDmBeji"
+    },
+    {
+      "name": "Cristian",
+      "id": "qCgddoG_0RxQ"
+    },
+    {
+      "name": "Cristuru Secuiesc",
+      "id": "HjPbLqTIoNVJ"
+    },
+    {
+      "name": "Cugir",
+      "id": "nDvzxuuHrAAL"
+    },
+    {
+      "name": "Curtici",
+      "id": "rkBsOs5WP-ek"
+    },
+    {
+      "name": "Cuza Voda",
+      "id": "sfFZQmd9tWL-"
+    },
+    {
+      "name": "Daia Romana",
+      "id": "sTRnPDuXtCKu"
+    },
+    {
+      "name": "Decebal",
+      "id": "aAYyZ_fA5tOu"
+    },
+    {
+      "name": "Dej",
+      "id": "qQ04okvGLRY3"
+    },
+    {
+      "name": "Deta",
+      "id": "mKBjAF8aSdas"
+    },
+    {
+      "name": "Deva",
+      "id": "h0ziYguYQ_YD"
+    },
+    {
+      "name": "Dimitrie Cantemir",
+      "id": "E6Sh_1UmNxwu"
+    },
+    {
+      "name": "Ditrau",
+      "id": "DikxuJ69zlV7"
+    },
+    {
+      "name": "Doamna",
+      "id": "SX76C0qMvVNQ"
+    },
+    {
+      "name": "Dobroesti",
+      "id": "1HyOybdVymbb"
+    },
+    {
+      "name": "Domnesti",
+      "id": "mbxErtwfAH9P"
+    },
+    {
+      "name": "Dor Marunt",
+      "id": "9BAvbvyS961B"
+    },
+    {
+      "name": "Dorohoi",
+      "id": "8mMWGprex2Py"
+    },
+    {
+      "name": "Dragotesti",
+      "id": "wkPuGBex2F-0"
+    },
+    {
+      "name": "Dridu",
+      "id": "U1WasocIPWWp"
+    },
+    {
+      "name": "Dudestii Vechi",
+      "id": "pw-4NE5EI_-H"
+    },
+    {
+      "name": "Dumbravita",
+      "id": "nkSBnWA6_HOl"
+    },
+    {
+      "name": "Eforie",
+      "id": "mH6fJBdojuD_"
+    },
+    {
+      "name": "Fabrica",
+      "id": "tz9G8BqvqDDd"
+    },
+    {
+      "name": "Faget",
+      "id": "vCT6J2SiDWzn"
+    },
+    {
+      "name": "Fagetu",
+      "id": "-BpLbhBi25kD"
+    },
+    {
+      "name": "Falcau",
+      "id": "zRx9hyUI3Wlt"
+    },
+    {
+      "name": "Falticeni",
+      "id": "WFPM3AjLiF2E"
+    },
+    {
+      "name": "Fetesti",
+      "id": "_9CKqGXWbLor"
+    },
+    {
+      "name": "Filias",
+      "id": "KZBbgtmbBM2C"
+    },
+    {
+      "name": "Filiasi",
+      "id": "tCCG1b4L2pRK"
+    },
+    {
+      "name": "Filipestii de Padure",
+      "id": "pCqJIUeCM09I"
+    },
+    {
+      "name": "Floresti",
+      "id": "ZQfv7kMQHw5o"
+    },
+    {
+      "name": "Fogarasch",
+      "id": "9UXds-A08Ne9"
+    },
+    {
+      "name": "Fundulea",
+      "id": "bLZMJ5z5qhEQ"
+    },
+    {
+      "name": "Gaesti",
+      "id": "NvPuPDemumIq"
+    },
+    {
+      "name": "Garla-Mare",
+      "id": "J7FlcH6qXZbA"
+    },
+    {
+      "name": "Gataia",
+      "id": "esqVixMHNEQ8"
+    },
+    {
+      "name": "Geoagiu",
+      "id": "OexlpIT4bZkH"
+    },
+    {
+      "name": "Gheorgheni",
+      "id": "jEBabqhVOpPL"
+    },
+    {
+      "name": "Gherea",
+      "id": "QmoLy8IJJQXP"
+    },
+    {
+      "name": "Gherla",
+      "id": "95wAe9YkR8YA"
+    },
+    {
+      "name": "Giarmata",
+      "id": "PZ7SycbhAhPM"
+    },
+    {
+      "name": "Gilau",
+      "id": "8awGpekUCpa4"
+    },
+    {
+      "name": "Giroc",
+      "id": "KY9_GIZ_bPoM"
+    },
+    {
+      "name": "Giulesti",
+      "id": "g0MHiV_n2Atw"
+    },
+    {
+      "name": "Giurgiu",
+      "id": "gGAkx8KOcO_j"
+    },
+    {
+      "name": "Glina",
+      "id": "ydvQCIWuDHKm"
+    },
+    {
+      "name": "Gramesti",
+      "id": "Bfgw1dJch1TV"
+    },
+    {
+      "name": "Grojdibodu",
+      "id": "PlrTHsuoCoXX"
+    },
+    {
+      "name": "Gura Humorului",
+      "id": "byKVERX7_UzP"
+    },
+    {
+      "name": "Hangulesti",
+      "id": "N1Cjzg0tb2uf"
+    },
+    {
+      "name": "Harsova",
+      "id": "h2WysU28FiKd"
+    },
+    {
+      "name": "Hateg",
+      "id": "nN3ej_6VhJmt"
+    },
+    {
+      "name": "Horia",
+      "id": "GrC00k731d2a"
+    },
+    {
+      "name": "Huedin",
+      "id": "5sLe-vD1RdvI"
+    },
+    {
+      "name": "Humulesti",
+      "id": "s3Kc4t7txLSi"
+    },
+    {
+      "name": "Hunedoara",
+      "id": "lfgxBNyI2vFJ"
+    },
+    {
+      "name": "Husi",
+      "id": "1toF4nNSkhk1"
+    },
+    {
+      "name": "Iadara",
+      "id": "xmTO06OYXK-V"
+    },
+    {
+      "name": "Iernut",
+      "id": "pf7wfA7VgW3Y"
+    },
+    {
+      "name": "Ion Ghica",
+      "id": "zrevv5hWpMFD"
+    },
+    {
+      "name": "Iorga",
+      "id": "0LDxYoKra1QM"
+    },
+    {
+      "name": "Izvoru Crisului",
+      "id": "9moNXHFoXDvG"
+    },
+    {
+      "name": "Jibou",
+      "id": "NRiy6F6ZGDbW"
+    },
+    {
+      "name": "Jilava",
+      "id": "-zoKeBb010VV"
+    },
+    {
+      "name": "Lacu",
+      "id": "UUpu9iBxap2I"
+    },
+    {
+      "name": "Lacu Sinaia",
+      "id": "LnnW-mNpHxo9"
+    },
+    {
+      "name": "Lancram",
+      "id": "3qCcYcUC1KNO"
+    },
+    {
+      "name": "Lazuri",
+      "id": "_1YZNpZG_t7U"
+    },
+    {
+      "name": "Lehliu-Gara",
+      "id": "zLzpNfeOme8M"
+    },
+    {
+      "name": "Lenauheim",
+      "id": "CbuhBRQXm01z"
+    },
+    {
+      "name": "Livezi",
+      "id": "mLKxmLCPIjFe"
+    },
+    {
+      "name": "Ludesti",
+      "id": "M9d_HTsNfrjg"
+    },
+    {
+      "name": "Lugoj",
+      "id": "GFzaGEyVYQkm"
+    },
+    {
+      "name": "Lunguletu",
+      "id": "3D5BVns2NX9y"
+    },
+    {
+      "name": "Macin",
+      "id": "87F1Pdr250aV"
+    },
+    {
+      "name": "Madaras",
+      "id": "YOB73GAK1xf1"
+    },
+    {
+      "name": "Magura",
+      "id": "Ynjx3eR8rYBx"
+    },
+    {
+      "name": "Magurele",
+      "id": "Vzc1J3792VcF"
+    },
+    {
+      "name": "Mandruloc",
+      "id": "fq6ndkgRTeeB"
+    },
+    {
+      "name": "Mangalia",
+      "id": "DisCcCSADTwP"
+    },
+    {
+      "name": "Manta",
+      "id": "uphHUUZ7n4L2"
+    },
+    {
+      "name": "Marasheshty",
+      "id": "TI5WMQWZ9Jqk"
+    },
+    {
+      "name": "Marasti",
+      "id": "zFSrBN89uFH9"
+    },
+    {
+      "name": "Marginea",
+      "id": "EZp7uO6ywX7Y"
+    },
+    {
+      "name": "Masloc",
+      "id": "fxiJOvZMA5AS"
+    },
+    {
+      "name": "Matasari",
+      "id": "z3dlqM-OnLGM"
+    },
+    {
+      "name": "Matei",
+      "id": "3EMVhUjOV83u"
+    },
+    {
+      "name": "Medgidia",
+      "id": "NNz-cBniOgBo"
+    },
+    {
+      "name": "Miercurea Sibiului",
+      "id": "kSLBXsZzMeB9"
+    },
+    {
+      "name": "Miercurea-Ciuc",
+      "id": "2a-yxVcMCYMG"
+    },
+    {
+      "name": "Mihai Bravu",
+      "id": "3o7WDJdXM-l_"
+    },
+    {
+      "name": "Mihail Kogalniceanu",
+      "id": "VAsK5uKU_qGH"
+    },
+    {
+      "name": "Mioveni",
+      "id": "xq_or8wUzoxK"
+    },
+    {
+      "name": "Mircea",
+      "id": "UzSct5e_Ovs5"
+    },
+    {
+      "name": "Mizil",
+      "id": "2aYu8y3Q8A--"
+    },
+    {
+      "name": "Moara Vlasiei",
+      "id": "L0kRoTUVAmuY"
+    },
+    {
+      "name": "Mocira",
+      "id": "HRKcq200s2AF"
+    },
+    {
+      "name": "Mogosoaia",
+      "id": "0r9dGPwwnyDD"
+    },
+    {
+      "name": "Moinesti",
+      "id": "nivZfiC6hHlV"
+    },
+    {
+      "name": "Moisei",
+      "id": "dVwOzYrQn69i"
+    },
+    {
+      "name": "Moldova Noua",
+      "id": "3yrmbEk8mmYO"
+    },
+    {
+      "name": "Moreni",
+      "id": "XfSGo-W1FqR8"
+    },
+    {
+      "name": "Moroda",
+      "id": "r7bTzFN_NZqJ"
+    },
+    {
+      "name": "Motru",
+      "id": "npQy1RaG4jJZ"
+    },
+    {
+      "name": "Murfatlar",
+      "id": "q1og7LR9_-aW"
+    },
+    {
+      "name": "Musenita",
+      "id": "DL2vSgwjYACH"
+    },
+    {
+      "name": "Nana",
+      "id": "5rt2H4v2_5UE"
+    },
+    {
+      "name": "Nasaud",
+      "id": "KweAIdfFPtew"
+    },
+    {
+      "name": "Navodari",
+      "id": "EarC0Nzg8Stz"
+    },
+    {
+      "name": "Negresti",
+      "id": "1jZ2QwB3BfIB"
+    },
+    {
+      "name": "Negru Voda",
+      "id": "e00EMeMnSxA7"
+    },
+    {
+      "name": "Nenciulesti",
+      "id": "iJKpVd_u68-v"
+    },
+    {
+      "name": "Nicolae Balcescu",
+      "id": "tcVOFAD4olb3"
+    },
+    {
+      "name": "Nucsoara",
+      "id": "MhIcbEQhSJlZ"
+    },
+    {
+      "name": "Obreja",
+      "id": "ettBnCAbwIp3"
+    },
+    {
+      "name": "Ocna Mures",
+      "id": "k0P5NGMJrdb4"
+    },
+    {
+      "name": "Ocnita",
+      "id": "ebA_pYfNJGUi"
+    },
+    {
+      "name": "Odobesti",
+      "id": "E29x0FWcwMUl"
+    },
+    {
+      "name": "Odorheiu Secuiesc",
+      "id": "TkCXss-yN0N9"
+    },
+    {
+      "name": "Oltenita",
+      "id": "-1f29AmBMD10"
+    },
+    {
+      "name": "Oradea",
+      "id": "_IRG47RkcfaF"
+    },
+    {
+      "name": "Oravita",
+      "id": "_rSR_CW47YQY"
+    },
+    {
+      "name": "Orsova",
+      "id": "GQtTg8LoGWkb"
+    },
+    {
+      "name": "Otelu Rosu",
+      "id": "aklKQmp-OlZo"
+    },
+    {
+      "name": "Otopeni",
+      "id": "VnzzB7lCAX9h"
+    },
+    {
+      "name": "Padureni",
+      "id": "_FAfaXRoqnIe"
+    },
+    {
+      "name": "Panciu",
+      "id": "PFcpIm7X3v1P"
+    },
+    {
+      "name": "Panduri",
+      "id": "xfOl7T0hjM7u"
+    },
+    {
+      "name": "Pantelimon",
+      "id": "k7Cpxlx4cbvG"
+    },
+    {
+      "name": "Pascani",
+      "id": "jb-nTEt67KIJ"
+    },
+    {
+      "name": "Patarlagele",
+      "id": "6UWY_XEslN5Z"
+    },
+    {
+      "name": "Pecica",
+      "id": "UmocCdiMLf3Y"
+    },
+    {
+      "name": "Petresti",
+      "id": "aqAanjHTImjH"
+    },
+    {
+      "name": "Plopeni",
+      "id": "alKwspLjloBY"
+    },
+    {
+      "name": "Podu Dambovitei",
+      "id": "c3WRcFT4EkS_"
+    },
+    {
+      "name": "Poiana Ilvei",
+      "id": "28Bv-H8shljv"
+    },
+    {
+      "name": "Popesti",
+      "id": "7oK-Ey_lLmWE"
+    },
+    {
+      "name": "Popesti-Leordeni",
+      "id": "Qw98wRrStjIa"
+    },
+    {
+      "name": "Potlogi",
+      "id": "4vlABoeDfu_9"
+    },
+    {
+      "name": "Prejmer",
+      "id": "GmzEi1qeWn_A"
+    },
+    {
+      "name": "Prim Decembrie",
+      "id": "BJd0YRSgr3Bq"
+    },
+    {
+      "name": "Prod",
+      "id": "evr59gkYVhzq"
+    },
+    {
+      "name": "Pucheni",
+      "id": "UaLD1qH3qx5d"
+    },
+    {
+      "name": "Rabagani",
+      "id": "X8Z36xoMdci-"
+    },
+    {
+      "name": "Racari",
+      "id": "b3Fo9_XgLR4r"
+    },
+    {
+      "name": "Racoasa",
+      "id": "qJAAMUIc4TaC"
+    },
+    {
+      "name": "Racovita",
+      "id": "3StR1BLLJvEO"
+    },
+    {
+      "name": "Radauti",
+      "id": "DexzEfu16qY8"
+    },
+    {
+      "name": "Radovanu",
+      "id": "HoYQQDGUPjXE"
+    },
+    {
+      "name": "Ramnicu Sarat",
+      "id": "DpyXsscSsXto"
+    },
+    {
+      "name": "Reghin",
+      "id": "JkfW524Iiv9-"
+    },
+    {
+      "name": "Roata de Jos",
+      "id": "e24OEZeoLh4L"
+    },
+    {
+      "name": "Rohia",
+      "id": "kqRQYeRL1wL-"
+    },
+    {
+      "name": "Roman",
+      "id": "JNzb8tLfJKbC"
+    },
+    {
+      "name": "Rosia",
+      "id": "eA6hz4KyWJnj"
+    },
+    {
+      "name": "Rosiori de Vede",
+      "id": "wcpIxkI0PNv3"
+    },
+    {
+      "name": "Sacele",
+      "id": "87cUNvnFoBgd"
+    },
+    {
+      "name": "Salatrucel",
+      "id": "v5tHjsaH2glm"
+    },
+    {
+      "name": "Salcea",
+      "id": "Dm4CZyMh4Vmt"
+    },
+    {
+      "name": "Salcioara",
+      "id": "tbSDWEvYvLpQ"
+    },
+    {
+      "name": "Salonta",
+      "id": "-kfJC6rbIv36"
+    },
+    {
+      "name": "Sancraieni",
+      "id": "LI_LHUFIgTTT"
+    },
+    {
+      "name": "Sangeorge",
+      "id": "9Hbe2vHIEWB4"
+    },
+    {
+      "name": "Sangeorz-Bai",
+      "id": "_9aFrSba3hL5"
+    },
+    {
+      "name": "Santimbru",
+      "id": "WGhvb6qsHemb"
+    },
+    {
+      "name": "Satu Mare",
+      "id": "WAJuvO2L5WRG"
+    },
+    {
+      "name": "Saveni",
+      "id": "60cRl-Nl-qhq"
+    },
+    {
+      "name": "Schela",
+      "id": "j9TQ_jZyBa_R"
+    },
+    {
+      "name": "Sebes",
+      "id": "eVBjCaxOEEQC"
+    },
+    {
+      "name": "Seini",
+      "id": "LI1lFwChrao-"
+    },
+    {
+      "name": "Sfantu Gheorghe",
+      "id": "0GehIW5iGlA5"
+    },
+    {
+      "name": "Sfantu-Gheorghe",
+      "id": "z5RqIznyO0D-"
+    },
+    {
+      "name": "Sibiu",
+      "id": "v5wVUj8x4wVv"
+    },
+    {
+      "name": "Siculeni",
+      "id": "rAwFDh6O_Wzs"
+    },
+    {
+      "name": "Sighisoara",
+      "id": "aG7rLH3M3fJR"
+    },
+    {
+      "name": "Simeria",
+      "id": "KpcZ4xbr9DSr"
+    },
+    {
+      "name": "Slatina",
+      "id": "TH0HzJahiP9h"
+    },
+    {
+      "name": "Slobozia",
+      "id": "2rzTRa6Qoy_E"
+    },
+    {
+      "name": "Soimus",
+      "id": "bRxCGoLqjlRb"
+    },
+    {
+      "name": "Somcuta Mare",
+      "id": "00aT3KUe1lNc"
+    },
+    {
+      "name": "Sovata",
+      "id": "UsYFRXpUG6Zm"
+    },
+    {
+      "name": "Spiru Haret",
+      "id": "bH3J7uQOOv8u"
+    },
+    {
+      "name": "Stalpeni",
+      "id": "J2Wznnj_eGWx"
+    },
+    {
+      "name": "Stanilesti",
+      "id": "RkFC5RN7BUqE"
+    },
+    {
+      "name": "Stefanesti",
+      "id": "pzJGEaE8Fgoo"
+    },
+    {
+      "name": "Stefanestii de Jos",
+      "id": "bRgQKFZnbG6q"
+    },
+    {
+      "name": "Stroesti",
+      "id": "XVz4GxBMa-06"
+    },
+    {
+      "name": "Suceava",
+      "id": "cboQPgPkM1iE"
+    },
+    {
+      "name": "Susenii Bargaului",
+      "id": "VBsJTI95UhS2"
+    },
+    {
+      "name": "Sutesti",
+      "id": "Y0jCb0EBcCrl"
+    },
+    {
+      "name": "Talisoara",
+      "id": "wqOgow8INs19"
+    },
+    {
+      "name": "Tandarei",
+      "id": "w4oSdSxe00_G"
+    },
+    {
+      "name": "Targu Gangulesti",
+      "id": "hYJBdYeYrl3n"
+    },
+    {
+      "name": "Targu Neamt",
+      "id": "5Ykq_RjFXbVQ"
+    },
+    {
+      "name": "Tartasesti",
+      "id": "bfAt3F1t_di4"
+    },
+    {
+      "name": "Tatarani",
+      "id": "69nm6grEjuVd"
+    },
+    {
+      "name": "Tatarusi",
+      "id": "Vgxe6UaFxp2h"
+    },
+    {
+      "name": "Tecuci",
+      "id": "u5W3i0WsSoID"
+    },
+    {
+      "name": "Teiu",
+      "id": "2bukT1roqd7I"
+    },
+    {
+      "name": "Teius",
+      "id": "J9HHEeYL_3pG"
+    },
+    {
+      "name": "Telega",
+      "id": "qCNa5Gs9Lfde"
+    },
+    {
+      "name": "Tibeni",
+      "id": "dmRCuXRg1qtW"
+    },
+    {
+      "name": "Tileagd",
+      "id": "3PjuUs2oPe5o"
+    },
+    {
+      "name": "Timus",
+      "id": "_3KWIWdBLgFN"
+    },
+    {
+      "name": "Tina",
+      "id": "MSu5yUxeQqpy"
+    },
+    {
+      "name": "Tipari",
+      "id": "LJfD6AQPL4Sj"
+    },
+    {
+      "name": "Titesti",
+      "id": "VDSoQM2adZOt"
+    },
+    {
+      "name": "Titu",
+      "id": "JXUBt2yNsR6Y"
+    },
+    {
+      "name": "Tomesti",
+      "id": "2waPXJX8T9ll"
+    },
+    {
+      "name": "Topoloveni",
+      "id": "qUE63GpEhiHq"
+    },
+    {
+      "name": "Traian",
+      "id": "rYvczHwHhhd4"
+    },
+    {
+      "name": "Trestiana",
+      "id": "rVxAoeadtFCM"
+    },
+    {
+      "name": "Tulcea",
+      "id": "7BlxjoWM3Izl"
+    },
+    {
+      "name": "Tulnici",
+      "id": "zJpWMUO8IEEK"
+    },
+    {
+      "name": "Tunari",
+      "id": "Aa9pF2g32nrk"
+    },
+    {
+      "name": "Turda",
+      "id": "1le2mXQqTkQR"
+    },
+    {
+      "name": "Turnu Magurele",
+      "id": "SYVnHsncyIBp"
+    },
+    {
+      "name": "Turnu Ruieni",
+      "id": "6A7ITAO30m6e"
+    },
+    {
+      "name": "Tuzla",
+      "id": "rwa1SKV2VLFH"
+    },
+    {
+      "name": "Uioara de Jos",
+      "id": "sT_tQBx7kEpN"
+    },
+    {
+      "name": "Ungheni",
+      "id": "_QZQp9TPqaBk"
+    },
+    {
+      "name": "Unirea",
+      "id": "b-xzMmq98yL0"
+    },
+    {
+      "name": "Urlati",
+      "id": "LWz2bekRh9_9"
+    },
+    {
+      "name": "Urziceni",
+      "id": "0M0-LfcgD8LV"
+    },
+    {
+      "name": "Utvin",
+      "id": "w47Ujtxdod26"
+    },
+    {
+      "name": "Vacaresti",
+      "id": "mkbLJ8KcXHxu"
+    },
+    {
+      "name": "Valcea",
+      "id": "PYp_2st6AGfd"
+    },
+    {
+      "name": "Valea Lupului",
+      "id": "DHeEEdzU63-K"
+    },
+    {
+      "name": "Valea Seaca",
+      "id": "J9Zwf9Bh0F_7"
+    },
+    {
+      "name": "Valenii de Munte",
+      "id": "9sk10nVwqWD7"
+    },
+    {
+      "name": "Vama",
+      "id": "lm9Sxf9JmSy8"
+    },
+    {
+      "name": "Vaslui",
+      "id": "Zc3N1ttFTTK0"
+    },
+    {
+      "name": "Vatra Dornei",
+      "id": "PzuRhA2CSbzw"
+    },
+    {
+      "name": "Vedea",
+      "id": "43OKYWnTNqKR"
+    },
+    {
+      "name": "Vetresti-Herastrau",
+      "id": "HaTHrDmmShky"
+    },
+    {
+      "name": "Victoria",
+      "id": "tPY3Wh-bByrq"
+    },
+    {
+      "name": "Videle",
+      "id": "UBrVmnQZjamV"
+    },
+    {
+      "name": "Vidin",
+      "id": "g-Yb19NI6Y4u"
+    },
+    {
+      "name": "Vidra",
+      "id": "VYBrPJC_GDmA"
+    },
+    {
+      "name": "Viseu de Jos",
+      "id": "SnSVeoeWTniO"
+    },
+    {
+      "name": "Viseu de Sus",
+      "id": "nlfuai9_u3Aw"
+    },
+    {
+      "name": "Voinesti",
+      "id": "wpIOzcF8VZIN"
+    },
+    {
+      "name": "Voiteg",
+      "id": "xV92WxkvNE3m"
+    },
+    {
+      "name": "Voluntari",
+      "id": "tnu9rXYjKYxv"
+    },
+    {
+      "name": "Voronet",
+      "id": "aobTaZ7P9A9V"
+    },
+    {
+      "name": "Zetea",
+      "id": "1DqbByalOEeW"
+    },
+    {
+      "name": "Zimnicea",
+      "id": "Ch6c6640R36h"
+    }
   ]
 }

@@ -1,15 +1,453 @@
 {
   "coid": "VN",
   "cities": [
-    { "name": "Hanoi", "id": "a7b8c9d0e1f3" },
-    { "name": "Ho Chi Minh City", "id": "b7c8d9e0f1a4" },
-    { "name": "Da Nang", "id": "c7d8e9f0a1b5" },
-    { "name": "Hai Phong", "id": "d7e8f9a0b1c6" },
-    { "name": "Can Tho", "id": "e7f8a9b0c1d7" },
-    { "name": "Nha Trang", "id": "f7a8b9c0d1e8" },
-    { "name": "Hue", "id": "a8b9c0d1e2f9" },
-    { "name": "Bien Hoa", "id": "b8c9d0e1f2a0" },
-    { "name": "Vung Tau", "id": "c8d9e0f1a2b1" },
-    { "name": "Rach Gia", "id": "d8e9f0a1b2c2" }
+    {
+      "name": "An Dinh",
+      "id": "-OBii9D1EIty"
+    },
+    {
+      "name": "An Giang",
+      "id": "MSrIJCTcRhMV"
+    },
+    {
+      "name": "An Nhon",
+      "id": "c0O9R28hlo5P"
+    },
+    {
+      "name": "An Tam",
+      "id": "3NJLv3Q6Pks0"
+    },
+    {
+      "name": "An Thanh",
+      "id": "z4cO8_K1JQ8I"
+    },
+    {
+      "name": "Ap Sai Gon",
+      "id": "YXlO19toJE-R"
+    },
+    {
+      "name": "Ap Trung",
+      "id": "IQHN8oHjf5bb"
+    },
+    {
+      "name": "Bac Giang",
+      "id": "So0xwY74DmWp"
+    },
+    {
+      "name": "Bac Kan",
+      "id": "jRNWgoW3IlYG"
+    },
+    {
+      "name": "Bac Ninh",
+      "id": "PQSZnUkdTkr8"
+    },
+    {
+      "name": "Bach Ma",
+      "id": "t9_Vc9CptY5z"
+    },
+    {
+      "name": "Bang",
+      "id": "UkhXcpk6sYEF"
+    },
+    {
+      "name": "Ben Nghe",
+      "id": "CBftqEOOdkI9"
+    },
+    {
+      "name": "Ben Than",
+      "id": "RypCRzrA7994"
+    },
+    {
+      "name": "Bien Hoa",
+      "id": "N65SMxSQKUx4"
+    },
+    {
+      "name": "Binh Phuoc",
+      "id": "BoB_HLMRIqbH"
+    },
+    {
+      "name": "Binh Thanh",
+      "id": "VJEGjS3trIEj"
+    },
+    {
+      "name": "Binh Thoai",
+      "id": "k7UhIPNJ6G8p"
+    },
+    {
+      "name": "Buon Ma Thuot",
+      "id": "8lT0lHaaj67j"
+    },
+    {
+      "name": "Ca Mau",
+      "id": "RTdvtGZHHNAl"
+    },
+    {
+      "name": "Cam Pha",
+      "id": "oSn--sT_96iG"
+    },
+    {
+      "name": "Can Tho",
+      "id": "BaCUNrnTBsk7"
+    },
+    {
+      "name": "Cho Ha",
+      "id": "eQrrx8GY8Y3r"
+    },
+    {
+      "name": "Chuong Duong",
+      "id": "b6ZJbA5DWG0I"
+    },
+    {
+      "name": "Co Giang",
+      "id": "ycQuGhNnqEEs"
+    },
+    {
+      "name": "Da Lat",
+      "id": "8rxL5WPX-mUH"
+    },
+    {
+      "name": "Da Nang",
+      "id": "pUEgw86OiGnk"
+    },
+    {
+      "name": "Dac Loc",
+      "id": "H_2PPCLZNGtz"
+    },
+    {
+      "name": "Di An",
+      "id": "UhhKeHboq5_O"
+    },
+    {
+      "name": "Dien Bien Phu",
+      "id": "B8PL8sxYRhw2"
+    },
+    {
+      "name": "Dinh Long",
+      "id": "WGfzk8iGBqpA"
+    },
+    {
+      "name": "Dong",
+      "id": "pIhwKJ1FIrLv"
+    },
+    {
+      "name": "Dong Nai",
+      "id": "5vCAoL1B4kDt"
+    },
+    {
+      "name": "Dong Thap",
+      "id": "H54uz3yQ2rP7"
+    },
+    {
+      "name": "Duc Thang",
+      "id": "3tQecPzc8VgX"
+    },
+    {
+      "name": "Giong Ngai",
+      "id": "pVQNWFe82hcj"
+    },
+    {
+      "name": "Giong Truong",
+      "id": "ra1h8Lrn78kT"
+    },
+    {
+      "name": "Go Vap",
+      "id": "nybOPqp_7RYQ"
+    },
+    {
+      "name": "Ha Dong",
+      "id": "W_gq2MfDKMYi"
+    },
+    {
+      "name": "Ha Long",
+      "id": "0AQMKDt3ZAuK"
+    },
+    {
+      "name": "Ha Nam",
+      "id": "Fej2amsdziId"
+    },
+    {
+      "name": "Ha Tinh",
+      "id": "cDocukudEc68"
+    },
+    {
+      "name": "Haiphong",
+      "id": "SMjVq6tvQX9z"
+    },
+    {
+      "name": "Hanoi",
+      "id": "wcBZ9hhuOBzD"
+    },
+    {
+      "name": "Ho Chi Minh City",
+      "id": "a-IquOiZV2NG"
+    },
+    {
+      "name": "Hoang Mai",
+      "id": "1BOsxwrq9twa"
+    },
+    {
+      "name": "Hung Yen",
+      "id": "0zG4AqYiBbap"
+    },
+    {
+      "name": "Huong Tinh",
+      "id": "e8qIy4-PIxTw"
+    },
+    {
+      "name": "Khanh Hoa",
+      "id": "Gm_HsTm-1_nm"
+    },
+    {
+      "name": "Kon Tum",
+      "id": "AMe-1CabcrHX"
+    },
+    {
+      "name": "Lang Dung",
+      "id": "PQYeIb1CPadW"
+    },
+    {
+      "name": "Lang Hong",
+      "id": "aLR5277hItVo"
+    },
+    {
+      "name": "Lang Son",
+      "id": "acQBAQgKMe26"
+    },
+    {
+      "name": "Lao Cai",
+      "id": "Jer4dyqrR_4g"
+    },
+    {
+      "name": "Le Loi",
+      "id": "UdiHjxMsEM4K"
+    },
+    {
+      "name": "Long An",
+      "id": "Xk8EYPh5eVAu"
+    },
+    {
+      "name": "Long Tan",
+      "id": "5U-znYJQ57_9"
+    },
+    {
+      "name": "Long Van",
+      "id": "kSw7vrUeTZHH"
+    },
+    {
+      "name": "Luong Hoi",
+      "id": "mMLEed8CS46v"
+    },
+    {
+      "name": "Minh Khai",
+      "id": "DHzCsol42tXd"
+    },
+    {
+      "name": "Nghi Loc",
+      "id": "tKVS5MHTb748"
+    },
+    {
+      "name": "Nha Be",
+      "id": "2RwVEYyhvYjb"
+    },
+    {
+      "name": "Nha Trang",
+      "id": "MEdVjYJL4vUH"
+    },
+    {
+      "name": "Phan Thon",
+      "id": "vt3b8dNBT6g2"
+    },
+    {
+      "name": "Phu Nhuan",
+      "id": "IAbkeSBp87xP"
+    },
+    {
+      "name": "Phu Tho",
+      "id": "4QkCwS34xGSC"
+    },
+    {
+      "name": "Phu Xuyen",
+      "id": "T34V0C7vmMlF"
+    },
+    {
+      "name": "Phu Yen",
+      "id": "9k1ceSpa7BPw"
+    },
+    {
+      "name": "Phuong Tan",
+      "id": "7rkaehd6xJ4S"
+    },
+    {
+      "name": "Pleiku",
+      "id": "JsxN03zF3kLm"
+    },
+    {
+      "name": "Quan Ngoc",
+      "id": "PPDMpd1YfWCO"
+    },
+    {
+      "name": "Quan Trang",
+      "id": "HqTALIABxcvg"
+    },
+    {
+      "name": "Quang Nam",
+      "id": "kKqS_9fUspFb"
+    },
+    {
+      "name": "Quang Tri",
+      "id": "4RxmEo6IbBpa"
+    },
+    {
+      "name": "Quang Trung",
+      "id": "iqQbhOEx62kn"
+    },
+    {
+      "name": "Qui Nhon",
+      "id": "EPUsmJQT_F70"
+    },
+    {
+      "name": "Soc Trang",
+      "id": "FwcrPwQJWJNK"
+    },
+    {
+      "name": "Tam Ky",
+      "id": "MMiruw3h2wLR"
+    },
+    {
+      "name": "Tan Binh",
+      "id": "ptBm0HMADKV8"
+    },
+    {
+      "name": "Tan Thuan Dong",
+      "id": "RSey8tB6Nkrf"
+    },
+    {
+      "name": "Tang",
+      "id": "gzyPoM-J08TF"
+    },
+    {
+      "name": "Tay Ninh",
+      "id": "ykAlh3eI5XGa"
+    },
+    {
+      "name": "Thach That",
+      "id": "YOHp3ARZIgIU"
+    },
+    {
+      "name": "Thanh Nguyen",
+      "id": "wGpvY2ZoEuKf"
+    },
+    {
+      "name": "Thanh Pho Ha Giang",
+      "id": "FR4ux84cDl0-"
+    },
+    {
+      "name": "Thanh Pho Hai Duong",
+      "id": "gbEU5xlu-rYA"
+    },
+    {
+      "name": "Thanh Pho Hoa Binh",
+      "id": "Gdl_fNSFthKd"
+    },
+    {
+      "name": "Thanh Pho Ninh Binh",
+      "id": "qXgfLdOdcpd9"
+    },
+    {
+      "name": "Thanh Pho Thai Binh",
+      "id": "pNXnL6BL54_M"
+    },
+    {
+      "name": "Thanh Pho Thai Nguyen",
+      "id": "EjbVijLlmqI0"
+    },
+    {
+      "name": "Thanh Pho Tuyen Quang",
+      "id": "TFOz7a6YAIZD"
+    },
+    {
+      "name": "Thon Bao An",
+      "id": "87IXeJFTPsZQ"
+    },
+    {
+      "name": "Thong Nhat",
+      "id": "v17KV0H_EQUN"
+    },
+    {
+      "name": "Thu Dau Mot",
+      "id": "-kBgrRGtEedt"
+    },
+    {
+      "name": "Thu Duc",
+      "id": "JTiykaeUJBkq"
+    },
+    {
+      "name": "Thuan An",
+      "id": "iAoun4I42KdK"
+    },
+    {
+      "name": "Thuan Cong",
+      "id": "35OYbaR9GqjK"
+    },
+    {
+      "name": "Tra Vinh",
+      "id": "rEl1oxzfmI0f"
+    },
+    {
+      "name": "Trao",
+      "id": "jOEZcyOMFh1K"
+    },
+    {
+      "name": "Truong Lam",
+      "id": "exzn7Tugi0kc"
+    },
+    {
+      "name": "Truong Son",
+      "id": "82dX0jQ0KA1j"
+    },
+    {
+      "name": "Van Hai",
+      "id": "Z3y0yC_VSIRu"
+    },
+    {
+      "name": "Van Tan",
+      "id": "qYNuturiIUgG"
+    },
+    {
+      "name": "Vi Thanh",
+      "id": "hlRefkpu5DlW"
+    },
+    {
+      "name": "Vinh",
+      "id": "K-vu5kstNitX"
+    },
+    {
+      "name": "Vinh Long",
+      "id": "yppFLfoTM31M"
+    },
+    {
+      "name": "Vinh Yen",
+      "id": "K1RRQ3PNOVCD"
+    },
+    {
+      "name": "Xom Phuoc My",
+      "id": "GktVDRIKW4GH"
+    },
+    {
+      "name": "Xom Thang",
+      "id": "df7ek3WfZWgz"
+    },
+    {
+      "name": "Xom Truong Dinh",
+      "id": "UA2WwNps_7K-"
+    },
+    {
+      "name": "Yen Bai",
+      "id": "mFhpaIelZZUR"
+    },
+    {
+      "name": "Yen Thanh",
+      "id": "CXIQTOfGz8kt"
+    }
   ]
 }

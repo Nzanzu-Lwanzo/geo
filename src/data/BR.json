@@ -1,15 +1,7729 @@
 {
   "coid": "BR",
   "cities": [
-    { "name": "São Paulo", "id": "a93b2f5c6d77" },
-    { "name": "Rio de Janeiro", "id": "b04c3a6d7e88" },
-    { "name": "Brasília", "id": "c15d4b7e8f99" },
-    { "name": "Salvador", "id": "d26e5c8f9a10" },
-    { "name": "Fortaleza", "id": "e37f6d9a0b21" },
-    { "name": "Belo Horizonte", "id": "f48a7e0b1c32" },
-    { "name": "Manaus", "id": "a59b8f1c2d43" },
-    { "name": "Curitiba", "id": "b60c9a2d3e54" },
-    { "name": "Recife", "id": "c71d0b3e4f65" },
-    { "name": "Porto Alegre", "id": "d82e1c4f5a76" }
+    {
+      "name": "Abadiania",
+      "id": "58e3F08gz1CH"
+    },
+    {
+      "name": "Abaetetuba",
+      "id": "ZAQFCfTMi_gX"
+    },
+    {
+      "name": "Abelardo Luz",
+      "id": "EThtA0MQnG8U"
+    },
+    {
+      "name": "Abidos",
+      "id": "WT4JLIKzypwN"
+    },
+    {
+      "name": "Abrantes",
+      "id": "0kV0HIwDnoY2"
+    },
+    {
+      "name": "Abreu",
+      "id": "hnc2IPKJ4mmb"
+    },
+    {
+      "name": "Abreu e Lima",
+      "id": "bM46kDGGlISX"
+    },
+    {
+      "name": "Acarau",
+      "id": "JRVx0k2GvVsS"
+    },
+    {
+      "name": "Acopiara",
+      "id": "WmeXyZHvM6dU"
+    },
+    {
+      "name": "Acorizal",
+      "id": "TLaPM_ccQQd2"
+    },
+    {
+      "name": "Acu",
+      "id": "JzDDmU55WUCp"
+    },
+    {
+      "name": "Acucena",
+      "id": "jHu46g0FB3ss"
+    },
+    {
+      "name": "Adamantina",
+      "id": "OKjAeQqaausB"
+    },
+    {
+      "name": "Adustina",
+      "id": "r5zmVZERcSYG"
+    },
+    {
+      "name": "Afogados da Ingazeira",
+      "id": "PAzfH0ygO2Ye"
+    },
+    {
+      "name": "Afonso Claudio",
+      "id": "IsnqZL0epHjk"
+    },
+    {
+      "name": "Agrestina",
+      "id": "3Mr25w8nhswO"
+    },
+    {
+      "name": "Agua Boa",
+      "id": "bhcTihU5F3KB"
+    },
+    {
+      "name": "Agua Clara",
+      "id": "6CU0QJApNgPV"
+    },
+    {
+      "name": "Aguai",
+      "id": "CNuE0B-5B9OJ"
+    },
+    {
+      "name": "Aguanil",
+      "id": "7RrX3CsSyZwW"
+    },
+    {
+      "name": "Aguas Claras",
+      "id": "CrkZc9WYbLFe"
+    },
+    {
+      "name": "Aguas da Prata",
+      "id": "OwvwNERl68rK"
+    },
+    {
+      "name": "Aguas de Chapeco",
+      "id": "mJvBTiaUniOQ"
+    },
+    {
+      "name": "Aguas de Lindoia",
+      "id": "D679IkgD0CPL"
+    },
+    {
+      "name": "Aguas de Sao Pedro",
+      "id": "HysRwF-x6IqP"
+    },
+    {
+      "name": "Aguas Lindas",
+      "id": "vDkDXu4Gfpmd"
+    },
+    {
+      "name": "Agudo",
+      "id": "pm5IUO213PUK"
+    },
+    {
+      "name": "Agudos",
+      "id": "VCtqY5WbQkVY"
+    },
+    {
+      "name": "Agulha",
+      "id": "2-oAU7Kr3CWl"
+    },
+    {
+      "name": "Alagoa Grande",
+      "id": "mLZe3dBQnJyW"
+    },
+    {
+      "name": "Alagoa Nova",
+      "id": "ATgLrh1wG732"
+    },
+    {
+      "name": "Alagoinha",
+      "id": "qcuaKXzc--DK"
+    },
+    {
+      "name": "Alagoinhas",
+      "id": "UPtMK2nukPdU"
+    },
+    {
+      "name": "Alambari",
+      "id": "Ogsmo7OkfSoh"
+    },
+    {
+      "name": "Aldeia",
+      "id": "zJ4hkZiiv5X9"
+    },
+    {
+      "name": "Alegre",
+      "id": "wDtoB8LGaNM1"
+    },
+    {
+      "name": "Alegres",
+      "id": "QSFB8XhX7-IB"
+    },
+    {
+      "name": "Alegrete",
+      "id": "ePkywwxCTewY"
+    },
+    {
+      "name": "Alem Paraiba",
+      "id": "pd-3zJ7SdKA3"
+    },
+    {
+      "name": "Alfenas",
+      "id": "_3sITZe3n0Bb"
+    },
+    {
+      "name": "Alfredo Chaves",
+      "id": "VT-EVmW6FnES"
+    },
+    {
+      "name": "Almeirim",
+      "id": "DTRJfturXcbA"
+    },
+    {
+      "name": "Almirante Tamandare",
+      "id": "BrvJVo9daW9j"
+    },
+    {
+      "name": "Aloandia",
+      "id": "RQ-v15SWzEhS"
+    },
+    {
+      "name": "Alta Floresta",
+      "id": "WDsPFLd5q2T3"
+    },
+    {
+      "name": "Altamira",
+      "id": "zfo9xFVETqF8"
+    },
+    {
+      "name": "Altaneira",
+      "id": "tZ71FJUGB1lu"
+    },
+    {
+      "name": "Alterosa",
+      "id": "_2z00Z7DqLH5"
+    },
+    {
+      "name": "Altinho",
+      "id": "Xx5oTIZ84Gp8"
+    },
+    {
+      "name": "Altinopolis",
+      "id": "Zm-9XrKjEzDd"
+    },
+    {
+      "name": "Alto",
+      "id": "ySGpuobGD7cD"
+    },
+    {
+      "name": "Alto Alegre",
+      "id": "cT3mZrKAfLdU"
+    },
+    {
+      "name": "Alto do Rodrigues",
+      "id": "Dcwrx0k_spoP"
+    },
+    {
+      "name": "Alto Paraiso de Goias",
+      "id": "DvwfUs6aX9Xb"
+    },
+    {
+      "name": "Alto Piquiri",
+      "id": "hQ4xLupV-J29"
+    },
+    {
+      "name": "Alto Santo",
+      "id": "ze3tyTEmDISz"
+    },
+    {
+      "name": "Altos",
+      "id": "OwYqzF0ZEFqu"
+    },
+    {
+      "name": "Alvares Machado",
+      "id": "naCaI0zucmVQ"
+    },
+    {
+      "name": "Alvorada",
+      "id": "gL0iH-CbptnS"
+    },
+    {
+      "name": "Alvorada do Sul",
+      "id": "rcT7FkNJp6h6"
+    },
+    {
+      "name": "Amambai",
+      "id": "QPMbRy37db0H"
+    },
+    {
+      "name": "Amaraji",
+      "id": "HWQCf-THP_yN"
+    },
+    {
+      "name": "Amarante",
+      "id": "TXoV-U60BH7W"
+    },
+    {
+      "name": "Amarante do Maranhao",
+      "id": "JS20hCPUgO0k"
+    },
+    {
+      "name": "Amazonas",
+      "id": "_001m9MLv65t"
+    },
+    {
+      "name": "America de Cima",
+      "id": "pl55P8fzIRmL"
+    },
+    {
+      "name": "America Dourada",
+      "id": "cB97UU2T07OE"
+    },
+    {
+      "name": "Americana",
+      "id": "V3Pi9-Kiyqbj"
+    },
+    {
+      "name": "Americo Brasiliense",
+      "id": "slxn4WwPlatr"
+    },
+    {
+      "name": "Amparo",
+      "id": "boxykd5NLZsk"
+    },
+    {
+      "name": "Anadia",
+      "id": "5CRrv6NcP89P"
+    },
+    {
+      "name": "Anajas",
+      "id": "8_VZG-Ub0Pui"
+    },
+    {
+      "name": "Ananindeua",
+      "id": "Cjj3cPB-MtzM"
+    },
+    {
+      "name": "Anchieta",
+      "id": "81foC2i31jWr"
+    },
+    {
+      "name": "Andarai",
+      "id": "shDN4KADsQpk"
+    },
+    {
+      "name": "Andradas",
+      "id": "HwOlstr0k1YE"
+    },
+    {
+      "name": "Andradina",
+      "id": "8DwrcwsZsvE-"
+    },
+    {
+      "name": "Andre",
+      "id": "CfWbVQP_LOgx"
+    },
+    {
+      "name": "Andre da Rocha",
+      "id": "zjb_2ars2cW7"
+    },
+    {
+      "name": "Angatuba",
+      "id": "EFjYedBGcwCi"
+    },
+    {
+      "name": "Angical do Piaui",
+      "id": "2-o30f8J5Thn"
+    },
+    {
+      "name": "Angicos",
+      "id": "xRRe_EwqzZaS"
+    },
+    {
+      "name": "Angra dos Reis",
+      "id": "y7eYaQ4pn_-Y"
+    },
+    {
+      "name": "Anhembi",
+      "id": "yPkzO9qQ-qV9"
+    },
+    {
+      "name": "Anhumas",
+      "id": "0SJO8SZHavZ3"
+    },
+    {
+      "name": "Antas",
+      "id": "ZbgwLmQu_LAW"
+    },
+    {
+      "name": "Antonina",
+      "id": "x7aaFSopaJ67"
+    },
+    {
+      "name": "Antonio Carlos",
+      "id": "iKOHu8IS3upa"
+    },
+    {
+      "name": "Antonio Prado",
+      "id": "gc6OO6ZxsWCX"
+    },
+    {
+      "name": "Aparecida",
+      "id": "DWuMUIpLBGvA"
+    },
+    {
+      "name": "Aparecida do Rio Negro",
+      "id": "8Wozoy96aPDY"
+    },
+    {
+      "name": "Aperibe",
+      "id": "XifNFjXLlBv5"
+    },
+    {
+      "name": "Apiai",
+      "id": "ZfaPlFlmT9Fe"
+    },
+    {
+      "name": "Apiuna",
+      "id": "N9H88YjpfmXZ"
+    },
+    {
+      "name": "Apodi",
+      "id": "JtHzeGvYJiWB"
+    },
+    {
+      "name": "Apora",
+      "id": "drpa9riChFlh"
+    },
+    {
+      "name": "Apucarana",
+      "id": "jrhhYeNCQDM5"
+    },
+    {
+      "name": "Apuiares",
+      "id": "QHufrafgPGkk"
+    },
+    {
+      "name": "Aquidaba",
+      "id": "galTl5ZZvyOi"
+    },
+    {
+      "name": "Aquidauana",
+      "id": "7AfxySzPmtUq"
+    },
+    {
+      "name": "Aquiraz",
+      "id": "g4IhpUgytqhi"
+    },
+    {
+      "name": "Aracai",
+      "id": "yemcQtDkW2N8"
+    },
+    {
+      "name": "Aracaju",
+      "id": "17NjwfotRaMw"
+    },
+    {
+      "name": "Aracariguama",
+      "id": "mMC6txeoQdzn"
+    },
+    {
+      "name": "Aracas",
+      "id": "kEGvRJxzTdOa"
+    },
+    {
+      "name": "Aracati",
+      "id": "8NMR7hxklx90"
+    },
+    {
+      "name": "Aracatuba",
+      "id": "k3oq4H3au2D4"
+    },
+    {
+      "name": "Araci",
+      "id": "st6dKZdPwuBe"
+    },
+    {
+      "name": "Aracoiaba da Serra",
+      "id": "D5PxFm6qtzVa"
+    },
+    {
+      "name": "Aracruz",
+      "id": "0sLaEGuF8cDf"
+    },
+    {
+      "name": "Aracuai",
+      "id": "kJyuHn9PhHWV"
+    },
+    {
+      "name": "Aragarcas",
+      "id": "C8QsAK9wdH4F"
+    },
+    {
+      "name": "Araguari",
+      "id": "J1ZDZKXKwul3"
+    },
+    {
+      "name": "Arandu",
+      "id": "juUZ428P-YC3"
+    },
+    {
+      "name": "Arapiraca",
+      "id": "0RV4s8Js2mfs"
+    },
+    {
+      "name": "Arapongas",
+      "id": "Eo8_JhR6rVMx"
+    },
+    {
+      "name": "Arapoti",
+      "id": "pUeuK9jLIW2k"
+    },
+    {
+      "name": "Arapua",
+      "id": "KNp4tkb5-MD5"
+    },
+    {
+      "name": "Araquari",
+      "id": "Ap4Plpj0r7cY"
+    },
+    {
+      "name": "Ararangua",
+      "id": "6SuAVlve4gy2"
+    },
+    {
+      "name": "Araraquara",
+      "id": "qD2EppI7UuLj"
+    },
+    {
+      "name": "Araras",
+      "id": "tug9xdOcMk5U"
+    },
+    {
+      "name": "Ararica",
+      "id": "Q1gQ8ygC8DBF"
+    },
+    {
+      "name": "Araripina",
+      "id": "fUy1CM4Rpi9k"
+    },
+    {
+      "name": "Araruama",
+      "id": "avg6pxts0LVU"
+    },
+    {
+      "name": "Araruna",
+      "id": "cY6rs53EO75P"
+    },
+    {
+      "name": "Araujos",
+      "id": "UBb1q06Jtigx"
+    },
+    {
+      "name": "Arceburgo",
+      "id": "Gj3oEMG-xE7U"
+    },
+    {
+      "name": "Arcos",
+      "id": "VwfJIS1kGDcW"
+    },
+    {
+      "name": "Arcoverde",
+      "id": "jSCrLiaxk9as"
+    },
+    {
+      "name": "Areado",
+      "id": "UGCobs46sFTe"
+    },
+    {
+      "name": "Areal",
+      "id": "Iog69G8eMN0Q"
+    },
+    {
+      "name": "Arealva",
+      "id": "ngnQIxKsUs0Y"
+    },
+    {
+      "name": "Areia Branca",
+      "id": "fnDdKDoQUOoA"
+    },
+    {
+      "name": "Areial",
+      "id": "kPYkh8Hp2Wbj"
+    },
+    {
+      "name": "Aricanduva",
+      "id": "cozBs4pbfhmX"
+    },
+    {
+      "name": "Ariquemes",
+      "id": "PZm3I348j8P_"
+    },
+    {
+      "name": "Armacao de Buzios",
+      "id": "Wbh9J9tqwKUh"
+    },
+    {
+      "name": "Armazem",
+      "id": "e_X-RH-WE-Sn"
+    },
+    {
+      "name": "Aroeiras",
+      "id": "lLjuWom8yqiL"
+    },
+    {
+      "name": "Arraial",
+      "id": "Uc1FQKP-Vc36"
+    },
+    {
+      "name": "Arraial do Cabo",
+      "id": "GPwKNS-4mrzN"
+    },
+    {
+      "name": "Arroio do Meio",
+      "id": "nT9XHr9TnrKL"
+    },
+    {
+      "name": "Arroio do Silva",
+      "id": "mgFACnxalJ27"
+    },
+    {
+      "name": "Arroio do Tigre",
+      "id": "hoJ6GsFimuQB"
+    },
+    {
+      "name": "Arroio dos Ratos",
+      "id": "3FscYyBwgqR3"
+    },
+    {
+      "name": "Arroio Grande",
+      "id": "0KWJCweyLHt6"
+    },
+    {
+      "name": "Artur Nogueira",
+      "id": "IDt2UGu0XxiZ"
+    },
+    {
+      "name": "Ascurra",
+      "id": "88jbiiKalz9O"
+    },
+    {
+      "name": "Assis",
+      "id": "vLhYVCq5cGek"
+    },
+    {
+      "name": "Assis Chateaubriand",
+      "id": "xK9mez28LrG7"
+    },
+    {
+      "name": "Atibaia",
+      "id": "9kZx4vxlPDNU"
+    },
+    {
+      "name": "Auriflama",
+      "id": "_O2P-Qm7h31m"
+    },
+    {
+      "name": "Avanhandava",
+      "id": "aKiJ62_lDxGg"
+    },
+    {
+      "name": "Avare",
+      "id": "pGoZlFidyGPG"
+    },
+    {
+      "name": "Azurita",
+      "id": "QXAu-8TOVhNo"
+    },
+    {
+      "name": "Bady Bassitt",
+      "id": "gbr-hsSN6nu7"
+    },
+    {
+      "name": "Baia da Traicao",
+      "id": "epf6pa5NUp60"
+    },
+    {
+      "name": "Baiao",
+      "id": "ukD1vUwrEKBN"
+    },
+    {
+      "name": "Bairro da Velha Central",
+      "id": "djNQz8xlGM8j"
+    },
+    {
+      "name": "Baixo Guandu",
+      "id": "6B4uowjks4E9"
+    },
+    {
+      "name": "Balsa Nova",
+      "id": "gr8SdgUdi_zn"
+    },
+    {
+      "name": "Balsamo",
+      "id": "AAAmc_XFNvHI"
+    },
+    {
+      "name": "Balsas",
+      "id": "bbOZ5nv7xMsA"
+    },
+    {
+      "name": "Bambui",
+      "id": "UWJMunthG3UM"
+    },
+    {
+      "name": "Banabuiu",
+      "id": "TCcgrbLuCYTH"
+    },
+    {
+      "name": "Bananal",
+      "id": "pMtUW7O29n9S"
+    },
+    {
+      "name": "Bandeirantes",
+      "id": "7NFMIcn7zP16"
+    },
+    {
+      "name": "Bangu",
+      "id": "3y-iZfY9dXUJ"
+    },
+    {
+      "name": "Barao de Cocais",
+      "id": "emUh9IfKWKXK"
+    },
+    {
+      "name": "Barao de Cotegipe",
+      "id": "2h0XYJni5XWC"
+    },
+    {
+      "name": "Barao de Grajau",
+      "id": "n05UyLS207fH"
+    },
+    {
+      "name": "Barauna",
+      "id": "X1vaIHhYg4HH"
+    },
+    {
+      "name": "Barbacena",
+      "id": "g7XPhqA466do"
+    },
+    {
+      "name": "Barbalha",
+      "id": "LMlBWUT29b97"
+    },
+    {
+      "name": "Barbosa",
+      "id": "wRJuwXZNZaBY"
+    },
+    {
+      "name": "Barcarena",
+      "id": "OFD_YH-_i7fD"
+    },
+    {
+      "name": "Barra",
+      "id": "KGtyNskHfK-4"
+    },
+    {
+      "name": "Barra Bonita",
+      "id": "3QZoM16LE81a"
+    },
+    {
+      "name": "Barra da Tijuca",
+      "id": "a24SXBPLJNYS"
+    },
+    {
+      "name": "Barra de Sao Miguel",
+      "id": "WPTO9nxUF3vH"
+    },
+    {
+      "name": "Barra do Bugres",
+      "id": "TbB7jtqn5rms"
+    },
+    {
+      "name": "Barra do Corda",
+      "id": "tbqxlZs7EsdD"
+    },
+    {
+      "name": "Barra do Jacare",
+      "id": "p84xeCnef9fN"
+    },
+    {
+      "name": "Barra do Ribeiro",
+      "id": "rB_vPjpD4oyv"
+    },
+    {
+      "name": "Barra Mansa",
+      "id": "eULAPWmjajMI"
+    },
+    {
+      "name": "Barra Velha",
+      "id": "H_WoxtkbagSZ"
+    },
+    {
+      "name": "Barracao",
+      "id": "LsHynfUklZ9b"
+    },
+    {
+      "name": "Barras",
+      "id": "Sdo2yr6LA7Ng"
+    },
+    {
+      "name": "Barreiras",
+      "id": "DVbtgIJq5uyS"
+    },
+    {
+      "name": "Barretos",
+      "id": "agWgyTiXoBqc"
+    },
+    {
+      "name": "Barrinha",
+      "id": "zrWpTslRXTzC"
+    },
+    {
+      "name": "Barro",
+      "id": "skdDVQ0IYgt0"
+    },
+    {
+      "name": "Barrocas",
+      "id": "pmMkJj_prQ96"
+    },
+    {
+      "name": "Barueri",
+      "id": "aGDH09qYgTxi"
+    },
+    {
+      "name": "Batatais",
+      "id": "bpoXnXrpEaEZ"
+    },
+    {
+      "name": "Batista",
+      "id": "b7bmjeJ-PZHZ"
+    },
+    {
+      "name": "Baturite",
+      "id": "sHvpdsPQqPh-"
+    },
+    {
+      "name": "Bauru",
+      "id": "sHAByLOe9CcB"
+    },
+    {
+      "name": "Bayeux",
+      "id": "Hl0FbOQs7qRb"
+    },
+    {
+      "name": "Bebedouro",
+      "id": "HJ4ZbLU4EbJr"
+    },
+    {
+      "name": "Beberibe",
+      "id": "3v49-BpoVcwi"
+    },
+    {
+      "name": "Bela Vista",
+      "id": "EkYRnCd3wZuI"
+    },
+    {
+      "name": "Bela Vista de Goias",
+      "id": "jxL-jGX4e0T0"
+    },
+    {
+      "name": "Bela Vista do Paraiso",
+      "id": "OHhWm0ksJWWn"
+    },
+    {
+      "name": "Belem",
+      "id": "q8wJZ76pHp8R"
+    },
+    {
+      "name": "Belem do Brejo do Cruz",
+      "id": "hxpM5_SE1Xam"
+    },
+    {
+      "name": "Belford Roxo",
+      "id": "O4IrLdAvZiPC"
+    },
+    {
+      "name": "Belo Horizonte",
+      "id": "ZW0llFl2jNpC"
+    },
+    {
+      "name": "Belo Jardim",
+      "id": "pRaiY9ecNCMR"
+    },
+    {
+      "name": "Benedito Novo",
+      "id": "mUZn6yr7cMrk"
+    },
+    {
+      "name": "Benevides",
+      "id": "ckCRAqQW59rR"
+    },
+    {
+      "name": "Bento",
+      "id": "9l3GZl117ej1"
+    },
+    {
+      "name": "Berilo",
+      "id": "BdggodTj-QZn"
+    },
+    {
+      "name": "Bernardo",
+      "id": "KYKc2DF7K_ON"
+    },
+    {
+      "name": "Bertioga",
+      "id": "jGDeZsLzsg_d"
+    },
+    {
+      "name": "Betania",
+      "id": "dHslwp3qnOgC"
+    },
+    {
+      "name": "Betim",
+      "id": "P1H-qvocy6zJ"
+    },
+    {
+      "name": "Bezerros",
+      "id": "kYd0mdzkOI48"
+    },
+    {
+      "name": "Bicas",
+      "id": "cfbib25OkyV4"
+    },
+    {
+      "name": "Biguacu",
+      "id": "lteee1VhWT6s"
+    },
+    {
+      "name": "Birigui",
+      "id": "N-p2bp6uFax9"
+    },
+    {
+      "name": "Biritiba Mirim",
+      "id": "vZpXVRBvFkmX"
+    },
+    {
+      "name": "Biritinga",
+      "id": "YknAJfYrBNbN"
+    },
+    {
+      "name": "Bituruna",
+      "id": "BcUEHuNoroAU"
+    },
+    {
+      "name": "Blumenau",
+      "id": "PtWALUNhjMQr"
+    },
+    {
+      "name": "Boa Esperanca",
+      "id": "p0-r_6Am719K"
+    },
+    {
+      "name": "Boa Ventura",
+      "id": "X1RY6i2mPWvf"
+    },
+    {
+      "name": "Boa Vista",
+      "id": "zA-Ohl7ZSaji"
+    },
+    {
+      "name": "Boa Vista do Burica",
+      "id": "tm9eUkjCODsJ"
+    },
+    {
+      "name": "Bocaiuva",
+      "id": "xQFO_5fGpOr2"
+    },
+    {
+      "name": "Bocaiuva do Sul",
+      "id": "c28wOcrdqnBA"
+    },
+    {
+      "name": "Boituva",
+      "id": "g7Z1UPmowVNn"
+    },
+    {
+      "name": "Bom Conselho",
+      "id": "RXyoITIQi7Vz"
+    },
+    {
+      "name": "Bom Despacho",
+      "id": "_xnLzcxFUdWZ"
+    },
+    {
+      "name": "Bom Jardim",
+      "id": "jFF4Jp-FmdqN"
+    },
+    {
+      "name": "Bom Jardim de Minas",
+      "id": "C0twi0wAt_zV"
+    },
+    {
+      "name": "Bom Jesus",
+      "id": "V5zeCVHSGoTz"
+    },
+    {
+      "name": "Bom Jesus da Lapa",
+      "id": "h-QBNpunV6rq"
+    },
+    {
+      "name": "Bom Jesus do Amparo",
+      "id": "tKCkY-eQyMDJ"
+    },
+    {
+      "name": "Bom Jesus do Itabapoana",
+      "id": "W1EwwKG3o4KL"
+    },
+    {
+      "name": "Bom Jesus dos Perdoes",
+      "id": "kUpz4eueKeSU"
+    },
+    {
+      "name": "Bom Principio",
+      "id": "yubykl4WmCK9"
+    },
+    {
+      "name": "Bom Retiro do Sul",
+      "id": "WxzFchaXUSxH"
+    },
+    {
+      "name": "Bombinhas",
+      "id": "6HpVSswg62E7"
+    },
+    {
+      "name": "Bonfim",
+      "id": "zDlgqTVDVNHr"
+    },
+    {
+      "name": "Bonito",
+      "id": "Fqiiz5rMLu4c"
+    },
+    {
+      "name": "Boqueirao",
+      "id": "kiHR-Tb03Pyj"
+    },
+    {
+      "name": "Boquim",
+      "id": "OoNqR2oDvyHJ"
+    },
+    {
+      "name": "Borda da Mata",
+      "id": "HTQPQnp2tqG6"
+    },
+    {
+      "name": "Borrazopolis",
+      "id": "oJGksWm7D0Jn"
+    },
+    {
+      "name": "Botafogo",
+      "id": "Ws3YQHEilgS8"
+    },
+    {
+      "name": "Botucatu",
+      "id": "sGsw5F6pRipv"
+    },
+    {
+      "name": "Botupora",
+      "id": "986havZ8VaP-"
+    },
+    {
+      "name": "Botuvera",
+      "id": "ZZ2_znLDnWcW"
+    },
+    {
+      "name": "Braco do Norte",
+      "id": "MJsLdoNz3ibA"
+    },
+    {
+      "name": "Braganca",
+      "id": "CFzCArowjgo_"
+    },
+    {
+      "name": "Braganca Paulista",
+      "id": "y-49jEYu4tPK"
+    },
+    {
+      "name": "Branco",
+      "id": "yZX2zsU4OLg8"
+    },
+    {
+      "name": "Bras",
+      "id": "vbrDYTCiMDfu"
+    },
+    {
+      "name": "Brasa",
+      "id": "Wlm-kFvPz1B-"
+    },
+    {
+      "name": "Brasil",
+      "id": "n0ToEbbUj4Og"
+    },
+    {
+      "name": "Brasilandia",
+      "id": "baf7MVTANgq3"
+    },
+    {
+      "name": "Brasopolis",
+      "id": "gNj96VlmC59O"
+    },
+    {
+      "name": "Brejetuba",
+      "id": "caDzqiwP1EWn"
+    },
+    {
+      "name": "Brejinho de Nazare",
+      "id": "x1iY0QsBq8zv"
+    },
+    {
+      "name": "Brejo da Madre de Deus",
+      "id": "j1RwwlsgONB-"
+    },
+    {
+      "name": "Brejo Santo",
+      "id": "LEeEIuh4lW2L"
+    },
+    {
+      "name": "Breves",
+      "id": "sxJ987zCNter"
+    },
+    {
+      "name": "Brochier",
+      "id": "RRCIgudL5pXw"
+    },
+    {
+      "name": "Brodosqui",
+      "id": "9DZD1RzMPAkf"
+    },
+    {
+      "name": "Brotas",
+      "id": "lubFxXPwnCDu"
+    },
+    {
+      "name": "Brumadinho",
+      "id": "yJ4-QDZjQJ87"
+    },
+    {
+      "name": "Brumado",
+      "id": "IKYK8Dl8HGpX"
+    },
+    {
+      "name": "Brusque",
+      "id": "cfBZjOIDO1KO"
+    },
+    {
+      "name": "Bueno Brandao",
+      "id": "xrs21m7xkdbT"
+    },
+    {
+      "name": "Buique",
+      "id": "GVjYfn5nXy-3"
+    },
+    {
+      "name": "Buritama",
+      "id": "KC8tEiXp59V-"
+    },
+    {
+      "name": "Buriti",
+      "id": "9eaMAmlYG6m7"
+    },
+    {
+      "name": "Buritizeiro",
+      "id": "ar-HULD1LruX"
+    },
+    {
+      "name": "Butia",
+      "id": "M6a5RqwnxKcp"
+    },
+    {
+      "name": "Buzios",
+      "id": "YYYBBA7m_UpQ"
+    },
+    {
+      "name": "Caapora",
+      "id": "ohsnV8625AOM"
+    },
+    {
+      "name": "Caarapo",
+      "id": "S1FxQi2pVTJ-"
+    },
+    {
+      "name": "Cabedelo",
+      "id": "GnL7ynIe6Mt4"
+    },
+    {
+      "name": "Cabo de Santo Agostinho",
+      "id": "1j0pZZjY6VFR"
+    },
+    {
+      "name": "Cabo Frio",
+      "id": "dwkvvMhXNPPC"
+    },
+    {
+      "name": "Cabralia",
+      "id": "u_4ZZon6m_lH"
+    },
+    {
+      "name": "Cabralia Paulista",
+      "id": "1CkBeErR_0c7"
+    },
+    {
+      "name": "Cabreuva",
+      "id": "1H8DrW-xF2ml"
+    },
+    {
+      "name": "Cabrobo",
+      "id": "OBXG9wQ2_VMp"
+    },
+    {
+      "name": "Cacapava",
+      "id": "J4g2BU-NO71i"
+    },
+    {
+      "name": "Cacapava do Sul",
+      "id": "yhZ29mTne5sM"
+    },
+    {
+      "name": "Cacequi",
+      "id": "mI2BCPMhzI85"
+    },
+    {
+      "name": "Caceres",
+      "id": "OiHtyShw50VM"
+    },
+    {
+      "name": "Cachoeira",
+      "id": "fY9W1jsye0jv"
+    },
+    {
+      "name": "Cachoeira do Sul",
+      "id": "4IzT3tCtyKCF"
+    },
+    {
+      "name": "Cachoeira Grande",
+      "id": "UOLdILoj9yId"
+    },
+    {
+      "name": "Cachoeira Paulista",
+      "id": "eVkzw3q8B4G2"
+    },
+    {
+      "name": "Cachoeiras",
+      "id": "PPmYWc2WsW2B"
+    },
+    {
+      "name": "Cachoeiras de Macacu",
+      "id": "P_WIjD7LMURl"
+    },
+    {
+      "name": "Cachoeirinha",
+      "id": "oITUw69QxQtC"
+    },
+    {
+      "name": "Cachoeiro de Itapemirim",
+      "id": "2GNarpdlGQyn"
+    },
+    {
+      "name": "Cacimba de Dentro",
+      "id": "AktUE10MDdEL"
+    },
+    {
+      "name": "Cacique Doble",
+      "id": "gUGYsxzf0XfH"
+    },
+    {
+      "name": "Cacoal",
+      "id": "-GjYpBa7YA_3"
+    },
+    {
+      "name": "Caete",
+      "id": "Rprc_jSBIOFM"
+    },
+    {
+      "name": "Caetite",
+      "id": "CqtAu894OVKj"
+    },
+    {
+      "name": "Cafarnaum",
+      "id": "iaOSyPPK2ZbZ"
+    },
+    {
+      "name": "Cafelandia",
+      "id": "OG2h_jkS-XeV"
+    },
+    {
+      "name": "Caiana",
+      "id": "mwu43AckVIMv"
+    },
+    {
+      "name": "Caiaponia",
+      "id": "c6PG-2nYHjW3"
+    },
+    {
+      "name": "Caibate",
+      "id": "wNYuBseFxiH4"
+    },
+    {
+      "name": "Caico",
+      "id": "8OFrLmCJgaTn"
+    },
+    {
+      "name": "Caieiras",
+      "id": "UVcvf22oBHGB"
+    },
+    {
+      "name": "Caiua",
+      "id": "tjieWWzS9ViN"
+    },
+    {
+      "name": "Cajamar",
+      "id": "S0sc5v9y6e93"
+    },
+    {
+      "name": "Cajati",
+      "id": "jVM57q4CWOX-"
+    },
+    {
+      "name": "Cajazeiras",
+      "id": "QwCYTmSPT56X"
+    },
+    {
+      "name": "Cajobi",
+      "id": "oDrQ3TW10mH0"
+    },
+    {
+      "name": "Cajuru",
+      "id": "q1bqR1XW_GnI"
+    },
+    {
+      "name": "Calcado",
+      "id": "ZceW3oopT-NP"
+    },
+    {
+      "name": "Calcoene",
+      "id": "zkiJtjdu2IgY"
+    },
+    {
+      "name": "Caldas",
+      "id": "PynvDomGdPAQ"
+    },
+    {
+      "name": "Caldas Novas",
+      "id": "HA5bStYK1x6e"
+    },
+    {
+      "name": "California",
+      "id": "owCr_bD_wYv-"
+    },
+    {
+      "name": "Camacari",
+      "id": "RKTRs0EybNT5"
+    },
+    {
+      "name": "Camamu",
+      "id": "HnnQOXsGCPwN"
+    },
+    {
+      "name": "Camanducaia",
+      "id": "LiMGtmwMk2zV"
+    },
+    {
+      "name": "Camaqua",
+      "id": "9ZShftbSYUqB"
+    },
+    {
+      "name": "Camaragibe",
+      "id": "-wg2rZwLQ1Xd"
+    },
+    {
+      "name": "Cambe",
+      "id": "acYqu5g8x9UC"
+    },
+    {
+      "name": "Camboriu",
+      "id": "t8mkv5Xli8QT"
+    },
+    {
+      "name": "Cambui",
+      "id": "z3UF-1IYkJ6F"
+    },
+    {
+      "name": "Cambuquira",
+      "id": "dSKpmlgETnjU"
+    },
+    {
+      "name": "Cameta",
+      "id": "Kv8rrcGWsCm-"
+    },
+    {
+      "name": "Campestre",
+      "id": "oUlkBXZA_UZr"
+    },
+    {
+      "name": "Campina",
+      "id": "ikYluIhpdc5R"
+    },
+    {
+      "name": "Campina Grande",
+      "id": "M3oBa-Ki6oxs"
+    },
+    {
+      "name": "Campina Grande do Sul",
+      "id": "XoI0i77qxe50"
+    },
+    {
+      "name": "Campinas",
+      "id": "uakq7QvmTjKb"
+    },
+    {
+      "name": "Campinas do Sul",
+      "id": "LUHvRnmm6mt7"
+    },
+    {
+      "name": "Campinorte",
+      "id": "1yx_iACO6Ycj"
+    },
+    {
+      "name": "Campo",
+      "id": "BuwfnPnp9Agc"
+    },
+    {
+      "name": "Campo Alegre",
+      "id": "aeBXHgpjmKrc"
+    },
+    {
+      "name": "Campo Bom",
+      "id": "MgnQYU5Bz3It"
+    },
+    {
+      "name": "Campo Ere",
+      "id": "jXXK4WP2-_oV"
+    },
+    {
+      "name": "Campo Formoso",
+      "id": "kJAoPkMiRUqc"
+    },
+    {
+      "name": "Campo Grande",
+      "id": "Oo2yM3hgSkWl"
+    },
+    {
+      "name": "Campo Largo",
+      "id": "hHLPBDcnC8bx"
+    },
+    {
+      "name": "Campo Magro",
+      "id": "HbiBETkUfyDP"
+    },
+    {
+      "name": "Campo Maior",
+      "id": "zgvah82UTl9A"
+    },
+    {
+      "name": "Campo Mourao",
+      "id": "gU6FREMDdrx5"
+    },
+    {
+      "name": "Campo Novo",
+      "id": "qhkwkMwUnQvL"
+    },
+    {
+      "name": "Campo Verde",
+      "id": "xXPleo2_yw0E"
+    },
+    {
+      "name": "Campos",
+      "id": "3HAoM3_JNeb6"
+    },
+    {
+      "name": "Campos do Jordao",
+      "id": "Jj8ORt8RwKgd"
+    },
+    {
+      "name": "Campos dos Goytacazes",
+      "id": "U-LoYkohuHMR"
+    },
+    {
+      "name": "Campos Gerais",
+      "id": "Y6pNeKWjrwTn"
+    },
+    {
+      "name": "Campos Novos",
+      "id": "_QcomAw-9gNC"
+    },
+    {
+      "name": "Campos Sales",
+      "id": "mNMqUl3NbMZz"
+    },
+    {
+      "name": "Canarana",
+      "id": "9WxaMUiExsOd"
+    },
+    {
+      "name": "Canas",
+      "id": "s4mBpToMgl5v"
+    },
+    {
+      "name": "Canavieiras",
+      "id": "TSuQUFwZ4_2r"
+    },
+    {
+      "name": "Candeal",
+      "id": "mkYHmS-TCG_s"
+    },
+    {
+      "name": "Candeias",
+      "id": "fxhOAiF4YWVj"
+    },
+    {
+      "name": "Candelaria",
+      "id": "hPmF2vv0HYR4"
+    },
+    {
+      "name": "Candido Mota",
+      "id": "bPDt4ZrJ44xM"
+    },
+    {
+      "name": "Candoi",
+      "id": "rbH1zKWnZbk8"
+    },
+    {
+      "name": "Canela",
+      "id": "4ON8SXGb-bLC"
+    },
+    {
+      "name": "Canelinha",
+      "id": "_h5FAU-78Ila"
+    },
+    {
+      "name": "Cangucu",
+      "id": "utkFZQ3IrNQT"
+    },
+    {
+      "name": "Canhotinho",
+      "id": "U42RJqZs3K4j"
+    },
+    {
+      "name": "Caninde",
+      "id": "a_3zu2k56FS5"
+    },
+    {
+      "name": "Caninde de Sao Francisco",
+      "id": "nOWXlNKrU6EP"
+    },
+    {
+      "name": "Canoas",
+      "id": "S28TMd-2E4Ls"
+    },
+    {
+      "name": "Canoinhas",
+      "id": "rQr1qOGZhmqE"
+    },
+    {
+      "name": "Cansancao",
+      "id": "OLSR7JfhiFSm"
+    },
+    {
+      "name": "Cantagalo",
+      "id": "7b4cSPhCC8UF"
+    },
+    {
+      "name": "Cantanhede",
+      "id": "AYfv7RYCHrO1"
+    },
+    {
+      "name": "Capanema",
+      "id": "mlfsaF4KYHS0"
+    },
+    {
+      "name": "Capao Alto",
+      "id": "T3X3Nb1FBffr"
+    },
+    {
+      "name": "Capao Bonito",
+      "id": "tkcRqNGP5Sa8"
+    },
+    {
+      "name": "Capao da Canoa",
+      "id": "bofjf6O6-BQ-"
+    },
+    {
+      "name": "Capao do Leao",
+      "id": "G0DFxGYqLlDb"
+    },
+    {
+      "name": "Caparao",
+      "id": "kEkQr3xcXegV"
+    },
+    {
+      "name": "Capela",
+      "id": "fQOTCU0AmQMG"
+    },
+    {
+      "name": "Capela do Alto",
+      "id": "O3Mt3yZVpGoK"
+    },
+    {
+      "name": "Capelinha",
+      "id": "RJvNyBGIk9gs"
+    },
+    {
+      "name": "Capetinga",
+      "id": "X97UnNgH0L9l"
+    },
+    {
+      "name": "Capinopolis",
+      "id": "xoS8r4GczzA1"
+    },
+    {
+      "name": "Capistrano",
+      "id": "oKhxOcbjrpSI"
+    },
+    {
+      "name": "Capitao Poco",
+      "id": "d6QBycM5pI4t"
+    },
+    {
+      "name": "Capivari",
+      "id": "IM2H9QCtGA_j"
+    },
+    {
+      "name": "Caputira",
+      "id": "CYVwXNwOjCrS"
+    },
+    {
+      "name": "Caraa",
+      "id": "Bp_HMve0l3wo"
+    },
+    {
+      "name": "Caraguatatuba",
+      "id": "v_gbVTqF_sWO"
+    },
+    {
+      "name": "Carambei",
+      "id": "IZgP0un1ncKn"
+    },
+    {
+      "name": "Carangola",
+      "id": "UFH9gKR3lrvL"
+    },
+    {
+      "name": "Carapebus",
+      "id": "U4GpCTxEtedK"
+    },
+    {
+      "name": "Carapicuiba",
+      "id": "IRqIeS05SNXM"
+    },
+    {
+      "name": "Caratinga",
+      "id": "qQVQfEuWb4H_"
+    },
+    {
+      "name": "Caraubas",
+      "id": "ZFivbT9FM-ot"
+    },
+    {
+      "name": "Carazinho",
+      "id": "e5BrMMdbljOK"
+    },
+    {
+      "name": "Cardeal da Silva",
+      "id": "5X_ecIWVYFN0"
+    },
+    {
+      "name": "Cardoso",
+      "id": "bUjB3XLsnn-J"
+    },
+    {
+      "name": "Cariacica",
+      "id": "46frG5CBYCxV"
+    },
+    {
+      "name": "Carinhanha",
+      "id": "Zz-5w0qUWy4_"
+    },
+    {
+      "name": "Caripi",
+      "id": "S7D-zh4Udj0N"
+    },
+    {
+      "name": "Carius",
+      "id": "Bba-GPyQVZg4"
+    },
+    {
+      "name": "Carlos Barbosa",
+      "id": "_cWrdxrBI8HW"
+    },
+    {
+      "name": "Carmo da Mata",
+      "id": "_LuSggDdzamZ"
+    },
+    {
+      "name": "Carmo do Cajuru",
+      "id": "8eFICjZTbnC7"
+    },
+    {
+      "name": "Carmo do Rio Claro",
+      "id": "RV3kJ2UYiNKO"
+    },
+    {
+      "name": "Carmopolis",
+      "id": "Tw2lXhyUHrA8"
+    },
+    {
+      "name": "Carmopolis de Minas",
+      "id": "WRDCbNQwVU_4"
+    },
+    {
+      "name": "Carnaiba",
+      "id": "OgQmzq5oAeuU"
+    },
+    {
+      "name": "Carolina",
+      "id": "6ND-i0hE6fJg"
+    },
+    {
+      "name": "Carpina",
+      "id": "_Oxp4yjvTUS1"
+    },
+    {
+      "name": "Caruaru",
+      "id": "OKQZFJ9U5idY"
+    },
+    {
+      "name": "Casa Nova",
+      "id": "LOSqGKh-mgx3"
+    },
+    {
+      "name": "Casca",
+      "id": "_CFyymlz8v3C"
+    },
+    {
+      "name": "Cascavel",
+      "id": "hRm5drOCkWbq"
+    },
+    {
+      "name": "Casimiro de Abreu",
+      "id": "VWkLkCKesJB-"
+    },
+    {
+      "name": "Cassia",
+      "id": "7lNvtRFLYMoH"
+    },
+    {
+      "name": "Cassilandia",
+      "id": "JbcRw7mMhuaj"
+    },
+    {
+      "name": "Cassino",
+      "id": "W2NnxUY2jORp"
+    },
+    {
+      "name": "Castanhal",
+      "id": "ceYyqNISMIGi"
+    },
+    {
+      "name": "Castelo",
+      "id": "43TnYXWWM71e"
+    },
+    {
+      "name": "Castro",
+      "id": "b6y9cOsfN2yh"
+    },
+    {
+      "name": "Cataguases",
+      "id": "zPyQDd9KSeXk"
+    },
+    {
+      "name": "Catalao",
+      "id": "7ZRoW9bNWfze"
+    },
+    {
+      "name": "Catanduva",
+      "id": "U8V7I4zWn4bD"
+    },
+    {
+      "name": "Catanduvas",
+      "id": "E5ekFcuC4KA6"
+    },
+    {
+      "name": "Catarina",
+      "id": "1-r2xdMx0Ugx"
+    },
+    {
+      "name": "Catende",
+      "id": "DF-nkYtoPaSK"
+    },
+    {
+      "name": "Catu",
+      "id": "xvOtB-QyaxAu"
+    },
+    {
+      "name": "Caucaia",
+      "id": "uzJoixIPaiqQ"
+    },
+    {
+      "name": "Caxambu",
+      "id": "Z2gDJZeh2ifX"
+    },
+    {
+      "name": "Caxias",
+      "id": "BfxW1RCzzjSC"
+    },
+    {
+      "name": "Caxias do Sul",
+      "id": "8ZTZX2pWAf_7"
+    },
+    {
+      "name": "Ceara Mirim",
+      "id": "bFHAyhMA12PI"
+    },
+    {
+      "name": "Cedral",
+      "id": "_1HnaZMa98uM"
+    },
+    {
+      "name": "Cedro do Abaete",
+      "id": "lxW_QAdC_ASY"
+    },
+    {
+      "name": "Ceilandia",
+      "id": "RKV82XW2yHe5"
+    },
+    {
+      "name": "Centenario do Sul",
+      "id": "BRn4L_8MMAY_"
+    },
+    {
+      "name": "Central",
+      "id": "EEf3eKjJO-Re"
+    },
+    {
+      "name": "Ceres",
+      "id": "rYbukdd_hBh-"
+    },
+    {
+      "name": "Cerqueira Cesar",
+      "id": "9btPU1Ie7i8P"
+    },
+    {
+      "name": "Cerquilho",
+      "id": "C3KMxji5Pn5X"
+    },
+    {
+      "name": "Cerro Azul",
+      "id": "tyZIGMOJP0nE"
+    },
+    {
+      "name": "Cerro Branco",
+      "id": "qTR-vnfyU8EL"
+    },
+    {
+      "name": "Cerro Grande",
+      "id": "D4DX4ND00o59"
+    },
+    {
+      "name": "Cerro Largo",
+      "id": "kMw2JkKpsToJ"
+    },
+    {
+      "name": "Cesario Lange",
+      "id": "6isyXmvzXH0i"
+    },
+    {
+      "name": "Ceu Azul",
+      "id": "-zaEEcJf1Bwf"
+    },
+    {
+      "name": "Cha Grande",
+      "id": "HoA1q3ReR3kg"
+    },
+    {
+      "name": "Chapada",
+      "id": "b22g5u4GlSLt"
+    },
+    {
+      "name": "Chapadao",
+      "id": "oldr7Ho4JQYi"
+    },
+    {
+      "name": "Chapadinha",
+      "id": "XKrLpUjlxGUN"
+    },
+    {
+      "name": "Charqueada",
+      "id": "qCW0lTXk37PH"
+    },
+    {
+      "name": "Charqueadas",
+      "id": "6KaIIjpB1nw0"
+    },
+    {
+      "name": "Chaval",
+      "id": "qrVOdlhyx_Bp"
+    },
+    {
+      "name": "Chavantes",
+      "id": "CT3AcJpUdMZ3"
+    },
+    {
+      "name": "Chopinzinho",
+      "id": "slVV7IfEFwKc"
+    },
+    {
+      "name": "Cianorte",
+      "id": "NqOeFlKJB4jk"
+    },
+    {
+      "name": "Cicero Dantas",
+      "id": "u74v6OqiufNm"
+    },
+    {
+      "name": "Cidade",
+      "id": "DqzivSS9A9cl"
+    },
+    {
+      "name": "Cidade de Deus",
+      "id": "hY1QHNVYzjye"
+    },
+    {
+      "name": "Cidade Nova",
+      "id": "C9PBNHHLGLuX"
+    },
+    {
+      "name": "Cipotanea",
+      "id": "gm5v_J6ObdZZ"
+    },
+    {
+      "name": "Claro dos Pocoes",
+      "id": "EFp_r_qgpaLt"
+    },
+    {
+      "name": "Claudio",
+      "id": "NRhfpZTZb1ja"
+    },
+    {
+      "name": "Clementina",
+      "id": "V4ahues3PgGy"
+    },
+    {
+      "name": "Clevelandia",
+      "id": "Yww7MrUegA9t"
+    },
+    {
+      "name": "Coari",
+      "id": "g3aHCxcEI4KZ"
+    },
+    {
+      "name": "Cocal",
+      "id": "W8WjCgRAnTGQ"
+    },
+    {
+      "name": "Cocalinho",
+      "id": "vaTlrGnY9ITk"
+    },
+    {
+      "name": "Cocos",
+      "id": "uK3TQfgHkmmW"
+    },
+    {
+      "name": "Coelho",
+      "id": "QDFZCaUibzd-"
+    },
+    {
+      "name": "Colatina",
+      "id": "E2Q_ZmI50Yqx"
+    },
+    {
+      "name": "Colina",
+      "id": "HXBjH0hW4bxg"
+    },
+    {
+      "name": "Colinas",
+      "id": "2uhmGPvqP2rm"
+    },
+    {
+      "name": "Colombo",
+      "id": "ryISKjgfEbuR"
+    },
+    {
+      "name": "Colorado",
+      "id": "5StqfDue7Ubw"
+    },
+    {
+      "name": "Comodoro",
+      "id": "fBqA9_NU7ZgD"
+    },
+    {
+      "name": "Conceicao",
+      "id": "ymnI0Sq8fbm5"
+    },
+    {
+      "name": "Conceicao da Barra",
+      "id": "TvvrVAG_ie7e"
+    },
+    {
+      "name": "Conceicao das Alagoas",
+      "id": "edLEdcPumBdc"
+    },
+    {
+      "name": "Conceicao de Macabu",
+      "id": "LPkkXMA4zvMf"
+    },
+    {
+      "name": "Conceicao do Araguaia",
+      "id": "gpHBGu6KS2f-"
+    },
+    {
+      "name": "Conceicao do Coite",
+      "id": "-gq7ubZU0tDW"
+    },
+    {
+      "name": "Conceicao do Mato Dentro",
+      "id": "AKOZzCCndnKI"
+    },
+    {
+      "name": "Conchal",
+      "id": "MsPrbgQsAN8R"
+    },
+    {
+      "name": "Conchas",
+      "id": "JMYjBOck9m52"
+    },
+    {
+      "name": "Concordia",
+      "id": "7g_Y0C0eZ7wr"
+    },
+    {
+      "name": "Condado",
+      "id": "-uDZWDxTMRLU"
+    },
+    {
+      "name": "Conde",
+      "id": "HEW6vXSsTdKU"
+    },
+    {
+      "name": "Congonhas",
+      "id": "yFm0o4zHZBtA"
+    },
+    {
+      "name": "Conselheiro Lafaiete",
+      "id": "fjJCpiGmGiJ9"
+    },
+    {
+      "name": "Contagem",
+      "id": "UISBj7wkEhx3"
+    },
+    {
+      "name": "Contenda",
+      "id": "U28yDRE-TYQU"
+    },
+    {
+      "name": "Convento da Penha",
+      "id": "AE-Ny_lIRfQI"
+    },
+    {
+      "name": "Cordeiro",
+      "id": "637dDNM5zAfk"
+    },
+    {
+      "name": "Cordeiropolis",
+      "id": "RRseK1q1DBb-"
+    },
+    {
+      "name": "Cordilheira",
+      "id": "jRZvzPEVG0q6"
+    },
+    {
+      "name": "Coreau",
+      "id": "U_qFnchZn5fw"
+    },
+    {
+      "name": "Coremas",
+      "id": "aOE0DQ-s5YGM"
+    },
+    {
+      "name": "Corguinho",
+      "id": "5qtVPJdAmLvH"
+    },
+    {
+      "name": "Cornelio Procopio",
+      "id": "LPGL39EdWyGV"
+    },
+    {
+      "name": "Coroados",
+      "id": "6Oko-133lxbS"
+    },
+    {
+      "name": "Coroas",
+      "id": "Vj_9x64oP5b6"
+    },
+    {
+      "name": "Coroata",
+      "id": "oQbdLTfteodf"
+    },
+    {
+      "name": "Coromandel",
+      "id": "tZiMtBcwgIwT"
+    },
+    {
+      "name": "Coronel",
+      "id": "XFPqa8wolAqu"
+    },
+    {
+      "name": "Coronel Fabriciano",
+      "id": "1p6pYbfypB29"
+    },
+    {
+      "name": "Correia Pinto",
+      "id": "2iUMcMy8BFRU"
+    },
+    {
+      "name": "Correntina",
+      "id": "KVO8YLI8mBrL"
+    },
+    {
+      "name": "Cortes",
+      "id": "qNT57C0Q-Zoc"
+    },
+    {
+      "name": "Corumba de Goias",
+      "id": "TG8jJ-MjvLqF"
+    },
+    {
+      "name": "Coruripe",
+      "id": "iYOQMO5D1SbC"
+    },
+    {
+      "name": "Cosmopolis",
+      "id": "2EuQPdWP2arY"
+    },
+    {
+      "name": "Cosmorama",
+      "id": "NQE4BUobuY4f"
+    },
+    {
+      "name": "Cotia",
+      "id": "xoFfGVYzsuax"
+    },
+    {
+      "name": "Crateus",
+      "id": "04HB-sU7mxR6"
+    },
+    {
+      "name": "Crato",
+      "id": "-NHHMOC_LxpS"
+    },
+    {
+      "name": "Cravinhos",
+      "id": "UfKkxSuDB7TG"
+    },
+    {
+      "name": "Cristais",
+      "id": "DSegDNDEvUVd"
+    },
+    {
+      "name": "Cristalina",
+      "id": "Evf2n7b3qHhk"
+    },
+    {
+      "name": "Cristiano Otoni",
+      "id": "fZg71kIpnLZH"
+    },
+    {
+      "name": "Cruz",
+      "id": "LGi8zRvuNKwk"
+    },
+    {
+      "name": "Cruz Alta",
+      "id": "zeUdmo56OF_1"
+    },
+    {
+      "name": "Cruz das Almas",
+      "id": "nsVed2AIN_f-"
+    },
+    {
+      "name": "Cruzeiro",
+      "id": "YnEeJ_upHpgM"
+    },
+    {
+      "name": "Cruzeiro da Fortaleza",
+      "id": "aVDu54inZWhd"
+    },
+    {
+      "name": "Cruzeiro do Oeste",
+      "id": "x1PEK7dhjpQQ"
+    },
+    {
+      "name": "Cruzeiro do Sul",
+      "id": "-f0R03Uf_Mdv"
+    },
+    {
+      "name": "Cruzilia",
+      "id": "2LDkF7sm0eoq"
+    },
+    {
+      "name": "Cubatao",
+      "id": "ZuarQ2bpVLVq"
+    },
+    {
+      "name": "Cuite",
+      "id": "pjJp_tLzxAUv"
+    },
+    {
+      "name": "Cunha Pora",
+      "id": "w7RWDFDBUEv2"
+    },
+    {
+      "name": "Cupira",
+      "id": "GQOCRgqLcGLs"
+    },
+    {
+      "name": "Curimata",
+      "id": "VGlBTNjxGV-y"
+    },
+    {
+      "name": "Curitiba",
+      "id": "DhFfrg6QVxsh"
+    },
+    {
+      "name": "Curitibanos",
+      "id": "4Yh4PnMdBBgL"
+    },
+    {
+      "name": "Currais Novos",
+      "id": "ZDemjtWibLe8"
+    },
+    {
+      "name": "Cururupu",
+      "id": "cHPIsjQB8Eo8"
+    },
+    {
+      "name": "Curvelo",
+      "id": "JWITvodJqfqe"
+    },
+    {
+      "name": "Delfinopolis",
+      "id": "qOQgvmxRLJGn"
+    },
+    {
+      "name": "Descalvado",
+      "id": "FpD3jCyQHLyR"
+    },
+    {
+      "name": "Descanso",
+      "id": "NEI-U1Ya7YDr"
+    },
+    {
+      "name": "Diadema",
+      "id": "YM9NmDZklax3"
+    },
+    {
+      "name": "Diamantina",
+      "id": "Z_gMokN8mFcC"
+    },
+    {
+      "name": "Diamantino",
+      "id": "OXSpiW7rbFZ3"
+    },
+    {
+      "name": "Dias",
+      "id": "iw_3pD_6RE_f"
+    },
+    {
+      "name": "Dionisio Cerqueira",
+      "id": "QprgdOrSVcid"
+    },
+    {
+      "name": "Divinopolis",
+      "id": "z8OcZjrP5IX0"
+    },
+    {
+      "name": "Dix-sept Rosado",
+      "id": "VOdcSV4AFsqR"
+    },
+    {
+      "name": "Dobrada",
+      "id": "KBTiE99khQjs"
+    },
+    {
+      "name": "Dois Corregos",
+      "id": "jZYvKFgAtPR8"
+    },
+    {
+      "name": "Dois Irmaos",
+      "id": "C6YbbTXyTJTw"
+    },
+    {
+      "name": "Dois Vizinhos",
+      "id": "R7obyDNpECA_"
+    },
+    {
+      "name": "Dom Feliciano",
+      "id": "KUqcI6jFzDAk"
+    },
+    {
+      "name": "Dom Pedrito",
+      "id": "unyl_baGc9Xz"
+    },
+    {
+      "name": "Dom Silverio",
+      "id": "fPJQ7NIghJ3n"
+    },
+    {
+      "name": "Domingos Martins",
+      "id": "jeuj-imdw-P0"
+    },
+    {
+      "name": "Dores do Indaia",
+      "id": "eoUc6wNDbpFY"
+    },
+    {
+      "name": "Dourado",
+      "id": "Vz133KXQL4hC"
+    },
+    {
+      "name": "Dourados",
+      "id": "8QTp4miqeDpi"
+    },
+    {
+      "name": "Doutor Camargo",
+      "id": "fuzjl9pGCAol"
+    },
+    {
+      "name": "Doutor Mauricio Cardoso",
+      "id": "uzmazwjXfgYG"
+    },
+    {
+      "name": "Dracena",
+      "id": "WDb8aFcRw5lo"
+    },
+    {
+      "name": "Duartina",
+      "id": "eby1KgCcTpq8"
+    },
+    {
+      "name": "Duas Barras",
+      "id": "YljLfe5N682I"
+    },
+    {
+      "name": "Dumont",
+      "id": "-Dkwy-Hb7JFc"
+    },
+    {
+      "name": "Duque de Caxias",
+      "id": "__pxsY80GuBl"
+    },
+    {
+      "name": "Eldorado",
+      "id": "9uPPSkgJquXT"
+    },
+    {
+      "name": "Elias Fausto",
+      "id": "vKR941npZ0gL"
+    },
+    {
+      "name": "Elisiario",
+      "id": "38IuCrW6JBeQ"
+    },
+    {
+      "name": "Eloi Mendes",
+      "id": "lbAl6O5GzTYd"
+    },
+    {
+      "name": "Embu",
+      "id": "RRMwAthcEqGX"
+    },
+    {
+      "name": "Embu Guacu",
+      "id": "ngEZdWNFP4sC"
+    },
+    {
+      "name": "Encantado",
+      "id": "S1F_ZKZmQjel"
+    },
+    {
+      "name": "Encruzilhada do Sul",
+      "id": "wTvmM4Bpg94u"
+    },
+    {
+      "name": "Engenheiro Beltrao",
+      "id": "_VkJi5e5Xfqq"
+    },
+    {
+      "name": "Engenheiro Schmidt",
+      "id": "h5x8gEswrI16"
+    },
+    {
+      "name": "Entre Rios",
+      "id": "kiVLkg4ps-Qz"
+    },
+    {
+      "name": "Entre Rios de Minas",
+      "id": "xJO4oC5-GLjE"
+    },
+    {
+      "name": "Erechim",
+      "id": "LBdSMwLvyLnh"
+    },
+    {
+      "name": "Erval Grande",
+      "id": "s4xG4Fpj4sEX"
+    },
+    {
+      "name": "Erval Velho",
+      "id": "NWNPEeNqHCVz"
+    },
+    {
+      "name": "Ervalia",
+      "id": "B9Mesqc5Lqnf"
+    },
+    {
+      "name": "Escada",
+      "id": "_PCZELRlp_7c"
+    },
+    {
+      "name": "Esmeraldas",
+      "id": "lNbAcX9spMvo"
+    },
+    {
+      "name": "Espera Feliz",
+      "id": "vDr-C_rWJWU2"
+    },
+    {
+      "name": "Esperanca",
+      "id": "-W8K0ZrFfeWT"
+    },
+    {
+      "name": "Esperantina",
+      "id": "Qk2Xfq4iGZL_"
+    },
+    {
+      "name": "Espinosa",
+      "id": "Cek9YVZj5r6h"
+    },
+    {
+      "name": "Espirito Santo",
+      "id": "0Z-UKxVgGOnC"
+    },
+    {
+      "name": "Espirito Santo do Pinhal",
+      "id": "Vt31ahbtSkV8"
+    },
+    {
+      "name": "Espumoso",
+      "id": "8VbhuKxZw4hD"
+    },
+    {
+      "name": "Estancia",
+      "id": "OwdtauYHTY1c"
+    },
+    {
+      "name": "Estancia Nova",
+      "id": "pCblNNVwJKE_"
+    },
+    {
+      "name": "Estancia Velha",
+      "id": "CpNe9-Timlmg"
+    },
+    {
+      "name": "Esteio",
+      "id": "Or988_wlHUrs"
+    },
+    {
+      "name": "Estiva",
+      "id": "QMHub7CIf05D"
+    },
+    {
+      "name": "Estreito",
+      "id": "54_VvPr3IlKD"
+    },
+    {
+      "name": "Estrela",
+      "id": "YdpAkFSVKp9l"
+    },
+    {
+      "name": "Eugenio",
+      "id": "riCgyvk51Adt"
+    },
+    {
+      "name": "Eugenopolis",
+      "id": "gEhISPKREh-S"
+    },
+    {
+      "name": "Eusebio",
+      "id": "bkhIXCr4eCSS"
+    },
+    {
+      "name": "Extrema",
+      "id": "PiIUB_6fkCxv"
+    },
+    {
+      "name": "Extremoz",
+      "id": "Uz5O9IoCDCPG"
+    },
+    {
+      "name": "Exu",
+      "id": "wemrbLX4tjYZ"
+    },
+    {
+      "name": "Farroupilha",
+      "id": "56ihH77Yipi8"
+    },
+    {
+      "name": "Fartura",
+      "id": "O-jNP-1_oxuD"
+    },
+    {
+      "name": "Fatima",
+      "id": "en2FXR7o5DnT"
+    },
+    {
+      "name": "Faxinal",
+      "id": "wRbciO5D51QZ"
+    },
+    {
+      "name": "Faxinal do Soturno",
+      "id": "yJc8giuMGf_U"
+    },
+    {
+      "name": "Faxinal dos Guedes",
+      "id": "WGP1PIZHWJ41"
+    },
+    {
+      "name": "Fazenda Rio Grande",
+      "id": "PfTWQVZB9sPX"
+    },
+    {
+      "name": "Feira de Santana",
+      "id": "bIg5EZv8gp5a"
+    },
+    {
+      "name": "Feira Nova",
+      "id": "HXIQPyUJcbG8"
+    },
+    {
+      "name": "Feliz",
+      "id": "e0oS7c6S3Wpt"
+    },
+    {
+      "name": "Fenix",
+      "id": "PyiTRR_idwoE"
+    },
+    {
+      "name": "Fernando Prestes",
+      "id": "AMxLDXvNM6CQ"
+    },
+    {
+      "name": "Fernandopolis",
+      "id": "dcxDN68-W4DC"
+    },
+    {
+      "name": "Ferraz de Vasconcelos",
+      "id": "7Is3TxkCu2Yd"
+    },
+    {
+      "name": "Flexeiras",
+      "id": "L6qfClzD_My0"
+    },
+    {
+      "name": "Florania",
+      "id": "Irz4wARqxDka"
+    },
+    {
+      "name": "Flores",
+      "id": "vpgc3M_fxeXw"
+    },
+    {
+      "name": "Flores da Cunha",
+      "id": "9nrUOpWVpaSi"
+    },
+    {
+      "name": "Floresta Azul",
+      "id": "N2qtLE5nag5F"
+    },
+    {
+      "name": "Floriano",
+      "id": "7-3x4MkJTnq8"
+    },
+    {
+      "name": "Florinia",
+      "id": "X6EkfmknHZKm"
+    },
+    {
+      "name": "Formiga",
+      "id": "qfzM-1rbe6pY"
+    },
+    {
+      "name": "Formosa",
+      "id": "AlixHpRM-pd9"
+    },
+    {
+      "name": "Forquilha",
+      "id": "pnVsErFpLNLd"
+    },
+    {
+      "name": "Forquilhinha",
+      "id": "WA9ndjVyfOoV"
+    },
+    {
+      "name": "Fortaleza",
+      "id": "JyQp9rU-OcMI"
+    },
+    {
+      "name": "Fortuna",
+      "id": "-HTLzu-IYjlA"
+    },
+    {
+      "name": "Foz do Jordao",
+      "id": "aVrpiUjBfmWI"
+    },
+    {
+      "name": "Fragoso",
+      "id": "jxl2VR9VdSwc"
+    },
+    {
+      "name": "Franca",
+      "id": "QYsVE9Y3WfKH"
+    },
+    {
+      "name": "Francisco Beltrao",
+      "id": "aKv2hxMX5LhI"
+    },
+    {
+      "name": "Francisco Morato",
+      "id": "duTRVNjMHnhk"
+    },
+    {
+      "name": "Francisco Sa",
+      "id": "kp3WZFrGRUPz"
+    },
+    {
+      "name": "Franco da Rocha",
+      "id": "iLCCqV3EvN2k"
+    },
+    {
+      "name": "Frederico Westphalen",
+      "id": "Zv2lo6vDU9E8"
+    },
+    {
+      "name": "Frei Paulo",
+      "id": "ktguZQVZ9Qdp"
+    },
+    {
+      "name": "Freitas",
+      "id": "KQADWjjgWtcR"
+    },
+    {
+      "name": "Fronteira",
+      "id": "0hFp-vc-ys77"
+    },
+    {
+      "name": "Frutal",
+      "id": "tGKAqv0Ng2kF"
+    },
+    {
+      "name": "Fundao",
+      "id": "zwp3HxjHw2Fx"
+    },
+    {
+      "name": "Gameleira",
+      "id": "5ddWQdfSVphZ"
+    },
+    {
+      "name": "Gandu",
+      "id": "gb9uXI2ubkm_"
+    },
+    {
+      "name": "Garanhuns",
+      "id": "48wgSu2rfT80"
+    },
+    {
+      "name": "Garca",
+      "id": "Ri3c2i3AgNap"
+    },
+    {
+      "name": "Gardenia Azul",
+      "id": "XO5BLYVp1gQg"
+    },
+    {
+      "name": "Garibaldi",
+      "id": "g2Ab90Vq1Yiz"
+    },
+    {
+      "name": "Garimpo Novo",
+      "id": "SfBOLzNkv6RW"
+    },
+    {
+      "name": "Garopaba",
+      "id": "S-xhHnklChY-"
+    },
+    {
+      "name": "Garuva",
+      "id": "cVoLxwG9AKas"
+    },
+    {
+      "name": "Gaspar",
+      "id": "9A5caaXJEvWg"
+    },
+    {
+      "name": "Gaviao Peixoto",
+      "id": "hA_-IhpJVwo2"
+    },
+    {
+      "name": "General Carneiro",
+      "id": "vmCUy0CT-xgT"
+    },
+    {
+      "name": "General Salgado",
+      "id": "S5QMzNjyaDB2"
+    },
+    {
+      "name": "Getulio Vargas",
+      "id": "Zl_i1ockHDR2"
+    },
+    {
+      "name": "Girau do Ponciano",
+      "id": "P5nG2ZdhIQtz"
+    },
+    {
+      "name": "Gloria",
+      "id": "cWAuammT5AJB"
+    },
+    {
+      "name": "Gloria do Goita",
+      "id": "CqYk22mX7Ujc"
+    },
+    {
+      "name": "Glorinha",
+      "id": "rlmZVJ_6Lo-Y"
+    },
+    {
+      "name": "Goiana",
+      "id": "vanf8vVug8iN"
+    },
+    {
+      "name": "Goianapolis",
+      "id": "RYVPYXro11BK"
+    },
+    {
+      "name": "Goianesia",
+      "id": "aMFUXdOLLrdg"
+    },
+    {
+      "name": "Goianinha",
+      "id": "HwzWj4CeXqON"
+    },
+    {
+      "name": "Goianira",
+      "id": "72zP8hV2VKO9"
+    },
+    {
+      "name": "Goias",
+      "id": "rJiDOoDW4m5D"
+    },
+    {
+      "name": "Gomes",
+      "id": "E68gqEAFJOJv"
+    },
+    {
+      "name": "Goncalves",
+      "id": "hISOupFzds82"
+    },
+    {
+      "name": "Governador Valadares",
+      "id": "LjNfChd721ad"
+    },
+    {
+      "name": "Graca Aranha",
+      "id": "r3tGAlqy3lIP"
+    },
+    {
+      "name": "Grajau",
+      "id": "bLu-dmNBVlRE"
+    },
+    {
+      "name": "Gramado",
+      "id": "mZ1WAOvSs5aP"
+    },
+    {
+      "name": "Granito",
+      "id": "J6dz3wJeJ9zi"
+    },
+    {
+      "name": "Granja",
+      "id": "fbJ_SeTV7yif"
+    },
+    {
+      "name": "Grao Mogol",
+      "id": "GPGrp_CeDZ59"
+    },
+    {
+      "name": "Groairas",
+      "id": "1YoTwrNDA7eI"
+    },
+    {
+      "name": "Guacui",
+      "id": "MLajLsVlh2zZ"
+    },
+    {
+      "name": "Guai",
+      "id": "th3-hSjclxhn"
+    },
+    {
+      "name": "Guaianases",
+      "id": "O6zGP7p9K9Mu"
+    },
+    {
+      "name": "Guaicara",
+      "id": "w_KBQ5UCyNfK"
+    },
+    {
+      "name": "Guaira",
+      "id": "yyjuPAV2Zucj"
+    },
+    {
+      "name": "Guajeru",
+      "id": "cWvrXjA7qtQV"
+    },
+    {
+      "name": "Guamare",
+      "id": "ae6Uxpk1VrVD"
+    },
+    {
+      "name": "Guanambi",
+      "id": "zhhQRsdFtQHL"
+    },
+    {
+      "name": "Guanhaes",
+      "id": "T6g_X5n77bAe"
+    },
+    {
+      "name": "Guapiacu",
+      "id": "IQ6X4lj7EhuF"
+    },
+    {
+      "name": "Guapimirim",
+      "id": "zqBLu9Ls6hvj"
+    },
+    {
+      "name": "Guapo",
+      "id": "OKr30ftfQM3m"
+    },
+    {
+      "name": "Guapore",
+      "id": "DnzajqkFFDh_"
+    },
+    {
+      "name": "Guara",
+      "id": "wJ_87jvR0N5F"
+    },
+    {
+      "name": "Guarabira",
+      "id": "ihaxa4di-PoH"
+    },
+    {
+      "name": "Guaraci",
+      "id": "-5sRDVYE12yj"
+    },
+    {
+      "name": "Guaraciaba",
+      "id": "ljeRogtM1ESJ"
+    },
+    {
+      "name": "Guaragi",
+      "id": "G6CBInDMqRKP"
+    },
+    {
+      "name": "Guaramirim",
+      "id": "EYEU7RV6xiwR"
+    },
+    {
+      "name": "Guaranesia",
+      "id": "KgDjVG-dXQmZ"
+    },
+    {
+      "name": "Guarani dOeste",
+      "id": "aTlMIZhOwwmd"
+    },
+    {
+      "name": "Guaranta",
+      "id": "u3StomzpNu32"
+    },
+    {
+      "name": "Guarapari",
+      "id": "Y9LpdF3lD91-"
+    },
+    {
+      "name": "Guarapuava",
+      "id": "27DypN7LU0Lb"
+    },
+    {
+      "name": "Guararapes",
+      "id": "EMziqLpU8ZSv"
+    },
+    {
+      "name": "Guararema",
+      "id": "DHaMygDnu1Kz"
+    },
+    {
+      "name": "Guaratingueta",
+      "id": "XwqAsKZeJ95i"
+    },
+    {
+      "name": "Guaratuba",
+      "id": "LbKUtkfhXwFQ"
+    },
+    {
+      "name": "Guarei",
+      "id": "slcUqGWzOQlI"
+    },
+    {
+      "name": "Guariba",
+      "id": "Qy_GBqsdiWB4"
+    },
+    {
+      "name": "Guaruja",
+      "id": "5tA3ZsTzOOrz"
+    },
+    {
+      "name": "Guarulhos",
+      "id": "E3ao_PeVRzQH"
+    },
+    {
+      "name": "Guaxupe",
+      "id": "hSy1PYvYlf0K"
+    },
+    {
+      "name": "Gurjao",
+      "id": "R7PQis2EzKQW"
+    },
+    {
+      "name": "Gurupi",
+      "id": "cTJqsx6Kk4MB"
+    },
+    {
+      "name": "Heliodora",
+      "id": "VFkhvvOhbcv-"
+    },
+    {
+      "name": "Heliopolis",
+      "id": "NWn_5byhoYth"
+    },
+    {
+      "name": "Horizontina",
+      "id": "nowJa9gDAc50"
+    },
+    {
+      "name": "Iacanga",
+      "id": "uwfEk_S_jjK9"
+    },
+    {
+      "name": "Iacu",
+      "id": "NaieDM48GFwV"
+    },
+    {
+      "name": "Ibaiti",
+      "id": "qdTr6Zy0suNc"
+    },
+    {
+      "name": "Ibate",
+      "id": "kmNwQ6v9A0j2"
+    },
+    {
+      "name": "Ibatiba",
+      "id": "R0GtY3dVTbFc"
+    },
+    {
+      "name": "Ibiaca",
+      "id": "nmubrYqXMiZu"
+    },
+    {
+      "name": "Ibicoara",
+      "id": "lkchq8HPi7fO"
+    },
+    {
+      "name": "Ibipeba",
+      "id": "9hvTKKZvt32V"
+    },
+    {
+      "name": "Ibipora",
+      "id": "i3P4tZemIg6P"
+    },
+    {
+      "name": "Ibirama",
+      "id": "c7Div68klvem"
+    },
+    {
+      "name": "Ibirarema",
+      "id": "x2fmWcunNzQ0"
+    },
+    {
+      "name": "Ibirataia",
+      "id": "i4_BBI_6dNgK"
+    },
+    {
+      "name": "Ibirite",
+      "id": "NlfjUO4BnXow"
+    },
+    {
+      "name": "Ibiruba",
+      "id": "s9G5mFffFfiX"
+    },
+    {
+      "name": "Ibitinga",
+      "id": "JJNrHl9o87F8"
+    },
+    {
+      "name": "Ibiuna",
+      "id": "i9W8eHi_dmT2"
+    },
+    {
+      "name": "Icapui",
+      "id": "qj5Y2_pmStuI"
+    },
+    {
+      "name": "Icara",
+      "id": "lDDcBWn_1j6A"
+    },
+    {
+      "name": "Icarai",
+      "id": "-xUSUHZ5MTxN"
+    },
+    {
+      "name": "Icem",
+      "id": "aur8JqSAiJ6G"
+    },
+    {
+      "name": "Ico",
+      "id": "QC6tznQNKOqt"
+    },
+    {
+      "name": "Icoraci",
+      "id": "AK3GGYwmnxi2"
+    },
+    {
+      "name": "Igaracu do Tiete",
+      "id": "Znsc3mlonstE"
+    },
+    {
+      "name": "Igarapava",
+      "id": "V6uW9XPS8KVb"
+    },
+    {
+      "name": "Igarape",
+      "id": "MnYzmHVgi0VH"
+    },
+    {
+      "name": "Igarassu",
+      "id": "KhQJsloT_uVA"
+    },
+    {
+      "name": "Igarata",
+      "id": "0qjBWZr6YqA6"
+    },
+    {
+      "name": "Igreja Nova",
+      "id": "qBSagujmLdDs"
+    },
+    {
+      "name": "Igrejinha",
+      "id": "jBRE0GqZSSLw"
+    },
+    {
+      "name": "Iguaba Grande",
+      "id": "Z81T1IPGd89P"
+    },
+    {
+      "name": "Iguai",
+      "id": "fCdPM3qwZzzJ"
+    },
+    {
+      "name": "Iguape",
+      "id": "5FQHseEUIvxI"
+    },
+    {
+      "name": "Iguaracu",
+      "id": "tXb4AyRq20pC"
+    },
+    {
+      "name": "Iguatu",
+      "id": "3KSSkOy1yMm9"
+    },
+    {
+      "name": "Ijui",
+      "id": "kcZ9KYIDRDZ7"
+    },
+    {
+      "name": "Ilha Solteira",
+      "id": "3FjVjPau9sj1"
+    },
+    {
+      "name": "Ilhabela",
+      "id": "wLOgcSHukQnv"
+    },
+    {
+      "name": "Ilhota",
+      "id": "VRDyHv2FFwvP"
+    },
+    {
+      "name": "Imbituba",
+      "id": "GEXcpRG9CxwE"
+    },
+    {
+      "name": "Imbituva",
+      "id": "GkbgSXbo--ky"
+    },
+    {
+      "name": "Imperatriz",
+      "id": "ZrEvPYhLzdXw"
+    },
+    {
+      "name": "Indaial",
+      "id": "eIOTPZW-1kYY"
+    },
+    {
+      "name": "Indaiatuba",
+      "id": "u4KZyvVAJz6j"
+    },
+    {
+      "name": "Indianopolis",
+      "id": "aMZV_Ptz_D3Z"
+    },
+    {
+      "name": "Inga",
+      "id": "n7w20z4gifLo"
+    },
+    {
+      "name": "Inhacora",
+      "id": "rd530OZEi07o"
+    },
+    {
+      "name": "Inhangapi",
+      "id": "gVvGiKIjoZiE"
+    },
+    {
+      "name": "Inhauma",
+      "id": "QEc0Xe7-9x_T"
+    },
+    {
+      "name": "Inhumas",
+      "id": "CQLTQbxYHQxj"
+    },
+    {
+      "name": "Inocencia",
+      "id": "pgn9Xa14tl3s"
+    },
+    {
+      "name": "Inubia Paulista",
+      "id": "YGjGMlDwsqEO"
+    },
+    {
+      "name": "Ipaba",
+      "id": "567xNAp11jzS"
+    },
+    {
+      "name": "Ipameri",
+      "id": "e9-s6UA2pZD3"
+    },
+    {
+      "name": "Ipatinga",
+      "id": "V9ldUTu_d2eF"
+    },
+    {
+      "name": "Ipaucu",
+      "id": "Sv-Is0nPOLLj"
+    },
+    {
+      "name": "Ipero",
+      "id": "w7Y9nQv4Whvv"
+    },
+    {
+      "name": "Ipeuna",
+      "id": "EIK0zJsiS1XD"
+    },
+    {
+      "name": "Ipiau",
+      "id": "dF3q3OkMbmwl"
+    },
+    {
+      "name": "Ipira",
+      "id": "q25_Qv6pyZ3a"
+    },
+    {
+      "name": "Ipiranga",
+      "id": "DOj8x-KYPBHv"
+    },
+    {
+      "name": "Ipojuca",
+      "id": "Ju7OpzEoj0ci"
+    },
+    {
+      "name": "Ipora",
+      "id": "AYbPo-767g0u"
+    },
+    {
+      "name": "Ipu",
+      "id": "HXpvpq4h1bIb"
+    },
+    {
+      "name": "Ipua",
+      "id": "q4NOG_4j27lj"
+    },
+    {
+      "name": "Ipubi",
+      "id": "eBZVasEaCSVc"
+    },
+    {
+      "name": "Ipumirim",
+      "id": "zLozSYFpG_dC"
+    },
+    {
+      "name": "Iracema",
+      "id": "jrAnjpZRgc_j"
+    },
+    {
+      "name": "Iracemapolis",
+      "id": "4-xWz5ry92Br"
+    },
+    {
+      "name": "Iraceminha",
+      "id": "5VUgIF3e4Avp"
+    },
+    {
+      "name": "Irai",
+      "id": "5a8Vp1hGp7fw"
+    },
+    {
+      "name": "Iranduba",
+      "id": "k6ZVk3-NjkpB"
+    },
+    {
+      "name": "Irati",
+      "id": "mquNfMH9D_2B"
+    },
+    {
+      "name": "Irece",
+      "id": "I0aAPwdNZjZQ"
+    },
+    {
+      "name": "Iretama",
+      "id": "flHI32pdncnj"
+    },
+    {
+      "name": "Irupi",
+      "id": "G5rIF65-b2ip"
+    },
+    {
+      "name": "Itabaiana",
+      "id": "djXtbOrls-L6"
+    },
+    {
+      "name": "Itabaianinha",
+      "id": "8b9MYYonMboS"
+    },
+    {
+      "name": "Itabapoana",
+      "id": "TuGvCGLHQBx-"
+    },
+    {
+      "name": "Itaberaba",
+      "id": "f8fnPGYRvaTZ"
+    },
+    {
+      "name": "Itabira",
+      "id": "eR2n9F2SYrX8"
+    },
+    {
+      "name": "Itabirinha de Mantena",
+      "id": "oVQeLRKvloWF"
+    },
+    {
+      "name": "Itabirito",
+      "id": "ezuIT8NxDFbD"
+    },
+    {
+      "name": "Itaborai",
+      "id": "iZWKpASE-d0h"
+    },
+    {
+      "name": "Itabuna",
+      "id": "E92230g25dDq"
+    },
+    {
+      "name": "Itacare",
+      "id": "k4yn8VpGWn0D"
+    },
+    {
+      "name": "Itaete",
+      "id": "4MLOoNkW0WkX"
+    },
+    {
+      "name": "Itagi",
+      "id": "lVb6BMMM5yI7"
+    },
+    {
+      "name": "Itagiba",
+      "id": "V-g1c6D6DczA"
+    },
+    {
+      "name": "Itaguacu",
+      "id": "9YDNrNueiomq"
+    },
+    {
+      "name": "Itaguai",
+      "id": "2j5x6GsmDMz3"
+    },
+    {
+      "name": "Itaguatins",
+      "id": "C-8ZKSPoh6j-"
+    },
+    {
+      "name": "Itaipava",
+      "id": "rQ6ZOoJ2PWck"
+    },
+    {
+      "name": "Itaipu",
+      "id": "zbuPpVu2Mwrc"
+    },
+    {
+      "name": "Itaitinga",
+      "id": "ujstRy-xrLiz"
+    },
+    {
+      "name": "Itaituba",
+      "id": "LyEGFLONpqXP"
+    },
+    {
+      "name": "Itajobi",
+      "id": "iRKOK40vxTQ9"
+    },
+    {
+      "name": "Itajuba",
+      "id": "pXkLqKYg1jUn"
+    },
+    {
+      "name": "Itajuipe",
+      "id": "yhXGGXzAV1LI"
+    },
+    {
+      "name": "Italva",
+      "id": "-hnyR_voFw6z"
+    },
+    {
+      "name": "Itamaraca",
+      "id": "FtKmvwE0zF3-"
+    },
+    {
+      "name": "Itamarati",
+      "id": "L1xNIne9nBH6"
+    },
+    {
+      "name": "Itambaraca",
+      "id": "LqDqrJVAsWBY"
+    },
+    {
+      "name": "Itambe",
+      "id": "QGzcAIZu0M33"
+    },
+    {
+      "name": "Itamogi",
+      "id": "MKLeeCIzpdTK"
+    },
+    {
+      "name": "Itamonte",
+      "id": "zW974SWdaqzy"
+    },
+    {
+      "name": "Itanhaem",
+      "id": "COhZrBl_QH8W"
+    },
+    {
+      "name": "Itanhandu",
+      "id": "f-oyc9AHXUhP"
+    },
+    {
+      "name": "Itanhomi",
+      "id": "AI07ZW9quWxN"
+    },
+    {
+      "name": "Itaocara",
+      "id": "7XDVgC9O5D5m"
+    },
+    {
+      "name": "Itapaci",
+      "id": "GUNXDKF7WVHJ"
+    },
+    {
+      "name": "Itapagipe",
+      "id": "4WbRYbjenaXN"
+    },
+    {
+      "name": "Itaparica",
+      "id": "5RrcuJt0Enrh"
+    },
+    {
+      "name": "Itape",
+      "id": "S8J-_XEpoay3"
+    },
+    {
+      "name": "Itapecerica",
+      "id": "6MrrUhMpnlUY"
+    },
+    {
+      "name": "Itapecerica da Serra",
+      "id": "FwsSx4cl1Jzn"
+    },
+    {
+      "name": "Itapecuru Mirim",
+      "id": "JXJ-yDKXyb1V"
+    },
+    {
+      "name": "Itapejara",
+      "id": "hXIy-I0Olysd"
+    },
+    {
+      "name": "Itapema",
+      "id": "AS_J6gUBK8rG"
+    },
+    {
+      "name": "Itaperuna",
+      "id": "P7I1uBUj4KtP"
+    },
+    {
+      "name": "Itapetinga",
+      "id": "tZpLtJJC0NMY"
+    },
+    {
+      "name": "Itapetininga",
+      "id": "EqDm2TcuM8wG"
+    },
+    {
+      "name": "Itapeva",
+      "id": "yZVROMEtXYSs"
+    },
+    {
+      "name": "Itapevi",
+      "id": "HScLi41s12kb"
+    },
+    {
+      "name": "Itapicuru",
+      "id": "4QS1y-tL8ES4"
+    },
+    {
+      "name": "Itapipoca",
+      "id": "mF8AXZGa2w_4"
+    },
+    {
+      "name": "Itapira",
+      "id": "PWenUFxaOERk"
+    },
+    {
+      "name": "Itapiranga",
+      "id": "kntsXFE6-uGw"
+    },
+    {
+      "name": "Itapissuma",
+      "id": "R9WAFrTLNORy"
+    },
+    {
+      "name": "Itapixuna",
+      "id": "E44EDRZn6udn"
+    },
+    {
+      "name": "Itapo",
+      "id": "YKLOFSzOj2tW"
+    },
+    {
+      "name": "Itapolis",
+      "id": "0veHz4JnBrJi"
+    },
+    {
+      "name": "Itaporanga",
+      "id": "qQ4YyePHHEHS"
+    },
+    {
+      "name": "Itapua",
+      "id": "u7b2kU1x5215"
+    },
+    {
+      "name": "Itapuranga",
+      "id": "66OXm-OU6ad8"
+    },
+    {
+      "name": "Itaquaquecetuba",
+      "id": "2esCxrLlnxwQ"
+    },
+    {
+      "name": "Itaqui",
+      "id": "AGZdxqsasU65"
+    },
+    {
+      "name": "Itarantim",
+      "id": "21ZMke3IaYxC"
+    },
+    {
+      "name": "Itarare",
+      "id": "ywd8SlaOg6ES"
+    },
+    {
+      "name": "Itatiaia",
+      "id": "9z3bKgar6zTA"
+    },
+    {
+      "name": "Itatiba",
+      "id": "2I3ThDUIbbZH"
+    },
+    {
+      "name": "Itatinga",
+      "id": "NA1xDpw_vw2L"
+    },
+    {
+      "name": "Itatira",
+      "id": "O-xIacPOOpx8"
+    },
+    {
+      "name": "Itau de Minas",
+      "id": "nje01j81on_G"
+    },
+    {
+      "name": "Itauna",
+      "id": "SgdqMGcXKp6J"
+    },
+    {
+      "name": "Itinga da Serra",
+      "id": "2MYv7PrWuYu3"
+    },
+    {
+      "name": "Itirapina",
+      "id": "kkWrRR0anlV6"
+    },
+    {
+      "name": "Itiuba",
+      "id": "FCmSlwMKBK-T"
+    },
+    {
+      "name": "Itobi",
+      "id": "dyBJlnSoFjAH"
+    },
+    {
+      "name": "Itororo",
+      "id": "akGAevLJNDPs"
+    },
+    {
+      "name": "Itu",
+      "id": "I9Yjbj0d1V_k"
+    },
+    {
+      "name": "Itubera",
+      "id": "8xFCt3zEksHq"
+    },
+    {
+      "name": "Ituiutaba",
+      "id": "CZHUhnUNl26j"
+    },
+    {
+      "name": "Itumbiara",
+      "id": "X_K-jk7mPXLN"
+    },
+    {
+      "name": "Ituporanga",
+      "id": "LPT3XQWa9ZVF"
+    },
+    {
+      "name": "Iturama",
+      "id": "QqOvle8jeZ2H"
+    },
+    {
+      "name": "Ituverava",
+      "id": "jOJqozvs1CqA"
+    },
+    {
+      "name": "Iuna",
+      "id": "FCBo-_1nZkTL"
+    },
+    {
+      "name": "Ivaipora",
+      "id": "azw8-6arX2IQ"
+    },
+    {
+      "name": "Ivoti",
+      "id": "j-VWPeCZHxjP"
+    },
+    {
+      "name": "Jaboatao dos Guararapes",
+      "id": "U4eOl1vFsPpr"
+    },
+    {
+      "name": "Jabora",
+      "id": "vHCRgSnpTopo"
+    },
+    {
+      "name": "Jaborandi",
+      "id": "5pj14M7qfwRx"
+    },
+    {
+      "name": "Jaboticabal",
+      "id": "9dpnoiqiJ5DJ"
+    },
+    {
+      "name": "Jaboticatubas",
+      "id": "a-UjCiPUhUZs"
+    },
+    {
+      "name": "Jacarau",
+      "id": "A5jRK9SJUUup"
+    },
+    {
+      "name": "Jacarepagua",
+      "id": "3z_B_ahBRPD4"
+    },
+    {
+      "name": "Jacarezinho",
+      "id": "NihRv6Hzfvmo"
+    },
+    {
+      "name": "Jaci",
+      "id": "81XFjfxxiBzv"
+    },
+    {
+      "name": "Jaciara",
+      "id": "QiWCZaKGe4y8"
+    },
+    {
+      "name": "Jacobina",
+      "id": "wb6CSbOOQSbi"
+    },
+    {
+      "name": "Jacuizinho",
+      "id": "DBzxMPX4Ch4d"
+    },
+    {
+      "name": "Jacupiranga",
+      "id": "3ZiZ6_LpFqT2"
+    },
+    {
+      "name": "Jacutinga",
+      "id": "skZS7KoV_ewv"
+    },
+    {
+      "name": "Jaguapita",
+      "id": "3XlqhYnWOzKA"
+    },
+    {
+      "name": "Jaguaquara",
+      "id": "Bekkd1VJYoaP"
+    },
+    {
+      "name": "Jaguarao",
+      "id": "xAwxrzPqcAXa"
+    },
+    {
+      "name": "Jaguaras",
+      "id": "PIeHtOmH8tyt"
+    },
+    {
+      "name": "Jaguariaiva",
+      "id": "ZjrfznwVNfuf"
+    },
+    {
+      "name": "Jaguaribe",
+      "id": "xOwVMMg8KmNO"
+    },
+    {
+      "name": "Jaguaripe",
+      "id": "52k4TWCXKZCH"
+    },
+    {
+      "name": "Jaguariuna",
+      "id": "Wyf0lnVlq8Ih"
+    },
+    {
+      "name": "Jaguaruana",
+      "id": "Ih5Y1BjekmL1"
+    },
+    {
+      "name": "Jaguaruna",
+      "id": "Wa_Q9n2CBJ6M"
+    },
+    {
+      "name": "Jaiba",
+      "id": "fznC3rRX1Yt4"
+    },
+    {
+      "name": "Jales",
+      "id": "ScxMvo1asOVT"
+    },
+    {
+      "name": "Jampruca",
+      "id": "3DWR7A8nOIqw"
+    },
+    {
+      "name": "Janauba",
+      "id": "TZ5H88JDMdH8"
+    },
+    {
+      "name": "Jandaia do Sul",
+      "id": "TWVPXTG6mN69"
+    },
+    {
+      "name": "Jandira",
+      "id": "-LgQi8zi9XyJ"
+    },
+    {
+      "name": "Japaratinga",
+      "id": "jf3HVyyUGvti"
+    },
+    {
+      "name": "Japeri",
+      "id": "zYDDd5pDd6Pl"
+    },
+    {
+      "name": "Japira",
+      "id": "SxW9J8Plq4nQ"
+    },
+    {
+      "name": "Jardim Alegre",
+      "id": "oXOZCrNTCFLv"
+    },
+    {
+      "name": "Jardim de Piranhas",
+      "id": "n14kHhUBzyow"
+    },
+    {
+      "name": "Jardinopolis",
+      "id": "AvXNxOyVzp16"
+    },
+    {
+      "name": "Jarinu",
+      "id": "6KmH5Ej4zPFI"
+    },
+    {
+      "name": "Jaru",
+      "id": "vOoZQegDqKC8"
+    },
+    {
+      "name": "Jatai",
+      "id": "hacHV8txTmna"
+    },
+    {
+      "name": "Jataizinho",
+      "id": "g0sDn16V4JdE"
+    },
+    {
+      "name": "Jequitinhonha",
+      "id": "1hucPv6oMJup"
+    },
+    {
+      "name": "Jerico",
+      "id": "MO6RRovcQhw5"
+    },
+    {
+      "name": "Jeronimo Monteiro",
+      "id": "pJK6c5Lf-F6y"
+    },
+    {
+      "name": "Jesuania",
+      "id": "BJR53vbOp5E9"
+    },
+    {
+      "name": "Jetiba",
+      "id": "qvJBnlqNkt4S"
+    },
+    {
+      "name": "Ji Parana",
+      "id": "-l4PqL7iT7NR"
+    },
+    {
+      "name": "Jiquirica",
+      "id": "zgq9Tckuvj2e"
+    },
+    {
+      "name": "Joacaba",
+      "id": "dqPFAESt8Ks5"
+    },
+    {
+      "name": "Joanopolis",
+      "id": "gR_30CkBUosg"
+    },
+    {
+      "name": "Joao Camara",
+      "id": "TcNI-Y38UTFr"
+    },
+    {
+      "name": "Joao Lisboa",
+      "id": "1V7WzX6GfYTb"
+    },
+    {
+      "name": "Joao Monlevade",
+      "id": "5PeDiisVz7tF"
+    },
+    {
+      "name": "Joao Neiva",
+      "id": "Tg8MYqKTtqQn"
+    },
+    {
+      "name": "Joao Pinheiro",
+      "id": "IWLLPJ_l11J4"
+    },
+    {
+      "name": "Joaquim",
+      "id": "KC9c9uNg71dc"
+    },
+    {
+      "name": "Joaquim Tavora",
+      "id": "AQlOJQpO1vPL"
+    },
+    {
+      "name": "Joinville",
+      "id": "Nk5oFcBL4Xot"
+    },
+    {
+      "name": "Jose Boiteux",
+      "id": "xaaceKA9yfio"
+    },
+    {
+      "name": "Jose Bonifacio",
+      "id": "Jovnp2NydXvP"
+    },
+    {
+      "name": "Jose de Freitas",
+      "id": "CRBfc5321H6A"
+    },
+    {
+      "name": "Juatuba",
+      "id": "BPLHGEOPW-Ux"
+    },
+    {
+      "name": "Juazeiro",
+      "id": "dV7bwOvAdHGB"
+    },
+    {
+      "name": "Juazeiro do Norte",
+      "id": "jmKVjyqw63Oo"
+    },
+    {
+      "name": "Jucara",
+      "id": "7psaTWg9a-fO"
+    },
+    {
+      "name": "Jucurutu",
+      "id": "PXvOn9L0ndtf"
+    },
+    {
+      "name": "Juiz de Fora",
+      "id": "f_BwdOQh8faJ"
+    },
+    {
+      "name": "Julio de Castilhos",
+      "id": "Ihw8CrcB11Wv"
+    },
+    {
+      "name": "Julio Mesquita",
+      "id": "eBj1Ixp3nimn"
+    },
+    {
+      "name": "Jumirim",
+      "id": "-fCQvZ5O520-"
+    },
+    {
+      "name": "Jundiai do Sul",
+      "id": "EC4yddVoliRj"
+    },
+    {
+      "name": "Junqueiro",
+      "id": "817oIJoV-r53"
+    },
+    {
+      "name": "Junqueiropolis",
+      "id": "PPZsFrk5fwOO"
+    },
+    {
+      "name": "Juquia",
+      "id": "02pZbXt75BOY"
+    },
+    {
+      "name": "Juquitiba",
+      "id": "Q_u_lTIWocAb"
+    },
+    {
+      "name": "Juripiranga",
+      "id": "PvA2Pt3vEpc_"
+    },
+    {
+      "name": "Juru",
+      "id": "Mbq9TnNTqv7F"
+    },
+    {
+      "name": "Juruaia",
+      "id": "6cGBjwpViXUR"
+    },
+    {
+      "name": "Juruena",
+      "id": "uMr9nW8-JcjA"
+    },
+    {
+      "name": "Juruti",
+      "id": "lJLSHpbzpyLC"
+    },
+    {
+      "name": "Jussara",
+      "id": "AzBNnhgLj6Xb"
+    },
+    {
+      "name": "Jussari",
+      "id": "5YB7n9phCnWY"
+    },
+    {
+      "name": "Ladario",
+      "id": "cmcczXAHvPgU"
+    },
+    {
+      "name": "Lagarto",
+      "id": "xbVSdYi7qm6Z"
+    },
+    {
+      "name": "Lages",
+      "id": "omHsYV1FB3p7"
+    },
+    {
+      "name": "Lagoa",
+      "id": "-_9S6Gp_ScaD"
+    },
+    {
+      "name": "Lagoa da Canoa",
+      "id": "nOVNsN_Y00vX"
+    },
+    {
+      "name": "Lagoa da Prata",
+      "id": "0N9gm6a4kFKr"
+    },
+    {
+      "name": "Lagoa do Carro",
+      "id": "SlHauqtjwfdA"
+    },
+    {
+      "name": "Lagoa dos Gatos",
+      "id": "jWKvW1NxV4sI"
+    },
+    {
+      "name": "Lagoa Salgada",
+      "id": "cxj1m3MSl9BY"
+    },
+    {
+      "name": "Lagoa Santa",
+      "id": "eL-bFKabLwca"
+    },
+    {
+      "name": "Lagoa Seca",
+      "id": "5-oyw3oaowql"
+    },
+    {
+      "name": "Lagoa Vermelha",
+      "id": "qkJnrtTIm5wV"
+    },
+    {
+      "name": "Laguna",
+      "id": "5IAfI8kyh90O"
+    },
+    {
+      "name": "Laguna Carapa",
+      "id": "lXOH1Wm6r1FV"
+    },
+    {
+      "name": "Lajeado",
+      "id": "Wsq5XeHcbszc"
+    },
+    {
+      "name": "Lajinha",
+      "id": "0cJ2Y49pfaEO"
+    },
+    {
+      "name": "Lambari",
+      "id": "ue6XfL5UTqzg"
+    },
+    {
+      "name": "Lapa",
+      "id": "2RaEyQSFk_2O"
+    },
+    {
+      "name": "Laranjal Paulista",
+      "id": "oRvBBuGAYIhV"
+    },
+    {
+      "name": "Laranjeiras",
+      "id": "MzvcBcrnXucY"
+    },
+    {
+      "name": "Laranjeiras do Sul",
+      "id": "JS65nw37F93t"
+    },
+    {
+      "name": "Lauro",
+      "id": "QWoEkeyCZk2Y"
+    },
+    {
+      "name": "Lavinia",
+      "id": "s_Cm2RVb1IAd"
+    },
+    {
+      "name": "Lavras",
+      "id": "V79HgL4cvJUI"
+    },
+    {
+      "name": "Lavras da Mangabeira",
+      "id": "HjScl6x3KtoE"
+    },
+    {
+      "name": "Lavras do Sul",
+      "id": "SSDTvRo9Fzy2"
+    },
+    {
+      "name": "Lavrinhas",
+      "id": "jzllj7BW7EZr"
+    },
+    {
+      "name": "Lebon Regis",
+      "id": "TGkWFetxR3yQ"
+    },
+    {
+      "name": "Leme",
+      "id": "bAj5cqrJ7sbq"
+    },
+    {
+      "name": "Lencois",
+      "id": "qrfwlXdmNjKe"
+    },
+    {
+      "name": "Lencois Paulista",
+      "id": "bwURQgYWz9k2"
+    },
+    {
+      "name": "Leopoldina",
+      "id": "H76tv6fLmljX"
+    },
+    {
+      "name": "Liberdade",
+      "id": "m8W5UsLfA54E"
+    },
+    {
+      "name": "Lima Campos",
+      "id": "dsNP1Phu6plj"
+    },
+    {
+      "name": "Limeira",
+      "id": "KyfDZygsLYkY"
+    },
+    {
+      "name": "Limoeiro",
+      "id": "ZziTHwejBlvn"
+    },
+    {
+      "name": "Limoeiro do Norte",
+      "id": "YK1NIazzOX66"
+    },
+    {
+      "name": "Linhares",
+      "id": "kiXY5MxqN8WW"
+    },
+    {
+      "name": "Lins",
+      "id": "7C9oP3RsQFu0"
+    },
+    {
+      "name": "Loanda",
+      "id": "06nL-ApPSsy5"
+    },
+    {
+      "name": "Londrina",
+      "id": "35r4vsTKEtad"
+    },
+    {
+      "name": "Lontra",
+      "id": "tVUFkeTzT-wt"
+    },
+    {
+      "name": "Lorena",
+      "id": "fSsQALT98kC1"
+    },
+    {
+      "name": "Louveira",
+      "id": "j4VToyioB6GB"
+    },
+    {
+      "name": "Lucena",
+      "id": "678AipL42bb7"
+    },
+    {
+      "name": "Luis Antonio",
+      "id": "Mq6GrgVuJnoi"
+    },
+    {
+      "name": "Luis Correia",
+      "id": "0QNnuoxd0p8S"
+    },
+    {
+      "name": "Lumiar",
+      "id": "LXUFxHy5qqli"
+    },
+    {
+      "name": "Luminarias",
+      "id": "EX5Ky45l3Pgy"
+    },
+    {
+      "name": "Luz",
+      "id": "eOGMms5uFgLr"
+    },
+    {
+      "name": "Luzerna",
+      "id": "Dub9Spbgulph"
+    },
+    {
+      "name": "Luziania",
+      "id": "E-8X6gmTFmOe"
+    },
+    {
+      "name": "Macaiba",
+      "id": "zWxbVhutz7Rb"
+    },
+    {
+      "name": "Macaparana",
+      "id": "TdMCWnG5X-mb"
+    },
+    {
+      "name": "Macatuba",
+      "id": "72z3VibG3PkE"
+    },
+    {
+      "name": "Macau",
+      "id": "1ugBUwAHgQ_R"
+    },
+    {
+      "name": "Macaubas",
+      "id": "6o1ljZLxRMIc"
+    },
+    {
+      "name": "Macedonia",
+      "id": "IKBaEkeP5KB7"
+    },
+    {
+      "name": "Machadinho",
+      "id": "-NWfr4GY9GYx"
+    },
+    {
+      "name": "Machado",
+      "id": "RFacxx4jZ8re"
+    },
+    {
+      "name": "Machados",
+      "id": "imUxTxIcW_sA"
+    },
+    {
+      "name": "Macuco",
+      "id": "7LjeRHuSqA3p"
+    },
+    {
+      "name": "Madre de Deus",
+      "id": "vazPZJ0UcG5l"
+    },
+    {
+      "name": "Mafra",
+      "id": "J6e-3DRVaeQb"
+    },
+    {
+      "name": "Mage",
+      "id": "gEfu4CLsl2U_"
+    },
+    {
+      "name": "Mairi",
+      "id": "jQanKoL3ivKf"
+    },
+    {
+      "name": "Mairinque",
+      "id": "UrAPe_r3s_o3"
+    },
+    {
+      "name": "Malacacheta",
+      "id": "R1OBbHBDSV9W"
+    },
+    {
+      "name": "Mamanguape",
+      "id": "wdsh02WctFC1"
+    },
+    {
+      "name": "Mambore",
+      "id": "A9uQEEDAatWX"
+    },
+    {
+      "name": "Mamonas",
+      "id": "6UOA4j3aDQpj"
+    },
+    {
+      "name": "Manacapuru",
+      "id": "pLyYD7Szy94Q"
+    },
+    {
+      "name": "Manaus",
+      "id": "tZ50aD12oLRW"
+    },
+    {
+      "name": "Mandaguacu",
+      "id": "bmWGm_855WcP"
+    },
+    {
+      "name": "Mandaguari",
+      "id": "VIHnudWbsR8t"
+    },
+    {
+      "name": "Mandirituba",
+      "id": "0UmttDyyqX6D"
+    },
+    {
+      "name": "Manga",
+      "id": "Wcxm5k1emvjb"
+    },
+    {
+      "name": "Mangabeira",
+      "id": "pIFEirXmncwB"
+    },
+    {
+      "name": "Mangaratiba",
+      "id": "8rmm-HbRWqUR"
+    },
+    {
+      "name": "Mangueirinha",
+      "id": "semQdr7ows_I"
+    },
+    {
+      "name": "Manhuacu",
+      "id": "dy0PX2dDbvta"
+    },
+    {
+      "name": "Manhumirim",
+      "id": "GDDxPaX7euhs"
+    },
+    {
+      "name": "Mantena",
+      "id": "42p8iXblwkNc"
+    },
+    {
+      "name": "Mantenopolis",
+      "id": "MGbRFOheg8Ci"
+    },
+    {
+      "name": "Mar de Espanha",
+      "id": "UASwt05_K9z3"
+    },
+    {
+      "name": "Maracaju",
+      "id": "6jbEV9ay0G5c"
+    },
+    {
+      "name": "Maracana",
+      "id": "rDC6mMxWWQXy"
+    },
+    {
+      "name": "Maracanau",
+      "id": "SE3vS7TKzdLb"
+    },
+    {
+      "name": "Maragogipe",
+      "id": "0d5UX_alFGcL"
+    },
+    {
+      "name": "Maraial",
+      "id": "FBsncQf3z2_M"
+    },
+    {
+      "name": "Maranguape",
+      "id": "p_kzCgD_d08O"
+    },
+    {
+      "name": "Marataizes",
+      "id": "_bRfPIt-rJT6"
+    },
+    {
+      "name": "Marau",
+      "id": "0O7-Kfyxk7RF"
+    },
+    {
+      "name": "Maravilha",
+      "id": "8zNDn-3WZi23"
+    },
+    {
+      "name": "Marcelino Ramos",
+      "id": "CKHjqIMj7w64"
+    },
+    {
+      "name": "Marcelino Vieira",
+      "id": "x7cDVlTY1VTn"
+    },
+    {
+      "name": "Marco",
+      "id": "K7UW6jz-TthE"
+    },
+    {
+      "name": "Marcolandia",
+      "id": "Bxe0lYq29ff1"
+    },
+    {
+      "name": "Marechal Candido Rondon",
+      "id": "nIFSmxyA7pZZ"
+    },
+    {
+      "name": "Marechal Deodoro",
+      "id": "8CPGDxE1h_iZ"
+    },
+    {
+      "name": "Maria da Fe",
+      "id": "hleWT7NhNufA"
+    },
+    {
+      "name": "Marialva",
+      "id": "utlc4AgpqUM8"
+    },
+    {
+      "name": "Mariana",
+      "id": "NUlFDGd8Wdsn"
+    },
+    {
+      "name": "Marica",
+      "id": "XhJv6-kmQxSb"
+    },
+    {
+      "name": "Marilandia",
+      "id": "22sNPav_hxF1"
+    },
+    {
+      "name": "Mariluz",
+      "id": "fVUZth1Cp1mm"
+    },
+    {
+      "name": "Marituba",
+      "id": "M0xiPDPeAmL0"
+    },
+    {
+      "name": "Marques",
+      "id": "R19Lhw9Rb77-"
+    },
+    {
+      "name": "Martinopolis",
+      "id": "xLbG0e7-mQWH"
+    },
+    {
+      "name": "Maruim",
+      "id": "kghQR81eE_E1"
+    },
+    {
+      "name": "Marumbi",
+      "id": "xBJDLdfFsu36"
+    },
+    {
+      "name": "Marzagao",
+      "id": "TylUAbR5xWof"
+    },
+    {
+      "name": "Massape",
+      "id": "gBs8p_Nh0lY9"
+    },
+    {
+      "name": "Massaranduba",
+      "id": "Q93gzUodh1mw"
+    },
+    {
+      "name": "Matao",
+      "id": "3RoEpp1NI_2x"
+    },
+    {
+      "name": "Matelandia",
+      "id": "-1_r_yO9EQrq"
+    },
+    {
+      "name": "Mateus Leme",
+      "id": "uMNwO4tuR7Ye"
+    },
+    {
+      "name": "Matina",
+      "id": "Lp2EwLjaJXal"
+    },
+    {
+      "name": "Matinhos",
+      "id": "L8rbGMYLBQ-t"
+    },
+    {
+      "name": "Matipo",
+      "id": "KuBpLNa5xmwa"
+    },
+    {
+      "name": "Mato Grosso",
+      "id": "E_VwIhOuiGxq"
+    },
+    {
+      "name": "Matozinhos",
+      "id": "TUd5UnS_bcVw"
+    },
+    {
+      "name": "Matutina",
+      "id": "G82oOmAbJPnr"
+    },
+    {
+      "name": "Maua",
+      "id": "1oePvA4eJQ0c"
+    },
+    {
+      "name": "Maxaranguape",
+      "id": "MWOF7J3yzuIA"
+    },
+    {
+      "name": "Medeiros Neto",
+      "id": "OpjdZ4Nox3xH"
+    },
+    {
+      "name": "Medianeira",
+      "id": "ZqxGeM9YNojj"
+    },
+    {
+      "name": "Meier",
+      "id": "bD3dtPxDEJRT"
+    },
+    {
+      "name": "Mendes",
+      "id": "bvi5G1_kfkre"
+    },
+    {
+      "name": "Mendes Pimentel",
+      "id": "0HiDLJom0F3l"
+    },
+    {
+      "name": "Mendonca",
+      "id": "ZT7jytzwo98S"
+    },
+    {
+      "name": "Mesquita",
+      "id": "TNk1F3oMCLDC"
+    },
+    {
+      "name": "Messias",
+      "id": "EFSbAqBwhgmh"
+    },
+    {
+      "name": "Miguel Pereira",
+      "id": "zkMpoqk40DTn"
+    },
+    {
+      "name": "Miguelopolis",
+      "id": "6t5GBmEkvmMf"
+    },
+    {
+      "name": "Milagres",
+      "id": "U2UJKaIOweAJ"
+    },
+    {
+      "name": "Minas",
+      "id": "K7BJNV0VcYEp"
+    },
+    {
+      "name": "Mineiros",
+      "id": "zE48nODvaB4T"
+    },
+    {
+      "name": "Mineiros do Tiete",
+      "id": "IRlE3PwE5cN6"
+    },
+    {
+      "name": "Miracatu",
+      "id": "ZUm-ljqxhRJ2"
+    },
+    {
+      "name": "Miracema",
+      "id": "VNwccmB4KLzk"
+    },
+    {
+      "name": "Miracema do Tocantins",
+      "id": "ou5rYoPu_Zkb"
+    },
+    {
+      "name": "Miraima",
+      "id": "APn6-O1nfE8Y"
+    },
+    {
+      "name": "Miranda",
+      "id": "zi4RIkLc8pqh"
+    },
+    {
+      "name": "Mirandopolis",
+      "id": "WFloQXa_dJpH"
+    },
+    {
+      "name": "Mirassol",
+      "id": "ahqbwhi5m-eD"
+    },
+    {
+      "name": "Mirim Doce",
+      "id": "X7N0IDepj1eb"
+    },
+    {
+      "name": "Mirinzal",
+      "id": "WUqHq6z7DMZt"
+    },
+    {
+      "name": "Missao Velha",
+      "id": "47Us9edq8Gfq"
+    },
+    {
+      "name": "Mococa",
+      "id": "0Z40x99YazWz"
+    },
+    {
+      "name": "Moema",
+      "id": "4W-JIBHMeXOO"
+    },
+    {
+      "name": "Mogeiro",
+      "id": "rkYcLz9oW9xs"
+    },
+    {
+      "name": "Mogi das Cruzes",
+      "id": "ifP3LFbJnOMg"
+    },
+    {
+      "name": "Mogi Mirim",
+      "id": "Om2AYTuwltE3"
+    },
+    {
+      "name": "Mogi-Gaucu",
+      "id": "5WRDI1bKmIxC"
+    },
+    {
+      "name": "Mongagua",
+      "id": "49o5yS4ruUrK"
+    },
+    {
+      "name": "Monte Alegre",
+      "id": "P6y6C6Vm8Acm"
+    },
+    {
+      "name": "Monte Alto",
+      "id": "ccyqzV0-9yfB"
+    },
+    {
+      "name": "Monte Aprazivel",
+      "id": "pdQbRaCVjNtM"
+    },
+    {
+      "name": "Monte Azul",
+      "id": "aZ92Y0JrIu3X"
+    },
+    {
+      "name": "Monte Azul Paulista",
+      "id": "aoY02Z8nHgvu"
+    },
+    {
+      "name": "Monte Belo",
+      "id": "IL5BM2DjGPDp"
+    },
+    {
+      "name": "Monte Carmelo",
+      "id": "_UmLzJ2lnrrq"
+    },
+    {
+      "name": "Monte Dourado",
+      "id": "_ngvxk2cC2Q9"
+    },
+    {
+      "name": "Monte Mor",
+      "id": "MjhOGiDdco3l"
+    },
+    {
+      "name": "Monte Santo",
+      "id": "Xz4JyU2dfIni"
+    },
+    {
+      "name": "Monte Siao",
+      "id": "la5SmN548lGS"
+    },
+    {
+      "name": "Monteiro",
+      "id": "BwV9orERAXx1"
+    },
+    {
+      "name": "Monteiro Lobato",
+      "id": "E2YkpuEeIpqn"
+    },
+    {
+      "name": "Montenegro",
+      "id": "JJ1j4ZVhbWPp"
+    },
+    {
+      "name": "Montes Altos",
+      "id": "IgWtqbPyhgMd"
+    },
+    {
+      "name": "Montes Claros",
+      "id": "xO53Y4wgINa7"
+    },
+    {
+      "name": "Montividiu",
+      "id": "Gy77OWPk8f_D"
+    },
+    {
+      "name": "Morada Nova",
+      "id": "B4R2UH7hDB2g"
+    },
+    {
+      "name": "Moreno",
+      "id": "8A9GdmuG5LwB"
+    },
+    {
+      "name": "Morretes",
+      "id": "4Z7zpFY1V0-4"
+    },
+    {
+      "name": "Morrinhos",
+      "id": "SWGUSIZaAm2P"
+    },
+    {
+      "name": "Morro Agudo",
+      "id": "XIsSxE3XasGP"
+    },
+    {
+      "name": "Morro da Fumaca",
+      "id": "T_as9vodiQxD"
+    },
+    {
+      "name": "Morro de Sao Paulo",
+      "id": "H5THzFlyE66Y"
+    },
+    {
+      "name": "Morro do Chapeu",
+      "id": "byQK-h2SiNrh"
+    },
+    {
+      "name": "Morro Reuter",
+      "id": "FqKIixSuHmlo"
+    },
+    {
+      "name": "Morungaba",
+      "id": "1orgagfMLEZC"
+    },
+    {
+      "name": "Mossoro",
+      "id": "qn35yvu6mxLQ"
+    },
+    {
+      "name": "Mostardas",
+      "id": "GN3eLK1oCktG"
+    },
+    {
+      "name": "Mucuri",
+      "id": "0na98Z0fcc3Y"
+    },
+    {
+      "name": "Muliterno",
+      "id": "6P66sa1Fu_wv"
+    },
+    {
+      "name": "Munhoz",
+      "id": "rfEZeC-q2Y7V"
+    },
+    {
+      "name": "Muniz Ferreira",
+      "id": "GWweW8_uGIHK"
+    },
+    {
+      "name": "Muniz Freire",
+      "id": "17S9vjLblaD8"
+    },
+    {
+      "name": "Muqui",
+      "id": "vTPTF8DU-v01"
+    },
+    {
+      "name": "Muritiba",
+      "id": "jqeGPlaAZFuO"
+    },
+    {
+      "name": "Mutum",
+      "id": "WCSRE8-125rU"
+    },
+    {
+      "name": "Muzambinho",
+      "id": "FR_o0VRNVwqo"
+    },
+    {
+      "name": "Nanuque",
+      "id": "GaDBumKK5Y6E"
+    },
+    {
+      "name": "Nao Me Toque",
+      "id": "UFY0f6b_00AF"
+    },
+    {
+      "name": "Narandiba",
+      "id": "gZnOpuwzgIC3"
+    },
+    {
+      "name": "Natal",
+      "id": "krMCuaA8mNQI"
+    },
+    {
+      "name": "Natercia",
+      "id": "ZrFc6tVYkT3I"
+    },
+    {
+      "name": "Navegantes",
+      "id": "5Ge4pk0Rvw_b"
+    },
+    {
+      "name": "Navirai",
+      "id": "vSglMlf72pY8"
+    },
+    {
+      "name": "Nazare",
+      "id": "_FmuDNbaH9zM"
+    },
+    {
+      "name": "Nazare da Mata",
+      "id": "KluD5AFkgQY0"
+    },
+    {
+      "name": "Nazare Paulista",
+      "id": "PddUubVHQIrU"
+    },
+    {
+      "name": "Neopolis",
+      "id": "yrUbs8mHUjjo"
+    },
+    {
+      "name": "Neropolis",
+      "id": "HNWLA2P9cVJh"
+    },
+    {
+      "name": "Nilo Pecanha",
+      "id": "nD_AqRMigddh"
+    },
+    {
+      "name": "Nilopolis",
+      "id": "Ic5_SZvLPWuK"
+    },
+    {
+      "name": "Niquelandia",
+      "id": "I4iA3IbWSFKM"
+    },
+    {
+      "name": "Niteroi",
+      "id": "x0DOp3O_V4Ra"
+    },
+    {
+      "name": "Nobres",
+      "id": "9Tt2bHf1GPBO"
+    },
+    {
+      "name": "Norte",
+      "id": "EvnKM2FHsOf8"
+    },
+    {
+      "name": "Nossa Senhora",
+      "id": "Z9098FCHNGr-"
+    },
+    {
+      "name": "Nossa Senhora da Gloria",
+      "id": "53ppNyVl_AQG"
+    },
+    {
+      "name": "Nossa Senhora Das Gracas",
+      "id": "qYhjR9B2ig0D"
+    },
+    {
+      "name": "Nossa Senhora do Socorro",
+      "id": "6BwOOF4L8kpr"
+    },
+    {
+      "name": "Nova",
+      "id": "TUGcZpGfJ5bh"
+    },
+    {
+      "name": "Nova Alianca",
+      "id": "tZobynFDprsn"
+    },
+    {
+      "name": "Nova Araca",
+      "id": "PI9Cx8YeGo-H"
+    },
+    {
+      "name": "Nova Aurora",
+      "id": "YkZitjiwbRhb"
+    },
+    {
+      "name": "Nova Bassano",
+      "id": "PJVIUsuNfh5O"
+    },
+    {
+      "name": "Nova Brescia",
+      "id": "7p2GywXm6DaM"
+    },
+    {
+      "name": "Nova Canaa",
+      "id": "i_8IoeOVccNZ"
+    },
+    {
+      "name": "Nova Cruz",
+      "id": "JrnBR2C4kC6C"
+    },
+    {
+      "name": "Nova Esperanca",
+      "id": "Ns0-USP57noN"
+    },
+    {
+      "name": "Nova Friburgo",
+      "id": "haaZlaB2BoY6"
+    },
+    {
+      "name": "Nova Independencia",
+      "id": "wRkfiqOPFvt6"
+    },
+    {
+      "name": "Nova Itarana",
+      "id": "u0fPcoCKLFQL"
+    },
+    {
+      "name": "Nova Lima",
+      "id": "233w2i-3bwVQ"
+    },
+    {
+      "name": "Nova Londrina",
+      "id": "9WgAXfz-loN6"
+    },
+    {
+      "name": "Nova Odessa",
+      "id": "3WUWzYByFA_6"
+    },
+    {
+      "name": "Nova Palma",
+      "id": "uu3MPh9og9je"
+    },
+    {
+      "name": "Nova Petropolis",
+      "id": "yiJ5ClNQ_Oud"
+    },
+    {
+      "name": "Nova Ponte",
+      "id": "8WYtAnHMuExM"
+    },
+    {
+      "name": "Nova Prata",
+      "id": "Y8NUHAaOkMO-"
+    },
+    {
+      "name": "Nova Resende",
+      "id": "QphQEPpHgJjZ"
+    },
+    {
+      "name": "Nova Serrana",
+      "id": "Jhu5FgEywS-D"
+    },
+    {
+      "name": "Nova Timboteua",
+      "id": "r2YCVCfk3TVw"
+    },
+    {
+      "name": "Nova Trento",
+      "id": "nuzOXNUq3otH"
+    },
+    {
+      "name": "Nova Venecia",
+      "id": "n799DI3Yikz_"
+    },
+    {
+      "name": "Novo Hamburgo",
+      "id": "EhS3U9JZLiyd"
+    },
+    {
+      "name": "Novo Horizonte",
+      "id": "agl18xmaVFQq"
+    },
+    {
+      "name": "Novo Mundo",
+      "id": "s4yUv5s3ybRb"
+    },
+    {
+      "name": "Novo Oriente",
+      "id": "Yt4opcHWF-rV"
+    },
+    {
+      "name": "Novo Recreio",
+      "id": "libMFCZDFRj_"
+    },
+    {
+      "name": "Nucleo Bandeirante",
+      "id": "TQxWD9TMf-L7"
+    },
+    {
+      "name": "Nunes Freire",
+      "id": "SsXcobfLWtvi"
+    },
+    {
+      "name": "Nuporanga",
+      "id": "NjA7jKlIyPee"
+    },
+    {
+      "name": "Ocara",
+      "id": "C3p7UnNmcuBJ"
+    },
+    {
+      "name": "Oeiras",
+      "id": "5zaU4I8VBpRs"
+    },
+    {
+      "name": "Olimpia",
+      "id": "aan982KrONsa"
+    },
+    {
+      "name": "Olinda",
+      "id": "yMHdNgNmKK2x"
+    },
+    {
+      "name": "Oliveira",
+      "id": "NXGOBaJuPQpo"
+    },
+    {
+      "name": "Oratorios",
+      "id": "bowXUzZGhrnv"
+    },
+    {
+      "name": "Orlandia",
+      "id": "IdFR_qnpm73M"
+    },
+    {
+      "name": "Orleans",
+      "id": "rU_8J5rt2_no"
+    },
+    {
+      "name": "Orobo",
+      "id": "AfAon5K3M_oY"
+    },
+    {
+      "name": "Osasco",
+      "id": "ODKVANS2-Nzc"
+    },
+    {
+      "name": "Osorio",
+      "id": "oDq-mfvI3gV1"
+    },
+    {
+      "name": "Otacilio Costa",
+      "id": "uLes825TRzMt"
+    },
+    {
+      "name": "Ouricangas",
+      "id": "hNJ6hgSu9yIG"
+    },
+    {
+      "name": "Ouricuri",
+      "id": "SMvgy7oQUoCA"
+    },
+    {
+      "name": "Ourinhos",
+      "id": "jMJej3ckqq0_"
+    },
+    {
+      "name": "Ouro Branco",
+      "id": "SKEI_SMX_7w1"
+    },
+    {
+      "name": "Ouro Fino",
+      "id": "WZhI00Chcknz"
+    },
+    {
+      "name": "Ouro Preto",
+      "id": "VfDVkaE9MQv7"
+    },
+    {
+      "name": "Ouro Preto do Oeste",
+      "id": "RxALuaSGr93I"
+    },
+    {
+      "name": "Ouro Verde",
+      "id": "pDJZtezbFYhm"
+    },
+    {
+      "name": "Ouvidor",
+      "id": "lNigTnQVV20m"
+    },
+    {
+      "name": "Pacaembu",
+      "id": "q8AguaEZFEiZ"
+    },
+    {
+      "name": "Pacatuba",
+      "id": "nsOmuTk8KIXn"
+    },
+    {
+      "name": "Pachecos",
+      "id": "M69Qa-SFrjLe"
+    },
+    {
+      "name": "Padre",
+      "id": "H0puU7JHuA6h"
+    },
+    {
+      "name": "Paicandu",
+      "id": "Rf-y7_ar7MvU"
+    },
+    {
+      "name": "Palestina",
+      "id": "YRyrv_LxQcaw"
+    },
+    {
+      "name": "Palhoca",
+      "id": "AOTJnOsroMYC"
+    },
+    {
+      "name": "Palma",
+      "id": "H_OGau_MeL-R"
+    },
+    {
+      "name": "Palmares",
+      "id": "-LhOIdQ4tsB1"
+    },
+    {
+      "name": "Palmares do Sul",
+      "id": "v_yHSVTII4cx"
+    },
+    {
+      "name": "Palmas",
+      "id": "slnvHqwAyeTO"
+    },
+    {
+      "name": "Palmeira",
+      "id": "3VxFLAW7vFe2"
+    },
+    {
+      "name": "Palmeira das Missoes",
+      "id": "Hwie-ToSsXIQ"
+    },
+    {
+      "name": "Palmeira dos Indios",
+      "id": "dajDLfNsULyl"
+    },
+    {
+      "name": "Palmeiras de Goias",
+      "id": "XZhfgQibs4Pj"
+    },
+    {
+      "name": "Palmelo",
+      "id": "0PrCuilxPfRC"
+    },
+    {
+      "name": "Palmital",
+      "id": "uRc9bQ3nLJKH"
+    },
+    {
+      "name": "Palmitinho",
+      "id": "jQlSSCmRt1Ub"
+    },
+    {
+      "name": "Palmitos",
+      "id": "pLX3T6rwGrcR"
+    },
+    {
+      "name": "Palotina",
+      "id": "5MDrW9uBXs9J"
+    },
+    {
+      "name": "Panambi",
+      "id": "KMpBFVWscqjm"
+    },
+    {
+      "name": "Pancas",
+      "id": "rHZ4swWeHp7C"
+    },
+    {
+      "name": "Panorama",
+      "id": "asi1tUIPcsP_"
+    },
+    {
+      "name": "Pao de Acucar",
+      "id": "-lPDoscv_R-0"
+    },
+    {
+      "name": "Papagaios",
+      "id": "Qm_YA17CYdu9"
+    },
+    {
+      "name": "Para de Minas",
+      "id": "8Ob2VhTqnZRD"
+    },
+    {
+      "name": "Paracambi",
+      "id": "y6WeD7nGDt4Q"
+    },
+    {
+      "name": "Paracuru",
+      "id": "F8bS2puiV9u3"
+    },
+    {
+      "name": "Paragominas",
+      "id": "ctnVZEbznTcj"
+    },
+    {
+      "name": "Paraguacu",
+      "id": "emLPmPY5RWhS"
+    },
+    {
+      "name": "Paraguacu Paulista",
+      "id": "7ZBzSlKRgweK"
+    },
+    {
+      "name": "Parai",
+      "id": "soBJFlj9ZrX2"
+    },
+    {
+      "name": "Paraiba do Sul",
+      "id": "ZKsHOLAZPN8I"
+    },
+    {
+      "name": "Paraibano",
+      "id": "EAqOs-LmFq8b"
+    },
+    {
+      "name": "Paraibuna",
+      "id": "UbmNhe1OcDLA"
+    },
+    {
+      "name": "Paraipaba",
+      "id": "1QUFYYAMgn-P"
+    },
+    {
+      "name": "Paraiso",
+      "id": "3kHKkH0BhMgo"
+    },
+    {
+      "name": "Paraiso do Tocantins",
+      "id": "7XErezKGE06K"
+    },
+    {
+      "name": "Paraisopolis",
+      "id": "BnsgJ6dCxcZF"
+    },
+    {
+      "name": "Paraitinga",
+      "id": "4Pk2qbi_76vd"
+    },
+    {
+      "name": "Parana",
+      "id": "NKjG0Qqt5Jrz"
+    },
+    {
+      "name": "Paranaiba",
+      "id": "nE8H6ny0Tx9q"
+    },
+    {
+      "name": "Paranapanema",
+      "id": "4iOU4SCITwRT"
+    },
+    {
+      "name": "Paranavai",
+      "id": "znwJ82YC-Cw_"
+    },
+    {
+      "name": "Paranoa",
+      "id": "ef_EbtRuozwn"
+    },
+    {
+      "name": "Paraopeba",
+      "id": "Q0ED8x2MGJ5L"
+    },
+    {
+      "name": "Parapeuna",
+      "id": "fSEvY3CSInZ1"
+    },
+    {
+      "name": "Paraty",
+      "id": "0sXPJQLdvc3D"
+    },
+    {
+      "name": "Parelhas",
+      "id": "oxe4oZ-0CEYC"
+    },
+    {
+      "name": "Pariquera Acu",
+      "id": "1kiojBHDEQds"
+    },
+    {
+      "name": "Parnaiba",
+      "id": "ZsxSnX2It2ZP"
+    },
+    {
+      "name": "Parnamirim",
+      "id": "uG_T1UkK7Voz"
+    },
+    {
+      "name": "Parobe",
+      "id": "erNuAAqNUtf4"
+    },
+    {
+      "name": "Passo Fundo",
+      "id": "a1BwvPxva-11"
+    },
+    {
+      "name": "Passos",
+      "id": "yHpryye9Au_9"
+    },
+    {
+      "name": "Pastos Bons",
+      "id": "mw0m1zEy3bSn"
+    },
+    {
+      "name": "Pato Branco",
+      "id": "-6GFIZx3ksAj"
+    },
+    {
+      "name": "Patos",
+      "id": "vHDgzV3BjfPu"
+    },
+    {
+      "name": "Patos de Minas",
+      "id": "JeuobaIX0kKy"
+    },
+    {
+      "name": "Patrocinio",
+      "id": "AwK4FSRyOwJ8"
+    },
+    {
+      "name": "Patrocinio Paulista",
+      "id": "k2TUaeuUd-DN"
+    },
+    {
+      "name": "Pau Brasil",
+      "id": "ccR8Fblbw_LN"
+    },
+    {
+      "name": "Pau dos Ferros",
+      "id": "j4Th0_zjB2oX"
+    },
+    {
+      "name": "Pauini",
+      "id": "lhhELAaKsjSr"
+    },
+    {
+      "name": "Pauliceia",
+      "id": "lPrnKB2SOr0Z"
+    },
+    {
+      "name": "Paulinia",
+      "id": "8nxUKKLFS3q9"
+    },
+    {
+      "name": "Paulista",
+      "id": "P0ZIHlnyUHbp"
+    },
+    {
+      "name": "Paulo Afonso",
+      "id": "2E16Gmk8CShf"
+    },
+    {
+      "name": "Paulo Jacinto",
+      "id": "xVowFRXCxZI8"
+    },
+    {
+      "name": "Paulo Lopes",
+      "id": "WcEDiBDhz_Ln"
+    },
+    {
+      "name": "Paverama",
+      "id": "bp9sNro_O4IE"
+    },
+    {
+      "name": "Peabiru",
+      "id": "argvYa9AlT2E"
+    },
+    {
+      "name": "Pecem",
+      "id": "oS29a8tEyjDm"
+    },
+    {
+      "name": "Pederneiras",
+      "id": "2_wZD0DqWZIg"
+    },
+    {
+      "name": "Pedra Bonita",
+      "id": "aWWiQ6AZqsiq"
+    },
+    {
+      "name": "Pedra Grande",
+      "id": "YrrK1A6r4ZC6"
+    },
+    {
+      "name": "Pedranopolis",
+      "id": "FUOLI8ohFpQ-"
+    },
+    {
+      "name": "Pedreira",
+      "id": "du-0lRKqwnRn"
+    },
+    {
+      "name": "Pedro Afonso",
+      "id": "AyevTkDEVd5A"
+    },
+    {
+      "name": "Pedro Avelino",
+      "id": "w8c2bqU0qw2r"
+    },
+    {
+      "name": "Pedro de Toledo",
+      "id": "IlTuImfBvcxf"
+    },
+    {
+      "name": "Pedro Leopoldo",
+      "id": "3b5CSCDO30Ki"
+    },
+    {
+      "name": "Pelotas",
+      "id": "xHq5hh3MUtcJ"
+    },
+    {
+      "name": "Pena",
+      "id": "Qcolyn4lyZsD"
+    },
+    {
+      "name": "Penapolis",
+      "id": "SYhAXIJ2Ant_"
+    },
+    {
+      "name": "Pendencias",
+      "id": "8_GJgr-iR6vp"
+    },
+    {
+      "name": "Penedo",
+      "id": "VTZ4KZwprxY9"
+    },
+    {
+      "name": "Penha",
+      "id": "iibSorPs_Trf"
+    },
+    {
+      "name": "Perdigao",
+      "id": "qYXe3qqvPhyx"
+    },
+    {
+      "name": "Perdoes",
+      "id": "iMy53NNzxUKJ"
+    },
+    {
+      "name": "Pereira Barreto",
+      "id": "xmcpPTdQGznN"
+    },
+    {
+      "name": "Pereiro",
+      "id": "5_79quF8GqCi"
+    },
+    {
+      "name": "Peruibe",
+      "id": "FKlxXF0xhWWr"
+    },
+    {
+      "name": "Pesqueira",
+      "id": "ydjzY-VRyu7A"
+    },
+    {
+      "name": "Petrolina",
+      "id": "05GrizswD4gg"
+    },
+    {
+      "name": "Piabeta",
+      "id": "E7Vzb2IoLqJI"
+    },
+    {
+      "name": "Picada",
+      "id": "pbXyL2FPwns6"
+    },
+    {
+      "name": "Picos",
+      "id": "HKFAP7pgVchO"
+    },
+    {
+      "name": "Picui",
+      "id": "79lCHw71cW0D"
+    },
+    {
+      "name": "Piedade",
+      "id": "mYAZn2O2NE0A"
+    },
+    {
+      "name": "Piedade do Rio Grande",
+      "id": "YQzL2GBThhVQ"
+    },
+    {
+      "name": "Piedade dos Gerais",
+      "id": "2s3C0oz1vTe9"
+    },
+    {
+      "name": "Pien",
+      "id": "R4il8hWRI_d-"
+    },
+    {
+      "name": "Pilao Arcado",
+      "id": "uZJLzjlLpOFh"
+    },
+    {
+      "name": "Pilar do Sul",
+      "id": "qzWEQi9elnca"
+    },
+    {
+      "name": "Pimenta",
+      "id": "sPsePliHNG6i"
+    },
+    {
+      "name": "Pimenta Bueno",
+      "id": "2aKgPC_TZI-G"
+    },
+    {
+      "name": "Pindamonhangaba",
+      "id": "sMBxEHhDndZJ"
+    },
+    {
+      "name": "Pindobacu",
+      "id": "1WPMdkYBqLOc"
+    },
+    {
+      "name": "Pindoretama",
+      "id": "hTrg_qqtcupu"
+    },
+    {
+      "name": "Pinhais",
+      "id": "zbbb2fV8JLV_"
+    },
+    {
+      "name": "Pinhalao",
+      "id": "NYcgdMSHYGrr"
+    },
+    {
+      "name": "Pinhalzinho",
+      "id": "R5wezFteMDUi"
+    },
+    {
+      "name": "Pinheiral",
+      "id": "v9Ci_vGntg0c"
+    },
+    {
+      "name": "Pinhoes",
+      "id": "wnywtq1zd3nC"
+    },
+    {
+      "name": "Piquet Carneiro",
+      "id": "HBEFqhQQxa2N"
+    },
+    {
+      "name": "Piracaia",
+      "id": "f3DbhGSyRyOk"
+    },
+    {
+      "name": "Piracanjuba",
+      "id": "tjIZsQowJ1jK"
+    },
+    {
+      "name": "Piracema",
+      "id": "4RejKPxi7RF_"
+    },
+    {
+      "name": "Piracicaba",
+      "id": "IOSbSzu0UW60"
+    },
+    {
+      "name": "Pirai",
+      "id": "d2Rrl86h9hHx"
+    },
+    {
+      "name": "Pirai do Sul",
+      "id": "VXTZ8-1MJu4X"
+    },
+    {
+      "name": "Piraju",
+      "id": "lQ_RNax-PR7d"
+    },
+    {
+      "name": "Pirajuba",
+      "id": "bTjbF3NhpG-t"
+    },
+    {
+      "name": "Pirajui",
+      "id": "w9FF7CxN9V2U"
+    },
+    {
+      "name": "Pirangi",
+      "id": "2LdOS9GYH3WG"
+    },
+    {
+      "name": "Pirapora do Bom Jesus",
+      "id": "wiQOMys6E403"
+    },
+    {
+      "name": "Pirapozinho",
+      "id": "q-JfX5vjxjH5"
+    },
+    {
+      "name": "Piraquara",
+      "id": "QvJZz3IKF8tT"
+    },
+    {
+      "name": "Pirassununga",
+      "id": "lWAh8zzaFToT"
+    },
+    {
+      "name": "Piratininga",
+      "id": "JIzrF_ks1lEG"
+    },
+    {
+      "name": "Piritiba",
+      "id": "6JEHdqDTyuh-"
+    },
+    {
+      "name": "Pitanga",
+      "id": "az0ug2DS4jlS"
+    },
+    {
+      "name": "Pitangueiras",
+      "id": "juYRc5pOcoyN"
+    },
+    {
+      "name": "Pitangui",
+      "id": "jmk2dLAxfmHl"
+    },
+    {
+      "name": "Piuma",
+      "id": "PGzpjc6hbxNC"
+    },
+    {
+      "name": "Planalto",
+      "id": "_Ah7duVIru9k"
+    },
+    {
+      "name": "Platina",
+      "id": "eZ_sBKmc8RbZ"
+    },
+    {
+      "name": "Poa",
+      "id": "La52O-yEYpeV"
+    },
+    {
+      "name": "Poco Branco",
+      "id": "hop8D7VoyW6Q"
+    },
+    {
+      "name": "Poco das Antas",
+      "id": "n10a0xmI48p0"
+    },
+    {
+      "name": "Poco Verde",
+      "id": "HdUQJ-34pVio"
+    },
+    {
+      "name": "Pojuca",
+      "id": "iCQCnzOr4xk3"
+    },
+    {
+      "name": "Pombal",
+      "id": "F-x8X56_o2cM"
+    },
+    {
+      "name": "Pomerode",
+      "id": "S5Gi9c_d317F"
+    },
+    {
+      "name": "Pompeia",
+      "id": "65nZhk3b94LA"
+    },
+    {
+      "name": "Pompeu",
+      "id": "-w2xO5lI-5Y8"
+    },
+    {
+      "name": "Pongai",
+      "id": "5jVWjd_WznfG"
+    },
+    {
+      "name": "Ponta Grossa",
+      "id": "OLqLxX9Sf1IQ"
+    },
+    {
+      "name": "Ponta Pora",
+      "id": "GZNY9h_n7BwO"
+    },
+    {
+      "name": "Pontal",
+      "id": "LDIrMslKCupW"
+    },
+    {
+      "name": "Pontal do Parana",
+      "id": "OQZcAGtzatvc"
+    },
+    {
+      "name": "Pontalina",
+      "id": "1hri-l5LhJR3"
+    },
+    {
+      "name": "Ponte de Itabapoana",
+      "id": "gpyJyGbSD7xF"
+    },
+    {
+      "name": "Ponte Nova",
+      "id": "BMv9VBulUuJH"
+    },
+    {
+      "name": "Ponte Serrada",
+      "id": "-8iQXtlxfEbr"
+    },
+    {
+      "name": "Pontes e Lacerda",
+      "id": "U3wmUj17qdZD"
+    },
+    {
+      "name": "Porangatu",
+      "id": "ZJih90fm7YQb"
+    },
+    {
+      "name": "Porecatu",
+      "id": "GZHcCiz3akE3"
+    },
+    {
+      "name": "Portao",
+      "id": "FKAUZYiXQi3V"
+    },
+    {
+      "name": "Porteira do Pinhal",
+      "id": "AuRUdiov4O5I"
+    },
+    {
+      "name": "Porto",
+      "id": "dWNX58V4kpmW"
+    },
+    {
+      "name": "Porto Alegre",
+      "id": "dzk0XHWjocrA"
+    },
+    {
+      "name": "Porto Amazonas",
+      "id": "ZoxqzANXDD1N"
+    },
+    {
+      "name": "Porto Belo",
+      "id": "AOFuphQ2hjyf"
+    },
+    {
+      "name": "Porto Esperidiao",
+      "id": "45K2bq1Ntg5m"
+    },
+    {
+      "name": "Porto Feliz",
+      "id": "hwXq6rhwaaIe"
+    },
+    {
+      "name": "Porto Ferreira",
+      "id": "f5Au9BNLiSHj"
+    },
+    {
+      "name": "Porto Grande",
+      "id": "k4pyhZC3bbC4"
+    },
+    {
+      "name": "Porto Nacional",
+      "id": "Asy8eYKY3RWV"
+    },
+    {
+      "name": "Porto Real",
+      "id": "lPNWq_Fp9D6f"
+    },
+    {
+      "name": "Porto Sao Jose Velho",
+      "id": "8c4FDqRK3XxK"
+    },
+    {
+      "name": "Porto Seguro",
+      "id": "CgAEpeP-yhpq"
+    },
+    {
+      "name": "Porto Uniao",
+      "id": "gkxV8hPGOOTA"
+    },
+    {
+      "name": "Porto Velho",
+      "id": "QYRdcmxPXtkn"
+    },
+    {
+      "name": "Posse",
+      "id": "nxZdIbns1bcp"
+    },
+    {
+      "name": "Posto Fiscal Rolim de Moura",
+      "id": "mfPcnW1GfM-n"
+    },
+    {
+      "name": "Pote",
+      "id": "POQTtpmlaz1E"
+    },
+    {
+      "name": "Potirendaba",
+      "id": "DNfs-H5_P52B"
+    },
+    {
+      "name": "Pouso Alegre",
+      "id": "qB7uMR8QJaik"
+    },
+    {
+      "name": "Pradopolis",
+      "id": "hXBvVq9Fkpv0"
+    },
+    {
+      "name": "Praia Grande",
+      "id": "4B-pcCdhqCfp"
+    },
+    {
+      "name": "Prata",
+      "id": "w4Ff1YFA34CR"
+    },
+    {
+      "name": "Pratania",
+      "id": "jA2CSyp2Jnhw"
+    },
+    {
+      "name": "Pratapolis",
+      "id": "V0UkMz1wAB2G"
+    },
+    {
+      "name": "Presidente Bernardes",
+      "id": "Zz1-V0u8MOP5"
+    },
+    {
+      "name": "Presidente Dutra",
+      "id": "Gf6JwWAnk34S"
+    },
+    {
+      "name": "Presidente Epitacio",
+      "id": "RZ69f12nzEm7"
+    },
+    {
+      "name": "Presidente Getulio",
+      "id": "6Vl_k9jmwi5s"
+    },
+    {
+      "name": "Presidente Kennedy",
+      "id": "fnXxghRuR0nc"
+    },
+    {
+      "name": "Presidente Medici",
+      "id": "kXdw4ddp1Jwy"
+    },
+    {
+      "name": "Presidente Olegario",
+      "id": "lIfP7SHkU-nS"
+    },
+    {
+      "name": "Presidente Prudente",
+      "id": "FG_7KQj0LYN4"
+    },
+    {
+      "name": "Presidente Venceslau",
+      "id": "MSP8At7FQ5Go"
+    },
+    {
+      "name": "Primavera",
+      "id": "d5ZLC5wFZxjC"
+    },
+    {
+      "name": "Primeiro de Maio",
+      "id": "NWsdTkvWBiI0"
+    },
+    {
+      "name": "Progresso",
+      "id": "k9z7NmkESyit"
+    },
+    {
+      "name": "Promissao",
+      "id": "nt80FF4CcGhW"
+    },
+    {
+      "name": "Propria",
+      "id": "3P-fme3KfxD3"
+    },
+    {
+      "name": "Prudentopolis",
+      "id": "-Z1J1bozRDU2"
+    },
+    {
+      "name": "Putinga",
+      "id": "sz5ldKiy67fJ"
+    },
+    {
+      "name": "Puxinana",
+      "id": "dnlz2fYQhVWC"
+    },
+    {
+      "name": "Quarai",
+      "id": "poQXhTTPv9E4"
+    },
+    {
+      "name": "Quata",
+      "id": "HxpH0tngkoCm"
+    },
+    {
+      "name": "Quatigua",
+      "id": "njde1Woh8006"
+    },
+    {
+      "name": "Quatis",
+      "id": "RQvaUYoVcWEW"
+    },
+    {
+      "name": "Quatro Barras",
+      "id": "ulemGK81XBgy"
+    },
+    {
+      "name": "Quatro Pontes",
+      "id": "gPiFxnCjTpFB"
+    },
+    {
+      "name": "Quebrangulo",
+      "id": "5ProsGN1CPn6"
+    },
+    {
+      "name": "Queimadas",
+      "id": "hKMX1MQ1V4BT"
+    },
+    {
+      "name": "Queimados",
+      "id": "4mm-Xl6IS08E"
+    },
+    {
+      "name": "Querencia",
+      "id": "brCq_e58l-fu"
+    },
+    {
+      "name": "Querencia do Norte",
+      "id": "1moiK068hgHN"
+    },
+    {
+      "name": "Quilombo",
+      "id": "vrxT41NnAqpr"
+    },
+    {
+      "name": "Quipapa",
+      "id": "AwwfQhF4KTw_"
+    },
+    {
+      "name": "Quirinopolis",
+      "id": "s25b1epdYgOI"
+    },
+    {
+      "name": "Quissama",
+      "id": "HQ8RJw7OiZhT"
+    },
+    {
+      "name": "Quitandinha",
+      "id": "V6uFMPBmki91"
+    },
+    {
+      "name": "Quixada",
+      "id": "oGmB_3VfUI0x"
+    },
+    {
+      "name": "Quixeramobim",
+      "id": "b2UbGFCsmyZk"
+    },
+    {
+      "name": "Quixere",
+      "id": "VCjMonWD7M8O"
+    },
+    {
+      "name": "Rafard",
+      "id": "lYwCily0Oupu"
+    },
+    {
+      "name": "Rancharia",
+      "id": "4fVlPfparqGu"
+    },
+    {
+      "name": "Rancho Queimado",
+      "id": "K4mX4aVWKbjw"
+    },
+    {
+      "name": "Raposa (1)",
+      "id": "isJIMTFxZBzl"
+    },
+    {
+      "name": "Raposos",
+      "id": "P1GYhWuT5xoi"
+    },
+    {
+      "name": "Raul Soares",
+      "id": "4o-hwcEGX8Vq"
+    },
+    {
+      "name": "Realeza",
+      "id": "my0i2KjOWzDh"
+    },
+    {
+      "name": "Reboucas",
+      "id": "aV11ptQqvKo-"
+    },
+    {
+      "name": "Recanto",
+      "id": "jERCW8QjgcXu"
+    },
+    {
+      "name": "Recife",
+      "id": "jjZUuyY6Bp-w"
+    },
+    {
+      "name": "Redencao",
+      "id": "sUQSgxjZf1fu"
+    },
+    {
+      "name": "Reduto",
+      "id": "YtrNOH2eFtnl"
+    },
+    {
+      "name": "Registro",
+      "id": "6Kf6z6smaJc6"
+    },
+    {
+      "name": "Remigio",
+      "id": "91ibtqku_bsw"
+    },
+    {
+      "name": "Renascenca",
+      "id": "65tXT1AObaUo"
+    },
+    {
+      "name": "Repartimento",
+      "id": "r6vU453U0936"
+    },
+    {
+      "name": "Resende",
+      "id": "rR0j25ApC3Pu"
+    },
+    {
+      "name": "Resende Costa",
+      "id": "EtJBlbioyFgp"
+    },
+    {
+      "name": "Restinga",
+      "id": "XTcQmYEqCsvL"
+    },
+    {
+      "name": "Restinga Seca",
+      "id": "LfHlVHmbi3pS"
+    },
+    {
+      "name": "Riachao do Jacuipe",
+      "id": "M8F-OalCHgG6"
+    },
+    {
+      "name": "Riacho das Almas",
+      "id": "F6fgT2RKDYft"
+    },
+    {
+      "name": "Riacho Fundo",
+      "id": "S07DpVndHPqX"
+    },
+    {
+      "name": "Rialma",
+      "id": "ni_5M2Jzsolm"
+    },
+    {
+      "name": "Ribas do Rio Pardo",
+      "id": "j0XFP6_l3uMI"
+    },
+    {
+      "name": "Ribeira do Pombal",
+      "id": "6VYngJYS5E12"
+    },
+    {
+      "name": "Ribeirao",
+      "id": "QAZzYWWPSN_R"
+    },
+    {
+      "name": "Ribeirao Bonito",
+      "id": "49jkWFGS73km"
+    },
+    {
+      "name": "Ribeirao Corrente",
+      "id": "WJ-Ot952tVZi"
+    },
+    {
+      "name": "Ribeirao do Pinhal",
+      "id": "QGNR9UFh2v18"
+    },
+    {
+      "name": "Ribeirao Pires",
+      "id": "dyvY1gJeJSop"
+    },
+    {
+      "name": "Rio Acima",
+      "id": "GQD8rbthyhtv"
+    },
+    {
+      "name": "Rio Azul",
+      "id": "BIJ8AWlH6_fB"
+    },
+    {
+      "name": "Rio Bananal",
+      "id": "KcXQ95dq3H7b"
+    },
+    {
+      "name": "Rio Bonito",
+      "id": "Cu2U_UaelM19"
+    },
+    {
+      "name": "Rio Branco",
+      "id": "FKAXUbuuIjj1"
+    },
+    {
+      "name": "Rio Branco do Sul",
+      "id": "Q5vRdrv_GIxP"
+    },
+    {
+      "name": "Rio Brilhante",
+      "id": "oWtqD8TsZ4Lu"
+    },
+    {
+      "name": "Rio Casca",
+      "id": "IXFNFCZoh6xf"
+    },
+    {
+      "name": "Rio Claro",
+      "id": "T6wEh8WwHLFx"
+    },
+    {
+      "name": "Rio das Ostras",
+      "id": "G4-b1Yw1lWWy"
+    },
+    {
+      "name": "Rio das Pedras",
+      "id": "ag-xDcKpJ48i"
+    },
+    {
+      "name": "Rio de Janeiro",
+      "id": "grZtRyZQtSqU"
+    },
+    {
+      "name": "Rio do Pires",
+      "id": "zs65usrRaY2S"
+    },
+    {
+      "name": "Rio do Sul",
+      "id": "Dz3ql6vjPA9C"
+    },
+    {
+      "name": "Rio dos Cedros",
+      "id": "9OZg8YxA-rHm"
+    },
+    {
+      "name": "Rio Formoso",
+      "id": "Mwb2AEbL5ZDm"
+    },
+    {
+      "name": "Rio Grande",
+      "id": "oPvp5twzETvg"
+    },
+    {
+      "name": "Rio Grande da Serra",
+      "id": "8fFZDr2xNzMq"
+    },
+    {
+      "name": "Rio Largo",
+      "id": "SNjrqZ78Jp8-"
+    },
+    {
+      "name": "Rio Manso",
+      "id": "hM8lJuzUO5IF"
+    },
+    {
+      "name": "Rio Negrinho",
+      "id": "7Z5SOb55x9PD"
+    },
+    {
+      "name": "Rio Negro",
+      "id": "ncTxeql7OJ-G"
+    },
+    {
+      "name": "Rio Novo",
+      "id": "cXQ8MOM_u8ff"
+    },
+    {
+      "name": "Rio Novo do Sul",
+      "id": "O4T8A4J3ct6Q"
+    },
+    {
+      "name": "Rio Paranaiba",
+      "id": "erXPNeRooaEp"
+    },
+    {
+      "name": "Rio Pardo",
+      "id": "9Z0JgipIgYy1"
+    },
+    {
+      "name": "Rio Pardo de Minas",
+      "id": "rvA82s06om7t"
+    },
+    {
+      "name": "Rio Piracicaba",
+      "id": "JOvmttAYFJr8"
+    },
+    {
+      "name": "Rio Tinto",
+      "id": "YOn9GLWHPkL5"
+    },
+    {
+      "name": "Rio Verde de Mato Grosso",
+      "id": "utBvbrlpc0R5"
+    },
+    {
+      "name": "Roca Sales",
+      "id": "JOEE30bGiyEa"
+    },
+    {
+      "name": "Rodeio Bonito",
+      "id": "BnzyMXgZUybi"
+    },
+    {
+      "name": "Rodeiro",
+      "id": "9K0Us5yeLG1r"
+    },
+    {
+      "name": "Rodrigues",
+      "id": "xGodGEDVEAsJ"
+    },
+    {
+      "name": "Rolandia",
+      "id": "_GvhdamTu5xZ"
+    },
+    {
+      "name": "Rolante",
+      "id": "xvWtzR5A6A4Q"
+    },
+    {
+      "name": "Ronda Alta",
+      "id": "fJbT-0iKxs12"
+    },
+    {
+      "name": "Rondon",
+      "id": "VuLfdByyNHjL"
+    },
+    {
+      "name": "Rosalia",
+      "id": "pspfacytNQ6S"
+    },
+    {
+      "name": "Rosario",
+      "id": "HCdLc_t9QdBJ"
+    },
+    {
+      "name": "Rosario do Sul",
+      "id": "A2lDo0XH-K5q"
+    },
+    {
+      "name": "Roseira",
+      "id": "bAlJtzBsZLPn"
+    },
+    {
+      "name": "Rubiataba",
+      "id": "b5LyJKLEDgl6"
+    },
+    {
+      "name": "Rubim",
+      "id": "bFxzlVqC9I3p"
+    },
+    {
+      "name": "Russas",
+      "id": "yOsbEHzPbaYx"
+    },
+    {
+      "name": "Sabara",
+      "id": "SXiaBCL-3pkh"
+    },
+    {
+      "name": "Sabaudia",
+      "id": "nK_tTSGk9boQ"
+    },
+    {
+      "name": "Sabinopolis",
+      "id": "03Cr6N5nZ56S"
+    },
+    {
+      "name": "Sacramento",
+      "id": "tAsPQf4tHQgA"
+    },
+    {
+      "name": "Sales",
+      "id": "YGYF1WjjNleW"
+    },
+    {
+      "name": "Sales Oliveira",
+      "id": "6TX9Ko2470hC"
+    },
+    {
+      "name": "Salesopolis",
+      "id": "cxw3gx4Ny6cB"
+    },
+    {
+      "name": "Salgado",
+      "id": "OzAawWxpB0px"
+    },
+    {
+      "name": "Salgueiro",
+      "id": "MJsTXc-USsKO"
+    },
+    {
+      "name": "Salinas da Margarida",
+      "id": "teJjJxY8sfeS"
+    },
+    {
+      "name": "Salto",
+      "id": "f5pnrXSDt8Mr"
+    },
+    {
+      "name": "Salto de Pirapora",
+      "id": "I3CJWl3bDAXM"
+    },
+    {
+      "name": "Salto Grande",
+      "id": "Oy-o8FTyq_C1"
+    },
+    {
+      "name": "Salvador",
+      "id": "hgReJ-YDxX_J"
+    },
+    {
+      "name": "Samambaia",
+      "id": "zDIES17qrrto"
+    },
+    {
+      "name": "Sampaio Correia",
+      "id": "ZTlqy_YE2Ws3"
+    },
+    {
+      "name": "Sananduva",
+      "id": "HO3HD5uSGqOu"
+    },
+    {
+      "name": "Sangao",
+      "id": "96OTYvmbmuPz"
+    },
+    {
+      "name": "Sanharo",
+      "id": "UmDuJGAVa_5a"
+    },
+    {
+      "name": "Santa",
+      "id": "4CwwApbXwrle"
+    },
+    {
+      "name": "Santa Adelia",
+      "id": "Bp5RXv4UQ0qS"
+    },
+    {
+      "name": "Santa Barbara",
+      "id": "L9C0x9wrSDAd"
+    },
+    {
+      "name": "Santa Barbara do Sul",
+      "id": "ifk6rcpM96Yp"
+    },
+    {
+      "name": "Santa Branca",
+      "id": "DbeiLzsYLD1V"
+    },
+    {
+      "name": "Santa Cruz",
+      "id": "yhO3Fj-vyIZl"
+    },
+    {
+      "name": "Santa Cruz Cabralia",
+      "id": "bvVJtDavl3hm"
+    },
+    {
+      "name": "Santa Cruz da Baixa Verde",
+      "id": "YlDAJBPsbuoV"
+    },
+    {
+      "name": "Santa Cruz do Capibaribe",
+      "id": "GM6FwDgmLSdM"
+    },
+    {
+      "name": "Santa Cruz do Rio Pardo",
+      "id": "TsXi7mgBdSMp"
+    },
+    {
+      "name": "Santa Cruz do Sul",
+      "id": "nEp_LQzZlLYA"
+    },
+    {
+      "name": "Santa Fe",
+      "id": "4xFIH5eq_YZQ"
+    },
+    {
+      "name": "Santa Fe do Sul",
+      "id": "vz5m06e7HAxR"
+    },
+    {
+      "name": "Santa Gertrudes",
+      "id": "3XX3aXFylJEk"
+    },
+    {
+      "name": "Santa Helena",
+      "id": "BHA068VELtrt"
+    },
+    {
+      "name": "Santa Ines",
+      "id": "2XZBowCPav5F"
+    },
+    {
+      "name": "Santa Isabel",
+      "id": "teLCzD9qnQuq"
+    },
+    {
+      "name": "Santa Isabel do Ivai",
+      "id": "tiKG5X20MEIz"
+    },
+    {
+      "name": "Santa Isabel do Para",
+      "id": "nR71nBd3FMmC"
+    },
+    {
+      "name": "Santa Leopoldina",
+      "id": "dPPRawwcz1-0"
+    },
+    {
+      "name": "Santa Lucia",
+      "id": "_Qfb8zL37oHM"
+    },
+    {
+      "name": "Santa Luzia",
+      "id": "V1b--EYRJLU_"
+    },
+    {
+      "name": "Santa Maria",
+      "id": "EwjiEZlAB4UX"
+    },
+    {
+      "name": "Santa Maria da Vitoria",
+      "id": "mAdTX5H9LMo3"
+    },
+    {
+      "name": "Santa Maria de Itabira",
+      "id": "HRxnGt9NZXei"
+    },
+    {
+      "name": "Santa Rita",
+      "id": "Oi6pR1gO4OKJ"
+    },
+    {
+      "name": "Santa Rita do Passa Quatro",
+      "id": "oUEzvouz9j-Y"
+    },
+    {
+      "name": "Santa Rita do Sapucai",
+      "id": "-ja6RhyIrvh3"
+    },
+    {
+      "name": "Santa Rosa",
+      "id": "IobIYmyIyC5H"
+    },
+    {
+      "name": "Santa Teresa",
+      "id": "fPKvkGiWu-4K"
+    },
+    {
+      "name": "Santa Teresinha",
+      "id": "6tGYgJ08xtuT"
+    },
+    {
+      "name": "Santa Terezinha",
+      "id": "6dv1kijzyBrE"
+    },
+    {
+      "name": "Santana",
+      "id": "beSgTvoiKRIA"
+    },
+    {
+      "name": "Santana da Vargem",
+      "id": "KFKuKe87g660"
+    },
+    {
+      "name": "Santana de Parnaiba",
+      "id": "K9fZTdvVtEfl"
+    },
+    {
+      "name": "Santana do Cariri",
+      "id": "fQR5BlMS2d2b"
+    },
+    {
+      "name": "Santana do Ipanema",
+      "id": "aOWBipINM3iq"
+    },
+    {
+      "name": "Santana do Livramento",
+      "id": "XufjoNqJKWLu"
+    },
+    {
+      "name": "Santana do Matos",
+      "id": "oa7R3uSB8WdP"
+    },
+    {
+      "name": "Santana do Paraiso",
+      "id": "qK8nwzstYLJp"
+    },
+    {
+      "name": "Santarem Novo",
+      "id": "eJZxKex0Tnr0"
+    },
+    {
+      "name": "Santiago",
+      "id": "tHL9scfAA9Ie"
+    },
+    {
+      "name": "Santo",
+      "id": "O-ffUf0aV9bl"
+    },
+    {
+      "name": "Santo Aleixo",
+      "id": "4Dnz3awzrWwU"
+    },
+    {
+      "name": "Santo Amaro",
+      "id": "Tbhfv_4Z8nRZ"
+    },
+    {
+      "name": "Santo Amaro da Imperatriz",
+      "id": "MEpqMd1uHi3X"
+    },
+    {
+      "name": "Santo Anastacio",
+      "id": "V7YhzDFqjl89"
+    },
+    {
+      "name": "Santo Antonio",
+      "id": "uhhqlqYPOv0C"
+    },
+    {
+      "name": "Santo Antonio da Patrulha",
+      "id": "msATC-pjqtQm"
+    },
+    {
+      "name": "Santo Antonio da Platina",
+      "id": "uof3W9urc6nL"
+    },
+    {
+      "name": "Santo Antonio de Jesus",
+      "id": "T-DIwzlTqb1e"
+    },
+    {
+      "name": "Santo Antonio de Lisboa",
+      "id": "9o2v2KVbWiuQ"
+    },
+    {
+      "name": "Santo Antonio de Padua",
+      "id": "36z3AUzg53Sh"
+    },
+    {
+      "name": "Santo Antonio de Posse",
+      "id": "8RqFCRtm4deN"
+    },
+    {
+      "name": "Santo Antonio do Amparo",
+      "id": "vx-QKmVaJa7Z"
+    },
+    {
+      "name": "Santo Antonio do Caiua",
+      "id": "4_0rLC_9rp6R"
+    },
+    {
+      "name": "Santo Antonio do Grama",
+      "id": "oI0Qw9UE4tO7"
+    },
+    {
+      "name": "Santo Antonio do Jardim",
+      "id": "4FRe_GJivZPD"
+    },
+    {
+      "name": "Santo Antonio do Leverger",
+      "id": "wfkNlCGlzH0f"
+    },
+    {
+      "name": "Santo Antonio do Monte",
+      "id": "z2U40B6oYYJJ"
+    },
+    {
+      "name": "Santo Antonio do Pinhal",
+      "id": "UUio4TlGGR3j"
+    },
+    {
+      "name": "Santo Antonio do Retiro",
+      "id": "qf-g_-RM8xkL"
+    },
+    {
+      "name": "Santo Estevao",
+      "id": "cnHuhY-4d2Ut"
+    },
+    {
+      "name": "Santo Expedito",
+      "id": "m-IiIY9G7MR3"
+    },
+    {
+      "name": "Santo Inacio",
+      "id": "sDvblm19W3jf"
+    },
+    {
+      "name": "Santos",
+      "id": "d-YMG6I08bsm"
+    },
+    {
+      "name": "Santos Dumont",
+      "id": "qtxvb4FJEopi"
+    },
+    {
+      "name": "Sao Bento",
+      "id": "9yL6C9r3S_1o"
+    },
+    {
+      "name": "Sao Bento do Sapucai",
+      "id": "piOrfrQCyVnq"
+    },
+    {
+      "name": "Sao Bernardo",
+      "id": "bGgY49J3VAH1"
+    },
+    {
+      "name": "Sao Caetano",
+      "id": "PwJpZFvsgF5v"
+    },
+    {
+      "name": "Sao Caetano do Sul",
+      "id": "06dE2uJ6jcA2"
+    },
+    {
+      "name": "Sao Carlos",
+      "id": "l6cAbo-EUqtG"
+    },
+    {
+      "name": "Sao Cristovao",
+      "id": "W3xiA_D8hn80"
+    },
+    {
+      "name": "Sao Domingos",
+      "id": "vTGP-rfrbKA_"
+    },
+    {
+      "name": "Sao Felipe",
+      "id": "98o7pDJQraSg"
+    },
+    {
+      "name": "Sao Felix",
+      "id": "lm9aynXi0vg9"
+    },
+    {
+      "name": "Sao Fidelis",
+      "id": "poJGQ-BlsoA8"
+    },
+    {
+      "name": "Sao Francisco",
+      "id": "k12tU6W6uXun"
+    },
+    {
+      "name": "Sao Francisco de Paula",
+      "id": "w6Ezkvunj4ba"
+    },
+    {
+      "name": "Sao Francisco do Conde",
+      "id": "DTwUeIVd-JtD"
+    },
+    {
+      "name": "Sao Francisco do Sul",
+      "id": "8BLnZJBAQSiw"
+    },
+    {
+      "name": "Sao Gabriel",
+      "id": "ERQGYsIbC_m-"
+    },
+    {
+      "name": "Sao Gabriel da Cachoeira",
+      "id": "YuzgwJu7jn0C"
+    },
+    {
+      "name": "Sao Geraldo do Araguaia",
+      "id": "UhBDdNGLGnJd"
+    },
+    {
+      "name": "Sao Goncalo",
+      "id": "DDkJTKOlPqwU"
+    },
+    {
+      "name": "Sao Goncalo do Amarante",
+      "id": "QNRsGd08D_GC"
+    },
+    {
+      "name": "Sao Goncalo do Para",
+      "id": "gX8Yc54U4EJ4"
+    },
+    {
+      "name": "Sao Goncalo do Sapucai",
+      "id": "wQ9acviBeIvz"
+    },
+    {
+      "name": "Sao Goncalo dos Campos",
+      "id": "Meza1n3rPz28"
+    },
+    {
+      "name": "Sao Gotardo",
+      "id": "x6j33_zWA1ux"
+    },
+    {
+      "name": "Sao Jeronimo",
+      "id": "ai33I972KJ3E"
+    },
+    {
+      "name": "Sao Joao",
+      "id": "dKmUcuLfFp9F"
+    },
+    {
+      "name": "Sao Joao Batista",
+      "id": "hTpGdfogSC6U"
+    },
+    {
+      "name": "Sao Joao da Barra",
+      "id": "gklweEfWI34H"
+    },
+    {
+      "name": "Sao Joao da Boa Vista",
+      "id": "zx1WXDzjcWoW"
+    },
+    {
+      "name": "Sao Joao de Meriti",
+      "id": "p0dHTY2lX_x0"
+    },
+    {
+      "name": "Sao Joao de Pirabas",
+      "id": "k49N0XFt0obg"
+    },
+    {
+      "name": "Sao Joao do Paraiso",
+      "id": "rdhlEfqQszcg"
+    },
+    {
+      "name": "Sao Joao Evangelista",
+      "id": "s7n7RQ9wJJVt"
+    },
+    {
+      "name": "Sao Joao Nepomuceno",
+      "id": "pHUcpJ79VBu1"
+    },
+    {
+      "name": "Sao Joaquim",
+      "id": "NHC32tX6k0sN"
+    },
+    {
+      "name": "Sao Joaquim da Barra",
+      "id": "HMlLMwUOSTxq"
+    },
+    {
+      "name": "Sao Joaquim de Bicas",
+      "id": "i4J1TMbLQ93l"
+    },
+    {
+      "name": "Sao Joaquim do Monte",
+      "id": "2OOSBlkXs9kb"
+    },
+    {
+      "name": "Sao Jose",
+      "id": "VxQkNMDq9nMO"
+    },
+    {
+      "name": "Sao Jose da Barra",
+      "id": "2OOqrY0EoywX"
+    },
+    {
+      "name": "Sao Jose da Laje",
+      "id": "jt9_Pbs1u-nM"
+    },
+    {
+      "name": "Sao Jose de Mipibu",
+      "id": "TXYlnQKT2D-d"
+    },
+    {
+      "name": "Sao Jose de Piranhas",
+      "id": "UHuX3QLz1fDN"
+    },
+    {
+      "name": "Sao Jose de Ribamar",
+      "id": "lfZNxsfW0m-d"
+    },
+    {
+      "name": "Sao Jose do Calcado",
+      "id": "LZ6Ec0cm6F-q"
+    },
+    {
+      "name": "Sao Jose do Cedro",
+      "id": "mkOfgL9wgaTL"
+    },
+    {
+      "name": "Sao Jose do Egito",
+      "id": "i4mHVgqu5Z20"
+    },
+    {
+      "name": "Sao Jose do Goiabal",
+      "id": "gWJZ6rf09vKi"
+    },
+    {
+      "name": "Sao Jose do Inhacora",
+      "id": "PGUEaOXTuv0u"
+    },
+    {
+      "name": "Sao Jose do Ouro",
+      "id": "DWpmAez5RBS6"
+    },
+    {
+      "name": "Sao Jose do Rio Pardo",
+      "id": "22OkXj8A3cAf"
+    },
+    {
+      "name": "Sao Jose do Rio Preto",
+      "id": "BFLVAkcRhRGn"
+    },
+    {
+      "name": "Sao Lourenco da Mata",
+      "id": "zr74XLdvVm_G"
+    },
+    {
+      "name": "Sao Lourenco da Serra",
+      "id": "qrpTq2ta7x5T"
+    },
+    {
+      "name": "Sao Lourenco do Sul",
+      "id": "aeWB563ZsJJ-"
+    },
+    {
+      "name": "Sao Lourenco dOeste",
+      "id": "vnfk6m_Vd1y_"
+    },
+    {
+      "name": "Sao Luis",
+      "id": "kW7l4d3gHY--"
+    },
+    {
+      "name": "Sao Luis de Montes Belos",
+      "id": "bnGgTmFh7KQ7"
+    },
+    {
+      "name": "Sao Luis do Paraitinga",
+      "id": "ve-6S1xCYZT3"
+    },
+    {
+      "name": "Sao Luiz Gonzaga",
+      "id": "1jN-M5BmBTMB"
+    },
+    {
+      "name": "Sao Manoel",
+      "id": "fe8ROKRcvRwY"
+    },
+    {
+      "name": "Sao Manuel",
+      "id": "ap6-HQuRBdlB"
+    },
+    {
+      "name": "Sao Marcos",
+      "id": "S9NZHSo6w03g"
+    },
+    {
+      "name": "Sao Miguel",
+      "id": "C0FJO7ocsGMX"
+    },
+    {
+      "name": "Sao Miguel Arcanjo",
+      "id": "qWcP-OaybxVS"
+    },
+    {
+      "name": "Sao Miguel do Araguaia",
+      "id": "DT6sHl8iq9B3"
+    },
+    {
+      "name": "Sao Miguel do Iguacu",
+      "id": "g9ZC_ORx10KQ"
+    },
+    {
+      "name": "Sao Miguel dos Campos",
+      "id": "jQ6Z4YFSdtd4"
+    },
+    {
+      "name": "Sao Paulo",
+      "id": "WYyWoPiwhtn5"
+    },
+    {
+      "name": "Sao Paulo do Potengi",
+      "id": "JbWvMa61e4-c"
+    },
+    {
+      "name": "Sao Pedro",
+      "id": "1cca0H3eK2bh"
+    },
+    {
+      "name": "Sao Pedro da Aldeia",
+      "id": "Derg3zpNTxzR"
+    },
+    {
+      "name": "Sao Pedro do Ivai",
+      "id": "gZL3mVejOURm"
+    },
+    {
+      "name": "Sao Pedro do Sul",
+      "id": "rN0m-d9Yz_-L"
+    },
+    {
+      "name": "Sao Pedro dos Ferros",
+      "id": "zTHuoA9NjJZD"
+    },
+    {
+      "name": "Sao Roque",
+      "id": "bxGZWa_ZCwfH"
+    },
+    {
+      "name": "Sao Salvador",
+      "id": "wBmwK_35XZ7I"
+    },
+    {
+      "name": "Sao Sebastiao",
+      "id": "Ess0PNI6ljjp"
+    },
+    {
+      "name": "Sao Sebastiao da Amoreira",
+      "id": "bd2DYbaArej2"
+    },
+    {
+      "name": "Sao Sebastiao da Grama",
+      "id": "hpAf5ASFNkim"
+    },
+    {
+      "name": "Sao Sebastiao do Cai",
+      "id": "lP4SRQGdNDl3"
+    },
+    {
+      "name": "Sao Sebastiao do Maranhao",
+      "id": "3mUfgUNAa02J"
+    },
+    {
+      "name": "Sao Sebastiao do Paraiso",
+      "id": "IH9N-So2IXsD"
+    },
+    {
+      "name": "Sao Sepe",
+      "id": "SBCWsWLl7EdM"
+    },
+    {
+      "name": "Sao Simao",
+      "id": "n0cA_B0Vv00I"
+    },
+    {
+      "name": "Sao Tome",
+      "id": "nfvCq3qAKURe"
+    },
+    {
+      "name": "Sao Vicente",
+      "id": "sLXsj_OWmYQ6"
+    },
+    {
+      "name": "Sao Vicente de Paula",
+      "id": "i2AVQEF9wDeu"
+    },
+    {
+      "name": "Sape",
+      "id": "bQf7Dli-I_1F"
+    },
+    {
+      "name": "Sapeacu",
+      "id": "jbcIcQBLI0Iq"
+    },
+    {
+      "name": "Sapiranga",
+      "id": "nEc2VUQHhajZ"
+    },
+    {
+      "name": "Sapucaia",
+      "id": "Ue4J8mfNtHI1"
+    },
+    {
+      "name": "Sapucaia do Sul",
+      "id": "HuNYof_LnSdS"
+    },
+    {
+      "name": "Saquarema",
+      "id": "estCJUiN6WqW"
+    },
+    {
+      "name": "Sarandi",
+      "id": "z7Rgr2ChtI54"
+    },
+    {
+      "name": "Sarapui",
+      "id": "xdOYovdpdWTp"
+    },
+    {
+      "name": "Sardoa",
+      "id": "vL1w6JSq1L9z"
+    },
+    {
+      "name": "Sarzedo",
+      "id": "KBvlzNdw0S41"
+    },
+    {
+      "name": "Satuba",
+      "id": "FFexX-FDDUr_"
+    },
+    {
+      "name": "Saudades",
+      "id": "ZYBiJOF7yIWD"
+    },
+    {
+      "name": "Schroeder",
+      "id": "d_9xijBWzlIK"
+    },
+    {
+      "name": "Seabra",
+      "id": "-eQbioDL1MpM"
+    },
+    {
+      "name": "Seara",
+      "id": "c2BEdois3f0G"
+    },
+    {
+      "name": "Sebastianopolis do Sul",
+      "id": "FEQm0iRZfMBe"
+    },
+    {
+      "name": "Seberi",
+      "id": "lgTys3coattD"
+    },
+    {
+      "name": "Sede Nova",
+      "id": "ARltqaNd5zgX"
+    },
+    {
+      "name": "Sem Peixe",
+      "id": "hHwkAy-bcXLX"
+    },
+    {
+      "name": "Senador Canedo",
+      "id": "lIZGOzPJOyna"
+    },
+    {
+      "name": "Senhor do Bonfim",
+      "id": "h444Jf9o5pZR"
+    },
+    {
+      "name": "Serafina",
+      "id": "IvNl32NpX8Fd"
+    },
+    {
+      "name": "Seropedica",
+      "id": "Y3c8e3oDAcut"
+    },
+    {
+      "name": "Serra",
+      "id": "6WDHbwmawtOd"
+    },
+    {
+      "name": "Serra Azul",
+      "id": "aSFckcdvACHp"
+    },
+    {
+      "name": "Serra Negra",
+      "id": "quGtXtHGz_pt"
+    },
+    {
+      "name": "Serra Preta",
+      "id": "6Putx4EkcHBS"
+    },
+    {
+      "name": "Serra Talhada",
+      "id": "it-Qj0Z1dodZ"
+    },
+    {
+      "name": "Serrana",
+      "id": "NPOaFQA9xRfz"
+    },
+    {
+      "name": "Serrania",
+      "id": "gWyVb2xHCjY5"
+    },
+    {
+      "name": "Serrinha",
+      "id": "27fqGsFYoTAO"
+    },
+    {
+      "name": "Serro",
+      "id": "Yvu20UVs6wZl"
+    },
+    {
+      "name": "Sertania",
+      "id": "C45T6OZ0SgOD"
+    },
+    {
+      "name": "Sertanopolis",
+      "id": "ile3eYwNLOlI"
+    },
+    {
+      "name": "Sertao",
+      "id": "H_eI24M68QAU"
+    },
+    {
+      "name": "Sertaozinho",
+      "id": "sJL78_pThN33"
+    },
+    {
+      "name": "Sete Lagoas",
+      "id": "fqAE5-RDULhy"
+    },
+    {
+      "name": "Sidrolandia",
+      "id": "OhvlDI075oBK"
+    },
+    {
+      "name": "Silva Jardim",
+      "id": "50e1RWOeieYx"
+    },
+    {
+      "name": "Silveiras",
+      "id": "OZZNnTwB7M6H"
+    },
+    {
+      "name": "Simao Dias",
+      "id": "lLYpauMYLF0k"
+    },
+    {
+      "name": "Simao Pereira",
+      "id": "ZEpdM_ju7JZs"
+    },
+    {
+      "name": "Simoes",
+      "id": "a8zQqSuSibtV"
+    },
+    {
+      "name": "Simplicio Mendes",
+      "id": "QWUhlUNG5NaE"
+    },
+    {
+      "name": "Siqueira Campos",
+      "id": "5KUGiNvVn-GW"
+    },
+    {
+      "name": "Sitio Figueira",
+      "id": "DJZQlFNuOnef"
+    },
+    {
+      "name": "Sitio Novo",
+      "id": "QgyHmabMfcui"
+    },
+    {
+      "name": "Sobradinho",
+      "id": "BF19NBlktNZQ"
+    },
+    {
+      "name": "Sobral",
+      "id": "fzZJoUVQX15T"
+    },
+    {
+      "name": "Socorro",
+      "id": "FQXfUYM7WxD2"
+    },
+    {
+      "name": "Soledade",
+      "id": "2EjrJI_CmVx8"
+    },
+    {
+      "name": "Sombrio",
+      "id": "5p45TvxFOtie"
+    },
+    {
+      "name": "Sorocaba",
+      "id": "5xrZq5v8Dxv6"
+    },
+    {
+      "name": "Sorriso",
+      "id": "EpIhEc9iqfaJ"
+    },
+    {
+      "name": "Sousa",
+      "id": "cuSb0b2EGmZ4"
+    },
+    {
+      "name": "Stio Ouro Fino",
+      "id": "A7SiOuplWavr"
+    },
+    {
+      "name": "Sulina",
+      "id": "Q0S4ulOhw_AK"
+    },
+    {
+      "name": "Sumare",
+      "id": "fdWj0YaEn9Ec"
+    },
+    {
+      "name": "Suzano",
+      "id": "-W-ZK5QjG43I"
+    },
+    {
+      "name": "Tabatinga",
+      "id": "zhpG6YxSXhdU"
+    },
+    {
+      "name": "Tabira",
+      "id": "jHAqvGeSpTxN"
+    },
+    {
+      "name": "Taboao da Serra",
+      "id": "4O7tg1vqy7N4"
+    },
+    {
+      "name": "Tabuleiro do Norte",
+      "id": "k1DjcEh8Jh5X"
+    },
+    {
+      "name": "Taguatinga",
+      "id": "EPKRJCzlMjaK"
+    },
+    {
+      "name": "Taiacu",
+      "id": "dGf_hfWAadl1"
+    },
+    {
+      "name": "Taiobeiras",
+      "id": "RT5lUE1ylvVz"
+    },
+    {
+      "name": "Taiuva",
+      "id": "hgAkIDmwvzBm"
+    },
+    {
+      "name": "Tamandare",
+      "id": "g_YR7nxUVsAJ"
+    },
+    {
+      "name": "Tambau",
+      "id": "KtH2-2Yg9uli"
+    },
+    {
+      "name": "Tamboril",
+      "id": "Tv5i7LjaTPbu"
+    },
+    {
+      "name": "Tamoios",
+      "id": "W1CLnzO9TIsI"
+    },
+    {
+      "name": "Tanabi",
+      "id": "es19k0SqZN6-"
+    },
+    {
+      "name": "Tangua",
+      "id": "XlZFIRjXCgNa"
+    },
+    {
+      "name": "Tanque Novo",
+      "id": "z6YYt3MQJQuP"
+    },
+    {
+      "name": "Tapejara",
+      "id": "ooQt7RsjDXH4"
+    },
+    {
+      "name": "Tapira",
+      "id": "EXJKFAAY0Eo1"
+    },
+    {
+      "name": "Tapirai",
+      "id": "DkY25kpgciVt"
+    },
+    {
+      "name": "Taquara",
+      "id": "inVPFTg_GjLC"
+    },
+    {
+      "name": "Taquaral",
+      "id": "ZH9_WbA-ZWz_"
+    },
+    {
+      "name": "Taquarana",
+      "id": "1iErl2TDBv7h"
+    },
+    {
+      "name": "Taquari",
+      "id": "P4oNzTLRQ11P"
+    },
+    {
+      "name": "Taquaritinga",
+      "id": "am_G58NAO-FI"
+    },
+    {
+      "name": "Tarumirim",
+      "id": "ZLTyjP0GLyEp"
+    },
+    {
+      "name": "Tatuamunha",
+      "id": "TZCcM7rIw4bm"
+    },
+    {
+      "name": "Taua",
+      "id": "b7eGAsxxG_wX"
+    },
+    {
+      "name": "Taubate",
+      "id": "cwz7Wip8NgpB"
+    },
+    {
+      "name": "Teixeira",
+      "id": "_D1Z2d4tUGFj"
+    },
+    {
+      "name": "Telemaco Borba",
+      "id": "ZwzzCt1q8bG-"
+    },
+    {
+      "name": "Tenente Ananias",
+      "id": "jFAIvhK9LqO4"
+    },
+    {
+      "name": "Tenorio",
+      "id": "bPZkQI4vUHSS"
+    },
+    {
+      "name": "Teodoro Sampaio",
+      "id": "KfsEGiYr6DHv"
+    },
+    {
+      "name": "Terenos",
+      "id": "pA7EGpPSoG8B"
+    },
+    {
+      "name": "Teresina",
+      "id": "NiL51xbIDn2N"
+    },
+    {
+      "name": "Teresopolis",
+      "id": "jV7A3QRXNVXn"
+    },
+    {
+      "name": "Terra Boa",
+      "id": "gZUuZWgo-huV"
+    },
+    {
+      "name": "Terra Nova",
+      "id": "mLWMfmBcXmSU"
+    },
+    {
+      "name": "Terra Rica",
+      "id": "kxvlMILObDN9"
+    },
+    {
+      "name": "Terra Roxa",
+      "id": "XbpbiP9zhfD9"
+    },
+    {
+      "name": "Teutonia",
+      "id": "-3SN9m7Zl3pe"
+    },
+    {
+      "name": "Tiangua",
+      "id": "_Dmo8tziLJpt"
+    },
+    {
+      "name": "Tibagi",
+      "id": "vzroqjUGrjtS"
+    },
+    {
+      "name": "Tibau",
+      "id": "HDqZ7PZoFOnK"
+    },
+    {
+      "name": "Tiete",
+      "id": "PjtCKhAePayL"
+    },
+    {
+      "name": "Tijuca",
+      "id": "F59Tyi_jkE0q"
+    },
+    {
+      "name": "Tijucas",
+      "id": "uX7sz9SGJ13o"
+    },
+    {
+      "name": "Timbauba",
+      "id": "gaLkUqwC894A"
+    },
+    {
+      "name": "Timbe",
+      "id": "n4XXuST5EQ6V"
+    },
+    {
+      "name": "Timbo",
+      "id": "Rh0eQ2cfqoZ1"
+    },
+    {
+      "name": "Timon",
+      "id": "ZbJFCLxGlOw2"
+    },
+    {
+      "name": "Timoteo",
+      "id": "uX9MV0JQozsi"
+    },
+    {
+      "name": "Tiradentes",
+      "id": "oy_WX1MRPz91"
+    },
+    {
+      "name": "Tobias Barreto",
+      "id": "eCmgYK3x1RNZ"
+    },
+    {
+      "name": "Tocantins",
+      "id": "bjkXSWBgy63M"
+    },
+    {
+      "name": "Toledo",
+      "id": "j5V_1h0KDLTG"
+    },
+    {
+      "name": "Tomar do Geru",
+      "id": "_2JYk26zG1JA"
+    },
+    {
+      "name": "Tome Acu",
+      "id": "JFAhEMEBre7m"
+    },
+    {
+      "name": "Toritama",
+      "id": "OSfHOjU5YGm4"
+    },
+    {
+      "name": "Torres",
+      "id": "J1rJguDZQEbe"
+    },
+    {
+      "name": "Touros",
+      "id": "2cra66Bdw4yF"
+    },
+    {
+      "name": "Tramandai",
+      "id": "HtfWSeMbN1tO"
+    },
+    {
+      "name": "Tremembe",
+      "id": "dckNww68EywO"
+    },
+    {
+      "name": "Tres Barras",
+      "id": "Xm0r85-g9SzG"
+    },
+    {
+      "name": "Tres Cachoeiras",
+      "id": "iumH5TlFgPXU"
+    },
+    {
+      "name": "Tres Coroas",
+      "id": "rrVpM7oBr9Xg"
+    },
+    {
+      "name": "Tres Marias",
+      "id": "rKGH10xbpNPG"
+    },
+    {
+      "name": "Tres Passos",
+      "id": "UkrErL9fWTT4"
+    },
+    {
+      "name": "Tres Pontas",
+      "id": "8IJQHPEV1edI"
+    },
+    {
+      "name": "Tres Rios",
+      "id": "WLId6h9IZjnL"
+    },
+    {
+      "name": "Trindade",
+      "id": "-QzDlVS5Svo0"
+    },
+    {
+      "name": "Triunfo",
+      "id": "_pXU2t6wqeBs"
+    },
+    {
+      "name": "Tubarao",
+      "id": "PRibPtpxuJUA"
+    },
+    {
+      "name": "Tucum",
+      "id": "qNgwzOi85HI7"
+    },
+    {
+      "name": "Tucunduva",
+      "id": "SLuhv0-1rA1R"
+    },
+    {
+      "name": "Tucurui",
+      "id": "vnZGirF4xAEL"
+    },
+    {
+      "name": "Tuiuti",
+      "id": "FQztXS-tPLBh"
+    },
+    {
+      "name": "Tumiritinga",
+      "id": "wmQ51SQpjO_5"
+    },
+    {
+      "name": "Tupa",
+      "id": "BvcA9gVvlbLX"
+    },
+    {
+      "name": "Tupaciguara",
+      "id": "9NCQDdvwJt4y"
+    },
+    {
+      "name": "Tupanatinga",
+      "id": "_6aLNRD5o57m"
+    },
+    {
+      "name": "Tupancireta",
+      "id": "gbArMFKixHZX"
+    },
+    {
+      "name": "Tuparendi",
+      "id": "2YR3TlOE8rTH"
+    },
+    {
+      "name": "Tupi Paulista",
+      "id": "4ZW2Y7_KTda0"
+    },
+    {
+      "name": "Turmalina",
+      "id": "gAjiC_2XMsWd"
+    },
+    {
+      "name": "Turvo",
+      "id": "wj2rN3PTWigx"
+    },
+    {
+      "name": "Uaua",
+      "id": "1unmhBqUFSd5"
+    },
+    {
+      "name": "Uba",
+      "id": "q9y74BmqKE_y"
+    },
+    {
+      "name": "Ubaira",
+      "id": "UN7ff_OstqWl"
+    },
+    {
+      "name": "Ubaitaba",
+      "id": "rbIlywjuSj7R"
+    },
+    {
+      "name": "Ubarana",
+      "id": "12DR6X6Etuv2"
+    },
+    {
+      "name": "Ubata",
+      "id": "rrmhbUj2Mqwj"
+    },
+    {
+      "name": "Ubatuba",
+      "id": "uDTQolqyg6qP"
+    },
+    {
+      "name": "Uberaba",
+      "id": "IYiQ0ym_fwYn"
+    },
+    {
+      "name": "Uberlandia",
+      "id": "xKjXapbhLO_R"
+    },
+    {
+      "name": "Uchoa",
+      "id": "_YdbEHvQpcTB"
+    },
+    {
+      "name": "Uibai",
+      "id": "3gi2Upi66sL0"
+    },
+    {
+      "name": "Uirauna",
+      "id": "I_ZwY_az9svl"
+    },
+    {
+      "name": "Umbauba",
+      "id": "_llY1bxF3F2P"
+    },
+    {
+      "name": "Umbuzeiro",
+      "id": "Y70mgEgKNdWJ"
+    },
+    {
+      "name": "Umirim",
+      "id": "WZxkgXTO39AB"
+    },
+    {
+      "name": "Umuarama",
+      "id": "itKC1CQ-bA8i"
+    },
+    {
+      "name": "Unai",
+      "id": "sN44XR4dijFq"
+    },
+    {
+      "name": "Uniao da Vitoria",
+      "id": "hJ1jaAjsIv2a"
+    },
+    {
+      "name": "Urai",
+      "id": "TmIwczWKNG1F"
+    },
+    {
+      "name": "Urania",
+      "id": "GV-C1kywwGpm"
+    },
+    {
+      "name": "Urubici",
+      "id": "OC4r236W197w"
+    },
+    {
+      "name": "Uruburetama",
+      "id": "xO_ruh8En5kK"
+    },
+    {
+      "name": "Urucania",
+      "id": "pcuW9qga1LBm"
+    },
+    {
+      "name": "Urucuca",
+      "id": "dChbdpKGWwlw"
+    },
+    {
+      "name": "Uruguaiana",
+      "id": "a49_oK_N8uR8"
+    },
+    {
+      "name": "Urupes",
+      "id": "dQppZHwRJlMU"
+    },
+    {
+      "name": "Urussanga",
+      "id": "oqtv8Fc5PTBR"
+    },
+    {
+      "name": "Vacaria",
+      "id": "5S4RWfJtfo39"
+    },
+    {
+      "name": "Valenca",
+      "id": "pVvkhwjTcHXw"
+    },
+    {
+      "name": "Valente",
+      "id": "_2OeZgT2wf69"
+    },
+    {
+      "name": "Valentim Gentil",
+      "id": "RqJP8M3_cyGV"
+    },
+    {
+      "name": "Valerio",
+      "id": "lMVn-Zs2dzTL"
+    },
+    {
+      "name": "Valinhos",
+      "id": "jJ2UQvX2c1Ra"
+    },
+    {
+      "name": "Valparaiso",
+      "id": "YHe4jmNVHkeD"
+    },
+    {
+      "name": "Vargem Alta",
+      "id": "hDywdx_Mgcqm"
+    },
+    {
+      "name": "Vargem Grande do Sul",
+      "id": "hhUGJ2--VwUe"
+    },
+    {
+      "name": "Vargem Grande Paulista",
+      "id": "ZECbwc4tNtoO"
+    },
+    {
+      "name": "Varginha",
+      "id": "FEV2E1QC3-Pf"
+    },
+    {
+      "name": "Varjota",
+      "id": "aCgwFQhZlilS"
+    },
+    {
+      "name": "Varzea",
+      "id": "laB8JEYQjAHn"
+    },
+    {
+      "name": "Varzea Paulista",
+      "id": "4ALM08dRwphf"
+    },
+    {
+      "name": "Varzelandia",
+      "id": "UBXZ9unY4Pza"
+    },
+    {
+      "name": "Vassouras",
+      "id": "2pUq-tDXsNBK"
+    },
+    {
+      "name": "Velha",
+      "id": "xktQs3eJ5DcL"
+    },
+    {
+      "name": "Venancio Aires",
+      "id": "AITMvtNumpYf"
+    },
+    {
+      "name": "Venda Nova",
+      "id": "JJiOLf1xkB4w"
+    },
+    {
+      "name": "Vera Cruz",
+      "id": "SBYm7jGsPEzq"
+    },
+    {
+      "name": "Veranopolis",
+      "id": "8X5VlECe9-zD"
+    },
+    {
+      "name": "Vespasiano",
+      "id": "xCmZgk9ypNmX"
+    },
+    {
+      "name": "Vespasiano Correa",
+      "id": "1fa447JXibIi"
+    },
+    {
+      "name": "Viana",
+      "id": "taCjQNlIcHPK"
+    },
+    {
+      "name": "Vicencia",
+      "id": "7AZ5xcN3htuy"
+    },
+    {
+      "name": "Vicente",
+      "id": "SCPKrlOMxBlE"
+    },
+    {
+      "name": "Vicosa",
+      "id": "qNjLakkEvbuv"
+    },
+    {
+      "name": "Vicosa do Ceara",
+      "id": "hm867C0xDy9V"
+    },
+    {
+      "name": "Videira",
+      "id": "HF5WW2zqJ1jG"
+    },
+    {
+      "name": "Vila Maria",
+      "id": "toXvZNIhm0i3"
+    },
+    {
+      "name": "Vila Muriqui",
+      "id": "_C7Sm6dNcaYL"
+    },
+    {
+      "name": "Vila Rica",
+      "id": "06NKq6celhMF"
+    },
+    {
+      "name": "Vila Velha",
+      "id": "2pI37IpTsG2k"
+    },
+    {
+      "name": "Vilar dos Teles",
+      "id": "lmMSHE7R8iOL"
+    },
+    {
+      "name": "Vilhena",
+      "id": "ML5gfqYT6JJ0"
+    },
+    {
+      "name": "Vinhedo",
+      "id": "tJ8TYWlsXv8t"
+    },
+    {
+      "name": "Virgem da Lapa",
+      "id": "uwuY3TsceWdc"
+    },
+    {
+      "name": "Virginia",
+      "id": "fr67CRDdZnR9"
+    },
+    {
+      "name": "Virginopolis",
+      "id": "INBDPMsBVRDe"
+    },
+    {
+      "name": "Virmond",
+      "id": "4Q9imz9ACsBW"
+    },
+    {
+      "name": "Visconde do Rio Branco",
+      "id": "tIbezPNlcIHJ"
+    },
+    {
+      "name": "Vista Alegre do Alto",
+      "id": "BT3C3O3ZsVj7"
+    },
+    {
+      "name": "Vitoria de Santo Antao",
+      "id": "F0UIKB4n9Blz"
+    },
+    {
+      "name": "Vitorino Freire",
+      "id": "cKdkCiYEFfAg"
+    },
+    {
+      "name": "Volta Grande",
+      "id": "uz16iVUtaYy6"
+    },
+    {
+      "name": "Volta Redonda",
+      "id": "eS4m61J8H9sc"
+    },
+    {
+      "name": "Votorantim",
+      "id": "8iDhRHvhhMyt"
+    },
+    {
+      "name": "Votuporanga",
+      "id": "oQXlFUfR-D3U"
+    },
+    {
+      "name": "Wenceslau Braz",
+      "id": "02bEtQ-sP7W7"
+    },
+    {
+      "name": "Witmarsum",
+      "id": "EoLY9r4G8czS"
+    },
+    {
+      "name": "Xanxere",
+      "id": "tyPB0h-KsnHS"
+    },
+    {
+      "name": "Xavantina",
+      "id": "qR5REIbxisRF"
+    },
+    {
+      "name": "Xaxim",
+      "id": "aK7InIlaAk8r"
+    }
   ]
 }

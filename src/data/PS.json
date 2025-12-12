@@ -1,0 +1,37 @@
+{
+  "coid": "PS",
+  "cities": [
+    {
+      "name": "Al Mawasi",
+      "id": "vjhr0o79c354"
+    },
+    {
+      "name": "Bethlehem",
+      "id": "gKQycOo8OtCe"
+    },
+    {
+      "name": "Gaza",
+      "id": "bYZHiPO88otg"
+    },
+    {
+      "name": "Hebron",
+      "id": "0T_b0gA7vn90"
+    },
+    {
+      "name": "Jenin",
+      "id": "D1KsHf5WnZwZ"
+    },
+    {
+      "name": "Jericho",
+      "id": "WPvFzlTifpz6"
+    },
+    {
+      "name": "Nablus",
+      "id": "O7WaMvQxo-9o"
+    },
+    {
+      "name": "Ramallah",
+      "id": "6QD8pLBxdAzn"
+    }
+  ]
+}

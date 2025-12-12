@@ -1,15 +1,45 @@
 {
   "coid": "DJ",
   "cities": [
-    { "name": "Djibouti City", "id": "c91f3a2d9b7e" },
-    { "name": "Ali Sabieh", "id": "d28e1f9ac4d2" },
-    { "name": "Tadjoura", "id": "e39d7b1e0f52" },
-    { "name": "Obock", "id": "f84a2c7f1e93" },
-    { "name": "Dikhil", "id": "a72b9d4c3a10" },
-    { "name": "Arta", "id": "b63c1a8e5b27" },
-    { "name": "Holhol", "id": "c72d9c4f1b83" },
-    { "name": "Balho", "id": "d91e3f7a2c64" },
-    { "name": "Yoboki", "id": "e58f2a9d7e31" },
-    { "name": "Randa", "id": "f47b1c6e9f20" }
+    {
+      "name": "Djibouti City",
+      "id": "Iu4dyCR5xo7j"
+    },
+    {
+      "name": "Ali Sabieh",
+      "id": "Rw2zpBFZAJ8X"
+    },
+    {
+      "name": "Tadjoura",
+      "id": "3LPSTSraX7Yg"
+    },
+    {
+      "name": "Obock",
+      "id": "opJuPCxi3IjN"
+    },
+    {
+      "name": "Dikhil",
+      "id": "iyemJ75WHPQ6"
+    },
+    {
+      "name": "Arta",
+      "id": "IRhV-cIGsUYI"
+    },
+    {
+      "name": "Holhol",
+      "id": "k86xXoiGehbi"
+    },
+    {
+      "name": "Balho",
+      "id": "_DFUR243E6mm"
+    },
+    {
+      "name": "Yoboki",
+      "id": "-v3aiMZwVU4m"
+    },
+    {
+      "name": "Randa",
+      "id": "MLTRxHlEDxPW"
+    }
   ]
 }

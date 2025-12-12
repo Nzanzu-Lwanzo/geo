@@ -1,15 +1,45 @@
 {
   "coid": "GD",
   "cities": [
-    { "name": "St. George's", "id": "a83f1d2b4c65" },
-    { "name": "Gouyave", "id": "b94a2e3c5d76" },
-    { "name": "Grenville", "id": "c15b3f4d6e87" },
-    { "name": "Victoria", "id": "d26c4a5e7f98" },
-    { "name": "Sauteurs", "id": "e37d5b6f8a09" },
-    { "name": "Hillsborough", "id": "f48e6c7a9b10" },
-    { "name": "Woburn", "id": "a59f7d8b0c21" },
-    { "name": "Calliste", "id": "b60a8e9c1d32" },
-    { "name": "Grand Roy", "id": "c71b9f0d2e43" },
-    { "name": "Marian", "id": "d82c1a3d4e55" }
+    {
+      "name": "St. George's",
+      "id": "1oz85QAL6EYF"
+    },
+    {
+      "name": "Gouyave",
+      "id": "FyPp73BnYiWs"
+    },
+    {
+      "name": "Grenville",
+      "id": "zImUblBTYtgd"
+    },
+    {
+      "name": "Victoria",
+      "id": "MQrASn8hGnPl"
+    },
+    {
+      "name": "Sauteurs",
+      "id": "qJmc9PM8jp26"
+    },
+    {
+      "name": "Hillsborough",
+      "id": "bP3TIA1qjzmO"
+    },
+    {
+      "name": "Woburn",
+      "id": "uysvZmy_yF20"
+    },
+    {
+      "name": "Calliste",
+      "id": "DWJRic7dyo5g"
+    },
+    {
+      "name": "Grand Roy",
+      "id": "vMwl_BsuJwYt"
+    },
+    {
+      "name": "Marian",
+      "id": "8AQqJxofL9E4"
+    }
   ]
 }

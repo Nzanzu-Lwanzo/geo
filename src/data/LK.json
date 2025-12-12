@@ -1,15 +1,153 @@
 {
   "coid": "LK",
   "cities": [
-    { "name": "Colombo", "id": "e1m2n3b4v5c6" },
-    { "name": "Kandy", "id": "f2n3b4v5c6x7" },
-    { "name": "Galle", "id": "a3b4v5c6x7z8" },
-    { "name": "Jaffna", "id": "b4v5c6x7z8a9" },
-    { "name": "Negombo", "id": "c5c6x7z8a9s0" },
-    { "name": "Trincomalee", "id": "d6x7z8a9s0d1" },
-    { "name": "Batticaloa", "id": "e7z8a9s0d1f2" },
-    { "name": "Anuradhapura", "id": "f8a9s0d1f2g3" },
-    { "name": "Polonnaruwa", "id": "a9s0d1f2g3h4" },
-    { "name": "Matara", "id": "b0d1f2g3h4j5" }
+    {
+      "name": "Badulla",
+      "id": "Y8kpfTwCOp-r"
+    },
+    {
+      "name": "Battaramulla South",
+      "id": "bPGSjB9YqMmb"
+    },
+    {
+      "name": "Biyagama",
+      "id": "sSj1Ss4viW4t"
+    },
+    {
+      "name": "Boralesgamuwa South",
+      "id": "nIm7ke62enFm"
+    },
+    {
+      "name": "Colombo",
+      "id": "EppNVvpmg2Cc"
+    },
+    {
+      "name": "Dehiwala",
+      "id": "eWvM0G4ruQpM"
+    },
+    {
+      "name": "Dehiwala-Mount Lavinia",
+      "id": "A2KLRgD3HjLR"
+    },
+    {
+      "name": "Eppawala",
+      "id": "PiY2iW3gNkX-"
+    },
+    {
+      "name": "Gampaha",
+      "id": "zpuyNhAP7ts7"
+    },
+    {
+      "name": "Gangodawila North",
+      "id": "S8HoRZUfechK"
+    },
+    {
+      "name": "Hekitta",
+      "id": "b8biKYWMeZfT"
+    },
+    {
+      "name": "Homagama",
+      "id": "SGSJCO3r3Piu"
+    },
+    {
+      "name": "Kaduwela",
+      "id": "XUuNv0AqMCPR"
+    },
+    {
+      "name": "Kandana",
+      "id": "3bjFAHUxJnhD"
+    },
+    {
+      "name": "Kandy",
+      "id": "Sg8XHvSXtxFl"
+    },
+    {
+      "name": "Katubedda",
+      "id": "uM422_2Tat2L"
+    },
+    {
+      "name": "Katunayaka",
+      "id": "XmgxqUhhA2RA"
+    },
+    {
+      "name": "Kelaniya",
+      "id": "ruj7QSLsSOuW"
+    },
+    {
+      "name": "Kohuwala",
+      "id": "LyunZUnooPPC"
+    },
+    {
+      "name": "Maharagama",
+      "id": "oM7HYMnH2zTD"
+    },
+    {
+      "name": "Makola South",
+      "id": "tdiPV_-Bw2_j"
+    },
+    {
+      "name": "Matale",
+      "id": "C7bxcbAwf2x_"
+    },
+    {
+      "name": "Moratuwa",
+      "id": "_oO_vH0OJhh5"
+    },
+    {
+      "name": "Nattandiya Town",
+      "id": "30SMfSMGksu_"
+    },
+    {
+      "name": "Negombo",
+      "id": "Edd8aPbFguXD"
+    },
+    {
+      "name": "Nugegoda",
+      "id": "1KiSwB3lov9P"
+    },
+    {
+      "name": "Orugodawatta",
+      "id": "5XKOMlyqfr7X"
+    },
+    {
+      "name": "Padukka",
+      "id": "akmtFrOS3xH6"
+    },
+    {
+      "name": "Pannipitiya",
+      "id": "AVlgq6lU8Hlh"
+    },
+    {
+      "name": "Peradeniya",
+      "id": "wiS-GPp9vFy0"
+    },
+    {
+      "name": "Piliyandala",
+      "id": "7fUeNY51C0Cg"
+    },
+    {
+      "name": "Ragama",
+      "id": "kDKDCW1-0NOR"
+    },
+    {
+      "name": "Rajagiriya",
+      "id": "Y7VKl4tuj_LR"
+    },
+    {
+      "name": "Sri Jayewardenepura Kotte",
+      "id": "K3CV30LJ4_3W"
+    },
+    {
+      "name": "Talapathpitiya",
+      "id": "BMvhCMR6KsZg"
+    },
+    {
+      "name": "Wattala",
+      "id": "JwEPxwHz-kKS"
+    },
+    {
+      "name": "Wellampitiya",
+      "id": "QHDlIOwL6XO5"
+    }
   ]
 }

@@ -1,15 +1,45 @@
 {
   "coid": "TM",
   "cities": [
-    { "name": "Ashgabat", "id": "e2f3a4b5c6d7" },
-    { "name": "Turkmenabat", "id": "f3a4b5c6d7e8" },
-    { "name": "Dashoguz", "id": "a4b5c6d7e8f9" },
-    { "name": "Mary", "id": "b5c6d7e8f9a0" },
-    { "name": "Balkanabat", "id": "c6d7e8f9a0b1" },
-    { "name": "Tejen", "id": "d7e8f9a0b1c2" },
-    { "name": "Bayramaly", "id": "e8f9a0b1c2d3" },
-    { "name": "Turkmenbashi", "id": "f9a0b1c2d3e4" },
-    { "name": "Serdar", "id": "a0b1c2d3e4f5" },
-    { "name": "Gokdepe", "id": "b1c2d3e4f5a6" }
+    {
+      "name": "Ashgabat",
+      "id": "mFfbvVAdpCB1"
+    },
+    {
+      "name": "Turkmenabat",
+      "id": "uS74COUQPSrV"
+    },
+    {
+      "name": "Dashoguz",
+      "id": "49M1MJzYLgoS"
+    },
+    {
+      "name": "Mary",
+      "id": "2vwcw-QCP7wM"
+    },
+    {
+      "name": "Balkanabat",
+      "id": "K86Rt_lRsbSq"
+    },
+    {
+      "name": "Tejen",
+      "id": "nkqh5SARHBq9"
+    },
+    {
+      "name": "Bayramaly",
+      "id": "oaVJB1yxQiZ1"
+    },
+    {
+      "name": "Turkmenbashi",
+      "id": "DjFpXii1RjFx"
+    },
+    {
+      "name": "Serdar",
+      "id": "mTsZ7wmDrLAV"
+    },
+    {
+      "name": "Gokdepe",
+      "id": "srOyxKkJ-SHs"
+    }
   ]
 }

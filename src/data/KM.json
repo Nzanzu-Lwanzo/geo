@@ -1,15 +1,45 @@
 {
   "coid": "KM",
   "cities": [
-    { "name": "Moroni", "id": "e93d2b4e5f66" },
-    { "name": "Mutsamudu", "id": "f04e3c5f6a77" },
-    { "name": "Fomboni", "id": "a15f4d6a7b88" },
-    { "name": "Domoni", "id": "b26a5e7b8c99" },
-    { "name": "Sima", "id": "c37b6f8c9d10" },
-    { "name": "Ouani", "id": "d48c7a9d0e21" },
-    { "name": "Koni-Djodjo", "id": "e59d8b1e2f33" },
-    { "name": "Mirontsi", "id": "f60e9c2f3a44" },
-    { "name": "Itsandra", "id": "a71f0d3a4b55" },
-    { "name": "Mbeni", "id": "b82a1e4b5c66" }
+    {
+      "name": "Moroni",
+      "id": "ua_6nnjYQ6f3"
+    },
+    {
+      "name": "Mutsamudu",
+      "id": "oBXRGVHQdf7A"
+    },
+    {
+      "name": "Fomboni",
+      "id": "wg62bWEKoJ_M"
+    },
+    {
+      "name": "Domoni",
+      "id": "T8vQTVsSoT3L"
+    },
+    {
+      "name": "Sima",
+      "id": "0rMlnaMiPwVL"
+    },
+    {
+      "name": "Ouani",
+      "id": "WdWoUNSecceU"
+    },
+    {
+      "name": "Koni-Djodjo",
+      "id": "ZRjB6yy7UXAf"
+    },
+    {
+      "name": "Mirontsi",
+      "id": "j5enzmhNL9gi"
+    },
+    {
+      "name": "Itsandra",
+      "id": "qOSBHNe9rOYa"
+    },
+    {
+      "name": "Mbeni",
+      "id": "zZs-34-PjTzW"
+    }
   ]
 }

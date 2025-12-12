@@ -1,15 +1,45 @@
 {
   "coid": "GW",
   "cities": [
-    { "name": "Bissau", "id": "a93f2d5a6b87" },
-    { "name": "Bafatá", "id": "b04a3e6b7c98" },
-    { "name": "Gabú", "id": "c15b4f7c8d09" },
-    { "name": "Bissorã", "id": "d26c5a8d9e10" },
-    { "name": "Bolama", "id": "e37d6b9e0f21" },
-    { "name": "Cacheu", "id": "f48e7c0f1a32" },
-    { "name": "Canchungo", "id": "a59f8d1a2b43" },
-    { "name": "Farim", "id": "b60a9e2b3c54" },
-    { "name": "Quinhámel", "id": "c71b0f3c4d65" },
-    { "name": "Buba", "id": "d82c1a4d5e76" }
+    {
+      "name": "Bissau",
+      "id": "SMdXCDZjBd_M"
+    },
+    {
+      "name": "Bafatá",
+      "id": "jr9jy_XStd6q"
+    },
+    {
+      "name": "Gabú",
+      "id": "p_n41wYtQfoc"
+    },
+    {
+      "name": "Bissorã",
+      "id": "s5G-YobqsHlX"
+    },
+    {
+      "name": "Bolama",
+      "id": "EUWIqv9GysBu"
+    },
+    {
+      "name": "Cacheu",
+      "id": "6zhfCQC4mlut"
+    },
+    {
+      "name": "Canchungo",
+      "id": "9JF15BziLnM2"
+    },
+    {
+      "name": "Farim",
+      "id": "jxEjvyT0xqAD"
+    },
+    {
+      "name": "Quinhámel",
+      "id": "--iGB58vAa34"
+    },
+    {
+      "name": "Buba",
+      "id": "CiGDw_Gbx-9q"
+    }
   ]
 }

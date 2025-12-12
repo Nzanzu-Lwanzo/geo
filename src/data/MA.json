@@ -1,15 +1,193 @@
 {
   "coid": "MA",
   "cities": [
-    { "name": "Casablanca", "id": "a93f2d5a6b87" },
-    { "name": "Rabat", "id": "b04a3e6b7c98" },
-    { "name": "Fes", "id": "c15b4f7c8d09" },
-    { "name": "Marrakesh", "id": "d26c5a8d9e10" },
-    { "name": "Tangier", "id": "e37d6b9e0f21" },
-    { "name": "Agadir", "id": "f48e7c0f1a32" },
-    { "name": "Meknes", "id": "a59f8d1a2b43" },
-    { "name": "Oujda", "id": "b60a9e2b3c54" },
-    { "name": "Kenitra", "id": "c71b0f3c4d65" },
-    { "name": "Tetouan", "id": "d82c1a4d5e76" }
+    {
+      "name": "Afourer",
+      "id": "NV9ED08iSzom"
+    },
+    {
+      "name": "Agadir",
+      "id": "sjjwq05ibfai"
+    },
+    {
+      "name": "Ait Melloul",
+      "id": "Wu5KiW119EiG"
+    },
+    {
+      "name": "Al Hoceima",
+      "id": "jHB-i2_lVVIG"
+    },
+    {
+      "name": "Assa",
+      "id": "I17FAPlbYy6-"
+    },
+    {
+      "name": "Benguerir",
+      "id": "j58YN46JbqEc"
+    },
+    {
+      "name": "Beni Mellal",
+      "id": "5IvNj4mT0NcC"
+    },
+    {
+      "name": "Berrechid",
+      "id": "waW6VQbILyqr"
+    },
+    {
+      "name": "Casablanca",
+      "id": "zSUR25EB5Rbv"
+    },
+    {
+      "name": "Deroua",
+      "id": "r_G8LaZEBMbQ"
+    },
+    {
+      "name": "El Gara",
+      "id": "A49NwgPl2G4F"
+    },
+    {
+      "name": "El Hajeb",
+      "id": "aEifRCviCkY5"
+    },
+    {
+      "name": "El Jadida",
+      "id": "2SzfJ8OdYuvl"
+    },
+    {
+      "name": "Erfoud",
+      "id": "GyBHScvK_iyc"
+    },
+    {
+      "name": "Fes",
+      "id": "MipAueVZZaOC"
+    },
+    {
+      "name": "Fkih Ben Salah",
+      "id": "X-brfp3xDSTv"
+    },
+    {
+      "name": "Kenitra",
+      "id": "GdU67fSqa8zq"
+    },
+    {
+      "name": "Khemisset",
+      "id": "wlxj1bcv-uGh"
+    },
+    {
+      "name": "Khouribga",
+      "id": "N6lw16lz1l56"
+    },
+    {
+      "name": "Ksar el Kebir",
+      "id": "JBPnUHXN494v"
+    },
+    {
+      "name": "Larache",
+      "id": "9s-cDZGYt2F_"
+    },
+    {
+      "name": "Mansour",
+      "id": "60AfaZezoosa"
+    },
+    {
+      "name": "Marrakesh",
+      "id": "-Q1niT3iH4hy"
+    },
+    {
+      "name": "Mehediyah",
+      "id": "Z5yQH_DHUk3f"
+    },
+    {
+      "name": "Meknes",
+      "id": "s9OVAjdE5pg9"
+    },
+    {
+      "name": "Mohammedia",
+      "id": "1xMR47CyZO0h"
+    },
+    {
+      "name": "Nador",
+      "id": "ek0VymApGsim"
+    },
+    {
+      "name": "Ouazzane",
+      "id": "S7Rqkk1Ry8Vp"
+    },
+    {
+      "name": "Oued Zem",
+      "id": "cW7MiMJzaU9K"
+    },
+    {
+      "name": "Oujda",
+      "id": "X9lev23I-zm3"
+    },
+    {
+      "name": "Oulad Teima",
+      "id": "_SGCrh1hWax_"
+    },
+    {
+      "name": "Rabat",
+      "id": "6lEetPSKiIsm"
+    },
+    {
+      "name": "Safi",
+      "id": "n_EDlM0jvKyV"
+    },
+    {
+      "name": "Sefrou",
+      "id": "8qTv9658aRoJ"
+    },
+    {
+      "name": "Settat",
+      "id": "x5vtBuRUwL6U"
+    },
+    {
+      "name": "Sidi Bennour",
+      "id": "iCelAsN62BT6"
+    },
+    {
+      "name": "Sidi Slimane",
+      "id": "LKldal_s_5i8"
+    },
+    {
+      "name": "Skhirat",
+      "id": "1pskwasurAOA"
+    },
+    {
+      "name": "Tahala",
+      "id": "mR_Xey8xifEH"
+    },
+    {
+      "name": "Tan-Tan",
+      "id": "b32dDApo5ENZ"
+    },
+    {
+      "name": "Tangier",
+      "id": "1y1nfyqVRycf"
+    },
+    {
+      "name": "Tarfaya",
+      "id": "PBccjk1A4W8N"
+    },
+    {
+      "name": "Taza",
+      "id": "a_jsob3HMTS3"
+    },
+    {
+      "name": "Temara",
+      "id": "0_j-X351xHHM"
+    },
+    {
+      "name": "Tiflet",
+      "id": "hJB4mM_fYCrH"
+    },
+    {
+      "name": "Tiznit",
+      "id": "z9SLNF1SZ6-l"
+    },
+    {
+      "name": "Touissite",
+      "id": "v8uRKGmsU0nF"
+    }
   ]
 }

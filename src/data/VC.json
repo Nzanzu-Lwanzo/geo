@@ -1,15 +1,45 @@
 {
   "coid": "VC",
   "cities": [
-    { "name": "Kingstown", "id": "a4b5c6d7e8f9" },
-    { "name": "Georgetown", "id": "b5c6d7e8f9a1" },
-    { "name": "Barrouallie", "id": "c6d7e8f9a1b2" },
-    { "name": "Calliaqua", "id": "d7e8f9a1b2c3" },
-    { "name": "Layou", "id": "e8f9a1b2c3d4" },
-    { "name": "Chateaubelair", "id": "f9a1b2c3d4e5" },
-    { "name": "Bequia", "id": "a1b2c3d4e6f7" },
-    { "name": "Canouan", "id": "b2c3d4e5f6a8" },
-    { "name": "Union Island", "id": "c3d4e5f6a7b9" },
-    { "name": "Petit Bordel", "id": "d4e5f6a7b8c0" }
+    {
+      "name": "Kingstown",
+      "id": "oRVdpdJRpPjl"
+    },
+    {
+      "name": "Georgetown",
+      "id": "jPV5pZVXONwG"
+    },
+    {
+      "name": "Barrouallie",
+      "id": "e4YQMYLFE7iF"
+    },
+    {
+      "name": "Calliaqua",
+      "id": "_lt-EuHTDyXY"
+    },
+    {
+      "name": "Layou",
+      "id": "7o7woFMMKBQ8"
+    },
+    {
+      "name": "Chateaubelair",
+      "id": "zLftLgMkQbqN"
+    },
+    {
+      "name": "Bequia",
+      "id": "daqVqXeQ_tpX"
+    },
+    {
+      "name": "Canouan",
+      "id": "OdomuSuEj1hX"
+    },
+    {
+      "name": "Union Island",
+      "id": "12BkGR9U_P1k"
+    },
+    {
+      "name": "Petit Bordel",
+      "id": "lK2eZ_5aVefP"
+    }
   ]
 }

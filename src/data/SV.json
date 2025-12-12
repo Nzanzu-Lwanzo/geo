@@ -1,15 +1,125 @@
 {
   "coid": "SV",
   "cities": [
-    { "name": "San Salvador", "id": "a83f1d2b4c65" },
-    { "name": "Santa Ana", "id": "b94a2e3c5d76" },
-    { "name": "San Miguel", "id": "c15b3f4d6e87" },
-    { "name": "Soyapango", "id": "d26c4a5e7f98" },
-    { "name": "Mejicanos", "id": "e37d5b6f8a09" },
-    { "name": "Apopa", "id": "f48e6c7a9b10" },
-    { "name": "Delgado", "id": "a59f7d8b0c21" },
-    { "name": "Ahuachapán", "id": "b60a8e9c1d32" },
-    { "name": "Ilopango", "id": "c71b9f0d2e43" },
-    { "name": "Usulután", "id": "d82c1a3d4e55" }
+    {
+      "name": "Ahuachapan",
+      "id": "yVEbnbuAc1gt"
+    },
+    {
+      "name": "Antiguo Cuscatlan",
+      "id": "_NFRjFLz_moE"
+    },
+    {
+      "name": "Apaneca",
+      "id": "PabPxVl86ewv"
+    },
+    {
+      "name": "Apopa",
+      "id": "xtI9CcFcxNQp"
+    },
+    {
+      "name": "Ayutuxtepeque",
+      "id": "O-6fVDCP5UPK"
+    },
+    {
+      "name": "Botoncillal El Botoncillo",
+      "id": "VPzfx6GIVjU4"
+    },
+    {
+      "name": "Coatepeque",
+      "id": "NnP1mVVca1lD"
+    },
+    {
+      "name": "Colon",
+      "id": "Q80E342LI1ZK"
+    },
+    {
+      "name": "Colonia Escalon",
+      "id": "OiLpp0n3xOnz"
+    },
+    {
+      "name": "Cuscatancingo",
+      "id": "vHtU_VhkPNHh"
+    },
+    {
+      "name": "Delgado",
+      "id": "TnopVu5DLuKS"
+    },
+    {
+      "name": "Gigante",
+      "id": "pJvgrG-YHVfS"
+    },
+    {
+      "name": "Guazapa",
+      "id": "fLMhTNdZlKyo"
+    },
+    {
+      "name": "Ilopango",
+      "id": "VVAvREBKG613"
+    },
+    {
+      "name": "La Libertad",
+      "id": "rCrnTarYWHpo"
+    },
+    {
+      "name": "Lourdes",
+      "id": "yaJa7YsdSnYp"
+    },
+    {
+      "name": "Mejicanos",
+      "id": "JIC-eBxmGIY4"
+    },
+    {
+      "name": "Nuevo Cuscatlan",
+      "id": "0mKaNPY_EgUe"
+    },
+    {
+      "name": "Ozatlan",
+      "id": "dqEc7KOHQeOA"
+    },
+    {
+      "name": "San Jose Villanueva",
+      "id": "El9kTAeodB3x"
+    },
+    {
+      "name": "San Marcos",
+      "id": "eoCvbW7WylOM"
+    },
+    {
+      "name": "San Miguel",
+      "id": "vqHPq5lIZcnz"
+    },
+    {
+      "name": "San Salvador",
+      "id": "nsMSiG2hvwkm"
+    },
+    {
+      "name": "Santa Ana",
+      "id": "0ExAJCPufnDQ"
+    },
+    {
+      "name": "Santa Tecla",
+      "id": "g-lKRyrFrUNL"
+    },
+    {
+      "name": "Santiago Texacuangos",
+      "id": "fJT8rN9sentB"
+    },
+    {
+      "name": "Sonsonate",
+      "id": "7QPL9uBcpkUu"
+    },
+    {
+      "name": "Soyapango",
+      "id": "PwDx07e5cs2w"
+    },
+    {
+      "name": "Usulutan",
+      "id": "zlPIDcabN-lA"
+    },
+    {
+      "name": "Zaragoza",
+      "id": "s42iMTHUoIIy"
+    }
   ]
 }

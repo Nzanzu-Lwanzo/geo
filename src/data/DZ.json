@@ -1,15 +1,133 @@
 {
   "coid": "DZ",
   "cities": [
-    { "name": "Algiers", "id": "d72e9c1a3b54" },
-    { "name": "Oran", "id": "e83f1d2b4c65" },
-    { "name": "Constantine", "id": "f94a2e3c5d76" },
-    { "name": "Annaba", "id": "a15b3f4d6e87" },
-    { "name": "Blida", "id": "b26c4a5e7f98" },
-    { "name": "Batna", "id": "c37d5b6f8a09" },
-    { "name": "Sétif", "id": "d48e6c7a9b10" },
-    { "name": "Sidi Bel Abbès", "id": "e59f7d8b0c21" },
-    { "name": "Tlemcen", "id": "f60a8e9c1d32" },
-    { "name": "Béjaïa", "id": "a71b9f0d2e43" }
+    {
+      "name": "Algiers",
+      "id": "2noeMlyrFKQa"
+    },
+    {
+      "name": "Annaba",
+      "id": "_lFLKR8geKy9"
+    },
+    {
+      "name": "Azazga",
+      "id": "D8b6KsRMP8Gw"
+    },
+    {
+      "name": "Batna City",
+      "id": "r74KDRdi9rz4"
+    },
+    {
+      "name": "Blida",
+      "id": "UHkVL9e-LoxX"
+    },
+    {
+      "name": "Bordj",
+      "id": "QR3KC2Mvck1F"
+    },
+    {
+      "name": "Bordj Bou Arreridj",
+      "id": "_CTwLYL5aMpo"
+    },
+    {
+      "name": "Bougara",
+      "id": "4FkIV9BQnLuz"
+    },
+    {
+      "name": "Cheraga",
+      "id": "37C0l2MZrQlJ"
+    },
+    {
+      "name": "Chlef",
+      "id": "MoDYiCz6sjU-"
+    },
+    {
+      "name": "Constantine",
+      "id": "Xm1a371v9rP2"
+    },
+    {
+      "name": "Djelfa",
+      "id": "ORGJd4rBlcbh"
+    },
+    {
+      "name": "Draria",
+      "id": "bu3oxlS1fCK3"
+    },
+    {
+      "name": "El Tarf",
+      "id": "hIiByMtH3RG3"
+    },
+    {
+      "name": "Hussein Dey",
+      "id": "oZqQ80BTRsIN"
+    },
+    {
+      "name": "Illizi",
+      "id": "nay71Fvc9HHF"
+    },
+    {
+      "name": "Jijel",
+      "id": "ktwpCk2qn25P"
+    },
+    {
+      "name": "Kouba",
+      "id": "hqrHRgwItGzA"
+    },
+    {
+      "name": "Laghouat",
+      "id": "m8sz8Q0S5YLn"
+    },
+    {
+      "name": "Oran",
+      "id": "F6s823XaXM2i"
+    },
+    {
+      "name": "Ouargla",
+      "id": "ynYBtKmhBVdn"
+    },
+    {
+      "name": "Oued Smar",
+      "id": "BrY76JpNU9q2"
+    },
+    {
+      "name": "Relizane",
+      "id": "0H43GyPZfFAs"
+    },
+    {
+      "name": "Rouiba",
+      "id": "7XbM_1BvcgFw"
+    },
+    {
+      "name": "Saida",
+      "id": "ANkd5IY_2icz"
+    },
+    {
+      "name": "Souk Ahras",
+      "id": "hwE8_B6YhNwp"
+    },
+    {
+      "name": "Tamanghasset",
+      "id": "DC851SusULg9"
+    },
+    {
+      "name": "Tiaret",
+      "id": "1kFMZb-ratje"
+    },
+    {
+      "name": "Tissemsilt",
+      "id": "JqG_sbiHtHYr"
+    },
+    {
+      "name": "Tizi",
+      "id": "8cEBZVbMWE0P"
+    },
+    {
+      "name": "Tizi Ouzou",
+      "id": "SWOHGLISHoHA"
+    },
+    {
+      "name": "Tlemcen",
+      "id": "ewMKxFgd1qm7"
+    }
   ]
 }

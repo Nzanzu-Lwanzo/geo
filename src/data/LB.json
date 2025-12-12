@@ -1,15 +1,77 @@
 {
   "coid": "LB",
   "cities": [
-    { "name": "Beirut", "id": "e93d2b4e5f66" },
-    { "name": "Tripoli", "id": "f04e3c5f6a77" },
-    { "name": "Sidon", "id": "a15f4d6a7b88" },
-    { "name": "Tyre", "id": "b26a5e7b8c99" },
-    { "name": "Byblos", "id": "c37b6f8c9d10" },
-    { "name": "Zahle", "id": "d48c7a9d0e21" },
-    { "name": "Baabda", "id": "e59d8b1e2f33" },
-    { "name": "Jounieh", "id": "f60e9c2f3a44" },
-    { "name": "Baalbek", "id": "a71f0d3a4b55" },
-    { "name": "Aley", "id": "b82a1e4b5c66" }
+    {
+      "name": "Aaley",
+      "id": "KnHLs0jV7Zd-"
+    },
+    {
+      "name": "Adma",
+      "id": "56OQY7ZNAMmL"
+    },
+    {
+      "name": "Ashrafiye",
+      "id": "oAF5XgX_1Gjf"
+    },
+    {
+      "name": "Baabda",
+      "id": "hS3_g9SDKSkn"
+    },
+    {
+      "name": "Baalbek",
+      "id": "Yu7TxIyzaDmP"
+    },
+    {
+      "name": "Beirut",
+      "id": "CZyhjZbwb8zv"
+    },
+    {
+      "name": "Broummana",
+      "id": "ynt3Kwd2I5wT"
+    },
+    {
+      "name": "Bsalim",
+      "id": "X1WzoIHS8mYo"
+    },
+    {
+      "name": "Chekka",
+      "id": "wWt2S52mD1yQ"
+    },
+    {
+      "name": "Dbaiye",
+      "id": "us3QSx3YqQiA"
+    },
+    {
+      "name": "Dik el Mehdi",
+      "id": "L6Su6YZ_7wDo"
+    },
+    {
+      "name": "Halba",
+      "id": "SRdvbjyCnkhO"
+    },
+    {
+      "name": "Hboub",
+      "id": "3yfFtQ3M_N9e"
+    },
+    {
+      "name": "Sarba",
+      "id": "XB0_u6YQ5oQ1"
+    },
+    {
+      "name": "Sidon",
+      "id": "n9tABpNf2wam"
+    },
+    {
+      "name": "Tripoli",
+      "id": "pT6J5cZ3tmAP"
+    },
+    {
+      "name": "Yanar",
+      "id": "jJ1CEBGe_12f"
+    },
+    {
+      "name": "Zgharta",
+      "id": "iK6o9h1i9J0U"
+    }
   ]
 }

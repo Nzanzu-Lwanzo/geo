@@ -1,15 +1,285 @@
 {
   "coid": "PK",
   "cities": [
-    { "name": "Karachi", "id": "a93f2d5a6b87" },
-    { "name": "Lahore", "id": "b04a3e6b7c98" },
-    { "name": "Faisalabad", "id": "c15b4f7c8d09" },
-    { "name": "Rawalpindi", "id": "d26c5a8d9e10" },
-    { "name": "Islamabad", "id": "e37d6b9e0f21" },
-    { "name": "Multan", "id": "f48e7c0f1a32" },
-    { "name": "Peshawar", "id": "a59f8d1a2b43" },
-    { "name": "Quetta", "id": "b60a9e2b3c54" },
-    { "name": "Sialkot", "id": "c71b0f3c4d65" },
-    { "name": "Hyderabad", "id": "d82c1a4d5e76" }
+    {
+      "name": "Abbottabad",
+      "id": "6Z-kA1q3ld-n"
+    },
+    {
+      "name": "Attock",
+      "id": "q88OxrOqKfE0"
+    },
+    {
+      "name": "Batgram",
+      "id": "kpC_VjjUM1ik"
+    },
+    {
+      "name": "Bhimbar",
+      "id": "Gg9yUQHx5G8J"
+    },
+    {
+      "name": "Burewala",
+      "id": "2bK1KvDdJcZQ"
+    },
+    {
+      "name": "Cantt",
+      "id": "9MtyRV7a3tDs"
+    },
+    {
+      "name": "Chakwal",
+      "id": "zrEdnE2sSmje"
+    },
+    {
+      "name": "Clifton",
+      "id": "vrg01VTgT19e"
+    },
+    {
+      "name": "Daska",
+      "id": "6WZYDVVtRDe5"
+    },
+    {
+      "name": "Daud Khel",
+      "id": "CpHV9fzOQW0p"
+    },
+    {
+      "name": "Dera Ghazi Khan",
+      "id": "MZHkVGY6i3zn"
+    },
+    {
+      "name": "Faisalabad",
+      "id": "XtP4kA02o3IQ"
+    },
+    {
+      "name": "Fazal",
+      "id": "MTea_SiHKotD"
+    },
+    {
+      "name": "Gilgit",
+      "id": "3tbM6DyVzka2"
+    },
+    {
+      "name": "Goth Abad Magsi",
+      "id": "eo4_0F-k4puX"
+    },
+    {
+      "name": "Gujar Khan",
+      "id": "Y258SNqxH0XS"
+    },
+    {
+      "name": "Gujranwala",
+      "id": "F-IbyD8KxTjA"
+    },
+    {
+      "name": "Gujrat",
+      "id": "2oF7-K1kKVbw"
+    },
+    {
+      "name": "Gulberg",
+      "id": "67hO3A1yNjnw"
+    },
+    {
+      "name": "Gulshan-e-Iqbal",
+      "id": "RrOTndehB9n6"
+    },
+    {
+      "name": "Habib Baihk",
+      "id": "zDl3W4oK8c5Y"
+    },
+    {
+      "name": "Haripur",
+      "id": "uZpnKuqHSa1r"
+    },
+    {
+      "name": "Havelian",
+      "id": "uee-UY6Z5PIA"
+    },
+    {
+      "name": "Hyderabad",
+      "id": "1O8JgEYzNAX4"
+    },
+    {
+      "name": "Islamabad",
+      "id": "Dcb8bRQ5iqdB"
+    },
+    {
+      "name": "Jhang City",
+      "id": "X0LraIpvUWxv"
+    },
+    {
+      "name": "Jhang Sadr",
+      "id": "259arxqKiSSz"
+    },
+    {
+      "name": "Jhelum",
+      "id": "do4QDK5as41Z"
+    },
+    {
+      "name": "Jhumra",
+      "id": "8NU-v4TFnSy1"
+    },
+    {
+      "name": "Kabirwala",
+      "id": "nNDP3_juE_Ef"
+    },
+    {
+      "name": "Karachi",
+      "id": "Xsm2pGvue8yl"
+    },
+    {
+      "name": "Kasur",
+      "id": "te1CspzFgVI3"
+    },
+    {
+      "name": "Khan",
+      "id": "XRbGGypcfxyh"
+    },
+    {
+      "name": "Khanewal",
+      "id": "Z3fbl4jbM-xo"
+    },
+    {
+      "name": "Khanpur",
+      "id": "1YVHainPKxAt"
+    },
+    {
+      "name": "Kohat",
+      "id": "hUTMSOX3RXYq"
+    },
+    {
+      "name": "Lahore",
+      "id": "5ACAA_eE6xrw"
+    },
+    {
+      "name": "Mandi",
+      "id": "zjxCdapEHTIq"
+    },
+    {
+      "name": "Mandi Bahauddin",
+      "id": "ZKDUOZ6N7q7Z"
+    },
+    {
+      "name": "Mansehra",
+      "id": "_UBr7wYw0l2J"
+    },
+    {
+      "name": "Mardan",
+      "id": "2vM3AcoMha0O"
+    },
+    {
+      "name": "Mian Channu",
+      "id": "G9AE7ksoCyA6"
+    },
+    {
+      "name": "Mianwali",
+      "id": "fjeUmG14XFS6"
+    },
+    {
+      "name": "Miran Shah",
+      "id": "MZqVUUrnMlv3"
+    },
+    {
+      "name": "Multan",
+      "id": "LxJ-8lsKdAcb"
+    },
+    {
+      "name": "Muzaffarabad",
+      "id": "gwWlU9Q3PlZI"
+    },
+    {
+      "name": "Nangar",
+      "id": "uXi5MJrY8ArN"
+    },
+    {
+      "name": "Nankana Sahib",
+      "id": "dHNXZ_K0e-qy"
+    },
+    {
+      "name": "Narowal",
+      "id": "Qz9MI063ULC-"
+    },
+    {
+      "name": "New Mirpur",
+      "id": "5TgWRczYBfDb"
+    },
+    {
+      "name": "Nowshera",
+      "id": "2KCi6XTb2bHc"
+    },
+    {
+      "name": "Okara",
+      "id": "96c3iwfzxhPc"
+    },
+    {
+      "name": "Peshawar",
+      "id": "067xIlSIfYgV"
+    },
+    {
+      "name": "Pindi",
+      "id": "09H1Q9JWCSUq"
+    },
+    {
+      "name": "Plot",
+      "id": "UcFyrdu8QVni"
+    },
+    {
+      "name": "Quetta",
+      "id": "WeA8VTd7Njtl"
+    },
+    {
+      "name": "Rawalpindi",
+      "id": "gUPaEXInDG02"
+    },
+    {
+      "name": "Rawlakot",
+      "id": "I7tGQfEN6q7m"
+    },
+    {
+      "name": "Saddar",
+      "id": "GQe86liKYCEq"
+    },
+    {
+      "name": "Sahiwal",
+      "id": "HlpVGkjsUkDM"
+    },
+    {
+      "name": "Sarai Sidhu",
+      "id": "aJChU-UDhlne"
+    },
+    {
+      "name": "Sargodha",
+      "id": "tTrvRUdQjqpn"
+    },
+    {
+      "name": "Sarwar",
+      "id": "oANsbLOdXH3i"
+    },
+    {
+      "name": "Sheikhupura",
+      "id": "TVHcSsYwcM_1"
+    },
+    {
+      "name": "Sialkot",
+      "id": "59cFS4V2w0yv"
+    },
+    {
+      "name": "Sukkur",
+      "id": "SRlDDh0E3hbN"
+    },
+    {
+      "name": "Toba Tek Singh",
+      "id": "A0J43FpDcfVk"
+    },
+    {
+      "name": "Usman",
+      "id": "U8TrynK9f5wX"
+    },
+    {
+      "name": "Wazirabad",
+      "id": "aYhQ26zSeUw9"
+    },
+    {
+      "name": "Ziauddin",
+      "id": "Pk82BA-8dk_U"
+    }
   ]
 }

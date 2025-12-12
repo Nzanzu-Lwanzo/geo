@@ -1,15 +1,45 @@
 {
   "coid": "TJ",
   "cities": [
-    { "name": "Dushanbe", "id": "c2d3e4f5a6b7" },
-    { "name": "Khujand", "id": "d3e4f5a6b7c8" },
-    { "name": "Kulob", "id": "e4f5a6b7c8d9" },
-    { "name": "Khorugh", "id": "f5a6b7c8d9e0" },
-    { "name": "Istaravshan", "id": "a6b7c8d9e0f1" },
-    { "name": "Tursunzoda", "id": "b7c8d9e0f1a2" },
-    { "name": "Vahdat", "id": "c8d9e0f1a2b3" },
-    { "name": "Isfara", "id": "d9e0f1a2b3c4" },
-    { "name": "Panjakent", "id": "e0f1a2b3c4d5" },
-    { "name": "Konibodom", "id": "f1a2b3c4d5e6" }
+    {
+      "name": "Dushanbe",
+      "id": "w9CDDBLNozs6"
+    },
+    {
+      "name": "Khujand",
+      "id": "9HqU1hRUnVKX"
+    },
+    {
+      "name": "Kulob",
+      "id": "LLbZMaUla2bA"
+    },
+    {
+      "name": "Khorugh",
+      "id": "2YIjpE9-CKIg"
+    },
+    {
+      "name": "Istaravshan",
+      "id": "QSx2htlvsbsM"
+    },
+    {
+      "name": "Tursunzoda",
+      "id": "b3p0rklwJevm"
+    },
+    {
+      "name": "Vahdat",
+      "id": "OyrxWXLJ5Uki"
+    },
+    {
+      "name": "Isfara",
+      "id": "J7e7TnoQNill"
+    },
+    {
+      "name": "Panjakent",
+      "id": "XIJ-6h8hnKIw"
+    },
+    {
+      "name": "Konibodom",
+      "id": "o4glpAbSzRjU"
+    }
   ]
 }

@@ -1,15 +1,105 @@
 {
   "coid": "CY",
   "cities": [
-    { "name": "Nicosia", "id": "e93d2b4e5f66" },
-    { "name": "Limassol", "id": "f04e3c5f6a77" },
-    { "name": "Larnaca", "id": "a15f4d6a7b88" },
-    { "name": "Famagusta", "id": "b26a5e7b8c99" },
-    { "name": "Paphos", "id": "c37b6f8c9d10" },
-    { "name": "Kyrenia", "id": "d48c7a9d0e21" },
-    { "name": "Morphou", "id": "e59d8b1e2f33" },
-    { "name": "Aradippou", "id": "f60e9c2f3a44" },
-    { "name": "Paralimni", "id": "a71f0d3a4b55" },
-    { "name": "Strovolos", "id": "b82a1e4b5c66" }
+    {
+      "name": "Agia Anna",
+      "id": "2Ac-BYexKUm3"
+    },
+    {
+      "name": "Aradippou",
+      "id": "ChN27QL7ZYcb"
+    },
+    {
+      "name": "Ayia Marina",
+      "id": "lBWteiz4oJfb"
+    },
+    {
+      "name": "Chlorakas",
+      "id": "mVdAQwjeq2_x"
+    },
+    {
+      "name": "Deryneia",
+      "id": "F9hT3_cuHjoO"
+    },
+    {
+      "name": "Famagusta",
+      "id": "4-HeOEUvzZgE"
+    },
+    {
+      "name": "Geroskipou",
+      "id": "ZS8_TE6HTuHl"
+    },
+    {
+      "name": "Kato Lakatamia",
+      "id": "XNCW2o4gqofe"
+    },
+    {
+      "name": "Kato Polemidia",
+      "id": "44UWbozwlwzK"
+    },
+    {
+      "name": "Kiti",
+      "id": "udth_EVR6dCr"
+    },
+    {
+      "name": "Kyrenia",
+      "id": "6DL6kW3cRJ6Z"
+    },
+    {
+      "name": "Larnaca",
+      "id": "2yS2gM--YuRg"
+    },
+    {
+      "name": "Laxia",
+      "id": "wAZY5ocKV3rX"
+    },
+    {
+      "name": "Limassol",
+      "id": "sPLjweoz2_6c"
+    },
+    {
+      "name": "Livadia",
+      "id": "On7Gw1Pxl8H-"
+    },
+    {
+      "name": "Morfou",
+      "id": "KeNykj0HRTut"
+    },
+    {
+      "name": "Mouttagiaka",
+      "id": "UPhMRGKfcf1W"
+    },
+    {
+      "name": "Nicosia",
+      "id": "R4sTdQ6Nt1_n"
+    },
+    {
+      "name": "Paphos",
+      "id": "whPKxTZH8Pcd"
+    },
+    {
+      "name": "Paralimni",
+      "id": "ChAFY584RLck"
+    },
+    {
+      "name": "Parekklisha",
+      "id": "GTwmu4XmJsr-"
+    },
+    {
+      "name": "Prodromi",
+      "id": "vRj2BGe3PFke"
+    },
+    {
+      "name": "Sotira",
+      "id": "t6K3Wl6gCipg"
+    },
+    {
+      "name": "Strovolos",
+      "id": "SrJLWHyjReIt"
+    },
+    {
+      "name": "Tera",
+      "id": "YVBHjSXv3IRh"
+    }
   ]
 }

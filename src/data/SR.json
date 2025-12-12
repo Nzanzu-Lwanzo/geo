@@ -1,15 +1,41 @@
 {
   "coid": "SR",
   "cities": [
-    { "name": "Paramaribo", "id": "a1b2c3d4e5f6" },
-    { "name": "Lelydorp", "id": "b2c3d4e5f6a7" },
-    { "name": "Nieuw Nickerie", "id": "c3d4e5f6a7b8" },
-    { "name": "Moengo", "id": "d4e5f6a7b8c9" },
-    { "name": "Albina", "id": "e5f6a7b8c9d0" },
-    { "name": "Wageningen", "id": "f6a7b8c9d0e1" },
-    { "name": "Commewijne", "id": "a7b8c9d0e1f2" },
-    { "name": "Brokopondo", "id": "b7c8d9e0f1a3" },
-    { "name": "Marowijne", "id": "c8d9e0f1a2b4" },
-    { "name": "Saramacca", "id": "d9e0f1a2b3c5" }
+    {
+      "name": "Botopasi",
+      "id": "5YK37GCkSh2D"
+    },
+    {
+      "name": "Brownsweg",
+      "id": "kbjvdWTuHx5l"
+    },
+    {
+      "name": "Friendship",
+      "id": "lJousL-fsyNx"
+    },
+    {
+      "name": "Groningen",
+      "id": "pQgOm47Br4qo"
+    },
+    {
+      "name": "Moengo",
+      "id": "vhnREvJPNJyk"
+    },
+    {
+      "name": "Nieuw Amsterdam",
+      "id": "e4i0VgV0JrSt"
+    },
+    {
+      "name": "Onverwacht",
+      "id": "fkrwEcMjy_Rb"
+    },
+    {
+      "name": "Paramaribo",
+      "id": "z_00PaW9uM_G"
+    },
+    {
+      "name": "Totness",
+      "id": "_Hi61CgBG1MF"
+    }
   ]
 }

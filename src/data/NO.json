@@ -1,15 +1,3537 @@
 {
   "coid": "NO",
   "cities": [
-    { "name": "Oslo", "id": "e93d2b4e5f66" },
-    { "name": "Bergen", "id": "f04e3c5f6a77" },
-    { "name": "Trondheim", "id": "a15f4d6a7b88" },
-    { "name": "Stavanger", "id": "b26a5e7b8c99" },
-    { "name": "Drammen", "id": "c37b6f8c9d10" },
-    { "name": "Fredrikstad", "id": "d48c7a9d0e21" },
-    { "name": "Kristiansand", "id": "e59d8b1e2f33" },
-    { "name": "Tromsø", "id": "f60e9c2f3a44" },
-    { "name": "Sandnes", "id": "a71f0d3a4b55" },
-    { "name": "Sarpsborg", "id": "b82a1e4b5c66" }
+    {
+      "name": "Abelvaer",
+      "id": "Ti3gpL0A2_Mq"
+    },
+    {
+      "name": "Adalsbruk",
+      "id": "_IvzE8vv40dP"
+    },
+    {
+      "name": "Adland",
+      "id": "8ZZEgKApLHNC"
+    },
+    {
+      "name": "Agotnes",
+      "id": "LkN2CF6wtB_j"
+    },
+    {
+      "name": "Agskardet",
+      "id": "pS2tEwJ51hoU"
+    },
+    {
+      "name": "Aker",
+      "id": "LsueplOzX_nE"
+    },
+    {
+      "name": "Akkarfjord",
+      "id": "cmmiK8KDxPE7"
+    },
+    {
+      "name": "Akrehamn",
+      "id": "NbGTb1YaoxOf"
+    },
+    {
+      "name": "Al",
+      "id": "0uJNDVH1kmI0"
+    },
+    {
+      "name": "Alen",
+      "id": "22FH8nU3k7kV"
+    },
+    {
+      "name": "Algard",
+      "id": "xbGjnu50O59-"
+    },
+    {
+      "name": "Almas",
+      "id": "BjyGxNiXZ6YD"
+    },
+    {
+      "name": "Alta",
+      "id": "0iwZS70sgYnj"
+    },
+    {
+      "name": "Alvdal",
+      "id": "dHEY1vNm3kz2"
+    },
+    {
+      "name": "Amli",
+      "id": "w0cfE_ifbRvk"
+    },
+    {
+      "name": "Amot",
+      "id": "U1REPNpm1Qj2"
+    },
+    {
+      "name": "Ana-Sira",
+      "id": "juizc7ycCVkK"
+    },
+    {
+      "name": "Andalsnes",
+      "id": "p1BcpnMGW8jU"
+    },
+    {
+      "name": "Andenes",
+      "id": "9LeGaEpkCWI-"
+    },
+    {
+      "name": "Angvika",
+      "id": "g6wPoIKY8w3Q"
+    },
+    {
+      "name": "Ankenes",
+      "id": "dTXNSavivGin"
+    },
+    {
+      "name": "Annstad",
+      "id": "Fl331RU8f9FI"
+    },
+    {
+      "name": "Ardal",
+      "id": "3hgu-S2oCYsW"
+    },
+    {
+      "name": "Ardalstangen",
+      "id": "Vr-c4Fe5QHb7"
+    },
+    {
+      "name": "Arendal",
+      "id": "fy5l_sfI5pNK"
+    },
+    {
+      "name": "Arland",
+      "id": "m7uxt-d2v5cR"
+    },
+    {
+      "name": "Arneberg",
+      "id": "Gl-ik8ug2thD"
+    },
+    {
+      "name": "Arnes",
+      "id": "RPd8qgZWOJcS"
+    },
+    {
+      "name": "Aros",
+      "id": "3n8sTpaEVlWw"
+    },
+    {
+      "name": "As",
+      "id": "8S2t9ZqEJquU"
+    },
+    {
+      "name": "Asen",
+      "id": "7lnyKWkGLRQG"
+    },
+    {
+      "name": "Aseral",
+      "id": "jK6CWL8erT9E"
+    },
+    {
+      "name": "Asgardstrand",
+      "id": "-MbJO_lcJGSJ"
+    },
+    {
+      "name": "Ask",
+      "id": "5rCO6QSCGWAf"
+    },
+    {
+      "name": "Asker",
+      "id": "bIcrJ4WvL-sU"
+    },
+    {
+      "name": "Askim",
+      "id": "uBLPM-lUBo9_"
+    },
+    {
+      "name": "Aukra",
+      "id": "hOTFC60wvWgW"
+    },
+    {
+      "name": "Auli",
+      "id": "f0Ik9SgyT9vD"
+    },
+    {
+      "name": "Aurdal",
+      "id": "6Q0QLqLQ_2bX"
+    },
+    {
+      "name": "Aure",
+      "id": "2QQnERPwir3D"
+    },
+    {
+      "name": "Aursmoen",
+      "id": "4vMdZ8xPVcDZ"
+    },
+    {
+      "name": "Austbo",
+      "id": "Lipa6OGCeV3J"
+    },
+    {
+      "name": "Austbygdi",
+      "id": "qxM6HaACV66k"
+    },
+    {
+      "name": "Austevoll",
+      "id": "pZ_atjfDa1hc"
+    },
+    {
+      "name": "Austmarka",
+      "id": "JT8p6fGtaSLI"
+    },
+    {
+      "name": "Baerums verk",
+      "id": "_SKoJjouzhlW"
+    },
+    {
+      "name": "Bagn",
+      "id": "spZnVMAZ2sVQ"
+    },
+    {
+      "name": "Balestrand",
+      "id": "icKi2KUITd6J"
+    },
+    {
+      "name": "Ballangen",
+      "id": "9IvnvIxzO2pg"
+    },
+    {
+      "name": "Ballstad",
+      "id": "ueVvNCUeTByQ"
+    },
+    {
+      "name": "Bangsund",
+      "id": "57-9b7JeoGgr"
+    },
+    {
+      "name": "Barkaker",
+      "id": "7BGrvYFUpmj0"
+    },
+    {
+      "name": "Barstadvik",
+      "id": "Y1Z0dSt-JIed"
+    },
+    {
+      "name": "Batnfjordsora",
+      "id": "OhzJH-dEXzfv"
+    },
+    {
+      "name": "Batsto",
+      "id": "gMPUvcUR9e1V"
+    },
+    {
+      "name": "Beisfjord",
+      "id": "bRjhC1IgF5SA"
+    },
+    {
+      "name": "Beitostolen",
+      "id": "65Mq4PPGHois"
+    },
+    {
+      "name": "Bekkjarvik",
+      "id": "cT2zeR2AgrkG"
+    },
+    {
+      "name": "Berge",
+      "id": "OSZurNM5DbGX"
+    },
+    {
+      "name": "Bergen",
+      "id": "5VqAp1lOuAAb"
+    },
+    {
+      "name": "Berger",
+      "id": "4gee_Jhqvf7O"
+    },
+    {
+      "name": "Berkak",
+      "id": "sCg8yi0BhC0-"
+    },
+    {
+      "name": "Birkeland",
+      "id": "0l9D3G4801F2"
+    },
+    {
+      "name": "Birtavarre",
+      "id": "4DxL64jNVLaL"
+    },
+    {
+      "name": "Bjaland",
+      "id": "kwPBOtY-Ctps"
+    },
+    {
+      "name": "Bjerka",
+      "id": "WLsGgNPIkYsk"
+    },
+    {
+      "name": "Bjerkvik",
+      "id": "64M-hKRc1OWL"
+    },
+    {
+      "name": "Bjoneroa",
+      "id": "2ckLn65fxA5I"
+    },
+    {
+      "name": "Bjordal",
+      "id": "Y1AQGKDI2JGW"
+    },
+    {
+      "name": "Bjorke",
+      "id": "VtevWWY4iyrP"
+    },
+    {
+      "name": "Bjorkelangen",
+      "id": "iwQvi4zZiBXU"
+    },
+    {
+      "name": "Bjornevatn",
+      "id": "3TAYnjnGzRK7"
+    },
+    {
+      "name": "Blaker",
+      "id": "6bvv-fvxe5aS"
+    },
+    {
+      "name": "Blakset",
+      "id": "D35pchQ5hL8s"
+    },
+    {
+      "name": "Bleikvasslia",
+      "id": "4K-PUSM2_FJV"
+    },
+    {
+      "name": "Bo",
+      "id": "PKV7S1Lo7LrR"
+    },
+    {
+      "name": "Bomlo",
+      "id": "rEIkPhHVkGD9"
+    },
+    {
+      "name": "Bones",
+      "id": "rot-c_BBHLPY"
+    },
+    {
+      "name": "Borge",
+      "id": "sjM0sgqgw06U"
+    },
+    {
+      "name": "Borgen",
+      "id": "HeoBpF7Dlob9"
+    },
+    {
+      "name": "Borhaug",
+      "id": "fBX9boahaSoR"
+    },
+    {
+      "name": "Borkenes",
+      "id": "0waHFlk6T6ir"
+    },
+    {
+      "name": "Borregard",
+      "id": "PivxRGwa9OMw"
+    },
+    {
+      "name": "Bostad",
+      "id": "m-hrJlz7lIjW"
+    },
+    {
+      "name": "Bovagen",
+      "id": "SNm5FL7lU8fk"
+    },
+    {
+      "name": "Boverfjorden",
+      "id": "wDuZpg7wEm7l"
+    },
+    {
+      "name": "Brandbu",
+      "id": "wHO06556_vcP"
+    },
+    {
+      "name": "Brandval",
+      "id": "jHfQfCG02ufv"
+    },
+    {
+      "name": "Brattholmen",
+      "id": "vgFcvfCIytGi"
+    },
+    {
+      "name": "Brattvag",
+      "id": "JtBR4b7FhwJr"
+    },
+    {
+      "name": "Brekke",
+      "id": "OwGZa721VPnj"
+    },
+    {
+      "name": "Brekstad",
+      "id": "pa-GUMSAtgX-"
+    },
+    {
+      "name": "Brennasen",
+      "id": "OFk3SFSN5jnh"
+    },
+    {
+      "name": "Brevik",
+      "id": "DWolLaTjCJ4Y"
+    },
+    {
+      "name": "Bronnoysund",
+      "id": "-wxLIuY2syZY"
+    },
+    {
+      "name": "Bru",
+      "id": "Zk1Sdmr4aeUN"
+    },
+    {
+      "name": "Bruflat",
+      "id": "at2kj1H3PGV9"
+    },
+    {
+      "name": "Brumunddal",
+      "id": "uBR7snilvNvy"
+    },
+    {
+      "name": "Brusand",
+      "id": "ROhc59Nlsbdk"
+    },
+    {
+      "name": "Bruvik",
+      "id": "uynSeNyMRWqM"
+    },
+    {
+      "name": "Bryne",
+      "id": "oW-Ys7eL9vEp"
+    },
+    {
+      "name": "Bud",
+      "id": "GOhmcUdhg3v0"
+    },
+    {
+      "name": "Burfjord",
+      "id": "UGXriGY1gGpj"
+    },
+    {
+      "name": "Buskerud",
+      "id": "_Btwbbw_BUnD"
+    },
+    {
+      "name": "Buvika",
+      "id": "xBczFN-68RJO"
+    },
+    {
+      "name": "Byglandsfjord",
+      "id": "x3Cx6Q-g5vNy"
+    },
+    {
+      "name": "Bygstad",
+      "id": "lXiLMt3yNL7f"
+    },
+    {
+      "name": "Bykle",
+      "id": "iakYEW3qDik4"
+    },
+    {
+      "name": "Byrknes Nordre",
+      "id": "RLYZij4EXXuM"
+    },
+    {
+      "name": "Cavkkus",
+      "id": "INWO6mM3dska"
+    },
+    {
+      "name": "Dal",
+      "id": "IXs9r4kB2NnO"
+    },
+    {
+      "name": "Dale",
+      "id": "43oBCFIwHwCb"
+    },
+    {
+      "name": "Dalen",
+      "id": "vyuCWXHmBs5j"
+    },
+    {
+      "name": "Davik",
+      "id": "xpuhr6s2uyeQ"
+    },
+    {
+      "name": "Deknepollen",
+      "id": "xsC9ZjHVAJ7X"
+    },
+    {
+      "name": "Digermulen",
+      "id": "p1zOcDyGXZHI"
+    },
+    {
+      "name": "Dilling",
+      "id": "YthSVp8c9O-Z"
+    },
+    {
+      "name": "Dimmelsvik",
+      "id": "Ro3IG3PsvgB7"
+    },
+    {
+      "name": "Dirdal",
+      "id": "po9gyqp9EI1q"
+    },
+    {
+      "name": "Disena",
+      "id": "c6IOsuoZU3CR"
+    },
+    {
+      "name": "Dokka",
+      "id": "rhiqZfvOzLNF"
+    },
+    {
+      "name": "Dolemo",
+      "id": "fOO7Tcq7X-o_"
+    },
+    {
+      "name": "Dovre",
+      "id": "SpqkteIMuCOm"
+    },
+    {
+      "name": "Drag",
+      "id": "ktSoTlq6sYDR"
+    },
+    {
+      "name": "Drammen",
+      "id": "vZM9dv484i6Z"
+    },
+    {
+      "name": "Drangedal",
+      "id": "Jg89ysPwEN6x"
+    },
+    {
+      "name": "Drobak",
+      "id": "cFlqfeaKnHrx"
+    },
+    {
+      "name": "Dverberg",
+      "id": "kGRXCi9kXzh8"
+    },
+    {
+      "name": "Dyrvika",
+      "id": "JzSmlFHFT0UK"
+    },
+    {
+      "name": "Ebru",
+      "id": "-9MlMThA7Box"
+    },
+    {
+      "name": "Egersund",
+      "id": "lkQ60BaqEzF3"
+    },
+    {
+      "name": "Eggedal",
+      "id": "P0FusyEPhdwK"
+    },
+    {
+      "name": "Eggkleiva",
+      "id": "-6pRuc83Hj6T"
+    },
+    {
+      "name": "Eide",
+      "id": "LRy9RBGUUbgG"
+    },
+    {
+      "name": "Eidfjord",
+      "id": "Px8vRatesDZD"
+    },
+    {
+      "name": "Eidsa",
+      "id": "-vlQD4KlgREf"
+    },
+    {
+      "name": "Eidsberg",
+      "id": "eD-GCfooK78j"
+    },
+    {
+      "name": "Eidsdal",
+      "id": "lGpA5taJ_hJJ"
+    },
+    {
+      "name": "Eidsfoss",
+      "id": "vpXeHEbup7cS"
+    },
+    {
+      "name": "Eidsnes",
+      "id": "ih_DLSxIWx3p"
+    },
+    {
+      "name": "Eidsvag",
+      "id": "nt0ZVq44vFQE"
+    },
+    {
+      "name": "Eidsvoll",
+      "id": "GmMPk8evbg05"
+    },
+    {
+      "name": "Eidsvoll verk",
+      "id": "_eI3hxLXdkAm"
+    },
+    {
+      "name": "Eikanger",
+      "id": "TqwEzOrPYv-S"
+    },
+    {
+      "name": "Eikelandsosen",
+      "id": "hjYw659szEb4"
+    },
+    {
+      "name": "Eiken",
+      "id": "YX48IHzMqLwF"
+    },
+    {
+      "name": "Eina",
+      "id": "MDTfBmb3H8ra"
+    },
+    {
+      "name": "Eivindvik",
+      "id": "pk0tB2BsWhBF"
+    },
+    {
+      "name": "Elverum",
+      "id": "DtpVfER4ZICn"
+    },
+    {
+      "name": "Enebakkneset",
+      "id": "akSTLJAcQ3Lv"
+    },
+    {
+      "name": "Enga",
+      "id": "CSHuoyhe6TjR"
+    },
+    {
+      "name": "Engalsvik",
+      "id": "Op8ugOwK_v7n"
+    },
+    {
+      "name": "Erdal",
+      "id": "DVvldMQ0rCkc"
+    },
+    {
+      "name": "Erfjord",
+      "id": "KXGm3vncMJ8q"
+    },
+    {
+      "name": "Ervik",
+      "id": "_emUBtTF8jg6"
+    },
+    {
+      "name": "Espeland",
+      "id": "_oVSHgKKrQ_K"
+    },
+    {
+      "name": "Etne",
+      "id": "AslOHaltxwZQ"
+    },
+    {
+      "name": "Evanger",
+      "id": "3XugLpGU4CIE"
+    },
+    {
+      "name": "Evenskjer",
+      "id": "gkh96XzxAdUs"
+    },
+    {
+      "name": "Evje",
+      "id": "HiE77fQgRv4b"
+    },
+    {
+      "name": "Eydehavn",
+      "id": "VglZPu5HU6AM"
+    },
+    {
+      "name": "Faberg",
+      "id": "Z5fxb3R8gzEe"
+    },
+    {
+      "name": "Faervik",
+      "id": "HHCHXh4no4QX"
+    },
+    {
+      "name": "Fagernes",
+      "id": "Kbeg74cubRrR"
+    },
+    {
+      "name": "Fagerstrand",
+      "id": "JyAybKhNACq6"
+    },
+    {
+      "name": "Fall",
+      "id": "pA8ZMKjUydjD"
+    },
+    {
+      "name": "Fardal",
+      "id": "Qnd4fG6WAFUo"
+    },
+    {
+      "name": "Farsund",
+      "id": "riC2ZgwmTyKJ"
+    },
+    {
+      "name": "Fauske",
+      "id": "tF5y7sFAd32x"
+    },
+    {
+      "name": "Feda",
+      "id": "Uya11Ow-n2v3"
+    },
+    {
+      "name": "Fedje",
+      "id": "VqYzFD8EZzQ0"
+    },
+    {
+      "name": "Feiring",
+      "id": "ggxoq-7UBfRR"
+    },
+    {
+      "name": "Felle",
+      "id": "wRCzRPrYRmWY"
+    },
+    {
+      "name": "Fenstad",
+      "id": "xQQbZ_rmASFX"
+    },
+    {
+      "name": "Fetsund",
+      "id": "Lk48hMt4QGWG"
+    },
+    {
+      "name": "Fevik",
+      "id": "CADbc_QELtdg"
+    },
+    {
+      "name": "Figgjo",
+      "id": "cufmoP-BuMhA"
+    },
+    {
+      "name": "Finnoy",
+      "id": "35zUxonU4RgL"
+    },
+    {
+      "name": "Finnsnes",
+      "id": "xjaUVC01SLdO"
+    },
+    {
+      "name": "Finsand",
+      "id": "zaaFWwDIzpds"
+    },
+    {
+      "name": "Fiska",
+      "id": "voxT6xNGnoZQ"
+    },
+    {
+      "name": "Fiskum",
+      "id": "pu5PsE3s5IPe"
+    },
+    {
+      "name": "Fister",
+      "id": "KS3kWCoIClkx"
+    },
+    {
+      "name": "Fitjar",
+      "id": "9KCOzr3GT2SU"
+    },
+    {
+      "name": "Fjellstrand",
+      "id": "8VFuSN8wxqbS"
+    },
+    {
+      "name": "Fla",
+      "id": "C6537PVR4NRs"
+    },
+    {
+      "name": "Flam",
+      "id": "_QicXzTikzTT"
+    },
+    {
+      "name": "Flateby",
+      "id": "rLZJk_DTB8K5"
+    },
+    {
+      "name": "Flekke",
+      "id": "n1m_SbcfXn-c"
+    },
+    {
+      "name": "Flekkefjord",
+      "id": "Ars6av1nrXaF"
+    },
+    {
+      "name": "Flemma",
+      "id": "3oS2pm8RBmhV"
+    },
+    {
+      "name": "Flesberg",
+      "id": "S-A1QcqEX6f0"
+    },
+    {
+      "name": "Flesnes",
+      "id": "xsUo3jWvEyeN"
+    },
+    {
+      "name": "Floro",
+      "id": "cN9O-Usy8er5"
+    },
+    {
+      "name": "Florvag",
+      "id": "Y-StvgykhlUj"
+    },
+    {
+      "name": "Foldereid",
+      "id": "McnYoVOrsuz3"
+    },
+    {
+      "name": "Folderoy",
+      "id": "daiSIjRdh8jo"
+    },
+    {
+      "name": "Folkestad",
+      "id": "PYMd1sEdHw0g"
+    },
+    {
+      "name": "Follafoss",
+      "id": "LZtfeannBZfE"
+    },
+    {
+      "name": "Follebu",
+      "id": "lKMbl8qwdZom"
+    },
+    {
+      "name": "Follese",
+      "id": "5hPgsgmtyC7y"
+    },
+    {
+      "name": "Fonnes",
+      "id": "N7QCT2r2xlM2"
+    },
+    {
+      "name": "Forde",
+      "id": "j0Ex20JopLO1"
+    },
+    {
+      "name": "Fornebu",
+      "id": "_1b5Ab_XM8zb"
+    },
+    {
+      "name": "Fosnavag",
+      "id": "STCH714mxHMP"
+    },
+    {
+      "name": "Fossdalen",
+      "id": "yQ50RyHBEqxg"
+    },
+    {
+      "name": "Fosser",
+      "id": "vP514uUfGdyn"
+    },
+    {
+      "name": "Fotlandsvag",
+      "id": "ItJzmVx2xH83"
+    },
+    {
+      "name": "Fredrikstad",
+      "id": "gwIHdkzrujxd"
+    },
+    {
+      "name": "Frekhaug",
+      "id": "nKWfdCZlgH7d"
+    },
+    {
+      "name": "Fresvik",
+      "id": "Qic3UhEVxVMj"
+    },
+    {
+      "name": "Frogner",
+      "id": "QujwuepTXKz9"
+    },
+    {
+      "name": "Froland",
+      "id": "3xDFZZe8HscI"
+    },
+    {
+      "name": "From",
+      "id": "AkuRetqQjht_"
+    },
+    {
+      "name": "Furnes",
+      "id": "Pxfie6cQP1bd"
+    },
+    {
+      "name": "Fyrde",
+      "id": "6BlEbubC1VMY"
+    },
+    {
+      "name": "Fyresdal",
+      "id": "hw1ivDOf9r7e"
+    },
+    {
+      "name": "Gan",
+      "id": "G5K2I-tC0PX1"
+    },
+    {
+      "name": "Gardermoen",
+      "id": "7OLsFLTHRloD"
+    },
+    {
+      "name": "Gargan",
+      "id": "7wcRQTDP8WYm"
+    },
+    {
+      "name": "Garnes",
+      "id": "K0X-p3dxQ3_h"
+    },
+    {
+      "name": "Gasbakken",
+      "id": "sHwqN58toG-5"
+    },
+    {
+      "name": "Gaupen",
+      "id": "ZgemEq-VjyT0"
+    },
+    {
+      "name": "Geilo",
+      "id": "gGORCeb0OPTO"
+    },
+    {
+      "name": "Geithus",
+      "id": "6Ln_GEAUSzg7"
+    },
+    {
+      "name": "Gjerdrum",
+      "id": "gf82zJLmnOcC"
+    },
+    {
+      "name": "Gjerstad",
+      "id": "mqXWd8qWv9KY"
+    },
+    {
+      "name": "Gjolme",
+      "id": "6ZWQXRIrewOK"
+    },
+    {
+      "name": "Glesvaer",
+      "id": "EIzt0ILH_fNo"
+    },
+    {
+      "name": "Glomfjord",
+      "id": "sRIXLEbKid_v"
+    },
+    {
+      "name": "Godoy",
+      "id": "gcr8B6mHJQ8g"
+    },
+    {
+      "name": "Godvik",
+      "id": "LyurUCkHafhF"
+    },
+    {
+      "name": "Gol",
+      "id": "mtDR_QCYTYde"
+    },
+    {
+      "name": "Gran",
+      "id": "UMQxQ4fWq1N4"
+    },
+    {
+      "name": "Gransherad",
+      "id": "Z9OABPA8xALB"
+    },
+    {
+      "name": "Granvin",
+      "id": "J1O-C2nUfsdo"
+    },
+    {
+      "name": "Gratangen",
+      "id": "8tMLW8rP_o4c"
+    },
+    {
+      "name": "Gravdal",
+      "id": "rmpwFHZYApHn"
+    },
+    {
+      "name": "Greaker",
+      "id": "xTDiYWyG8CpR"
+    },
+    {
+      "name": "Grendi",
+      "id": "QKlVQVBjsIIi"
+    },
+    {
+      "name": "Gressvik",
+      "id": "YcTqeX7QrCyH"
+    },
+    {
+      "name": "Grimstad",
+      "id": "GBhXof5t-Bv-"
+    },
+    {
+      "name": "Groa",
+      "id": "gmAeGJwak3bK"
+    },
+    {
+      "name": "Grong",
+      "id": "vkJ7gVArxQ_A"
+    },
+    {
+      "name": "Grua",
+      "id": "iCy0JO-rccI4"
+    },
+    {
+      "name": "Gullaug",
+      "id": "5B4GuO9ZXV5A"
+    },
+    {
+      "name": "Gvarv",
+      "id": "BUDjJml3WNeE"
+    },
+    {
+      "name": "Haddal",
+      "id": "CfJ5i4TmMCFQ"
+    },
+    {
+      "name": "Haegeland",
+      "id": "4G5zui8hfdX7"
+    },
+    {
+      "name": "Haerland",
+      "id": "TuRe1Qou6i7r"
+    },
+    {
+      "name": "Hagan",
+      "id": "2xm1hEfBFfbT"
+    },
+    {
+      "name": "Hagavik",
+      "id": "prC0frl98OA6"
+    },
+    {
+      "name": "Hakadal",
+      "id": "YUpDST_DkpHj"
+    },
+    {
+      "name": "Halden",
+      "id": "b8jMXUnAnpQT"
+    },
+    {
+      "name": "Hallingby",
+      "id": "UjWmmyjKAmQj"
+    },
+    {
+      "name": "Halsa",
+      "id": "3Lfu2qR9CfYs"
+    },
+    {
+      "name": "Haltdalen",
+      "id": "cjfPB-E9iw8l"
+    },
+    {
+      "name": "Hamar",
+      "id": "kKhipABbucs0"
+    },
+    {
+      "name": "Hamarvik",
+      "id": "K-Vp3-I_yHKL"
+    },
+    {
+      "name": "Hammerfest",
+      "id": "VOArxkY61B6O"
+    },
+    {
+      "name": "Hansnes",
+      "id": "YYiHFg4vs_8k"
+    },
+    {
+      "name": "Haram",
+      "id": "2a979aSaXri1"
+    },
+    {
+      "name": "Hareid",
+      "id": "zSppQLekgpST"
+    },
+    {
+      "name": "Harstad",
+      "id": "bg5dy2QVGGLK"
+    },
+    {
+      "name": "Haslum",
+      "id": "rvMb3Nyarags"
+    },
+    {
+      "name": "Hasvik",
+      "id": "q0gcHoiNzISn"
+    },
+    {
+      "name": "Hatlestranda",
+      "id": "TG3WrS-wXv2A"
+    },
+    {
+      "name": "Hauge",
+      "id": "h1-XmIKdhQQR"
+    },
+    {
+      "name": "Haugesund",
+      "id": "QoOobssLMIDi"
+    },
+    {
+      "name": "Haukeland",
+      "id": "ID_OYOoSo_h9"
+    },
+    {
+      "name": "Havik",
+      "id": "CopxkD_hYP22"
+    },
+    {
+      "name": "Hebnes",
+      "id": "luqOloXdWy50"
+    },
+    {
+      "name": "Hedal",
+      "id": "3Ls5Z4hxHR4C"
+    },
+    {
+      "name": "Heggedal",
+      "id": "DZVGslGEPjC_"
+    },
+    {
+      "name": "Heggenes",
+      "id": "vJcxlEkYIGD-"
+    },
+    {
+      "name": "Hegra",
+      "id": "BvJ0kaXu1FWm"
+    },
+    {
+      "name": "Heimdal",
+      "id": "ri_muQl_VTc8"
+    },
+    {
+      "name": "Helgeland",
+      "id": "iGvJ5BPlmF6l"
+    },
+    {
+      "name": "Helgeroa",
+      "id": "8DG0zxFrx6Wj"
+    },
+    {
+      "name": "Hell",
+      "id": "s_la-YgD5rkR"
+    },
+    {
+      "name": "Hellandsjoen",
+      "id": "mMOtGAGBCvB2"
+    },
+    {
+      "name": "Helleland",
+      "id": "ZZu8TQX9xRw_"
+    },
+    {
+      "name": "Hellesylt",
+      "id": "AJEfiQh27bmo"
+    },
+    {
+      "name": "Hellvik",
+      "id": "7wO5u01PdGXU"
+    },
+    {
+      "name": "Hemnes",
+      "id": "1Gyg5fwAWeSr"
+    },
+    {
+      "name": "Hemnesberget",
+      "id": "yVRUMnNcP051"
+    },
+    {
+      "name": "Hemnskjela",
+      "id": "SF5ucha5ECro"
+    },
+    {
+      "name": "Hemsedal",
+      "id": "azgx4ptvIcK1"
+    },
+    {
+      "name": "Henningsvaer",
+      "id": "B5ynUWi28sRW"
+    },
+    {
+      "name": "Herand",
+      "id": "veZ32qj4gaC7"
+    },
+    {
+      "name": "Heroysund",
+      "id": "OHRTvcHjXPv1"
+    },
+    {
+      "name": "Herre",
+      "id": "Fce9tVaYORuM"
+    },
+    {
+      "name": "Hersaeter",
+      "id": "9ZJw4eMbN6Le"
+    },
+    {
+      "name": "Hestvika",
+      "id": "yM-jVk8Kpk75"
+    },
+    {
+      "name": "Hetlevik",
+      "id": "cRbRZoI4HlXV"
+    },
+    {
+      "name": "Hildre",
+      "id": "yYV6zwU_LHIR"
+    },
+    {
+      "name": "Hitra",
+      "id": "rRPHxfsHmYOB"
+    },
+    {
+      "name": "Hjellestad",
+      "id": "dJeTR08bGHec"
+    },
+    {
+      "name": "Hjelmas",
+      "id": "LtNezajKKp0f"
+    },
+    {
+      "name": "Hjelset",
+      "id": "tIvrF0Q053q3"
+    },
+    {
+      "name": "Hjorungavag",
+      "id": "xvcROr3S0piz"
+    },
+    {
+      "name": "Hof",
+      "id": "wfP-w04fPDhx"
+    },
+    {
+      "name": "Hokkasen",
+      "id": "ASoU4neY8-eh"
+    },
+    {
+      "name": "Hokksund",
+      "id": "TTvTx0w2ANSW"
+    },
+    {
+      "name": "Hol",
+      "id": "L0SS-FOHmDzW"
+    },
+    {
+      "name": "Hole",
+      "id": "hV6EtZcTv59D"
+    },
+    {
+      "name": "Holen",
+      "id": "t33mczDwnaDF"
+    },
+    {
+      "name": "Holmefjord",
+      "id": "aKH1R-TtSvDT"
+    },
+    {
+      "name": "Holmen",
+      "id": "Ifudye8ObD2O"
+    },
+    {
+      "name": "Holmenkollen",
+      "id": "rch3tuZXbi50"
+    },
+    {
+      "name": "Holmestrand",
+      "id": "pbaoxqvZ02MX"
+    },
+    {
+      "name": "Holsen",
+      "id": "9y3JUSK9-xPB"
+    },
+    {
+      "name": "Holter",
+      "id": "Zcc_IKgSVwEv"
+    },
+    {
+      "name": "Hommelvik",
+      "id": "izmgoBgqcBvo"
+    },
+    {
+      "name": "Hommersak",
+      "id": "zKfMBcsI9sap"
+    },
+    {
+      "name": "Honefoss",
+      "id": "8HVCSXKJW8LH"
+    },
+    {
+      "name": "Hordvik",
+      "id": "-wAEOMbL8aZG"
+    },
+    {
+      "name": "Hornnes",
+      "id": "4_VvIXFi_TM9"
+    },
+    {
+      "name": "Horte",
+      "id": "MdF8O6o6KUwO"
+    },
+    {
+      "name": "Horten",
+      "id": "gJGbXfyn_FRZ"
+    },
+    {
+      "name": "Hov",
+      "id": "E6oV-04F-zO8"
+    },
+    {
+      "name": "Hovag",
+      "id": "kf5SD6o4zjnk"
+    },
+    {
+      "name": "Hovden",
+      "id": "j4lKxUfuJnSF"
+    },
+    {
+      "name": "Hovet",
+      "id": "NlrVu9kcAkbB"
+    },
+    {
+      "name": "Hovik verk",
+      "id": "1UhDjLsQR3Q_"
+    },
+    {
+      "name": "Hovin",
+      "id": "OV2jx_m4Yu57"
+    },
+    {
+      "name": "Hoyanger",
+      "id": "D4cMLPu-Hi96"
+    },
+    {
+      "name": "Hundven",
+      "id": "vFHFu7AmWhrZ"
+    },
+    {
+      "name": "Hunndalen",
+      "id": "3Lx5d6IiiM-y"
+    },
+    {
+      "name": "Husoy",
+      "id": "5-9g5H8EvXYh"
+    },
+    {
+      "name": "Hustad",
+      "id": "7NpN14C5B2gq"
+    },
+    {
+      "name": "Hvalstad",
+      "id": "KvKK3x6dS3Hm"
+    },
+    {
+      "name": "Hvam",
+      "id": "mksGsx_FCVac"
+    },
+    {
+      "name": "Hvitsten",
+      "id": "DVDI5o1TElhe"
+    },
+    {
+      "name": "Hvittingfoss",
+      "id": "2h12m3PUTQdh"
+    },
+    {
+      "name": "Hyggen",
+      "id": "YdFpPWvFkUWV"
+    },
+    {
+      "name": "Hylkje",
+      "id": "emnCIJ09xs6p"
+    },
+    {
+      "name": "Hyllestad",
+      "id": "f9lke2u_Fp1d"
+    },
+    {
+      "name": "Ikornnes",
+      "id": "R6xsUnaABaG0"
+    },
+    {
+      "name": "Indre Arna",
+      "id": "EMEPMyixfGRo"
+    },
+    {
+      "name": "Indre Billefjord",
+      "id": "Rg4S5T3kM9FP"
+    },
+    {
+      "name": "Indre Klubben",
+      "id": "en2Z1K3iC2qZ"
+    },
+    {
+      "name": "Indre Ulvsvag",
+      "id": "hCDDAJZfd-zI"
+    },
+    {
+      "name": "Indreby",
+      "id": "XTD_HK-gnwn4"
+    },
+    {
+      "name": "Innbygda",
+      "id": "J39o0hZnBwRz"
+    },
+    {
+      "name": "Inndyr",
+      "id": "yQ-jnNzUYeZ8"
+    },
+    {
+      "name": "Innvik",
+      "id": "Y7rJvHQQy_Pv"
+    },
+    {
+      "name": "Isdalsto",
+      "id": "5TXRe1baJilu"
+    },
+    {
+      "name": "Ise",
+      "id": "1LV074eHwnKh"
+    },
+    {
+      "name": "Ivgobahta",
+      "id": "9h445YGZ7jcD"
+    },
+    {
+      "name": "Jakobselv",
+      "id": "fjCTA630SrY7"
+    },
+    {
+      "name": "Jar",
+      "id": "HgKueXhFf0O5"
+    },
+    {
+      "name": "Jaren",
+      "id": "SWDRAvT7xHv3"
+    },
+    {
+      "name": "Jessheim",
+      "id": "Tq_kFaQ51bZ8"
+    },
+    {
+      "name": "Jevnaker",
+      "id": "mRhsm9Ohqzs1"
+    },
+    {
+      "name": "Jomna",
+      "id": "hw5f9RXydHAq"
+    },
+    {
+      "name": "Jorpeland",
+      "id": "YARPSRoJyLxB"
+    },
+    {
+      "name": "Kabelvag",
+      "id": "BkIzTlZr8is8"
+    },
+    {
+      "name": "Kaldfarnes",
+      "id": "Htpsmj02ldcS"
+    },
+    {
+      "name": "Kalvag",
+      "id": "jxnrcDInxdWY"
+    },
+    {
+      "name": "Kamben",
+      "id": "M1qVGRaieHCm"
+    },
+    {
+      "name": "Karasjok",
+      "id": "qcf40HYzc22d"
+    },
+    {
+      "name": "Karlshus",
+      "id": "P7JjwXZn7TJ-"
+    },
+    {
+      "name": "Kaupanger",
+      "id": "hQ48g9CnOY8H"
+    },
+    {
+      "name": "Kautokeino",
+      "id": "oBDT0DZEHjAB"
+    },
+    {
+      "name": "Kirkenaer",
+      "id": "kv6orCGsEla0"
+    },
+    {
+      "name": "Kirkenes",
+      "id": "P-dNU8HYxw0e"
+    },
+    {
+      "name": "Kjeller",
+      "id": "tL2_yJCCJMI4"
+    },
+    {
+      "name": "Kjellmyra",
+      "id": "3NnKycqk1k65"
+    },
+    {
+      "name": "Kjerstad",
+      "id": "RbWx_-nahMxR"
+    },
+    {
+      "name": "Kjollefjord",
+      "id": "OUcZC7bphF_5"
+    },
+    {
+      "name": "Kjopsvik",
+      "id": "kCaynkFNqoNk"
+    },
+    {
+      "name": "Kleive",
+      "id": "l-jAfFJgCFLr"
+    },
+    {
+      "name": "Klepp",
+      "id": "OnZeFzb3picG"
+    },
+    {
+      "name": "Kleppe",
+      "id": "3FsN0cX0gvKu"
+    },
+    {
+      "name": "Kleppesto",
+      "id": "Rb9UCN-v7aK1"
+    },
+    {
+      "name": "Kleppstad",
+      "id": "y2ZDutb5reL_"
+    },
+    {
+      "name": "Klofta",
+      "id": "Ft3TTvrxFYNo"
+    },
+    {
+      "name": "Klokkarvik",
+      "id": "3jRUQ0XxPVgB"
+    },
+    {
+      "name": "Knapper",
+      "id": "0mlwALK6NAqp"
+    },
+    {
+      "name": "Knappstad",
+      "id": "28SyKBv_eGh3"
+    },
+    {
+      "name": "Knarrevik",
+      "id": "vaORVIFOnGp7"
+    },
+    {
+      "name": "Knarrlaget",
+      "id": "iqvbQ4i3YdI-"
+    },
+    {
+      "name": "Kolbjornsvik",
+      "id": "Z66dmgW8CwXx"
+    },
+    {
+      "name": "Kolbotn",
+      "id": "R7kYNt-e0Si-"
+    },
+    {
+      "name": "Kolbu",
+      "id": "crBO_k6jTf8Z"
+    },
+    {
+      "name": "Kolltveit",
+      "id": "wDtxOnjXfPL-"
+    },
+    {
+      "name": "Kolnes",
+      "id": "yQGtCFGAJ2cY"
+    },
+    {
+      "name": "Kolsas",
+      "id": "4kV0n08PDN7n"
+    },
+    {
+      "name": "Kolvereid",
+      "id": "WVdpp5uBaz7o"
+    },
+    {
+      "name": "Kongsberg",
+      "id": "z3U92UYfYtoe"
+    },
+    {
+      "name": "Kongshamn",
+      "id": "3_Hcw83awbOz"
+    },
+    {
+      "name": "Kongsvika",
+      "id": "N_eazoag90R9"
+    },
+    {
+      "name": "Kongsvinger",
+      "id": "fAKAl-W1B5ZQ"
+    },
+    {
+      "name": "Konsmo",
+      "id": "4dC3nM4aNFf3"
+    },
+    {
+      "name": "Konsvikosen",
+      "id": "1bwBj8j6LjoY"
+    },
+    {
+      "name": "Kopervik",
+      "id": "tBMZiUgVUwQX"
+    },
+    {
+      "name": "Koppang",
+      "id": "eQTHnwiVQu4k"
+    },
+    {
+      "name": "Korgen",
+      "id": "4_5JG5ZxIXp9"
+    },
+    {
+      "name": "Kornsjo",
+      "id": "YQNMbLcVJ_6F"
+    },
+    {
+      "name": "Korsvegen",
+      "id": "k3ZiYEAWm1Y5"
+    },
+    {
+      "name": "Kragero",
+      "id": "EAP5aGYF9Us9"
+    },
+    {
+      "name": "Krakeroy",
+      "id": "G3EKGeAQtJuf"
+    },
+    {
+      "name": "Krakstad",
+      "id": "AsdQ8Gtwa8si"
+    },
+    {
+      "name": "Kristiansand",
+      "id": "CRU18FDh0NVN"
+    },
+    {
+      "name": "Kristiansund",
+      "id": "W5B_Qlxo1zxQ"
+    },
+    {
+      "name": "Kroderen",
+      "id": "y65MbSi0uVqB"
+    },
+    {
+      "name": "Krokstadelva",
+      "id": "f9aHP4F3MkOX"
+    },
+    {
+      "name": "Kval",
+      "id": "mwtt-_6HKQds"
+    },
+    {
+      "name": "Kvalsund",
+      "id": "jYnoqBdRngow"
+    },
+    {
+      "name": "Kvam",
+      "id": "6ni7jgXQr-1s"
+    },
+    {
+      "name": "Kvammen",
+      "id": "FRJmIjBP0abS"
+    },
+    {
+      "name": "Kvanne",
+      "id": "bvDkKNLvcWTk"
+    },
+    {
+      "name": "Kvelde",
+      "id": "KqjsHhjZv4ME"
+    },
+    {
+      "name": "Kvinesdal",
+      "id": "Lyhhnyxu3pXI"
+    },
+    {
+      "name": "Kvinlog",
+      "id": "CYccTE0D60k-"
+    },
+    {
+      "name": "Kvisvik",
+      "id": "UcOUVdPq3wsz"
+    },
+    {
+      "name": "Kviteseid",
+      "id": "2YSQ17s5W1hm"
+    },
+    {
+      "name": "Kyrkjebo",
+      "id": "97jxcO4npuF-"
+    },
+    {
+      "name": "Kyrksaeterora",
+      "id": "vTerKFu4LBeF"
+    },
+    {
+      "name": "Lakselv",
+      "id": "AmAXP0ZYoxf_"
+    },
+    {
+      "name": "Laksevag",
+      "id": "K6cCmnj8PisQ"
+    },
+    {
+      "name": "Laksvatn",
+      "id": "rAhpQEniKMdg"
+    },
+    {
+      "name": "Lalm",
+      "id": "8t9ZfvhgMjq9"
+    },
+    {
+      "name": "Land",
+      "id": "ZcSiy9CetFjX"
+    },
+    {
+      "name": "Langangen",
+      "id": "nhyHiSOW4msH"
+    },
+    {
+      "name": "Langesund",
+      "id": "L342WJAeo3l3"
+    },
+    {
+      "name": "Langevag",
+      "id": "LjZ2RlBsmXxH"
+    },
+    {
+      "name": "Langfjordbotn",
+      "id": "hOTNC1eW8gpZ"
+    },
+    {
+      "name": "Langhus",
+      "id": "nsOSLVr3RZjE"
+    },
+    {
+      "name": "Larkollen",
+      "id": "TmW9-20YIGKp"
+    },
+    {
+      "name": "Larvik",
+      "id": "fwY3hH3WPWQi"
+    },
+    {
+      "name": "Laukvik",
+      "id": "eI2GYfaSBI9Y"
+    },
+    {
+      "name": "Lauvsnes",
+      "id": "owVbKd9Mc_1K"
+    },
+    {
+      "name": "Lauvstad",
+      "id": "wjrOsUebT54Q"
+    },
+    {
+      "name": "Leikang",
+      "id": "1WiNXgrKbBiD"
+    },
+    {
+      "name": "Leines",
+      "id": "QIun042iSp4u"
+    },
+    {
+      "name": "Leira",
+      "id": "j2gMaovwfiKJ"
+    },
+    {
+      "name": "Leirfjord",
+      "id": "BPbN73ef256r"
+    },
+    {
+      "name": "Leirsund",
+      "id": "fWXshlc_Zmp1"
+    },
+    {
+      "name": "Leirvik",
+      "id": "h7M3QCGpua6H"
+    },
+    {
+      "name": "Leknes",
+      "id": "0D1J1CBxWpxG"
+    },
+    {
+      "name": "Lena",
+      "id": "hwPHINkrzy_m"
+    },
+    {
+      "name": "Lensvik",
+      "id": "_spS-CdgjMpQ"
+    },
+    {
+      "name": "Lenvik",
+      "id": "OXfB9xJj4vpx"
+    },
+    {
+      "name": "Lepsoy",
+      "id": "c3zWxitq5Hpf"
+    },
+    {
+      "name": "Levanger",
+      "id": "7x72hO1hvcZL"
+    },
+    {
+      "name": "Lidaladdi",
+      "id": "mf7FzodBHHjM"
+    },
+    {
+      "name": "Lier",
+      "id": "1FK0lhBs0rMj"
+    },
+    {
+      "name": "Lillehammer",
+      "id": "zLPlSA0GZp4w"
+    },
+    {
+      "name": "Lillesand",
+      "id": "CfXehYLUqY6K"
+    },
+    {
+      "name": "Lindas",
+      "id": "TK05QEZEZg5k"
+    },
+    {
+      "name": "Loddefjord",
+      "id": "zNN5xnrNmKmr"
+    },
+    {
+      "name": "Lodingen",
+      "id": "QBVGQIF_pq5e"
+    },
+    {
+      "name": "Loen",
+      "id": "6vg6RBbRj1z2"
+    },
+    {
+      "name": "Lofthus",
+      "id": "F7zzyeo20FUe"
+    },
+    {
+      "name": "Loken",
+      "id": "aNhCGLfqY-3f"
+    },
+    {
+      "name": "Lokken Verk",
+      "id": "b2lTK-AmdfyQ"
+    },
+    {
+      "name": "Lom",
+      "id": "zucQXNSQdVAr"
+    },
+    {
+      "name": "Lonevag",
+      "id": "Vx9_thxRA64f"
+    },
+    {
+      "name": "Longva",
+      "id": "v2ohJsduzt9-"
+    },
+    {
+      "name": "Lorenfallet",
+      "id": "wFxl-oJswL1L"
+    },
+    {
+      "name": "Loten",
+      "id": "pdVZe9EU7BtG"
+    },
+    {
+      "name": "Lovund",
+      "id": "B2M1w2KOlf3C"
+    },
+    {
+      "name": "Lundamo",
+      "id": "eux6aLuuL3S7"
+    },
+    {
+      "name": "Lunde",
+      "id": "YCa-GCI55Vg3"
+    },
+    {
+      "name": "Lunner",
+      "id": "GVFfDS5NRTSO"
+    },
+    {
+      "name": "Lyngdal",
+      "id": "rWvX6QoyoQYg"
+    },
+    {
+      "name": "Lyngseidet",
+      "id": "W7pku3yHY2Jr"
+    },
+    {
+      "name": "Lyngstad",
+      "id": "mh60letObTO4"
+    },
+    {
+      "name": "Lysaker",
+      "id": "UayakDRlmf3P"
+    },
+    {
+      "name": "Lysoysundet",
+      "id": "ZIJmu5bynEZM"
+    },
+    {
+      "name": "Magnor",
+      "id": "5G3Ro-bGsn1u"
+    },
+    {
+      "name": "Malm",
+      "id": "dw3CFJASTLJ8"
+    },
+    {
+      "name": "Maloy",
+      "id": "CuY_xRd6veEb"
+    },
+    {
+      "name": "Malvik",
+      "id": "lrVMHDFZmhCh"
+    },
+    {
+      "name": "Mandal",
+      "id": "9Fc8npfq0D4K"
+    },
+    {
+      "name": "Manger",
+      "id": "NrD3fXVCgh2-"
+    },
+    {
+      "name": "Manndalen",
+      "id": "5U6iDbVhUgby"
+    },
+    {
+      "name": "Marheim",
+      "id": "9qwFFgCh3F8X"
+    },
+    {
+      "name": "Masfjorden",
+      "id": "m_-fEJHa99oJ"
+    },
+    {
+      "name": "Mathopen",
+      "id": "0nk20DOElv2R"
+    },
+    {
+      "name": "Maura",
+      "id": "v5cZnJ_ctDgn"
+    },
+    {
+      "name": "Mehamn",
+      "id": "XJW4k3trM_xj"
+    },
+    {
+      "name": "Meisingset",
+      "id": "n16TihHhfx9B"
+    },
+    {
+      "name": "Melbu",
+      "id": "g7_JeZkUC8iV"
+    },
+    {
+      "name": "Meldal",
+      "id": "6BnGGGG0iQN_"
+    },
+    {
+      "name": "Melhus",
+      "id": "TaJVzfuLl7FO"
+    },
+    {
+      "name": "Melsomvik",
+      "id": "TxDw85-qUKAw"
+    },
+    {
+      "name": "Meraker",
+      "id": "nuoOZCwRIYrd"
+    },
+    {
+      "name": "Mestervik",
+      "id": "KGAE25xlSLxA"
+    },
+    {
+      "name": "Midsund",
+      "id": "mTQwfefPFfpW"
+    },
+    {
+      "name": "Miland",
+      "id": "rtK3JHJoR0bS"
+    },
+    {
+      "name": "Minnesund",
+      "id": "p5zL817x1Glk"
+    },
+    {
+      "name": "Mirza Rafi Sauda",
+      "id": "eE7xjCanlWcK"
+    },
+    {
+      "name": "Misje",
+      "id": "Wrnhhhadysjv"
+    },
+    {
+      "name": "Misvaer",
+      "id": "Hlu3NQ6OHwoC"
+    },
+    {
+      "name": "Mjolkeraen",
+      "id": "OCayhkK2KIGG"
+    },
+    {
+      "name": "Mjondalen",
+      "id": "GW2nQnJqnE8m"
+    },
+    {
+      "name": "Mo",
+      "id": "JRemfuE3MU2Z"
+    },
+    {
+      "name": "Mo i Rana",
+      "id": "Vihq0KtGOItD"
+    },
+    {
+      "name": "Modalen",
+      "id": "X_VYzF__76iU"
+    },
+    {
+      "name": "Moelv",
+      "id": "ubv0nNDHvzWn"
+    },
+    {
+      "name": "Moen",
+      "id": "uD7KeD9chlGT"
+    },
+    {
+      "name": "Moi",
+      "id": "hgvvIofWBoN5"
+    },
+    {
+      "name": "Molde",
+      "id": "qUFgMbmDbyB7"
+    },
+    {
+      "name": "Moldjord",
+      "id": "nKRJB_gT5ZEp"
+    },
+    {
+      "name": "Morgedal",
+      "id": "mMADWF4PDwsW"
+    },
+    {
+      "name": "Mosby",
+      "id": "eKcDTs5eeQLa"
+    },
+    {
+      "name": "Mosjoen",
+      "id": "6dDzt0i-LOxt"
+    },
+    {
+      "name": "Moss",
+      "id": "3nFcH3CUgBHn"
+    },
+    {
+      "name": "Movik",
+      "id": "yfeVzByVc-65"
+    },
+    {
+      "name": "Myking",
+      "id": "zE1SX_qXQkM_"
+    },
+    {
+      "name": "Myre",
+      "id": "VezPevpvUq3A"
+    },
+    {
+      "name": "Mysen",
+      "id": "ufWq4JowvsUg"
+    },
+    {
+      "name": "Na",
+      "id": "TKX9hwv81ESM"
+    },
+    {
+      "name": "Naerbo",
+      "id": "Jp9VEfld4x6p"
+    },
+    {
+      "name": "Naersnes",
+      "id": "EF5mKSua5euF"
+    },
+    {
+      "name": "Namsos",
+      "id": "r-qaa-_Zig6T"
+    },
+    {
+      "name": "Namsskogan",
+      "id": "JMnOZagPzW7u"
+    },
+    {
+      "name": "Narvik",
+      "id": "BpBE_wLxbkq9"
+    },
+    {
+      "name": "Naustdal",
+      "id": "k_g1AtTYB_nr"
+    },
+    {
+      "name": "Nedenes",
+      "id": "AcHKcfgUogmG"
+    },
+    {
+      "name": "Nedre Frei",
+      "id": "O0YQfiC9ufJx"
+    },
+    {
+      "name": "Nesbru",
+      "id": "aqXmYC076tbT"
+    },
+    {
+      "name": "Nesbyen",
+      "id": "GF119rpugHtE"
+    },
+    {
+      "name": "Nesgrenda",
+      "id": "SsSVG64v1Vbz"
+    },
+    {
+      "name": "Nesna",
+      "id": "9BahV1OXTa3Z"
+    },
+    {
+      "name": "Nesoddtangen",
+      "id": "5UR-LHUqcw5Z"
+    },
+    {
+      "name": "Nesttun",
+      "id": "d0kV23uujIw9"
+    },
+    {
+      "name": "Neverdal",
+      "id": "YnLiUSaL3lZ8"
+    },
+    {
+      "name": "Nevlunghamn",
+      "id": "38nFZTCHB7bq"
+    },
+    {
+      "name": "Nodeland",
+      "id": "FvHMZ14mOYqb"
+    },
+    {
+      "name": "Nordby Bruk",
+      "id": "t45oaXyNoOSD"
+    },
+    {
+      "name": "Nordfjordeid",
+      "id": "fmPW_kYNrAAq"
+    },
+    {
+      "name": "Nordkisa",
+      "id": "f81dxtS3MObN"
+    },
+    {
+      "name": "Nordland",
+      "id": "rZPNv2QaMy2b"
+    },
+    {
+      "name": "Nordstrono",
+      "id": "f2J1lGe_bxfW"
+    },
+    {
+      "name": "Noresund",
+      "id": "L-28F25wRTvy"
+    },
+    {
+      "name": "Norheimsund",
+      "id": "pPxpnz6mFffZ"
+    },
+    {
+      "name": "Notodden",
+      "id": "bayuGTr_jr-h"
+    },
+    {
+      "name": "Nybergsund",
+      "id": "dFhpwHh5S_Or"
+    },
+    {
+      "name": "Nyborg",
+      "id": "w3OG39QwKgx6"
+    },
+    {
+      "name": "Nydalen",
+      "id": "LaHnpCAizmBp"
+    },
+    {
+      "name": "Nygardsjoen",
+      "id": "FdppJ9RTOkrH"
+    },
+    {
+      "name": "Nyhus",
+      "id": "BkxucyYIckLi"
+    },
+    {
+      "name": "Nykirke",
+      "id": "UeRI7ed6FkYZ"
+    },
+    {
+      "name": "Odda",
+      "id": "OnfdM18QXcG4"
+    },
+    {
+      "name": "Odnes",
+      "id": "5opKj3yzGczI"
+    },
+    {
+      "name": "Oksfjord",
+      "id": "D2R__16SginV"
+    },
+    {
+      "name": "Oksvoll",
+      "id": "31_X77wRXn6b"
+    },
+    {
+      "name": "Olden",
+      "id": "6lQTczNt4XF4"
+    },
+    {
+      "name": "Olderdalen",
+      "id": "PESaOUGuYV0s"
+    },
+    {
+      "name": "Olen",
+      "id": "b6qDAdQFXrw3"
+    },
+    {
+      "name": "Oltedal",
+      "id": "L1zlSJCHjAMs"
+    },
+    {
+      "name": "Oma",
+      "id": "3TxFB6se3AGN"
+    },
+    {
+      "name": "Onarheim",
+      "id": "19acSYcTI5BB"
+    },
+    {
+      "name": "Oppdal",
+      "id": "XzHJC1F1zkri"
+    },
+    {
+      "name": "Oppegard",
+      "id": "BSZ693-V8vQv"
+    },
+    {
+      "name": "Opphaug",
+      "id": "Bs_vS2ShiKE7"
+    },
+    {
+      "name": "Oresvika",
+      "id": "mflb06OzEjct"
+    },
+    {
+      "name": "Orje",
+      "id": "BqeGG_FyK0l3"
+    },
+    {
+      "name": "Orkanger",
+      "id": "c59C7W7M9wIZ"
+    },
+    {
+      "name": "Ornes",
+      "id": "n0dkOdOnquO7"
+    },
+    {
+      "name": "Orre",
+      "id": "Yc89y0hoN-5U"
+    },
+    {
+      "name": "Os",
+      "id": "fgtdQ2DHeYWI"
+    },
+    {
+      "name": "Oslo",
+      "id": "Ize_JQe_Bos5"
+    },
+    {
+      "name": "Otta",
+      "id": "1vCLkfVWGP5n"
+    },
+    {
+      "name": "Otteroy",
+      "id": "b3CGM8UQc77F"
+    },
+    {
+      "name": "Ottestad",
+      "id": "nO_WVKNILBA3"
+    },
+    {
+      "name": "Oveland",
+      "id": "lfbnVfQiLdgT"
+    },
+    {
+      "name": "Ovre Ardal",
+      "id": "tgiwzolANyac"
+    },
+    {
+      "name": "Ovrebo",
+      "id": "TS93rWFw5YML"
+    },
+    {
+      "name": "Oyeren",
+      "id": "iS6xomVaIIBX"
+    },
+    {
+      "name": "Oystese",
+      "id": "n_fdyIooLL_o"
+    },
+    {
+      "name": "Porsgrunn",
+      "id": "igVKJtHOyyIQ"
+    },
+    {
+      "name": "Prestfoss",
+      "id": "HzWXCt7xi60n"
+    },
+    {
+      "name": "Raholt",
+      "id": "bwSe3NPulXaQ"
+    },
+    {
+      "name": "Rakkestad",
+      "id": "h9PIlXGkLQbg"
+    },
+    {
+      "name": "Ramberg",
+      "id": "-R-lDE1YsYe3"
+    },
+    {
+      "name": "Ramfjordbotn",
+      "id": "R_IMPdeBGu-h"
+    },
+    {
+      "name": "Ramnes",
+      "id": "TCXF8Z3yy7T4"
+    },
+    {
+      "name": "Rana",
+      "id": "tQJD44g2sZKC"
+    },
+    {
+      "name": "Ranasfoss",
+      "id": "ceB3uCUfhvtL"
+    },
+    {
+      "name": "Randaberg",
+      "id": "VJTxNaiZiBCi"
+    },
+    {
+      "name": "Ranheim",
+      "id": "iPKnpC07-XI3"
+    },
+    {
+      "name": "Raudeberg",
+      "id": "ZKs9HUH08WMx"
+    },
+    {
+      "name": "Raudsand",
+      "id": "uyvhAlpHp0x7"
+    },
+    {
+      "name": "Raufoss",
+      "id": "gAn7CwECbhQ9"
+    },
+    {
+      "name": "Rauland",
+      "id": "SyX4tXsCtHY6"
+    },
+    {
+      "name": "Re",
+      "id": "eW0ZMfOuPGDG"
+    },
+    {
+      "name": "Reine",
+      "id": "2z9FHzPo5wxh"
+    },
+    {
+      "name": "Reinsvoll",
+      "id": "U2CrHKm1GFSA"
+    },
+    {
+      "name": "Reipa",
+      "id": "ZiGVijp2lf3E"
+    },
+    {
+      "name": "Reistad",
+      "id": "7zwNGllA97wP"
+    },
+    {
+      "name": "Reitan",
+      "id": "v0cHOgvOeDiQ"
+    },
+    {
+      "name": "Rena",
+      "id": "pV26czDk35y3"
+    },
+    {
+      "name": "Rennebu",
+      "id": "CMxdB5A5AJhA"
+    },
+    {
+      "name": "Rindal",
+      "id": "egSw8aIM8dP9"
+    },
+    {
+      "name": "Ringebu",
+      "id": "ZyRwC4lzCshb"
+    },
+    {
+      "name": "Ringsaker",
+      "id": "7aKqA6J-QDwQ"
+    },
+    {
+      "name": "Ringstad",
+      "id": "pTIC1mXQoupe"
+    },
+    {
+      "name": "Risoyhamn",
+      "id": "kbgufd-dN7qE"
+    },
+    {
+      "name": "Rjukan",
+      "id": "9CU5ArZ6wc2k"
+    },
+    {
+      "name": "Roa",
+      "id": "DzClh2-EJ_x1"
+    },
+    {
+      "name": "Rodberg",
+      "id": "XWYi42d7-aFS"
+    },
+    {
+      "name": "Rodoy",
+      "id": "Xq9tVAdcEFGP"
+    },
+    {
+      "name": "Rognan",
+      "id": "5ldcENFhaolX"
+    },
+    {
+      "name": "Rogne",
+      "id": "CQaq20hcq6xP"
+    },
+    {
+      "name": "Rokland",
+      "id": "GgpJwTf9K59E"
+    },
+    {
+      "name": "Roldal",
+      "id": "KiF8H3AUUzft"
+    },
+    {
+      "name": "Rollag",
+      "id": "YIusPPNK88Tm"
+    },
+    {
+      "name": "Rolvsoy",
+      "id": "SK0K6Cflq7hp"
+    },
+    {
+      "name": "Romedal",
+      "id": "IISzeNqNVL6U"
+    },
+    {
+      "name": "Rong",
+      "id": "51t91XmK1qs1"
+    },
+    {
+      "name": "Roros",
+      "id": "BzD7O4APl4IF"
+    },
+    {
+      "name": "Rorvik",
+      "id": "mURFGiXHAyee"
+    },
+    {
+      "name": "Rosendal",
+      "id": "7WBXH6iWpbGI"
+    },
+    {
+      "name": "Rossland",
+      "id": "k_gepCv_M-MZ"
+    },
+    {
+      "name": "Rost",
+      "id": "g_NR4q-g70WW"
+    },
+    {
+      "name": "Rovde",
+      "id": "8YLXQQBMoNGa"
+    },
+    {
+      "name": "Roverud",
+      "id": "IoDpZevXAQ7m"
+    },
+    {
+      "name": "Royken",
+      "id": "wnSPsM2fuhR3"
+    },
+    {
+      "name": "Royneberg",
+      "id": "d_p4Swrhp3PF"
+    },
+    {
+      "name": "Rubbestadneset",
+      "id": "chEJuafJUNCD"
+    },
+    {
+      "name": "Rud",
+      "id": "66Jk3xI3EXUM"
+    },
+    {
+      "name": "Rygge",
+      "id": "g7lWY_ymPTPr"
+    },
+    {
+      "name": "Rykene",
+      "id": "hUMsY6iR5Qz5"
+    },
+    {
+      "name": "Rypefjord",
+      "id": "9HGz9LMfY2kn"
+    },
+    {
+      "name": "Saebo",
+      "id": "XtLUv5rbK40d"
+    },
+    {
+      "name": "Saebovik",
+      "id": "pdhgeYLGN-bZ"
+    },
+    {
+      "name": "Saetre",
+      "id": "AVZC_TXnTFEc"
+    },
+    {
+      "name": "Saevareid",
+      "id": "n69_BewueP4i"
+    },
+    {
+      "name": "Saeveland",
+      "id": "y7b9zbpbWIyY"
+    },
+    {
+      "name": "Sagvag",
+      "id": "EfwCjJN1Umuy"
+    },
+    {
+      "name": "Salhus",
+      "id": "RoJVN5y-OAg9"
+    },
+    {
+      "name": "Salsbruket",
+      "id": "WG3OSajajG9u"
+    },
+    {
+      "name": "Salsnes",
+      "id": "vtZ-O6gv-bPZ"
+    },
+    {
+      "name": "Saltnes",
+      "id": "7jwRoQ3zTs5b"
+    },
+    {
+      "name": "Samuelsberg",
+      "id": "73qeuoHZr1Mq"
+    },
+    {
+      "name": "Sand",
+      "id": "9fE-4f50ktrh"
+    },
+    {
+      "name": "Sandane",
+      "id": "n7ItCy-fFH25"
+    },
+    {
+      "name": "Sande",
+      "id": "AD0iegI1Pxk5"
+    },
+    {
+      "name": "Sandefjord",
+      "id": "9_cxWk4KJVTv"
+    },
+    {
+      "name": "Sandeid",
+      "id": "o1pVD8m62xnD"
+    },
+    {
+      "name": "Sander",
+      "id": "AgI4_WMVMEAl"
+    },
+    {
+      "name": "Sandnes",
+      "id": "wEEYObDKcxHT"
+    },
+    {
+      "name": "Sandnessjoen",
+      "id": "FzwO62CQoq53"
+    },
+    {
+      "name": "Sandshamn",
+      "id": "Z4eBmuvVhty2"
+    },
+    {
+      "name": "Sandstad",
+      "id": "Bet8uwi3DqTt"
+    },
+    {
+      "name": "Sandtorg",
+      "id": "dIgBmtBtLOP5"
+    },
+    {
+      "name": "Sandvika",
+      "id": "cK_Oq2_Q58Y2"
+    },
+    {
+      "name": "Sandvoll",
+      "id": "JI0tJjRgb7CY"
+    },
+    {
+      "name": "Sannidal",
+      "id": "yqSmTbpxXPcY"
+    },
+    {
+      "name": "Sarpsborg",
+      "id": "buTGM_xq8Mmn"
+    },
+    {
+      "name": "Saupstad",
+      "id": "BzQlRUpnjN7N"
+    },
+    {
+      "name": "Selasvatn",
+      "id": "wY9sdxTo75Fi"
+    },
+    {
+      "name": "Selje",
+      "id": "OsKigwUoRI-T"
+    },
+    {
+      "name": "Seljord",
+      "id": "9_vLy36T2Ytm"
+    },
+    {
+      "name": "Sellebakk",
+      "id": "nYT3QTAHKdS-"
+    },
+    {
+      "name": "Selva",
+      "id": "DG_TyvWcvzQU"
+    },
+    {
+      "name": "Selvaer",
+      "id": "to5XU46puJn7"
+    },
+    {
+      "name": "Sem",
+      "id": "ORV01DMIErWU"
+    },
+    {
+      "name": "Setermoen",
+      "id": "rdYoLvrWlt9x"
+    },
+    {
+      "name": "Siggerud",
+      "id": "-uYOlQ4MsAXj"
+    },
+    {
+      "name": "Siljan",
+      "id": "60gkMgreeWlL"
+    },
+    {
+      "name": "Silsand",
+      "id": "Xf5Ls4Q7h_LL"
+    },
+    {
+      "name": "Singsas",
+      "id": "V0cIASd4f0MI"
+    },
+    {
+      "name": "Sira",
+      "id": "MeAdbQz6sq_8"
+    },
+    {
+      "name": "Sirevag",
+      "id": "wuk27KVgln-9"
+    },
+    {
+      "name": "Sistranda",
+      "id": "eJLYlmKoY5Lq"
+    },
+    {
+      "name": "Sjovegan",
+      "id": "W0IY3pMxB_Zx"
+    },
+    {
+      "name": "Skabu",
+      "id": "GRp7vzXppVtz"
+    },
+    {
+      "name": "Skage",
+      "id": "BWePPkP5CsqI"
+    },
+    {
+      "name": "Skanevik",
+      "id": "R_KWOO-zvX5p"
+    },
+    {
+      "name": "Skarer",
+      "id": "MuVtyDh9X0hT"
+    },
+    {
+      "name": "Skarnes",
+      "id": "rPQWHO7Z7fav"
+    },
+    {
+      "name": "Skatoy",
+      "id": "1p3NQ-RlFqYk"
+    },
+    {
+      "name": "Skaun",
+      "id": "h1sZO5SAarvW"
+    },
+    {
+      "name": "Skedsmokorset",
+      "id": "y8RXLXfhxAfm"
+    },
+    {
+      "name": "Skeie",
+      "id": "nWJfieGTACte"
+    },
+    {
+      "name": "Ski",
+      "id": "f8yJK81QKduz"
+    },
+    {
+      "name": "Skien",
+      "id": "ZAw7nqmtGbhL"
+    },
+    {
+      "name": "Skjeberg",
+      "id": "qjE6kW-pxAdh"
+    },
+    {
+      "name": "Skjerstad",
+      "id": "WtqJ0g-8Yz5l"
+    },
+    {
+      "name": "Skjervoy",
+      "id": "MNk5pxWZk_lw"
+    },
+    {
+      "name": "Skjold",
+      "id": "NF8JWuy5h1SZ"
+    },
+    {
+      "name": "Skjoldastraumen",
+      "id": "bu7TX0DnmHVd"
+    },
+    {
+      "name": "Skjolden",
+      "id": "wTs0x6dHVXKz"
+    },
+    {
+      "name": "Skodje",
+      "id": "8dTVh9uxqLmL"
+    },
+    {
+      "name": "Skogn",
+      "id": "-P4XBvhqnw0f"
+    },
+    {
+      "name": "Skoppum",
+      "id": "4uvuw4zgJe9p"
+    },
+    {
+      "name": "Skotbu",
+      "id": "yTDvZQZOz1oh"
+    },
+    {
+      "name": "Skotterud",
+      "id": "e5O4cnBFOw_V"
+    },
+    {
+      "name": "Skreia",
+      "id": "NtgfriL2O9b4"
+    },
+    {
+      "name": "Skudeneshavn",
+      "id": "ASLRp-H8KTGI"
+    },
+    {
+      "name": "Skulsfjord",
+      "id": "5fPkC7oGI3Xc"
+    },
+    {
+      "name": "Skutvika",
+      "id": "sX9ncQNchWnl"
+    },
+    {
+      "name": "Slastad",
+      "id": "Ye1YmEhHPtrD"
+    },
+    {
+      "name": "Slattum",
+      "id": "O-d8iQvMpde7"
+    },
+    {
+      "name": "Slemdal",
+      "id": "7fRlCzBu5AjG"
+    },
+    {
+      "name": "Slemmestad",
+      "id": "MkBlC5aCKFk0"
+    },
+    {
+      "name": "Sletta",
+      "id": "mXkn-dUkxFe7"
+    },
+    {
+      "name": "Snaase",
+      "id": "aeiO9ga0x9A2"
+    },
+    {
+      "name": "Snillfjord",
+      "id": "JzExuPpSIOKm"
+    },
+    {
+      "name": "Sogn",
+      "id": "p830dwZt8EEo"
+    },
+    {
+      "name": "Sokna",
+      "id": "A2eTcfHKJoj4"
+    },
+    {
+      "name": "Sokndal",
+      "id": "c3X_79FEW1NK"
+    },
+    {
+      "name": "Soknedal",
+      "id": "uWNCsDIywjE0"
+    },
+    {
+      "name": "Sola",
+      "id": "VRCY-1ulSNPX"
+    },
+    {
+      "name": "Solbergelva",
+      "id": "yhSMZF3P3Nql"
+    },
+    {
+      "name": "Solvorn",
+      "id": "dvC_0mQBrCCq"
+    },
+    {
+      "name": "Sommaroy",
+      "id": "jiKwsd9Kfk23"
+    },
+    {
+      "name": "Somna",
+      "id": "EvhbggsGJKVN"
+    },
+    {
+      "name": "Son",
+      "id": "V2Gro1SGVy4c"
+    },
+    {
+      "name": "Sondeled",
+      "id": "u68Dcv4Bf0wN"
+    },
+    {
+      "name": "Sor-Fron",
+      "id": "_vpJxLq2rNAd"
+    },
+    {
+      "name": "Sorbo",
+      "id": "jmWvnys42w6X"
+    },
+    {
+      "name": "Soreidgrenda",
+      "id": "LeE8tBlJWEgv"
+    },
+    {
+      "name": "Sorli",
+      "id": "Z3vHkKeeRqTV"
+    },
+    {
+      "name": "Sortland",
+      "id": "vwxbi6tKnaFz"
+    },
+    {
+      "name": "Sorum",
+      "id": "gGUkQSAoqVWl"
+    },
+    {
+      "name": "Sorumsand",
+      "id": "9jHhDqmbIsRo"
+    },
+    {
+      "name": "Sorvaer",
+      "id": "jYT70A5cG-QT"
+    },
+    {
+      "name": "Sorvagen",
+      "id": "BYaww72A2wzi"
+    },
+    {
+      "name": "Sorvik",
+      "id": "xLPk-zHC1PaN"
+    },
+    {
+      "name": "Spangereid",
+      "id": "6Z2-PLBwypiZ"
+    },
+    {
+      "name": "Sparbu",
+      "id": "E6xfbYN-K-jG"
+    },
+    {
+      "name": "Sperrebotn",
+      "id": "-15c0CSfeZRi"
+    },
+    {
+      "name": "Spillum",
+      "id": "eaduzDPOxbLo"
+    },
+    {
+      "name": "Spydeberg",
+      "id": "0QnHqa3FpVvr"
+    },
+    {
+      "name": "Stabbestad",
+      "id": "uwW4GvyRrjo6"
+    },
+    {
+      "name": "Stabekk",
+      "id": "vIn_qAe-aUiz"
+    },
+    {
+      "name": "Stamnes",
+      "id": "7R3gRLjvs8RB"
+    },
+    {
+      "name": "Stamsund",
+      "id": "Ie6X6D5gSipC"
+    },
+    {
+      "name": "Stange",
+      "id": "lB1DPdOYuMH1"
+    },
+    {
+      "name": "Stathelle",
+      "id": "iZaM334w4zLm"
+    },
+    {
+      "name": "Staubo",
+      "id": "4H_yH8doQ0fu"
+    },
+    {
+      "name": "Stavanger",
+      "id": "BXy0x6slFSBt"
+    },
+    {
+      "name": "Stavern",
+      "id": "nv1ojQU00--k"
+    },
+    {
+      "name": "Steigen",
+      "id": "ksXdWs0KmITc"
+    },
+    {
+      "name": "Steinberg",
+      "id": "P9mPcbYeyYvN"
+    },
+    {
+      "name": "Steinkjer",
+      "id": "h_zIcdTeXz1L"
+    },
+    {
+      "name": "Steinsdalen",
+      "id": "5twwLi-rqKcK"
+    },
+    {
+      "name": "Sto",
+      "id": "V3LY0Lxau2po"
+    },
+    {
+      "name": "Stokke",
+      "id": "Aap5zjFbgGNw"
+    },
+    {
+      "name": "Stokmarknes",
+      "id": "I3AhNI8tdXHD"
+    },
+    {
+      "name": "Stol",
+      "id": "4eXibAh810Si"
+    },
+    {
+      "name": "Storas",
+      "id": "w3pQ37WAoKfB"
+    },
+    {
+      "name": "Stordal",
+      "id": "Rrb7MKt8FGsg"
+    },
+    {
+      "name": "Storebo",
+      "id": "Wicqiv65bh4R"
+    },
+    {
+      "name": "Storforshei",
+      "id": "gN9FLZyi0HWq"
+    },
+    {
+      "name": "Storslett",
+      "id": "4pxFCnOy8z46"
+    },
+    {
+      "name": "Storsteinnes",
+      "id": "TWOeRYG-HGAQ"
+    },
+    {
+      "name": "Stranda",
+      "id": "OgTn17J3A4a2"
+    },
+    {
+      "name": "Straume",
+      "id": "P5Snyx2ax3Ru"
+    },
+    {
+      "name": "Straumen",
+      "id": "81XkCfRUTCW9"
+    },
+    {
+      "name": "Strommen",
+      "id": "x5etrJGgm9wM"
+    },
+    {
+      "name": "Stronstad",
+      "id": "M-fZrckRaXA5"
+    },
+    {
+      "name": "Strusshamn",
+      "id": "8kSx07RZt3B4"
+    },
+    {
+      "name": "Stryn",
+      "id": "07TjaZFmc_4_"
+    },
+    {
+      "name": "Suldalsosen",
+      "id": "a7gMW9dfdQ5N"
+    },
+    {
+      "name": "Sulisjielmma",
+      "id": "ce6CPFjIvZNS"
+    },
+    {
+      "name": "Sund",
+      "id": "G5pPH_zL3v2X"
+    },
+    {
+      "name": "Sundal",
+      "id": "JbbgsuVCRYaF"
+    },
+    {
+      "name": "Sunde",
+      "id": "9JiXXOpKa4yM"
+    },
+    {
+      "name": "Sunndalsora",
+      "id": "qLqCtbyx7cFW"
+    },
+    {
+      "name": "Surnadalsora",
+      "id": "YakTZ5-wXm0k"
+    },
+    {
+      "name": "Svarstad",
+      "id": "-T6-1psqSyqr"
+    },
+    {
+      "name": "Svartskog",
+      "id": "D7JCiMlCyOKt"
+    },
+    {
+      "name": "Sveio",
+      "id": "gTcl4cUs42ns"
+    },
+    {
+      "name": "Svelgen",
+      "id": "1zb6jQM8E9nB"
+    },
+    {
+      "name": "Svelvik",
+      "id": "tN5IZUSDg5M3"
+    },
+    {
+      "name": "Svene",
+      "id": "osj28EK1JN8a"
+    },
+    {
+      "name": "Svortland",
+      "id": "bGHtIop7LRUh"
+    },
+    {
+      "name": "Sylling",
+      "id": "1QtPcBSfRPPL"
+    },
+    {
+      "name": "Syvik",
+      "id": "jzZw34YHUlfp"
+    },
+    {
+      "name": "Tafjord",
+      "id": "YxNSFNe1AauJ"
+    },
+    {
+      "name": "Talvik",
+      "id": "wkq6CtY57vpX"
+    },
+    {
+      "name": "Tananger",
+      "id": "Wua4q1LH4Bpt"
+    },
+    {
+      "name": "Tanem",
+      "id": "Q0GJqmQDrzsU"
+    },
+    {
+      "name": "Tangen",
+      "id": "IRJ6mqGn7ABi"
+    },
+    {
+      "name": "Tau",
+      "id": "8PKyUJ4sWiK4"
+    },
+    {
+      "name": "Tennevoll",
+      "id": "48ikR3m98q5S"
+    },
+    {
+      "name": "Tennfjord",
+      "id": "6jINQHmlwIw8"
+    },
+    {
+      "name": "Tertnes",
+      "id": "mwuObNQO--My"
+    },
+    {
+      "name": "Tiller",
+      "id": "BLInCssAlvSI"
+    },
+    {
+      "name": "Tingvoll",
+      "id": "jUYCODAgUSu4"
+    },
+    {
+      "name": "Tistedal",
+      "id": "vsmeV4vjlt_1"
+    },
+    {
+      "name": "Tjeldsto",
+      "id": "-1-v731EyK3L"
+    },
+    {
+      "name": "Tjelta",
+      "id": "b3apgoohy0wX"
+    },
+    {
+      "name": "Tjong",
+      "id": "g7U0pd6sZus5"
+    },
+    {
+      "name": "Tjorvag",
+      "id": "36wqjqLSb1fh"
+    },
+    {
+      "name": "Tjotta",
+      "id": "s_TXG7k6mDhp"
+    },
+    {
+      "name": "Tofte",
+      "id": "JGhSMhVGQLU8"
+    },
+    {
+      "name": "Tolga",
+      "id": "iH6LBn8d7PTS"
+    },
+    {
+      "name": "Tomasjorda",
+      "id": "6taLDeUvkbTO"
+    },
+    {
+      "name": "Tomter",
+      "id": "HQfg_0B6OcM3"
+    },
+    {
+      "name": "Tonstad",
+      "id": "YwPNjyQzVeJm"
+    },
+    {
+      "name": "Tornes",
+      "id": "d8KXyH9cM3q_"
+    },
+    {
+      "name": "Torod",
+      "id": "FbONn0cVvKTp"
+    },
+    {
+      "name": "Torp",
+      "id": "3hLrgGJSzq8w"
+    },
+    {
+      "name": "Torpo",
+      "id": "sPNoZW1lhRB9"
+    },
+    {
+      "name": "Tovik",
+      "id": "gPO85HWDbM2G"
+    },
+    {
+      "name": "Trana",
+      "id": "iujNNwoK2gSS"
+    },
+    {
+      "name": "Tranby",
+      "id": "Ncc8Qrp0AiMh"
+    },
+    {
+      "name": "Trengereid",
+      "id": "b2r3d3tU6Arn"
+    },
+    {
+      "name": "Tretten",
+      "id": "pBOOi6-rw-am"
+    },
+    {
+      "name": "Treungen",
+      "id": "tsjSTLXly88I"
+    },
+    {
+      "name": "Trofors",
+      "id": "TM0xO8VSyWG3"
+    },
+    {
+      "name": "Trollfjorden",
+      "id": "7JyHR7CjF4Lf"
+    },
+    {
+      "name": "Tromsdalen",
+      "id": "j73ZalYoYPYp"
+    },
+    {
+      "name": "Trondheim",
+      "id": "GdYP7j-LtV6A"
+    },
+    {
+      "name": "Trones",
+      "id": "SMpiBmNQfZVr"
+    },
+    {
+      "name": "Turoy",
+      "id": "BmhB0Cgvrj0P"
+    },
+    {
+      "name": "Tvedestrand",
+      "id": "soLwNDTeKvhs"
+    },
+    {
+      "name": "Tveit",
+      "id": "24_evCinlc8u"
+    },
+    {
+      "name": "Tynset",
+      "id": "CK3R1uK7czKh"
+    },
+    {
+      "name": "Tyristrand",
+      "id": "fO8WyS5l4gCx"
+    },
+    {
+      "name": "Tysnes",
+      "id": "RqmUGcDroReJ"
+    },
+    {
+      "name": "Tysse",
+      "id": "jp9xb--_6R5K"
+    },
+    {
+      "name": "Tyssedal",
+      "id": "wCsLtrtRMAnJ"
+    },
+    {
+      "name": "Uggdal",
+      "id": "KGVdJSmiaKtG"
+    },
+    {
+      "name": "Ulefoss",
+      "id": "k29UYP0ziiY4"
+    },
+    {
+      "name": "Ulstein",
+      "id": "lJvhPjCeFTaK"
+    },
+    {
+      "name": "Ulsteinvik",
+      "id": "smdckVudFrbL"
+    },
+    {
+      "name": "Ulvagen",
+      "id": "Ke3z6Vlc5dPB"
+    },
+    {
+      "name": "Ulvik",
+      "id": "R00mhCnCIMyr"
+    },
+    {
+      "name": "Undeim",
+      "id": "0VUswen77rCV"
+    },
+    {
+      "name": "Uskedalen",
+      "id": "IZ9_ZX2RGPVT"
+    },
+    {
+      "name": "Utsira",
+      "id": "VtBS-PpdFg6Y"
+    },
+    {
+      "name": "Utskarpen",
+      "id": "5s-WZeKxuqUV"
+    },
+    {
+      "name": "Uvdal",
+      "id": "dyclqRF5wrwv"
+    },
+    {
+      "name": "Vadheim",
+      "id": "8_ERneLFAj2K"
+    },
+    {
+      "name": "Vage",
+      "id": "cnLjMB89XiJD"
+    },
+    {
+      "name": "Vagland",
+      "id": "F1yJsPr_Q1ZC"
+    },
+    {
+      "name": "Vaksdal",
+      "id": "htMkA_y1Soq_"
+    },
+    {
+      "name": "Vale",
+      "id": "xLr9nJDeZ_sv"
+    },
+    {
+      "name": "Valen",
+      "id": "kjF1Yb-Dfp7F"
+    },
+    {
+      "name": "Valer",
+      "id": "lZfGMK2AWHcG"
+    },
+    {
+      "name": "Valestrand",
+      "id": "SHEhhsYLB2Az"
+    },
+    {
+      "name": "Valestrandfossen",
+      "id": "lsojRtDyc5bC"
+    },
+    {
+      "name": "Valldal",
+      "id": "f7AJZ86Gec2x"
+    },
+    {
+      "name": "Valle",
+      "id": "UB82UDLB7agN"
+    },
+    {
+      "name": "Valsoyfjord",
+      "id": "qnEdPPG_yarm"
+    },
+    {
+      "name": "Vangsvika",
+      "id": "TXOu50AfmAsv"
+    },
+    {
+      "name": "Vannvag",
+      "id": "dc7Z_3Xr9cJA"
+    },
+    {
+      "name": "Vanse",
+      "id": "0cmOJDehEhPV"
+    },
+    {
+      "name": "Varangerbotn",
+      "id": "H5W9pQN2CYfw"
+    },
+    {
+      "name": "Varhaug",
+      "id": "DWKm5bWY0YZk"
+    },
+    {
+      "name": "Vassenden",
+      "id": "ajpK0bcwv6do"
+    },
+    {
+      "name": "Vatne",
+      "id": "QxXkht0oXzpV"
+    },
+    {
+      "name": "Vedavagen",
+      "id": "zbff7vSDpY5F"
+    },
+    {
+      "name": "Vegarshei",
+      "id": "FpgTE3Xm16xq"
+    },
+    {
+      "name": "Veggli",
+      "id": "bkF6jHnByxx5"
+    },
+    {
+      "name": "Venabygd",
+      "id": "OYyptpuP6CI2"
+    },
+    {
+      "name": "Vennesla",
+      "id": "2STFCl2_tqrY"
+    },
+    {
+      "name": "Verdal",
+      "id": "1Aai-FztN2PB"
+    },
+    {
+      "name": "Vestby",
+      "id": "W_v_83-74TLo"
+    },
+    {
+      "name": "Vestfossen",
+      "id": "cYrykzvJ2pX6"
+    },
+    {
+      "name": "Vestnes",
+      "id": "lOOr_63w3n3O"
+    },
+    {
+      "name": "Vestra Mosterhamn",
+      "id": "XkAsU31l5DFi"
+    },
+    {
+      "name": "Vestre Gausdal",
+      "id": "62BinCyF71oU"
+    },
+    {
+      "name": "Vevang",
+      "id": "td0VvVPX8PUh"
+    },
+    {
+      "name": "Vevelstad",
+      "id": "h8tAiIHuBCX3"
+    },
+    {
+      "name": "Vigrestad",
+      "id": "loAAwZkmA0Xj"
+    },
+    {
+      "name": "Vikebygd",
+      "id": "gWXU4m5pCZ6d"
+    },
+    {
+      "name": "Vikedal",
+      "id": "B1AejgclgLXz"
+    },
+    {
+      "name": "Vikersund",
+      "id": "AgCcR9TnfSU6"
+    },
+    {
+      "name": "Vikesa",
+      "id": "-JywTvX-QIQB"
+    },
+    {
+      "name": "Vikran",
+      "id": "GRoJsgYO0mZL"
+    },
+    {
+      "name": "Vingelen",
+      "id": "iHa8dyWWEBjX"
+    },
+    {
+      "name": "Vinje",
+      "id": "qNmstSQjPMFk"
+    },
+    {
+      "name": "Vinstra",
+      "id": "xY4qyO8GE4aC"
+    },
+    {
+      "name": "Voksa",
+      "id": "4L-d3wqKvyeg"
+    },
+    {
+      "name": "Volda",
+      "id": "whvr7x4fmDP_"
+    },
+    {
+      "name": "Vollen",
+      "id": "UEx-w7YBuS7s"
+    },
+    {
+      "name": "Vormedal",
+      "id": "ymHnOSrwhZ7U"
+    },
+    {
+      "name": "Vormsund",
+      "id": "GENvAe5lU1EI"
+    },
+    {
+      "name": "Voss",
+      "id": "N9EwOfpHdsNF"
+    },
+    {
+      "name": "Vossestrand",
+      "id": "iiGPQdt58DzX"
+    },
+    {
+      "name": "Vraliosen",
+      "id": "MKqRYwQWz6PP"
+    },
+    {
+      "name": "Ytre Alvik",
+      "id": "UN79GJvdo8Rk"
+    }
   ]
 }

@@ -1,15 +1,69 @@
 {
   "coid": "KW",
   "cities": [
-    { "name": "Kuwait City", "id": "c93b2f5c6d77" },
-    { "name": "Al Ahmadi", "id": "d04c3a6d7e88" },
-    { "name": "Hawalli", "id": "e15d4b7e8f99" },
-    { "name": "Salmiya", "id": "f26e5c8f9a10" },
-    { "name": "Farwaniya", "id": "a37f6d9a0b21" },
-    { "name": "Jahra", "id": "b48a7e0b1c32" },
-    { "name": "Sabah Al Salem", "id": "c59b8f1c2d43" },
-    { "name": "Mubarak Al-Kabeer", "id": "d60c9a2d3e54" },
-    { "name": "Fahaheel", "id": "e71d0b3e4f65" },
-    { "name": "Mangaf", "id": "f82e1c4f5a76" }
+    {
+      "name": "Abraq Khaytan",
+      "id": "vZVL3mAtwoZ7"
+    },
+    {
+      "name": "Ad Dasmah",
+      "id": "Fz_VNhDG-va0"
+    },
+    {
+      "name": "Ad Dawhah",
+      "id": "SmcUv0Tz0XDK"
+    },
+    {
+      "name": "Al Ahmadi",
+      "id": "hGDpaggyZJlX"
+    },
+    {
+      "name": "Al Farwaniyah",
+      "id": "idPCxv_RKLJ9"
+    },
+    {
+      "name": "Al Shamiya",
+      "id": "q-FJvAkmYl0n"
+    },
+    {
+      "name": "Ar Rawdah",
+      "id": "0VNsPOZlwnUG"
+    },
+    {
+      "name": "As Salimiyah",
+      "id": "gsWF3lJoYnam"
+    },
+    {
+      "name": "Ash Shu`aybah",
+      "id": "G5kA4hWrriWN"
+    },
+    {
+      "name": "Ash Shuwaykh",
+      "id": "z1B8bUfJPtlk"
+    },
+    {
+      "name": "Bayan",
+      "id": "FcOZfW6-bFtx"
+    },
+    {
+      "name": "Hawalli",
+      "id": "TTSGjv45JGcS"
+    },
+    {
+      "name": "Janub as Surrah",
+      "id": "v-Qcs0CzC-ix"
+    },
+    {
+      "name": "Kayfan",
+      "id": "yDoKUoIWGW0E"
+    },
+    {
+      "name": "Kuwait City",
+      "id": "B2U4Jke732G1"
+    },
+    {
+      "name": "Salwa",
+      "id": "3JxmyYaoG7H6"
+    }
   ]
 }

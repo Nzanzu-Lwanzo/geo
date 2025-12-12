@@ -1,15 +1,201 @@
 {
   "coid": "TT",
   "cities": [
-    { "name": "Port of Spain", "id": "e1f2a3b4c5d6" },
-    { "name": "San Fernando", "id": "f2a3b4c5d6e7" },
-    { "name": "Chaguanas", "id": "a3b4c5d6e7f8" },
-    { "name": "Arima", "id": "b4c5d6e7f8a9" },
-    { "name": "Point Fortin", "id": "c5d6e7f8a9b0" },
-    { "name": "Couva", "id": "d6e7f8a9b0c1" },
-    { "name": "Tobago", "id": "e7f8a9b0c1d2" },
-    { "name": "Sangre Grande", "id": "f8a9b0c1d2e3" },
-    { "name": "Princes Town", "id": "a9b0c1d2e3f4" },
-    { "name": "Mayaro", "id": "b0c1d2e3f4a5" }
+    {
+      "name": "Arima",
+      "id": "bywP9nNmrE35"
+    },
+    {
+      "name": "Arouca",
+      "id": "YeG4SUUTIQdV"
+    },
+    {
+      "name": "Barataria",
+      "id": "DkLN0ElMdMcE"
+    },
+    {
+      "name": "California",
+      "id": "XDiDEzyqSnhL"
+    },
+    {
+      "name": "Carapichaima",
+      "id": "7haYJRLVbKq4"
+    },
+    {
+      "name": "Carenage",
+      "id": "djiabBOUb6xX"
+    },
+    {
+      "name": "Caroni",
+      "id": "sajqvx4X5-bi"
+    },
+    {
+      "name": "Chaguanas",
+      "id": "Uy0rnDWtuQFx"
+    },
+    {
+      "name": "Claxton Bay",
+      "id": "uop0zwfdXqV6"
+    },
+    {
+      "name": "Couva",
+      "id": "i22PsT-X7lS5"
+    },
+    {
+      "name": "Cumuto",
+      "id": "SOJwEmWo8Hvv"
+    },
+    {
+      "name": "Cunupia",
+      "id": "u9v_uJ4kGPyt"
+    },
+    {
+      "name": "Curepe",
+      "id": "9Wkgd2_5TfDF"
+    },
+    {
+      "name": "Debe",
+      "id": "Qw0Pc5dzZ5M_"
+    },
+    {
+      "name": "Diego Martin",
+      "id": "w53dUCz_5xQU"
+    },
+    {
+      "name": "El Dorado",
+      "id": "gsguTV0WWtv1"
+    },
+    {
+      "name": "Freeport",
+      "id": "U_oyTgtowjuc"
+    },
+    {
+      "name": "Fyzabad",
+      "id": "HGD4U6wt2yzU"
+    },
+    {
+      "name": "Gasparillo",
+      "id": "-3wHKAtcGKXx"
+    },
+    {
+      "name": "Golden Lane",
+      "id": "IjJ8mR1vaLME"
+    },
+    {
+      "name": "Laventille",
+      "id": "svKAF8TVDhCW"
+    },
+    {
+      "name": "Lopinot",
+      "id": "zuJ2CWzoRMmM"
+    },
+    {
+      "name": "Marabella",
+      "id": "OpvgsfjC1ncK"
+    },
+    {
+      "name": "Maraval",
+      "id": "JOLuleHJ2ybW"
+    },
+    {
+      "name": "Moriah",
+      "id": "lBjqrwPCWUPX"
+    },
+    {
+      "name": "Morvant",
+      "id": "PPZH5FNszHB2"
+    },
+    {
+      "name": "Penal",
+      "id": "nvhTYUBr_68U"
+    },
+    {
+      "name": "Petit Valley",
+      "id": "omy5Vbp6hUiv"
+    },
+    {
+      "name": "Phoenix Park",
+      "id": "DCD42zSLQ7Tx"
+    },
+    {
+      "name": "Piarco",
+      "id": "lm3AKxfQJd5V"
+    },
+    {
+      "name": "Port of Spain",
+      "id": "Guqpm-tN1Or9"
+    },
+    {
+      "name": "Princes Town",
+      "id": "zq8WS6JpVDB0"
+    },
+    {
+      "name": "Rio Claro",
+      "id": "YfCQ587V4GBu"
+    },
+    {
+      "name": "Roxborough",
+      "id": "SzehDLaWfDGD"
+    },
+    {
+      "name": "Saint Augustine",
+      "id": "PxKxtBMMj2PQ"
+    },
+    {
+      "name": "Saint Clair",
+      "id": "DGU714wj3qDp"
+    },
+    {
+      "name": "Saint James",
+      "id": "H4Kn_i2yavdC"
+    },
+    {
+      "name": "Saint Joseph",
+      "id": "FerYCkBe5mfl"
+    },
+    {
+      "name": "San Fernando",
+      "id": "kW7861D91ekX"
+    },
+    {
+      "name": "San Juan",
+      "id": "Bq9o02ymoH7y"
+    },
+    {
+      "name": "Sangre Grande",
+      "id": "Lp-Ybvsi-ZPW"
+    },
+    {
+      "name": "Santa Cruz",
+      "id": "6W1nqsPTOw9h"
+    },
+    {
+      "name": "Scarborough",
+      "id": "j0lDNc2tLTCA"
+    },
+    {
+      "name": "Siparia",
+      "id": "4-KJqpBl-Jyh"
+    },
+    {
+      "name": "Tunapuna",
+      "id": "PFcoh8pIfu_N"
+    },
+    {
+      "name": "Valsayn",
+      "id": "LPiqXYFIn1GT"
+    },
+    {
+      "name": "Victoria",
+      "id": "bJpjK4-Omq7A"
+    },
+    {
+      "name": "Ward of Tacarigua",
+      "id": "9h8KlUKoFS4F"
+    },
+    {
+      "name": "Woodbrook",
+      "id": "UuJ_3qmpLD_R"
+    }
   ]
 }

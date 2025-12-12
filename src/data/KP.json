@@ -1,15 +1,45 @@
 {
   "coid": "KP",
   "cities": [
-    { "name": "Pyongyang", "id": "c91f3a2d9b7e" },
-    { "name": "Hamhung", "id": "d28e1f9ac4d2" },
-    { "name": "Chongjin", "id": "e39d7b1e0f52" },
-    { "name": "Nampo", "id": "f84a2c7f1e93" },
-    { "name": "Wonsan", "id": "a72b9d4c3a10" },
-    { "name": "Sinuiju", "id": "b63c1a8e5b27" },
-    { "name": "Tanchon", "id": "c72d9c4f1b83" },
-    { "name": "Kaesong", "id": "d91e3f7a2c64" },
-    { "name": "Haeju", "id": "e58f2a9d7e31" },
-    { "name": "Kanggye", "id": "f47b1c6e9f20" }
+    {
+      "name": "Pyongyang",
+      "id": "owxjF8KG-pXc"
+    },
+    {
+      "name": "Hamhung",
+      "id": "IGS0b8hOxLzY"
+    },
+    {
+      "name": "Chongjin",
+      "id": "vLd9B3nYlLWm"
+    },
+    {
+      "name": "Nampo",
+      "id": "xKYfF1M9JyCy"
+    },
+    {
+      "name": "Wonsan",
+      "id": "f2xfO9aeslUl"
+    },
+    {
+      "name": "Sinuiju",
+      "id": "mnc-N5COugts"
+    },
+    {
+      "name": "Tanchon",
+      "id": "1I_4-uvKGuO0"
+    },
+    {
+      "name": "Kaesong",
+      "id": "u5YeJG8ajW7Q"
+    },
+    {
+      "name": "Haeju",
+      "id": "3R5CPVfQSDXq"
+    },
+    {
+      "name": "Kanggye",
+      "id": "klYSiyQwxKlF"
+    }
   ]
 }

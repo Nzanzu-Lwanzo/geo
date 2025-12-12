@@ -1,15 +1,885 @@
 {
   "coid": "BG",
   "cities": [
-    { "name": "Sofia", "id": "c91f3a2d9b7e" },
-    { "name": "Plovdiv", "id": "d28e1f9ac4d2" },
-    { "name": "Varna", "id": "e39d7b1e0f52" },
-    { "name": "Burgas", "id": "f84a2c7f1e93" },
-    { "name": "Ruse", "id": "a72b9d4c3a10" },
-    { "name": "Stara Zagora", "id": "b63c1a8e5b27" },
-    { "name": "Pleven", "id": "c72d9c4f1b83" },
-    { "name": "Sliven", "id": "d91e3f7a2c64" },
-    { "name": "Dobrich", "id": "e58f2a9d7e31" },
-    { "name": "Shumen", "id": "f47b1c6e9f20" }
+    {
+      "name": "Akhtopol",
+      "id": "IKHHMRblMJ45"
+    },
+    {
+      "name": "Aksakovo",
+      "id": "tvNMb0t1BLqs"
+    },
+    {
+      "name": "Aleksandriya",
+      "id": "fy8VFuTWxkC4"
+    },
+    {
+      "name": "Alfatar",
+      "id": "aZbVC7oaKh7v"
+    },
+    {
+      "name": "Anton",
+      "id": "Y5KmTkCmxWpf"
+    },
+    {
+      "name": "Antonovo",
+      "id": "az1e1rjiFx3b"
+    },
+    {
+      "name": "Ardino",
+      "id": "zdxxPsKkns48"
+    },
+    {
+      "name": "Asenovgrad",
+      "id": "G0Kz5rS-mfOY"
+    },
+    {
+      "name": "Aytos",
+      "id": "18cMSTbNuI09"
+    },
+    {
+      "name": "Babovo",
+      "id": "r2tREB8-523A"
+    },
+    {
+      "name": "Baltchik",
+      "id": "QTgUrp_1L_oB"
+    },
+    {
+      "name": "Banite",
+      "id": "JDHKBJqiAdZ3"
+    },
+    {
+      "name": "Bankya",
+      "id": "WLqcuLHR-NOD"
+    },
+    {
+      "name": "Bansko",
+      "id": "oTv2b05eERBs"
+    },
+    {
+      "name": "Barutin",
+      "id": "yCX7CX2PmzPg"
+    },
+    {
+      "name": "Batak",
+      "id": "Sz0D1tJF7op0"
+    },
+    {
+      "name": "Belene",
+      "id": "hB0Ti23MLEeQ"
+    },
+    {
+      "name": "Belogradchik",
+      "id": "ZJYe2kwqI90X"
+    },
+    {
+      "name": "Beloslav",
+      "id": "UdM6h9B_DWOX"
+    },
+    {
+      "name": "Belovo",
+      "id": "j5kowSphHbLS"
+    },
+    {
+      "name": "Berkovitsa",
+      "id": "LH-l49N8x3iq"
+    },
+    {
+      "name": "Bistritsa",
+      "id": "Tu5Gjx8_2S_y"
+    },
+    {
+      "name": "Blagoevgrad",
+      "id": "CcnMzetYcV_q"
+    },
+    {
+      "name": "Boboshevo",
+      "id": "854oIcfVXLVK"
+    },
+    {
+      "name": "Bobovdol",
+      "id": "mDL3lU75wazf"
+    },
+    {
+      "name": "Borovan",
+      "id": "j-fEUWq9Mzwg"
+    },
+    {
+      "name": "Borovo",
+      "id": "ReFEb62zAACG"
+    },
+    {
+      "name": "Botevgrad",
+      "id": "lL_YT9jGoO48"
+    },
+    {
+      "name": "Bratsigovo",
+      "id": "29Ew5azSRYeU"
+    },
+    {
+      "name": "Bregare",
+      "id": "iI2piuerGVjT"
+    },
+    {
+      "name": "Bukovo",
+      "id": "DEoaD2a50ywW"
+    },
+    {
+      "name": "Burgas",
+      "id": "QcOEZfInilhi"
+    },
+    {
+      "name": "Byala",
+      "id": "vKqeRTFf7_Rq"
+    },
+    {
+      "name": "Byala Slatina",
+      "id": "NXIfn5aO0iUb"
+    },
+    {
+      "name": "Chakalarovo",
+      "id": "OKxWamlG1Ipi"
+    },
+    {
+      "name": "Chernolik",
+      "id": "y0O2o8PtTU0i"
+    },
+    {
+      "name": "Chernomorets",
+      "id": "JMWQYqW5DcXG"
+    },
+    {
+      "name": "Cherven",
+      "id": "XP9-PsPpBra5"
+    },
+    {
+      "name": "Cherven Bryag",
+      "id": "pps9R2Hp8uO0"
+    },
+    {
+      "name": "Chiprovtsi",
+      "id": "vVVSj9dIhE2v"
+    },
+    {
+      "name": "Chirpan",
+      "id": "28Lmj930tx0S"
+    },
+    {
+      "name": "Choba",
+      "id": "fmJinvM5p7h6"
+    },
+    {
+      "name": "Debelets",
+      "id": "ufqnEVT_tuD1"
+    },
+    {
+      "name": "Devin",
+      "id": "zaoVCok0UqE0"
+    },
+    {
+      "name": "Dimitrovgrad",
+      "id": "fUJWPtjj_nNZ"
+    },
+    {
+      "name": "Dobrich",
+      "id": "AiZtQDly81bq"
+    },
+    {
+      "name": "Dolna Banya",
+      "id": "OKwzzN9HZSI2"
+    },
+    {
+      "name": "Dolna Mitropoliya",
+      "id": "vcRSHcIauykF"
+    },
+    {
+      "name": "Dolna Oryakhovitsa",
+      "id": "IAMhJ2AN9lG7"
+    },
+    {
+      "name": "Dospat",
+      "id": "RHAh2mmAH4MU"
+    },
+    {
+      "name": "Dragash Voyvoda",
+      "id": "v0GGjV-W5S9j"
+    },
+    {
+      "name": "Draginovo",
+      "id": "1wkbzv_a1ygh"
+    },
+    {
+      "name": "Dragizhevo",
+      "id": "VFWmWfBO3HFv"
+    },
+    {
+      "name": "Dryanovo",
+      "id": "1MYlssFgOKWd"
+    },
+    {
+      "name": "Dulgopol",
+      "id": "uRFOo3ENTA8D"
+    },
+    {
+      "name": "Dulovo",
+      "id": "xPRbvisUvJp9"
+    },
+    {
+      "name": "Dupnitsa",
+      "id": "KnwLOS2OOcbO"
+    },
+    {
+      "name": "Elena",
+      "id": "KYPrgar_BxPw"
+    },
+    {
+      "name": "Elin Pelin",
+      "id": "hV6bykaqGfix"
+    },
+    {
+      "name": "Elkhovo",
+      "id": "2q9VjM_pET_Z"
+    },
+    {
+      "name": "Etropole",
+      "id": "WKh3oPJooHOe"
+    },
+    {
+      "name": "Gabrovo",
+      "id": "ZfLNHboKeVzk"
+    },
+    {
+      "name": "Ganchovo",
+      "id": "ILS6xHaR0-Yn"
+    },
+    {
+      "name": "General-Toshevo",
+      "id": "AX7PN402JCAs"
+    },
+    {
+      "name": "Glogovo",
+      "id": "unGNigthBvb7"
+    },
+    {
+      "name": "Godech",
+      "id": "llxkGwd-oFmQ"
+    },
+    {
+      "name": "Gorna Oryakhovitsa",
+      "id": "twRGc4wMBUnn"
+    },
+    {
+      "name": "Gotse Delchev",
+      "id": "o6myE2IDg0s8"
+    },
+    {
+      "name": "Gulubovo",
+      "id": "aFF8VgV-bU4t"
+    },
+    {
+      "name": "Gurkovo",
+      "id": "5cmxv7xSqovy"
+    },
+    {
+      "name": "Gurmazovo",
+      "id": "AdmjImoR2QcS"
+    },
+    {
+      "name": "Haskovo",
+      "id": "2MmlTvObe6Cn"
+    },
+    {
+      "name": "Ikhtiman",
+      "id": "XIKfzogIWKFi"
+    },
+    {
+      "name": "Iskrets",
+      "id": "nV0mFT5vfUsd"
+    },
+    {
+      "name": "Isperikh",
+      "id": "0xNoObHnoBhD"
+    },
+    {
+      "name": "Isperikhovo",
+      "id": "NTH0VA7AgF5d"
+    },
+    {
+      "name": "Ivaylovgrad",
+      "id": "tkgQLE6aDX8j"
+    },
+    {
+      "name": "Kableshkovo",
+      "id": "sp3Wb_d8Z0GJ"
+    },
+    {
+      "name": "Kamenovo",
+      "id": "wurMce2RphBp"
+    },
+    {
+      "name": "Kardzhali",
+      "id": "sUeR9D_dCuFh"
+    },
+    {
+      "name": "Karlovo",
+      "id": "yDiVpOXiAxlh"
+    },
+    {
+      "name": "Karnobat",
+      "id": "rArmZT8hee6n"
+    },
+    {
+      "name": "Kavarna",
+      "id": "eTgCGVQcMPWg"
+    },
+    {
+      "name": "Kazanlak",
+      "id": "N1pX5UNhmi3_"
+    },
+    {
+      "name": "Kazashka Reka",
+      "id": "x5bVFVfU3smP"
+    },
+    {
+      "name": "Kharmanli",
+      "id": "3q5n879JN_56"
+    },
+    {
+      "name": "Khisarya",
+      "id": "n4SdsTHHyYdG"
+    },
+    {
+      "name": "Knezha",
+      "id": "snh7eCmiJDnD"
+    },
+    {
+      "name": "Konush",
+      "id": "-x3zApKhcdtg"
+    },
+    {
+      "name": "Koprivets",
+      "id": "7ZTmdCoFprex"
+    },
+    {
+      "name": "Koprivlen",
+      "id": "df_Ml4eq4aYe"
+    },
+    {
+      "name": "Kostenets",
+      "id": "KPsarST8xKd1"
+    },
+    {
+      "name": "Kostievo",
+      "id": "YaV9mGry4faJ"
+    },
+    {
+      "name": "Kostinbrod",
+      "id": "ANfWF11ZujnG"
+    },
+    {
+      "name": "Kovachite",
+      "id": "CjLLgMAFoatX"
+    },
+    {
+      "name": "Kozloduy",
+      "id": "aoxey14ulLxo"
+    },
+    {
+      "name": "Kran",
+      "id": "wLEwZRfn-rnw"
+    },
+    {
+      "name": "Krichim",
+      "id": "LNcHAUhVzMRP"
+    },
+    {
+      "name": "Krivodol",
+      "id": "fnTYw8LM6_Lp"
+    },
+    {
+      "name": "Krumovgrad",
+      "id": "E-8GUC4XebEi"
+    },
+    {
+      "name": "Krupnik",
+      "id": "QJ9tbE6VuUvF"
+    },
+    {
+      "name": "Kula",
+      "id": "GyFH7uRpO5gm"
+    },
+    {
+      "name": "Kyustendil",
+      "id": "ESN5Lbe5m5rq"
+    },
+    {
+      "name": "Lom",
+      "id": "OMx7qR49zVFh"
+    },
+    {
+      "name": "Lovech",
+      "id": "ImoTZDYAk4Ao"
+    },
+    {
+      "name": "Lozno",
+      "id": "U-7rQLMMX0K5"
+    },
+    {
+      "name": "Lukovit",
+      "id": "kgaQ31SQgKQR"
+    },
+    {
+      "name": "Lyaskovets",
+      "id": "KlH6CGza7eHM"
+    },
+    {
+      "name": "Lyulyakovo",
+      "id": "aW75LoVHeN3m"
+    },
+    {
+      "name": "Madan",
+      "id": "hxoAUWO3YXUP"
+    },
+    {
+      "name": "Malo Konare",
+      "id": "noZq1jIWXgzw"
+    },
+    {
+      "name": "Marikostinovo",
+      "id": "dOeRgFRZKgaf"
+    },
+    {
+      "name": "Markovo",
+      "id": "O677TmAwPMzs"
+    },
+    {
+      "name": "Mesta",
+      "id": "y-H2bluozn1k"
+    },
+    {
+      "name": "Mezdra",
+      "id": "3g4QrVIDMoEQ"
+    },
+    {
+      "name": "Mikrevo",
+      "id": "znEEI3keKmf5"
+    },
+    {
+      "name": "Moderno Predgradie",
+      "id": "LCFltrPcjk6P"
+    },
+    {
+      "name": "Momchilgrad",
+      "id": "AhOzCSSEzgmV"
+    },
+    {
+      "name": "Montana",
+      "id": "zcH_U12gP2v9"
+    },
+    {
+      "name": "Moravka",
+      "id": "9fgYT5rKzE6u"
+    },
+    {
+      "name": "Muglizh",
+      "id": "UsmaELzxgFGw"
+    },
+    {
+      "name": "Nesebar",
+      "id": "d_trkJ8_o1Mb"
+    },
+    {
+      "name": "Nikopol",
+      "id": "EMCfLUdNzVHU"
+    },
+    {
+      "name": "Nova Zagora",
+      "id": "tmaR2HpBt5nc"
+    },
+    {
+      "name": "Novi Iskur",
+      "id": "PQqr7f23iGH-"
+    },
+    {
+      "name": "Novi Pazar",
+      "id": "72ZHi3Wuz5EP"
+    },
+    {
+      "name": "Obzor",
+      "id": "MQu88bAowfJp"
+    },
+    {
+      "name": "Omurtag",
+      "id": "LbJC8F41jxkW"
+    },
+    {
+      "name": "Orizovo",
+      "id": "UndRLfmuhnJS"
+    },
+    {
+      "name": "Orlovets",
+      "id": "yUPak6AvFDvz"
+    },
+    {
+      "name": "Oryakhovets",
+      "id": "8-F8pwhj6JyX"
+    },
+    {
+      "name": "Oryakhovitsa",
+      "id": "3VQ6MGnG8L0R"
+    },
+    {
+      "name": "Ovoshtnik",
+      "id": "kOF6vhvzan-C"
+    },
+    {
+      "name": "Panagyurishte",
+      "id": "qWiTwUIoHW4l"
+    },
+    {
+      "name": "Pavel Banya",
+      "id": "1FUfMNVUhESH"
+    },
+    {
+      "name": "Pavlikeni",
+      "id": "MoR4nmsdLMJs"
+    },
+    {
+      "name": "Pazardzhik",
+      "id": "pOOfwmMJcVQ3"
+    },
+    {
+      "name": "Pchelishte",
+      "id": "bfpefM-33VXD"
+    },
+    {
+      "name": "Pernik",
+      "id": "qhzTSFR0bWwk"
+    },
+    {
+      "name": "Peshtera",
+      "id": "LLhzwT-PF1GB"
+    },
+    {
+      "name": "Petrich",
+      "id": "63jspVZexJPZ"
+    },
+    {
+      "name": "Pleven",
+      "id": "XMs60QuprQxe"
+    },
+    {
+      "name": "Plovdiv",
+      "id": "lEsJWr1rXLbu"
+    },
+    {
+      "name": "Poleto",
+      "id": "34EUofQtgpNV"
+    },
+    {
+      "name": "Polski Trumbesh",
+      "id": "GvVrNlkPCMUH"
+    },
+    {
+      "name": "Pomorie",
+      "id": "7aSf7j8brS4v"
+    },
+    {
+      "name": "Popovo",
+      "id": "DjAxTbao1goc"
+    },
+    {
+      "name": "Pravets",
+      "id": "0_kauXSsWpPJ"
+    },
+    {
+      "name": "Prespa",
+      "id": "PDq8s7mDdovb"
+    },
+    {
+      "name": "Provadiya",
+      "id": "nAzRW_KHZng6"
+    },
+    {
+      "name": "Radnevo",
+      "id": "m_plN7fv-F85"
+    },
+    {
+      "name": "Raduil",
+      "id": "BHclX2wA_-NO"
+    },
+    {
+      "name": "Rakitovo",
+      "id": "f2kVedIvEAKp"
+    },
+    {
+      "name": "Rakovski",
+      "id": "Cj4XPO1P6W3P"
+    },
+    {
+      "name": "Ravda",
+      "id": "zxg62f-_sDzA"
+    },
+    {
+      "name": "Razgrad",
+      "id": "DPIJ3YLlh8wa"
+    },
+    {
+      "name": "Razlog",
+      "id": "5xIimJ57I6Mt"
+    },
+    {
+      "name": "Rila",
+      "id": "a7v1Xe5eYUGt"
+    },
+    {
+      "name": "Rodopi",
+      "id": "YbymhJdlV9yt"
+    },
+    {
+      "name": "Rousse",
+      "id": "iSkgB18HKdCw"
+    },
+    {
+      "name": "Rozino",
+      "id": "amFgy7rIhsEJ"
+    },
+    {
+      "name": "Rudozem",
+      "id": "pfC2LDIB-uFT"
+    },
+    {
+      "name": "Ruen",
+      "id": "iBVz5BqoX0Tz"
+    },
+    {
+      "name": "Samokov",
+      "id": "Vzmg28eYyszA"
+    },
+    {
+      "name": "Samovodene",
+      "id": "rwk9cfdpcFys"
+    },
+    {
+      "name": "Samuil",
+      "id": "HUHwFeNFfEa-"
+    },
+    {
+      "name": "Sandanski",
+      "id": "a8jpqMxtGNv2"
+    },
+    {
+      "name": "Sandrovo",
+      "id": "3UyKWKaGxCzh"
+    },
+    {
+      "name": "Septemvri",
+      "id": "ILHuPpdgBUp5"
+    },
+    {
+      "name": "Sevlievo",
+      "id": "Gz7UnbhoL7TZ"
+    },
+    {
+      "name": "Shabla",
+      "id": "9XNwcXDnNVbZ"
+    },
+    {
+      "name": "Shivachevo",
+      "id": "vg-GiSS-2XL8"
+    },
+    {
+      "name": "Shumen",
+      "id": "FWZgaDMjOgQ4"
+    },
+    {
+      "name": "Silistra",
+      "id": "QxFJhNHZrr6H"
+    },
+    {
+      "name": "Simeonovgrad",
+      "id": "aPLLg0G7PFf1"
+    },
+    {
+      "name": "Simitli",
+      "id": "fovpHaL04O2Z"
+    },
+    {
+      "name": "Skravena",
+      "id": "WoLH_UmzrGQk"
+    },
+    {
+      "name": "Slatina",
+      "id": "G2-_q0Mz3Moo"
+    },
+    {
+      "name": "Sliven",
+      "id": "pNsuFsdroiUq"
+    },
+    {
+      "name": "Slivnitsa",
+      "id": "B1vW0XZnTYij"
+    },
+    {
+      "name": "Smolyan",
+      "id": "BiZ8ID1UYyLM"
+    },
+    {
+      "name": "Smyadovo",
+      "id": "khBZzrozq1HW"
+    },
+    {
+      "name": "Sofia",
+      "id": "uiQWTVhWJlAt"
+    },
+    {
+      "name": "Sofronievo",
+      "id": "dTR5M8px8B2Q"
+    },
+    {
+      "name": "Sokolets",
+      "id": "V-NUTkn9tSnE"
+    },
+    {
+      "name": "Sopot",
+      "id": "rMEyvYR7wXER"
+    },
+    {
+      "name": "Sozopol",
+      "id": "DaJ_GLvJYEsY"
+    },
+    {
+      "name": "Sredets",
+      "id": "NpGiQ1ijnv1o"
+    },
+    {
+      "name": "Stamboliyski",
+      "id": "VKtBOZFvNh2l"
+    },
+    {
+      "name": "Stara Zagora",
+      "id": "j5sp4ez1hf8Q"
+    },
+    {
+      "name": "Strazhitsa",
+      "id": "cukF3DuAQqWN"
+    },
+    {
+      "name": "Strelcha",
+      "id": "8GjeYUw0-gNW"
+    },
+    {
+      "name": "Suedinenie",
+      "id": "eWcfKjoWBHJ0"
+    },
+    {
+      "name": "Svilengrad",
+      "id": "--4zGpb0iQkJ"
+    },
+    {
+      "name": "Svishtov",
+      "id": "KLL9y7vJT8Cj"
+    },
+    {
+      "name": "Svoge",
+      "id": "crMSg2qbUzO3"
+    },
+    {
+      "name": "Targovishte",
+      "id": "pke3V_zSqWDi"
+    },
+    {
+      "name": "Tervel",
+      "id": "sOetE8WsGqKg"
+    },
+    {
+      "name": "Tochilari",
+      "id": "TzoOz2tDV4ZL"
+    },
+    {
+      "name": "Topoli",
+      "id": "KM56WvEIJkHR"
+    },
+    {
+      "name": "Topolovo",
+      "id": "WuBCFRE4NJx5"
+    },
+    {
+      "name": "Troyan",
+      "id": "5mAFpgzKWM_s"
+    },
+    {
+      "name": "Trustenik",
+      "id": "izg-p-o7_1tH"
+    },
+    {
+      "name": "Tryavna",
+      "id": "NtYoQv901m0v"
+    },
+    {
+      "name": "Tutrakan",
+      "id": "4qKGQlTVhsFe"
+    },
+    {
+      "name": "Varna",
+      "id": "LPCJ6qvnmbJx"
+    },
+    {
+      "name": "Veliko",
+      "id": "i03o8CvD_1P2"
+    },
+    {
+      "name": "Veliko Tarnovo",
+      "id": "hrlHRTcp3JG2"
+    },
+    {
+      "name": "Velingrad",
+      "id": "XQWHCZUg6Ilx"
+    },
+    {
+      "name": "Vetren",
+      "id": "J2A3wMFk4van"
+    },
+    {
+      "name": "Vidin",
+      "id": "rdey9raSnrac"
+    },
+    {
+      "name": "Vievo",
+      "id": "2UEjty4jhspB"
+    },
+    {
+      "name": "Vlado Trichkov",
+      "id": "EQOgTatU6aRy"
+    },
+    {
+      "name": "Vrachesh",
+      "id": "_ySoEE5URpPs"
+    },
+    {
+      "name": "Vratsa",
+      "id": "pTK6k2CS5pc6"
+    },
+    {
+      "name": "Yakoruda",
+      "id": "paJ14d7_v7Gl"
+    },
+    {
+      "name": "Yambol",
+      "id": "OleDhH7Fb3e0"
+    },
+    {
+      "name": "Zavet",
+      "id": "-jJpLr9PIgpg"
+    },
+    {
+      "name": "Zlatitrap",
+      "id": "Ryh28W_WpQsE"
+    },
+    {
+      "name": "Zlatograd",
+      "id": "cyyN6qnG1aTp"
+    }
   ]
 }

@@ -1,15 +1,269 @@
 {
   "coid": "MT",
   "cities": [
-    { "name": "Valletta", "id": "a93f2d5a6b87" },
-    { "name": "Birkirkara", "id": "b04a3e6b7c98" },
-    { "name": "Mosta", "id": "c15b4f7c8d09" },
-    { "name": "Qormi", "id": "d26c5a8d9e10" },
-    { "name": "Żabbar", "id": "e37d6b9e0f21" },
-    { "name": "San Ġwann", "id": "f48e7c0f1a32" },
-    { "name": "Sliema", "id": "a59f8d1a2b43" },
-    { "name": "Żebbuġ", "id": "b60a9e2b3c54" },
-    { "name": "Fgura", "id": "c71b0f3c4d65" },
-    { "name": "Naxxar", "id": "d82c1a4d5e76" }
+    {
+      "name": "Attard",
+      "id": "-kvszvWby8PQ"
+    },
+    {
+      "name": "Balzan",
+      "id": "8CxQLMyCl05S"
+    },
+    {
+      "name": "Bingemma",
+      "id": "cnfe7J64eMD_"
+    },
+    {
+      "name": "Birgu",
+      "id": "Rj4NBsidPdC6"
+    },
+    {
+      "name": "Birkirkara",
+      "id": "MIVGI_GvDeXX"
+    },
+    {
+      "name": "Bugibba",
+      "id": "L-B1TgZJHUyT"
+    },
+    {
+      "name": "Cospicua",
+      "id": "aWecVhysDL7f"
+    },
+    {
+      "name": "Dingli",
+      "id": "zsu0Blmx5_aW"
+    },
+    {
+      "name": "Fgura",
+      "id": "bPA6C9JnmWsi"
+    },
+    {
+      "name": "Floriana",
+      "id": "LCGkR-xrfdG2"
+    },
+    {
+      "name": "Fontana",
+      "id": "qhC4xo7WIebN"
+    },
+    {
+      "name": "Ghajnsielem",
+      "id": "WEPnsLDJtgY-"
+    },
+    {
+      "name": "Gharb",
+      "id": "6CjUt4F6uoZl"
+    },
+    {
+      "name": "Ghasri",
+      "id": "QbfgRnDzLapk"
+    },
+    {
+      "name": "Ghaxaq",
+      "id": "Ut78urlKUQ0U"
+    },
+    {
+      "name": "Gudja",
+      "id": "Bg_WgUnflTxX"
+    },
+    {
+      "name": "Gzira",
+      "id": "_4t9R32ri-7Q"
+    },
+    {
+      "name": "Hal Gharghur",
+      "id": "AlP5GFDzwXbX"
+    },
+    {
+      "name": "Hamrun",
+      "id": "xy4F3p__o2Lu"
+    },
+    {
+      "name": "Haz-Zebbug",
+      "id": "LA6bSjuhqqeN"
+    },
+    {
+      "name": "Il-Madliena",
+      "id": "WMs6_9n02p7-"
+    },
+    {
+      "name": "Il-Pergla",
+      "id": "miV5s4wlR-oQ"
+    },
+    {
+      "name": "Imsida",
+      "id": "iumLiEKEfxL1"
+    },
+    {
+      "name": "Imtarfa",
+      "id": "UjQ_1Yp84Ooq"
+    },
+    {
+      "name": "Iz-Zebbiegh",
+      "id": "y8F7w3TeHon9"
+    },
+    {
+      "name": "Kirkop",
+      "id": "V972ok6dly97"
+    },
+    {
+      "name": "L-Iklin",
+      "id": "SBawAHvAXue9"
+    },
+    {
+      "name": "L-Iskorvit",
+      "id": "pHKPb3GhVuK0"
+    },
+    {
+      "name": "Lija",
+      "id": "HZK79tzZbD9F"
+    },
+    {
+      "name": "Luqa",
+      "id": "J8lrGU2gFUax"
+    },
+    {
+      "name": "Manikata",
+      "id": "BfKvQL1lKcqh"
+    },
+    {
+      "name": "Marsa",
+      "id": "shjS-VOoyHQu"
+    },
+    {
+      "name": "Marsalforn",
+      "id": "ks-zUhUv2UCf"
+    },
+    {
+      "name": "Marsaskala",
+      "id": "AW7OjCEgT9l3"
+    },
+    {
+      "name": "Marsaxlokk",
+      "id": "3SHpt870rW-S"
+    },
+    {
+      "name": "Mdina",
+      "id": "T49vnjDsrw1y"
+    },
+    {
+      "name": "Mellieha",
+      "id": "Ns6bFjAAKzkr"
+    },
+    {
+      "name": "Mosta",
+      "id": "e9VdgrDIor_k"
+    },
+    {
+      "name": "Mqabba",
+      "id": "1KUldrNpXDtd"
+    },
+    {
+      "name": "Munxar",
+      "id": "icDFYJVGfTtl"
+    },
+    {
+      "name": "Nadur",
+      "id": "r5WgOPqKYa0J"
+    },
+    {
+      "name": "Naxxar",
+      "id": "8Kmdxnw8IF9H"
+    },
+    {
+      "name": "Paola",
+      "id": "vrtdoDHroxGX"
+    },
+    {
+      "name": "Pembroke",
+      "id": "rktGfVnQiwyl"
+    },
+    {
+      "name": "Qormi",
+      "id": "2TaM-KmVj-4r"
+    },
+    {
+      "name": "Qrendi",
+      "id": "quKurVffJYkd"
+    },
+    {
+      "name": "Rabat",
+      "id": "UfCGLKyZHMbv"
+    },
+    {
+      "name": "Safi",
+      "id": "olYOahc-WraS"
+    },
+    {
+      "name": "Saint John",
+      "id": "b65cAfBFHnY-"
+    },
+    {
+      "name": "Saint Lawrence",
+      "id": "jKfs0rNwYFr7"
+    },
+    {
+      "name": "Saint Lucia",
+      "id": "rEN_loibrr3k"
+    },
+    {
+      "name": "Saint Venera",
+      "id": "EuNdL9qcP3zE"
+    },
+    {
+      "name": "San Pawl il-Bahar",
+      "id": "efcxJPB0hUPQ"
+    },
+    {
+      "name": "Sannat",
+      "id": "ydKKXM1j5r74"
+    },
+    {
+      "name": "Senglea",
+      "id": "xUTzccT8pFxt"
+    },
+    {
+      "name": "Siggiewi",
+      "id": "TjCDdgOdXWLr"
+    },
+    {
+      "name": "Sliema",
+      "id": "9jRhtTmlsnuw"
+    },
+    {
+      "name": "Swieqi",
+      "id": "gzsRJViIsFnS"
+    },
+    {
+      "name": "Tarxien",
+      "id": "vFk7E_xq6C2j"
+    },
+    {
+      "name": "Valletta",
+      "id": "X1Po4bC6WaBE"
+    },
+    {
+      "name": "Victoria",
+      "id": "U3bgQZk94Fbz"
+    },
+    {
+      "name": "Xaghra",
+      "id": "TRMSfBZ1nAP2"
+    },
+    {
+      "name": "Xewkija",
+      "id": "VTO9aOAL8q_5"
+    },
+    {
+      "name": "Zabbar",
+      "id": "W48n0_0y8dLH"
+    },
+    {
+      "name": "Zejtun",
+      "id": "FS49J6OBb3D_"
+    },
+    {
+      "name": "Zurrieq",
+      "id": "vOaTe5fDOFO-"
+    }
   ]
 }

@@ -1,15 +1,365 @@
 {
   "coid": "VE",
   "cities": [
-    { "name": "Caracas", "id": "c5d6e7f8a9b0" },
-    { "name": "Maracaibo", "id": "d6e7f8a9b0c1" },
-    { "name": "Valencia", "id": "e6f7a8b9c0d2" },
-    { "name": "Barquisimeto", "id": "f6a7b8c9d0e3" },
-    { "name": "Maracay", "id": "a6b7c8d9e0f4" },
-    { "name": "Ciudad Guayana", "id": "b6c7d8e9f0a5" },
-    { "name": "Maturín", "id": "c6d7e8f9a0b6" },
-    { "name": "Puerto La Cruz", "id": "d6e7f8a9b0c7" },
-    { "name": "San Cristóbal", "id": "e6f7a8b9c0d8" },
-    { "name": "Cumaná", "id": "f6a7b8c9d0e9" }
+    {
+      "name": "Acarigua",
+      "id": "YuQBbKJK05St"
+    },
+    {
+      "name": "Anaco",
+      "id": "LWXbnmXT65LD"
+    },
+    {
+      "name": "Araure",
+      "id": "Inds-b2hU7Cr"
+    },
+    {
+      "name": "Bachaquero",
+      "id": "J_jJ2wr4DNiw"
+    },
+    {
+      "name": "Barcelona",
+      "id": "-bf6skoc0HwV"
+    },
+    {
+      "name": "Barinas",
+      "id": "SHM3fuQ0xul1"
+    },
+    {
+      "name": "Barquisimeto",
+      "id": "pf9zOzJs6bkF"
+    },
+    {
+      "name": "Bejuma",
+      "id": "ZjLeaRSMKOo1"
+    },
+    {
+      "name": "Bolivar",
+      "id": "mJVNXb3lBzW-"
+    },
+    {
+      "name": "Cabimas",
+      "id": "VIaTMErF3bBe"
+    },
+    {
+      "name": "Cabudare",
+      "id": "6WRfLzUwS29F"
+    },
+    {
+      "name": "Cagua",
+      "id": "qq8mdwtRsWpm"
+    },
+    {
+      "name": "Caja de Agua",
+      "id": "1uppNsHW8sK1"
+    },
+    {
+      "name": "Calabozo",
+      "id": "HwyX5pHTMcu5"
+    },
+    {
+      "name": "Campo de Carabobo",
+      "id": "bDRtIy-vFa-g"
+    },
+    {
+      "name": "Caraballeda",
+      "id": "Dvnbe-Q3tmbP"
+    },
+    {
+      "name": "Caracas",
+      "id": "yKeRmyIeFFU2"
+    },
+    {
+      "name": "Caripe",
+      "id": "xadzeNiA6_Fz"
+    },
+    {
+      "name": "Carrizal",
+      "id": "4vKUFL9CcOUl"
+    },
+    {
+      "name": "Catia La Mar",
+      "id": "OsARwyZiLEyY"
+    },
+    {
+      "name": "Charallave",
+      "id": "J-WwST2LIhDn"
+    },
+    {
+      "name": "Chivacoa",
+      "id": "iGb5k4TzFlo_"
+    },
+    {
+      "name": "Ciudad Guayana",
+      "id": "2XpkCpTMjHUy"
+    },
+    {
+      "name": "Ciudad Ojeda",
+      "id": "OOrKoPguIZJE"
+    },
+    {
+      "name": "Ciudad Piar",
+      "id": "mf2uV1Ijwo1W"
+    },
+    {
+      "name": "Colonia Tovar",
+      "id": "gmop6uoMjrNM"
+    },
+    {
+      "name": "Coro",
+      "id": "uhF4uIllOZJA"
+    },
+    {
+      "name": "Cua",
+      "id": "lALQlzcseiVx"
+    },
+    {
+      "name": "Curazaito",
+      "id": "zkXlNydOVuQc"
+    },
+    {
+      "name": "El Chorro",
+      "id": "Enhg27v-jMyb"
+    },
+    {
+      "name": "El Recreo",
+      "id": "BeAxLoGKNF40"
+    },
+    {
+      "name": "El Roque",
+      "id": "XgOlq0qYZ9m8"
+    },
+    {
+      "name": "El Rosal",
+      "id": "W9Nu-kwT0UR-"
+    },
+    {
+      "name": "El Tigre",
+      "id": "Y6GBXWxD5Ekg"
+    },
+    {
+      "name": "El Vigia",
+      "id": "kund5t7jXzDX"
+    },
+    {
+      "name": "Guachara",
+      "id": "lrUMnl_iEJYf"
+    },
+    {
+      "name": "Guanare",
+      "id": "vO4k98WflCYm"
+    },
+    {
+      "name": "Guarenas",
+      "id": "sDeH6DpoTAqr"
+    },
+    {
+      "name": "Guatire",
+      "id": "d2hi-o8eimJx"
+    },
+    {
+      "name": "Guayana",
+      "id": "AdaDcDpubpIQ"
+    },
+    {
+      "name": "Gueiria",
+      "id": "dYyWuEZlzbOU"
+    },
+    {
+      "name": "La Castellana",
+      "id": "XnXHkN0tnX52"
+    },
+    {
+      "name": "La Cruz",
+      "id": "IC02-IbL71iX"
+    },
+    {
+      "name": "La Guaira",
+      "id": "CsZlpffqdqm4"
+    },
+    {
+      "name": "La Urbina",
+      "id": "Fg4EQrHAdFTq"
+    },
+    {
+      "name": "La Verdad",
+      "id": "CC5HKJuytInN"
+    },
+    {
+      "name": "La Victoria",
+      "id": "CpVlphKmIV15"
+    },
+    {
+      "name": "La Villa del Rosario",
+      "id": "3CrkHST9RjDN"
+    },
+    {
+      "name": "Londres",
+      "id": "tPx0H9FXjL-W"
+    },
+    {
+      "name": "Los Chorros",
+      "id": "q9YaUNRCZoVh"
+    },
+    {
+      "name": "Los Teques",
+      "id": "bep5AkWTtVWP"
+    },
+    {
+      "name": "Macuto",
+      "id": "QRWTl80MaMqq"
+    },
+    {
+      "name": "Maiquetia",
+      "id": "P7VjcYIfDUkO"
+    },
+    {
+      "name": "Maracaibo",
+      "id": "KbjpIQQrGUdi"
+    },
+    {
+      "name": "Maracay",
+      "id": "xyAB7dd7M-VP"
+    },
+    {
+      "name": "Maria",
+      "id": "wyjc-OMqXuGK"
+    },
+    {
+      "name": "Mariguitar",
+      "id": "lx1No7qO_XjZ"
+    },
+    {
+      "name": "Matanzas",
+      "id": "xkLnnV_M0c9q"
+    },
+    {
+      "name": "Miranda",
+      "id": "gSmahOk7WzQV"
+    },
+    {
+      "name": "Monte Cristo",
+      "id": "Wboxkn4nOXzj"
+    },
+    {
+      "name": "Naguanagua",
+      "id": "hG9Pn70TW9QP"
+    },
+    {
+      "name": "Ocumare",
+      "id": "EYN-l5V3msdP"
+    },
+    {
+      "name": "Pampatar",
+      "id": "kR19TR0BSql2"
+    },
+    {
+      "name": "Porlamar",
+      "id": "FnT1rvuE4AQ0"
+    },
+    {
+      "name": "Puerto Cabello",
+      "id": "Hp_NBVPqgr0Z"
+    },
+    {
+      "name": "Puerto La Cruz",
+      "id": "xxTwAOQH4SjM"
+    },
+    {
+      "name": "Puerto Ordaz and San Felix",
+      "id": "W5nPcVS6nxNa"
+    },
+    {
+      "name": "Punto Fijo",
+      "id": "FIDKVchSLuL2"
+    },
+    {
+      "name": "Sabaneta",
+      "id": "hKCFzNZL-c2W"
+    },
+    {
+      "name": "San Antonio",
+      "id": "eL2ijTvg_5Lj"
+    },
+    {
+      "name": "San Antonio de Los Altos",
+      "id": "qW218i4oXm9C"
+    },
+    {
+      "name": "San Diego",
+      "id": "pop2viuL934I"
+    },
+    {
+      "name": "San Felipe",
+      "id": "qeVH5bYDTSTw"
+    },
+    {
+      "name": "San Felix",
+      "id": "SGJN2vlzkC68"
+    },
+    {
+      "name": "San Francisco",
+      "id": "Ao2jnWmvpDhw"
+    },
+    {
+      "name": "San Joaquin",
+      "id": "XQJ2KD599XQD"
+    },
+    {
+      "name": "San Jose de Guanipa",
+      "id": "vqvqsXT71eRu"
+    },
+    {
+      "name": "Santa Cruz del Zulia",
+      "id": "kUISMuIsggfM"
+    },
+    {
+      "name": "Santa Fe",
+      "id": "CUZH4NnvCMJW"
+    },
+    {
+      "name": "Santa Teresa",
+      "id": "DhM5uAXaa4eR"
+    },
+    {
+      "name": "Solano",
+      "id": "xrcstJU7sOaV"
+    },
+    {
+      "name": "Tariba",
+      "id": "joApeJ4EqwBe"
+    },
+    {
+      "name": "Torre",
+      "id": "SE2jHCW-tZ_T"
+    },
+    {
+      "name": "Trujillo",
+      "id": "c5vtBm197eTz"
+    },
+    {
+      "name": "Tucupita",
+      "id": "ik5Nd3ffKUrB"
+    },
+    {
+      "name": "Turmero",
+      "id": "2eDmmwpEQSPd"
+    },
+    {
+      "name": "Valencia",
+      "id": "YDgOVT9dFx6X"
+    },
+    {
+      "name": "Valera",
+      "id": "KOR7qR5BJKFO"
+    },
+    {
+      "name": "Valle",
+      "id": "q3yQl3a79cUm"
+    },
+    {
+      "name": "Vargas",
+      "id": "zU5BX9ef8wQm"
+    }
   ]
 }

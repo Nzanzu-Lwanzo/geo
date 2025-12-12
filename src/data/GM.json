@@ -1,15 +1,45 @@
 {
   "coid": "GM",
   "cities": [
-    { "name": "Banjul", "id": "a83f1d2b4c65" },
-    { "name": "Serekunda", "id": "b94a2e3c5d76" },
-    { "name": "Brikama", "id": "c15b3f4d6e87" },
-    { "name": "Bakau", "id": "d26c4a5e7f98" },
-    { "name": "Farafenni", "id": "e37d5b6f8a09" },
-    { "name": "Soma", "id": "f48e6c7a9b10" },
-    { "name": "Basse Santa Su", "id": "a59f7d8b0c21" },
-    { "name": "Gunjur", "id": "b60a8e9c1d32" },
-    { "name": "Barra", "id": "c71b9f0d2e43" },
-    { "name": "Janjanbureh", "id": "d82c1a3d4e55" }
+    {
+      "name": "Banjul",
+      "id": "mq1OPawfoTeI"
+    },
+    {
+      "name": "Serekunda",
+      "id": "kDQSh0aWReU-"
+    },
+    {
+      "name": "Brikama",
+      "id": "kGRFaEZOyYsm"
+    },
+    {
+      "name": "Bakau",
+      "id": "BhPQ6aJl8p8H"
+    },
+    {
+      "name": "Farafenni",
+      "id": "5oWUVG0d8UXP"
+    },
+    {
+      "name": "Soma",
+      "id": "fiNttuX4xp46"
+    },
+    {
+      "name": "Basse Santa Su",
+      "id": "pe--lDyFybZC"
+    },
+    {
+      "name": "Gunjur",
+      "id": "PpGqVgUUmDXm"
+    },
+    {
+      "name": "Barra",
+      "id": "PULOmgQ9nTnX"
+    },
+    {
+      "name": "Janjanbureh",
+      "id": "9XVVL2T7v9i6"
+    }
   ]
 }

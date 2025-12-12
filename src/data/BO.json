@@ -1,15 +1,69 @@
 {
   "coid": "BO",
   "cities": [
-    { "name": "La Paz", "id": "a91f3c2d9b7e" },
-    { "name": "Santa Cruz", "id": "b28e1f9ac4d2" },
-    { "name": "Cochabamba", "id": "c39d7b1e0f52" },
-    { "name": "Sucre", "id": "d84a2c7f1e93" },
-    { "name": "Oruro", "id": "e72b9d4c3a10" },
-    { "name": "Tarija", "id": "f63c1a8e5b27" },
-    { "name": "Potosí", "id": "a72d9c4f1b83" },
-    { "name": "Trinidad", "id": "b91e3f7a2c64" },
-    { "name": "Cobija", "id": "c58f2a9d7e31" },
-    { "name": "El Alto", "id": "d47b1c6e9f20" }
+    {
+      "name": "Anillo",
+      "id": "KVWKM23dsz9E"
+    },
+    {
+      "name": "Aroma",
+      "id": "uHGEOOGMWI0y"
+    },
+    {
+      "name": "Bermejo",
+      "id": "mndUnaqhpSFX"
+    },
+    {
+      "name": "Caracasa",
+      "id": "zF6iJSBAZxmx"
+    },
+    {
+      "name": "Cobija",
+      "id": "ixrzPd7m6k9b"
+    },
+    {
+      "name": "Cochabamba",
+      "id": "M5MLbkiIlhDT"
+    },
+    {
+      "name": "Cotoca",
+      "id": "RO3y5w13pbak"
+    },
+    {
+      "name": "Cruz",
+      "id": "oHgk7c4Bivoa"
+    },
+    {
+      "name": "Guayaramerin",
+      "id": "rLQsZXTI0vpF"
+    },
+    {
+      "name": "La Paz",
+      "id": "Y1h4TCWT8D9W"
+    },
+    {
+      "name": "Oruro",
+      "id": "oQga71seCtvp"
+    },
+    {
+      "name": "Riberalta",
+      "id": "ybKgeRLIf7OZ"
+    },
+    {
+      "name": "Santa Cruz",
+      "id": "FWvcpDkdZsXy"
+    },
+    {
+      "name": "Sucre",
+      "id": "OUfDReaHmqo-"
+    },
+    {
+      "name": "Tarija",
+      "id": "C4rniugJ6ZTd"
+    },
+    {
+      "name": "Trinidad",
+      "id": "KO8vLYWHpLUn"
+    }
   ]
 }

@@ -1,15 +1,45 @@
 {
   "coid": "BJ",
   "cities": [
-    { "name": "Cotonou", "id": "e71f0d3a4b55" },
-    { "name": "Porto-Novo", "id": "f82a1e4b5c66" },
-    { "name": "Parakou", "id": "a93b2f5c6d77" },
-    { "name": "Djougou", "id": "b04c3a6d7e88" },
-    { "name": "Bohicon", "id": "c15d4b7e8f99" },
-    { "name": "Kandi", "id": "d26e5c8f9a10" },
-    { "name": "Abomey", "id": "e37f6d9a0b21" },
-    { "name": "Natitingou", "id": "f48a7e0b1c32" },
-    { "name": "Lokossa", "id": "a59b8f1c2d43" },
-    { "name": "Ouidah", "id": "b60c9a2d3e54" }
+    {
+      "name": "Cotonou",
+      "id": "gFcZHAQGbLbu"
+    },
+    {
+      "name": "Porto-Novo",
+      "id": "9N7In3PAZU_l"
+    },
+    {
+      "name": "Parakou",
+      "id": "VQ9G3J4vanES"
+    },
+    {
+      "name": "Djougou",
+      "id": "Vy7u3gYrXBJx"
+    },
+    {
+      "name": "Bohicon",
+      "id": "Hz6RulX86_Rt"
+    },
+    {
+      "name": "Kandi",
+      "id": "EHDeyd0Qu4g9"
+    },
+    {
+      "name": "Abomey",
+      "id": "gDUXVrWjVZKM"
+    },
+    {
+      "name": "Natitingou",
+      "id": "eFvgLrktNWP3"
+    },
+    {
+      "name": "Lokossa",
+      "id": "Avs4rzZAmw_z"
+    },
+    {
+      "name": "Ouidah",
+      "id": "ANMu3zjxeyYq"
+    }
   ]
 }

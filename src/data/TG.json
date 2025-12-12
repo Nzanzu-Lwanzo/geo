@@ -1,15 +1,45 @@
 {
   "coid": "TG",
   "cities": [
-    { "name": "Lomé", "id": "a4b5c6d7e8f9" },
-    { "name": "Sokodé", "id": "b5c6d7e8f9a0" },
-    { "name": "Kara", "id": "c6d7e8f9a0b1" },
-    { "name": "Kpalimé", "id": "d7e8f9a0b1c2" },
-    { "name": "Atakpamé", "id": "e8f9a0b1c2d3" },
-    { "name": "Dapaong", "id": "f9a0b1c2d3e4" },
-    { "name": "Aného", "id": "a0b1c2d3e4f6" },
-    { "name": "Tsévié", "id": "b0c1d2e3f4a7" },
-    { "name": "Bassar", "id": "c1d2e3f4a5b8" },
-    { "name": "Tchamba", "id": "d2e3f4a5b6c9" }
+    {
+      "name": "Lomé",
+      "id": "Q_otsOEfxrSE"
+    },
+    {
+      "name": "Sokodé",
+      "id": "Xy5K39KhOjvb"
+    },
+    {
+      "name": "Kara",
+      "id": "NpAZZhJ9oK1J"
+    },
+    {
+      "name": "Kpalimé",
+      "id": "K6A3kptza0iV"
+    },
+    {
+      "name": "Atakpamé",
+      "id": "mJXovwU_EBnW"
+    },
+    {
+      "name": "Dapaong",
+      "id": "LXolFVGV1Kf4"
+    },
+    {
+      "name": "Aného",
+      "id": "b31y6uZQUzES"
+    },
+    {
+      "name": "Tsévié",
+      "id": "1NZpr1aNJae3"
+    },
+    {
+      "name": "Bassar",
+      "id": "s-g-o-mVipFL"
+    },
+    {
+      "name": "Tchamba",
+      "id": "ZOiXJyC0qlNk"
+    }
   ]
 }

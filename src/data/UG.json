@@ -1,15 +1,45 @@
 {
   "coid": "UG",
   "cities": [
-    { "name": "Kampala", "id": "a3b4c5d6e7f8" },
-    { "name": "Entebbe", "id": "b4c5d6e7f8a9" },
-    { "name": "Gulu", "id": "c5d6e7f8a9b0" },
-    { "name": "Mbarara", "id": "d6e7f8a9b0c1" },
-    { "name": "Jinja", "id": "e7f8a9b0c1d2" },
-    { "name": "Mbale", "id": "f8a9b0c1d2e3" },
-    { "name": "Lira", "id": "a9b0c1d2e3f4" },
-    { "name": "Fort Portal", "id": "b0c1d2e3f4a5" },
-    { "name": "Masaka", "id": "c1d2e3f4a5b6" },
-    { "name": "Soroti", "id": "d2e3f4a5b6c7" }
+    {
+      "name": "Kampala",
+      "id": "2nYk-JDlR_85"
+    },
+    {
+      "name": "Entebbe",
+      "id": "gGLPUOal5Eas"
+    },
+    {
+      "name": "Gulu",
+      "id": "7jTV55psfYR5"
+    },
+    {
+      "name": "Mbarara",
+      "id": "tHU5kkLpRVYP"
+    },
+    {
+      "name": "Jinja",
+      "id": "Z7OzeHJ58j1x"
+    },
+    {
+      "name": "Mbale",
+      "id": "_6kXH6B0A_jK"
+    },
+    {
+      "name": "Lira",
+      "id": "5sL3D9-tT5PA"
+    },
+    {
+      "name": "Fort Portal",
+      "id": "Qj-jm0dbYpdJ"
+    },
+    {
+      "name": "Masaka",
+      "id": "hJBbehSBLeHV"
+    },
+    {
+      "name": "Soroti",
+      "id": "bcPYSLFoCpEO"
+    }
   ]
 }

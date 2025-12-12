@@ -1,15 +1,45 @@
 {
   "coid": "MW",
   "cities": [
-    { "name": "Lilongwe", "id": "c91f3a2d9b7e" },
-    { "name": "Blantyre", "id": "d28e1f9ac4d2" },
-    { "name": "Mzuzu", "id": "e39d7b1e0f52" },
-    { "name": "Zomba", "id": "f84a2c7f1e93" },
-    { "name": "Kasungu", "id": "a72b9d4c3a10" },
-    { "name": "Mangochi", "id": "b63c1a8e5b27" },
-    { "name": "Karonga", "id": "c72d9c4f1b83" },
-    { "name": "Salima", "id": "d91e3f7a2c64" },
-    { "name": "Nkhotakota", "id": "e58f2a9d7e31" },
-    { "name": "Liwonde", "id": "f47b1c6e9f20" }
+    {
+      "name": "Lilongwe",
+      "id": "o6EhuBpsunvS"
+    },
+    {
+      "name": "Blantyre",
+      "id": "5E21nTfUyvZy"
+    },
+    {
+      "name": "Mzuzu",
+      "id": "FL2Nqangn_fV"
+    },
+    {
+      "name": "Zomba",
+      "id": "YePqb7zw8n2s"
+    },
+    {
+      "name": "Kasungu",
+      "id": "7-HFdiL9t4TI"
+    },
+    {
+      "name": "Mangochi",
+      "id": "IIGiUsAnEB3V"
+    },
+    {
+      "name": "Karonga",
+      "id": "gXjkoyKCzjHr"
+    },
+    {
+      "name": "Salima",
+      "id": "pN5ANoGJfE7_"
+    },
+    {
+      "name": "Nkhotakota",
+      "id": "OkjGC4GvQtkF"
+    },
+    {
+      "name": "Liwonde",
+      "id": "WOGynU42VBJ_"
+    }
   ]
 }

@@ -1,15 +1,89 @@
 {
   "coid": "MN",
   "cities": [
-    { "name": "Ulaanbaatar", "id": "e93d2b4e5f66" },
-    { "name": "Erdenet", "id": "f04e3c5f6a77" },
-    { "name": "Darkhan", "id": "a15f4d6a7b88" },
-    { "name": "Choibalsan", "id": "b26a5e7b8c99" },
-    { "name": "Mörön", "id": "c37b6f8c9d10" },
-    { "name": "Nalaikh", "id": "d48c7a9d0e21" },
-    { "name": "Baganuur", "id": "e59d8b1e2f33" },
-    { "name": "Bayankhongor", "id": "f60e9c2f3a44" },
-    { "name": "Ölgii", "id": "a71f0d3a4b55" },
-    { "name": "Sükhbaatar", "id": "b82a1e4b5c66" }
+    {
+      "name": "Altai",
+      "id": "wfPFyyS8dPLi"
+    },
+    {
+      "name": "Arvayheer",
+      "id": "TWWMu2L-Ln7R"
+    },
+    {
+      "name": "Baruun-Urt",
+      "id": "GYZIKUg0CNO_"
+    },
+    {
+      "name": "Bayangol",
+      "id": "QJpeJ6CZGUR4"
+    },
+    {
+      "name": "Bayanhongor",
+      "id": "5TQ-1h_0V21c"
+    },
+    {
+      "name": "Cecerleg",
+      "id": "sO6DDbQ80yTO"
+    },
+    {
+      "name": "Chihertey",
+      "id": "qrlOCueYH588"
+    },
+    {
+      "name": "Choyr",
+      "id": "3Io0ziUX0c3y"
+    },
+    {
+      "name": "Dalandzadgad",
+      "id": "sxhWDUha1dvY"
+    },
+    {
+      "name": "Darhan",
+      "id": "DLNwHsbp-gun"
+    },
+    {
+      "name": "Han-Uul",
+      "id": "7VxCFEMilyYx"
+    },
+    {
+      "name": "Javhlant",
+      "id": "lV4iBJjyeKax"
+    },
+    {
+      "name": "Khovd",
+      "id": "u9-ENgoJCZct"
+    },
+    {
+      "name": "Mandalgovi",
+      "id": "pAK0JoQ4XF5f"
+    },
+    {
+      "name": "Ovoot",
+      "id": "FVLBzJHF8Ok6"
+    },
+    {
+      "name": "Saynshand",
+      "id": "-ainRbNE4nYk"
+    },
+    {
+      "name": "Toyrim",
+      "id": "vsjPCc20U3SC"
+    },
+    {
+      "name": "Ulaan-Uul",
+      "id": "_revuuyhtkh5"
+    },
+    {
+      "name": "Ulan Bator",
+      "id": "vJBpt-wSieZ2"
+    },
+    {
+      "name": "Uliastay",
+      "id": "8SULuNf07Wyv"
+    },
+    {
+      "name": "Undurkhaan",
+      "id": "43DKRGJVA1Nn"
+    }
   ]
 }

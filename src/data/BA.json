@@ -1,15 +1,165 @@
 {
   "coid": "BA",
   "cities": [
-    { "name": "Sarajevo", "id": "e83f1d2b4c65" },
-    { "name": "Banja Luka", "id": "f94a2e3c5d76" },
-    { "name": "Tuzla", "id": "a15b3f4d6e87" },
-    { "name": "Zenica", "id": "b26c4a5e7f98" },
-    { "name": "Mostar", "id": "c37d5b6f8a09" },
-    { "name": "Bihać", "id": "d48e6c7a9b10" },
-    { "name": "Doboj", "id": "e59f7d8b0c21" },
-    { "name": "Bijeljina", "id": "f60a8e9c1d32" },
-    { "name": "Prijedor", "id": "a71b9f0d2e43" },
-    { "name": "Trebinje", "id": "b82c1a3d4e55" }
+    {
+      "name": "Banja",
+      "id": "E5t2y8NKKXvf"
+    },
+    {
+      "name": "Banja Luka",
+      "id": "_QBy7tebxq8K"
+    },
+    {
+      "name": "Bijeljina",
+      "id": "ZP-IXiEczcOW"
+    },
+    {
+      "name": "Bosanska Dubica",
+      "id": "tCyTUavkzFNR"
+    },
+    {
+      "name": "Bosanska Krupa",
+      "id": "uzgwXiEn0pqc"
+    },
+    {
+      "name": "Brcko",
+      "id": "X0gTgCQKdwMq"
+    },
+    {
+      "name": "Breza",
+      "id": "k3FcBjHoN9FA"
+    },
+    {
+      "name": "Bugojno",
+      "id": "3nxzlJqR-WpE"
+    },
+    {
+      "name": "Cazin",
+      "id": "64CPmAsCWMTM"
+    },
+    {
+      "name": "Core",
+      "id": "-sPQlADjTYRs"
+    },
+    {
+      "name": "Doboj",
+      "id": "SJyHPWlDuHml"
+    },
+    {
+      "name": "Donja Mahala",
+      "id": "N_gwGf6NdFkq"
+    },
+    {
+      "name": "Gracanica",
+      "id": "BGaaIUOXxvIW"
+    },
+    {
+      "name": "Ilidza",
+      "id": "wB8rvfm5Kyw8"
+    },
+    {
+      "name": "Jajce",
+      "id": "-gGgG2ls7gJG"
+    },
+    {
+      "name": "Jelah",
+      "id": "nWTKn68hSa91"
+    },
+    {
+      "name": "Kiseljak",
+      "id": "rmbLQneRtMiW"
+    },
+    {
+      "name": "Livno",
+      "id": "iB2hTblMy3tL"
+    },
+    {
+      "name": "Ljubuski",
+      "id": "CHWVR35MI5eZ"
+    },
+    {
+      "name": "Lopare",
+      "id": "4LLRcusRnFoK"
+    },
+    {
+      "name": "Lukavac",
+      "id": "umn65iMjvmBp"
+    },
+    {
+      "name": "Modrica",
+      "id": "OVxtIqX3OqzE"
+    },
+    {
+      "name": "Mostar",
+      "id": "ZD-axUL1J6fb"
+    },
+    {
+      "name": "Novi Travnik",
+      "id": "kSVMweIqsGt4"
+    },
+    {
+      "name": "Odzak",
+      "id": "9sW3Qf5k7wTS"
+    },
+    {
+      "name": "Prijedor",
+      "id": "10-xcW0mdno0"
+    },
+    {
+      "name": "Sanski Most",
+      "id": "r5d-To-Oob3_"
+    },
+    {
+      "name": "Sarajevo",
+      "id": "oe9Fc1yMqwiY"
+    },
+    {
+      "name": "Siroki Brijeg",
+      "id": "NUcBjUGrUrW3"
+    },
+    {
+      "name": "Srpska",
+      "id": "Xp1KMgehd8Kf"
+    },
+    {
+      "name": "Stup",
+      "id": "yFfd8VIXwTWR"
+    },
+    {
+      "name": "Tesanj",
+      "id": "YSgXG13YRgga"
+    },
+    {
+      "name": "Travnik",
+      "id": "1NZAus_h6fxl"
+    },
+    {
+      "name": "Tuzla",
+      "id": "J5aG1O05Cbvm"
+    },
+    {
+      "name": "Visoko",
+      "id": "dvTqBYrbjWAX"
+    },
+    {
+      "name": "Vitez",
+      "id": "MnVojfQ7QBWJ"
+    },
+    {
+      "name": "Vogosca",
+      "id": "DWz2_0HoCHZX"
+    },
+    {
+      "name": "Zenica",
+      "id": "23Rl6nF8vAJB"
+    },
+    {
+      "name": "Zepce",
+      "id": "nTNLcFOdLwzO"
+    },
+    {
+      "name": "Zivinice",
+      "id": "GyetdvqOonfY"
+    }
   ]
 }

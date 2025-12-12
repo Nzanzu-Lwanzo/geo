@@ -1,15 +1,293 @@
 {
   "coid": "PA",
   "cities": [
-    { "name": "Panama City", "id": "a83f1d2b4c65" },
-    { "name": "San Miguelito", "id": "b94a2e3c5d76" },
-    { "name": "Tocumen", "id": "c15b3f4d6e87" },
-    { "name": "David", "id": "d26c4a5e7f98" },
-    { "name": "Arraiján", "id": "e37d5b6f8a09" },
-    { "name": "Colón", "id": "f48e6c7a9b10" },
-    { "name": "La Chorrera", "id": "a59f7d8b0c21" },
-    { "name": "Santiago", "id": "b60a8e9c1d32" },
-    { "name": "Chitré", "id": "c71b9f0d2e43" },
-    { "name": "Penonomé", "id": "d82c1a3d4e55" }
+    {
+      "name": "Aguadulce",
+      "id": "cK0F7OjT7YHD"
+    },
+    {
+      "name": "Albrook",
+      "id": "LaJt3kGhmeST"
+    },
+    {
+      "name": "Ancon",
+      "id": "lIxdWB0Doilq"
+    },
+    {
+      "name": "Arosemena",
+      "id": "N4gbEY_xG4ih"
+    },
+    {
+      "name": "Arraijan",
+      "id": "ImPeMxM2pzPu"
+    },
+    {
+      "name": "Balboa",
+      "id": "B0BzoPq1dpY5"
+    },
+    {
+      "name": "Bella Vista",
+      "id": "e-ubr3QF7lub"
+    },
+    {
+      "name": "Bocas del Toro",
+      "id": "ddyob13ReRce"
+    },
+    {
+      "name": "Boquete",
+      "id": "DDHU8w2_Kgyd"
+    },
+    {
+      "name": "Bugaba",
+      "id": "Aa2vySDpfylL"
+    },
+    {
+      "name": "Calidonia",
+      "id": "X1c25CTEdvgv"
+    },
+    {
+      "name": "Campo Alegre",
+      "id": "mmAeNLBuy3qx"
+    },
+    {
+      "name": "Cerro Viento",
+      "id": "de6nxFHgUZH4"
+    },
+    {
+      "name": "Chigore",
+      "id": "UBzTVrGeVpin"
+    },
+    {
+      "name": "Chiriqui",
+      "id": "fnoGZobbm-iN"
+    },
+    {
+      "name": "Cocle",
+      "id": "GHPK17vm21oL"
+    },
+    {
+      "name": "Corozal",
+      "id": "VL-2kIYGCdHU"
+    },
+    {
+      "name": "Cristobal",
+      "id": "AA4XRAbHnoRt"
+    },
+    {
+      "name": "Curundame",
+      "id": "BxCbyeQyQFeD"
+    },
+    {
+      "name": "Curundu",
+      "id": "tlJsZwHPMx29"
+    },
+    {
+      "name": "David",
+      "id": "pRsS8o1L-B_8"
+    },
+    {
+      "name": "El Arado",
+      "id": "mlTSll2lVsdE"
+    },
+    {
+      "name": "El Cangrejo",
+      "id": "p6MOgUGH3jqX"
+    },
+    {
+      "name": "El Lago",
+      "id": "efSx15gcYjH4"
+    },
+    {
+      "name": "Elena",
+      "id": "TwHwAxcAICQB"
+    },
+    {
+      "name": "Entre Rios",
+      "id": "yFLY5mNbZVqE"
+    },
+    {
+      "name": "Finca Blanco Numero Uno",
+      "id": "0JLnVUD78rX9"
+    },
+    {
+      "name": "Fuerte Amador",
+      "id": "82mzdMyA_pFY"
+    },
+    {
+      "name": "Guadalupe",
+      "id": "_nrRjpMSOh8i"
+    },
+    {
+      "name": "Jimenez",
+      "id": "rWLsuGs5Z7ol"
+    },
+    {
+      "name": "Juan Diaz",
+      "id": "IYWKPxhuA3Vu"
+    },
+    {
+      "name": "Juan Franco",
+      "id": "u4B3Q544-JR6"
+    },
+    {
+      "name": "Kuba",
+      "id": "TNfst_bqNiyO"
+    },
+    {
+      "name": "La Chorrera",
+      "id": "EnBqDpSiRnDK"
+    },
+    {
+      "name": "La Exposicion",
+      "id": "sZR683BaCB4_"
+    },
+    {
+      "name": "La Loma",
+      "id": "RF9EUt84elfA"
+    },
+    {
+      "name": "Las Mercedes",
+      "id": "wkinXA4LaZq9"
+    },
+    {
+      "name": "Las Sabanas",
+      "id": "D3wLCf85yn_I"
+    },
+    {
+      "name": "Las Tablas",
+      "id": "zppq-v01Uty_"
+    },
+    {
+      "name": "Llano Tugri",
+      "id": "r4nwS5zgKIcw"
+    },
+    {
+      "name": "Los Angeles",
+      "id": "pCwzTfvC6B2F"
+    },
+    {
+      "name": "Muerto",
+      "id": "jjejdqtQAdj7"
+    },
+    {
+      "name": "Mulatupo",
+      "id": "82yhFv5lQFe8"
+    },
+    {
+      "name": "Paitilla",
+      "id": "UAxCpV3lspC5"
+    },
+    {
+      "name": "Panama City",
+      "id": "k1qJAiF3Ijx8"
+    },
+    {
+      "name": "Parque Lefevre",
+      "id": "T5x--S3kWVNH"
+    },
+    {
+      "name": "Peru",
+      "id": "ndlTsny7Shmt"
+    },
+    {
+      "name": "Playa Blanca",
+      "id": "QIMYG9iA1dlM"
+    },
+    {
+      "name": "Plaza",
+      "id": "2rUG67dl9SBY"
+    },
+    {
+      "name": "Portobelo",
+      "id": "II5hXRWokGhz"
+    },
+    {
+      "name": "Pueblo Nuevo",
+      "id": "6LpMDbk6Bu_V"
+    },
+    {
+      "name": "Quebrada de Camilo",
+      "id": "x_lU51jHYatz"
+    },
+    {
+      "name": "Rio Abajo",
+      "id": "SR1tOo9wit5J"
+    },
+    {
+      "name": "Sabalo",
+      "id": "bIO-8Xj-vBB8"
+    },
+    {
+      "name": "Sacramento",
+      "id": "7rpUBLziATa8"
+    },
+    {
+      "name": "San Cristobal",
+      "id": "GccR3cp3WF5i"
+    },
+    {
+      "name": "San Felipe",
+      "id": "RKFWCbtYaLQ1"
+    },
+    {
+      "name": "San Francisco",
+      "id": "hKGEYAISyNja"
+    },
+    {
+      "name": "San Miguelito",
+      "id": "B5_FtjSdYXDe"
+    },
+    {
+      "name": "Santa Ana",
+      "id": "jmk9eIqacZOo"
+    },
+    {
+      "name": "Santa Catalina",
+      "id": "W5pDku82phBY"
+    },
+    {
+      "name": "Santa Clara",
+      "id": "c79b-YCHYH_g"
+    },
+    {
+      "name": "Santa Isabel",
+      "id": "ElQMEkHyq1G8"
+    },
+    {
+      "name": "Santiago",
+      "id": "-fTa2dmhTPu4"
+    },
+    {
+      "name": "Santo Domingo",
+      "id": "2sKBzxzFjkiX"
+    },
+    {
+      "name": "Tocumen",
+      "id": "RMkdFu068wOD"
+    },
+    {
+      "name": "Torre",
+      "id": "W3R6XpYxqrAj"
+    },
+    {
+      "name": "Torres Bluff",
+      "id": "j0f5_jRSh73N"
+    },
+    {
+      "name": "Veraguas",
+      "id": "4dt9Lpo4FB7S"
+    },
+    {
+      "name": "Victoria",
+      "id": "krlAYlJZBOhU"
+    },
+    {
+      "name": "Vista Alegre",
+      "id": "3h-L8-KLz9sY"
+    },
+    {
+      "name": "Vista Hermosa",
+      "id": "UUF0K3q0j2Jh"
+    }
   ]
 }

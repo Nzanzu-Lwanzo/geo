@@ -1,15 +1,665 @@
 {
   "coid": "GR",
   "cities": [
-    { "name": "Athens", "id": "c91f3a2d9b7e" },
-    { "name": "Thessaloniki", "id": "d28e1f9ac4d2" },
-    { "name": "Patras", "id": "e39d7b1e0f52" },
-    { "name": "Heraklion", "id": "f84a2c7f1e93" },
-    { "name": "Larissa", "id": "a72b9d4c3a10" },
-    { "name": "Volos", "id": "b63c1a8e5b27" },
-    { "name": "Ioannina", "id": "c72d9c4f1b83" },
-    { "name": "Chania", "id": "d91e3f7a2c64" },
-    { "name": "Rhodes", "id": "e58f2a9d7e31" },
-    { "name": "Agrinio", "id": "f47b1c6e9f20" }
+    {
+      "name": "Aegina",
+      "id": "JShJ0KS4zL5F"
+    },
+    {
+      "name": "Agioi Anargyroi",
+      "id": "asBmMknqBKMf"
+    },
+    {
+      "name": "Agios Nikolaos",
+      "id": "WgB52NEHCMJp"
+    },
+    {
+      "name": "Agrinio",
+      "id": "sVL0lIy6xNc6"
+    },
+    {
+      "name": "Aigaleo",
+      "id": "SOLJk5zaTJ4l"
+    },
+    {
+      "name": "Aigio",
+      "id": "ha5BeF11ND7-"
+    },
+    {
+      "name": "Alexandreia",
+      "id": "ET658jXCzERt"
+    },
+    {
+      "name": "Alexandroupoli",
+      "id": "Tx1EDAAwNpqj"
+    },
+    {
+      "name": "Aliartos",
+      "id": "vPNcQZSpckNt"
+    },
+    {
+      "name": "Alimos",
+      "id": "VJ6u1QBNY0dT"
+    },
+    {
+      "name": "Amaliada",
+      "id": "G6Il9L2FETOW"
+    },
+    {
+      "name": "Anavyssos",
+      "id": "N08lBUUgVEsm"
+    },
+    {
+      "name": "Andravida",
+      "id": "RBsKkMfGmXpW"
+    },
+    {
+      "name": "Ano Liosia",
+      "id": "lEagVZKPlI5L"
+    },
+    {
+      "name": "Archaia Nemea",
+      "id": "wB-qG4BFz8vc"
+    },
+    {
+      "name": "Argos",
+      "id": "mNwv4ooghStj"
+    },
+    {
+      "name": "Argostoli",
+      "id": "A3POKWDjuzCp"
+    },
+    {
+      "name": "Argyroupoli",
+      "id": "uGWeQNWdSSGQ"
+    },
+    {
+      "name": "Arta",
+      "id": "j0w3JJQ_27g0"
+    },
+    {
+      "name": "Aspropyrgos",
+      "id": "mh72-2KaVbZM"
+    },
+    {
+      "name": "Athens",
+      "id": "jHifwO7M4rVc"
+    },
+    {
+      "name": "Attica",
+      "id": "-vXEXUwKB3F9"
+    },
+    {
+      "name": "Ayios Stefanos",
+      "id": "HvDa2CEJEfy8"
+    },
+    {
+      "name": "Chalcis",
+      "id": "dSVekTiPIJGn"
+    },
+    {
+      "name": "Chania",
+      "id": "bzF_TlKG5_l7"
+    },
+    {
+      "name": "Chios",
+      "id": "oDf2c0e85O12"
+    },
+    {
+      "name": "Cholargos",
+      "id": "sJfGyIPdDhQ8"
+    },
+    {
+      "name": "Corfu",
+      "id": "PMomnmFDPl05"
+    },
+    {
+      "name": "Corinth",
+      "id": "GnoTXsR_IoVx"
+    },
+    {
+      "name": "Dafni",
+      "id": "aBhFHVahK-V7"
+    },
+    {
+      "name": "Dionysos",
+      "id": "pZDAaZWXw9Kx"
+    },
+    {
+      "name": "Drama",
+      "id": "1k7gq80y-tfQ"
+    },
+    {
+      "name": "Ekali",
+      "id": "6dEhxamwtt5W"
+    },
+    {
+      "name": "Elassona",
+      "id": "WmdlRoIe9xga"
+    },
+    {
+      "name": "Elefsina",
+      "id": "OYoHiI5nHCkU"
+    },
+    {
+      "name": "Elliniko",
+      "id": "PG2RS95_Scaq"
+    },
+    {
+      "name": "Eretria",
+      "id": "uCKHOvSzVWET"
+    },
+    {
+      "name": "Farsala",
+      "id": "2Z7frEBkaCz7"
+    },
+    {
+      "name": "Filippiada",
+      "id": "oLeb0hdQ-VhC"
+    },
+    {
+      "name": "Filothei",
+      "id": "v5GcFGVmTVlI"
+    },
+    {
+      "name": "Florina",
+      "id": "2fJ65Pys-Mp-"
+    },
+    {
+      "name": "Galatsi",
+      "id": "WKsYx2ykNsxg"
+    },
+    {
+      "name": "Giannitsa",
+      "id": "orV0b-EyL0OX"
+    },
+    {
+      "name": "Glyfada",
+      "id": "tnrB4Q0JaoaG"
+    },
+    {
+      "name": "Gonnoi",
+      "id": "zH0CLgVBGrkQ"
+    },
+    {
+      "name": "Goumenissa",
+      "id": "S9n5tDP600-v"
+    },
+    {
+      "name": "Heraklion",
+      "id": "kdR33vQgO1U5"
+    },
+    {
+      "name": "Hydra",
+      "id": "jZ24Ekv4Y0A0"
+    },
+    {
+      "name": "Ialysos",
+      "id": "1gmFaLWt2SX6"
+    },
+    {
+      "name": "Ierapetra",
+      "id": "Z9o9sC8MQtf1"
+    },
+    {
+      "name": "Igoumenitsa",
+      "id": "G9oWLh0dEHZh"
+    },
+    {
+      "name": "Ioannina",
+      "id": "ylFuJoJlp6no"
+    },
+    {
+      "name": "Kaisariani",
+      "id": "9IK281n7ahbw"
+    },
+    {
+      "name": "Kalamaria",
+      "id": "ZS2Yazm4ZiFU"
+    },
+    {
+      "name": "Kalamata",
+      "id": "z7H-E7zKxkki"
+    },
+    {
+      "name": "Kalamos",
+      "id": "ssUob2s6gBuY"
+    },
+    {
+      "name": "Kallithea",
+      "id": "vb40o6fT5et1"
+    },
+    {
+      "name": "Kalymnos",
+      "id": "KSS1WUF2zi4s"
+    },
+    {
+      "name": "Kamatero",
+      "id": "PuK_h_UbpU-9"
+    },
+    {
+      "name": "Karditsa",
+      "id": "s0XpTGo1KkK9"
+    },
+    {
+      "name": "Kassiopi",
+      "id": "RTyaBcbFeBSK"
+    },
+    {
+      "name": "Kastoria",
+      "id": "RY_4da0syYQ9"
+    },
+    {
+      "name": "Katerini",
+      "id": "v0QPTiPncI4y"
+    },
+    {
+      "name": "Kavala",
+      "id": "ZKcIa9_QTMVu"
+    },
+    {
+      "name": "Keratea",
+      "id": "w-c8-rRCeagY"
+    },
+    {
+      "name": "Keratsini",
+      "id": "0byWywV6K_vD"
+    },
+    {
+      "name": "Kifissia",
+      "id": "FCc2CXpsBJFQ"
+    },
+    {
+      "name": "Kilkis",
+      "id": "T5bVTTgndhk7"
+    },
+    {
+      "name": "Komotini",
+      "id": "bLN8ziZ7xf6A"
+    },
+    {
+      "name": "Koropi",
+      "id": "R2YFrjmBf-4U"
+    },
+    {
+      "name": "Kos",
+      "id": "R21fxPjjJv5c"
+    },
+    {
+      "name": "Kouvaras",
+      "id": "cRSLcNaZRPvd"
+    },
+    {
+      "name": "Kozani",
+      "id": "Xg5XQgH4v-vE"
+    },
+    {
+      "name": "Kranidi",
+      "id": "gwBhNZqDSnBE"
+    },
+    {
+      "name": "Kryonerion",
+      "id": "CRymrKcSgtJi"
+    },
+    {
+      "name": "Kymi",
+      "id": "eZjPn3ZQ4Ry5"
+    },
+    {
+      "name": "Lamia",
+      "id": "6XAJDOmk9LFj"
+    },
+    {
+      "name": "Larisa",
+      "id": "dPipfcuzXTsQ"
+    },
+    {
+      "name": "Lefkada",
+      "id": "Xvw21gYgOsbK"
+    },
+    {
+      "name": "Lefkimmi",
+      "id": "GGnHamLkNiJO"
+    },
+    {
+      "name": "Leontario",
+      "id": "kop8XCRijpQo"
+    },
+    {
+      "name": "Litochoro",
+      "id": "hFrfMWmSjuNc"
+    },
+    {
+      "name": "Lixouri",
+      "id": "JwfWBzcoRVrt"
+    },
+    {
+      "name": "Loutraki",
+      "id": "NnA8OrM_IiUg"
+    },
+    {
+      "name": "Lykovrysi",
+      "id": "qOdH_82EVlvt"
+    },
+    {
+      "name": "Magoula",
+      "id": "tqncWHL7YxS2"
+    },
+    {
+      "name": "Makrygialos",
+      "id": "llrqGy2NOaFJ"
+    },
+    {
+      "name": "Mandra",
+      "id": "HUtCUjtGqQMq"
+    },
+    {
+      "name": "Marathon",
+      "id": "3ww5MI4sQnS0"
+    },
+    {
+      "name": "Markopoulo Mesogaias",
+      "id": "ihtTLc6TqhLm"
+    },
+    {
+      "name": "Megalochari",
+      "id": "GXAw0aBnH-Dg"
+    },
+    {
+      "name": "Megara",
+      "id": "EXgs03s6U0CY"
+    },
+    {
+      "name": "Melissia",
+      "id": "MU9kfIfm2sOS"
+    },
+    {
+      "name": "Mesagros",
+      "id": "6YgITOx3_yk-"
+    },
+    {
+      "name": "Messolonghi",
+      "id": "D0FXnBzY34Fy"
+    },
+    {
+      "name": "Metaxades",
+      "id": "LMFcoYl702ZK"
+    },
+    {
+      "name": "Moires",
+      "id": "k8j1_gzk1WVA"
+    },
+    {
+      "name": "Mytilene",
+      "id": "JQlX-SHetAwd"
+    },
+    {
+      "name": "Nafpaktos",
+      "id": "XYPK81MYmwqx"
+    },
+    {
+      "name": "Nafplion",
+      "id": "bkaqNlDeNN-a"
+    },
+    {
+      "name": "Naousa",
+      "id": "yXBfDMO5HYn5"
+    },
+    {
+      "name": "Naxos",
+      "id": "qpiWJzenIKrN"
+    },
+    {
+      "name": "Nea Alikarnassos",
+      "id": "4rZ8Xc-QJxWw"
+    },
+    {
+      "name": "Nea Filadelfeia",
+      "id": "gOLCon-1Ka2h"
+    },
+    {
+      "name": "Nea Ionia",
+      "id": "oOZfA7dWbXbs"
+    },
+    {
+      "name": "Nea Kios",
+      "id": "fOSP6UloTePI"
+    },
+    {
+      "name": "Nea Makri",
+      "id": "yUBnNMoiAjFU"
+    },
+    {
+      "name": "Nea Peramos",
+      "id": "z7RAtgFu8eT-"
+    },
+    {
+      "name": "Nea Smyrni",
+      "id": "pr1XN79LQf98"
+    },
+    {
+      "name": "Nikaia",
+      "id": "p8ZGq8-htegv"
+    },
+    {
+      "name": "Orestiada",
+      "id": "ORSzC678UJFb"
+    },
+    {
+      "name": "Ormylia",
+      "id": "gHghH29YUOs8"
+    },
+    {
+      "name": "Oropos",
+      "id": "nJY2pgNDZT5g"
+    },
+    {
+      "name": "Paiania",
+      "id": "rp-_-AFtQLVP"
+    },
+    {
+      "name": "Pallini",
+      "id": "AkmuVJhibE2E"
+    },
+    {
+      "name": "Paloukia",
+      "id": "9HnOAQP-xgOc"
+    },
+    {
+      "name": "Panorama",
+      "id": "-Jpe_YaguGD6"
+    },
+    {
+      "name": "Parga",
+      "id": "feWct-SXFAi0"
+    },
+    {
+      "name": "Patmos",
+      "id": "iiwBwZaS5O_M"
+    },
+    {
+      "name": "Pefki",
+      "id": "aWr1zqY47Ure"
+    },
+    {
+      "name": "Pella",
+      "id": "p7YNzA3FQjKQ"
+    },
+    {
+      "name": "Perama",
+      "id": "pTMIgzqTiVJ2"
+    },
+    {
+      "name": "Peristeri",
+      "id": "AiNwTdJKoItq"
+    },
+    {
+      "name": "Pikermi",
+      "id": "7nrZyajJVdxM"
+    },
+    {
+      "name": "Piraeus",
+      "id": "Q2crdkxcbFuF"
+    },
+    {
+      "name": "Platy",
+      "id": "BEtMGSA3mrsH"
+    },
+    {
+      "name": "Polichni",
+      "id": "__umfvt1qygr"
+    },
+    {
+      "name": "Porto Rafti",
+      "id": "ykdsTsz1fYgJ"
+    },
+    {
+      "name": "Preveza",
+      "id": "a54c6IWXwyz1"
+    },
+    {
+      "name": "Psychiko",
+      "id": "4VyeQszhoY3e"
+    },
+    {
+      "name": "Ptolemaida",
+      "id": "GC6eWl4AToJY"
+    },
+    {
+      "name": "Pylaia",
+      "id": "xyu1xjhhPrDF"
+    },
+    {
+      "name": "Pyrgos",
+      "id": "mbpFe_npJ8sX"
+    },
+    {
+      "name": "Rafina",
+      "id": "BMWG3tiDBVF8"
+    },
+    {
+      "name": "Rethymno",
+      "id": "7lUOH2eQYEi2"
+    },
+    {
+      "name": "Rhodes",
+      "id": "PsnqlzBqZCx_"
+    },
+    {
+      "name": "Rio",
+      "id": "Pwc098h-UK1r"
+    },
+    {
+      "name": "Salamina",
+      "id": "nQCsFeDdjh1y"
+    },
+    {
+      "name": "Samothraki",
+      "id": "2880gotlecK7"
+    },
+    {
+      "name": "Serres",
+      "id": "UHnmXFNMFfZi"
+    },
+    {
+      "name": "Servia",
+      "id": "KQpQVeh-brQL"
+    },
+    {
+      "name": "Sindos",
+      "id": "GFCdK8owiK2C"
+    },
+    {
+      "name": "Skala",
+      "id": "-Emrsfz19psy"
+    },
+    {
+      "name": "Skala Oropou",
+      "id": "Y6SSnqVU2Fhd"
+    },
+    {
+      "name": "Skiathos",
+      "id": "KuY_1q_HE20W"
+    },
+    {
+      "name": "Sparta",
+      "id": "wBtAAZvaLVDj"
+    },
+    {
+      "name": "Spata",
+      "id": "pSBL3CziTP14"
+    },
+    {
+      "name": "Symi",
+      "id": "g9LDzKrsThHp"
+    },
+    {
+      "name": "Tavros",
+      "id": "lSCxB-XUWRmr"
+    },
+    {
+      "name": "Thebes",
+      "id": "yU3Chlr8TDO6"
+    },
+    {
+      "name": "Thermi",
+      "id": "PkoBF7USo6R8"
+    },
+    {
+      "name": "Thessaloniki",
+      "id": "6U40bixBNuiF"
+    },
+    {
+      "name": "Tinos",
+      "id": "DFWq7S7kogAw"
+    },
+    {
+      "name": "Trikala",
+      "id": "BBEqwrL9TzMz"
+    },
+    {
+      "name": "Tripoli",
+      "id": "T-sGCDBFrbEX"
+    },
+    {
+      "name": "Vari",
+      "id": "mphgMhMJygwF"
+    },
+    {
+      "name": "Varkiza",
+      "id": "ayC2x-pZEDZ4"
+    },
+    {
+      "name": "Vergina",
+      "id": "_mqmjYbYNhHj"
+    },
+    {
+      "name": "Veroia",
+      "id": "la2lIAZcGuDw"
+    },
+    {
+      "name": "Volos",
+      "id": "wqbe7bHe_bgX"
+    },
+    {
+      "name": "Voula",
+      "id": "dqOegSpdf3BJ"
+    },
+    {
+      "name": "Vouliagmeni",
+      "id": "GQkuSoZwnXW1"
+    },
+    {
+      "name": "Xanthi",
+      "id": "A5o68B2LSKHv"
+    },
+    {
+      "name": "Xylokastro",
+      "id": "9EjKxucQptpO"
+    },
+    {
+      "name": "Zakynthos",
+      "id": "JwSfuqMpn-CL"
+    }
   ]
 }

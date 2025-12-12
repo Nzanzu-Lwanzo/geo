@@ -1,15 +1,37 @@
 {
   "coid": "BN",
   "cities": [
-    { "name": "Bandar Seri Begawan", "id": "e93f2d5a6b87" },
-    { "name": "Kuala Belait", "id": "f04a3e6b7c98" },
-    { "name": "Seria", "id": "a15b4f7c8d09" },
-    { "name": "Tutong", "id": "b26c5a8d9e10" },
-    { "name": "Bangar", "id": "c37d6b9e0f21" },
-    { "name": "Sukang", "id": "d48e7c0f1a32" },
-    { "name": "Labi", "id": "e59f8d1a2b43" },
-    { "name": "Pekan Muara", "id": "f60a9e2b3c54" },
-    { "name": "Kiudang", "id": "a71b0f3c4d65" },
-    { "name": "Lamunin", "id": "b82c1a4d5e76" }
+    {
+      "name": "Bandar Seri Begawan",
+      "id": "GbLY6FyuJDjS"
+    },
+    {
+      "name": "Bangar",
+      "id": "1KCG0p8uK6S1"
+    },
+    {
+      "name": "Kampong Jerudong",
+      "id": "dSu4OBlyj1DN"
+    },
+    {
+      "name": "Kuala Balai",
+      "id": "qugcxwDhCtaY"
+    },
+    {
+      "name": "Kuala Belait",
+      "id": "SNS5UvSRmesf"
+    },
+    {
+      "name": "Panaga",
+      "id": "KUSHjsowjjvE"
+    },
+    {
+      "name": "Seria",
+      "id": "yJw3Kbtr8Phw"
+    },
+    {
+      "name": "Tutong",
+      "id": "2GiRUTPjs8Pj"
+    }
   ]
 }

@@ -1,15 +1,53 @@
 {
   "coid": "TN",
   "cities": [
-    { "name": "Tunis", "id": "c1d2e3f4a5b6" },
-    { "name": "Sfax", "id": "d2e3f4a5b6c7" },
-    { "name": "Sousse", "id": "e3f4a5b6c7d8" },
-    { "name": "Ettadhamen", "id": "f4a5b6c7d8e9" },
-    { "name": "Kairouan", "id": "a5b6c7d8e9f0" },
-    { "name": "Gabès", "id": "b6c7d8e9f0a1" },
-    { "name": "Bizerte", "id": "c7d8e9f0a1b2" },
-    { "name": "Ariana", "id": "d8e9f0a1b2c3" },
-    { "name": "Gafsa", "id": "e9f0a1b2c3d4" },
-    { "name": "Monastir", "id": "f0a1b2c3d4e5" }
+    {
+      "name": "Ariana",
+      "id": "90ygdjXQUlAt"
+    },
+    {
+      "name": "Beja",
+      "id": "ZUQhicZFOwpQ"
+    },
+    {
+      "name": "Gafsa",
+      "id": "xzUF7NSeJhWc"
+    },
+    {
+      "name": "Hammamet",
+      "id": "Xd_LWhYff-Sd"
+    },
+    {
+      "name": "Le Bardo",
+      "id": "IrMjUqvZ3MzU"
+    },
+    {
+      "name": "Manouba",
+      "id": "Hl-YuIK2BUqv"
+    },
+    {
+      "name": "Monastir",
+      "id": "ykfcPkFHPTDi"
+    },
+    {
+      "name": "Rades",
+      "id": "1nJaYgC_G-He"
+    },
+    {
+      "name": "Sfax",
+      "id": "5fjLSWIhJFsT"
+    },
+    {
+      "name": "Sidi Bouzid",
+      "id": "UNNM2GzYjqqX"
+    },
+    {
+      "name": "Sousse",
+      "id": "kNT7zGWlmlTm"
+    },
+    {
+      "name": "Tunis",
+      "id": "VerlI2Gn8pEy"
+    }
   ]
 }

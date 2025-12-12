@@ -1,15 +1,45 @@
 {
   "coid": "JO",
   "cities": [
-    { "name": "Amman", "id": "a93f2d5a6b87" },
-    { "name": "Zarqa", "id": "b04a3e6b7c98" },
-    { "name": "Irbid", "id": "c15b4f7c8d09" },
-    { "name": "Russeifa", "id": "d26c5a8d9e10" },
-    { "name": "Aqaba", "id": "e37d6b9e0f21" },
-    { "name": "Mafraq", "id": "f48e7c0f1a32" },
-    { "name": "Salt", "id": "a59f8d1a2b43" },
-    { "name": "Madaba", "id": "b60a9e2b3c54" },
-    { "name": "Jerash", "id": "c71b0f3c4d65" },
-    { "name": "Karak", "id": "d82c1a4d5e76" }
+    {
+      "name": "Amman",
+      "id": "C4RqQmolOOBQ"
+    },
+    {
+      "name": "Zarqa",
+      "id": "F9qOgaHZaDxz"
+    },
+    {
+      "name": "Irbid",
+      "id": "s12Zly6MCcW7"
+    },
+    {
+      "name": "Russeifa",
+      "id": "PDH3ECDhvtK7"
+    },
+    {
+      "name": "Aqaba",
+      "id": "ChqaX-7qHY08"
+    },
+    {
+      "name": "Mafraq",
+      "id": "GUC6TPKbPzqt"
+    },
+    {
+      "name": "Salt",
+      "id": "VqJOyGlYTrpD"
+    },
+    {
+      "name": "Madaba",
+      "id": "Nk2Oi2lQavah"
+    },
+    {
+      "name": "Jerash",
+      "id": "tSCpefyDVlZA"
+    },
+    {
+      "name": "Karak",
+      "id": "227LEhBCa_ru"
+    }
   ]
 }

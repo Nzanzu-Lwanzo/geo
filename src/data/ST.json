@@ -1,15 +1,45 @@
 {
   "coid": "ST",
   "cities": [
-    { "name": "São Tomé", "id": "c1e3g5h7j9k2" },
-    { "name": "Santo António", "id": "d2f4h6j8l0m3" },
-    { "name": "Neves", "id": "e3g5i7k9m1n4" },
-    { "name": "Trindade", "id": "f4h6j8l0n2o5" },
-    { "name": "Santana", "id": "a5i7k9m1o3p6" },
-    { "name": "Guadalupe", "id": "b6j8l0n2p4q7" },
-    { "name": "Monte Café", "id": "c7k9m1o3q5r8" },
-    { "name": "Pantufo", "id": "d8l0n2p4r6s9" },
-    { "name": "São João dos Angolares", "id": "e9m1o3q5s7t0" },
-    { "name": "Ribeira Afonso", "id": "f0n2p4r6t8u1" }
+    {
+      "name": "São Tomé",
+      "id": "FB5rv_vG78PM"
+    },
+    {
+      "name": "Santo António",
+      "id": "sX_BuPo0LS6w"
+    },
+    {
+      "name": "Neves",
+      "id": "Jv6f4l96as6D"
+    },
+    {
+      "name": "Trindade",
+      "id": "mz4XaRHo9drZ"
+    },
+    {
+      "name": "Santana",
+      "id": "5Y-ptjbzIzlT"
+    },
+    {
+      "name": "Guadalupe",
+      "id": "8EuOm2ccX7Gu"
+    },
+    {
+      "name": "Monte Café",
+      "id": "ST3eWvFabJ4O"
+    },
+    {
+      "name": "Pantufo",
+      "id": "--q9dyZJn4uF"
+    },
+    {
+      "name": "São João dos Angolares",
+      "id": "67kt8Qwj_jxU"
+    },
+    {
+      "name": "Ribeira Afonso",
+      "id": "t59jc6MBPKej"
+    }
   ]
 }

@@ -1,15 +1,45 @@
 {
   "coid": "KR",
   "cities": [
-    { "name": "Seoul", "id": "e1g2i3k4m5o6" },
-    { "name": "Busan", "id": "f2h3j4l5n6p7" },
-    { "name": "Incheon", "id": "a3i4k5m6o7q8" },
-    { "name": "Daegu", "id": "b4j5l6n7p8r9" },
-    { "name": "Daejeon", "id": "c5k6m7o8q9s0" },
-    { "name": "Gwangju", "id": "d6l7n8p9r0t1" },
-    { "name": "Suwon", "id": "e7m8o9q0s1u2" },
-    { "name": "Ulsan", "id": "f8n9p0r1t2v3" },
-    { "name": "Changwon", "id": "a9o0q1s2u3w4" },
-    { "name": "Seongnam", "id": "b0p1r2t3v4x5" }
+    {
+      "name": "Seoul",
+      "id": "rFlob5WA-w5f"
+    },
+    {
+      "name": "Busan",
+      "id": "gH6P62p9IPI7"
+    },
+    {
+      "name": "Incheon",
+      "id": "AKTfnInD9Rpf"
+    },
+    {
+      "name": "Daegu",
+      "id": "X1z4vS7NRU5V"
+    },
+    {
+      "name": "Daejeon",
+      "id": "pzPqpnSfVo41"
+    },
+    {
+      "name": "Gwangju",
+      "id": "Ksq_8OEbz3rA"
+    },
+    {
+      "name": "Suwon",
+      "id": "g-9CzCKRSgHU"
+    },
+    {
+      "name": "Ulsan",
+      "id": "Rizs5KIUYC1b"
+    },
+    {
+      "name": "Changwon",
+      "id": "paeY8QAV2fxG"
+    },
+    {
+      "name": "Seongnam",
+      "id": "y-ItC0LUE7N1"
+    }
   ]
 }

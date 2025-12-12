@@ -1,15 +1,269 @@
 {
   "coid": "TW",
   "cities": [
-    { "name": "Taipei", "id": "e2f3a4b5c6d7" },
-    { "name": "Kaohsiung", "id": "f3a4b5c6d7e8" },
-    { "name": "Taichung", "id": "a4b5c6d7e8f9" },
-    { "name": "Tainan", "id": "b5c6d7e8f9a0" },
-    { "name": "Taoyuan", "id": "c6d7e8f9a0b1" },
-    { "name": "Hsinchu", "id": "d7e8f9a0b1c2" },
-    { "name": "Keelung", "id": "e8f9a0b1c2d3" },
-    { "name": "Chiayi", "id": "f9a0b1c2d3e4" },
-    { "name": "Hualien", "id": "a0b1c2d3e4f5" },
-    { "name": "Yilan", "id": "b1c2d3e4f5a6" }
+    {
+      "name": "Budai",
+      "id": "4EdZkxH1-2Yl"
+    },
+    {
+      "name": "Caogang",
+      "id": "FHhQnz267W0-"
+    },
+    {
+      "name": "Chang-hua",
+      "id": "g723uSzKiXTN"
+    },
+    {
+      "name": "Checheng",
+      "id": "SNC0qMMFbeA3"
+    },
+    {
+      "name": "Chiayi",
+      "id": "rKAChJZM7HW9"
+    },
+    {
+      "name": "Dahu",
+      "id": "z2rmDqZGJZ4n"
+    },
+    {
+      "name": "Douliu",
+      "id": "6fAd2mKbugYL"
+    },
+    {
+      "name": "Erlin",
+      "id": "qBz-ZjqOX8na"
+    },
+    {
+      "name": "Fanlu",
+      "id": "kCEl0VaoICqv"
+    },
+    {
+      "name": "Fengshan",
+      "id": "d9AUyi4qZpNi"
+    },
+    {
+      "name": "Gangshan",
+      "id": "kX2TxvWpztyo"
+    },
+    {
+      "name": "Gaozhongyicun",
+      "id": "yiJe98KDi5or"
+    },
+    {
+      "name": "Hemei",
+      "id": "vUcEpaD5QrqW"
+    },
+    {
+      "name": "Hengchun",
+      "id": "IztdFGnY9ODw"
+    },
+    {
+      "name": "Hsinchu",
+      "id": "_774J1hdvSZ-"
+    },
+    {
+      "name": "Hualian",
+      "id": "AijBDM48x8ZX"
+    },
+    {
+      "name": "Jincheng",
+      "id": "j8qoC0vDjNze"
+    },
+    {
+      "name": "Kao-sung",
+      "id": "gy48iCBp3dG0"
+    },
+    {
+      "name": "Kaohsiung City",
+      "id": "Q5-i7k5I6ma_"
+    },
+    {
+      "name": "Keelung",
+      "id": "N8FS3HGwEOod"
+    },
+    {
+      "name": "Linkou",
+      "id": "2ig-qzAO8tIX"
+    },
+    {
+      "name": "Lugang",
+      "id": "Op5xMqhHs1UL"
+    },
+    {
+      "name": "Ma-kung",
+      "id": "80J7WabZn334"
+    },
+    {
+      "name": "Maru",
+      "id": "Mf9BvVKMqJre"
+    },
+    {
+      "name": "Matsu",
+      "id": "alTLN8y0lydF"
+    },
+    {
+      "name": "Meilun",
+      "id": "ilhP4b6uLG8Y"
+    },
+    {
+      "name": "Miaoli",
+      "id": "iT5yABBCjiVf"
+    },
+    {
+      "name": "Nanhua",
+      "id": "Bd81aj8ydGBR"
+    },
+    {
+      "name": "Nankan",
+      "id": "CJ14isqSBY_X"
+    },
+    {
+      "name": "Nantou",
+      "id": "wue9l3E2WYWC"
+    },
+    {
+      "name": "Neihu",
+      "id": "P3GC1QNEf7Va"
+    },
+    {
+      "name": "Pingtung",
+      "id": "HYQ7H5hO75uN"
+    },
+    {
+      "name": "Pozi",
+      "id": "_F-slAV3bgRt"
+    },
+    {
+      "name": "Puli",
+      "id": "OEyr23K7rgsr"
+    },
+    {
+      "name": "Shalun",
+      "id": "7l5cHlmHkS5W"
+    },
+    {
+      "name": "Shetou",
+      "id": "WyWan3VqOKm7"
+    },
+    {
+      "name": "Shoufeng",
+      "id": "_h9uqAGtZOJh"
+    },
+    {
+      "name": "Shuilin",
+      "id": "8woYNrDuYJnE"
+    },
+    {
+      "name": "Shuiliu",
+      "id": "XpoKJgpnEXMy"
+    },
+    {
+      "name": "Shuishang",
+      "id": "-jToXqx0jnIF"
+    },
+    {
+      "name": "Shulin",
+      "id": "uU2cW3O6Y9Rm"
+    },
+    {
+      "name": "Shuyi",
+      "id": "TxQJm2tFIk63"
+    },
+    {
+      "name": "Suqin",
+      "id": "p-BSNq5qWmxz"
+    },
+    {
+      "name": "Taichang",
+      "id": "klHqTJv7ylVH"
+    },
+    {
+      "name": "Taichung",
+      "id": "wgk5TiUUsByF"
+    },
+    {
+      "name": "Tainan",
+      "id": "JWqOb5nSasaE"
+    },
+    {
+      "name": "Taipei",
+      "id": "hvv_O8oMXr0N"
+    },
+    {
+      "name": "Taipingding",
+      "id": "-EVl5NnQPkfe"
+    },
+    {
+      "name": "Taitung",
+      "id": "8oXXc2Km18ns"
+    },
+    {
+      "name": "Taoyuan",
+      "id": "KWd_nF41uP5Y"
+    },
+    {
+      "name": "Toucheng",
+      "id": "yBPpozNsqhC1"
+    },
+    {
+      "name": "Tuchang",
+      "id": "4CnRimal3Tyj"
+    },
+    {
+      "name": "Wan-hua",
+      "id": "povkOQE3NRKy"
+    },
+    {
+      "name": "Wangtongwen",
+      "id": "fIceX6uA-719"
+    },
+    {
+      "name": "Wanluan",
+      "id": "JxGHwk4DzrEo"
+    },
+    {
+      "name": "Wutai",
+      "id": "sYvmP9SLwBzC"
+    },
+    {
+      "name": "Xinji",
+      "id": "NlzEIfjnBmq9"
+    },
+    {
+      "name": "Xinzhuang",
+      "id": "ouTjwKbkrRAc"
+    },
+    {
+      "name": "Yangmei",
+      "id": "3RxTew-TG7Vx"
+    },
+    {
+      "name": "Yanping",
+      "id": "HvoPLS3elFK6"
+    },
+    {
+      "name": "Yilan",
+      "id": "HltBAV10Dq7k"
+    },
+    {
+      "name": "Yuli",
+      "id": "-WQ60cDkgjtA"
+    },
+    {
+      "name": "Yunlin County",
+      "id": "C6Oomdk7M0qK"
+    },
+    {
+      "name": "Zhubei",
+      "id": "Mb-FXd_R9Q-N"
+    },
+    {
+      "name": "Zhunan",
+      "id": "2ilcLNP0e6PL"
+    },
+    {
+      "name": "Zhuqi",
+      "id": "JYoSkibnPx15"
+    }
   ]
 }

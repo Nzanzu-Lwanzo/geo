@@ -1,15 +1,45 @@
 {
   "coid": "TZ",
   "cities": [
-    { "name": "Dar es Salaam", "id": "a3b4c5d6e7f8" },
-    { "name": "Mwanza", "id": "b4c5d6e7f8a9" },
-    { "name": "Arusha", "id": "c5d6e7f8a9b0" },
-    { "name": "Dodoma", "id": "d6e7f8a9b0c1" },
-    { "name": "Mbeya", "id": "e7f8a9b0c1d2" },
-    { "name": "Morogoro", "id": "f8a9b0c1d2e3" },
-    { "name": "Tanga", "id": "a9b0c1d2e3f4" },
-    { "name": "Zanzibar City", "id": "b0c1d2e3f4a5" },
-    { "name": "Tabora", "id": "c1d2e3f4a5b6" },
-    { "name": "Iringa", "id": "d2e3f4a5b6c7" }
+    {
+      "name": "Arusha",
+      "id": "wZ8GyiDFx7F-"
+    },
+    {
+      "name": "Bukoba",
+      "id": "-QYtKfNMvFCY"
+    },
+    {
+      "name": "Dar es Salaam",
+      "id": "B4Xz4LFKSOYO"
+    },
+    {
+      "name": "Dodoma",
+      "id": "i8BWgtOPFVYB"
+    },
+    {
+      "name": "Morogoro",
+      "id": "6b8dBOxSnvpg"
+    },
+    {
+      "name": "Mwanza",
+      "id": "zmAND07ZKK4m"
+    },
+    {
+      "name": "Njombe",
+      "id": "QLyCAkM_jSh_"
+    },
+    {
+      "name": "Raha",
+      "id": "eCAjFs3fTBJw"
+    },
+    {
+      "name": "Tanga",
+      "id": "FIW5v9beIUlM"
+    },
+    {
+      "name": "Zanzibar",
+      "id": "vYyXOzcb78he"
+    }
   ]
 }

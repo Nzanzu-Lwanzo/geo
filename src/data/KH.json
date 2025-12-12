@@ -1,15 +1,61 @@
 {
   "coid": "KH",
   "cities": [
-    { "name": "Phnom Penh", "id": "a93f2d5a6b87" },
-    { "name": "Siem Reap", "id": "b04a3e6b7c98" },
-    { "name": "Battambang", "id": "c15b4f7c8d09" },
-    { "name": "Sihanoukville", "id": "d26c5a8d9e10" },
-    { "name": "Poipet", "id": "e37d6b9e0f21" },
-    { "name": "Kampong Cham", "id": "f48e7c0f1a32" },
-    { "name": "Kampot", "id": "a59f8d1a2b43" },
-    { "name": "Takeo", "id": "b60a9e2b3c54" },
-    { "name": "Kampong Thom", "id": "c71b0f3c4d65" },
-    { "name": "Pursat", "id": "d82c1a4d5e76" }
+    {
+      "name": "Moung Roessei",
+      "id": "Xczx7Zg66BW8"
+    },
+    {
+      "name": "Phnom Penh",
+      "id": "3BhB0VPN0WId"
+    },
+    {
+      "name": "Phumi Boeng (1)",
+      "id": "ENQiaD2gFhPy"
+    },
+    {
+      "name": "Phumi Chhuk",
+      "id": "LUM-yRJFzRr8"
+    },
+    {
+      "name": "Phumi Preah Haoh",
+      "id": "gTGGCBOQPMS-"
+    },
+    {
+      "name": "Phumi Prei",
+      "id": "zdXJ0hxVLh1F"
+    },
+    {
+      "name": "Phumi Prek Mrinh",
+      "id": "SjuYPcr54kNl"
+    },
+    {
+      "name": "Phumi Siem Reab",
+      "id": "eaDPAxIXnfr9"
+    },
+    {
+      "name": "Phumi Thmei",
+      "id": "11O5ukTWu1Ve"
+    },
+    {
+      "name": "Phumi Thnal",
+      "id": "CD7plsnIx4M4"
+    },
+    {
+      "name": "Phumi Vott Phnum",
+      "id": "01dNQgsiencl"
+    },
+    {
+      "name": "Sihanoukville",
+      "id": "L4J2aie5uUdD"
+    },
+    {
+      "name": "Tuol Kok",
+      "id": "GSLbNe1MaxPU"
+    },
+    {
+      "name": "Vott Kampong Svay",
+      "id": "7yTIkkvTGJeG"
+    }
   ]
 }

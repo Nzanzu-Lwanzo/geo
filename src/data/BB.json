@@ -1,13 +1,97 @@
 {
   "coid": "BB",
   "cities": [
-    { "name": "Bridgetown", "id": "c71d0b3e4f65" },
-    { "name": "Speightstown", "id": "d82e1c4f5a76" },
-    { "name": "Oistins", "id": "e93f2d5a6b87" },
-    { "name": "Holetown", "id": "f04a3e6b7c98" },
-    { "name": "Bathsheba", "id": "a15b4f7c8d09" },
-    { "name": "Crane", "id": "b26c5a8d9e10" },
-    { "name": "Blackmans", "id": "c37d6b9e0f21" },
-    { "name": "Greenland", "id": "d48e7c0f1a32" }
+    {
+      "name": "Atlantic Shores",
+      "id": "zsyietNxxPuQ"
+    },
+    {
+      "name": "Bagatelle",
+      "id": "SFwCfA5MnRPP"
+    },
+    {
+      "name": "Bloomsbury",
+      "id": "S7tWJ3R6FzqI"
+    },
+    {
+      "name": "Bridgetown",
+      "id": "vN4DOTvMfg1w"
+    },
+    {
+      "name": "Bruce Vale",
+      "id": "B8zgnJ-NLx8l"
+    },
+    {
+      "name": "Cave Hill",
+      "id": "BxxTQlDFyDY7"
+    },
+    {
+      "name": "Clapham",
+      "id": "ExUfQOcepvQA"
+    },
+    {
+      "name": "Hastings",
+      "id": "rPcYgosIOAq4"
+    },
+    {
+      "name": "Holetown",
+      "id": "iAIYq1ru-3Od"
+    },
+    {
+      "name": "Husbands",
+      "id": "7mf5JKahACyh"
+    },
+    {
+      "name": "Jackmans",
+      "id": "NP7R0cYeLLPW"
+    },
+    {
+      "name": "Oistins",
+      "id": "hNywL8BmgNjq"
+    },
+    {
+      "name": "Pine Housing Estate",
+      "id": "BYS41S4yFSnQ"
+    },
+    {
+      "name": "Porters",
+      "id": "0t88xU21Grvd"
+    },
+    {
+      "name": "Rendezvous",
+      "id": "AswA6Bh2M2ly"
+    },
+    {
+      "name": "Rockley",
+      "id": "KaSuy1ujjIiF"
+    },
+    {
+      "name": "The Garden",
+      "id": "NyVy8w7ZzrEw"
+    },
+    {
+      "name": "Wanstead",
+      "id": "0ablRwDUQZis"
+    },
+    {
+      "name": "Warners",
+      "id": "YPdB_-jSbKUK"
+    },
+    {
+      "name": "Warrens",
+      "id": "W9CmaZUXIMZM"
+    },
+    {
+      "name": "White Hill",
+      "id": "zFd-JsfeKq77"
+    },
+    {
+      "name": "Wildey",
+      "id": "J99_1pGkkMlR"
+    },
+    {
+      "name": "Worthing",
+      "id": "3DjcF34ZjvxU"
+    }
   ]
 }

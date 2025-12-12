@@ -1,15 +1,45 @@
 {
   "coid": "LT",
   "cities": [
-    { "name": "Vilnius", "id": "e93d2b4e5f66" },
-    { "name": "Kaunas", "id": "f04e3c5f6a77" },
-    { "name": "Klaipėda", "id": "a15f4d6a7b88" },
-    { "name": "Šiauliai", "id": "b26a5e7b8c99" },
-    { "name": "Panevėžys", "id": "c37b6f8c9d10" },
-    { "name": "Alytus", "id": "d48c7a9d0e21" },
-    { "name": "Marijampolė", "id": "e59d8b1e2f33" },
-    { "name": "Mažeikiai", "id": "f60e9c2f3a44" },
-    { "name": "Jonava", "id": "a71f0d3a4b55" },
-    { "name": "Utena", "id": "b82a1e4b5c66" }
+    {
+      "name": "Vilnius",
+      "id": "eNsuM0MHEYvs"
+    },
+    {
+      "name": "Kaunas",
+      "id": "tiEs1Megkz8p"
+    },
+    {
+      "name": "Klaipėda",
+      "id": "Bqop7jqgvxCe"
+    },
+    {
+      "name": "Šiauliai",
+      "id": "EELB6X4gmEtg"
+    },
+    {
+      "name": "Panevėžys",
+      "id": "l-IQQbrwEKIy"
+    },
+    {
+      "name": "Alytus",
+      "id": "3N4Dp09vS_o6"
+    },
+    {
+      "name": "Marijampolė",
+      "id": "KVUBBCMA2nX5"
+    },
+    {
+      "name": "Mažeikiai",
+      "id": "HM6M3wAnnLzt"
+    },
+    {
+      "name": "Jonava",
+      "id": "ZA4PXw0LTCTv"
+    },
+    {
+      "name": "Utena",
+      "id": "12iAm1kEHAMB"
+    }
   ]
 }

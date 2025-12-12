@@ -1,15 +1,25 @@
 {
   "coid": "GA",
   "cities": [
-    { "name": "Libreville", "id": "c91f3a2d9b7e" },
-    { "name": "Port-Gentil", "id": "d28e1f9ac4d2" },
-    { "name": "Franceville", "id": "e39d7b1e0f52" },
-    { "name": "Oyem", "id": "f84a2c7f1e93" },
-    { "name": "Moanda", "id": "a72b9d4c3a10" },
-    { "name": "Mouila", "id": "b63c1a8e5b27" },
-    { "name": "Lambaréné", "id": "c72d9c4f1b83" },
-    { "name": "Tchibanga", "id": "d91e3f7a2c64" },
-    { "name": "Koulamoutou", "id": "e58f2a9d7e31" },
-    { "name": "Makokou", "id": "f47b1c6e9f20" }
+    {
+      "name": "Gamba",
+      "id": "qQUFrUH3y-Wa"
+    },
+    {
+      "name": "Libreville",
+      "id": "6yS1II5wG1u4"
+    },
+    {
+      "name": "Mamagnia",
+      "id": "TAtbYVzN-tyO"
+    },
+    {
+      "name": "Moanda",
+      "id": "Q9QnsMuaqxPU"
+    },
+    {
+      "name": "Port-Gentil",
+      "id": "eypZIN6YDtP9"
+    }
   ]
 }

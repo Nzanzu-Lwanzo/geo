@@ -1,15 +1,261 @@
 {
   "coid": "CR",
   "cities": [
-    { "name": "San José", "id": "a93f2d5a6b87" },
-    { "name": "Alajuela", "id": "b04a3e6b7c98" },
-    { "name": "Cartago", "id": "c15b4f7c8d09" },
-    { "name": "Heredia", "id": "d26c5a8d9e10" },
-    { "name": "Liberia", "id": "e37d6b9e0f21" },
-    { "name": "Puntarenas", "id": "f48e7c0f1a32" },
-    { "name": "Limón", "id": "a59f8d1a2b43" },
-    { "name": "San Isidro", "id": "b60a9e2b3c54" },
-    { "name": "Quesada", "id": "c71b0f3c4d65" },
-    { "name": "Curridabat", "id": "d82c1a4d5e76" }
+    {
+      "name": "Alajuela",
+      "id": "bNhrifnlQZoz"
+    },
+    {
+      "name": "Alajuelita",
+      "id": "EcCwbtlA4pST"
+    },
+    {
+      "name": "Alfaro",
+      "id": "B-b2AokY7Rlz"
+    },
+    {
+      "name": "Aserri",
+      "id": "NZnHMC4_90lj"
+    },
+    {
+      "name": "Atenas",
+      "id": "lVnD8NN6MjNg"
+    },
+    {
+      "name": "Barva",
+      "id": "7QLCf5n9szzP"
+    },
+    {
+      "name": "Cartago",
+      "id": "PYXzwjIJIPuD"
+    },
+    {
+      "name": "Colon",
+      "id": "BrJXZkvm95Uw"
+    },
+    {
+      "name": "Corazon de Jesus",
+      "id": "sr-TA7vST-xL"
+    },
+    {
+      "name": "Coronado",
+      "id": "nBjJ-Qpni7d_"
+    },
+    {
+      "name": "Coyol",
+      "id": "apga7UBgC2lH"
+    },
+    {
+      "name": "Curridabat",
+      "id": "3pR731iyd14c"
+    },
+    {
+      "name": "Desamparados",
+      "id": "Njsf67AZ5VRw"
+    },
+    {
+      "name": "Escazu",
+      "id": "KZOsFqkRF1yH"
+    },
+    {
+      "name": "Esparza",
+      "id": "LpD6381oQzK8"
+    },
+    {
+      "name": "Filadelfia",
+      "id": "nPKb5vM2niMv"
+    },
+    {
+      "name": "Grecia",
+      "id": "zp1GtAGTvqY8"
+    },
+    {
+      "name": "Guachipelin",
+      "id": "hLSSzNiBDuk7"
+    },
+    {
+      "name": "Guacima",
+      "id": "IJXVb2xKLRvA"
+    },
+    {
+      "name": "Guadalupe",
+      "id": "bZuqCrxgesDK"
+    },
+    {
+      "name": "Guapiles",
+      "id": "MzBUUTMBt1zm"
+    },
+    {
+      "name": "Heredia",
+      "id": "e5WxJ2PKE7fN"
+    },
+    {
+      "name": "Isla de Tibas",
+      "id": "X9ZludwnUUd4"
+    },
+    {
+      "name": "Jaco",
+      "id": "r1W-bdjk_4Yo"
+    },
+    {
+      "name": "La Garita",
+      "id": "lTVRUJ3c959w"
+    },
+    {
+      "name": "Liberia",
+      "id": "JmPwaRw6qCS6"
+    },
+    {
+      "name": "Llorente",
+      "id": "do4sVcRiLNya"
+    },
+    {
+      "name": "Mercedes",
+      "id": "pW4XGOulGjNU"
+    },
+    {
+      "name": "Mexico",
+      "id": "qLKJ1NT4tQWH"
+    },
+    {
+      "name": "Miramar",
+      "id": "QPM3_Mm2RCs4"
+    },
+    {
+      "name": "Moravia",
+      "id": "Up58n_Gw0xNr"
+    },
+    {
+      "name": "Palmares",
+      "id": "aUfUTR2Bu0zd"
+    },
+    {
+      "name": "Paraiso",
+      "id": "KQktFdEYJq9-"
+    },
+    {
+      "name": "Pavas",
+      "id": "s-dJmgcywSuO"
+    },
+    {
+      "name": "Perez",
+      "id": "BmF1Tj1AAwl2"
+    },
+    {
+      "name": "Poas",
+      "id": "HNRZEsg-GYCo"
+    },
+    {
+      "name": "Puerto Jimenez",
+      "id": "AInxQUIAQBgi"
+    },
+    {
+      "name": "Puntarenas",
+      "id": "P_aJtej6yqD8"
+    },
+    {
+      "name": "Quepos",
+      "id": "4JR7HQeXg1Vo"
+    },
+    {
+      "name": "Quesada",
+      "id": "C0pK6H7d_6oj"
+    },
+    {
+      "name": "Sabanilla",
+      "id": "7-Z6m6onaIp8"
+    },
+    {
+      "name": "San Diego",
+      "id": "BAhM5-1cA04t"
+    },
+    {
+      "name": "San Francisco",
+      "id": "JfNFgCzj_DKr"
+    },
+    {
+      "name": "San Isidro",
+      "id": "hzmgIYlGnmVa"
+    },
+    {
+      "name": "San Joaquin",
+      "id": "Ifk-lI2_XILt"
+    },
+    {
+      "name": "San Jose de la Montana",
+      "id": "vAc4uxfZoixK"
+    },
+    {
+      "name": "San Josecito",
+      "id": "iHlcXJuZr8Ca"
+    },
+    {
+      "name": "San Juan",
+      "id": "hGZwqrWN8o4q"
+    },
+    {
+      "name": "San Marcos",
+      "id": "MhYl3dJTWidW"
+    },
+    {
+      "name": "San Pablo",
+      "id": "-5s8HFoJX3lJ"
+    },
+    {
+      "name": "San Pedro",
+      "id": "y3-v8golzJd9"
+    },
+    {
+      "name": "San Rafael",
+      "id": "zROznKInLS48"
+    },
+    {
+      "name": "San Ramon",
+      "id": "9scOM88Qa7Sg"
+    },
+    {
+      "name": "Santa Ana",
+      "id": "vdjRx6BjcQ6A"
+    },
+    {
+      "name": "Santa Cecilia",
+      "id": "0Caok54GqTXw"
+    },
+    {
+      "name": "Santa Cruz",
+      "id": "xUYoT-_pZZPW"
+    },
+    {
+      "name": "Santo Domingo",
+      "id": "qHxmNb9-jbcj"
+    },
+    {
+      "name": "Sarchi",
+      "id": "TpGV9Dc2J_zc"
+    },
+    {
+      "name": "Siquirres",
+      "id": "UXYCs5vrd6oH"
+    },
+    {
+      "name": "Tres Rios",
+      "id": "0wyJfPCWOqgs"
+    },
+    {
+      "name": "Turrialba",
+      "id": "wJKuPYEh0lZV"
+    },
+    {
+      "name": "Turrucares",
+      "id": "41Ou2_6JRUHw"
+    },
+    {
+      "name": "Zapote",
+      "id": "JEK7qCGyg2eE"
+    },
+    {
+      "name": "Zarcero",
+      "id": "ItuJSYPX8k7w"
+    }
   ]
 }

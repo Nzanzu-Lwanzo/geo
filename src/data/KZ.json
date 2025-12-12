@@ -1,15 +1,173 @@
 {
   "coid": "KZ",
   "cities": [
-    { "name": "Almaty", "id": "c91f3a2d9b7e" },
-    { "name": "Astana", "id": "d28e1f9ac4d2" },
-    { "name": "Shymkent", "id": "e39d7b1e0f52" },
-    { "name": "Karaganda", "id": "f84a2c7f1e93" },
-    { "name": "Aktobe", "id": "a72b9d4c3a10" },
-    { "name": "Taraz", "id": "b63c1a8e5b27" },
-    { "name": "Pavlodar", "id": "c72d9c4f1b83" },
-    { "name": "Ust-Kamenogorsk", "id": "d91e3f7a2c64" },
-    { "name": "Semey", "id": "e58f2a9d7e31" },
-    { "name": "Atyrau", "id": "f47b1c6e9f20" }
+    {
+      "name": "Aksay",
+      "id": "90c1XRrzYPll"
+    },
+    {
+      "name": "Aksoran",
+      "id": "x6zjzrmp3fHz"
+    },
+    {
+      "name": "Almaty",
+      "id": "mpLZ_bGG6rzk"
+    },
+    {
+      "name": "Aqtas",
+      "id": "uxDkwd1inLfm"
+    },
+    {
+      "name": "Aqtau",
+      "id": "JUoK_J0k3A2W"
+    },
+    {
+      "name": "Astana",
+      "id": "1N8NN_bmnFQO"
+    },
+    {
+      "name": "Atyrau",
+      "id": "XhZIIK59Oih1"
+    },
+    {
+      "name": "Baikonur",
+      "id": "BCDV3U-dvTf-"
+    },
+    {
+      "name": "Dostyk",
+      "id": "AjVDGwxvzmZc"
+    },
+    {
+      "name": "Dzhezkazgan",
+      "id": "I-SAW30_e1pH"
+    },
+    {
+      "name": "Ekibastuz",
+      "id": "KJlf1C7naMJh"
+    },
+    {
+      "name": "Esil",
+      "id": "CmyFuCCX0nqV"
+    },
+    {
+      "name": "Karagandy",
+      "id": "qNfJT1P1GlB8"
+    },
+    {
+      "name": "Kazakh",
+      "id": "_l1KaiqGhMQR"
+    },
+    {
+      "name": "Kentau",
+      "id": "5TK0jRANEwf6"
+    },
+    {
+      "name": "Koktem",
+      "id": "4d4rLLcJQTrm"
+    },
+    {
+      "name": "Kostanay",
+      "id": "bHhNxDkeLsAa"
+    },
+    {
+      "name": "Kyzyl",
+      "id": "E2rkKlTh-pwG"
+    },
+    {
+      "name": "Kyzylorda",
+      "id": "CqeuaJjOETqn"
+    },
+    {
+      "name": "Lomonosovka",
+      "id": "th_fGubjZq4b"
+    },
+    {
+      "name": "Oral",
+      "id": "wd7NW57fvRBN"
+    },
+    {
+      "name": "Pavlodar",
+      "id": "XEbuC6c_WkhL"
+    },
+    {
+      "name": "Petropavl",
+      "id": "3Tx6Oqc8CPeG"
+    },
+    {
+      "name": "Qaraghandy",
+      "id": "_18GDenjN_pz"
+    },
+    {
+      "name": "Qaskeleng",
+      "id": "CspfkJRYRomL"
+    },
+    {
+      "name": "Ridder",
+      "id": "midYLRBDupsK"
+    },
+    {
+      "name": "Rudnyy",
+      "id": "_j-QUXme7vbh"
+    },
+    {
+      "name": "Semey",
+      "id": "SM8oGl_egm2V"
+    },
+    {
+      "name": "Serebryansk",
+      "id": "IhnN7FFXpOm0"
+    },
+    {
+      "name": "Shymkent",
+      "id": "hv_dEdKgTLOt"
+    },
+    {
+      "name": "Sonaly",
+      "id": "NzLFTt9zaX7n"
+    },
+    {
+      "name": "Stepnogorsk",
+      "id": "Sdipm8wVi7LC"
+    },
+    {
+      "name": "Taldyk",
+      "id": "4uj98eu7g-eT"
+    },
+    {
+      "name": "Taldykorgan",
+      "id": "DidjlCbBe_y-"
+    },
+    {
+      "name": "Talghar",
+      "id": "WNy-vhGjBy1s"
+    },
+    {
+      "name": "Taraz",
+      "id": "V2-ajHfwwpLX"
+    },
+    {
+      "name": "Temirtau",
+      "id": "Y7NZqfuK7cIX"
+    },
+    {
+      "name": "Turkestan",
+      "id": "OrepTzlkm-Z3"
+    },
+    {
+      "name": "Uritskiy",
+      "id": "beIBNtXPHeyy"
+    },
+    {
+      "name": "Ust-Kamenogorsk",
+      "id": "fC74ZIiZGHOM"
+    },
+    {
+      "name": "Vostok",
+      "id": "qeuNIw4FSaFU"
+    },
+    {
+      "name": "Zyryanovsk",
+      "id": "pqtZ7GRJY5Gp"
+    }
   ]
 }

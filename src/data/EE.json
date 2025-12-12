@@ -1,15 +1,273 @@
 {
   "coid": "EE",
   "cities": [
-    { "name": "Tallinn", "id": "a93f2d5a6b87" },
-    { "name": "Tartu", "id": "b04a3e6b7c98" },
-    { "name": "Narva", "id": "c15b4f7c8d09" },
-    { "name": "Pärnu", "id": "d26c5a8d9e10" },
-    { "name": "Kohtla-Järve", "id": "e37d6b9e0f21" },
-    { "name": "Viljandi", "id": "f48e7c0f1a32" },
-    { "name": "Rakvere", "id": "a59f8d1a2b43" },
-    { "name": "Maardu", "id": "b60a9e2b3c54" },
-    { "name": "Sillamäe", "id": "c71b0f3c4d65" },
-    { "name": "Kuressaare", "id": "d82c1a4d5e76" }
+    {
+      "name": "Aasmae",
+      "id": "fZQ2GT3LHWt2"
+    },
+    {
+      "name": "Aaviku",
+      "id": "QkGHye0sW17_"
+    },
+    {
+      "name": "Aespa",
+      "id": "ULYbHnbTFba-"
+    },
+    {
+      "name": "Ahtma",
+      "id": "hICY4Zk4kfbM"
+    },
+    {
+      "name": "Alliku",
+      "id": "fFJs3FZFdLYh"
+    },
+    {
+      "name": "Ambla",
+      "id": "lBeJwLk_uuSE"
+    },
+    {
+      "name": "Antsla",
+      "id": "DkSRj03LqotK"
+    },
+    {
+      "name": "Ardu",
+      "id": "JxEWKp02v0ZL"
+    },
+    {
+      "name": "Avinurme",
+      "id": "7mIX00nP13sD"
+    },
+    {
+      "name": "Elva",
+      "id": "NLgYF5icdio8"
+    },
+    {
+      "name": "Emmaste",
+      "id": "l8LgAQrJhddA"
+    },
+    {
+      "name": "Haabneeme",
+      "id": "3YkWEc-CsfHu"
+    },
+    {
+      "name": "Haage",
+      "id": "SBvo-Tz43H3Q"
+    },
+    {
+      "name": "Haapsalu",
+      "id": "4n3LxPkdqxWh"
+    },
+    {
+      "name": "Halinga",
+      "id": "kUvF6Ku83h8h"
+    },
+    {
+      "name": "Harju",
+      "id": "uKgqpLpPwsHG"
+    },
+    {
+      "name": "Harku",
+      "id": "S_KPbactRScr"
+    },
+    {
+      "name": "Kaarma",
+      "id": "W-yb-QBVpRiP"
+    },
+    {
+      "name": "Kadrina",
+      "id": "rsJ4FV1wG_6Q"
+    },
+    {
+      "name": "Kehra",
+      "id": "rT2eUGNQQzTX"
+    },
+    {
+      "name": "Keila",
+      "id": "NHaQGLfcE2KV"
+    },
+    {
+      "name": "Kiili",
+      "id": "GLUCbu8-9d-0"
+    },
+    {
+      "name": "Kohila",
+      "id": "uSP_40b9x1zQ"
+    },
+    {
+      "name": "Kohtla",
+      "id": "MVMPoz2DHY4i"
+    },
+    {
+      "name": "Kose",
+      "id": "9t08KeKl0Ycs"
+    },
+    {
+      "name": "Kulna",
+      "id": "198xzMKVK8g2"
+    },
+    {
+      "name": "Kuressaare",
+      "id": "VxpG-QviVA5l"
+    },
+    {
+      "name": "Kuusalu",
+      "id": "D9HxNYwffIH7"
+    },
+    {
+      "name": "Laagri",
+      "id": "ITMxjpPwxVHc"
+    },
+    {
+      "name": "Lagedi",
+      "id": "CSFCL2b1ftNX"
+    },
+    {
+      "name": "Lahtse",
+      "id": "O-sSxLKaPKGx"
+    },
+    {
+      "name": "Lepna",
+      "id": "IYG6TGcYGKhk"
+    },
+    {
+      "name": "Loksa",
+      "id": "s7_Mov3lfQQk"
+    },
+    {
+      "name": "Loo",
+      "id": "TwEPzrDJ5jK7"
+    },
+    {
+      "name": "Lubja",
+      "id": "Rk97yOllRiiG"
+    },
+    {
+      "name": "Maardu",
+      "id": "TW6Bndl1DEyI"
+    },
+    {
+      "name": "Muraste",
+      "id": "6bjMCIogQGc3"
+    },
+    {
+      "name": "Narva",
+      "id": "svgqam_pKNz5"
+    },
+    {
+      "name": "Otepaeae",
+      "id": "aEC6-j9UKyz2"
+    },
+    {
+      "name": "Paide",
+      "id": "TOUkutkz49zb"
+    },
+    {
+      "name": "Paikuse",
+      "id": "RAUNyw5Aqjqj"
+    },
+    {
+      "name": "Paldiski",
+      "id": "UD3tObQ18vUy"
+    },
+    {
+      "name": "Palivere",
+      "id": "FYG3CNK2IeSR"
+    },
+    {
+      "name": "Peetri",
+      "id": "8ld7Ot4uwcxi"
+    },
+    {
+      "name": "Puhja",
+      "id": "zlbWOSYeF6O5"
+    },
+    {
+      "name": "Rakke",
+      "id": "7ZFMgIW_gV9a"
+    },
+    {
+      "name": "Rakvere",
+      "id": "a05YOtjC4iTV"
+    },
+    {
+      "name": "Rapla",
+      "id": "90Ey-4v8L28N"
+    },
+    {
+      "name": "Saku",
+      "id": "Tu7G8GET6-y7"
+    },
+    {
+      "name": "Saue",
+      "id": "E35biEmHi9K7"
+    },
+    {
+      "name": "Sindi",
+      "id": "TP9awSIsPJDu"
+    },
+    {
+      "name": "Somerpalu",
+      "id": "kWnBdSWpNfAh"
+    },
+    {
+      "name": "Syare",
+      "id": "2yf8AJz3s-iz"
+    },
+    {
+      "name": "Tabasalu",
+      "id": "m9dK5lGKr-wm"
+    },
+    {
+      "name": "Tabivere",
+      "id": "95HwI_Dg93oO"
+    },
+    {
+      "name": "Tallinn",
+      "id": "uqHJv2QssKJq"
+    },
+    {
+      "name": "Tamsalu",
+      "id": "4SjU6I7WqS5b"
+    },
+    {
+      "name": "Tapa",
+      "id": "c6Rxf0kVyxoz"
+    },
+    {
+      "name": "Tartu",
+      "id": "7edAQzdDCG_p"
+    },
+    {
+      "name": "Toila",
+      "id": "RZ2YebOMCPl4"
+    },
+    {
+      "name": "Vaida",
+      "id": "rcCg1o1aQU3N"
+    },
+    {
+      "name": "Valga",
+      "id": "-tqsuYplT4QG"
+    },
+    {
+      "name": "Vara",
+      "id": "oZAukkSz5oSK"
+    },
+    {
+      "name": "Venevere",
+      "id": "TAM95qEVVS4m"
+    },
+    {
+      "name": "Viimsi",
+      "id": "hz-r6aRzb1WN"
+    },
+    {
+      "name": "Viljandi",
+      "id": "cMyXKPY6JJMq"
+    },
+    {
+      "name": "Voka",
+      "id": "SSVTL7kT_fed"
+    }
   ]
 }

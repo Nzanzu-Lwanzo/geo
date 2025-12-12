@@ -1,15 +1,45 @@
 {
   "coid": "CZ",
   "cities": [
-    { "name": "Prague", "id": "c93b2f5c6d77" },
-    { "name": "Brno", "id": "d04c3a6d7e88" },
-    { "name": "Ostrava", "id": "e15d4b7e8f99" },
-    { "name": "Plzeň", "id": "f26e5c8f9a10" },
-    { "name": "Liberec", "id": "a37f6d9a0b21" },
-    { "name": "Olomouc", "id": "b48a7e0b1c32" },
-    { "name": "Ústí nad Labem", "id": "c59b8f1c2d43" },
-    { "name": "Hradec Králové", "id": "d60c9a2d3e54" },
-    { "name": "Pardubice", "id": "e71d0b3e4f65" },
-    { "name": "Zlín", "id": "f82e1c4f5a76" }
+    {
+      "name": "Prague",
+      "id": "fZ-2fJK24vfb"
+    },
+    {
+      "name": "Brno",
+      "id": "MASHBUM39jch"
+    },
+    {
+      "name": "Ostrava",
+      "id": "6IACqTMorMoo"
+    },
+    {
+      "name": "Plzeň",
+      "id": "OE-hhOSs2b5J"
+    },
+    {
+      "name": "Liberec",
+      "id": "oX58csWipTKP"
+    },
+    {
+      "name": "Olomouc",
+      "id": "bfzgYLrGTxT8"
+    },
+    {
+      "name": "Ústí nad Labem",
+      "id": "6pVJkCXnJROQ"
+    },
+    {
+      "name": "Hradec Králové",
+      "id": "-3eFyx_8PpdI"
+    },
+    {
+      "name": "Pardubice",
+      "id": "fnkTaBzr1DMx"
+    },
+    {
+      "name": "Zlín",
+      "id": "XheQBxEFDwlv"
+    }
   ]
 }

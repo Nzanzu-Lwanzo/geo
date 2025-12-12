@@ -1,15 +1,69 @@
 {
   "coid": "IQ",
   "cities": [
-    { "name": "Baghdad", "id": "c93b2f5c6d77" },
-    { "name": "Basra", "id": "d04c3a6d7e88" },
-    { "name": "Mosul", "id": "e15d4b7e8f99" },
-    { "name": "Erbil", "id": "f26e5c8f9a10" },
-    { "name": "Kirkuk", "id": "a37f6d9a0b21" },
-    { "name": "Najaf", "id": "b48a7e0b1c32" },
-    { "name": "Sulaymaniyah", "id": "c59b8f1c2d43" },
-    { "name": "Ramadi", "id": "d60c9a2d3e54" },
-    { "name": "Karbala", "id": "e71d0b3e4f65" },
-    { "name": "Nasiriyah", "id": "f82e1c4f5a76" }
+    {
+      "name": "Al `Amarah",
+      "id": "O_L4smumqCih"
+    },
+    {
+      "name": "Al Hillah",
+      "id": "PkgadZIC4Gef"
+    },
+    {
+      "name": "Baghdad",
+      "id": "vgNEiLVZT2In"
+    },
+    {
+      "name": "Bahr",
+      "id": "cJedREZKVGFV"
+    },
+    {
+      "name": "Basere",
+      "id": "jhmtLVLUwdqT"
+    },
+    {
+      "name": "Basra",
+      "id": "ZGFfSXZfuWol"
+    },
+    {
+      "name": "Erbil",
+      "id": "IfFd9B_3iRqp"
+    },
+    {
+      "name": "Haji Hasan",
+      "id": "kD1tzwTO0uzc"
+    },
+    {
+      "name": "Hayat",
+      "id": "85-_vQLUu_Rb"
+    },
+    {
+      "name": "Karkh",
+      "id": "B3V9Ruod4RVo"
+    },
+    {
+      "name": "Kirkuk",
+      "id": "UPqcpdSO4Ruf"
+    },
+    {
+      "name": "Manawi",
+      "id": "KF26zEFqlkIp"
+    },
+    {
+      "name": "Mosul",
+      "id": "CjvfptgiqrVw"
+    },
+    {
+      "name": "Najaf",
+      "id": "G2ybWjW9gDkB"
+    },
+    {
+      "name": "Sulaymaniyah",
+      "id": "i9TgHCypJz7w"
+    },
+    {
+      "name": "Tikrit",
+      "id": "6R6_mUPbJ2hB"
+    }
   ]
 }
