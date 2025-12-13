@@ -5,6 +5,28 @@
 Simple. Just pull the Docker image `lwanzo/geo:latest` or build it and do whatever you want with it. All the data is self contained. Or, you can use our API [right here](https://geo.lwanzo.site/). Or, you can just copy the json.
 > Freely you have received, freely give (Matthew 10:8)
 
+## Developement Workflow
+
+Geo uses Docker so you should be comfortable with its major concepts and how it works. There's a Github Actions workflow that builds the image when we commit to the root branch and pushes it to Docker Hub.
+
+You need a Redis instance to run the project. Redis is used for caching. You can use Redis in Docker (which is the default behavior) or provide your own `REDIS_URL` (see the in the .env file).
+
+These env variables are needed :
+
+```bash
+PORT # optional
+NODE_ENV=dev # required -this should be 'dev' in development
+REDIS_URL # required
+REDIS_PASSWORD # optional if you don't use Makefile commands
+```
+
+To start up the project (run Redis database and the Express server, all at once), simply open your terminal in the root of the project and execute `make`. This works in Linux (at least, distros that support Makefile). If the command does not work, just copy commands from the Makefile. To know what to copy, see below :
+
+```bash
+@echo 'Stop any previous Redis container'
+docker container stop geo-redis # copy this
+```
+
 ## How is the project organized ?
 
 The magic is under the data subfolder. It contains two types of file :
@@ -29,6 +51,29 @@ You have three endpoints :
 4. `/cities/:coid` : where **coid** is the ISO code of each country, returns the cities of that country.
 
 5. `/cities/:coid/search` : accepts one query string - `q` (search hint) - where **coid** is the ISO code of the country. Returns cities of that country which start with the search hint.
+
+We have two main interfaces :
+
+```typescript
+interface Country {
+  id: string; // unique uuid
+  name: {
+    en: string; // name in french
+    fr: string;  // name in english
+  };
+  phone_code: string; // is prefixed by +
+  iso_code: string; // given the Congo-Kinshasa, this is CD
+}
+
+interface CountryCities {
+  coid: string; // corresponds to the iso_code of the country
+  cities: {
+    id: string; // unique slug id generated from name
+    name: string; // name of the city
+  }[];
+}
+
+```
 
 ## Can I help ?
 

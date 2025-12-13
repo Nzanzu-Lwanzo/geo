@@ -9,7 +9,7 @@ redis:
 	docker container rm geo-redis
 
 	@echo 'Start redis database'
-	docker run -d --name geo-redis -p 6379:6379 redis:8.4.0 redis-server --requirepass "hello_redis" 
+	docker run -d --name geo-redis -p 6379:6379 redis:8.4.0 redis-server --requirepass "${REDIS_PASSWORD}" 
 	@echo 'Redis is up 🚀'
 
 .PHONY:api
