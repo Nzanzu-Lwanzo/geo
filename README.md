@@ -2,8 +2,7 @@
 
 ## How do I use Geo ?
 
-Simple. Just pull the Docker image `lwanzo/geo:latest` and do whatever you want with it. All the data is self contained.
-Or, you can use our API [right here](https://geo.lwanzo.site/). Or, you can just copy the json.
+Simple. Just pull the Docker image `lwanzo/geo:latest` or build it and do whatever you want with it. All the data is self contained. Or, you can use our API [right here](https://geo.lwanzo.site/). Or, you can just copy the json.
 > Freely you have received, freely give (Matthew 10:8)
 
 ## How is the project organized ?
@@ -25,7 +24,11 @@ You have three endpoints :
 
 2. `/countries` : returns an array of all the countries.
 
-3. `/cities/:coid` : where **coid** is the ISO code of each country, returns the cities of that country.
+3. `/countries/search` : accepts two query strings - `q` (search hint) and `l` (language, en or fr). Returns an array of the countries.
+
+4. `/cities/:coid` : where **coid** is the ISO code of each country, returns the cities of that country.
+
+5. `/cities/:coid/search` : accepts one query string - `q` (search hint) - where **coid** is the ISO code of the country. Returns cities of that country which start with the search hint.
 
 ## Can I help ?
 
