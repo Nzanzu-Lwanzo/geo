@@ -16,7 +16,7 @@ export interface CountryCities {
   }[];
 }
 
-type IsoCode2 =
+export type IsoCode2 =
   | '$'
   | 'AD'
   | 'AE'
