@@ -24,4 +24,10 @@ export async function getISOCodes(dirPath: string) {
   return files.map((file) => file.split('.').at(0));
 }
 
-export const getFilePath = (relPath: string) => join(cwd(), 'src', relPath);
+export const getFilePath = (relPath: string) => {
+  return join(
+    cwd(),
+    process.env['NODE_ENV'] == 'dev' ? 'src' : 'dist',
+    relPath,
+  );
+};
