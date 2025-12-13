@@ -16,7 +16,8 @@ export interface CountryCities {
   }[];
 }
 
-export type IsoCode =
+type IsoCode2 =
+  | '$'
   | 'AD'
   | 'AE'
   | 'AF'
@@ -50,6 +51,7 @@ export type IsoCode =
   | 'CF'
   | 'CG'
   | 'CH'
+  | 'CI'
   | 'CL'
   | 'CM'
   | 'CN'
@@ -85,6 +87,7 @@ export type IsoCode =
   | 'GN'
   | 'GQ'
   | 'GR'
+  | 'GT'
   | 'GW'
   | 'GY'
   | 'HN'
@@ -157,6 +160,7 @@ export type IsoCode =
   | 'PH'
   | 'PK'
   | 'PL'
+  | 'PS'
   | 'PT'
   | 'PW'
   | 'PY'
@@ -207,6 +211,7 @@ export type IsoCode =
   | 'VN'
   | 'VU'
   | 'WS'
+  | 'XK'
   | 'YE'
   | 'ZA'
   | 'ZM'
