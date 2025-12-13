@@ -3,6 +3,7 @@ config();
 import express from 'express';
 import countriesRouter from './routes/countries';
 import citiesRouter from './routes/cities';
+import './lib/redis-client';
 
 const app = express();
 const PORT = process.env['PORT'] || 8888;

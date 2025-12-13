@@ -11,11 +11,12 @@
   "author": "NZANZU MUHAYRWA L.",
   "license": "ISC",
   "dependencies": {
+    "@types/express": "^5.0.6",
     "dotenv": "^17.2.3",
-    "nanoid": "^5.1.6",
-    "ts-node": "^10.9.2",
     "express": "^5.2.1",
-    "@types/express": "^5.0.6"
+    "nanoid": "^5.1.6",
+    "redis": "^5.10.0",
+    "ts-node": "^10.9.2"
   },
   "devDependencies": {
     "@types/node": "^25.0.0",
