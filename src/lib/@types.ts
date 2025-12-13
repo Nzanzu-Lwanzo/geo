@@ -8,7 +8,7 @@ export interface Country {
   iso_code: string;
 }
 
-export interface City {
+export interface CountryCities {
   coid: string;
   cities: {
     name: string;

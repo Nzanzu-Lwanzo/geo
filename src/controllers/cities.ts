@@ -1,0 +1,37 @@
+import type { Request, Response } from 'express';
+import { CountryCities } from '../lib/@types';
+import { getFileContent, getFilePath, getISOCodes } from '../lib/helpers';
+
+export async function getCities(req: Request<{ coid: string }>, res: Response) {
+  try {
+    const cities = await getFileContent<CountryCities[]>(
+      getFilePath(`data/${req.params.coid}.json`),
+    );
+    res.json(cities);
+  } catch {
+    res.json({
+      msg: 'Error, invalid coid parameter',
+      coids: await getISOCodes('data'),
+    });
+  }
+}
+
+export async function searchCities(
+  req: Request<{ coid: string }, any, any, { q: string | undefined }>,
+  res: Response,
+) {
+  if (!req.query.q || !req.params.coid) return res.sendStatus(404);
+  const country = await getFileContent<CountryCities>(
+    getFilePath(`data/${req.params.coid}.json`),
+  );
+  if (!country) return res.sendStatus(404);
+
+  const cities = country.cities.filter((city) =>
+    city.name
+      .trim()
+      .toLowerCase()
+      .startsWith(req.query.q!.trim().toLowerCase()),
+  );
+
+  return res.json(cities);
+}
