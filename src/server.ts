@@ -8,6 +8,7 @@ import './lib/redis-client';
 const app = express();
 const PORT = process.env['PORT'] || 8888;
 
+app.set('trust proxy', true);
 app.use(express.json());
 
 // Routes
