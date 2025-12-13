@@ -2,28 +2,28 @@
   "coid": "SD",
   "cities": [
     {
-      "name": "Kassala",
-      "id": "HxR2A22j61jc"
+      "id": "kassala",
+      "name": "Kassala"
     },
     {
-      "name": "Khartoum",
-      "id": "EtljeVkyqO4k"
+      "id": "khartoum",
+      "name": "Khartoum"
     },
     {
-      "name": "Nyala",
-      "id": "6ykNFoDrv4AK"
+      "id": "nyala",
+      "name": "Nyala"
     },
     {
-      "name": "Shendi",
-      "id": "C4MbAdzKQT1H"
+      "id": "shendi",
+      "name": "Shendi"
     },
     {
-      "name": "Thabit",
-      "id": "SGwJ96sHtJd0"
+      "id": "thabit",
+      "name": "Thabit"
     },
     {
-      "name": "Umm Durman",
-      "id": "7DS10CzNlvmF"
+      "id": "umm-durman",
+      "name": "Umm Durman"
     }
   ]
 }

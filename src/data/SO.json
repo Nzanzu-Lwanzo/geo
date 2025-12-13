@@ -2,44 +2,44 @@
   "coid": "SO",
   "cities": [
     {
-      "name": "Mogadishu",
-      "id": "T2p18kK5xgb5"
+      "id": "mogadishu",
+      "name": "Mogadishu"
     },
     {
-      "name": "Hargeisa",
-      "id": "OlIZrt1qgqVV"
+      "id": "hargeisa",
+      "name": "Hargeisa"
     },
     {
-      "name": "Bosaso",
-      "id": "ejp_2fS9EnMM"
+      "id": "bosaso",
+      "name": "Bosaso"
     },
     {
-      "name": "Kismayo",
-      "id": "8vApzuJWCQtq"
+      "id": "kismayo",
+      "name": "Kismayo"
     },
     {
-      "name": "Galkayo",
-      "id": "V2NoPS0ghGva"
+      "id": "galkayo",
+      "name": "Galkayo"
     },
     {
-      "name": "Berbera",
-      "id": "RPPvq7ZVJNnp"
+      "id": "berbera",
+      "name": "Berbera"
     },
     {
-      "name": "Baidoa",
-      "id": "wsJ56oOOux02"
+      "id": "baidoa",
+      "name": "Baidoa"
     },
     {
-      "name": "Jowhar",
-      "id": "rUq1-SnegFAr"
+      "id": "jowhar",
+      "name": "Jowhar"
     },
     {
-      "name": "Buurhakaba",
-      "id": "Rah5OxdD_rXq"
+      "id": "buurhakaba",
+      "name": "Buurhakaba"
     },
     {
-      "name": "Qardho",
-      "id": "G7RW-FLaKmFu"
+      "id": "qardho",
+      "name": "Qardho"
     }
   ]
 }

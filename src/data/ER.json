@@ -2,44 +2,44 @@
   "coid": "ER",
   "cities": [
     {
-      "name": "Asmara",
-      "id": "ezHOtUSkrWAs"
+      "id": "asmara",
+      "name": "Asmara"
     },
     {
-      "name": "Keren",
-      "id": "D11R5_WA9SxT"
+      "id": "keren",
+      "name": "Keren"
     },
     {
-      "name": "Massawa",
-      "id": "5ljK_kgwvpBi"
+      "id": "massawa",
+      "name": "Massawa"
     },
     {
-      "name": "Assab",
-      "id": "PR44TrDMPqga"
+      "id": "assab",
+      "name": "Assab"
     },
     {
-      "name": "Mendefera",
-      "id": "-iFEzNiQll6c"
+      "id": "mendefera",
+      "name": "Mendefera"
     },
     {
-      "name": "Barentu",
-      "id": "8A6zwPAZ4Q1w"
+      "id": "barentu",
+      "name": "Barentu"
     },
     {
-      "name": "Agordat",
-      "id": "t0K43wfEgBLd"
+      "id": "agordat",
+      "name": "Agordat"
     },
     {
-      "name": "Teseney",
-      "id": "cLi-bEzPGMeK"
+      "id": "teseney",
+      "name": "Teseney"
     },
     {
-      "name": "Adi Keyh",
-      "id": "QZ48gTzmzMLT"
+      "id": "adi-keyh",
+      "name": "Adi Keyh"
     },
     {
-      "name": "Dekemhare",
-      "id": "4woH7KSyUIzQ"
+      "id": "dekemhare",
+      "name": "Dekemhare"
     }
   ]
 }

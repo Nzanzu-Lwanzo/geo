@@ -2,2960 +2,2960 @@
   "coid": "HU",
   "cities": [
     {
-      "name": "Abaujszanto",
-      "id": "MFjhdhXM2T5O"
+      "id": "abaujszanto",
+      "name": "Abaujszanto"
     },
     {
-      "name": "Abda",
-      "id": "CBiaZQpgJZYz"
+      "id": "abda",
+      "name": "Abda"
     },
     {
-      "name": "Abony",
-      "id": "N_PxfXZnjdIX"
+      "id": "abony",
+      "name": "Abony"
     },
     {
-      "name": "Acs",
-      "id": "4V1jq_hpPySV"
+      "id": "acs",
+      "name": "Acs"
     },
     {
-      "name": "Acsa",
-      "id": "GDTMgRCj_nMz"
+      "id": "acsa",
+      "name": "Acsa"
     },
     {
-      "name": "Adacs",
-      "id": "q7Xz73BbFDi9"
+      "id": "adacs",
+      "name": "Adacs"
     },
     {
-      "name": "Adony",
-      "id": "B7OsKcSmDQcC"
+      "id": "adony",
+      "name": "Adony"
     },
     {
-      "name": "Agard",
-      "id": "Nf_HpFMMEfYm"
+      "id": "agard",
+      "name": "Agard"
     },
     {
-      "name": "Ajak",
-      "id": "QOktk6CIS5Wp"
+      "id": "ajak",
+      "name": "Ajak"
     },
     {
-      "name": "Ajka",
-      "id": "mZxVavye73xk"
+      "id": "ajka",
+      "name": "Ajka"
     },
     {
-      "name": "Alap",
-      "id": "YVSi_cGInfGM"
+      "id": "alap",
+      "name": "Alap"
     },
     {
-      "name": "Albertirsa",
-      "id": "vtpW-tLF-qWN"
+      "id": "albertirsa",
+      "name": "Albertirsa"
     },
     {
-      "name": "Almasfuzito",
-      "id": "xMuDx4RWIKx1"
+      "id": "almasfuzito",
+      "name": "Almasfuzito"
     },
     {
-      "name": "Almaskamaras",
-      "id": "NYxDRu6uggpm"
+      "id": "almaskamaras",
+      "name": "Almaskamaras"
     },
     {
-      "name": "Almosd",
-      "id": "B5ZXyX1xtWL8"
+      "id": "almosd",
+      "name": "Almosd"
     },
     {
-      "name": "Alsogalla",
-      "id": "sy9BGMfJ1Oar"
+      "id": "alsogalla",
+      "name": "Alsogalla"
     },
     {
-      "name": "Alsonemedi",
-      "id": "BJ4_vA7J0avQ"
+      "id": "alsonemedi",
+      "name": "Alsonemedi"
     },
     {
-      "name": "Alsopahok",
-      "id": "4RBqUkh9WQQU"
+      "id": "alsopahok",
+      "name": "Alsopahok"
     },
     {
-      "name": "Alsoszentivan",
-      "id": "GyUaPVkefp-d"
+      "id": "alsoszentivan",
+      "name": "Alsoszentivan"
     },
     {
-      "name": "Alsotold",
-      "id": "Jj7esANlYZ3o"
+      "id": "alsotold",
+      "name": "Alsotold"
     },
     {
-      "name": "Alsozsolca",
-      "id": "JRktQYlhUtf3"
+      "id": "alsozsolca",
+      "name": "Alsozsolca"
     },
     {
-      "name": "Aparhant",
-      "id": "noVjKh5VAXBr"
+      "id": "aparhant",
+      "name": "Aparhant"
     },
     {
-      "name": "Apatfalva",
-      "id": "8PkTdGa_DEwv"
+      "id": "apatfalva",
+      "name": "Apatfalva"
     },
     {
-      "name": "Apc",
-      "id": "HCupgoYxmQ0Y"
+      "id": "apc",
+      "name": "Apc"
     },
     {
-      "name": "Apostag",
-      "id": "YCpL9plZ0fmh"
+      "id": "apostag",
+      "name": "Apostag"
     },
     {
-      "name": "Arnot",
-      "id": "AmhYOXNUSWxA"
+      "id": "arnot",
+      "name": "Arnot"
     },
     {
-      "name": "Asotthalom",
-      "id": "qPckgtnSHki7"
+      "id": "asotthalom",
+      "name": "Asotthalom"
     },
     {
-      "name": "Aszalo",
-      "id": "VVk2u7_DmKoo"
+      "id": "aszalo",
+      "name": "Aszalo"
     },
     {
-      "name": "Aszar",
-      "id": "YuRL3QMUMbjW"
+      "id": "aszar",
+      "name": "Aszar"
     },
     {
-      "name": "Aszod",
-      "id": "esoVR0PNCfvH"
+      "id": "aszod",
+      "name": "Aszod"
     },
     {
-      "name": "Atkar",
-      "id": "d1JsxvRpTTQy"
+      "id": "atkar",
+      "name": "Atkar"
     },
     {
-      "name": "Attala",
-      "id": "Tg6HSTQY-DWT"
+      "id": "attala",
+      "name": "Attala"
     },
     {
-      "name": "Babolna",
-      "id": "_Ctn-MCQPjFK"
+      "id": "babolna",
+      "name": "Babolna"
     },
     {
-      "name": "Bacsalmas",
-      "id": "4VLMOIWr8DrW"
+      "id": "bacsalmas",
+      "name": "Bacsalmas"
     },
     {
-      "name": "Badacsonytomaj",
-      "id": "TE53w_fRhTA8"
+      "id": "badacsonytomaj",
+      "name": "Badacsonytomaj"
     },
     {
-      "name": "Badacsonytordemic",
-      "id": "2zEVmuam6OIN"
+      "id": "badacsonytordemic",
+      "name": "Badacsonytordemic"
     },
     {
-      "name": "Bag",
-      "id": "G8og98RRl-Cq"
+      "id": "bag",
+      "name": "Bag"
     },
     {
-      "name": "Bagyogszovat",
-      "id": "7R42sSMSZsjc"
+      "id": "bagyogszovat",
+      "name": "Bagyogszovat"
     },
     {
-      "name": "Baja",
-      "id": "ctJ2oWBZgFjj"
+      "id": "baja",
+      "name": "Baja"
     },
     {
-      "name": "Bajna",
-      "id": "d18To_qdV5Iy"
+      "id": "bajna",
+      "name": "Bajna"
     },
     {
-      "name": "Bakonybel",
-      "id": "kCPZlFAMqk8p"
+      "id": "bakonybel",
+      "name": "Bakonybel"
     },
     {
-      "name": "Bakonycsernye",
-      "id": "QvODxt4yvUy_"
+      "id": "bakonycsernye",
+      "name": "Bakonycsernye"
     },
     {
-      "name": "Bakonyszentlaszlo",
-      "id": "pptZ3aOQx3xr"
+      "id": "bakonyszentlaszlo",
+      "name": "Bakonyszentlaszlo"
     },
     {
-      "name": "Bakonyszombathely",
-      "id": "923QDXNJr27b"
+      "id": "bakonyszombathely",
+      "name": "Bakonyszombathely"
     },
     {
-      "name": "Balassagyarmat",
-      "id": "XiLk3vYEXxFt"
+      "id": "balassagyarmat",
+      "name": "Balassagyarmat"
     },
     {
-      "name": "Balaton",
-      "id": "Qi_W2xfyDi1w"
+      "id": "balaton",
+      "name": "Balaton"
     },
     {
-      "name": "Balatonalmadi",
-      "id": "_NLWHhdZY6fP"
+      "id": "balatonalmadi",
+      "name": "Balatonalmadi"
     },
     {
-      "name": "Balatonboglar",
-      "id": "oXB9MKqhF6gf"
+      "id": "balatonboglar",
+      "name": "Balatonboglar"
     },
     {
-      "name": "Balatonfokajar",
-      "id": "HCrjp-9MGAlW"
+      "id": "balatonfokajar",
+      "name": "Balatonfokajar"
     },
     {
-      "name": "Balatonfured",
-      "id": "n_CqehDW2-_k"
+      "id": "balatonfured",
+      "name": "Balatonfured"
     },
     {
-      "name": "Balatonfuzfo",
-      "id": "Lm_kpL28Vq35"
+      "id": "balatonfuzfo",
+      "name": "Balatonfuzfo"
     },
     {
-      "name": "Balatonkenese",
-      "id": "_uKcN0lDQEP-"
+      "id": "balatonkenese",
+      "name": "Balatonkenese"
     },
     {
-      "name": "Balatonlelle",
-      "id": "776oWePab7CQ"
+      "id": "balatonlelle",
+      "name": "Balatonlelle"
     },
     {
-      "name": "Balatonszabadi",
-      "id": "M9iN7aNJymSs"
+      "id": "balatonszabadi",
+      "name": "Balatonszabadi"
     },
     {
-      "name": "Balatonszarszo",
-      "id": "NnAiHaF6aSNw"
+      "id": "balatonszarszo",
+      "name": "Balatonszarszo"
     },
     {
-      "name": "Balkany",
-      "id": "PxjoKhcJlgLl"
+      "id": "balkany",
+      "name": "Balkany"
     },
     {
-      "name": "Balloszog",
-      "id": "uwDsNow4cLix"
+      "id": "balloszog",
+      "name": "Balloszog"
     },
     {
-      "name": "Balmazujvaros",
-      "id": "4n7rQJII5shD"
+      "id": "balmazujvaros",
+      "name": "Balmazujvaros"
     },
     {
-      "name": "Banhorvati",
-      "id": "WZYXKZUGLXFT"
+      "id": "banhorvati",
+      "name": "Banhorvati"
     },
     {
-      "name": "Baracs",
-      "id": "9VG6wXKa_64e"
+      "id": "baracs",
+      "name": "Baracs"
     },
     {
-      "name": "Baracska",
-      "id": "W7cHfFFslwPp"
+      "id": "baracska",
+      "name": "Baracska"
     },
     {
-      "name": "Barand",
-      "id": "5V6pGKub_vxD"
+      "id": "barand",
+      "name": "Barand"
     },
     {
-      "name": "Barcs",
-      "id": "Tv6sFL9Uy9X0"
+      "id": "barcs",
+      "name": "Barcs"
     },
     {
-      "name": "Bataszek",
-      "id": "SyeKROmgUQN5"
+      "id": "bataszek",
+      "name": "Bataszek"
     },
     {
-      "name": "Batonyterenye",
-      "id": "l6EW5KT5HnFR"
+      "id": "batonyterenye",
+      "name": "Batonyterenye"
     },
     {
-      "name": "Bazsi",
-      "id": "NTJv-IRDhxQ8"
+      "id": "bazsi",
+      "name": "Bazsi"
     },
     {
-      "name": "Becsehely",
-      "id": "fASsHu_K4X_Q"
+      "id": "becsehely",
+      "name": "Becsehely"
     },
     {
-      "name": "Bekasmegyer",
-      "id": "ShvuQwjiace4"
+      "id": "bekasmegyer",
+      "name": "Bekasmegyer"
     },
     {
-      "name": "Bekesszentandras",
-      "id": "DaJnROl1NZ1g"
+      "id": "bekesszentandras",
+      "name": "Bekesszentandras"
     },
     {
-      "name": "Belapatfalva",
-      "id": "nMOfk4WwqB3j"
+      "id": "belapatfalva",
+      "name": "Belapatfalva"
     },
     {
-      "name": "Beled",
-      "id": "P5OW_VywjZzg"
+      "id": "beled",
+      "name": "Beled"
     },
     {
-      "name": "Beloiannisz",
-      "id": "M2tlyHNJnDIU"
+      "id": "beloiannisz",
+      "name": "Beloiannisz"
     },
     {
-      "name": "Benye",
-      "id": "Cc6dNRP_N8n3"
+      "id": "benye",
+      "name": "Benye"
     },
     {
-      "name": "Berekfurdo",
-      "id": "5BEnmeRhtx_5"
+      "id": "berekfurdo",
+      "name": "Berekfurdo"
     },
     {
-      "name": "Berettyoujfalu",
-      "id": "tYPY2KZqXtUE"
+      "id": "berettyoujfalu",
+      "name": "Berettyoujfalu"
     },
     {
-      "name": "Berhida",
-      "id": "RnJXQtDzMUPI"
+      "id": "berhida",
+      "name": "Berhida"
     },
     {
-      "name": "Berkesd",
-      "id": "8EOuKMBRnIBw"
+      "id": "berkesd",
+      "name": "Berkesd"
     },
     {
-      "name": "Besnyo",
-      "id": "1br2z8OysZ6e"
+      "id": "besnyo",
+      "name": "Besnyo"
     },
     {
-      "name": "Biatorbagy",
-      "id": "YVL5kdKpkpue"
+      "id": "biatorbagy",
+      "name": "Biatorbagy"
     },
     {
-      "name": "Bicske",
-      "id": "jTilLDsszPE-"
+      "id": "bicske",
+      "name": "Bicske"
     },
     {
-      "name": "Biharkeresztes",
-      "id": "GURa-nTUZYFU"
+      "id": "biharkeresztes",
+      "name": "Biharkeresztes"
     },
     {
-      "name": "Bikal",
-      "id": "IOkNzIT5aVc_"
+      "id": "bikal",
+      "name": "Bikal"
     },
     {
-      "name": "Bocs",
-      "id": "FOCqUNdUSljy"
+      "id": "bocs",
+      "name": "Bocs"
     },
     {
-      "name": "Bodajk",
-      "id": "Tf6eWHJ6HW7Q"
+      "id": "bodajk",
+      "name": "Bodajk"
     },
     {
-      "name": "Bodaszolo",
-      "id": "DE4Dzvo_JR-f"
+      "id": "bodaszolo",
+      "name": "Bodaszolo"
     },
     {
-      "name": "Bodrogkisfalud",
-      "id": "T4tlikn7zCPk"
+      "id": "bodrogkisfalud",
+      "name": "Bodrogkisfalud"
     },
     {
-      "name": "Bogyiszlo",
-      "id": "tWhbAMdqKT4i"
+      "id": "bogyiszlo",
+      "name": "Bogyiszlo"
     },
     {
-      "name": "Bohonye",
-      "id": "RBOb-orqbw8U"
+      "id": "bohonye",
+      "name": "Bohonye"
     },
     {
-      "name": "Bokod",
-      "id": "JJUwDry9_Rq0"
+      "id": "bokod",
+      "name": "Bokod"
     },
     {
-      "name": "Boldog",
-      "id": "ndXN9wahANZw"
+      "id": "boldog",
+      "name": "Boldog"
     },
     {
-      "name": "Boldva",
-      "id": "KsncdXaNwAkP"
+      "id": "boldva",
+      "name": "Boldva"
     },
     {
-      "name": "Boly",
-      "id": "5UstDUoxDsei"
+      "id": "boly",
+      "name": "Boly"
     },
     {
-      "name": "Boncodfolde",
-      "id": "r0HdxLrhVei-"
+      "id": "boncodfolde",
+      "name": "Boncodfolde"
     },
     {
-      "name": "Bonyhad",
-      "id": "_QcKfDz872H4"
+      "id": "bonyhad",
+      "name": "Bonyhad"
     },
     {
-      "name": "Borcs",
-      "id": "hT4sM_WSqmkf"
+      "id": "borcs",
+      "name": "Borcs"
     },
     {
-      "name": "Borsodszirak",
-      "id": "X9CWBB1FLYkX"
+      "id": "borsodszirak",
+      "name": "Borsodszirak"
     },
     {
-      "name": "Budajeno",
-      "id": "_sKPqEXajNZ7"
+      "id": "budajeno",
+      "name": "Budajeno"
     },
     {
-      "name": "Budakalasz",
-      "id": "w2Ugr3j7sWSK"
+      "id": "budakalasz",
+      "name": "Budakalasz"
     },
     {
-      "name": "Budakeszi",
-      "id": "sm80SytWkQTH"
+      "id": "budakeszi",
+      "name": "Budakeszi"
     },
     {
-      "name": "Budaors",
-      "id": "aO9Pn1GP_YyQ"
+      "id": "budaors",
+      "name": "Budaors"
     },
     {
-      "name": "Budapest",
-      "id": "SwJAYgbG5b1P"
+      "id": "budapest",
+      "name": "Budapest"
     },
     {
-      "name": "Bugac",
-      "id": "J8s7fQdgkrs1"
+      "id": "bugac",
+      "name": "Bugac"
     },
     {
-      "name": "Bugyi",
-      "id": "-0LYPxJJWQeR"
+      "id": "bugyi",
+      "name": "Bugyi"
     },
     {
-      "name": "Buk",
-      "id": "u9KA1H0fAaXD"
+      "id": "buk",
+      "name": "Buk"
     },
     {
-      "name": "Bukkaranyos",
-      "id": "hq0-AtkMrM96"
+      "id": "bukkaranyos",
+      "name": "Bukkaranyos"
     },
     {
-      "name": "Buzsak",
-      "id": "yMDqFEn1Lk_n"
+      "id": "buzsak",
+      "name": "Buzsak"
     },
     {
-      "name": "Cegled",
-      "id": "y7xpArQLNyMX"
+      "id": "cegled",
+      "name": "Cegled"
     },
     {
-      "name": "Cegledbercel",
-      "id": "GyG9OLoOBCLx"
+      "id": "cegledbercel",
+      "name": "Cegledbercel"
     },
     {
-      "name": "Celldomolk",
-      "id": "n5Il5fPnJ4Li"
+      "id": "celldomolk",
+      "name": "Celldomolk"
     },
     {
-      "name": "Center",
-      "id": "eQTFeiHe6-jd"
+      "id": "center",
+      "name": "Center"
     },
     {
-      "name": "Cered",
-      "id": "9KQJSDL36CSd"
+      "id": "cered",
+      "name": "Cered"
     },
     {
-      "name": "Ciko",
-      "id": "uwavObzaVHZ_"
+      "id": "ciko",
+      "name": "Ciko"
     },
     {
-      "name": "Cirak",
-      "id": "R-KkqW6JXHBr"
+      "id": "cirak",
+      "name": "Cirak"
     },
     {
-      "name": "Csabacsud",
-      "id": "k0w3uUoGgH-d"
+      "id": "csabacsud",
+      "name": "Csabacsud"
     },
     {
-      "name": "Csajag",
-      "id": "JsThTMRnF8Rv"
+      "id": "csajag",
+      "name": "Csajag"
     },
     {
-      "name": "Csakvar",
-      "id": "eK3ZKaW_iRJ4"
+      "id": "csakvar",
+      "name": "Csakvar"
     },
     {
-      "name": "Csanadpalota",
-      "id": "17zx_9U3WZtQ"
+      "id": "csanadpalota",
+      "name": "Csanadpalota"
     },
     {
-      "name": "Csanytelek",
-      "id": "FPcl4CmE_K9W"
+      "id": "csanytelek",
+      "name": "Csanytelek"
     },
     {
-      "name": "Csecse",
-      "id": "OXI5F-KpLvi3"
+      "id": "csecse",
+      "name": "Csecse"
     },
     {
-      "name": "Csemo",
-      "id": "DS-p8uP4NX-_"
+      "id": "csemo",
+      "name": "Csemo"
     },
     {
-      "name": "Csepa",
-      "id": "WBXGhtrdMKio"
+      "id": "csepa",
+      "name": "Csepa"
     },
     {
-      "name": "Cserenfa",
-      "id": "fr6NIo6DRc8-"
+      "id": "cserenfa",
+      "name": "Cserenfa"
     },
     {
-      "name": "Cserepfalu",
-      "id": "Ss4femWs3olM"
+      "id": "cserepfalu",
+      "name": "Cserepfalu"
     },
     {
-      "name": "Cserszegtomaj",
-      "id": "PLyf8UYyp_Dm"
+      "id": "cserszegtomaj",
+      "name": "Cserszegtomaj"
     },
     {
-      "name": "Csobad",
-      "id": "ae19Wt5-oIyi"
+      "id": "csobad",
+      "name": "Csobad"
     },
     {
-      "name": "Csobanka",
-      "id": "RuBfTmr4dZue"
+      "id": "csobanka",
+      "name": "Csobanka"
     },
     {
-      "name": "Csoeroeg",
-      "id": "88YCMCXvA5P3"
+      "id": "csoeroeg",
+      "name": "Csoeroeg"
     },
     {
-      "name": "Csogle",
-      "id": "PcIELANloUAR"
+      "id": "csogle",
+      "name": "Csogle"
     },
     {
-      "name": "Csolyospalos",
-      "id": "VzKtPbo9BE-G"
+      "id": "csolyospalos",
+      "name": "Csolyospalos"
     },
     {
-      "name": "Csomad",
-      "id": "Eqah3pmc3Xo2"
+      "id": "csomad",
+      "name": "Csomad"
     },
     {
-      "name": "Csomor",
-      "id": "yxMbMIH1eSVT"
+      "id": "csomor",
+      "name": "Csomor"
     },
     {
-      "name": "Csongrad",
-      "id": "L0_4owt06aag"
+      "id": "csongrad",
+      "name": "Csongrad"
     },
     {
-      "name": "Csopak",
-      "id": "GJ0Br0Aj2jAL"
+      "id": "csopak",
+      "name": "Csopak"
     },
     {
-      "name": "Csorna",
-      "id": "tH22AZ6ynjAt"
+      "id": "csorna",
+      "name": "Csorna"
     },
     {
-      "name": "Csorvas",
-      "id": "BFKqV9-xU8tN"
+      "id": "csorvas",
+      "name": "Csorvas"
     },
     {
-      "name": "Csovar",
-      "id": "I7YOwLEEmnhP"
+      "id": "csovar",
+      "name": "Csovar"
     },
     {
-      "name": "Dabas",
-      "id": "GXTsiTqEyCpx"
+      "id": "dabas",
+      "name": "Dabas"
     },
     {
-      "name": "Dad",
-      "id": "h4Pa-tEk5EQ3"
+      "id": "dad",
+      "name": "Dad"
     },
     {
-      "name": "Danszentmiklos",
-      "id": "ZDY1cIHEbYIM"
+      "id": "danszentmiklos",
+      "name": "Danszentmiklos"
     },
     {
-      "name": "Dany",
-      "id": "Iq24z7FGIIKK"
+      "id": "dany",
+      "name": "Dany"
     },
     {
-      "name": "Debrecen",
-      "id": "piFdZpdlMicP"
+      "id": "debrecen",
+      "name": "Debrecen"
     },
     {
-      "name": "Decs",
-      "id": "G6-EjYffNouG"
+      "id": "decs",
+      "name": "Decs"
     },
     {
-      "name": "Dedestapolcsany",
-      "id": "so65HoYx_Nji"
+      "id": "dedestapolcsany",
+      "name": "Dedestapolcsany"
     },
     {
-      "name": "Deg",
-      "id": "cRwIbabBR6kL"
+      "id": "deg",
+      "name": "Deg"
     },
     {
-      "name": "Delegyhaza",
-      "id": "cDghUEzcjvJY"
+      "id": "delegyhaza",
+      "name": "Delegyhaza"
     },
     {
-      "name": "Demjen",
-      "id": "MkclkmaQ9Tyv"
+      "id": "demjen",
+      "name": "Demjen"
     },
     {
-      "name": "Derecske",
-      "id": "rC_ZTGL1_sVr"
+      "id": "derecske",
+      "name": "Derecske"
     },
     {
-      "name": "Deszk",
-      "id": "FGWKSZZXw5o-"
+      "id": "deszk",
+      "name": "Deszk"
     },
     {
-      "name": "Devavanya",
-      "id": "LzuLwzG5OBJb"
+      "id": "devavanya",
+      "name": "Devavanya"
     },
     {
-      "name": "Devecser",
-      "id": "DNvhUMd5C6uD"
+      "id": "devecser",
+      "name": "Devecser"
     },
     {
-      "name": "Diosd",
-      "id": "MWvjOvhUxPe4"
+      "id": "diosd",
+      "name": "Diosd"
     },
     {
-      "name": "Dobrokoz",
-      "id": "xLgEQOw_pW-O"
+      "id": "dobrokoz",
+      "name": "Dobrokoz"
     },
     {
-      "name": "Domaszek",
-      "id": "75VXV8hKsciG"
+      "id": "domaszek",
+      "name": "Domaszek"
     },
     {
-      "name": "Dombovar",
-      "id": "gb81XOsxQgpk"
+      "id": "dombovar",
+      "name": "Dombovar"
     },
     {
-      "name": "Dombrad",
-      "id": "dYf6PogCfoGg"
+      "id": "dombrad",
+      "name": "Dombrad"
     },
     {
-      "name": "Domoszlo",
-      "id": "mf3Zd29BZwaY"
+      "id": "domoszlo",
+      "name": "Domoszlo"
     },
     {
-      "name": "Domsod",
-      "id": "Y1-dzSZNExw4"
+      "id": "domsod",
+      "name": "Domsod"
     },
     {
-      "name": "Donat",
-      "id": "lAf-LKP33h8Q"
+      "id": "donat",
+      "name": "Donat"
     },
     {
-      "name": "Dorog",
-      "id": "H-vlz7qG6BiN"
+      "id": "dorog",
+      "name": "Dorog"
     },
     {
-      "name": "Doroghaza",
-      "id": "b3Bqz2TO0Jla"
+      "id": "doroghaza",
+      "name": "Doroghaza"
     },
     {
-      "name": "Dudar",
-      "id": "iSCyThy_jyvm"
+      "id": "dudar",
+      "name": "Dudar"
     },
     {
-      "name": "Dunabogdany",
-      "id": "YB9aUiQT7W3k"
+      "id": "dunabogdany",
+      "name": "Dunabogdany"
     },
     {
-      "name": "Dunafoldvar",
-      "id": "ndVAbqdZCftF"
+      "id": "dunafoldvar",
+      "name": "Dunafoldvar"
     },
     {
-      "name": "Dunaharaszti",
-      "id": "TljpcE8dM3Rk"
+      "id": "dunaharaszti",
+      "name": "Dunaharaszti"
     },
     {
-      "name": "Dunakeszi",
-      "id": "iICSRDEhurJa"
+      "id": "dunakeszi",
+      "name": "Dunakeszi"
     },
     {
-      "name": "Dunaszeg",
-      "id": "kSWszorwojfI"
+      "id": "dunaszeg",
+      "name": "Dunaszeg"
     },
     {
-      "name": "Dunaszentgyorgy",
-      "id": "11ZoCOY2s_lj"
+      "id": "dunaszentgyorgy",
+      "name": "Dunaszentgyorgy"
     },
     {
-      "name": "Dunavarsany",
-      "id": "qxrOqYUc-_Cp"
+      "id": "dunavarsany",
+      "name": "Dunavarsany"
     },
     {
-      "name": "Dunavecse",
-      "id": "YhxoO7oxamR_"
+      "id": "dunavecse",
+      "name": "Dunavecse"
     },
     {
-      "name": "Dusnok",
-      "id": "e3wvG4K4vjj9"
+      "id": "dusnok",
+      "name": "Dusnok"
     },
     {
-      "name": "Ebes",
-      "id": "qdTJmekm2rCp"
+      "id": "ebes",
+      "name": "Ebes"
     },
     {
-      "name": "Ecs",
-      "id": "ptVR5aOufN73"
+      "id": "ecs",
+      "name": "Ecs"
     },
     {
-      "name": "Ecser",
-      "id": "PxkIOSYyrzY-"
+      "id": "ecser",
+      "name": "Ecser"
     },
     {
-      "name": "Edeleny",
-      "id": "_LUnwN5uD3yT"
+      "id": "edeleny",
+      "name": "Edeleny"
     },
     {
-      "name": "Eger",
-      "id": "5HnmO9PugBDO"
+      "id": "eger",
+      "name": "Eger"
     },
     {
-      "name": "Egerszolat",
-      "id": "MjCMQz_2cLdM"
+      "id": "egerszolat",
+      "name": "Egerszolat"
     },
     {
-      "name": "Egyek",
-      "id": "Fj_2skeK_5vE"
+      "id": "egyek",
+      "name": "Egyek"
     },
     {
-      "name": "Egyhazasdengeleg",
-      "id": "v7jgcINrP8Bd"
+      "id": "egyhazasdengeleg",
+      "name": "Egyhazasdengeleg"
     },
     {
-      "name": "Egyhazashetye",
-      "id": "OLqTN1uXj5LY"
+      "id": "egyhazashetye",
+      "name": "Egyhazashetye"
     },
     {
-      "name": "Emod",
-      "id": "DlrnNlAsr6N9"
+      "id": "emod",
+      "name": "Emod"
     },
     {
-      "name": "Encs",
-      "id": "g991YamQ9HBD"
+      "id": "encs",
+      "name": "Encs"
     },
     {
-      "name": "Eperjeske",
-      "id": "5fMPGCR55SXo"
+      "id": "eperjeske",
+      "name": "Eperjeske"
     },
     {
-      "name": "Ercsi",
-      "id": "y6PHicQ5O088"
+      "id": "ercsi",
+      "name": "Ercsi"
     },
     {
-      "name": "Erdokertes",
-      "id": "WqcS4tYysQR8"
+      "id": "erdokertes",
+      "name": "Erdokertes"
     },
     {
-      "name": "Esztergom",
-      "id": "P3y0Hudm0U4n"
+      "id": "esztergom",
+      "name": "Esztergom"
     },
     {
-      "name": "Farmos",
-      "id": "ARthr_h9jXy8"
+      "id": "farmos",
+      "name": "Farmos"
     },
     {
-      "name": "Fegyvernek",
-      "id": "gQfZK9qwbf8Y"
+      "id": "fegyvernek",
+      "name": "Fegyvernek"
     },
     {
-      "name": "Fehergyarmat",
-      "id": "zDIxeAKmm2z5"
+      "id": "fehergyarmat",
+      "name": "Fehergyarmat"
     },
     {
-      "name": "Felsopakony",
-      "id": "8Vsz0gr62XFr"
+      "id": "felsopakony",
+      "name": "Felsopakony"
     },
     {
-      "name": "Felsoszentivan",
-      "id": "bFdC4j4JhHzs"
+      "id": "felsoszentivan",
+      "name": "Felsoszentivan"
     },
     {
-      "name": "Felsotarkany",
-      "id": "ZQO1Pd-DDj8A"
+      "id": "felsotarkany",
+      "name": "Felsotarkany"
     },
     {
-      "name": "Felsozsolca",
-      "id": "vn-hpugfPKLL"
+      "id": "felsozsolca",
+      "name": "Felsozsolca"
     },
     {
-      "name": "Fertod",
-      "id": "xTWygBfx4pA6"
+      "id": "fertod",
+      "name": "Fertod"
     },
     {
-      "name": "Fertoszentmiklos",
-      "id": "fyh8qTM1XaYi"
+      "id": "fertoszentmiklos",
+      "name": "Fertoszentmiklos"
     },
     {
-      "name": "Fot",
-      "id": "en1BRhFjo_Qd"
+      "id": "fot",
+      "name": "Fot"
     },
     {
-      "name": "Fuzesabony",
-      "id": "C1CVtFcJMBV8"
+      "id": "fuzesabony",
+      "name": "Fuzesabony"
     },
     {
-      "name": "Fuzesgyarmat",
-      "id": "-nPKi7d5wBUo"
+      "id": "fuzesgyarmat",
+      "name": "Fuzesgyarmat"
     },
     {
-      "name": "Galambok",
-      "id": "7TtxJdPFPhXh"
+      "id": "galambok",
+      "name": "Galambok"
     },
     {
-      "name": "Galgamacsa",
-      "id": "gBF0EQNlywyF"
+      "id": "galgamacsa",
+      "name": "Galgamacsa"
     },
     {
-      "name": "Garab",
-      "id": "6QNYy7bmlsTh"
+      "id": "garab",
+      "name": "Garab"
     },
     {
-      "name": "Gardony",
-      "id": "6UT-Va59xrEu"
+      "id": "gardony",
+      "name": "Gardony"
     },
     {
-      "name": "Gasztony",
-      "id": "v5nOO9OMv488"
+      "id": "gasztony",
+      "name": "Gasztony"
     },
     {
-      "name": "Gavavencsello",
-      "id": "K06xj7qTB8zf"
+      "id": "gavavencsello",
+      "name": "Gavavencsello"
     },
     {
-      "name": "Gelse",
-      "id": "dKNgWavKQKfA"
+      "id": "gelse",
+      "name": "Gelse"
     },
     {
-      "name": "Gemzse",
-      "id": "T7KytCeGkipT"
+      "id": "gemzse",
+      "name": "Gemzse"
     },
     {
-      "name": "Gencsapati",
-      "id": "SAnGszgTQ_LB"
+      "id": "gencsapati",
+      "name": "Gencsapati"
     },
     {
-      "name": "Gerjen",
-      "id": "po_kZuWKakDn"
+      "id": "gerjen",
+      "name": "Gerjen"
     },
     {
-      "name": "God",
-      "id": "Ub-jjnP4jMTT"
+      "id": "god",
+      "name": "God"
     },
     {
-      "name": "Golle",
-      "id": "MFwxRUQHIXK8"
+      "id": "golle",
+      "name": "Golle"
     },
     {
-      "name": "Gonyu",
-      "id": "YhVn7hCPbRAs"
+      "id": "gonyu",
+      "name": "Gonyu"
     },
     {
-      "name": "Gorbehaza",
-      "id": "xbsC8gTsdPqn"
+      "id": "gorbehaza",
+      "name": "Gorbehaza"
     },
     {
-      "name": "Gorgeteg",
-      "id": "yalYBM-JaNmZ"
+      "id": "gorgeteg",
+      "name": "Gorgeteg"
     },
     {
-      "name": "Gyal",
-      "id": "5GqzCY1J06wu"
+      "id": "gyal",
+      "name": "Gyal"
     },
     {
-      "name": "Gyar",
-      "id": "-wmd7Y6T3gfY"
+      "id": "gyar",
+      "name": "Gyar"
     },
     {
-      "name": "Gyenesdias",
-      "id": "6DGxYk2dnTnT"
+      "id": "gyenesdias",
+      "name": "Gyenesdias"
     },
     {
-      "name": "Gyomaendrod",
-      "id": "XW--RHUOMIjL"
+      "id": "gyomaendrod",
+      "name": "Gyomaendrod"
     },
     {
-      "name": "Gyomro",
-      "id": "F_eVBWkmITzq"
+      "id": "gyomro",
+      "name": "Gyomro"
     },
     {
-      "name": "Gyongyos",
-      "id": "uFyi0Q7kALnY"
+      "id": "gyongyos",
+      "name": "Gyongyos"
     },
     {
-      "name": "Gyongyossolymos",
-      "id": "Kf5LGecDuLd8"
+      "id": "gyongyossolymos",
+      "name": "Gyongyossolymos"
     },
     {
-      "name": "Gyongyostarjan",
-      "id": "pcgfPVV1B3o5"
+      "id": "gyongyostarjan",
+      "name": "Gyongyostarjan"
     },
     {
-      "name": "Gyorkony",
-      "id": "rnMKW6PW8lEX"
+      "id": "gyorkony",
+      "name": "Gyorkony"
     },
     {
-      "name": "Gyorladamer",
-      "id": "M9pQowtzS0SX"
+      "id": "gyorladamer",
+      "name": "Gyorladamer"
     },
     {
-      "name": "Gyorsag",
-      "id": "lTwmTYE9Y94l"
+      "id": "gyorsag",
+      "name": "Gyorsag"
     },
     {
-      "name": "Gyorujbarat",
-      "id": "rjxfKE_j7bBM"
+      "id": "gyorujbarat",
+      "name": "Gyorujbarat"
     },
     {
-      "name": "Gyorzamoly",
-      "id": "4KnWfolCPJZ-"
+      "id": "gyorzamoly",
+      "name": "Gyorzamoly"
     },
     {
-      "name": "Gyula",
-      "id": "kETxKHOvgGSu"
+      "id": "gyula",
+      "name": "Gyula"
     },
     {
-      "name": "Gyulahaza",
-      "id": "MdCPXjI9woJX"
+      "id": "gyulahaza",
+      "name": "Gyulahaza"
     },
     {
-      "name": "Hajduboszormeny",
-      "id": "auOrQzY8F_N9"
+      "id": "hajduboszormeny",
+      "name": "Hajduboszormeny"
     },
     {
-      "name": "Hajdudorog",
-      "id": "QeYPa4cZZjoD"
+      "id": "hajdudorog",
+      "name": "Hajdudorog"
     },
     {
-      "name": "Hajduhadhaz",
-      "id": "g2U0Gr0WhZAK"
+      "id": "hajduhadhaz",
+      "name": "Hajduhadhaz"
     },
     {
-      "name": "Hajdunanas",
-      "id": "Q_lz_JHjLiqD"
+      "id": "hajdunanas",
+      "name": "Hajdunanas"
     },
     {
-      "name": "Hajdusamson",
-      "id": "wdQxNj7GkNx3"
+      "id": "hajdusamson",
+      "name": "Hajdusamson"
     },
     {
-      "name": "Hajduszoboszlo",
-      "id": "LfEfEnSHxWNc"
+      "id": "hajduszoboszlo",
+      "name": "Hajduszoboszlo"
     },
     {
-      "name": "Hajmasker",
-      "id": "SADY10tCWUWc"
+      "id": "hajmasker",
+      "name": "Hajmasker"
     },
     {
-      "name": "Halaszi",
-      "id": "pSxgoeYes40N"
+      "id": "halaszi",
+      "name": "Halaszi"
     },
     {
-      "name": "Halasztelek",
-      "id": "HdYkmwoqR36U"
+      "id": "halasztelek",
+      "name": "Halasztelek"
     },
     {
-      "name": "Halimba",
-      "id": "kLe8KIXrAHD1"
+      "id": "halimba",
+      "name": "Halimba"
     },
     {
-      "name": "Harkany",
-      "id": "kB1SIyZLrhbZ"
+      "id": "harkany",
+      "name": "Harkany"
     },
     {
-      "name": "Harta",
-      "id": "0vR0TqqQXygJ"
+      "id": "harta",
+      "name": "Harta"
     },
     {
-      "name": "Hatvan",
-      "id": "o8IXt2uaITVj"
+      "id": "hatvan",
+      "name": "Hatvan"
     },
     {
-      "name": "Hegyeshalom",
-      "id": "0l2A4ZX0ueZ6"
+      "id": "hegyeshalom",
+      "name": "Hegyeshalom"
     },
     {
-      "name": "Hegyfalu",
-      "id": "B5wNdDaBGGyG"
+      "id": "hegyfalu",
+      "name": "Hegyfalu"
     },
     {
-      "name": "Hegyhatmaroc",
-      "id": "T9ilRVpXxE45"
+      "id": "hegyhatmaroc",
+      "name": "Hegyhatmaroc"
     },
     {
-      "name": "Hegyhatszentmarton",
-      "id": "MSmzTlnsim2L"
+      "id": "hegyhatszentmarton",
+      "name": "Hegyhatszentmarton"
     },
     {
-      "name": "Hehalom",
-      "id": "143N9bdJowCS"
+      "id": "hehalom",
+      "name": "Hehalom"
     },
     {
-      "name": "Helvecia",
-      "id": "qPF9DTV_f2my"
+      "id": "helvecia",
+      "name": "Helvecia"
     },
     {
-      "name": "Herceghalom",
-      "id": "YTjoanx60-X_"
+      "id": "herceghalom",
+      "name": "Herceghalom"
     },
     {
-      "name": "Hercegkut",
-      "id": "TPYAoRrUCIk6"
+      "id": "hercegkut",
+      "name": "Hercegkut"
     },
     {
-      "name": "Hercegszanto",
-      "id": "kE1pJekvIVTC"
+      "id": "hercegszanto",
+      "name": "Hercegszanto"
     },
     {
-      "name": "Hered",
-      "id": "9Uf7T1e0665A"
+      "id": "hered",
+      "name": "Hered"
     },
     {
-      "name": "Herend",
-      "id": "-2NJ1Zlfn99S"
+      "id": "herend",
+      "name": "Herend"
     },
     {
-      "name": "Hernad",
-      "id": "dD6yRNHPkKMJ"
+      "id": "hernad",
+      "name": "Hernad"
     },
     {
-      "name": "Hernadkak",
-      "id": "p66K893BdPkF"
+      "id": "hernadkak",
+      "name": "Hernadkak"
     },
     {
-      "name": "Hernadnemeti",
-      "id": "qITKEs2exJ15"
+      "id": "hernadnemeti",
+      "name": "Hernadnemeti"
     },
     {
-      "name": "Heves",
-      "id": "lQwa8ihR08Zl"
+      "id": "heves",
+      "name": "Heves"
     },
     {
-      "name": "Hevesaranyos",
-      "id": "4fKpI7Jp3nNO"
+      "id": "hevesaranyos",
+      "name": "Hevesaranyos"
     },
     {
-      "name": "Hevizgyoerk",
-      "id": "Ca1VB_wMTEIV"
+      "id": "hevizgyoerk",
+      "name": "Hevizgyoerk"
     },
     {
-      "name": "Hidas",
-      "id": "ldszsCefdNgR"
+      "id": "hidas",
+      "name": "Hidas"
     },
     {
-      "name": "Hodmezovasarhely",
-      "id": "M5BsSnDFg4U4"
+      "id": "hodmezovasarhely",
+      "name": "Hodmezovasarhely"
     },
     {
-      "name": "Homrogd",
-      "id": "BTJl276Y3XIO"
+      "id": "homrogd",
+      "name": "Homrogd"
     },
     {
-      "name": "Hont",
-      "id": "1USgMJ7iGOph"
+      "id": "hont",
+      "name": "Hont"
     },
     {
-      "name": "Hort",
-      "id": "q07tBl9waVXj"
+      "id": "hort",
+      "name": "Hort"
     },
     {
-      "name": "Hosszuheteny",
-      "id": "fnLWl7DhpmF7"
+      "id": "hosszuheteny",
+      "name": "Hosszuheteny"
     },
     {
-      "name": "Ibrany",
-      "id": "ehWaf4e3gvrN"
+      "id": "ibrany",
+      "name": "Ibrany"
     },
     {
-      "name": "Ikreny",
-      "id": "vmdASxCfcRsI"
+      "id": "ikreny",
+      "name": "Ikreny"
     },
     {
-      "name": "Inancs",
-      "id": "U4DpsFwvQnvs"
+      "id": "inancs",
+      "name": "Inancs"
     },
     {
-      "name": "Inarcs",
-      "id": "71rjdOe7oALs"
+      "id": "inarcs",
+      "name": "Inarcs"
     },
     {
-      "name": "Iregszemcse",
-      "id": "uMp4YlSTowir"
+      "id": "iregszemcse",
+      "name": "Iregszemcse"
     },
     {
-      "name": "Isaszeg",
-      "id": "Y2Ag9ajd6Zli"
+      "id": "isaszeg",
+      "name": "Isaszeg"
     },
     {
-      "name": "Ivancsa",
-      "id": "gCo6RVAYixIm"
+      "id": "ivancsa",
+      "name": "Ivancsa"
     },
     {
-      "name": "Izmeny",
-      "id": "CXALcYHrzBR3"
+      "id": "izmeny",
+      "name": "Izmeny"
     },
     {
-      "name": "Janoshalma",
-      "id": "GqhW4JY4vmlP"
+      "id": "janoshalma",
+      "name": "Janoshalma"
     },
     {
-      "name": "Janoshida",
-      "id": "SXdzLgQAczdJ"
+      "id": "janoshida",
+      "name": "Janoshida"
     },
     {
-      "name": "Janossomorja",
-      "id": "VUkmRy8B7NE-"
+      "id": "janossomorja",
+      "name": "Janossomorja"
     },
     {
-      "name": "Jaszapati",
-      "id": "-n3wLNoqXYJg"
+      "id": "jaszapati",
+      "name": "Jaszapati"
     },
     {
-      "name": "Jaszbereny",
-      "id": "pSFKWeS4uTl9"
+      "id": "jaszbereny",
+      "name": "Jaszbereny"
     },
     {
-      "name": "Jaszfelsoszentgyorgy",
-      "id": "5w6kBtArkCRc"
+      "id": "jaszfelsoszentgyorgy",
+      "name": "Jaszfelsoszentgyorgy"
     },
     {
-      "name": "Jaszfenyszaru",
-      "id": "JdGo3ha2u6G-"
+      "id": "jaszfenyszaru",
+      "name": "Jaszfenyszaru"
     },
     {
-      "name": "Jaszkiser",
-      "id": "2yI6c19GVitw"
+      "id": "jaszkiser",
+      "name": "Jaszkiser"
     },
     {
-      "name": "Jaszladany",
-      "id": "SVkgjb88ZMwe"
+      "id": "jaszladany",
+      "name": "Jaszladany"
     },
     {
-      "name": "Juta",
-      "id": "mK9MsVZUtykB"
+      "id": "juta",
+      "name": "Juta"
     },
     {
-      "name": "Kacsota",
-      "id": "KEmO36P0pWiq"
+      "id": "kacsota",
+      "name": "Kacsota"
     },
     {
-      "name": "Kadarkut",
-      "id": "aT07yXNvP5Xq"
+      "id": "kadarkut",
+      "name": "Kadarkut"
     },
     {
-      "name": "Kajaszo",
-      "id": "ZdsX7LhIEC7B"
+      "id": "kajaszo",
+      "name": "Kajaszo"
     },
     {
-      "name": "Kallo",
-      "id": "r96xrQAJEa7E"
+      "id": "kallo",
+      "name": "Kallo"
     },
     {
-      "name": "Kalocsa",
-      "id": "QZXLNHoWPoNf"
+      "id": "kalocsa",
+      "name": "Kalocsa"
     },
     {
-      "name": "Kaloz",
-      "id": "AXYT1QGdhX3t"
+      "id": "kaloz",
+      "name": "Kaloz"
     },
     {
-      "name": "Kapolnasnyek",
-      "id": "fJqVAw737SIU"
+      "id": "kapolnasnyek",
+      "name": "Kapolnasnyek"
     },
     {
-      "name": "Kaposmero",
-      "id": "ytLZSK1jzzzJ"
+      "id": "kaposmero",
+      "name": "Kaposmero"
     },
     {
-      "name": "Kapuvar",
-      "id": "jSQbT2Lnh8iR"
+      "id": "kapuvar",
+      "name": "Kapuvar"
     },
     {
-      "name": "Karancskeszi",
-      "id": "jQsA3mUj1ssn"
+      "id": "karancskeszi",
+      "name": "Karancskeszi"
     },
     {
-      "name": "Karancslapujto",
-      "id": "AYoiEH_rB3Fo"
+      "id": "karancslapujto",
+      "name": "Karancslapujto"
     },
     {
-      "name": "Karancssag",
-      "id": "XTjCib_fCwHM"
+      "id": "karancssag",
+      "name": "Karancssag"
     },
     {
-      "name": "Karcag",
-      "id": "SJBmNTXQfZEt"
+      "id": "karcag",
+      "name": "Karcag"
     },
     {
-      "name": "Kartal",
-      "id": "_-3UUZ77_gQz"
+      "id": "kartal",
+      "name": "Kartal"
     },
     {
-      "name": "Kazincbarcika",
-      "id": "g1RD38GsK17Z"
+      "id": "kazincbarcika",
+      "name": "Kazincbarcika"
     },
     {
-      "name": "Kecel",
-      "id": "UPPna0mIPZ9l"
+      "id": "kecel",
+      "name": "Kecel"
     },
     {
-      "name": "Kemecse",
-      "id": "IdB4uwfLsnXv"
+      "id": "kemecse",
+      "name": "Kemecse"
     },
     {
-      "name": "Kemence",
-      "id": "WpG3BWjYX-qo"
+      "id": "kemence",
+      "name": "Kemence"
     },
     {
-      "name": "Kerecsend",
-      "id": "0aoPef_y52hR"
+      "id": "kerecsend",
+      "name": "Kerecsend"
     },
     {
-      "name": "Kerekegyhaza",
-      "id": "SELGcrPiu3-3"
+      "id": "kerekegyhaza",
+      "name": "Kerekegyhaza"
     },
     {
-      "name": "Kerekharaszt",
-      "id": "e8Pp85ArWDDp"
+      "id": "kerekharaszt",
+      "name": "Kerekharaszt"
     },
     {
-      "name": "Kerepes",
-      "id": "XjS0lyAyl42i"
+      "id": "kerepes",
+      "name": "Kerepes"
     },
     {
-      "name": "Kesznyeten",
-      "id": "ETqb4rY_BeUO"
+      "id": "kesznyeten",
+      "name": "Kesznyeten"
     },
     {
-      "name": "Keszthely",
-      "id": "HDrVT_6UShOj"
+      "id": "keszthely",
+      "name": "Keszthely"
     },
     {
-      "name": "Keszu",
-      "id": "hvS0ilbnxCPW"
+      "id": "keszu",
+      "name": "Keszu"
     },
     {
-      "name": "Ketegyhaza",
-      "id": "-PDxXLpEl1nj"
+      "id": "ketegyhaza",
+      "name": "Ketegyhaza"
     },
     {
-      "name": "Kevermes",
-      "id": "zt0PbLHyo6GE"
+      "id": "kevermes",
+      "name": "Kevermes"
     },
     {
-      "name": "Kincsesbanya",
-      "id": "0XCXtxnrokNA"
+      "id": "kincsesbanya",
+      "name": "Kincsesbanya"
     },
     {
-      "name": "Kisar",
-      "id": "JiZ-Hj305Y_R"
+      "id": "kisar",
+      "name": "Kisar"
     },
     {
-      "name": "Kisber",
-      "id": "pdX70W2n63GB"
+      "id": "kisber",
+      "name": "Kisber"
     },
     {
-      "name": "Kisdorog",
-      "id": "Z0Tf3L-iiYMZ"
+      "id": "kisdorog",
+      "name": "Kisdorog"
     },
     {
-      "name": "Kisgyor",
-      "id": "1bHB6MEOu3MH"
+      "id": "kisgyor",
+      "name": "Kisgyor"
     },
     {
-      "name": "Kiskinizs",
-      "id": "Qw_hWyPX10Fu"
+      "id": "kiskinizs",
+      "name": "Kiskinizs"
     },
     {
-      "name": "Kiskoros",
-      "id": "vu8ogXdiFss2"
+      "id": "kiskoros",
+      "name": "Kiskoros"
     },
     {
-      "name": "Kiskunfelegyhaza",
-      "id": "qlnBMV0RKaQd"
+      "id": "kiskunfelegyhaza",
+      "name": "Kiskunfelegyhaza"
     },
     {
-      "name": "Kiskunhalas",
-      "id": "Fq0dLsXn4V8T"
+      "id": "kiskunhalas",
+      "name": "Kiskunhalas"
     },
     {
-      "name": "Kiskunlachaza",
-      "id": "2AflMCpJlQZc"
+      "id": "kiskunlachaza",
+      "name": "Kiskunlachaza"
     },
     {
-      "name": "Kislang",
-      "id": "_Zfb2EJybhTD"
+      "id": "kislang",
+      "name": "Kislang"
     },
     {
-      "name": "Kismanyok",
-      "id": "fMhk_ddBIzgb"
+      "id": "kismanyok",
+      "name": "Kismanyok"
     },
     {
-      "name": "Kismaros",
-      "id": "fiiomNVdobnb"
+      "id": "kismaros",
+      "name": "Kismaros"
     },
     {
-      "name": "Kisnemedi",
-      "id": "ubLQtMxqjBwG"
+      "id": "kisnemedi",
+      "name": "Kisnemedi"
     },
     {
-      "name": "Kispest",
-      "id": "r8rrD8A_77QV"
+      "id": "kispest",
+      "name": "Kispest"
     },
     {
-      "name": "Kistapolca",
-      "id": "90vR6Vob9Spp"
+      "id": "kistapolca",
+      "name": "Kistapolca"
     },
     {
-      "name": "Kistarcsa",
-      "id": "wJqukikIk-SP"
+      "id": "kistarcsa",
+      "name": "Kistarcsa"
     },
     {
-      "name": "Kistelek",
-      "id": "NVDDnR186DNE"
+      "id": "kistelek",
+      "name": "Kistelek"
     },
     {
-      "name": "Kistokaj",
-      "id": "iQDt-RnIhCoM"
+      "id": "kistokaj",
+      "name": "Kistokaj"
     },
     {
-      "name": "Kistormas",
-      "id": "yWVYHM8F5eLX"
+      "id": "kistormas",
+      "name": "Kistormas"
     },
     {
-      "name": "Kisujszallas",
-      "id": "Aei7pBSoM5gR"
+      "id": "kisujszallas",
+      "name": "Kisujszallas"
     },
     {
-      "name": "Kisvarda",
-      "id": "bSejnTyqZLF2"
+      "id": "kisvarda",
+      "name": "Kisvarda"
     },
     {
-      "name": "Kisvaszar",
-      "id": "EC1zbIjROns9"
+      "id": "kisvaszar",
+      "name": "Kisvaszar"
     },
     {
-      "name": "Klarafalva",
-      "id": "uv6a7H4ZS_A5"
+      "id": "klarafalva",
+      "name": "Klarafalva"
     },
     {
-      "name": "Koka",
-      "id": "mngh50Q1Z0iT"
+      "id": "koka",
+      "name": "Koka"
     },
     {
-      "name": "Kolontar",
-      "id": "UpIbOd22PqYU"
+      "id": "kolontar",
+      "name": "Kolontar"
     },
     {
-      "name": "Komlo",
-      "id": "dEBreArKg2Me"
+      "id": "komlo",
+      "name": "Komlo"
     },
     {
-      "name": "Komlod",
-      "id": "jV9Mtt3A5fBp"
+      "id": "komlod",
+      "name": "Komlod"
     },
     {
-      "name": "Kompolt",
-      "id": "V-XA26d0uQPb"
+      "id": "kompolt",
+      "name": "Kompolt"
     },
     {
-      "name": "Kony",
-      "id": "QKs-nL6me3-e"
+      "id": "kony",
+      "name": "Kony"
     },
     {
-      "name": "Kophaza",
-      "id": "20rpd7xfsdbz"
+      "id": "kophaza",
+      "name": "Kophaza"
     },
     {
-      "name": "Kormend",
-      "id": "P5wQvOF9qmzB"
+      "id": "kormend",
+      "name": "Kormend"
     },
     {
-      "name": "Kornye",
-      "id": "lKKwmK_1N889"
+      "id": "kornye",
+      "name": "Kornye"
     },
     {
-      "name": "Korosladany",
-      "id": "0kF0to7Rh-b5"
+      "id": "korosladany",
+      "name": "Korosladany"
     },
     {
-      "name": "Koszarhegy",
-      "id": "vLe8a6P7Vzqk"
+      "id": "koszarhegy",
+      "name": "Koszarhegy"
     },
     {
-      "name": "Koszeg",
-      "id": "ZIfwSnsiFLuh"
+      "id": "koszeg",
+      "name": "Koszeg"
     },
     {
-      "name": "Kotaj",
-      "id": "SSRitElkyuir"
+      "id": "kotaj",
+      "name": "Kotaj"
     },
     {
-      "name": "Kotelek",
-      "id": "qaRnZOSYBvVN"
+      "id": "kotelek",
+      "name": "Kotelek"
     },
     {
-      "name": "Kubekhaza",
-      "id": "K2AiTIRgzoWA"
+      "id": "kubekhaza",
+      "name": "Kubekhaza"
     },
     {
-      "name": "Kulcs",
-      "id": "F9A5t2Jj9fwf"
+      "id": "kulcs",
+      "name": "Kulcs"
     },
     {
-      "name": "Kulsobarand",
-      "id": "rQmBGhhDdby5"
+      "id": "kulsobarand",
+      "name": "Kulsobarand"
     },
     {
-      "name": "Kunagota",
-      "id": "GatEm62Z8d0L"
+      "id": "kunagota",
+      "name": "Kunagota"
     },
     {
-      "name": "Kunbaja",
-      "id": "_rhHVfWVJ5em"
+      "id": "kunbaja",
+      "name": "Kunbaja"
     },
     {
-      "name": "Kunhegyes",
-      "id": "uMxio7EXo3Gf"
+      "id": "kunhegyes",
+      "name": "Kunhegyes"
     },
     {
-      "name": "Kunszentmarton",
-      "id": "rS54aIoop0iV"
+      "id": "kunszentmarton",
+      "name": "Kunszentmarton"
     },
     {
-      "name": "Kunszentmiklos",
-      "id": "_8vUY0DM0hBY"
+      "id": "kunszentmiklos",
+      "name": "Kunszentmiklos"
     },
     {
-      "name": "Kunsziget",
-      "id": "9n599ZE-MwYj"
+      "id": "kunsziget",
+      "name": "Kunsziget"
     },
     {
-      "name": "Kurd",
-      "id": "zvU5pwSM_Zu2"
+      "id": "kurd",
+      "name": "Kurd"
     },
     {
-      "name": "Kurityan",
-      "id": "zG7GJGrTxly-"
+      "id": "kurityan",
+      "name": "Kurityan"
     },
     {
-      "name": "Labatlan",
-      "id": "DglpXPooZI4I"
+      "id": "labatlan",
+      "name": "Labatlan"
     },
     {
-      "name": "Labod",
-      "id": "Ahc2CqpBVpqs"
+      "id": "labod",
+      "name": "Labod"
     },
     {
-      "name": "Ladbesenyo",
-      "id": "3f1wXqebw_DR"
+      "id": "ladbesenyo",
+      "name": "Ladbesenyo"
     },
     {
-      "name": "Lajoskomarom",
-      "id": "07pD0Hy_axsu"
+      "id": "lajoskomarom",
+      "name": "Lajoskomarom"
     },
     {
-      "name": "Lajosmizse",
-      "id": "UbA2UHVeQCix"
+      "id": "lajosmizse",
+      "name": "Lajosmizse"
     },
     {
-      "name": "Lazi",
-      "id": "Q5OBV61q1j5f"
+      "id": "lazi",
+      "name": "Lazi"
     },
     {
-      "name": "Leanyfalu",
-      "id": "NNq2GtZkxKLa"
+      "id": "leanyfalu",
+      "name": "Leanyfalu"
     },
     {
-      "name": "Lebeny",
-      "id": "Gkr5o9j5v4rT"
+      "id": "lebeny",
+      "name": "Lebeny"
     },
     {
-      "name": "Lenti",
-      "id": "n0QLvP2Yj2NX"
+      "id": "lenti",
+      "name": "Lenti"
     },
     {
-      "name": "Letenye",
-      "id": "uDTejGZTo4hu"
+      "id": "letenye",
+      "name": "Letenye"
     },
     {
-      "name": "Levelek",
-      "id": "l-IOvtot1yfy"
+      "id": "levelek",
+      "name": "Levelek"
     },
     {
-      "name": "Lovas",
-      "id": "R7Nn76kFxjn0"
+      "id": "lovas",
+      "name": "Lovas"
     },
     {
-      "name": "Lovaszi",
-      "id": "l--JaVM8bNrn"
+      "id": "lovaszi",
+      "name": "Lovaszi"
     },
     {
-      "name": "Madocsa",
-      "id": "uRHBWWtnuMMt"
+      "id": "madocsa",
+      "name": "Madocsa"
     },
     {
-      "name": "Maglod",
-      "id": "Pqpd5Y2x-82L"
+      "id": "maglod",
+      "name": "Maglod"
     },
     {
-      "name": "Magy",
-      "id": "I2Va9XQ30C5r"
+      "id": "magy",
+      "name": "Magy"
     },
     {
-      "name": "Magyaregres",
-      "id": "rwE8hh46sdbc"
+      "id": "magyaregres",
+      "name": "Magyaregres"
     },
     {
-      "name": "Magyarhertelend",
-      "id": "gcYm6OplCX2h"
+      "id": "magyarhertelend",
+      "name": "Magyarhertelend"
     },
     {
-      "name": "Magyarnandor",
-      "id": "RtcqQSLckvkN"
+      "id": "magyarnandor",
+      "name": "Magyarnandor"
     },
     {
-      "name": "Majoshaza",
-      "id": "Rd0P8yz3v2IK"
+      "id": "majoshaza",
+      "name": "Majoshaza"
     },
     {
-      "name": "Makad",
-      "id": "OC2I-mHkEWY8"
+      "id": "makad",
+      "name": "Makad"
     },
     {
-      "name": "Makkoshotyka",
-      "id": "FIEbcSaR4Geb"
+      "id": "makkoshotyka",
+      "name": "Makkoshotyka"
     },
     {
-      "name": "Maklar",
-      "id": "3vFn7eDEdqQ5"
+      "id": "maklar",
+      "name": "Maklar"
     },
     {
-      "name": "Mako",
-      "id": "WmS_l6EMuXee"
+      "id": "mako",
+      "name": "Mako"
     },
     {
-      "name": "Malyi",
-      "id": "WHOwoAKQf7pj"
+      "id": "malyi",
+      "name": "Malyi"
     },
     {
-      "name": "Mandok",
-      "id": "8975T3EtIbS2"
+      "id": "mandok",
+      "name": "Mandok"
     },
     {
-      "name": "Many",
-      "id": "zaHCi9VuhQqx"
+      "id": "many",
+      "name": "Many"
     },
     {
-      "name": "Marcali",
-      "id": "_eOgMs47wuuD"
+      "id": "marcali",
+      "name": "Marcali"
     },
     {
-      "name": "Mariapocs",
-      "id": "GxcW7WA50ZiA"
+      "id": "mariapocs",
+      "name": "Mariapocs"
     },
     {
-      "name": "Markaz",
-      "id": "D2Z---h_nb98"
+      "id": "markaz",
+      "name": "Markaz"
     },
     {
-      "name": "Marokpapi",
-      "id": "MUhHJzbJj0ie"
+      "id": "marokpapi",
+      "name": "Marokpapi"
     },
     {
-      "name": "Martely",
-      "id": "FojQzwPvBTVt"
+      "id": "martely",
+      "name": "Martely"
     },
     {
-      "name": "Martfu",
-      "id": "KkK75D2tOT9j"
+      "id": "martfu",
+      "name": "Martfu"
     },
     {
-      "name": "Martonvasar",
-      "id": "p5z2leV-kU6e"
+      "id": "martonvasar",
+      "name": "Martonvasar"
     },
     {
-      "name": "Mateszalka",
-      "id": "Ih6Dn3dQ9qX1"
+      "id": "mateszalka",
+      "name": "Mateszalka"
     },
     {
-      "name": "Matraballa",
-      "id": "2HoeEZxvjcyf"
+      "id": "matraballa",
+      "name": "Matraballa"
     },
     {
-      "name": "Matraszolos",
-      "id": "LiHpBCrLfJPc"
+      "id": "matraszolos",
+      "name": "Matraszolos"
     },
     {
-      "name": "Mecseknadasd",
-      "id": "bygfaUCfkalK"
+      "id": "mecseknadasd",
+      "name": "Mecseknadasd"
     },
     {
-      "name": "Medgyesegyhaza",
-      "id": "P0Sk3xkx9WZB"
+      "id": "medgyesegyhaza",
+      "name": "Medgyesegyhaza"
     },
     {
-      "name": "Melykut",
-      "id": "rmcU6wp2nd-v"
+      "id": "melykut",
+      "name": "Melykut"
     },
     {
-      "name": "Mende",
-      "id": "w2m9Q6C36G_u"
+      "id": "mende",
+      "name": "Mende"
     },
     {
-      "name": "Mernye",
-      "id": "cM7854AQmmhH"
+      "id": "mernye",
+      "name": "Mernye"
     },
     {
-      "name": "Mesztegnyo",
-      "id": "dFeCucHWpzAy"
+      "id": "mesztegnyo",
+      "name": "Mesztegnyo"
     },
     {
-      "name": "Mezobereny",
-      "id": "CwY8Vn232-bJ"
+      "id": "mezobereny",
+      "name": "Mezobereny"
     },
     {
-      "name": "Mezofalva",
-      "id": "TvQ11IujcUMo"
+      "id": "mezofalva",
+      "name": "Mezofalva"
     },
     {
-      "name": "Mezohegyes",
-      "id": "8XzdBJBS3uES"
+      "id": "mezohegyes",
+      "name": "Mezohegyes"
     },
     {
-      "name": "Mezokovesd",
-      "id": "rI3UFDZz8oRD"
+      "id": "mezokovesd",
+      "name": "Mezokovesd"
     },
     {
-      "name": "Mezonyarad",
-      "id": "e6UTe3gwvv0R"
+      "id": "mezonyarad",
+      "name": "Mezonyarad"
     },
     {
-      "name": "Mezoszilas",
-      "id": "MaNNOTEUH3l5"
+      "id": "mezoszilas",
+      "name": "Mezoszilas"
     },
     {
-      "name": "Mezotur",
-      "id": "7xKkUN-X7FWO"
+      "id": "mezotur",
+      "name": "Mezotur"
     },
     {
-      "name": "Mindszent",
-      "id": "t4wHEG5hqVFJ"
+      "id": "mindszent",
+      "name": "Mindszent"
     },
     {
-      "name": "Misefa",
-      "id": "MGK4jW5d4edy"
+      "id": "misefa",
+      "name": "Misefa"
     },
     {
-      "name": "Miskolc",
-      "id": "zdYfd9np_vYC"
+      "id": "miskolc",
+      "name": "Miskolc"
     },
     {
-      "name": "Mogyorod",
-      "id": "adB7tjImQzhV"
+      "id": "mogyorod",
+      "name": "Mogyorod"
     },
     {
-      "name": "Monor",
-      "id": "3EJtCSLYvPfm"
+      "id": "monor",
+      "name": "Monor"
     },
     {
-      "name": "Monorierdo",
-      "id": "PoVlDZxmDt3m"
+      "id": "monorierdo",
+      "name": "Monorierdo"
     },
     {
-      "name": "Mor",
-      "id": "EIsf03sSBZec"
+      "id": "mor",
+      "name": "Mor"
     },
     {
-      "name": "Morahalom",
-      "id": "42HblT18eTHC"
+      "id": "morahalom",
+      "name": "Morahalom"
     },
     {
-      "name": "Mosonszentmiklos",
-      "id": "BXQ6s91nk2mg"
+      "id": "mosonszentmiklos",
+      "name": "Mosonszentmiklos"
     },
     {
-      "name": "Mosonszolnok",
-      "id": "1KlewcElXj-N"
+      "id": "mosonszolnok",
+      "name": "Mosonszolnok"
     },
     {
-      "name": "Mucsony",
-      "id": "-1LopWFJtNqG"
+      "id": "mucsony",
+      "name": "Mucsony"
     },
     {
-      "name": "Nagyatad",
-      "id": "uROaW4dzc7am"
+      "id": "nagyatad",
+      "name": "Nagyatad"
     },
     {
-      "name": "Nagybarca",
-      "id": "C9NCPPvgoqDp"
+      "id": "nagybarca",
+      "name": "Nagybarca"
     },
     {
-      "name": "Nagyberki",
-      "id": "NeXCn1zcmAyq"
+      "id": "nagyberki",
+      "name": "Nagyberki"
     },
     {
-      "name": "Nagycenk",
-      "id": "QxD0VCUWfpPE"
+      "id": "nagycenk",
+      "name": "Nagycenk"
     },
     {
-      "name": "Nagycserkesz",
-      "id": "_3KddNh6EML5"
+      "id": "nagycserkesz",
+      "name": "Nagycserkesz"
     },
     {
-      "name": "Nagydobsza",
-      "id": "N1noVQIV7ohk"
+      "id": "nagydobsza",
+      "name": "Nagydobsza"
     },
     {
-      "name": "Nagyhalasz",
-      "id": "70UYOjuqv9f4"
+      "id": "nagyhalasz",
+      "name": "Nagyhalasz"
     },
     {
-      "name": "Nagyhegyes",
-      "id": "aIT-f3sLqJXG"
+      "id": "nagyhegyes",
+      "name": "Nagyhegyes"
     },
     {
-      "name": "Nagyigmand",
-      "id": "4CwriQjDqT8O"
+      "id": "nagyigmand",
+      "name": "Nagyigmand"
     },
     {
-      "name": "Nagykallo",
-      "id": "BlEs0SfxDbUT"
+      "id": "nagykallo",
+      "name": "Nagykallo"
     },
     {
-      "name": "Nagykanizsa",
-      "id": "ak04EzBT9Z3o"
+      "id": "nagykanizsa",
+      "name": "Nagykanizsa"
     },
     {
-      "name": "Nagykapornak",
-      "id": "ZVJt--4tkRoY"
+      "id": "nagykapornak",
+      "name": "Nagykapornak"
     },
     {
-      "name": "Nagykata",
-      "id": "EXz3-n1OyqTf"
+      "id": "nagykata",
+      "name": "Nagykata"
     },
     {
-      "name": "Nagykereki",
-      "id": "yY1bWggjAYrm"
+      "id": "nagykereki",
+      "name": "Nagykereki"
     },
     {
-      "name": "Nagykeresztur",
-      "id": "rnkTm7rpgvhz"
+      "id": "nagykeresztur",
+      "name": "Nagykeresztur"
     },
     {
-      "name": "Nagykoros",
-      "id": "ICFOoeJRC2-C"
+      "id": "nagykoros",
+      "name": "Nagykoros"
     },
     {
-      "name": "Nagykoru",
-      "id": "TlC_Al93jm5q"
+      "id": "nagykoru",
+      "name": "Nagykoru"
     },
     {
-      "name": "Nagykovacsi",
-      "id": "-JyBk1k8F1g5"
+      "id": "nagykovacsi",
+      "name": "Nagykovacsi"
     },
     {
-      "name": "Nagykozar",
-      "id": "2XrtB-KiKKWT"
+      "id": "nagykozar",
+      "name": "Nagykozar"
     },
     {
-      "name": "Nagymagocs",
-      "id": "0INf6Hg-MaNe"
+      "id": "nagymagocs",
+      "name": "Nagymagocs"
     },
     {
-      "name": "Nagymanyok",
-      "id": "gxuiQO5KE9OB"
+      "id": "nagymanyok",
+      "name": "Nagymanyok"
     },
     {
-      "name": "Nagynyarad",
-      "id": "v-O4sShItVZp"
+      "id": "nagynyarad",
+      "name": "Nagynyarad"
     },
     {
-      "name": "Nagypali",
-      "id": "ZzHqY_onqs4b"
+      "id": "nagypali",
+      "name": "Nagypali"
     },
     {
-      "name": "Nagysap",
-      "id": "32r5PPXjPVwm"
+      "id": "nagysap",
+      "name": "Nagysap"
     },
     {
-      "name": "Nagyszekeres",
-      "id": "c7FxhBH_QyVt"
+      "id": "nagyszekeres",
+      "name": "Nagyszekeres"
     },
     {
-      "name": "Nagyszenas",
-      "id": "_qMHokwSXrMt"
+      "id": "nagyszenas",
+      "name": "Nagyszenas"
     },
     {
-      "name": "Nagyszokoly",
-      "id": "6K3Y40ERMfsS"
+      "id": "nagyszokoly",
+      "name": "Nagyszokoly"
     },
     {
-      "name": "Nagytarcsa",
-      "id": "c-wk_-WIWW0Y"
+      "id": "nagytarcsa",
+      "name": "Nagytarcsa"
     },
     {
-      "name": "Nagytotfalu",
-      "id": "ReKo1iiLQuH5"
+      "id": "nagytotfalu",
+      "name": "Nagytotfalu"
     },
     {
-      "name": "Nagyvazsony",
-      "id": "SAVzzrfQnMdL"
+      "id": "nagyvazsony",
+      "name": "Nagyvazsony"
     },
     {
-      "name": "Nagyvenyim",
-      "id": "evkti96Gtz2M"
+      "id": "nagyvenyim",
+      "name": "Nagyvenyim"
     },
     {
-      "name": "Naszaly",
-      "id": "eqEvWHiwDV0I"
+      "id": "naszaly",
+      "name": "Naszaly"
     },
     {
-      "name": "Nemesbod",
-      "id": "ZJrUK3jebQX8"
+      "id": "nemesbod",
+      "name": "Nemesbod"
     },
     {
-      "name": "Nemesbuek",
-      "id": "mxi4YGreqSre"
+      "id": "nemesbuek",
+      "name": "Nemesbuek"
     },
     {
-      "name": "Nemesvid",
-      "id": "N8Y8yKQJeVvP"
+      "id": "nemesvid",
+      "name": "Nemesvid"
     },
     {
-      "name": "Nemesvita",
-      "id": "E_OjUBXIyizg"
+      "id": "nemesvita",
+      "name": "Nemesvita"
     },
     {
-      "name": "Nemetker",
-      "id": "iA-2sw2Qa9KK"
+      "id": "nemetker",
+      "name": "Nemetker"
     },
     {
-      "name": "Neszmely",
-      "id": "GSwVIvdHm0xf"
+      "id": "neszmely",
+      "name": "Neszmely"
     },
     {
-      "name": "Nezsa",
-      "id": "vpgf9TD0Ods4"
+      "id": "nezsa",
+      "name": "Nezsa"
     },
     {
-      "name": "Nogradsap",
-      "id": "-r3uGq1AWIQN"
+      "id": "nogradsap",
+      "name": "Nogradsap"
     },
     {
-      "name": "Nogradsipek",
-      "id": "gPpPzC5eSmsp"
+      "id": "nogradsipek",
+      "name": "Nogradsipek"
     },
     {
-      "name": "Nyekladhaza",
-      "id": "1jn4A3Vx-K3v"
+      "id": "nyekladhaza",
+      "name": "Nyekladhaza"
     },
     {
-      "name": "Nyergesujfalu",
-      "id": "h_45X9JqcNda"
+      "id": "nyergesujfalu",
+      "name": "Nyergesujfalu"
     },
     {
-      "name": "Nyiradony",
-      "id": "VkaTJ8sNom9R"
+      "id": "nyiradony",
+      "name": "Nyiradony"
     },
     {
-      "name": "Nyirbator",
-      "id": "ylNbjCOPwvJk"
+      "id": "nyirbator",
+      "name": "Nyirbator"
     },
     {
-      "name": "Nyiregyhaza",
-      "id": "UZf7LIyL2fe6"
+      "id": "nyiregyhaza",
+      "name": "Nyiregyhaza"
     },
     {
-      "name": "Nyirmartonfalva",
-      "id": "--JO54YCEmwm"
+      "id": "nyirmartonfalva",
+      "name": "Nyirmartonfalva"
     },
     {
-      "name": "Nyirtass",
-      "id": "YswYFLEYqZ7e"
+      "id": "nyirtass",
+      "name": "Nyirtass"
     },
     {
-      "name": "Nyul",
-      "id": "Kv62Ds9i3YUK"
+      "id": "nyul",
+      "name": "Nyul"
     },
     {
-      "name": "Ocsa",
-      "id": "IN6JcBJhEcuF"
+      "id": "ocsa",
+      "name": "Ocsa"
     },
     {
-      "name": "Ocseny",
-      "id": "XvzW1HHoD90Z"
+      "id": "ocseny",
+      "name": "Ocseny"
     },
     {
-      "name": "Ocsod",
-      "id": "CwBAO6Al-6D1"
+      "id": "ocsod",
+      "name": "Ocsod"
     },
     {
-      "name": "Ofeherto",
-      "id": "tBEF-NaY2fNo"
+      "id": "ofeherto",
+      "name": "Ofeherto"
     },
     {
-      "name": "Onga",
-      "id": "TGXensRiykqA"
+      "id": "onga",
+      "name": "Onga"
     },
     {
-      "name": "Orbottyan",
-      "id": "CsY0Uz-UhvlG"
+      "id": "orbottyan",
+      "name": "Orbottyan"
     },
     {
-      "name": "Oroshaza",
-      "id": "leZ5cB91fFWX"
+      "id": "oroshaza",
+      "name": "Oroshaza"
     },
     {
-      "name": "Oroszlany",
-      "id": "Jat3PcDx963p"
+      "id": "oroszlany",
+      "name": "Oroszlany"
     },
     {
-      "name": "Ostoros",
-      "id": "uIhRH_kt5-vx"
+      "id": "ostoros",
+      "name": "Ostoros"
     },
     {
-      "name": "Otteveny",
-      "id": "58oCHlbQxFMz"
+      "id": "otteveny",
+      "name": "Otteveny"
     },
     {
-      "name": "Ozd",
-      "id": "6YP-ASA5PPeY"
+      "id": "ozd",
+      "name": "Ozd"
     },
     {
-      "name": "Paka",
-      "id": "t-pwb7E1Jp4v"
+      "id": "paka",
+      "name": "Paka"
     },
     {
-      "name": "Pakod",
-      "id": "_kdk_5xFFUbM"
+      "id": "pakod",
+      "name": "Pakod"
     },
     {
-      "name": "Pakozd",
-      "id": "F5NYwiWJHVoz"
+      "id": "pakozd",
+      "name": "Pakozd"
     },
     {
-      "name": "Paks",
-      "id": "04SkPDtnWjpF"
+      "id": "paks",
+      "name": "Paks"
     },
     {
-      "name": "Palotabozsok",
-      "id": "Ftty-9X9HswQ"
+      "id": "palotabozsok",
+      "name": "Palotabozsok"
     },
     {
-      "name": "Papa",
-      "id": "HF26SC4LBQzu"
+      "id": "papa",
+      "name": "Papa"
     },
     {
-      "name": "Part",
-      "id": "TFYBgFT0_DUp"
+      "id": "part",
+      "name": "Part"
     },
     {
-      "name": "Paszto",
-      "id": "4fU9ocmKD-Zp"
+      "id": "paszto",
+      "name": "Paszto"
     },
     {
-      "name": "Patroha",
-      "id": "5seF5ZFzeYRY"
+      "id": "patroha",
+      "name": "Patroha"
     },
     {
-      "name": "Patvarc",
-      "id": "DdvWIV6iqp24"
+      "id": "patvarc",
+      "name": "Patvarc"
     },
     {
-      "name": "Paty",
-      "id": "Tx8PwfSIMzFs"
+      "id": "paty",
+      "name": "Paty"
     },
     {
-      "name": "Pazmand",
-      "id": "VqEEU4jr8NFF"
+      "id": "pazmand",
+      "name": "Pazmand"
     },
     {
-      "name": "Pecel",
-      "id": "mHQI1qOyBZo0"
+      "id": "pecel",
+      "name": "Pecel"
     },
     {
-      "name": "Pecol",
-      "id": "-0goqDa83iOC"
+      "id": "pecol",
+      "name": "Pecol"
     },
     {
-      "name": "Pellerd",
-      "id": "KEYijmHjzu4Z"
+      "id": "pellerd",
+      "name": "Pellerd"
     },
     {
-      "name": "Per",
-      "id": "xBrn9uUQ-kQ7"
+      "id": "per",
+      "name": "Per"
     },
     {
-      "name": "Perbal",
-      "id": "GDIk9dhG3Xub"
+      "id": "perbal",
+      "name": "Perbal"
     },
     {
-      "name": "Perenye",
-      "id": "C8w59P8vNij7"
+      "id": "perenye",
+      "name": "Perenye"
     },
     {
-      "name": "Peteri",
-      "id": "hgy8ApPLmdNX"
+      "id": "peteri",
+      "name": "Peteri"
     },
     {
-      "name": "Petfuerdo",
-      "id": "Hn6EKXClmGeM"
+      "id": "petfuerdo",
+      "name": "Petfuerdo"
     },
     {
-      "name": "Petofibanya",
-      "id": "o-Rl3bxg50p2"
+      "id": "petofibanya",
+      "name": "Petofibanya"
     },
     {
-      "name": "Petohaza",
-      "id": "QsH0mRa2pDXf"
+      "id": "petohaza",
+      "name": "Petohaza"
     },
     {
-      "name": "Pilis",
-      "id": "2AU8m1jC86Mp"
+      "id": "pilis",
+      "name": "Pilis"
     },
     {
-      "name": "Piliscsaba",
-      "id": "JTe-JCgNX5bp"
+      "id": "piliscsaba",
+      "name": "Piliscsaba"
     },
     {
-      "name": "Pilismarot",
-      "id": "Q6oqsRPYZVaY"
+      "id": "pilismarot",
+      "name": "Pilismarot"
     },
     {
-      "name": "Pilisszanto",
-      "id": "KWSlfUUGErId"
+      "id": "pilisszanto",
+      "name": "Pilisszanto"
     },
     {
-      "name": "Pilisszentivan",
-      "id": "bFPe2RGMvPzr"
+      "id": "pilisszentivan",
+      "name": "Pilisszentivan"
     },
     {
-      "name": "Pilisszentkereszt",
-      "id": "R7zFElvUhT7K"
+      "id": "pilisszentkereszt",
+      "name": "Pilisszentkereszt"
     },
     {
-      "name": "Pilisvorosvar",
-      "id": "QG99tVp5RHtf"
+      "id": "pilisvorosvar",
+      "name": "Pilisvorosvar"
     },
     {
-      "name": "Polgar",
-      "id": "mdy2E1i2DXI_"
+      "id": "polgar",
+      "name": "Polgar"
     },
     {
-      "name": "Polgardi",
-      "id": "YjDpaNkdk0d4"
+      "id": "polgardi",
+      "name": "Polgardi"
     },
     {
-      "name": "Pomaz",
-      "id": "58AhKo5I1tKM"
+      "id": "pomaz",
+      "name": "Pomaz"
     },
     {
-      "name": "Posfa",
-      "id": "jqys6y-9_H3I"
+      "id": "posfa",
+      "name": "Posfa"
     },
     {
-      "name": "Puspokladany",
-      "id": "iXYabFVTgvo8"
+      "id": "puspokladany",
+      "name": "Puspokladany"
     },
     {
-      "name": "Pusztaszabolcs",
-      "id": "xlq7SKxYJQSn"
+      "id": "pusztaszabolcs",
+      "name": "Pusztaszabolcs"
     },
     {
-      "name": "Pusztaszemes",
-      "id": "g7zE3t_bNUAq"
+      "id": "pusztaszemes",
+      "name": "Pusztaszemes"
     },
     {
-      "name": "Pusztavacs",
-      "id": "fV2uRjUx6wOC"
+      "id": "pusztavacs",
+      "name": "Pusztavacs"
     },
     {
-      "name": "Pusztavam",
-      "id": "IgBqvvjQW5u7"
+      "id": "pusztavam",
+      "name": "Pusztavam"
     },
     {
-      "name": "Pusztazamor",
-      "id": "VwsjVNPKY1uo"
+      "id": "pusztazamor",
+      "name": "Pusztazamor"
     },
     {
-      "name": "Rabapatona",
-      "id": "vs9HOgUY2j12"
+      "id": "rabapatona",
+      "name": "Rabapatona"
     },
     {
-      "name": "Rabapaty",
-      "id": "uzBiJV-tjuv4"
+      "id": "rabapaty",
+      "name": "Rabapaty"
     },
     {
-      "name": "Racalmas",
-      "id": "0SOB0RxpypY3"
+      "id": "racalmas",
+      "name": "Racalmas"
     },
     {
-      "name": "Rackeresztur",
-      "id": "e31LFmOAB41y"
+      "id": "rackeresztur",
+      "name": "Rackeresztur"
     },
     {
-      "name": "Rackeve",
-      "id": "dzFEPtD5zrrI"
+      "id": "rackeve",
+      "name": "Rackeve"
     },
     {
-      "name": "Rad",
-      "id": "G7iW6_Gk4Efi"
+      "id": "rad",
+      "name": "Rad"
     },
     {
-      "name": "Rajka",
-      "id": "MqsR2TGG9Fi0"
+      "id": "rajka",
+      "name": "Rajka"
     },
     {
-      "name": "Rakoczifalva",
-      "id": "-TJNrigXlPKx"
+      "id": "rakoczifalva",
+      "name": "Rakoczifalva"
     },
     {
-      "name": "Rakocziujfalu",
-      "id": "T98o8z2SIirY"
+      "id": "rakocziujfalu",
+      "name": "Rakocziujfalu"
     },
     {
-      "name": "Repcelak",
-      "id": "_2GRmAKb7BAA"
+      "id": "repcelak",
+      "name": "Repcelak"
     },
     {
-      "name": "Repceszemere",
-      "id": "yb9ge2njibgj"
+      "id": "repceszemere",
+      "name": "Repceszemere"
     },
     {
-      "name": "Retsag",
-      "id": "E2ClAidATjYH"
+      "id": "retsag",
+      "name": "Retsag"
     },
     {
-      "name": "Revfueloep",
-      "id": "l2ceeASRndDi"
+      "id": "revfueloep",
+      "name": "Revfueloep"
     },
     {
-      "name": "Rimoc",
-      "id": "egAdtknTLfZy"
+      "id": "rimoc",
+      "name": "Rimoc"
     },
     {
-      "name": "Roszke",
-      "id": "Bj9ZzUzlsRa6"
+      "id": "roszke",
+      "name": "Roszke"
     },
     {
-      "name": "Rudabanya",
-      "id": "6ubRDdhkl3yo"
+      "id": "rudabanya",
+      "name": "Rudabanya"
     },
     {
-      "name": "Sajokapolna",
-      "id": "za4SkiSlgjpi"
+      "id": "sajokapolna",
+      "name": "Sajokapolna"
     },
     {
-      "name": "Sajokeresztur",
-      "id": "uKH5kxrLyXlx"
+      "id": "sajokeresztur",
+      "name": "Sajokeresztur"
     },
     {
-      "name": "Sajooeroes",
-      "id": "LrirQdiZ-TZO"
+      "id": "sajooeroes",
+      "name": "Sajooeroes"
     },
     {
-      "name": "Sajopalfala",
-      "id": "AuSXmblceJy4"
+      "id": "sajopalfala",
+      "name": "Sajopalfala"
     },
     {
-      "name": "Sajoszentpeter",
-      "id": "kOhjkMA7vNAr"
+      "id": "sajoszentpeter",
+      "name": "Sajoszentpeter"
     },
     {
-      "name": "Sajovamos",
-      "id": "ZDiJafxrq9iR"
+      "id": "sajovamos",
+      "name": "Sajovamos"
     },
     {
-      "name": "Salfold",
-      "id": "AIeYDk3f5MPr"
+      "id": "salfold",
+      "name": "Salfold"
     },
     {
-      "name": "Salgotarjan",
-      "id": "UZAX7o-JVdSQ"
+      "id": "salgotarjan",
+      "name": "Salgotarjan"
     },
     {
-      "name": "Sandorfalva",
-      "id": "S6dRi-VxeabF"
+      "id": "sandorfalva",
+      "name": "Sandorfalva"
     },
     {
-      "name": "Sarbogard",
-      "id": "IPXGc5pGfIZl"
+      "id": "sarbogard",
+      "name": "Sarbogard"
     },
     {
-      "name": "Sarisap",
-      "id": "G16f0ffClkEJ"
+      "id": "sarisap",
+      "name": "Sarisap"
     },
     {
-      "name": "Sarkad",
-      "id": "EeYgc6YIW74G"
+      "id": "sarkad",
+      "name": "Sarkad"
     },
     {
-      "name": "Sarmellek",
-      "id": "ym56PlgDfaJm"
+      "id": "sarmellek",
+      "name": "Sarmellek"
     },
     {
-      "name": "Sarosd",
-      "id": "D0tD-IHiELJ4"
+      "id": "sarosd",
+      "name": "Sarosd"
     },
     {
-      "name": "Sarospatak",
-      "id": "0c--ftpQWTft"
+      "id": "sarospatak",
+      "name": "Sarospatak"
     },
     {
-      "name": "Sarpentele",
-      "id": "0xesc_-3VEUM"
+      "id": "sarpentele",
+      "name": "Sarpentele"
     },
     {
-      "name": "Sarpilis",
-      "id": "UsyTWmngXDYU"
+      "id": "sarpilis",
+      "name": "Sarpilis"
     },
     {
-      "name": "Sarszentagota",
-      "id": "uI7AG7Nae4Cg"
+      "id": "sarszentagota",
+      "name": "Sarszentagota"
     },
     {
-      "name": "Sarszentlorinc",
-      "id": "QNXTXRM3gv7N"
+      "id": "sarszentlorinc",
+      "name": "Sarszentlorinc"
     },
     {
-      "name": "Sarszentmihaly",
-      "id": "WKmptLTQmpil"
+      "id": "sarszentmihaly",
+      "name": "Sarszentmihaly"
     },
     {
-      "name": "Sarvar",
-      "id": "LS65Q5NHk4ti"
+      "id": "sarvar",
+      "name": "Sarvar"
     },
     {
-      "name": "Sasd",
-      "id": "nDrne5vbP7az"
+      "id": "sasd",
+      "name": "Sasd"
     },
     {
-      "name": "Saska",
-      "id": "HjSDsfUww_rB"
+      "id": "saska",
+      "name": "Saska"
     },
     {
-      "name": "Se",
-      "id": "fcPlw1Ga7SZ_"
+      "id": "se",
+      "name": "Se"
     },
     {
-      "name": "Selyeb",
-      "id": "UvTZwZpxp8O9"
+      "id": "selyeb",
+      "name": "Selyeb"
     },
     {
-      "name": "Senyo",
-      "id": "-7PVZdz7PjTM"
+      "id": "senyo",
+      "name": "Senyo"
     },
     {
-      "name": "Seregelyes",
-      "id": "gjzFwrFKjf_T"
+      "id": "seregelyes",
+      "name": "Seregelyes"
     },
     {
-      "name": "Siklos",
-      "id": "58RGMSfzAq9E"
+      "id": "siklos",
+      "name": "Siklos"
     },
     {
-      "name": "Simontornya",
-      "id": "PqB-m9mesxE5"
+      "id": "simontornya",
+      "name": "Simontornya"
     },
     {
-      "name": "Sirok",
-      "id": "vmndLJz5kzc_"
+      "id": "sirok",
+      "name": "Sirok"
     },
     {
-      "name": "Solt",
-      "id": "4SRMxRPkPRe3"
+      "id": "solt",
+      "name": "Solt"
     },
     {
-      "name": "Soltszentimre",
-      "id": "Ohp-gUPZxfcz"
+      "id": "soltszentimre",
+      "name": "Soltszentimre"
     },
     {
-      "name": "Solymar",
-      "id": "tns1VzneFHZ8"
+      "id": "solymar",
+      "name": "Solymar"
     },
     {
-      "name": "Somogysard",
-      "id": "gsiceaVQwnhw"
+      "id": "somogysard",
+      "name": "Somogysard"
     },
     {
-      "name": "Somogyudvarhely",
-      "id": "qsOfg2XyOuTT"
+      "id": "somogyudvarhely",
+      "name": "Somogyudvarhely"
     },
     {
-      "name": "Sopron",
-      "id": "Qgc8_1-LNWH1"
+      "id": "sopron",
+      "name": "Sopron"
     },
     {
-      "name": "Sopronkovesd",
-      "id": "YwcjucVh4ht6"
+      "id": "sopronkovesd",
+      "name": "Sopronkovesd"
     },
     {
-      "name": "Sored",
-      "id": "gaiD3HNW__on"
+      "id": "sored",
+      "name": "Sored"
     },
     {
-      "name": "Soskut",
-      "id": "an7fOfptVOTr"
+      "id": "soskut",
+      "name": "Soskut"
     },
     {
-      "name": "Suelysap",
-      "id": "jVuCQ-HaY1gx"
+      "id": "suelysap",
+      "name": "Suelysap"
     },
     {
-      "name": "Sukoro",
-      "id": "bamZrptkTT8A"
+      "id": "sukoro",
+      "name": "Sukoro"
     },
     {
-      "name": "Sumeg",
-      "id": "evwj6CDCadgd"
+      "id": "sumeg",
+      "name": "Sumeg"
     },
     {
-      "name": "Szabadbattyan",
-      "id": "loPIHI15HmVu"
+      "id": "szabadbattyan",
+      "name": "Szabadbattyan"
     },
     {
-      "name": "Szabadszallas",
-      "id": "x-SV6kxJJkE0"
+      "id": "szabadszallas",
+      "name": "Szabadszallas"
     },
     {
-      "name": "Szabadszentkiraly",
-      "id": "8j12My9nwP25"
+      "id": "szabadszentkiraly",
+      "name": "Szabadszentkiraly"
     },
     {
-      "name": "Szabolcs",
-      "id": "jxyHduWvFAsR"
+      "id": "szabolcs",
+      "name": "Szabolcs"
     },
     {
-      "name": "Szabolcsveresmart",
-      "id": "lW4fX_zwqB9S"
+      "id": "szabolcsveresmart",
+      "name": "Szabolcsveresmart"
     },
     {
-      "name": "Szajk",
-      "id": "hmBdIp4yoZPj"
+      "id": "szajk",
+      "name": "Szajk"
     },
     {
-      "name": "Szajol",
-      "id": "oq35yVz10lh4"
+      "id": "szajol",
+      "name": "Szajol"
     },
     {
-      "name": "Szalaszend",
-      "id": "X9e_GXBsjYr3"
+      "id": "szalaszend",
+      "name": "Szalaszend"
     },
     {
-      "name": "Szany",
-      "id": "gEg-rYijV_Y8"
+      "id": "szany",
+      "name": "Szany"
     },
     {
-      "name": "Szar",
-      "id": "Vt97UymtFtXt"
+      "id": "szar",
+      "name": "Szar"
     },
     {
-      "name": "Szarvas",
-      "id": "smEsO0TF5guG"
+      "id": "szarvas",
+      "name": "Szarvas"
     },
     {
-      "name": "Szazhalombatta",
-      "id": "YPFfQ3ra9uON"
+      "id": "szazhalombatta",
+      "name": "Szazhalombatta"
     },
     {
-      "name": "Szecseny",
-      "id": "NFqB0Waj3Xif"
+      "id": "szecseny",
+      "name": "Szecseny"
     },
     {
-      "name": "Szecsenyfelfalu",
-      "id": "eEDEqoTQIxjg"
+      "id": "szecsenyfelfalu",
+      "name": "Szecsenyfelfalu"
     },
     {
-      "name": "Szeged",
-      "id": "d0VF6XOiRKw3"
+      "id": "szeged",
+      "name": "Szeged"
     },
     {
-      "name": "Szeghalom",
-      "id": "aNOalcLDRFcw"
+      "id": "szeghalom",
+      "name": "Szeghalom"
     },
     {
-      "name": "Szegvar",
-      "id": "B2A68vsBmrGz"
+      "id": "szegvar",
+      "name": "Szegvar"
     },
     {
-      "name": "Szemely",
-      "id": "Xyej6-6hpoE2"
+      "id": "szemely",
+      "name": "Szemely"
     },
     {
-      "name": "Szendehely",
-      "id": "9cAogeRpXigq"
+      "id": "szendehely",
+      "name": "Szendehely"
     },
     {
-      "name": "Szentendre",
-      "id": "svRDaptFBnht"
+      "id": "szentendre",
+      "name": "Szentendre"
     },
     {
-      "name": "Szentes",
-      "id": "j2ca9p0Esd_a"
+      "id": "szentes",
+      "name": "Szentes"
     },
     {
-      "name": "Szentgotthard",
-      "id": "IJ-KG3ydQdUe"
+      "id": "szentgotthard",
+      "name": "Szentgotthard"
     },
     {
-      "name": "Szentistvan",
-      "id": "YzHumZ4e8G3R"
+      "id": "szentistvan",
+      "name": "Szentistvan"
     },
     {
-      "name": "Szentkatalin",
-      "id": "7XGSE35Qb1Va"
+      "id": "szentkatalin",
+      "name": "Szentkatalin"
     },
     {
-      "name": "Szentkiralyszabadja",
-      "id": "ja51WAPYx5V8"
+      "id": "szentkiralyszabadja",
+      "name": "Szentkiralyszabadja"
     },
     {
-      "name": "Szentlorinc",
-      "id": "zQpfcSlx12lX"
+      "id": "szentlorinc",
+      "name": "Szentlorinc"
     },
     {
-      "name": "Szentmartonkata",
-      "id": "A0Gu1jDiMP0Q"
+      "id": "szentmartonkata",
+      "name": "Szentmartonkata"
     },
     {
-      "name": "Szepetnek",
-      "id": "pstv5_dm_D5_"
+      "id": "szepetnek",
+      "name": "Szepetnek"
     },
     {
-      "name": "Szeremle",
-      "id": "fc2yEp_d2zYm"
+      "id": "szeremle",
+      "name": "Szeremle"
     },
     {
-      "name": "Szerencs",
-      "id": "GeZR4QUMVToU"
+      "id": "szerencs",
+      "name": "Szerencs"
     },
     {
-      "name": "Szigetcsep",
-      "id": "G6gwHq4DHgq8"
+      "id": "szigetcsep",
+      "name": "Szigetcsep"
     },
     {
-      "name": "Szigethalom",
-      "id": "L6ZSo0_8XweJ"
+      "id": "szigethalom",
+      "name": "Szigethalom"
     },
     {
-      "name": "Szigetszentmarton",
-      "id": "mTJ_ZrjZsd4m"
+      "id": "szigetszentmarton",
+      "name": "Szigetszentmarton"
     },
     {
-      "name": "Szigetszentmiklos",
-      "id": "bGJ-5oMdv2Aj"
+      "id": "szigetszentmiklos",
+      "name": "Szigetszentmiklos"
     },
     {
-      "name": "Szigetvar",
-      "id": "wlt5c_8twJ_v"
+      "id": "szigetvar",
+      "name": "Szigetvar"
     },
     {
-      "name": "Szigliget",
-      "id": "KlllUnHEQWoU"
+      "id": "szigliget",
+      "name": "Szigliget"
     },
     {
-      "name": "Szikszo",
-      "id": "S0IgysEB6onA"
+      "id": "szikszo",
+      "name": "Szikszo"
     },
     {
-      "name": "Szilsarkany",
-      "id": "886RBP_lBA2_"
+      "id": "szilsarkany",
+      "name": "Szilsarkany"
     },
     {
-      "name": "Szirmabesenyo",
-      "id": "AqRMUcmYj1Ll"
+      "id": "szirmabesenyo",
+      "name": "Szirmabesenyo"
     },
     {
-      "name": "Szod",
-      "id": "-4R8aDQ_crq6"
+      "id": "szod",
+      "name": "Szod"
     },
     {
-      "name": "Szodliget",
-      "id": "jsrrIemENmN6"
+      "id": "szodliget",
+      "name": "Szodliget"
     },
     {
-      "name": "Szogliget",
-      "id": "WD1cDr7aHnY3"
+      "id": "szogliget",
+      "name": "Szogliget"
     },
     {
-      "name": "Szokolya",
-      "id": "Zh1FWkXre40w"
+      "id": "szokolya",
+      "name": "Szokolya"
     },
     {
-      "name": "Szolnok",
-      "id": "1YkrDx7M6Vhs"
+      "id": "szolnok",
+      "name": "Szolnok"
     },
     {
-      "name": "Szombathely",
-      "id": "H_ZizScJHwy4"
+      "id": "szombathely",
+      "name": "Szombathely"
     },
     {
-      "name": "Szomod",
-      "id": "bTH5YTHFW1Vs"
+      "id": "szomod",
+      "name": "Szomod"
     },
     {
-      "name": "Szomor",
-      "id": "gefLKb3xSQs2"
+      "id": "szomor",
+      "name": "Szomor"
     },
     {
-      "name": "Szuhakallo",
-      "id": "QmIEopZFT26R"
+      "id": "szuhakallo",
+      "name": "Szuhakallo"
     },
     {
-      "name": "Tab",
-      "id": "Q-zotwxpLFIr"
+      "id": "tab",
+      "name": "Tab"
     },
     {
-      "name": "Tabajd",
-      "id": "SzId5F5LLdbk"
+      "id": "tabajd",
+      "name": "Tabajd"
     },
     {
-      "name": "Taborfalva",
-      "id": "0QO4xqh_7KzB"
+      "id": "taborfalva",
+      "name": "Taborfalva"
     },
     {
-      "name": "Taksony",
-      "id": "7Q78YbIudiJC"
+      "id": "taksony",
+      "name": "Taksony"
     },
     {
-      "name": "Taktaszada",
-      "id": "tpG_rwQb8gQ1"
+      "id": "taktaszada",
+      "name": "Taktaszada"
     },
     {
-      "name": "Tamasi",
-      "id": "6Y-53WA-UbLn"
+      "id": "tamasi",
+      "name": "Tamasi"
     },
     {
-      "name": "Tapiobicske",
-      "id": "DxChGWxCoyT5"
+      "id": "tapiobicske",
+      "name": "Tapiobicske"
     },
     {
-      "name": "Tapiogyorgye",
-      "id": "ZE2tIdY3Ktpm"
+      "id": "tapiogyorgye",
+      "name": "Tapiogyorgye"
     },
     {
-      "name": "Tapiosag",
-      "id": "ZqJgzPvKZG0F"
+      "id": "tapiosag",
+      "name": "Tapiosag"
     },
     {
-      "name": "Tapioszecso",
-      "id": "IEnbLBebk_Qf"
+      "id": "tapioszecso",
+      "name": "Tapioszecso"
     },
     {
-      "name": "Tapioszele",
-      "id": "NMPUdaYhulNR"
+      "id": "tapioszele",
+      "name": "Tapioszele"
     },
     {
-      "name": "Taplanszentkereszt",
-      "id": "agIdS53XXZKd"
+      "id": "taplanszentkereszt",
+      "name": "Taplanszentkereszt"
     },
     {
-      "name": "Tapolca",
-      "id": "HfJCcedHToVs"
+      "id": "tapolca",
+      "name": "Tapolca"
     },
     {
-      "name": "Tar",
-      "id": "ktfok1lkTOJA"
+      "id": "tar",
+      "name": "Tar"
     },
     {
-      "name": "Tarcal",
-      "id": "hi66g-sO0a5t"
+      "id": "tarcal",
+      "name": "Tarcal"
     },
     {
-      "name": "Tarjan",
-      "id": "29UfB5gBH30O"
+      "id": "tarjan",
+      "name": "Tarjan"
     },
     {
-      "name": "Tarnok",
-      "id": "aYVLVVSYOIDJ"
+      "id": "tarnok",
+      "name": "Tarnok"
     },
     {
-      "name": "Tarpa",
-      "id": "IuKXzD9GezVD"
+      "id": "tarpa",
+      "name": "Tarpa"
     },
     {
-      "name": "Tass",
-      "id": "nfgsSslokS_6"
+      "id": "tass",
+      "name": "Tass"
     },
     {
-      "name": "Taszar",
-      "id": "6xyvVhG_CyBh"
+      "id": "taszar",
+      "name": "Taszar"
     },
     {
-      "name": "Tat",
-      "id": "_mtKPoHp7LtZ"
+      "id": "tat",
+      "name": "Tat"
     },
     {
-      "name": "Tata",
-      "id": "DXXEwBbhsQKk"
+      "id": "tata",
+      "name": "Tata"
     },
     {
-      "name": "Teglas",
-      "id": "2xqxys9PpCwX"
+      "id": "teglas",
+      "name": "Teglas"
     },
     {
-      "name": "Telekes",
-      "id": "bHfqaVjFw3Gk"
+      "id": "telekes",
+      "name": "Telekes"
     },
     {
-      "name": "Telep",
-      "id": "lI9yhUkmvmm5"
+      "id": "telep",
+      "name": "Telep"
     },
     {
-      "name": "Telki",
-      "id": "3V3xJjVZLh79"
+      "id": "telki",
+      "name": "Telki"
     },
     {
-      "name": "Tepe",
-      "id": "l254zbLfx3_o"
+      "id": "tepe",
+      "name": "Tepe"
     },
     {
-      "name": "Terem",
-      "id": "xBc50IVDCg4S"
+      "id": "terem",
+      "name": "Terem"
     },
     {
-      "name": "Tet",
-      "id": "q51IU_sEbRHk"
+      "id": "tet",
+      "name": "Tet"
     },
     {
-      "name": "Tetetlen",
-      "id": "m_Fc7ljLw8cd"
+      "id": "tetetlen",
+      "name": "Tetetlen"
     },
     {
-      "name": "Tevel",
-      "id": "6ZtdmUrkSzOy"
+      "id": "tevel",
+      "name": "Tevel"
     },
     {
-      "name": "Tinnye",
-      "id": "dR-IDqrZwqaK"
+      "id": "tinnye",
+      "name": "Tinnye"
     },
     {
-      "name": "Tiszaadony",
-      "id": "kGXgFm11D3SF"
+      "id": "tiszaadony",
+      "name": "Tiszaadony"
     },
     {
-      "name": "Tiszabo",
-      "id": "2wdkR5ZOu369"
+      "id": "tiszabo",
+      "name": "Tiszabo"
     },
     {
-      "name": "Tiszacsege",
-      "id": "PeeTKuVgVyCG"
+      "id": "tiszacsege",
+      "name": "Tiszacsege"
     },
     {
-      "name": "Tiszafoldvar",
-      "id": "USmqsbgYzvzB"
+      "id": "tiszafoldvar",
+      "name": "Tiszafoldvar"
     },
     {
-      "name": "Tiszafured",
-      "id": "ACeeU50XeOYS"
+      "id": "tiszafured",
+      "name": "Tiszafured"
     },
     {
-      "name": "Tiszalok",
-      "id": "8our3n6Kegcr"
+      "id": "tiszalok",
+      "name": "Tiszalok"
     },
     {
-      "name": "Tiszaluc",
-      "id": "xPjz4SgyjWiA"
+      "id": "tiszaluc",
+      "name": "Tiszaluc"
     },
     {
-      "name": "Tiszapalkonya",
-      "id": "z2oL9gMsUEwH"
+      "id": "tiszapalkonya",
+      "name": "Tiszapalkonya"
     },
     {
-      "name": "Tiszaszalka",
-      "id": "iYGAnqH6Gxr8"
+      "id": "tiszaszalka",
+      "name": "Tiszaszalka"
     },
     {
-      "name": "Tiszaujvaros",
-      "id": "kGGK79mIIrJR"
+      "id": "tiszaujvaros",
+      "name": "Tiszaujvaros"
     },
     {
-      "name": "Tiszavalk",
-      "id": "u8H_Qg1oAcZu"
+      "id": "tiszavalk",
+      "name": "Tiszavalk"
     },
     {
-      "name": "Tiszavasvari",
-      "id": "kYrHsSnJlAYa"
+      "id": "tiszavasvari",
+      "name": "Tiszavasvari"
     },
     {
-      "name": "Toekoel",
-      "id": "xBaOzG6yCYdt"
+      "id": "toekoel",
+      "name": "Toekoel"
     },
     {
-      "name": "Toeroekbalint",
-      "id": "C2_R7MHjObVz"
+      "id": "toeroekbalint",
+      "name": "Toeroekbalint"
     },
     {
-      "name": "Tokodaltaro",
-      "id": "z_cLmQVWHGN2"
+      "id": "tokodaltaro",
+      "name": "Tokodaltaro"
     },
     {
-      "name": "Tolna",
-      "id": "QfIe4bgqtFKY"
+      "id": "tolna",
+      "name": "Tolna"
     },
     {
-      "name": "Tomorkeny",
-      "id": "oXm3R3jJ_um0"
+      "id": "tomorkeny",
+      "name": "Tomorkeny"
     },
     {
-      "name": "Tompa",
-      "id": "r87q0kU4vXDR"
+      "id": "tompa",
+      "name": "Tompa"
     },
     {
-      "name": "Tordas",
-      "id": "qOPqPUUkPtO0"
+      "id": "tordas",
+      "name": "Tordas"
     },
     {
-      "name": "Torokszentmiklos",
-      "id": "nCpByFiqt5n7"
+      "id": "torokszentmiklos",
+      "name": "Torokszentmiklos"
     },
     {
-      "name": "Torony",
-      "id": "aQ057MS_Pq-3"
+      "id": "torony",
+      "name": "Torony"
     },
     {
-      "name": "Toszeg",
-      "id": "e4fVDQprapBv"
+      "id": "toszeg",
+      "name": "Toszeg"
     },
     {
-      "name": "Totkomlos",
-      "id": "yxFm4TWu4dBo"
+      "id": "totkomlos",
+      "name": "Totkomlos"
     },
     {
-      "name": "Totszerdahely",
-      "id": "PHcZLJY5BfBC"
+      "id": "totszerdahely",
+      "name": "Totszerdahely"
     },
     {
-      "name": "Tura",
-      "id": "iN31m-Ymktem"
+      "id": "tura",
+      "name": "Tura"
     },
     {
-      "name": "Turkeve",
-      "id": "elNmCrMxRkKH"
+      "id": "turkeve",
+      "name": "Turkeve"
     },
     {
-      "name": "Ujfeherto",
-      "id": "xMd0RL64m30A"
+      "id": "ujfeherto",
+      "name": "Ujfeherto"
     },
     {
-      "name": "Ujkenez",
-      "id": "49cJXQFLbK9A"
+      "id": "ujkenez",
+      "name": "Ujkenez"
     },
     {
-      "name": "Ujkigyos",
-      "id": "glTT2xLjFe3y"
+      "id": "ujkigyos",
+      "name": "Ujkigyos"
     },
     {
-      "name": "Ujlengyel",
-      "id": "F_Ww5jGe0KxI"
+      "id": "ujlengyel",
+      "name": "Ujlengyel"
     },
     {
-      "name": "Ujszasz",
-      "id": "zW6OMf7N1M3i"
+      "id": "ujszasz",
+      "name": "Ujszasz"
     },
     {
-      "name": "Ujszentmargita",
-      "id": "ZFAFfz-AB0_b"
+      "id": "ujszentmargita",
+      "name": "Ujszentmargita"
     },
     {
-      "name": "Ujszilvas",
-      "id": "Q6zBLOKsYzym"
+      "id": "ujszilvas",
+      "name": "Ujszilvas"
     },
     {
-      "name": "Ujudvar",
-      "id": "6FIUq49ejKNd"
+      "id": "ujudvar",
+      "name": "Ujudvar"
     },
     {
-      "name": "Ullo",
-      "id": "bwR8StBfjVN7"
+      "id": "ullo",
+      "name": "Ullo"
     },
     {
-      "name": "Uraiujfalu",
-      "id": "0NVJ0yLPJOFT"
+      "id": "uraiujfalu",
+      "name": "Uraiujfalu"
     },
     {
-      "name": "Uri",
-      "id": "10YTbBaZUvPS"
+      "id": "uri",
+      "name": "Uri"
     },
     {
-      "name": "Urom",
-      "id": "AgkJwg_Z2Oed"
+      "id": "urom",
+      "name": "Urom"
     },
     {
-      "name": "Vacduka",
-      "id": "kBqrIYMp0Tdu"
+      "id": "vacduka",
+      "name": "Vacduka"
     },
     {
-      "name": "Vacratot",
-      "id": "WSL28Wn9JVZG"
+      "id": "vacratot",
+      "name": "Vacratot"
     },
     {
-      "name": "Vacszentlaszlo",
-      "id": "v_CvBExpXbH3"
+      "id": "vacszentlaszlo",
+      "name": "Vacszentlaszlo"
     },
     {
-      "name": "Vadna",
-      "id": "_oRKOamTl0U2"
+      "id": "vadna",
+      "name": "Vadna"
     },
     {
-      "name": "Vaja",
-      "id": "9kWtfnqf_8wW"
+      "id": "vaja",
+      "name": "Vaja"
     },
     {
-      "name": "Vajszlo",
-      "id": "qvhJW9eCkCNT"
+      "id": "vajszlo",
+      "name": "Vajszlo"
     },
     {
-      "name": "Valko",
-      "id": "XNP-TBuMc8GP"
+      "id": "valko",
+      "name": "Valko"
     },
     {
-      "name": "Valkonya",
-      "id": "kBvIB7RNx9J8"
+      "id": "valkonya",
+      "name": "Valkonya"
     },
     {
-      "name": "Vamospercs",
-      "id": "IxR2S53QKbNn"
+      "id": "vamospercs",
+      "name": "Vamospercs"
     },
     {
-      "name": "Vamosszabadi",
-      "id": "5NZ7wNBaEWMn"
+      "id": "vamosszabadi",
+      "name": "Vamosszabadi"
     },
     {
-      "name": "Varalja",
-      "id": "3CyCzq_EZPDJ"
+      "id": "varalja",
+      "name": "Varalja"
     },
     {
-      "name": "Varbalog",
-      "id": "b9cVhQRF7Ywt"
+      "id": "varbalog",
+      "name": "Varbalog"
     },
     {
-      "name": "Varbo",
-      "id": "G1rGagC3Ms0V"
+      "id": "varbo",
+      "name": "Varbo"
     },
     {
-      "name": "Vardomb",
-      "id": "1ZSzuZpt3EJO"
+      "id": "vardomb",
+      "name": "Vardomb"
     },
     {
-      "name": "Varosfoeld",
-      "id": "LRZ-Ukifsg9-"
+      "id": "varosfoeld",
+      "name": "Varosfoeld"
     },
     {
-      "name": "Varpalota",
-      "id": "jmh1VIODXVO9"
+      "id": "varpalota",
+      "name": "Varpalota"
     },
     {
-      "name": "Vasarosdombo",
-      "id": "k5qwrs7bqiJk"
+      "id": "vasarosdombo",
+      "name": "Vasarosdombo"
     },
     {
-      "name": "Vasvar",
-      "id": "0aWOXDYN8XE3"
+      "id": "vasvar",
+      "name": "Vasvar"
     },
     {
-      "name": "Vecses",
-      "id": "wn26k3DqKqku"
+      "id": "vecses",
+      "name": "Vecses"
     },
     {
-      "name": "Vegegyhaza",
-      "id": "E_KjC6xYWLQe"
+      "id": "vegegyhaza",
+      "name": "Vegegyhaza"
     },
     {
-      "name": "Velence",
-      "id": "ZKsDcZEBA_yO"
+      "id": "velence",
+      "name": "Velence"
     },
     {
-      "name": "Vep",
-      "id": "RcS2mY0esPp9"
+      "id": "vep",
+      "name": "Vep"
     },
     {
-      "name": "Veresegyhaz",
-      "id": "Y4ITXvGruok-"
+      "id": "veresegyhaz",
+      "name": "Veresegyhaz"
     },
     {
-      "name": "Veroce",
-      "id": "2bqrktmHxzTY"
+      "id": "veroce",
+      "name": "Veroce"
     },
     {
-      "name": "Verseg",
-      "id": "Q2VrcNEECCl0"
+      "id": "verseg",
+      "name": "Verseg"
     },
     {
-      "name": "Vertessomlo",
-      "id": "OvUKw9jqQJfp"
+      "id": "vertessomlo",
+      "name": "Vertessomlo"
     },
     {
-      "name": "Vertesszolos",
-      "id": "s6THbWBj-goB"
+      "id": "vertesszolos",
+      "name": "Vertesszolos"
     },
     {
-      "name": "Vertestolna",
-      "id": "vxqLfeFQVRsD"
+      "id": "vertestolna",
+      "name": "Vertestolna"
     },
     {
-      "name": "Vezseny",
-      "id": "cPhwFEA9UNPD"
+      "id": "vezseny",
+      "name": "Vezseny"
     },
     {
-      "name": "Visznek",
-      "id": "oWIu96Hz4b7H"
+      "id": "visznek",
+      "name": "Visznek"
     },
     {
-      "name": "Vitnyed",
-      "id": "g6-sp4GryRME"
+      "id": "vitnyed",
+      "name": "Vitnyed"
     },
     {
-      "name": "Vizslas",
-      "id": "BvqzT-YWJjcA"
+      "id": "vizslas",
+      "name": "Vizslas"
     },
     {
-      "name": "Zagyvaszanto",
-      "id": "nXDU7kpXVTDi"
+      "id": "zagyvaszanto",
+      "name": "Zagyvaszanto"
     },
     {
-      "name": "Zahony",
-      "id": "FQOsFUuAf289"
+      "id": "zahony",
+      "name": "Zahony"
     },
     {
-      "name": "Zalaegerszeg",
-      "id": "mCMNrvSrx7li"
+      "id": "zalaegerszeg",
+      "name": "Zalaegerszeg"
     },
     {
-      "name": "Zalakomar",
-      "id": "jTPosFVnA29F"
+      "id": "zalakomar",
+      "name": "Zalakomar"
     },
     {
-      "name": "Zalalovo",
-      "id": "sf_GqJ8GWypn"
+      "id": "zalalovo",
+      "name": "Zalalovo"
     },
     {
-      "name": "Zalaszentgrot",
-      "id": "AEd_tjxdgmlh"
+      "id": "zalaszentgrot",
+      "name": "Zalaszentgrot"
     },
     {
-      "name": "Zamoly",
-      "id": "x-HGnLuDR9r1"
+      "id": "zamoly",
+      "name": "Zamoly"
     },
     {
-      "name": "Zebecke",
-      "id": "bod0lUY-NK5O"
+      "id": "zebecke",
+      "name": "Zebecke"
     },
     {
-      "name": "Zebegeny",
-      "id": "E_pX-DMloLqE"
+      "id": "zebegeny",
+      "name": "Zebegeny"
     },
     {
-      "name": "Zichyujfalu",
-      "id": "QO8qufljSGzc"
+      "id": "zichyujfalu",
+      "name": "Zichyujfalu"
     },
     {
-      "name": "Zirc",
-      "id": "hqytCCfkIHr-"
+      "id": "zirc",
+      "name": "Zirc"
     },
     {
-      "name": "Zsambek",
-      "id": "XG-1XbkZ4LOH"
+      "id": "zsambek",
+      "name": "Zsambek"
     },
     {
-      "name": "Zsambok",
-      "id": "XVeOcQXtCQ7F"
+      "id": "zsambok",
+      "name": "Zsambok"
     },
     {
-      "name": "Zsombo",
-      "id": "sBeKtn3Ch12J"
+      "id": "zsombo",
+      "name": "Zsombo"
     }
   ]
 }

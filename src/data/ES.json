@@ -1,15 +1,45 @@
 {
   "coid": "ES",
   "cities": [
-    { "name": "Madrid", "id": "a1z2x3c4v5b6" },
-    { "name": "Barcelona", "id": "b2x3c4v5b6n7" },
-    { "name": "Valencia", "id": "c3c4v5b6n7m8" },
-    { "name": "Seville", "id": "d4v5b6n7m8l9" },
-    { "name": "Zaragoza", "id": "e5b6n7m8l9k0" },
-    { "name": "Málaga", "id": "f6n7m8l9k0j1" },
-    { "name": "Murcia", "id": "a7m8l9k0j1h2" },
-    { "name": "Palma", "id": "b8l9k0j1h2g3" },
-    { "name": "Las Palmas", "id": "c9k0j1h2g3f4" },
-    { "name": "Bilbao", "id": "d0j1h2g3f4e5" }
+    {
+      "id": "madrid",
+      "name": "Madrid"
+    },
+    {
+      "id": "barcelona",
+      "name": "Barcelona"
+    },
+    {
+      "id": "valencia",
+      "name": "Valencia"
+    },
+    {
+      "id": "seville",
+      "name": "Seville"
+    },
+    {
+      "id": "zaragoza",
+      "name": "Zaragoza"
+    },
+    {
+      "id": "malaga",
+      "name": "Málaga"
+    },
+    {
+      "id": "murcia",
+      "name": "Murcia"
+    },
+    {
+      "id": "palma",
+      "name": "Palma"
+    },
+    {
+      "id": "las-palmas",
+      "name": "Las Palmas"
+    },
+    {
+      "id": "bilbao",
+      "name": "Bilbao"
+    }
   ]
 }

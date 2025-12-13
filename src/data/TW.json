@@ -2,268 +2,268 @@
   "coid": "TW",
   "cities": [
     {
-      "name": "Budai",
-      "id": "4EdZkxH1-2Yl"
+      "id": "budai",
+      "name": "Budai"
     },
     {
-      "name": "Caogang",
-      "id": "FHhQnz267W0-"
+      "id": "caogang",
+      "name": "Caogang"
     },
     {
-      "name": "Chang-hua",
-      "id": "g723uSzKiXTN"
+      "id": "chang-hua",
+      "name": "Chang-hua"
     },
     {
-      "name": "Checheng",
-      "id": "SNC0qMMFbeA3"
+      "id": "checheng",
+      "name": "Checheng"
     },
     {
-      "name": "Chiayi",
-      "id": "rKAChJZM7HW9"
+      "id": "chiayi",
+      "name": "Chiayi"
     },
     {
-      "name": "Dahu",
-      "id": "z2rmDqZGJZ4n"
+      "id": "dahu",
+      "name": "Dahu"
     },
     {
-      "name": "Douliu",
-      "id": "6fAd2mKbugYL"
+      "id": "douliu",
+      "name": "Douliu"
     },
     {
-      "name": "Erlin",
-      "id": "qBz-ZjqOX8na"
+      "id": "erlin",
+      "name": "Erlin"
     },
     {
-      "name": "Fanlu",
-      "id": "kCEl0VaoICqv"
+      "id": "fanlu",
+      "name": "Fanlu"
     },
     {
-      "name": "Fengshan",
-      "id": "d9AUyi4qZpNi"
+      "id": "fengshan",
+      "name": "Fengshan"
     },
     {
-      "name": "Gangshan",
-      "id": "kX2TxvWpztyo"
+      "id": "gangshan",
+      "name": "Gangshan"
     },
     {
-      "name": "Gaozhongyicun",
-      "id": "yiJe98KDi5or"
+      "id": "gaozhongyicun",
+      "name": "Gaozhongyicun"
     },
     {
-      "name": "Hemei",
-      "id": "vUcEpaD5QrqW"
+      "id": "hemei",
+      "name": "Hemei"
     },
     {
-      "name": "Hengchun",
-      "id": "IztdFGnY9ODw"
+      "id": "hengchun",
+      "name": "Hengchun"
     },
     {
-      "name": "Hsinchu",
-      "id": "_774J1hdvSZ-"
+      "id": "hsinchu",
+      "name": "Hsinchu"
     },
     {
-      "name": "Hualian",
-      "id": "AijBDM48x8ZX"
+      "id": "hualian",
+      "name": "Hualian"
     },
     {
-      "name": "Jincheng",
-      "id": "j8qoC0vDjNze"
+      "id": "jincheng",
+      "name": "Jincheng"
     },
     {
-      "name": "Kao-sung",
-      "id": "gy48iCBp3dG0"
+      "id": "kao-sung",
+      "name": "Kao-sung"
     },
     {
-      "name": "Kaohsiung City",
-      "id": "Q5-i7k5I6ma_"
+      "id": "kaohsiung-city",
+      "name": "Kaohsiung City"
     },
     {
-      "name": "Keelung",
-      "id": "N8FS3HGwEOod"
+      "id": "keelung",
+      "name": "Keelung"
     },
     {
-      "name": "Linkou",
-      "id": "2ig-qzAO8tIX"
+      "id": "linkou",
+      "name": "Linkou"
     },
     {
-      "name": "Lugang",
-      "id": "Op5xMqhHs1UL"
+      "id": "lugang",
+      "name": "Lugang"
     },
     {
-      "name": "Ma-kung",
-      "id": "80J7WabZn334"
+      "id": "ma-kung",
+      "name": "Ma-kung"
     },
     {
-      "name": "Maru",
-      "id": "Mf9BvVKMqJre"
+      "id": "maru",
+      "name": "Maru"
     },
     {
-      "name": "Matsu",
-      "id": "alTLN8y0lydF"
+      "id": "matsu",
+      "name": "Matsu"
     },
     {
-      "name": "Meilun",
-      "id": "ilhP4b6uLG8Y"
+      "id": "meilun",
+      "name": "Meilun"
     },
     {
-      "name": "Miaoli",
-      "id": "iT5yABBCjiVf"
+      "id": "miaoli",
+      "name": "Miaoli"
     },
     {
-      "name": "Nanhua",
-      "id": "Bd81aj8ydGBR"
+      "id": "nanhua",
+      "name": "Nanhua"
     },
     {
-      "name": "Nankan",
-      "id": "CJ14isqSBY_X"
+      "id": "nankan",
+      "name": "Nankan"
     },
     {
-      "name": "Nantou",
-      "id": "wue9l3E2WYWC"
+      "id": "nantou",
+      "name": "Nantou"
     },
     {
-      "name": "Neihu",
-      "id": "P3GC1QNEf7Va"
+      "id": "neihu",
+      "name": "Neihu"
     },
     {
-      "name": "Pingtung",
-      "id": "HYQ7H5hO75uN"
+      "id": "pingtung",
+      "name": "Pingtung"
     },
     {
-      "name": "Pozi",
-      "id": "_F-slAV3bgRt"
+      "id": "pozi",
+      "name": "Pozi"
     },
     {
-      "name": "Puli",
-      "id": "OEyr23K7rgsr"
+      "id": "puli",
+      "name": "Puli"
     },
     {
-      "name": "Shalun",
-      "id": "7l5cHlmHkS5W"
+      "id": "shalun",
+      "name": "Shalun"
     },
     {
-      "name": "Shetou",
-      "id": "WyWan3VqOKm7"
+      "id": "shetou",
+      "name": "Shetou"
     },
     {
-      "name": "Shoufeng",
-      "id": "_h9uqAGtZOJh"
+      "id": "shoufeng",
+      "name": "Shoufeng"
     },
     {
-      "name": "Shuilin",
-      "id": "8woYNrDuYJnE"
+      "id": "shuilin",
+      "name": "Shuilin"
     },
     {
-      "name": "Shuiliu",
-      "id": "XpoKJgpnEXMy"
+      "id": "shuiliu",
+      "name": "Shuiliu"
     },
     {
-      "name": "Shuishang",
-      "id": "-jToXqx0jnIF"
+      "id": "shuishang",
+      "name": "Shuishang"
     },
     {
-      "name": "Shulin",
-      "id": "uU2cW3O6Y9Rm"
+      "id": "shulin",
+      "name": "Shulin"
     },
     {
-      "name": "Shuyi",
-      "id": "TxQJm2tFIk63"
+      "id": "shuyi",
+      "name": "Shuyi"
     },
     {
-      "name": "Suqin",
-      "id": "p-BSNq5qWmxz"
+      "id": "suqin",
+      "name": "Suqin"
     },
     {
-      "name": "Taichang",
-      "id": "klHqTJv7ylVH"
+      "id": "taichang",
+      "name": "Taichang"
     },
     {
-      "name": "Taichung",
-      "id": "wgk5TiUUsByF"
+      "id": "taichung",
+      "name": "Taichung"
     },
     {
-      "name": "Tainan",
-      "id": "JWqOb5nSasaE"
+      "id": "tainan",
+      "name": "Tainan"
     },
     {
-      "name": "Taipei",
-      "id": "hvv_O8oMXr0N"
+      "id": "taipei",
+      "name": "Taipei"
     },
     {
-      "name": "Taipingding",
-      "id": "-EVl5NnQPkfe"
+      "id": "taipingding",
+      "name": "Taipingding"
     },
     {
-      "name": "Taitung",
-      "id": "8oXXc2Km18ns"
+      "id": "taitung",
+      "name": "Taitung"
     },
     {
-      "name": "Taoyuan",
-      "id": "KWd_nF41uP5Y"
+      "id": "taoyuan",
+      "name": "Taoyuan"
     },
     {
-      "name": "Toucheng",
-      "id": "yBPpozNsqhC1"
+      "id": "toucheng",
+      "name": "Toucheng"
     },
     {
-      "name": "Tuchang",
-      "id": "4CnRimal3Tyj"
+      "id": "tuchang",
+      "name": "Tuchang"
     },
     {
-      "name": "Wan-hua",
-      "id": "povkOQE3NRKy"
+      "id": "wan-hua",
+      "name": "Wan-hua"
     },
     {
-      "name": "Wangtongwen",
-      "id": "fIceX6uA-719"
+      "id": "wangtongwen",
+      "name": "Wangtongwen"
     },
     {
-      "name": "Wanluan",
-      "id": "JxGHwk4DzrEo"
+      "id": "wanluan",
+      "name": "Wanluan"
     },
     {
-      "name": "Wutai",
-      "id": "sYvmP9SLwBzC"
+      "id": "wutai",
+      "name": "Wutai"
     },
     {
-      "name": "Xinji",
-      "id": "NlzEIfjnBmq9"
+      "id": "xinji",
+      "name": "Xinji"
     },
     {
-      "name": "Xinzhuang",
-      "id": "ouTjwKbkrRAc"
+      "id": "xinzhuang",
+      "name": "Xinzhuang"
     },
     {
-      "name": "Yangmei",
-      "id": "3RxTew-TG7Vx"
+      "id": "yangmei",
+      "name": "Yangmei"
     },
     {
-      "name": "Yanping",
-      "id": "HvoPLS3elFK6"
+      "id": "yanping",
+      "name": "Yanping"
     },
     {
-      "name": "Yilan",
-      "id": "HltBAV10Dq7k"
+      "id": "yilan",
+      "name": "Yilan"
     },
     {
-      "name": "Yuli",
-      "id": "-WQ60cDkgjtA"
+      "id": "yuli",
+      "name": "Yuli"
     },
     {
-      "name": "Yunlin County",
-      "id": "C6Oomdk7M0qK"
+      "id": "yunlin-county",
+      "name": "Yunlin County"
     },
     {
-      "name": "Zhubei",
-      "id": "Mb-FXd_R9Q-N"
+      "id": "zhubei",
+      "name": "Zhubei"
     },
     {
-      "name": "Zhunan",
-      "id": "2ilcLNP0e6PL"
+      "id": "zhunan",
+      "name": "Zhunan"
     },
     {
-      "name": "Zhuqi",
-      "id": "JYoSkibnPx15"
+      "id": "zhuqi",
+      "name": "Zhuqi"
     }
   ]
 }

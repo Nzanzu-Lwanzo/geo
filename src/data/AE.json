@@ -2,44 +2,44 @@
   "coid": "AE",
   "cities": [
     {
-      "name": "Abu Dhabi",
-      "id": "bwnSZv5cSWqW"
+      "id": "abu-dhabi",
+      "name": "Abu Dhabi"
     },
     {
-      "name": "Al Ain",
-      "id": "wQNsh4LMKUbm"
+      "id": "al-ain",
+      "name": "Al Ain"
     },
     {
-      "name": "Al Khan",
-      "id": "_KGpDXUxbEyV"
+      "id": "al-khan",
+      "name": "Al Khan"
     },
     {
-      "name": "Ar Ruways",
-      "id": "KOlKTXNWX0q5"
+      "id": "ar-ruways",
+      "name": "Ar Ruways"
     },
     {
-      "name": "As Satwah",
-      "id": "Sb8eVvy6kx-i"
+      "id": "as-satwah",
+      "name": "As Satwah"
     },
     {
-      "name": "Dayrah",
-      "id": "vFtmVqNm_TRA"
+      "id": "dayrah",
+      "name": "Dayrah"
     },
     {
-      "name": "Dubai",
-      "id": "mj_2r6gMNw6k"
+      "id": "dubai",
+      "name": "Dubai"
     },
     {
-      "name": "Fujairah",
-      "id": "BjGVY7NBuDG0"
+      "id": "fujairah",
+      "name": "Fujairah"
     },
     {
-      "name": "Ras al-Khaimah",
-      "id": "iJK0Kbx8p--_"
+      "id": "ras-al-khaimah",
+      "name": "Ras al-Khaimah"
     },
     {
-      "name": "Sharjah",
-      "id": "tkDYH8yyI3_c"
+      "id": "sharjah",
+      "name": "Sharjah"
     }
   ]
 }

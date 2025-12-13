@@ -2,1112 +2,1112 @@
   "coid": "TR",
   "cities": [
     {
-      "name": "Abdullah",
-      "id": "Q6WLwfR4i7oS"
+      "id": "abdullah",
+      "name": "Abdullah"
     },
     {
-      "name": "Acibadem",
-      "id": "Domk48M_o5Jg"
+      "id": "acibadem",
+      "name": "Acibadem"
     },
     {
-      "name": "Ada",
-      "id": "tGK4pcXAK24N"
+      "id": "ada",
+      "name": "Ada"
     },
     {
-      "name": "Adana",
-      "id": "wotGUKq7McSO"
+      "id": "adana",
+      "name": "Adana"
     },
     {
-      "name": "Adnan Menderes",
-      "id": "5x6mz5QVP14o"
+      "id": "adnan-menderes",
+      "name": "Adnan Menderes"
     },
     {
-      "name": "Afyonkarahisar",
-      "id": "pu4ebvXOiqf0"
+      "id": "afyonkarahisar",
+      "name": "Afyonkarahisar"
     },
     {
-      "name": "Akhisar",
-      "id": "rXEHWhaFuDdB"
+      "id": "akhisar",
+      "name": "Akhisar"
     },
     {
-      "name": "Aksaray",
-      "id": "z5ZztVkCV6iZ"
+      "id": "aksaray",
+      "name": "Aksaray"
     },
     {
-      "name": "Alanya",
-      "id": "bNnsiA8Exz-B"
+      "id": "alanya",
+      "name": "Alanya"
     },
     {
-      "name": "Alpaslan",
-      "id": "AQaoqFriX7N3"
+      "id": "alpaslan",
+      "name": "Alpaslan"
     },
     {
-      "name": "Amasra",
-      "id": "nvubFXZbCDdf"
+      "id": "amasra",
+      "name": "Amasra"
     },
     {
-      "name": "Amasya",
-      "id": "51dmXQDSK3b1"
+      "id": "amasya",
+      "name": "Amasya"
     },
     {
-      "name": "Andac",
-      "id": "hq7JFFyA-YCe"
+      "id": "andac",
+      "name": "Andac"
     },
     {
-      "name": "Ankara",
-      "id": "8fx6T_lOP-dH"
+      "id": "ankara",
+      "name": "Ankara"
     },
     {
-      "name": "Antakya",
-      "id": "YpNhYpK19XDA"
+      "id": "antakya",
+      "name": "Antakya"
     },
     {
-      "name": "Antalya",
-      "id": "gZO1iqB1SYO7"
+      "id": "antalya",
+      "name": "Antalya"
     },
     {
-      "name": "Ardahan",
-      "id": "8Im9-j5-YzkJ"
+      "id": "ardahan",
+      "name": "Ardahan"
     },
     {
-      "name": "Artvin",
-      "id": "cET_P675N8ys"
+      "id": "artvin",
+      "name": "Artvin"
     },
     {
-      "name": "Atakoy",
-      "id": "bs0ljR21Ev-q"
+      "id": "atakoy",
+      "name": "Atakoy"
     },
     {
-      "name": "Ataturk",
-      "id": "1dThEY1JJiOz"
+      "id": "ataturk",
+      "name": "Ataturk"
     },
     {
-      "name": "Atlas",
-      "id": "kL4H2vOpvZ-5"
+      "id": "atlas",
+      "name": "Atlas"
     },
     {
-      "name": "Ayazaga",
-      "id": "xk76_3qcZ1AB"
+      "id": "ayazaga",
+      "name": "Ayazaga"
     },
     {
-      "name": "Aydin",
-      "id": "61tbLR-s34Uh"
+      "id": "aydin",
+      "name": "Aydin"
     },
     {
-      "name": "Aydogan",
-      "id": "ourSPyourRs2"
+      "id": "aydogan",
+      "name": "Aydogan"
     },
     {
-      "name": "Aydogdu",
-      "id": "yMipMo9qgXB4"
+      "id": "aydogdu",
+      "name": "Aydogdu"
     },
     {
-      "name": "Babaeski",
-      "id": "8Am8_piDLEa9"
+      "id": "babaeski",
+      "name": "Babaeski"
     },
     {
-      "name": "Balcova",
-      "id": "QLtZhAdIhU9w"
+      "id": "balcova",
+      "name": "Balcova"
     },
     {
-      "name": "Banaz",
-      "id": "Enc3AITjdSOd"
+      "id": "banaz",
+      "name": "Banaz"
     },
     {
-      "name": "Bandirma",
-      "id": "U_qen9qWvJQb"
+      "id": "bandirma",
+      "name": "Bandirma"
     },
     {
-      "name": "Bartin",
-      "id": "Qw9DMY12O-4h"
+      "id": "bartin",
+      "name": "Bartin"
     },
     {
-      "name": "Basari",
-      "id": "UJnhS9yR4O1I"
+      "id": "basari",
+      "name": "Basari"
     },
     {
-      "name": "Baskent",
-      "id": "zJ_bHIvk7nsj"
+      "id": "baskent",
+      "name": "Baskent"
     },
     {
-      "name": "Baskil",
-      "id": "XW9FRAz8tBmV"
+      "id": "baskil",
+      "name": "Baskil"
     },
     {
-      "name": "Batman",
-      "id": "-60v6HfFyyDG"
+      "id": "batman",
+      "name": "Batman"
     },
     {
-      "name": "Bayburt",
-      "id": "-nhR14x9tGUE"
+      "id": "bayburt",
+      "name": "Bayburt"
     },
     {
-      "name": "Bayrampasa",
-      "id": "Ll9jbGixqUkV"
+      "id": "bayrampasa",
+      "name": "Bayrampasa"
     },
     {
-      "name": "Belek",
-      "id": "xtI4mvghtUA7"
+      "id": "belek",
+      "name": "Belek"
     },
     {
-      "name": "Bergama",
-      "id": "PVwHTSQcYpZJ"
+      "id": "bergama",
+      "name": "Bergama"
     },
     {
-      "name": "Besiktas",
-      "id": "jV3iKkOslT3B"
+      "id": "besiktas",
+      "name": "Besiktas"
     },
     {
-      "name": "Beykent",
-      "id": "xxPf0uhsFV4D"
+      "id": "beykent",
+      "name": "Beykent"
     },
     {
-      "name": "Beykoz",
-      "id": "Gn3_Dyg4hLyv"
+      "id": "beykoz",
+      "name": "Beykoz"
     },
     {
-      "name": "Beysehir",
-      "id": "WU3_l7Q2JFLu"
+      "id": "beysehir",
+      "name": "Beysehir"
     },
     {
-      "name": "Biga",
-      "id": "N-y_20xSVePy"
+      "id": "biga",
+      "name": "Biga"
     },
     {
-      "name": "Bilecik",
-      "id": "-8nYA5M_Teis"
+      "id": "bilecik",
+      "name": "Bilecik"
     },
     {
-      "name": "Bilgi",
-      "id": "SJ6L_YcvnVfN"
+      "id": "bilgi",
+      "name": "Bilgi"
     },
     {
-      "name": "Bingol",
-      "id": "ieXqLGvEbm5H"
+      "id": "bingol",
+      "name": "Bingol"
     },
     {
-      "name": "Birbir",
-      "id": "RT3OnLPNnPhE"
+      "id": "birbir",
+      "name": "Birbir"
     },
     {
-      "name": "Bitam",
-      "id": "8dVm1uVCAzJl"
+      "id": "bitam",
+      "name": "Bitam"
     },
     {
-      "name": "Bitlis",
-      "id": "OY_XBCHRzeFr"
+      "id": "bitlis",
+      "name": "Bitlis"
     },
     {
-      "name": "Bodrum",
-      "id": "ec9tjkdCBzTa"
+      "id": "bodrum",
+      "name": "Bodrum"
     },
     {
-      "name": "Bogazici",
-      "id": "rFGCKHFk94PJ"
+      "id": "bogazici",
+      "name": "Bogazici"
     },
     {
-      "name": "Bolu",
-      "id": "JZNUw76vk9sb"
+      "id": "bolu",
+      "name": "Bolu"
     },
     {
-      "name": "Bor",
-      "id": "pS41Zy3Qwjjk"
+      "id": "bor",
+      "name": "Bor"
     },
     {
-      "name": "Bornova",
-      "id": "BicMIO28Ad3l"
+      "id": "bornova",
+      "name": "Bornova"
     },
     {
-      "name": "Bozuyuk",
-      "id": "Rcesq_ZCBJtq"
+      "id": "bozuyuk",
+      "name": "Bozuyuk"
     },
     {
-      "name": "Buca",
-      "id": "Kwv9TW3B1t0V"
+      "id": "buca",
+      "name": "Buca"
     },
     {
-      "name": "Bucak",
-      "id": "EwSsvCcAZ9CO"
+      "id": "bucak",
+      "name": "Bucak"
     },
     {
-      "name": "Bueyuekcekmece",
-      "id": "8hZF9rtxqOIk"
+      "id": "bueyuekcekmece",
+      "name": "Bueyuekcekmece"
     },
     {
-      "name": "Bugdayli",
-      "id": "kVG8G7fCaYHj"
+      "id": "bugdayli",
+      "name": "Bugdayli"
     },
     {
-      "name": "Bulut",
-      "id": "osgd7uCyoGtR"
+      "id": "bulut",
+      "name": "Bulut"
     },
     {
-      "name": "Burdur",
-      "id": "UzNodRihgemI"
+      "id": "burdur",
+      "name": "Burdur"
     },
     {
-      "name": "Burgaz",
-      "id": "KRi761wked6t"
+      "id": "burgaz",
+      "name": "Burgaz"
     },
     {
-      "name": "Burhaniye",
-      "id": "8VhtRasXBUtz"
+      "id": "burhaniye",
+      "name": "Burhaniye"
     },
     {
-      "name": "Bursa",
-      "id": "XJ9IH9V04Gm-"
+      "id": "bursa",
+      "name": "Bursa"
     },
     {
-      "name": "Calkaya",
-      "id": "F4xosjHtRjoA"
+      "id": "calkaya",
+      "name": "Calkaya"
     },
     {
-      "name": "Camliyayla",
-      "id": "ySOAcBzM4yQ_"
+      "id": "camliyayla",
+      "name": "Camliyayla"
     },
     {
-      "name": "Cekme",
-      "id": "8Rnla368DSae"
+      "id": "cekme",
+      "name": "Cekme"
     },
     {
-      "name": "Celal",
-      "id": "8e6iCIo-kXmY"
+      "id": "celal",
+      "name": "Celal"
     },
     {
-      "name": "Cermik",
-      "id": "sQLdSQbNq3FF"
+      "id": "cermik",
+      "name": "Cermik"
     },
     {
-      "name": "Ceyhan",
-      "id": "LDnotpblD5Y9"
+      "id": "ceyhan",
+      "name": "Ceyhan"
     },
     {
-      "name": "Cine",
-      "id": "45blTZLmentG"
+      "id": "cine",
+      "name": "Cine"
     },
     {
-      "name": "Cukurova",
-      "id": "sEWdJBSkompC"
+      "id": "cukurova",
+      "name": "Cukurova"
     },
     {
-      "name": "Dalaman",
-      "id": "HJ55fp9vIRn_"
+      "id": "dalaman",
+      "name": "Dalaman"
     },
     {
-      "name": "Darica",
-      "id": "5Huzl2f7sFww"
+      "id": "darica",
+      "name": "Darica"
     },
     {
-      "name": "Dayanikli",
-      "id": "q-bbVMARsxwr"
+      "id": "dayanikli",
+      "name": "Dayanikli"
     },
     {
-      "name": "Demetevleri",
-      "id": "82xH7BsLwT6D"
+      "id": "demetevleri",
+      "name": "Demetevleri"
     },
     {
-      "name": "Deniz",
-      "id": "rYdNfT9Rnrku"
+      "id": "deniz",
+      "name": "Deniz"
     },
     {
-      "name": "Denizli",
-      "id": "AbgD7JZdsrcP"
+      "id": "denizli",
+      "name": "Denizli"
     },
     {
-      "name": "Doga",
-      "id": "i4dd5LECq_Aw"
+      "id": "doga",
+      "name": "Doga"
     },
     {
-      "name": "Dogankoy",
-      "id": "IMCirR5oHJNz"
+      "id": "dogankoy",
+      "name": "Dogankoy"
     },
     {
-      "name": "Dogu",
-      "id": "ix4WZcm9W61j"
+      "id": "dogu",
+      "name": "Dogu"
     },
     {
-      "name": "Dogus",
-      "id": "Q1Ig0TmVIm2T"
+      "id": "dogus",
+      "name": "Dogus"
     },
     {
-      "name": "Dokuz",
-      "id": "YUDp5aoka4dG"
+      "id": "dokuz",
+      "name": "Dokuz"
     },
     {
-      "name": "Dortyol",
-      "id": "2YZQii6Oqf3d"
+      "id": "dortyol",
+      "name": "Dortyol"
     },
     {
-      "name": "Doruklu",
-      "id": "zKrsSEYfg6L1"
+      "id": "doruklu",
+      "name": "Doruklu"
     },
     {
-      "name": "Dumlupinar",
-      "id": "7r5yRIMmYNUW"
+      "id": "dumlupinar",
+      "name": "Dumlupinar"
     },
     {
-      "name": "Duran",
-      "id": "zdUhuSvXbVUW"
+      "id": "duran",
+      "name": "Duran"
     },
     {
-      "name": "Duzce",
-      "id": "d1fPy926RyAv"
+      "id": "duzce",
+      "name": "Duzce"
     },
     {
-      "name": "Edebey",
-      "id": "jKjXVdP5erRc"
+      "id": "edebey",
+      "name": "Edebey"
     },
     {
-      "name": "Edirne",
-      "id": "7gNLY5q_ET02"
+      "id": "edirne",
+      "name": "Edirne"
     },
     {
-      "name": "Edremit",
-      "id": "odMiIB0oruSs"
+      "id": "edremit",
+      "name": "Edremit"
     },
     {
-      "name": "Elbistan",
-      "id": "OIj2gAaZ6aHa"
+      "id": "elbistan",
+      "name": "Elbistan"
     },
     {
-      "name": "Elek",
-      "id": "EcufVdv89qwl"
+      "id": "elek",
+      "name": "Elek"
     },
     {
-      "name": "Erbaa",
-      "id": "ni4Dpwz9tVCt"
+      "id": "erbaa",
+      "name": "Erbaa"
     },
     {
-      "name": "Ercis",
-      "id": "wFb2WKj1XROn"
+      "id": "ercis",
+      "name": "Ercis"
     },
     {
-      "name": "Erciyes",
-      "id": "tSC_qWvGY_uo"
+      "id": "erciyes",
+      "name": "Erciyes"
     },
     {
-      "name": "Erenkoy",
-      "id": "R8BpAHFXMb7J"
+      "id": "erenkoy",
+      "name": "Erenkoy"
     },
     {
-      "name": "Erzin",
-      "id": "yQLcrEN23l8G"
+      "id": "erzin",
+      "name": "Erzin"
     },
     {
-      "name": "Erzincan",
-      "id": "_tP00BhBKgND"
+      "id": "erzincan",
+      "name": "Erzincan"
     },
     {
-      "name": "Erzurum",
-      "id": "HE_5VQ6TEZiV"
+      "id": "erzurum",
+      "name": "Erzurum"
     },
     {
-      "name": "Esenkent",
-      "id": "Wd84SGWPF--Y"
+      "id": "esenkent",
+      "name": "Esenkent"
     },
     {
-      "name": "Esentepe",
-      "id": "8RF1gmVKwNkS"
+      "id": "esentepe",
+      "name": "Esentepe"
     },
     {
-      "name": "Esenyurt",
-      "id": "kM5q9xbktuMV"
+      "id": "esenyurt",
+      "name": "Esenyurt"
     },
     {
-      "name": "Eser",
-      "id": "gTivyidZ_S3Q"
+      "id": "eser",
+      "name": "Eser"
     },
     {
-      "name": "Eskisehir",
-      "id": "lmgyBMhZNAW_"
+      "id": "eskisehir",
+      "name": "Eskisehir"
     },
     {
-      "name": "Etimesgut",
-      "id": "_HPXWXZWmSNv"
+      "id": "etimesgut",
+      "name": "Etimesgut"
     },
     {
-      "name": "Fatih",
-      "id": "aqMeo6CGLFZB"
+      "id": "fatih",
+      "name": "Fatih"
     },
     {
-      "name": "Ferizli",
-      "id": "YmxhFd30GxxW"
+      "id": "ferizli",
+      "name": "Ferizli"
     },
     {
-      "name": "Fethiye",
-      "id": "mqXw3a7EUs6H"
+      "id": "fethiye",
+      "name": "Fethiye"
     },
     {
-      "name": "Findikli",
-      "id": "pLvfDm4acqfU"
+      "id": "findikli",
+      "name": "Findikli"
     },
     {
-      "name": "Gazi",
-      "id": "0GTMolkWl-Ip"
+      "id": "gazi",
+      "name": "Gazi"
     },
     {
-      "name": "Gaziantep",
-      "id": "wjDwajdgSzFc"
+      "id": "gaziantep",
+      "name": "Gaziantep"
     },
     {
-      "name": "Gebze",
-      "id": "NS2ycLJH49I1"
+      "id": "gebze",
+      "name": "Gebze"
     },
     {
-      "name": "Gediz",
-      "id": "7pjgEJFptc8h"
+      "id": "gediz",
+      "name": "Gediz"
     },
     {
-      "name": "Gelibolu",
-      "id": "s9SM2vb60gkq"
+      "id": "gelibolu",
+      "name": "Gelibolu"
     },
     {
-      "name": "Gemlik",
-      "id": "5sraENG-jp4L"
+      "id": "gemlik",
+      "name": "Gemlik"
     },
     {
-      "name": "Germencik",
-      "id": "I2vJErl86E8U"
+      "id": "germencik",
+      "name": "Germencik"
     },
     {
-      "name": "Geulzuk",
-      "id": "e0yKX71TVRfC"
+      "id": "geulzuk",
+      "name": "Geulzuk"
     },
     {
-      "name": "Giresun",
-      "id": "SLa-L-ZYBLmB"
+      "id": "giresun",
+      "name": "Giresun"
     },
     {
-      "name": "Girne",
-      "id": "sVPe8zzL5TH8"
+      "id": "girne",
+      "name": "Girne"
     },
     {
-      "name": "Golmarmara",
-      "id": "UsYaCB3ERYdl"
+      "id": "golmarmara",
+      "name": "Golmarmara"
     },
     {
-      "name": "Gonen",
-      "id": "We-eB9O3aoqH"
+      "id": "gonen",
+      "name": "Gonen"
     },
     {
-      "name": "Gunbuldu",
-      "id": "iHzbGiXLCBpk"
+      "id": "gunbuldu",
+      "name": "Gunbuldu"
     },
     {
-      "name": "Guzelyurt",
-      "id": "KnVSylQrJ0Oz"
+      "id": "guzelyurt",
+      "name": "Guzelyurt"
     },
     {
-      "name": "Hakkari",
-      "id": "3qqRJSaI3W0D"
+      "id": "hakkari",
+      "name": "Hakkari"
     },
     {
-      "name": "Halic",
-      "id": "w4cfsyr94aaN"
+      "id": "halic",
+      "name": "Halic"
     },
     {
-      "name": "Harbiye",
-      "id": "hFe32c4HLGXS"
+      "id": "harbiye",
+      "name": "Harbiye"
     },
     {
-      "name": "Harran",
-      "id": "JlQ7am-b8zmX"
+      "id": "harran",
+      "name": "Harran"
     },
     {
-      "name": "Hendek",
-      "id": "LEuVZI83wTox"
+      "id": "hendek",
+      "name": "Hendek"
     },
     {
-      "name": "Hurriyet",
-      "id": "HWizd_JcGpgd"
+      "id": "hurriyet",
+      "name": "Hurriyet"
     },
     {
-      "name": "Ibrahim",
-      "id": "sX0pXUpcHlI2"
+      "id": "ibrahim",
+      "name": "Ibrahim"
     },
     {
-      "name": "Ikitelli",
-      "id": "M4eLZJJ6wC5F"
+      "id": "ikitelli",
+      "name": "Ikitelli"
     },
     {
-      "name": "Iskilip",
-      "id": "d8iC7HyLI54Q"
+      "id": "iskilip",
+      "name": "Iskilip"
     },
     {
-      "name": "Isparta",
-      "id": "68TBVtLwoRu9"
+      "id": "isparta",
+      "name": "Isparta"
     },
     {
-      "name": "Istanbul",
-      "id": "exydQhu3zzdA"
+      "id": "istanbul",
+      "name": "Istanbul"
     },
     {
-      "name": "Izmir",
-      "id": "zC2QMGwy07Wl"
+      "id": "izmir",
+      "name": "Izmir"
     },
     {
-      "name": "Kadikoey",
-      "id": "gF9h1V50sULz"
+      "id": "kadikoey",
+      "name": "Kadikoey"
     },
     {
-      "name": "Kadikoy",
-      "id": "w6EuFj6DNTC0"
+      "id": "kadikoy",
+      "name": "Kadikoy"
     },
     {
-      "name": "Kadir",
-      "id": "6MNCb5qujEYM"
+      "id": "kadir",
+      "name": "Kadir"
     },
     {
-      "name": "Kadirli",
-      "id": "bzU-bxw_Bs5i"
+      "id": "kadirli",
+      "name": "Kadirli"
     },
     {
-      "name": "Kagithane",
-      "id": "ZeX3PzVfRxv8"
+      "id": "kagithane",
+      "name": "Kagithane"
     },
     {
-      "name": "Karabuk",
-      "id": "q8-Puu7Z4dOp"
+      "id": "karabuk",
+      "name": "Karabuk"
     },
     {
-      "name": "Karaca",
-      "id": "xf-WP3Kr1PHO"
+      "id": "karaca",
+      "name": "Karaca"
     },
     {
-      "name": "Karakoy",
-      "id": "PTd7RjgEo87y"
+      "id": "karakoy",
+      "name": "Karakoy"
     },
     {
-      "name": "Karaman",
-      "id": "18VPY55gWz2r"
+      "id": "karaman",
+      "name": "Karaman"
     },
     {
-      "name": "Karamursel",
-      "id": "Kbsd3vwTli7j"
+      "id": "karamursel",
+      "name": "Karamursel"
     },
     {
-      "name": "Karatekin",
-      "id": "RNFhNmWeH3QR"
+      "id": "karatekin",
+      "name": "Karatekin"
     },
     {
-      "name": "Kars",
-      "id": "lfT7ksTRd5gB"
+      "id": "kars",
+      "name": "Kars"
     },
     {
-      "name": "Kartal",
-      "id": "AQofJv2LeOs4"
+      "id": "kartal",
+      "name": "Kartal"
     },
     {
-      "name": "Kastamonu",
-      "id": "CToIaQ3xfZtc"
+      "id": "kastamonu",
+      "name": "Kastamonu"
     },
     {
-      "name": "Kayseri",
-      "id": "f5-ezWFSZezm"
+      "id": "kayseri",
+      "name": "Kayseri"
     },
     {
-      "name": "Kecioeren",
-      "id": "o6VsYv9uaSKw"
+      "id": "kecioeren",
+      "name": "Kecioeren"
     },
     {
-      "name": "Kemal",
-      "id": "pWfCmni4ap0e"
+      "id": "kemal",
+      "name": "Kemal"
     },
     {
-      "name": "Kibriskoy",
-      "id": "UVr4gze4oX9q"
+      "id": "kibriskoy",
+      "name": "Kibriskoy"
     },
     {
-      "name": "Kilis",
-      "id": "FX6GRV3cv03C"
+      "id": "kilis",
+      "name": "Kilis"
     },
     {
-      "name": "Kirikkale",
-      "id": "4t2lwTEGzU72"
+      "id": "kirikkale",
+      "name": "Kirikkale"
     },
     {
-      "name": "Kisir",
-      "id": "5AogSOCIYOAp"
+      "id": "kisir",
+      "name": "Kisir"
     },
     {
-      "name": "Kocakoy",
-      "id": "0uullZLTIiWp"
+      "id": "kocakoy",
+      "name": "Kocakoy"
     },
     {
-      "name": "Kocatepe",
-      "id": "jEsbuwuWJ4-m"
+      "id": "kocatepe",
+      "name": "Kocatepe"
     },
     {
-      "name": "Konak",
-      "id": "SAnGR2qEsdZt"
+      "id": "konak",
+      "name": "Konak"
     },
     {
-      "name": "Konya",
-      "id": "ys3pnWP8CDrS"
+      "id": "konya",
+      "name": "Konya"
     },
     {
-      "name": "Korfez",
-      "id": "YyxH9mRgOxNq"
+      "id": "korfez",
+      "name": "Korfez"
     },
     {
-      "name": "Kozan",
-      "id": "BksK2NxEm5iq"
+      "id": "kozan",
+      "name": "Kozan"
     },
     {
-      "name": "Kucukcekmece",
-      "id": "F2VRK0M3CuPQ"
+      "id": "kucukcekmece",
+      "name": "Kucukcekmece"
     },
     {
-      "name": "Kumluca",
-      "id": "uieDguPYxoio"
+      "id": "kumluca",
+      "name": "Kumluca"
     },
     {
-      "name": "Kusadasi",
-      "id": "lZnAr3WyVbY0"
+      "id": "kusadasi",
+      "name": "Kusadasi"
     },
     {
-      "name": "Kuzey",
-      "id": "T6AlQsS1vHxn"
+      "id": "kuzey",
+      "name": "Kuzey"
     },
     {
-      "name": "Magnesia ad Sipylum",
-      "id": "1gqkiqdWlPiN"
+      "id": "magnesia-ad-sipylum",
+      "name": "Magnesia ad Sipylum"
     },
     {
-      "name": "Mahmutkoy",
-      "id": "lv5P6bsityyT"
+      "id": "mahmutkoy",
+      "name": "Mahmutkoy"
     },
     {
-      "name": "Malatya",
-      "id": "uaQTBHhQvP2G"
+      "id": "malatya",
+      "name": "Malatya"
     },
     {
-      "name": "Maltepe",
-      "id": "_7XffjIJDLJS"
+      "id": "maltepe",
+      "name": "Maltepe"
     },
     {
-      "name": "Manavgat",
-      "id": "M7nL_5TwkDRR"
+      "id": "manavgat",
+      "name": "Manavgat"
     },
     {
-      "name": "Mardin",
-      "id": "SNM-RhEWeINX"
+      "id": "mardin",
+      "name": "Mardin"
     },
     {
-      "name": "Marmaris",
-      "id": "9vHJT6-EX2HA"
+      "id": "marmaris",
+      "name": "Marmaris"
     },
     {
-      "name": "Maslak",
-      "id": "fcHfUBauaI-0"
+      "id": "maslak",
+      "name": "Maslak"
     },
     {
-      "name": "Mehmet Akif Ersoy",
-      "id": "Zxbv5BYEYHZj"
+      "id": "mehmet-akif-ersoy",
+      "name": "Mehmet Akif Ersoy"
     },
     {
-      "name": "Meliksah",
-      "id": "ahBdlOLQpsH1"
+      "id": "meliksah",
+      "name": "Meliksah"
     },
     {
-      "name": "Meric",
-      "id": "vabwYESH59vd"
+      "id": "meric",
+      "name": "Meric"
     },
     {
-      "name": "Mersin",
-      "id": "cZRdLCmQl3P6"
+      "id": "mersin",
+      "name": "Mersin"
     },
     {
-      "name": "Merzifon",
-      "id": "-NP8c2R_525v"
+      "id": "merzifon",
+      "name": "Merzifon"
     },
     {
-      "name": "Mezitli",
-      "id": "cHpfiL-LZs15"
+      "id": "mezitli",
+      "name": "Mezitli"
     },
     {
-      "name": "Milas",
-      "id": "jH5Ug6Z5-4VV"
+      "id": "milas",
+      "name": "Milas"
     },
     {
-      "name": "Mugla",
-      "id": "WIxenk6BN2M1"
+      "id": "mugla",
+      "name": "Mugla"
     },
     {
-      "name": "Muradiye",
-      "id": "0ojb5itD7NTD"
+      "id": "muradiye",
+      "name": "Muradiye"
     },
     {
-      "name": "Muratpasa",
-      "id": "4tnoK12O-zFe"
+      "id": "muratpasa",
+      "name": "Muratpasa"
     },
     {
-      "name": "Mustafa",
-      "id": "c18p3d6jBeU4"
+      "id": "mustafa",
+      "name": "Mustafa"
     },
     {
-      "name": "Mustafa Kemal",
-      "id": "gGgt5qpSJ0Tl"
+      "id": "mustafa-kemal",
+      "name": "Mustafa Kemal"
     },
     {
-      "name": "Mustafakemalpasa",
-      "id": "z-c7-3S7gZxN"
+      "id": "mustafakemalpasa",
+      "name": "Mustafakemalpasa"
     },
     {
-      "name": "Nazilli",
-      "id": "4MxQnY310_Nj"
+      "id": "nazilli",
+      "name": "Nazilli"
     },
     {
-      "name": "Niksar",
-      "id": "6wZ7uVISPujt"
+      "id": "niksar",
+      "name": "Niksar"
     },
     {
-      "name": "Niluefer",
-      "id": "67mmUsfsFOIy"
+      "id": "niluefer",
+      "name": "Niluefer"
     },
     {
-      "name": "Nizip",
-      "id": "qKOlM_3Yqiq6"
+      "id": "nizip",
+      "name": "Nizip"
     },
     {
-      "name": "Ordu",
-      "id": "j3765LFTkWyc"
+      "id": "ordu",
+      "name": "Ordu"
     },
     {
-      "name": "Orhangazi",
-      "id": "4yGHEJnnQak-"
+      "id": "orhangazi",
+      "name": "Orhangazi"
     },
     {
-      "name": "Orta",
-      "id": "cOkfajbpBWw7"
+      "id": "orta",
+      "name": "Orta"
     },
     {
-      "name": "Osmaneli",
-      "id": "fJX8IWk9SmTZ"
+      "id": "osmaneli",
+      "name": "Osmaneli"
     },
     {
-      "name": "Osmangazi",
-      "id": "jg3_ESTM_Fn1"
+      "id": "osmangazi",
+      "name": "Osmangazi"
     },
     {
-      "name": "Osmaniye",
-      "id": "1En3L6PpUzj9"
+      "id": "osmaniye",
+      "name": "Osmaniye"
     },
     {
-      "name": "Ostim",
-      "id": "SP2Yffr7faro"
+      "id": "ostim",
+      "name": "Ostim"
     },
     {
-      "name": "Pamukkale",
-      "id": "a8dm-AbV2wL9"
+      "id": "pamukkale",
+      "name": "Pamukkale"
     },
     {
-      "name": "Patnos",
-      "id": "6tJ9Mmk_4OFl"
+      "id": "patnos",
+      "name": "Patnos"
     },
     {
-      "name": "Pendik",
-      "id": "Xkmdh-ytvCyF"
+      "id": "pendik",
+      "name": "Pendik"
     },
     {
-      "name": "Piri",
-      "id": "yE2v3HNIwqGa"
+      "id": "piri",
+      "name": "Piri"
     },
     {
-      "name": "Rize",
-      "id": "pmB0-IwOyLgJ"
+      "id": "rize",
+      "name": "Rize"
     },
     {
-      "name": "Sabanci",
-      "id": "3RnRHtHHmHTX"
+      "id": "sabanci",
+      "name": "Sabanci"
     },
     {
-      "name": "Safranbolu",
-      "id": "StSRgwsCHBd7"
+      "id": "safranbolu",
+      "name": "Safranbolu"
     },
     {
-      "name": "Saglik",
-      "id": "9klW71zfEjkZ"
+      "id": "saglik",
+      "name": "Saglik"
     },
     {
-      "name": "Sahinbey",
-      "id": "OtY0TJ4dKuDR"
+      "id": "sahinbey",
+      "name": "Sahinbey"
     },
     {
-      "name": "Salihli",
-      "id": "QojI2-3eMURY"
+      "id": "salihli",
+      "name": "Salihli"
     },
     {
-      "name": "Samsun",
-      "id": "2BXw-dikeKHo"
+      "id": "samsun",
+      "name": "Samsun"
     },
     {
-      "name": "Sanayi",
-      "id": "bdI9shLIMmY5"
+      "id": "sanayi",
+      "name": "Sanayi"
     },
     {
-      "name": "Sanliurfa",
-      "id": "WEeNF2euT_tP"
+      "id": "sanliurfa",
+      "name": "Sanliurfa"
     },
     {
-      "name": "Sariyer",
-      "id": "fEoFTVQ7cbX7"
+      "id": "sariyer",
+      "name": "Sariyer"
     },
     {
-      "name": "Seferihisar",
-      "id": "gUqDy9TDOVkb"
+      "id": "seferihisar",
+      "name": "Seferihisar"
     },
     {
-      "name": "Sehitkamil",
-      "id": "1IV5pClTjMOI"
+      "id": "sehitkamil",
+      "name": "Sehitkamil"
     },
     {
-      "name": "Selcuk",
-      "id": "KK2OFlToP0dx"
+      "id": "selcuk",
+      "name": "Selcuk"
     },
     {
-      "name": "Serdivan",
-      "id": "4y9iD23KYrMx"
+      "id": "serdivan",
+      "name": "Serdivan"
     },
     {
-      "name": "Serik",
-      "id": "oB_en_6-2sq0"
+      "id": "serik",
+      "name": "Serik"
     },
     {
-      "name": "Seydisehir",
-      "id": "N9cZDQ_QOKm9"
+      "id": "seydisehir",
+      "name": "Seydisehir"
     },
     {
-      "name": "Seyhan",
-      "id": "ROYl07U3IhdJ"
+      "id": "seyhan",
+      "name": "Seyhan"
     },
     {
-      "name": "Siirt",
-      "id": "h4YqyuVu0fBk"
+      "id": "siirt",
+      "name": "Siirt"
     },
     {
-      "name": "Sile",
-      "id": "RjR-EB5CMcRs"
+      "id": "sile",
+      "name": "Sile"
     },
     {
-      "name": "Silifke",
-      "id": "Qk3tlH3roXpa"
+      "id": "silifke",
+      "name": "Silifke"
     },
     {
-      "name": "Siliviri",
-      "id": "6RhcP821Cahv"
+      "id": "siliviri",
+      "name": "Siliviri"
     },
     {
-      "name": "Sinankoy",
-      "id": "yQ1f9iVq2N7_"
+      "id": "sinankoy",
+      "name": "Sinankoy"
     },
     {
-      "name": "Sincan",
-      "id": "rVwXlfwB6V-s"
+      "id": "sincan",
+      "name": "Sincan"
     },
     {
-      "name": "Sinop",
-      "id": "6pWHZ8jUiAHI"
+      "id": "sinop",
+      "name": "Sinop"
     },
     {
-      "name": "Sirnak",
-      "id": "DcmKnT9SBzgh"
+      "id": "sirnak",
+      "name": "Sirnak"
     },
     {
-      "name": "Sisli",
-      "id": "izQfQglY-qqT"
+      "id": "sisli",
+      "name": "Sisli"
     },
     {
-      "name": "Sisman",
-      "id": "McWY6gTVKnnI"
+      "id": "sisman",
+      "name": "Sisman"
     },
     {
-      "name": "Sivas",
-      "id": "JnPCUu9caeSV"
+      "id": "sivas",
+      "name": "Sivas"
     },
     {
-      "name": "Soeke",
-      "id": "XC-ioL9bD6lt"
+      "id": "soeke",
+      "name": "Soeke"
     },
     {
-      "name": "Suleyman",
-      "id": "G-0vVCWhARVY"
+      "id": "suleyman",
+      "name": "Suleyman"
     },
     {
-      "name": "Sultanpinar",
-      "id": "jjGA49fXthT6"
+      "id": "sultanpinar",
+      "name": "Sultanpinar"
     },
     {
-      "name": "Sungurlu",
-      "id": "Cvkq9Tw1Btma"
+      "id": "sungurlu",
+      "name": "Sungurlu"
     },
     {
-      "name": "Susurluk",
-      "id": "SeqPUH4M-vDg"
+      "id": "susurluk",
+      "name": "Susurluk"
     },
     {
-      "name": "Taksim",
-      "id": "niEwdVReIzHM"
+      "id": "taksim",
+      "name": "Taksim"
     },
     {
-      "name": "Tarsus",
-      "id": "Y9MmJPeNVjtg"
+      "id": "tarsus",
+      "name": "Tarsus"
     },
     {
-      "name": "Tasdelen",
-      "id": "F0pMsiRQp-NT"
+      "id": "tasdelen",
+      "name": "Tasdelen"
     },
     {
-      "name": "Tatvan",
-      "id": "HqOmfCYruc32"
+      "id": "tatvan",
+      "name": "Tatvan"
     },
     {
-      "name": "Tesvikiye",
-      "id": "eY7FWnNdLcx9"
+      "id": "tesvikiye",
+      "name": "Tesvikiye"
     },
     {
-      "name": "Tire",
-      "id": "WZ_jURmQI1ly"
+      "id": "tire",
+      "name": "Tire"
     },
     {
-      "name": "Tokat Province",
-      "id": "XskCmvALbzYf"
+      "id": "tokat-province",
+      "name": "Tokat Province"
     },
     {
-      "name": "Toprak",
-      "id": "sd5BzhtGItY7"
+      "id": "toprak",
+      "name": "Toprak"
     },
     {
-      "name": "Torbali",
-      "id": "37XZDjPQUxdS"
+      "id": "torbali",
+      "name": "Torbali"
     },
     {
-      "name": "Toros",
-      "id": "aKps5sjdse8e"
+      "id": "toros",
+      "name": "Toros"
     },
     {
-      "name": "Trabzon",
-      "id": "juq2jSvjLGHw"
+      "id": "trabzon",
+      "name": "Trabzon"
     },
     {
-      "name": "Trakya",
-      "id": "Lj4LmL1YqvHT"
+      "id": "trakya",
+      "name": "Trakya"
     },
     {
-      "name": "Tunceli",
-      "id": "NprLvJB3Va_R"
+      "id": "tunceli",
+      "name": "Tunceli"
     },
     {
-      "name": "Turgut",
-      "id": "-ZW0n7rZWzG8"
+      "id": "turgut",
+      "name": "Turgut"
     },
     {
-      "name": "Turgutlu",
-      "id": "Lv077Ahe5yry"
+      "id": "turgutlu",
+      "name": "Turgutlu"
     },
     {
-      "name": "Uchisar",
-      "id": "S3VsPR2PeH5r"
+      "id": "uchisar",
+      "name": "Uchisar"
     },
     {
-      "name": "UEskuedar",
-      "id": "Y2Tt7WSI_Lxd"
+      "id": "ueskuedar",
+      "name": "UEskuedar"
     },
     {
-      "name": "Ugur",
-      "id": "mPtKA8GJFBR6"
+      "id": "ugur",
+      "name": "Ugur"
     },
     {
-      "name": "Ulker",
-      "id": "zeGKJeJCvRoK"
+      "id": "ulker",
+      "name": "Ulker"
     },
     {
-      "name": "Uludag",
-      "id": "c8-oz7AiYAP0"
+      "id": "uludag",
+      "name": "Uludag"
     },
     {
-      "name": "Ulus",
-      "id": "-0pzdbKYtaKV"
+      "id": "ulus",
+      "name": "Ulus"
     },
     {
-      "name": "Umraniye",
-      "id": "PhzM6xmhva1S"
+      "id": "umraniye",
+      "name": "Umraniye"
     },
     {
-      "name": "Unieh",
-      "id": "BunuIgKb-_XI"
+      "id": "unieh",
+      "name": "Unieh"
     },
     {
-      "name": "Urgub",
-      "id": "2ZPb0QazZuxL"
+      "id": "urgub",
+      "name": "Urgub"
     },
     {
-      "name": "Urla",
-      "id": "li6gHJzSYjTH"
+      "id": "urla",
+      "name": "Urla"
     },
     {
-      "name": "Uzun Keupru",
-      "id": "YFKjT8HR2jxP"
+      "id": "uzun-keupru",
+      "name": "Uzun Keupru"
     },
     {
-      "name": "Van",
-      "id": "Qi46PzOHr_CZ"
+      "id": "van",
+      "name": "Van"
     },
     {
-      "name": "Yagcilar",
-      "id": "WA7QNY_OyDYM"
+      "id": "yagcilar",
+      "name": "Yagcilar"
     },
     {
-      "name": "Yakakoy",
-      "id": "7CZLWpb3CSZc"
+      "id": "yakakoy",
+      "name": "Yakakoy"
     },
     {
-      "name": "Yalova",
-      "id": "8RwL2TYKrCa7"
+      "id": "yalova",
+      "name": "Yalova"
     },
     {
-      "name": "Yaman",
-      "id": "FViq_7QoeBLI"
+      "id": "yaman",
+      "name": "Yaman"
     },
     {
-      "name": "Yasarkoy",
-      "id": "myLrd7x1X2W-"
+      "id": "yasarkoy",
+      "name": "Yasarkoy"
     },
     {
-      "name": "Yeditepe",
-      "id": "_l0u0_bMzTwz"
+      "id": "yeditepe",
+      "name": "Yeditepe"
     },
     {
-      "name": "Yeni",
-      "id": "LEftiscJqhOo"
+      "id": "yeni",
+      "name": "Yeni"
     },
     {
-      "name": "Yenibosna",
-      "id": "r0Z5REmTA-L3"
+      "id": "yenibosna",
+      "name": "Yenibosna"
     },
     {
-      "name": "Yildiz",
-      "id": "9u_iKCWGMTru"
+      "id": "yildiz",
+      "name": "Yildiz"
     },
     {
-      "name": "Yozgat",
-      "id": "5Ep7paFngU31"
+      "id": "yozgat",
+      "name": "Yozgat"
     },
     {
-      "name": "Yuregir",
-      "id": "O14mbQJA3ZFP"
+      "id": "yuregir",
+      "name": "Yuregir"
     },
     {
-      "name": "Zekeriya",
-      "id": "BP3n_w_Q5DHS"
+      "id": "zekeriya",
+      "name": "Zekeriya"
     },
     {
-      "name": "Zeytinburnu",
-      "id": "rbPHjv8Yz99P"
+      "id": "zeytinburnu",
+      "name": "Zeytinburnu"
     },
     {
-      "name": "Zonguldak",
-      "id": "0qEFsvLyTfTu"
+      "id": "zonguldak",
+      "name": "Zonguldak"
     }
   ]
 }

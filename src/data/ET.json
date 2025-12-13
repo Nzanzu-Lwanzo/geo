@@ -2,44 +2,44 @@
   "coid": "ET",
   "cities": [
     {
-      "name": "Addis Ababa",
-      "id": "lH1wWZ-Y_-q0"
+      "id": "addis-ababa",
+      "name": "Addis Ababa"
     },
     {
-      "name": "Dire Dawa",
-      "id": "6-Qc06X7MFjb"
+      "id": "dire-dawa",
+      "name": "Dire Dawa"
     },
     {
-      "name": "Mekelle",
-      "id": "OIld8rOLR6c8"
+      "id": "mekelle",
+      "name": "Mekelle"
     },
     {
-      "name": "Gondar",
-      "id": "9pXsICfcVPOz"
+      "id": "gondar",
+      "name": "Gondar"
     },
     {
-      "name": "Adama",
-      "id": "ZaOhwAnG7z0q"
+      "id": "adama",
+      "name": "Adama"
     },
     {
-      "name": "Hawassa",
-      "id": "tgdmrWj0hlNs"
+      "id": "hawassa",
+      "name": "Hawassa"
     },
     {
-      "name": "Bahir Dar",
-      "id": "AzkFE2o-JB-S"
+      "id": "bahir-dar",
+      "name": "Bahir Dar"
     },
     {
-      "name": "Jimma",
-      "id": "BfIcKaYjHu_0"
+      "id": "jimma",
+      "name": "Jimma"
     },
     {
-      "name": "Jijiga",
-      "id": "-qHuWD6KCQnX"
+      "id": "jijiga",
+      "name": "Jijiga"
     },
     {
-      "name": "Shashamane",
-      "id": "pWiLEvqXYM4h"
+      "id": "shashamane",
+      "name": "Shashamane"
     }
   ]
 }

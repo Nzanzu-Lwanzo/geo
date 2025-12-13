@@ -2,44 +2,44 @@
   "coid": "SB",
   "cities": [
     {
-      "name": "Honiara",
-      "id": "5NCqvmTVt90_"
+      "id": "honiara",
+      "name": "Honiara"
     },
     {
-      "name": "Gizo",
-      "id": "YRWYmgsE9uq1"
+      "id": "gizo",
+      "name": "Gizo"
     },
     {
-      "name": "Auki",
-      "id": "QpJDLz1SCYAb"
+      "id": "auki",
+      "name": "Auki"
     },
     {
-      "name": "Kirakira",
-      "id": "J0YcPt6ZxfO5"
+      "id": "kirakira",
+      "name": "Kirakira"
     },
     {
-      "name": "Taro",
-      "id": "iS5ru_muwxvY"
+      "id": "taro",
+      "name": "Taro"
     },
     {
-      "name": "Lata",
-      "id": "G4G7gWRZ0gd9"
+      "id": "lata",
+      "name": "Lata"
     },
     {
-      "name": "Munda",
-      "id": "biujNbKqTCVV"
+      "id": "munda",
+      "name": "Munda"
     },
     {
-      "name": "Noro",
-      "id": "W9AbA50c8zXw"
+      "id": "noro",
+      "name": "Noro"
     },
     {
-      "name": "Buala",
-      "id": "gA6nZPUGkoWu"
+      "id": "buala",
+      "name": "Buala"
     },
     {
-      "name": "Yandina",
-      "id": "A0T_ORx60eQn"
+      "id": "yandina",
+      "name": "Yandina"
     }
   ]
 }

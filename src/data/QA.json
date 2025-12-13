@@ -2,44 +2,44 @@
   "coid": "QA",
   "cities": [
     {
-      "name": "Doha",
-      "id": "bgrgwSz-Gd9a"
+      "id": "doha",
+      "name": "Doha"
     },
     {
-      "name": "Al Rayyan",
-      "id": "PgjJKBDvhNY1"
+      "id": "al-rayyan",
+      "name": "Al Rayyan"
     },
     {
-      "name": "Umm Salal",
-      "id": "VlmyFJXRriJx"
+      "id": "umm-salal",
+      "name": "Umm Salal"
     },
     {
-      "name": "Al Wakrah",
-      "id": "1XvjMlOPeKv6"
+      "id": "al-wakrah",
+      "name": "Al Wakrah"
     },
     {
-      "name": "Al Khor",
-      "id": "8bWtEHUjWNQI"
+      "id": "al-khor",
+      "name": "Al Khor"
     },
     {
-      "name": "Dukhan",
-      "id": "jJ37ock9TiJE"
+      "id": "dukhan",
+      "name": "Dukhan"
     },
     {
-      "name": "Mesaieed",
-      "id": "A6Y5SlvxkA_1"
+      "id": "mesaieed",
+      "name": "Mesaieed"
     },
     {
-      "name": "Madinat ash Shamal",
-      "id": "tm2zDIUBnGFg"
+      "id": "madinat-ash-shamal",
+      "name": "Madinat ash Shamal"
     },
     {
-      "name": "Al Daayen",
-      "id": "IO1fZRZbWKH7"
+      "id": "al-daayen",
+      "name": "Al Daayen"
     },
     {
-      "name": "Ras Laffan",
-      "id": "UGUPcdcsUaN-"
+      "id": "ras-laffan",
+      "name": "Ras Laffan"
     }
   ]
 }

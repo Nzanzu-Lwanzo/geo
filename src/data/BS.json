@@ -2,32 +2,32 @@
   "coid": "BS",
   "cities": [
     {
-      "name": "Andros Town",
-      "id": "_1RScPovvLCd"
+      "id": "andros-town",
+      "name": "Andros Town"
     },
     {
-      "name": "Dunmore Town",
-      "id": "oRsUMudDzYzB"
+      "id": "dunmore-town",
+      "name": "Dunmore Town"
     },
     {
-      "name": "Freeport",
-      "id": "13jUCayDGFMm"
+      "id": "freeport",
+      "name": "Freeport"
     },
     {
-      "name": "Marsh Harbour",
-      "id": "01fAxorHCEV5"
+      "id": "marsh-harbour",
+      "name": "Marsh Harbour"
     },
     {
-      "name": "Nassau",
-      "id": "DOg2MAIK9wah"
+      "id": "nassau",
+      "name": "Nassau"
     },
     {
-      "name": "Palmetto Point",
-      "id": "CR3ITey5vAjn"
+      "id": "palmetto-point",
+      "name": "Palmetto Point"
     },
     {
-      "name": "Spanish Wells",
-      "id": "P4psQKsh09zv"
+      "id": "spanish-wells",
+      "name": "Spanish Wells"
     }
   ]
 }

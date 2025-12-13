@@ -2,92 +2,92 @@
   "coid": "BY",
   "cities": [
     {
-      "name": "Baranovichi",
-      "id": "bg73gAFD_N3s"
+      "id": "baranovichi",
+      "name": "Baranovichi"
     },
     {
-      "name": "Borisov",
-      "id": "9gVMEuzQa1_Q"
+      "id": "borisov",
+      "name": "Borisov"
     },
     {
-      "name": "Brest",
-      "id": "LQXEtA3kmEic"
+      "id": "brest",
+      "name": "Brest"
     },
     {
-      "name": "Dzyarzhynsk",
-      "id": "gIC_cqfYWHHS"
+      "id": "dzyarzhynsk",
+      "name": "Dzyarzhynsk"
     },
     {
-      "name": "Horki",
-      "id": "pJEbm2bJmkip"
+      "id": "horki",
+      "name": "Horki"
     },
     {
-      "name": "Hrodna",
-      "id": "d350t4zXignu"
+      "id": "hrodna",
+      "name": "Hrodna"
     },
     {
-      "name": "Lahoysk",
-      "id": "SGqQf5xFrnLX"
+      "id": "lahoysk",
+      "name": "Lahoysk"
     },
     {
-      "name": "Lida",
-      "id": "azrW5fuVIR0t"
+      "id": "lida",
+      "name": "Lida"
     },
     {
-      "name": "Lyakhovichi",
-      "id": "KEcNgRDqlQCY"
+      "id": "lyakhovichi",
+      "name": "Lyakhovichi"
     },
     {
-      "name": "Lyaskavichy",
-      "id": "UXl77ea-jR5m"
+      "id": "lyaskavichy",
+      "name": "Lyaskavichy"
     },
     {
-      "name": "Mazyr",
-      "id": "mCrjjVLdENLT"
+      "id": "mazyr",
+      "name": "Mazyr"
     },
     {
-      "name": "Minsk",
-      "id": "8rDBM4WZj-lg"
+      "id": "minsk",
+      "name": "Minsk"
     },
     {
-      "name": "Mogilev",
-      "id": "1x_0A15jnteO"
+      "id": "mogilev",
+      "name": "Mogilev"
     },
     {
-      "name": "Navapolatsk",
-      "id": "CnYK8AMAP1JS"
+      "id": "navapolatsk",
+      "name": "Navapolatsk"
     },
     {
-      "name": "Orsha",
-      "id": "MhA3G68Y2Jnb"
+      "id": "orsha",
+      "name": "Orsha"
     },
     {
-      "name": "Pinsk",
-      "id": "TgjIutoBcU2w"
+      "id": "pinsk",
+      "name": "Pinsk"
     },
     {
-      "name": "Polatsk",
-      "id": "k3vrpjpxbwBM"
+      "id": "polatsk",
+      "name": "Polatsk"
     },
     {
-      "name": "Radoshkovichi",
-      "id": "O5j6K4voe9T2"
+      "id": "radoshkovichi",
+      "name": "Radoshkovichi"
     },
     {
-      "name": "Shklow",
-      "id": "qm1-ljAyuM1s"
+      "id": "shklow",
+      "name": "Shklow"
     },
     {
-      "name": "Vitebsk",
-      "id": "_TamgED9egD0"
+      "id": "vitebsk",
+      "name": "Vitebsk"
     },
     {
-      "name": "Zaslawye",
-      "id": "tmzemocwuKgo"
+      "id": "zaslawye",
+      "name": "Zaslawye"
     },
     {
-      "name": "Zhodzina",
-      "id": "7yrAv2o6PK4m"
+      "id": "zhodzina",
+      "name": "Zhodzina"
     }
   ]
 }

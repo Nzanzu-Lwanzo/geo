@@ -2,44 +2,44 @@
   "coid": "LR",
   "cities": [
     {
-      "name": "Monrovia",
-      "id": "fap3WBX9Vvo7"
+      "id": "monrovia",
+      "name": "Monrovia"
     },
     {
-      "name": "Gbarnga",
-      "id": "uWoOFLzUCSu3"
+      "id": "gbarnga",
+      "name": "Gbarnga"
     },
     {
-      "name": "Kakata",
-      "id": "nSQc6pHMiCmA"
+      "id": "kakata",
+      "name": "Kakata"
     },
     {
-      "name": "Bensonville",
-      "id": "k8HkpCm8ikwx"
+      "id": "bensonville",
+      "name": "Bensonville"
     },
     {
-      "name": "Harper",
-      "id": "k2KXXlyEzKWz"
+      "id": "harper",
+      "name": "Harper"
     },
     {
-      "name": "Voinjama",
-      "id": "3EcWAo9hd6ZJ"
+      "id": "voinjama",
+      "name": "Voinjama"
     },
     {
-      "name": "Zwedru",
-      "id": "mTL69brrsJOS"
+      "id": "zwedru",
+      "name": "Zwedru"
     },
     {
-      "name": "Buchanan",
-      "id": "mIL1_w_0UuEU"
+      "id": "buchanan",
+      "name": "Buchanan"
     },
     {
-      "name": "Sanniquellie",
-      "id": "Q9X4MhR1iV3l"
+      "id": "sanniquellie",
+      "name": "Sanniquellie"
     },
     {
-      "name": "Greenville",
-      "id": "w93g8-JvDuaz"
+      "id": "greenville",
+      "name": "Greenville"
     }
   ]
 }

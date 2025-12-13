@@ -2,568 +2,568 @@
   "coid": "HR",
   "cities": [
     {
-      "name": "Antunovac",
-      "id": "5X9i4jhO9P2Q"
+      "id": "antunovac",
+      "name": "Antunovac"
     },
     {
-      "name": "Baska",
-      "id": "zq1LrJYVTUZz"
+      "id": "baska",
+      "name": "Baska"
     },
     {
-      "name": "Baska Voda",
-      "id": "o1gy5Ty7yLxq"
+      "id": "baska-voda",
+      "name": "Baska Voda"
     },
     {
-      "name": "Bedekovcina",
-      "id": "18Uj84mRBubn"
+      "id": "bedekovcina",
+      "name": "Bedekovcina"
     },
     {
-      "name": "Bestovje",
-      "id": "U1_YVQ8w1k94"
+      "id": "bestovje",
+      "name": "Bestovje"
     },
     {
-      "name": "Betina",
-      "id": "-8OcKNFlFGUs"
+      "id": "betina",
+      "name": "Betina"
     },
     {
-      "name": "Bibinje",
-      "id": "TIO3l8q6Fakb"
+      "id": "bibinje",
+      "name": "Bibinje"
     },
     {
-      "name": "Bizovac",
-      "id": "ldqPOxxNihZg"
+      "id": "bizovac",
+      "name": "Bizovac"
     },
     {
-      "name": "Bjelovar",
-      "id": "qq8BpnpN__cK"
+      "id": "bjelovar",
+      "name": "Bjelovar"
     },
     {
-      "name": "Bracevci",
-      "id": "_oodjouvQCUE"
+      "id": "bracevci",
+      "name": "Bracevci"
     },
     {
-      "name": "Brdovec",
-      "id": "i9n1o9_MdFKO"
+      "id": "brdovec",
+      "name": "Brdovec"
     },
     {
-      "name": "Bregana",
-      "id": "bEYG7SQW2mEr"
+      "id": "bregana",
+      "name": "Bregana"
     },
     {
-      "name": "Brela",
-      "id": "KYAMDWCDTc5V"
+      "id": "brela",
+      "name": "Brela"
     },
     {
-      "name": "Brsadin",
-      "id": "SRD8_4Mf28v2"
+      "id": "brsadin",
+      "name": "Brsadin"
     },
     {
-      "name": "Buje",
-      "id": "wdktZpLrObLJ"
+      "id": "buje",
+      "name": "Buje"
     },
     {
-      "name": "Cabuna",
-      "id": "70UWHThO9cwo"
+      "id": "cabuna",
+      "name": "Cabuna"
     },
     {
-      "name": "Cavtat",
-      "id": "kvWCv-d4tZcl"
+      "id": "cavtat",
+      "name": "Cavtat"
     },
     {
-      "name": "Cepin",
-      "id": "OBER6ZMH1elc"
+      "id": "cepin",
+      "name": "Cepin"
     },
     {
-      "name": "Cestica",
-      "id": "ZiR38sNOIfvV"
+      "id": "cestica",
+      "name": "Cestica"
     },
     {
-      "name": "Core",
-      "id": "Oy0qD8ZIh0nA"
+      "id": "core",
+      "name": "Core"
     },
     {
-      "name": "Crikvenica",
-      "id": "F-Z1nwZpZyGd"
+      "id": "crikvenica",
+      "name": "Crikvenica"
     },
     {
-      "name": "Dalj",
-      "id": "Z4BwlN0wZ_sr"
+      "id": "dalj",
+      "name": "Dalj"
     },
     {
-      "name": "Darda",
-      "id": "w6fm-H1ZDcgU"
+      "id": "darda",
+      "name": "Darda"
     },
     {
-      "name": "Delnice",
-      "id": "w9nsNvHyh86p"
+      "id": "delnice",
+      "name": "Delnice"
     },
     {
-      "name": "Desinic",
-      "id": "8CDiBHcL20PO"
+      "id": "desinic",
+      "name": "Desinic"
     },
     {
-      "name": "Donja Pusca",
-      "id": "5GNoFeR6_x1E"
+      "id": "donja-pusca",
+      "name": "Donja Pusca"
     },
     {
-      "name": "Donja Zelina",
-      "id": "ZAoJbMsSHm-y"
+      "id": "donja-zelina",
+      "name": "Donja Zelina"
     },
     {
-      "name": "Donji Kraljevec",
-      "id": "ea3iXqznM6UN"
+      "id": "donji-kraljevec",
+      "name": "Donji Kraljevec"
     },
     {
-      "name": "Dubrovnik",
-      "id": "TDMJF_v_LhP7"
+      "id": "dubrovnik",
+      "name": "Dubrovnik"
     },
     {
-      "name": "Dugo Selo",
-      "id": "jqmTISg_RmL9"
+      "id": "dugo-selo",
+      "name": "Dugo Selo"
     },
     {
-      "name": "Fazana",
-      "id": "GMMH0RQcPIqW"
+      "id": "fazana",
+      "name": "Fazana"
     },
     {
-      "name": "Fuzine",
-      "id": "Z3xjPK0gaI_k"
+      "id": "fuzine",
+      "name": "Fuzine"
     },
     {
-      "name": "Galgovo",
-      "id": "6XAicrNCGkm4"
+      "id": "galgovo",
+      "name": "Galgovo"
     },
     {
-      "name": "Glina",
-      "id": "noDwbbX-ri8p"
+      "id": "glina",
+      "name": "Glina"
     },
     {
-      "name": "Gornja Lomnica",
-      "id": "2zGe6rsiHWlx"
+      "id": "gornja-lomnica",
+      "name": "Gornja Lomnica"
     },
     {
-      "name": "Gornji Kriz",
-      "id": "JOGSlgNalv8w"
+      "id": "gornji-kriz",
+      "name": "Gornji Kriz"
     },
     {
-      "name": "Gornji Stupnik",
-      "id": "8NaMH8r4y3Qe"
+      "id": "gornji-stupnik",
+      "name": "Gornji Stupnik"
     },
     {
-      "name": "Hreljin",
-      "id": "NgLdNezcuZeU"
+      "id": "hreljin",
+      "name": "Hreljin"
     },
     {
-      "name": "Icici",
-      "id": "x52OSfvuXbK8"
+      "id": "icici",
+      "name": "Icici"
     },
     {
-      "name": "Ivanec",
-      "id": "N-G45oo0Y83a"
+      "id": "ivanec",
+      "name": "Ivanec"
     },
     {
-      "name": "Ivanic-Grad",
-      "id": "ixXBQTrtlbUR"
+      "id": "ivanic-grad",
+      "name": "Ivanic-Grad"
     },
     {
-      "name": "Karlovac",
-      "id": "kIlk8kBpg4JP"
+      "id": "karlovac",
+      "name": "Karlovac"
     },
     {
-      "name": "Karojba",
-      "id": "9dOgzS285KeI"
+      "id": "karojba",
+      "name": "Karojba"
     },
     {
-      "name": "Kastel Gomilica",
-      "id": "Dnh9ZPauVMRh"
+      "id": "kastel-gomilica",
+      "name": "Kastel Gomilica"
     },
     {
-      "name": "Kastel Luksic",
-      "id": "A474pMMhWDQj"
+      "id": "kastel-luksic",
+      "name": "Kastel Luksic"
     },
     {
-      "name": "Kastel Sucurac",
-      "id": "d3XAXgNtR_f9"
+      "id": "kastel-sucurac",
+      "name": "Kastel Sucurac"
     },
     {
-      "name": "Koprivnica",
-      "id": "vz9n6RvxLeUT"
+      "id": "koprivnica",
+      "name": "Koprivnica"
     },
     {
-      "name": "Kostrena",
-      "id": "Jkt-YTKbySeJ"
+      "id": "kostrena",
+      "name": "Kostrena"
     },
     {
-      "name": "Kraljevec na Sutli",
-      "id": "ncly-06GT7qY"
+      "id": "kraljevec-na-sutli",
+      "name": "Kraljevec na Sutli"
     },
     {
-      "name": "Krapina",
-      "id": "DM_CY93U3PeZ"
+      "id": "krapina",
+      "name": "Krapina"
     },
     {
-      "name": "Kriz",
-      "id": "RQYMuLNProBq"
+      "id": "kriz",
+      "name": "Kriz"
     },
     {
-      "name": "Krk",
-      "id": "ZUSdEk0R2_M8"
+      "id": "krk",
+      "name": "Krk"
     },
     {
-      "name": "Krsan",
-      "id": "s2OfrEwUA2bs"
+      "id": "krsan",
+      "name": "Krsan"
     },
     {
-      "name": "Kutjevo",
-      "id": "diWe9wWCh34N"
+      "id": "kutjevo",
+      "name": "Kutjevo"
     },
     {
-      "name": "Labin",
-      "id": "G2wa58Xkl7Pj"
+      "id": "labin",
+      "name": "Labin"
     },
     {
-      "name": "Lapad",
-      "id": "XRpXoDLwX0i0"
+      "id": "lapad",
+      "name": "Lapad"
     },
     {
-      "name": "Lekenik",
-      "id": "L63hjgcKiK-O"
+      "id": "lekenik",
+      "name": "Lekenik"
     },
     {
-      "name": "Lepoglava",
-      "id": "kCnT0n397Xm6"
+      "id": "lepoglava",
+      "name": "Lepoglava"
     },
     {
-      "name": "Lovran",
-      "id": "y6EtttP2uqC1"
+      "id": "lovran",
+      "name": "Lovran"
     },
     {
-      "name": "Lukavec",
-      "id": "hoxMyeH4hUFR"
+      "id": "lukavec",
+      "name": "Lukavec"
     },
     {
-      "name": "Lupoglav",
-      "id": "7_h7qIZy_rKV"
+      "id": "lupoglav",
+      "name": "Lupoglav"
     },
     {
-      "name": "Makarska",
-      "id": "ScMHwO558idF"
+      "id": "makarska",
+      "name": "Makarska"
     },
     {
-      "name": "Matulji",
-      "id": "5OodnnBrpjFP"
+      "id": "matulji",
+      "name": "Matulji"
     },
     {
-      "name": "Medulin",
-      "id": "ZDiRG6pNE40w"
+      "id": "medulin",
+      "name": "Medulin"
     },
     {
-      "name": "Mlini",
-      "id": "Xby2TTu2c13d"
+      "id": "mlini",
+      "name": "Mlini"
     },
     {
-      "name": "Mursko Sredisce",
-      "id": "Adjnwpu_861n"
+      "id": "mursko-sredisce",
+      "name": "Mursko Sredisce"
     },
     {
-      "name": "Nedelisce",
-      "id": "NgvqL_YLwGRR"
+      "id": "nedelisce",
+      "name": "Nedelisce"
     },
     {
-      "name": "Nova Gradiska",
-      "id": "J3cy1ktPlEK8"
+      "id": "nova-gradiska",
+      "name": "Nova Gradiska"
     },
     {
-      "name": "Novi Marof",
-      "id": "7WsyqEm88K-h"
+      "id": "novi-marof",
+      "name": "Novi Marof"
     },
     {
-      "name": "Novi Vinodolski",
-      "id": "TnRkVD0Ghu1a"
+      "id": "novi-vinodolski",
+      "name": "Novi Vinodolski"
     },
     {
-      "name": "Novo Cice",
-      "id": "_WOKVE3OKjCV"
+      "id": "novo-cice",
+      "name": "Novo Cice"
     },
     {
-      "name": "Nustar",
-      "id": "LJojbPOdeZuR"
+      "id": "nustar",
+      "name": "Nustar"
     },
     {
-      "name": "Okrug Gornji",
-      "id": "2RvAPvNE28_Q"
+      "id": "okrug-gornji",
+      "name": "Okrug Gornji"
     },
     {
-      "name": "Opatija",
-      "id": "Wx3ZYbwZ1uMH"
+      "id": "opatija",
+      "name": "Opatija"
     },
     {
-      "name": "Orahovica",
-      "id": "gWrOkzaZL3iG"
+      "id": "orahovica",
+      "name": "Orahovica"
     },
     {
-      "name": "Orebic",
-      "id": "pHv0ABPtUt_k"
+      "id": "orebic",
+      "name": "Orebic"
     },
     {
-      "name": "Orle",
-      "id": "vhEZleFZAoOw"
+      "id": "orle",
+      "name": "Orle"
     },
     {
-      "name": "Oroslavje",
-      "id": "bWOQr1RGphyL"
+      "id": "oroslavje",
+      "name": "Oroslavje"
     },
     {
-      "name": "Osijek",
-      "id": "wv2wxKqYUUHA"
+      "id": "osijek",
+      "name": "Osijek"
     },
     {
-      "name": "Pakrac",
-      "id": "Xjc5bCYa0E_2"
+      "id": "pakrac",
+      "name": "Pakrac"
     },
     {
-      "name": "Pazin",
-      "id": "tp9CNLrhkC03"
+      "id": "pazin",
+      "name": "Pazin"
     },
     {
-      "name": "Petrcane",
-      "id": "TIFJS-0ZER1Q"
+      "id": "petrcane",
+      "name": "Petrcane"
     },
     {
-      "name": "Petrinja",
-      "id": "y5V7F3GyrpdN"
+      "id": "petrinja",
+      "name": "Petrinja"
     },
     {
-      "name": "Piskorevci",
-      "id": "FUg-rE62tCus"
+      "id": "piskorevci",
+      "name": "Piskorevci"
     },
     {
-      "name": "Podastrana",
-      "id": "HfLSBCRywD4b"
+      "id": "podastrana",
+      "name": "Podastrana"
     },
     {
-      "name": "Podgajci Posavski",
-      "id": "2GTUJAtPSnEW"
+      "id": "podgajci-posavski",
+      "name": "Podgajci Posavski"
     },
     {
-      "name": "Popovaca",
-      "id": "UnM10jBp_yRk"
+      "id": "popovaca",
+      "name": "Popovaca"
     },
     {
-      "name": "Postira",
-      "id": "-PLgZB-goHMH"
+      "id": "postira",
+      "name": "Postira"
     },
     {
-      "name": "Pregrada",
-      "id": "QZHzI5o8DEa-"
+      "id": "pregrada",
+      "name": "Pregrada"
     },
     {
-      "name": "Prelog",
-      "id": "m9QtVICGlYlp"
+      "id": "prelog",
+      "name": "Prelog"
     },
     {
-      "name": "Primosten",
-      "id": "1nKrAlzK3lzG"
+      "id": "primosten",
+      "name": "Primosten"
     },
     {
-      "name": "Privlaka",
-      "id": "fPM5zBu7mNDB"
+      "id": "privlaka",
+      "name": "Privlaka"
     },
     {
-      "name": "Pula",
-      "id": "iHtT-ENBidyp"
+      "id": "pula",
+      "name": "Pula"
     },
     {
-      "name": "Rab",
-      "id": "HDszBM4E_1cI"
+      "id": "rab",
+      "name": "Rab"
     },
     {
-      "name": "Rakitje",
-      "id": "EqotzpwxtoWo"
+      "id": "rakitje",
+      "name": "Rakitje"
     },
     {
-      "name": "Rijeka",
-      "id": "V4hJfomO0shf"
+      "id": "rijeka",
+      "name": "Rijeka"
     },
     {
-      "name": "Rovinj",
-      "id": "M3_w16E-qY86"
+      "id": "rovinj",
+      "name": "Rovinj"
     },
     {
-      "name": "Samobor",
-      "id": "UH7QOLo_U4HW"
+      "id": "samobor",
+      "name": "Samobor"
     },
     {
-      "name": "Sapjane",
-      "id": "bm7pxrM2hKWw"
+      "id": "sapjane",
+      "name": "Sapjane"
     },
     {
-      "name": "Senkovec",
-      "id": "G51iHlWWG7nL"
+      "id": "senkovec",
+      "name": "Senkovec"
     },
     {
-      "name": "Sesvete",
-      "id": "EO6pccYiVwe8"
+      "id": "sesvete",
+      "name": "Sesvete"
     },
     {
-      "name": "Sesvetski Kraljevec",
-      "id": "FGFzu-M961un"
+      "id": "sesvetski-kraljevec",
+      "name": "Sesvetski Kraljevec"
     },
     {
-      "name": "Sice",
-      "id": "1kZMOMFpek6V"
+      "id": "sice",
+      "name": "Sice"
     },
     {
-      "name": "Silas",
-      "id": "NUdtOfMy7q1U"
+      "id": "silas",
+      "name": "Silas"
     },
     {
-      "name": "Simuni",
-      "id": "cGtMCGo26-W8"
+      "id": "simuni",
+      "name": "Simuni"
     },
     {
-      "name": "Sinj",
-      "id": "KtkdU8oks5d0"
+      "id": "sinj",
+      "name": "Sinj"
     },
     {
-      "name": "Sisak",
-      "id": "xHCpBLlHfaW8"
+      "id": "sisak",
+      "name": "Sisak"
     },
     {
-      "name": "Slatina",
-      "id": "mLzIPngwl1yc"
+      "id": "slatina",
+      "name": "Slatina"
     },
     {
-      "name": "Slavonski Brod",
-      "id": "151Z4g59kb-2"
+      "id": "slavonski-brod",
+      "name": "Slavonski Brod"
     },
     {
-      "name": "Sokolovac",
-      "id": "wLnw1f8pwXaw"
+      "id": "sokolovac",
+      "name": "Sokolovac"
     },
     {
-      "name": "Solin",
-      "id": "Bhta6MW7Af8R"
+      "id": "solin",
+      "name": "Solin"
     },
     {
-      "name": "Split",
-      "id": "I4LYXtvuOeDZ"
+      "id": "split",
+      "name": "Split"
     },
     {
-      "name": "Splitska",
-      "id": "Iqc-FcZu2V_X"
+      "id": "splitska",
+      "name": "Splitska"
     },
     {
-      "name": "Strmec",
-      "id": "FenMrX-OwoXl"
+      "id": "strmec",
+      "name": "Strmec"
     },
     {
-      "name": "Strmec Samoborski",
-      "id": "fmSp81V5k6y2"
+      "id": "strmec-samoborski",
+      "name": "Strmec Samoborski"
     },
     {
-      "name": "Sveti Ivan Zelina",
-      "id": "fkx_qGnTN6w2"
+      "id": "sveti-ivan-zelina",
+      "name": "Sveti Ivan Zelina"
     },
     {
-      "name": "Tar",
-      "id": "EV6U0buTu6O5"
+      "id": "tar",
+      "name": "Tar"
     },
     {
-      "name": "Torcec",
-      "id": "tB1gRs-M9pxl"
+      "id": "torcec",
+      "name": "Torcec"
     },
     {
-      "name": "Trogir",
-      "id": "PA3DKn9wO0Lk"
+      "id": "trogir",
+      "name": "Trogir"
     },
     {
-      "name": "Tuzno",
-      "id": "yobGM0-aDy33"
+      "id": "tuzno",
+      "name": "Tuzno"
     },
     {
-      "name": "Umag",
-      "id": "G4LdGd2a8r57"
+      "id": "umag",
+      "name": "Umag"
     },
     {
-      "name": "Varazdinske Toplice",
-      "id": "8PiUsbodWHfH"
+      "id": "varazdinske-toplice",
+      "name": "Varazdinske Toplice"
     },
     {
-      "name": "Vardarac",
-      "id": "F7JeKdBCZu_t"
+      "id": "vardarac",
+      "name": "Vardarac"
     },
     {
-      "name": "Velika Gorica",
-      "id": "iBHM5F-_aeSU"
+      "id": "velika-gorica",
+      "name": "Velika Gorica"
     },
     {
-      "name": "Vetovo",
-      "id": "03w7j9Sac2jp"
+      "id": "vetovo",
+      "name": "Vetovo"
     },
     {
-      "name": "Vinica",
-      "id": "m56rIuYu04On"
+      "id": "vinica",
+      "name": "Vinica"
     },
     {
-      "name": "Vinkovci",
-      "id": "ZDhCJxUO2bmR"
+      "id": "vinkovci",
+      "name": "Vinkovci"
     },
     {
-      "name": "Virje",
-      "id": "m0Bgoix1thuQ"
+      "id": "virje",
+      "name": "Virje"
     },
     {
-      "name": "Virovitica",
-      "id": "55JPrACUM5FZ"
+      "id": "virovitica",
+      "name": "Virovitica"
     },
     {
-      "name": "Viskovci",
-      "id": "dJgLsfvC7RNO"
+      "id": "viskovci",
+      "name": "Viskovci"
     },
     {
-      "name": "Vojnic",
-      "id": "kw0ssq_Gtf4_"
+      "id": "vojnic",
+      "name": "Vojnic"
     },
     {
-      "name": "Vrata",
-      "id": "vVVWULjHS4px"
+      "id": "vrata",
+      "name": "Vrata"
     },
     {
-      "name": "Vratisinec",
-      "id": "kJWbIq7F-8Kw"
+      "id": "vratisinec",
+      "name": "Vratisinec"
     },
     {
-      "name": "Vrbnik",
-      "id": "c5oDzZxd5txx"
+      "id": "vrbnik",
+      "name": "Vrbnik"
     },
     {
-      "name": "Vrbovec",
-      "id": "dCLomx7eMLuQ"
+      "id": "vrbovec",
+      "name": "Vrbovec"
     },
     {
-      "name": "Vukovar",
-      "id": "L-mBzSiq4Xwo"
+      "id": "vukovar",
+      "name": "Vukovar"
     },
     {
-      "name": "Zabok",
-      "id": "tTZk9x9wV846"
+      "id": "zabok",
+      "name": "Zabok"
     },
     {
-      "name": "Zadar",
-      "id": "fyMEAfVZfh0s"
+      "id": "zadar",
+      "name": "Zadar"
     },
     {
-      "name": "Zagreb",
-      "id": "RyG3baSRsM7o"
+      "id": "zagreb",
+      "name": "Zagreb"
     },
     {
-      "name": "Zapresic",
-      "id": "nRXi0yStrWSm"
+      "id": "zapresic",
+      "name": "Zapresic"
     },
     {
-      "name": "Zlatar",
-      "id": "x0B_XdWGnwTq"
+      "id": "zlatar",
+      "name": "Zlatar"
     }
   ]
 }

@@ -2,44 +2,44 @@
   "coid": "LA",
   "cities": [
     {
-      "name": "Vientiane",
-      "id": "nqgBHRzJenlx"
+      "id": "vientiane",
+      "name": "Vientiane"
     },
     {
-      "name": "Pakse",
-      "id": "s7PT-WyGyRKN"
+      "id": "pakse",
+      "name": "Pakse"
     },
     {
-      "name": "Savannakhet",
-      "id": "o6VG6TDA4A5g"
+      "id": "savannakhet",
+      "name": "Savannakhet"
     },
     {
-      "name": "Luang Prabang",
-      "id": "v2Xv_E2wXfdm"
+      "id": "luang-prabang",
+      "name": "Luang Prabang"
     },
     {
-      "name": "Xam Neua",
-      "id": "USXwcP6z_EdL"
+      "id": "xam-neua",
+      "name": "Xam Neua"
     },
     {
-      "name": "Phonsavan",
-      "id": "_9aBi7ClnloY"
+      "id": "phonsavan",
+      "name": "Phonsavan"
     },
     {
-      "name": "Thakhek",
-      "id": "cbDSxE-HQp-t"
+      "id": "thakhek",
+      "name": "Thakhek"
     },
     {
-      "name": "Muang Xay",
-      "id": "XrAuVSGmjZDt"
+      "id": "muang-xay",
+      "name": "Muang Xay"
     },
     {
-      "name": "Houayxay",
-      "id": "Yec6xc0BCTR7"
+      "id": "houayxay",
+      "name": "Houayxay"
     },
     {
-      "name": "Attapeu",
-      "id": "2KkNmRX6pOWn"
+      "id": "attapeu",
+      "name": "Attapeu"
     }
   ]
 }

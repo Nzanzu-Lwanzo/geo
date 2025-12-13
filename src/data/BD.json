@@ -2,72 +2,72 @@
   "coid": "BD",
   "cities": [
     {
-      "name": "Agrabad",
-      "id": "aSTN2mJm_u4O"
+      "id": "agrabad",
+      "name": "Agrabad"
     },
     {
-      "name": "Bangla",
-      "id": "j9gDjLsVMMUv"
+      "id": "bangla",
+      "name": "Bangla"
     },
     {
-      "name": "Barisal",
-      "id": "EGmP4s2_kyFN"
+      "id": "barisal",
+      "name": "Barisal"
     },
     {
-      "name": "Bazar",
-      "id": "d0hsvfSeU67O"
+      "id": "bazar",
+      "name": "Bazar"
     },
     {
-      "name": "Chittagong",
-      "id": "YYxOp6XfJq70"
+      "id": "chittagong",
+      "name": "Chittagong"
     },
     {
-      "name": "Comilla",
-      "id": "OvBZkRZmW6xg"
+      "id": "comilla",
+      "name": "Comilla"
     },
     {
-      "name": "Delta",
-      "id": "28E_WPY6Eeat"
+      "id": "delta",
+      "name": "Delta"
     },
     {
-      "name": "Dhaka",
-      "id": "itVUfupIPg3v"
+      "id": "dhaka",
+      "name": "Dhaka"
     },
     {
-      "name": "Hossain",
-      "id": "Sdb4nf4ospj_"
+      "id": "hossain",
+      "name": "Hossain"
     },
     {
-      "name": "Jessore",
-      "id": "Kd5zHqJbxFr2"
+      "id": "jessore",
+      "name": "Jessore"
     },
     {
-      "name": "Kabi",
-      "id": "agu5gav-ZjFS"
+      "id": "kabi",
+      "name": "Kabi"
     },
     {
-      "name": "Kazipur",
-      "id": "tQ_DBBKs3Ay0"
+      "id": "kazipur",
+      "name": "Kazipur"
     },
     {
-      "name": "Mymensingh",
-      "id": "R-H10Urt8jho"
+      "id": "mymensingh",
+      "name": "Mymensingh"
     },
     {
-      "name": "Narayanganj",
-      "id": "F943b386JKLP"
+      "id": "narayanganj",
+      "name": "Narayanganj"
     },
     {
-      "name": "Rajshahi",
-      "id": "5BZVyG9AAocL"
+      "id": "rajshahi",
+      "name": "Rajshahi"
     },
     {
-      "name": "Tejgaon",
-      "id": "v6bsanYdr0Vw"
+      "id": "tejgaon",
+      "name": "Tejgaon"
     },
     {
-      "name": "Uttara",
-      "id": "cZWGUnXtCgBm"
+      "id": "uttara",
+      "name": "Uttara"
     }
   ]
 }

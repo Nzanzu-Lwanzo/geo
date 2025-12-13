@@ -2,44 +2,44 @@
   "coid": "CZ",
   "cities": [
     {
-      "name": "Prague",
-      "id": "fZ-2fJK24vfb"
+      "id": "prague",
+      "name": "Prague"
     },
     {
-      "name": "Brno",
-      "id": "MASHBUM39jch"
+      "id": "brno",
+      "name": "Brno"
     },
     {
-      "name": "Ostrava",
-      "id": "6IACqTMorMoo"
+      "id": "ostrava",
+      "name": "Ostrava"
     },
     {
-      "name": "Plzeň",
-      "id": "OE-hhOSs2b5J"
+      "id": "plzen",
+      "name": "Plzeň"
     },
     {
-      "name": "Liberec",
-      "id": "oX58csWipTKP"
+      "id": "liberec",
+      "name": "Liberec"
     },
     {
-      "name": "Olomouc",
-      "id": "bfzgYLrGTxT8"
+      "id": "olomouc",
+      "name": "Olomouc"
     },
     {
-      "name": "Ústí nad Labem",
-      "id": "6pVJkCXnJROQ"
+      "id": "usti-nad-labem",
+      "name": "Ústí nad Labem"
     },
     {
-      "name": "Hradec Králové",
-      "id": "-3eFyx_8PpdI"
+      "id": "hradec-kralove",
+      "name": "Hradec Králové"
     },
     {
-      "name": "Pardubice",
-      "id": "fnkTaBzr1DMx"
+      "id": "pardubice",
+      "name": "Pardubice"
     },
     {
-      "name": "Zlín",
-      "id": "XheQBxEFDwlv"
+      "id": "zlin",
+      "name": "Zlín"
     }
   ]
 }

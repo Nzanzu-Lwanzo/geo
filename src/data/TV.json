@@ -2,44 +2,44 @@
   "coid": "TV",
   "cities": [
     {
-      "name": "Funafuti",
-      "id": "W3hIg9OTv95o"
+      "id": "funafuti",
+      "name": "Funafuti"
     },
     {
-      "name": "Fongafale",
-      "id": "1zV0KS97nL-B"
+      "id": "fongafale",
+      "name": "Fongafale"
     },
     {
-      "name": "Vaiaku",
-      "id": "B2eSfBQvFufG"
+      "id": "vaiaku",
+      "name": "Vaiaku"
     },
     {
-      "name": "Nanumea",
-      "id": "rLlggt6XdbBH"
+      "id": "nanumea",
+      "name": "Nanumea"
     },
     {
-      "name": "Nui",
-      "id": "-66FGVWCFssM"
+      "id": "nui",
+      "name": "Nui"
     },
     {
-      "name": "Nukufetau",
-      "id": "HBeTdqifqFnn"
+      "id": "nukufetau",
+      "name": "Nukufetau"
     },
     {
-      "name": "Nukulaelae",
-      "id": "5SXZo-iOob0d"
+      "id": "nukulaelae",
+      "name": "Nukulaelae"
     },
     {
-      "name": "Vaitupu",
-      "id": "3Ga5iJD441WQ"
+      "id": "vaitupu",
+      "name": "Vaitupu"
     },
     {
-      "name": "Niutao",
-      "id": "sQc4lUkmBJtJ"
+      "id": "niutao",
+      "name": "Niutao"
     },
     {
-      "name": "Nuiatoputapu",
-      "id": "tsuOdWmICpxu"
+      "id": "nuiatoputapu",
+      "name": "Nuiatoputapu"
     }
   ]
 }

@@ -2,56 +2,56 @@
   "coid": "NI",
   "cities": [
     {
-      "name": "Bluefields",
-      "id": "X4cIm9ga4Rl4"
+      "id": "bluefields",
+      "name": "Bluefields"
     },
     {
-      "name": "Chinandega",
-      "id": "yAt8YEZgUx7c"
+      "id": "chinandega",
+      "name": "Chinandega"
     },
     {
-      "name": "El Panama",
-      "id": "P0NSqJY6GKv0"
+      "id": "el-panama",
+      "name": "El Panama"
     },
     {
-      "name": "Esteli",
-      "id": "2iddiww7-ppx"
+      "id": "esteli",
+      "name": "Esteli"
     },
     {
-      "name": "Granada",
-      "id": "ho_l6QyWBqkH"
+      "id": "granada",
+      "name": "Granada"
     },
     {
-      "name": "Jinotega",
-      "id": "x6dBuKjWXxDS"
+      "id": "jinotega",
+      "name": "Jinotega"
     },
     {
-      "name": "Los Arados",
-      "id": "samsHdPAh4kS"
+      "id": "los-arados",
+      "name": "Los Arados"
     },
     {
-      "name": "Managua",
-      "id": "IahW2AGOmj0b"
+      "id": "managua",
+      "name": "Managua"
     },
     {
-      "name": "Masaya",
-      "id": "42HGkbxonmgP"
+      "id": "masaya",
+      "name": "Masaya"
     },
     {
-      "name": "Matagalpa",
-      "id": "wBVdOf3fA8j5"
+      "id": "matagalpa",
+      "name": "Matagalpa"
     },
     {
-      "name": "Ocotal",
-      "id": "IdpfnfK2hs91"
+      "id": "ocotal",
+      "name": "Ocotal"
     },
     {
-      "name": "Rivas",
-      "id": "4qIPKhpYip7N"
+      "id": "rivas",
+      "name": "Rivas"
     },
     {
-      "name": "San Juan del Sur",
-      "id": "U_HTlGc6ie7M"
+      "id": "san-juan-del-sur",
+      "name": "San Juan del Sur"
     }
   ]
 }

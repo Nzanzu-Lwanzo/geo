@@ -2,88 +2,88 @@
   "coid": "MN",
   "cities": [
     {
-      "name": "Altai",
-      "id": "wfPFyyS8dPLi"
+      "id": "altai",
+      "name": "Altai"
     },
     {
-      "name": "Arvayheer",
-      "id": "TWWMu2L-Ln7R"
+      "id": "arvayheer",
+      "name": "Arvayheer"
     },
     {
-      "name": "Baruun-Urt",
-      "id": "GYZIKUg0CNO_"
+      "id": "baruun-urt",
+      "name": "Baruun-Urt"
     },
     {
-      "name": "Bayangol",
-      "id": "QJpeJ6CZGUR4"
+      "id": "bayangol",
+      "name": "Bayangol"
     },
     {
-      "name": "Bayanhongor",
-      "id": "5TQ-1h_0V21c"
+      "id": "bayanhongor",
+      "name": "Bayanhongor"
     },
     {
-      "name": "Cecerleg",
-      "id": "sO6DDbQ80yTO"
+      "id": "cecerleg",
+      "name": "Cecerleg"
     },
     {
-      "name": "Chihertey",
-      "id": "qrlOCueYH588"
+      "id": "chihertey",
+      "name": "Chihertey"
     },
     {
-      "name": "Choyr",
-      "id": "3Io0ziUX0c3y"
+      "id": "choyr",
+      "name": "Choyr"
     },
     {
-      "name": "Dalandzadgad",
-      "id": "sxhWDUha1dvY"
+      "id": "dalandzadgad",
+      "name": "Dalandzadgad"
     },
     {
-      "name": "Darhan",
-      "id": "DLNwHsbp-gun"
+      "id": "darhan",
+      "name": "Darhan"
     },
     {
-      "name": "Han-Uul",
-      "id": "7VxCFEMilyYx"
+      "id": "han-uul",
+      "name": "Han-Uul"
     },
     {
-      "name": "Javhlant",
-      "id": "lV4iBJjyeKax"
+      "id": "javhlant",
+      "name": "Javhlant"
     },
     {
-      "name": "Khovd",
-      "id": "u9-ENgoJCZct"
+      "id": "khovd",
+      "name": "Khovd"
     },
     {
-      "name": "Mandalgovi",
-      "id": "pAK0JoQ4XF5f"
+      "id": "mandalgovi",
+      "name": "Mandalgovi"
     },
     {
-      "name": "Ovoot",
-      "id": "FVLBzJHF8Ok6"
+      "id": "ovoot",
+      "name": "Ovoot"
     },
     {
-      "name": "Saynshand",
-      "id": "-ainRbNE4nYk"
+      "id": "saynshand",
+      "name": "Saynshand"
     },
     {
-      "name": "Toyrim",
-      "id": "vsjPCc20U3SC"
+      "id": "toyrim",
+      "name": "Toyrim"
     },
     {
-      "name": "Ulaan-Uul",
-      "id": "_revuuyhtkh5"
+      "id": "ulaan-uul",
+      "name": "Ulaan-Uul"
     },
     {
-      "name": "Ulan Bator",
-      "id": "vJBpt-wSieZ2"
+      "id": "ulan-bator",
+      "name": "Ulan Bator"
     },
     {
-      "name": "Uliastay",
-      "id": "8SULuNf07Wyv"
+      "id": "uliastay",
+      "name": "Uliastay"
     },
     {
-      "name": "Undurkhaan",
-      "id": "43DKRGJVA1Nn"
+      "id": "undurkhaan",
+      "name": "Undurkhaan"
     }
   ]
 }

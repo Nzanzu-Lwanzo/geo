@@ -2,60 +2,60 @@
   "coid": "AM",
   "cities": [
     {
-      "name": "Abovyan",
-      "id": "T0wsIR2lTylx"
+      "id": "abovyan",
+      "name": "Abovyan"
     },
     {
-      "name": "Agarak",
-      "id": "LkyiwMp4BXO9"
+      "id": "agarak",
+      "name": "Agarak"
     },
     {
-      "name": "Apaga",
-      "id": "ih2hXDzVVa97"
+      "id": "apaga",
+      "name": "Apaga"
     },
     {
-      "name": "Aparan",
-      "id": "s02gPUBCle4v"
+      "id": "aparan",
+      "name": "Aparan"
     },
     {
-      "name": "Arabkir",
-      "id": "R6SeAM-8LJZj"
+      "id": "arabkir",
+      "name": "Arabkir"
     },
     {
-      "name": "Ashtarak",
-      "id": "oilw3Nlk6wWA"
+      "id": "ashtarak",
+      "name": "Ashtarak"
     },
     {
-      "name": "Erebuni Fortress",
-      "id": "ap54p-cJwbM0"
+      "id": "erebuni-fortress",
+      "name": "Erebuni Fortress"
     },
     {
-      "name": "Hrazdan",
-      "id": "_BZUKM0bmWrL"
+      "id": "hrazdan",
+      "name": "Hrazdan"
     },
     {
-      "name": "Ijevan",
-      "id": "_fL11kGTyufi"
+      "id": "ijevan",
+      "name": "Ijevan"
     },
     {
-      "name": "Jermuk",
-      "id": "JjrOanqHBQ0Y"
+      "id": "jermuk",
+      "name": "Jermuk"
     },
     {
-      "name": "Kapan",
-      "id": "9sF-23UE6oCW"
+      "id": "kapan",
+      "name": "Kapan"
     },
     {
-      "name": "Tsaghkadzor",
-      "id": "jcmN97csYDNZ"
+      "id": "tsaghkadzor",
+      "name": "Tsaghkadzor"
     },
     {
-      "name": "Vanadzor",
-      "id": "o1mM1aa9ibUd"
+      "id": "vanadzor",
+      "name": "Vanadzor"
     },
     {
-      "name": "Yerevan",
-      "id": "H1ry3JlbWOWx"
+      "id": "yerevan",
+      "name": "Yerevan"
     }
   ]
 }

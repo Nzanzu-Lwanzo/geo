@@ -2,44 +2,44 @@
   "coid": "NE",
   "cities": [
     {
-      "name": "Niamey",
-      "id": "ECz88PfN4cdu"
+      "id": "niamey",
+      "name": "Niamey"
     },
     {
-      "name": "Zinder",
-      "id": "_ouVipRngh6I"
+      "id": "zinder",
+      "name": "Zinder"
     },
     {
-      "name": "Maradi",
-      "id": "Icfrl2NL5Ndq"
+      "id": "maradi",
+      "name": "Maradi"
     },
     {
-      "name": "Agadez",
-      "id": "R1r_SScq7VvE"
+      "id": "agadez",
+      "name": "Agadez"
     },
     {
-      "name": "Tahoua",
-      "id": "ApVcOGsTzwbY"
+      "id": "tahoua",
+      "name": "Tahoua"
     },
     {
-      "name": "Dosso",
-      "id": "cvheMk-UDvNr"
+      "id": "dosso",
+      "name": "Dosso"
     },
     {
-      "name": "Diffa",
-      "id": "SESLLR1_RzmW"
+      "id": "diffa",
+      "name": "Diffa"
     },
     {
-      "name": "Tillabéri",
-      "id": "3cNU5jLXUTKV"
+      "id": "tillaberi",
+      "name": "Tillabéri"
     },
     {
-      "name": "Gaya",
-      "id": "BDg1DBRmaJYZ"
+      "id": "gaya",
+      "name": "Gaya"
     },
     {
-      "name": "Tessaoua",
-      "id": "FEzWJ2PQcEzw"
+      "id": "tessaoua",
+      "name": "Tessaoua"
     }
   ]
 }

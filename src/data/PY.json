@@ -2,112 +2,112 @@
   "coid": "PY",
   "cities": [
     {
-      "name": "Ayolas",
-      "id": "Mpo3kciotjJP"
+      "id": "ayolas",
+      "name": "Ayolas"
     },
     {
-      "name": "Boqueron",
-      "id": "4tUpy_xhTUwO"
+      "id": "boqueron",
+      "name": "Boqueron"
     },
     {
-      "name": "Chore",
-      "id": "STB316f8w-Cq"
+      "id": "chore",
+      "name": "Chore"
     },
     {
-      "name": "Ciudad del Este",
-      "id": "D_FJUYFhRJv0"
+      "id": "ciudad-del-este",
+      "name": "Ciudad del Este"
     },
     {
-      "name": "Colonia Mariano Roque Alonso",
-      "id": "YkVta1BOT3g0"
+      "id": "colonia-mariano-roque-alonso",
+      "name": "Colonia Mariano Roque Alonso"
     },
     {
-      "name": "Coronel Oviedo",
-      "id": "h6s_WUx_Zsc0"
+      "id": "coronel-oviedo",
+      "name": "Coronel Oviedo"
     },
     {
-      "name": "Fernando de la Mora",
-      "id": "sN7VIDqdNAJC"
+      "id": "fernando-de-la-mora",
+      "name": "Fernando de la Mora"
     },
     {
-      "name": "Fuerte Olimpo",
-      "id": "rV3EmVtE0V3Q"
+      "id": "fuerte-olimpo",
+      "name": "Fuerte Olimpo"
     },
     {
-      "name": "Hernandarias",
-      "id": "6q_bqWsPAMU8"
+      "id": "hernandarias",
+      "name": "Hernandarias"
     },
     {
-      "name": "Hohenau",
-      "id": "jonP3KQKtMJe"
+      "id": "hohenau",
+      "name": "Hohenau"
     },
     {
-      "name": "Independencia",
-      "id": "pwN6SoFAIOCQ"
+      "id": "independencia",
+      "name": "Independencia"
     },
     {
-      "name": "La Paz",
-      "id": "TwJqy7l5RkPN"
+      "id": "la-paz",
+      "name": "La Paz"
     },
     {
-      "name": "Limpio",
-      "id": "tHh7rpJNNlqU"
+      "id": "limpio",
+      "name": "Limpio"
     },
     {
-      "name": "Loma Plata",
-      "id": "SEt2E8wMVyhp"
+      "id": "loma-plata",
+      "name": "Loma Plata"
     },
     {
-      "name": "Luque",
-      "id": "tTg_GuYyEc2K"
+      "id": "luque",
+      "name": "Luque"
     },
     {
-      "name": "Nemby",
-      "id": "C3DH_K5vAIU_"
+      "id": "nemby",
+      "name": "Nemby"
     },
     {
-      "name": "Presidente Franco",
-      "id": "3pQaDuCTDfhc"
+      "id": "presidente-franco",
+      "name": "Presidente Franco"
     },
     {
-      "name": "Salto del Guaira",
-      "id": "6QB5a9PnnKIN"
+      "id": "salto-del-guaira",
+      "name": "Salto del Guaira"
     },
     {
-      "name": "San Alberto",
-      "id": "7nfYxIY99L2c"
+      "id": "san-alberto",
+      "name": "San Alberto"
     },
     {
-      "name": "San Juan Bautista",
-      "id": "eZC7_qGdgH_9"
+      "id": "san-juan-bautista",
+      "name": "San Juan Bautista"
     },
     {
-      "name": "San Lorenzo",
-      "id": "Rihc9MvKL4u-"
+      "id": "san-lorenzo",
+      "name": "San Lorenzo"
     },
     {
-      "name": "Santa Rita",
-      "id": "vkiYKv_-agk4"
+      "id": "santa-rita",
+      "name": "Santa Rita"
     },
     {
-      "name": "Santa Rosa",
-      "id": "PK29P8XCWNfE"
+      "id": "santa-rosa",
+      "name": "Santa Rosa"
     },
     {
-      "name": "Villa Elisa",
-      "id": "b3b3d5g-fYfc"
+      "id": "villa-elisa",
+      "name": "Villa Elisa"
     },
     {
-      "name": "Villa Hayes",
-      "id": "H_qwWut5w8iW"
+      "id": "villa-hayes",
+      "name": "Villa Hayes"
     },
     {
-      "name": "Villarrica",
-      "id": "xv0E_JcbtaQM"
+      "id": "villarrica",
+      "name": "Villarrica"
     },
     {
-      "name": "Yataity",
-      "id": "fZ5Kkth5YB_A"
+      "id": "yataity",
+      "name": "Yataity"
     }
   ]
 }

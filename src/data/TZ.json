@@ -2,44 +2,44 @@
   "coid": "TZ",
   "cities": [
     {
-      "name": "Arusha",
-      "id": "wZ8GyiDFx7F-"
+      "id": "arusha",
+      "name": "Arusha"
     },
     {
-      "name": "Bukoba",
-      "id": "-QYtKfNMvFCY"
+      "id": "bukoba",
+      "name": "Bukoba"
     },
     {
-      "name": "Dar es Salaam",
-      "id": "B4Xz4LFKSOYO"
+      "id": "dar-es-salaam",
+      "name": "Dar es Salaam"
     },
     {
-      "name": "Dodoma",
-      "id": "i8BWgtOPFVYB"
+      "id": "dodoma",
+      "name": "Dodoma"
     },
     {
-      "name": "Morogoro",
-      "id": "6b8dBOxSnvpg"
+      "id": "morogoro",
+      "name": "Morogoro"
     },
     {
-      "name": "Mwanza",
-      "id": "zmAND07ZKK4m"
+      "id": "mwanza",
+      "name": "Mwanza"
     },
     {
-      "name": "Njombe",
-      "id": "QLyCAkM_jSh_"
+      "id": "njombe",
+      "name": "Njombe"
     },
     {
-      "name": "Raha",
-      "id": "eCAjFs3fTBJw"
+      "id": "raha",
+      "name": "Raha"
     },
     {
-      "name": "Tanga",
-      "id": "FIW5v9beIUlM"
+      "id": "tanga",
+      "name": "Tanga"
     },
     {
-      "name": "Zanzibar",
-      "id": "vYyXOzcb78he"
+      "id": "zanzibar",
+      "name": "Zanzibar"
     }
   ]
 }

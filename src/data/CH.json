@@ -2,5164 +2,5164 @@
   "coid": "CH",
   "cities": [
     {
-      "name": "Aadorf",
-      "id": "v3y7ZiyGP_or"
+      "id": "aadorf",
+      "name": "Aadorf"
     },
     {
-      "name": "Aarau",
-      "id": "LYIYhmL8T6XU"
+      "id": "aarau",
+      "name": "Aarau"
     },
     {
-      "name": "Aarberg",
-      "id": "BCelCD8njJzP"
+      "id": "aarberg",
+      "name": "Aarberg"
     },
     {
-      "name": "Aarburg",
-      "id": "EVqPXH7cicwv"
+      "id": "aarburg",
+      "name": "Aarburg"
     },
     {
-      "name": "Abtwil",
-      "id": "4wgh3LgZNAbt"
+      "id": "abtwil",
+      "name": "Abtwil"
     },
     {
-      "name": "Adelboden",
-      "id": "sCrA4gUWVA9U"
+      "id": "adelboden",
+      "name": "Adelboden"
     },
     {
-      "name": "Adligenswil",
-      "id": "kKZaHRMyUv0T"
+      "id": "adligenswil",
+      "name": "Adligenswil"
     },
     {
-      "name": "Adliswil",
-      "id": "F3P0XjAX5-dx"
+      "id": "adliswil",
+      "name": "Adliswil"
     },
     {
-      "name": "Aesch",
-      "id": "ijxTlB-QJqZW"
+      "id": "aesch",
+      "name": "Aesch"
     },
     {
-      "name": "Aeschau",
-      "id": "XRDIzldYJDcT"
+      "id": "aeschau",
+      "name": "Aeschau"
     },
     {
-      "name": "Aeschlen ob Gunten",
-      "id": "KhEm1ewpKBCx"
+      "id": "aeschlen-ob-gunten",
+      "name": "Aeschlen ob Gunten"
     },
     {
-      "name": "Aettenschwil",
-      "id": "B9C5tW1V_JUt"
+      "id": "aettenschwil",
+      "name": "Aettenschwil"
     },
     {
-      "name": "Aeugst am Albis",
-      "id": "ikjI8yI2mDiu"
+      "id": "aeugst-am-albis",
+      "name": "Aeugst am Albis"
     },
     {
-      "name": "Affoltern am Albis",
-      "id": "x_SrPZP6UnhT"
+      "id": "affoltern-am-albis",
+      "name": "Affoltern am Albis"
     },
     {
-      "name": "Agno",
-      "id": "1THIqvJ85YFF"
+      "id": "agno",
+      "name": "Agno"
     },
     {
-      "name": "Agra",
-      "id": "uKk_QePp1XyE"
+      "id": "agra",
+      "name": "Agra"
     },
     {
-      "name": "Aigle",
-      "id": "UNCtLnmocZme"
+      "id": "aigle",
+      "name": "Aigle"
     },
     {
-      "name": "Airolo",
-      "id": "JAx_F1ZUIjRm"
+      "id": "airolo",
+      "name": "Airolo"
     },
     {
-      "name": "Alberswil",
-      "id": "d_Z1dVAM9ebV"
+      "id": "alberswil",
+      "name": "Alberswil"
     },
     {
-      "name": "Albligen",
-      "id": "ugws1t90CHlX"
+      "id": "albligen",
+      "name": "Albligen"
     },
     {
-      "name": "Alchenstorf",
-      "id": "f8CnlM5HdatL"
+      "id": "alchenstorf",
+      "name": "Alchenstorf"
     },
     {
-      "name": "Allaman",
-      "id": "jBY-PVtxOm6M"
+      "id": "allaman",
+      "name": "Allaman"
     },
     {
-      "name": "Allschwil",
-      "id": "XCXH_GAHoRoM"
+      "id": "allschwil",
+      "name": "Allschwil"
     },
     {
-      "name": "Alpnach",
-      "id": "qe4oOGAmQMMd"
+      "id": "alpnach",
+      "name": "Alpnach"
     },
     {
-      "name": "Alt-Bachs",
-      "id": "y4OQPT5sV5YH"
+      "id": "alt-bachs",
+      "name": "Alt-Bachs"
     },
     {
-      "name": "Altdorf",
-      "id": "oGE39dSV9SLy"
+      "id": "altdorf",
+      "name": "Altdorf"
     },
     {
-      "name": "Altendorf",
-      "id": "WJWKktarcLjo"
+      "id": "altendorf",
+      "name": "Altendorf"
     },
     {
-      "name": "Altenrhein",
-      "id": "FUVmo64B222T"
+      "id": "altenrhein",
+      "name": "Altenrhein"
     },
     {
-      "name": "Alterswil",
-      "id": "eXGLBZ8CJ9dz"
+      "id": "alterswil",
+      "name": "Alterswil"
     },
     {
-      "name": "Altishofen",
-      "id": "A600UJG7ddwb"
+      "id": "altishofen",
+      "name": "Altishofen"
     },
     {
-      "name": "Altnau",
-      "id": "ytEcSqI_RxHI"
+      "id": "altnau",
+      "name": "Altnau"
     },
     {
-      "name": "Altstatten",
-      "id": "jr5JRo8TydZV"
+      "id": "altstatten",
+      "name": "Altstatten"
     },
     {
-      "name": "Amden",
-      "id": "sOKx9gry2EA1"
+      "id": "amden",
+      "name": "Amden"
     },
     {
-      "name": "Amriswil",
-      "id": "UQmVzSbJM35u"
+      "id": "amriswil",
+      "name": "Amriswil"
     },
     {
-      "name": "Amsoldingen",
-      "id": "RIJSgnVRy0_p"
+      "id": "amsoldingen",
+      "name": "Amsoldingen"
     },
     {
-      "name": "Andermatt",
-      "id": "gnJq1fZmuZgz"
+      "id": "andermatt",
+      "name": "Andermatt"
     },
     {
-      "name": "Andwil",
-      "id": "Bk_GgQoYXXO_"
+      "id": "andwil",
+      "name": "Andwil"
     },
     {
-      "name": "Anieres",
-      "id": "clCR8Pn1YUjS"
+      "id": "anieres",
+      "name": "Anieres"
     },
     {
-      "name": "Appenzell",
-      "id": "CMwqa0wuv8gw"
+      "id": "appenzell",
+      "name": "Appenzell"
     },
     {
-      "name": "Apples",
-      "id": "mWAbXXO3Q3lV"
+      "id": "apples",
+      "name": "Apples"
     },
     {
-      "name": "Apro",
-      "id": "7mck-rKD0T_w"
+      "id": "apro",
+      "name": "Apro"
     },
     {
-      "name": "Arbaz",
-      "id": "8mVzmq1OLrn0"
+      "id": "arbaz",
+      "name": "Arbaz"
     },
     {
-      "name": "Arbedo",
-      "id": "_eC8Dh4nOLJ7"
+      "id": "arbedo",
+      "name": "Arbedo"
     },
     {
-      "name": "Arbon",
-      "id": "Iubg4qpv5dpg"
+      "id": "arbon",
+      "name": "Arbon"
     },
     {
-      "name": "Arcegno",
-      "id": "mbNRT1axqJ_C"
+      "id": "arcegno",
+      "name": "Arcegno"
     },
     {
-      "name": "Ardon",
-      "id": "6yPkbPix7v0k"
+      "id": "ardon",
+      "name": "Ardon"
     },
     {
-      "name": "Arisdorf",
-      "id": "aDWtXFzREFUH"
+      "id": "arisdorf",
+      "name": "Arisdorf"
     },
     {
-      "name": "Aristau",
-      "id": "virfWk_pwwHj"
+      "id": "aristau",
+      "name": "Aristau"
     },
     {
-      "name": "Arlesheim",
-      "id": "wFTRpkNGQ7Id"
+      "id": "arlesheim",
+      "name": "Arlesheim"
     },
     {
-      "name": "Arni",
-      "id": "uZqJAfSN9fXg"
+      "id": "arni",
+      "name": "Arni"
     },
     {
-      "name": "Arogno",
-      "id": "j38pzx-Y-VU7"
+      "id": "arogno",
+      "name": "Arogno"
     },
     {
-      "name": "Arosa",
-      "id": "AuQjicYOr2KH"
+      "id": "arosa",
+      "name": "Arosa"
     },
     {
-      "name": "Arth",
-      "id": "rnxLglGqnYoS"
+      "id": "arth",
+      "name": "Arth"
     },
     {
-      "name": "Arzier",
-      "id": "ulQIxlTm_9pR"
+      "id": "arzier",
+      "name": "Arzier"
     },
     {
-      "name": "Arzo",
-      "id": "7uL8xhpzI9gO"
+      "id": "arzo",
+      "name": "Arzo"
     },
     {
-      "name": "Ascona",
-      "id": "4R8oyX_O8AY0"
+      "id": "ascona",
+      "name": "Ascona"
     },
     {
-      "name": "Assens",
-      "id": "-AVargboJ5yj"
+      "id": "assens",
+      "name": "Assens"
     },
     {
-      "name": "Attalens",
-      "id": "O4da40Lo63KC"
+      "id": "attalens",
+      "name": "Attalens"
     },
     {
-      "name": "Attinghausen",
-      "id": "bdMntnFXF_Xu"
+      "id": "attinghausen",
+      "name": "Attinghausen"
     },
     {
-      "name": "Attiswil",
-      "id": "kq8BHcsaZUTU"
+      "id": "attiswil",
+      "name": "Attiswil"
     },
     {
-      "name": "Au",
-      "id": "yHjNsdaTVobN"
+      "id": "au",
+      "name": "Au"
     },
     {
-      "name": "Aubonne",
-      "id": "Nfhl8saSKmAY"
+      "id": "aubonne",
+      "name": "Aubonne"
     },
     {
-      "name": "Auenstein",
-      "id": "-Jab_5fCnOrW"
+      "id": "auenstein",
+      "name": "Auenstein"
     },
     {
-      "name": "Augst",
-      "id": "sR4YrS2zzKpE"
+      "id": "augst",
+      "name": "Augst"
     },
     {
-      "name": "Ausser-Dinhard",
-      "id": "xrUwAComKk00"
+      "id": "ausser-dinhard",
+      "name": "Ausser-Dinhard"
     },
     {
-      "name": "Autigny",
-      "id": "6PgEhc_AQ56B"
+      "id": "autigny",
+      "name": "Autigny"
     },
     {
-      "name": "Auvernier",
-      "id": "JMonxtx3niMf"
+      "id": "auvernier",
+      "name": "Auvernier"
     },
     {
-      "name": "Auw",
-      "id": "yWuFyJDCNGMi"
+      "id": "auw",
+      "name": "Auw"
     },
     {
-      "name": "Avenches",
-      "id": "1ibIz1fLPfjk"
+      "id": "avenches",
+      "name": "Avenches"
     },
     {
-      "name": "Avry",
-      "id": "zB7lSX0kWD_F"
+      "id": "avry",
+      "name": "Avry"
     },
     {
-      "name": "Ayent",
-      "id": "GhsjYEDkz9Wk"
+      "id": "ayent",
+      "name": "Ayent"
     },
     {
-      "name": "Ayer",
-      "id": "dKJyOssR5t-O"
+      "id": "ayer",
+      "name": "Ayer"
     },
     {
-      "name": "Baar",
-      "id": "V0qyV7jwoOQ-"
+      "id": "baar",
+      "name": "Baar"
     },
     {
-      "name": "Bach",
-      "id": "xOll5AlcLn3m"
+      "id": "bach",
+      "name": "Bach"
     },
     {
-      "name": "Bachenbulach",
-      "id": "MiL1sRSHhjMm"
+      "id": "bachenbulach",
+      "name": "Bachenbulach"
     },
     {
-      "name": "Bad Ragaz",
-      "id": "yw8rjuvBH-bE"
+      "id": "bad-ragaz",
+      "name": "Bad Ragaz"
     },
     {
-      "name": "Bad Zurzach",
-      "id": "jT-YD9sT-41c"
+      "id": "bad-zurzach",
+      "name": "Bad Zurzach"
     },
     {
-      "name": "Baden",
-      "id": "zcv5AC-ssvaD"
+      "id": "baden",
+      "name": "Baden"
     },
     {
-      "name": "Balerna",
-      "id": "6BOg2RAhC0FI"
+      "id": "balerna",
+      "name": "Balerna"
     },
     {
-      "name": "Balgach",
-      "id": "LbjyJa8tXk9B"
+      "id": "balgach",
+      "name": "Balgach"
     },
     {
-      "name": "Ballwil",
-      "id": "BYQ3-6NDT8kc"
+      "id": "ballwil",
+      "name": "Ballwil"
     },
     {
-      "name": "Balsthal",
-      "id": "sY6raoZB1Q8o"
+      "id": "balsthal",
+      "name": "Balsthal"
     },
     {
-      "name": "Balterswil",
-      "id": "QqhUwm71WvUw"
+      "id": "balterswil",
+      "name": "Balterswil"
     },
     {
-      "name": "Banco",
-      "id": "hGV8h2JtjEwo"
+      "id": "banco",
+      "name": "Banco"
     },
     {
-      "name": "Bangerten",
-      "id": "82MNGcG8MQ5W"
+      "id": "bangerten",
+      "name": "Bangerten"
     },
     {
-      "name": "Bannwil",
-      "id": "FPqiLgoTvD5x"
+      "id": "bannwil",
+      "name": "Bannwil"
     },
     {
-      "name": "Barbereche",
-      "id": "aQS1IdAuiwLl"
+      "id": "barbereche",
+      "name": "Barbereche"
     },
     {
-      "name": "Baretswil",
-      "id": "k3t8ROsNgevr"
+      "id": "baretswil",
+      "name": "Baretswil"
     },
     {
-      "name": "Bariswil",
-      "id": "gS636BdLByAx"
+      "id": "bariswil",
+      "name": "Bariswil"
     },
     {
-      "name": "Basadingen",
-      "id": "awqdSmHbNlfv"
+      "id": "basadingen",
+      "name": "Basadingen"
     },
     {
-      "name": "Basel",
-      "id": "u_mOVqoqCpvt"
+      "id": "basel",
+      "name": "Basel"
     },
     {
-      "name": "Basse-Nendaz",
-      "id": "DfOXR8ohLi86"
+      "id": "basse-nendaz",
+      "name": "Basse-Nendaz"
     },
     {
-      "name": "Bassecourt",
-      "id": "GT90QtfBVNgS"
+      "id": "bassecourt",
+      "name": "Bassecourt"
     },
     {
-      "name": "Bassersdorf",
-      "id": "pWoxook5v9Xi"
+      "id": "bassersdorf",
+      "name": "Bassersdorf"
     },
     {
-      "name": "Batterkinden",
-      "id": "mk_LZoXhwUgd"
+      "id": "batterkinden",
+      "name": "Batterkinden"
     },
     {
-      "name": "Baulmes",
-      "id": "8SBZB8PD2SVs"
+      "id": "baulmes",
+      "name": "Baulmes"
     },
     {
-      "name": "Bauma",
-      "id": "9oo84FC6v08v"
+      "id": "bauma",
+      "name": "Bauma"
     },
     {
-      "name": "Bavois",
-      "id": "lOy5cu3q_Eze"
+      "id": "bavois",
+      "name": "Bavois"
     },
     {
-      "name": "Bazenheid",
-      "id": "yXrMNlq61dzx"
+      "id": "bazenheid",
+      "name": "Bazenheid"
     },
     {
-      "name": "Beckenried",
-      "id": "pttWIcVDaeyD"
+      "id": "beckenried",
+      "name": "Beckenried"
     },
     {
-      "name": "Begnins",
-      "id": "5QhfMH7bfASi"
+      "id": "begnins",
+      "name": "Begnins"
     },
     {
-      "name": "Beinwil",
-      "id": "RW8Vmqb0qG3u"
+      "id": "beinwil",
+      "name": "Beinwil"
     },
     {
-      "name": "Belfaux",
-      "id": "6zh0J7iGxQ1d"
+      "id": "belfaux",
+      "name": "Belfaux"
     },
     {
-      "name": "Bellerive",
-      "id": "CJ6cuaK7wgs5"
+      "id": "bellerive",
+      "name": "Bellerive"
     },
     {
-      "name": "Bellevue",
-      "id": "wWdCgyLSus9G"
+      "id": "bellevue",
+      "name": "Bellevue"
     },
     {
-      "name": "Bellinzona",
-      "id": "hQOp2GegKIBG"
+      "id": "bellinzona",
+      "name": "Bellinzona"
     },
     {
-      "name": "Bellmund",
-      "id": "hc0G3JMf_K6Q"
+      "id": "bellmund",
+      "name": "Bellmund"
     },
     {
-      "name": "Belmont-sur-Lausanne",
-      "id": "S8meuikEUXDp"
+      "id": "belmont-sur-lausanne",
+      "name": "Belmont-sur-Lausanne"
     },
     {
-      "name": "Belp",
-      "id": "VI1vFceq_Gzj"
+      "id": "belp",
+      "name": "Belp"
     },
     {
-      "name": "Benken",
-      "id": "hEzs5mWhP8QG"
+      "id": "benken",
+      "name": "Benken"
     },
     {
-      "name": "Berg",
-      "id": "z_6SkBzAiV6r"
+      "id": "berg",
+      "name": "Berg"
     },
     {
-      "name": "Berikon",
-      "id": "NMQXgyL6-gO3"
+      "id": "berikon",
+      "name": "Berikon"
     },
     {
-      "name": "Beringen",
-      "id": "yGOk4caoW1bD"
+      "id": "beringen",
+      "name": "Beringen"
     },
     {
-      "name": "Berlikon",
-      "id": "77QMiZeV0Tka"
+      "id": "berlikon",
+      "name": "Berlikon"
     },
     {
-      "name": "Bern",
-      "id": "xXNk4Dm-sfor"
+      "id": "bern",
+      "name": "Bern"
     },
     {
-      "name": "Bern / Liebefeld",
-      "id": "lsvNtWC8eHlF"
+      "id": "bern-liebefeld",
+      "name": "Bern / Liebefeld"
     },
     {
-      "name": "Berneck",
-      "id": "t3MXIqB0xxLT"
+      "id": "berneck",
+      "name": "Berneck"
     },
     {
-      "name": "Bernex",
-      "id": "KsrL1QOwHrY4"
+      "id": "bernex",
+      "name": "Bernex"
     },
     {
-      "name": "Beromuenster",
-      "id": "FIpdKBTtcJ7q"
+      "id": "beromuenster",
+      "name": "Beromuenster"
     },
     {
-      "name": "Bettingen",
-      "id": "WhH-fsRvzTEL"
+      "id": "bettingen",
+      "name": "Bettingen"
     },
     {
-      "name": "Bettlach",
-      "id": "ZFJLj7pAiE6V"
+      "id": "bettlach",
+      "name": "Bettlach"
     },
     {
-      "name": "Beuson",
-      "id": "hyI6xmrRrno_"
+      "id": "beuson",
+      "name": "Beuson"
     },
     {
-      "name": "Bevaix",
-      "id": "jOw-djuoheJU"
+      "id": "bevaix",
+      "name": "Bevaix"
     },
     {
-      "name": "Bevilard",
-      "id": "2dHS25Aqc71p"
+      "id": "bevilard",
+      "name": "Bevilard"
     },
     {
-      "name": "Bex",
-      "id": "UgW284VpDu-z"
+      "id": "bex",
+      "name": "Bex"
     },
     {
-      "name": "Biasca",
-      "id": "Gz7ZsNVW70Iy"
+      "id": "biasca",
+      "name": "Biasca"
     },
     {
-      "name": "Biberist",
-      "id": "70rjIH6w2F9o"
+      "id": "biberist",
+      "name": "Biberist"
     },
     {
-      "name": "Biel-Benken",
-      "id": "vdb6Vw-s5EHx"
+      "id": "biel-benken",
+      "name": "Biel-Benken"
     },
     {
-      "name": "Biel/Bienne",
-      "id": "nsBFENrVr-LS"
+      "id": "bielbienne",
+      "name": "Biel/Bienne"
     },
     {
-      "name": "Biere",
-      "id": "hcQt5Jw5uvVp"
+      "id": "biere",
+      "name": "Biere"
     },
     {
-      "name": "Bigenthal",
-      "id": "MAgJsWx30JFh"
+      "id": "bigenthal",
+      "name": "Bigenthal"
     },
     {
-      "name": "Bigorio",
-      "id": "HYf2sBmlBncB"
+      "id": "bigorio",
+      "name": "Bigorio"
     },
     {
-      "name": "Bilten",
-      "id": "4S8WBFIc-Tdd"
+      "id": "bilten",
+      "name": "Bilten"
     },
     {
-      "name": "Binningen",
-      "id": "nYYPaBDKKktv"
+      "id": "binningen",
+      "name": "Binningen"
     },
     {
-      "name": "Bioggio",
-      "id": "njsn1ONsaZ1h"
+      "id": "bioggio",
+      "name": "Bioggio"
     },
     {
-      "name": "Birmensdorf",
-      "id": "dn4vsf0C1xp3"
+      "id": "birmensdorf",
+      "name": "Birmensdorf"
     },
     {
-      "name": "Birmenstorf",
-      "id": "eYEbK0fjHTIW"
+      "id": "birmenstorf",
+      "name": "Birmenstorf"
     },
     {
-      "name": "Birr",
-      "id": "dl2LI8gCsDuK"
+      "id": "birr",
+      "name": "Birr"
     },
     {
-      "name": "Birsfelden",
-      "id": "00Xg8O7fcuz1"
+      "id": "birsfelden",
+      "name": "Birsfelden"
     },
     {
-      "name": "Bissegg",
-      "id": "fmgxuCyBMTtP"
+      "id": "bissegg",
+      "name": "Bissegg"
     },
     {
-      "name": "Bissone",
-      "id": "t0joXevNagRN"
+      "id": "bissone",
+      "name": "Bissone"
     },
     {
-      "name": "Bitsch",
-      "id": "VSBEfEb9dKUk"
+      "id": "bitsch",
+      "name": "Bitsch"
     },
     {
-      "name": "Blonay",
-      "id": "LEj8epD8p3oe"
+      "id": "blonay",
+      "name": "Blonay"
     },
     {
-      "name": "Blumenstein",
-      "id": "2t7A9ctK3T0_"
+      "id": "blumenstein",
+      "name": "Blumenstein"
     },
     {
-      "name": "Bogis-Bossey",
-      "id": "Nft8atFnpxDN"
+      "id": "bogis-bossey",
+      "name": "Bogis-Bossey"
     },
     {
-      "name": "Boll",
-      "id": "o2Uv2mKiq5kS"
+      "id": "boll",
+      "name": "Boll"
     },
     {
-      "name": "Bolligen",
-      "id": "OSCobB7ne5Kh"
+      "id": "bolligen",
+      "name": "Bolligen"
     },
     {
-      "name": "Bonaduz",
-      "id": "Mf0SMdc9QpnF"
+      "id": "bonaduz",
+      "name": "Bonaduz"
     },
     {
-      "name": "Bonigen",
-      "id": "y-2DFlTOsMAH"
+      "id": "bonigen",
+      "name": "Bonigen"
     },
     {
-      "name": "Bonnefontaine",
-      "id": "lYSbRMKZ9BY8"
+      "id": "bonnefontaine",
+      "name": "Bonnefontaine"
     },
     {
-      "name": "Bonstetten",
-      "id": "jL6VP-YZwmDW"
+      "id": "bonstetten",
+      "name": "Bonstetten"
     },
     {
-      "name": "Borex",
-      "id": "fZ0X2j8KGlTc"
+      "id": "borex",
+      "name": "Borex"
     },
     {
-      "name": "Bosingen",
-      "id": "HU5ywUFcGhV-"
+      "id": "bosingen",
+      "name": "Bosingen"
     },
     {
-      "name": "Bottens",
-      "id": "N29vcOMl-pr5"
+      "id": "bottens",
+      "name": "Bottens"
     },
     {
-      "name": "Bottenwil",
-      "id": "3YHV_eNIOgJS"
+      "id": "bottenwil",
+      "name": "Bottenwil"
     },
     {
-      "name": "Bottighofen",
-      "id": "SGik-bw89Tzi"
+      "id": "bottighofen",
+      "name": "Bottighofen"
     },
     {
-      "name": "Bottmingen",
-      "id": "QVSq2Hbb6Qcj"
+      "id": "bottmingen",
+      "name": "Bottmingen"
     },
     {
-      "name": "Boudry",
-      "id": "gLvvVQ8nDV-9"
+      "id": "boudry",
+      "name": "Boudry"
     },
     {
-      "name": "Bouveret",
-      "id": "LvB4ZiBjDFqN"
+      "id": "bouveret",
+      "name": "Bouveret"
     },
     {
-      "name": "Bramois",
-      "id": "VP1ew9V2bGoi"
+      "id": "bramois",
+      "name": "Bramois"
     },
     {
-      "name": "Breitenbach",
-      "id": "e6p5FfBSAW90"
+      "id": "breitenbach",
+      "name": "Breitenbach"
     },
     {
-      "name": "Bremgarten",
-      "id": "EYInjBYFgOxj"
+      "id": "bremgarten",
+      "name": "Bremgarten"
     },
     {
-      "name": "Brenzikofen",
-      "id": "wbEiGuLTSvXf"
+      "id": "brenzikofen",
+      "name": "Brenzikofen"
     },
     {
-      "name": "Brienz",
-      "id": "dYgIZ03tnd9Y"
+      "id": "brienz",
+      "name": "Brienz"
     },
     {
-      "name": "Brig",
-      "id": "VZlzZh2TpkeD"
+      "id": "brig",
+      "name": "Brig"
     },
     {
-      "name": "Brislach",
-      "id": "5bEvZdTBuk6G"
+      "id": "brislach",
+      "name": "Brislach"
     },
     {
-      "name": "Brissago",
-      "id": "bBVA0S7bycrw"
+      "id": "brissago",
+      "name": "Brissago"
     },
     {
-      "name": "Bristen",
-      "id": "R83bxcoLs-8H"
+      "id": "bristen",
+      "name": "Bristen"
     },
     {
-      "name": "Brittnau",
-      "id": "4kZ2AgDSeRSA"
+      "id": "brittnau",
+      "name": "Brittnau"
     },
     {
-      "name": "Broc",
-      "id": "ZFYgi2w2vPwl"
+      "id": "broc",
+      "name": "Broc"
     },
     {
-      "name": "Bronschhofen",
-      "id": "6-amVJPhVhfY"
+      "id": "bronschhofen",
+      "name": "Bronschhofen"
     },
     {
-      "name": "Brugg",
-      "id": "3EiTu9ngfpZT"
+      "id": "brugg",
+      "name": "Brugg"
     },
     {
-      "name": "Brunnen",
-      "id": "uFJsMszeKMg8"
+      "id": "brunnen",
+      "name": "Brunnen"
     },
     {
-      "name": "Brusino Arsizio",
-      "id": "3JfdwXK8Ee9l"
+      "id": "brusino-arsizio",
+      "name": "Brusino Arsizio"
     },
     {
-      "name": "Brutten",
-      "id": "1asKeOLekBmp"
+      "id": "brutten",
+      "name": "Brutten"
     },
     {
-      "name": "Bruttisellen",
-      "id": "cgUt8BUYm2j8"
+      "id": "bruttisellen",
+      "name": "Bruttisellen"
     },
     {
-      "name": "Bubendorf",
-      "id": "Yd142bMT7Gmi"
+      "id": "bubendorf",
+      "name": "Bubendorf"
     },
     {
-      "name": "Bubikon",
-      "id": "wx0ZNHNxMBov"
+      "id": "bubikon",
+      "name": "Bubikon"
     },
     {
-      "name": "Buch",
-      "id": "B1kMbsskr2gv"
+      "id": "buch",
+      "name": "Buch"
     },
     {
-      "name": "Buchberg",
-      "id": "basGq083IN9x"
+      "id": "buchberg",
+      "name": "Buchberg"
     },
     {
-      "name": "Buchrain",
-      "id": "thNqEUUoSFvO"
+      "id": "buchrain",
+      "name": "Buchrain"
     },
     {
-      "name": "Buchs",
-      "id": "7osWaeifhkgj"
+      "id": "buchs",
+      "name": "Buchs"
     },
     {
-      "name": "Buchs / Buchs (Dorf)",
-      "id": "3ZtIFRqEY7TQ"
+      "id": "buchs-buchs-dorf",
+      "name": "Buchs / Buchs (Dorf)"
     },
     {
-      "name": "Buetschwil",
-      "id": "0Ias9nFlY4oE"
+      "id": "buetschwil",
+      "name": "Buetschwil"
     },
     {
-      "name": "Buix",
-      "id": "JaHiQ9sX5z1B"
+      "id": "buix",
+      "name": "Buix"
     },
     {
-      "name": "Bulach",
-      "id": "N1s3Ql2KQJvs"
+      "id": "bulach",
+      "name": "Bulach"
     },
     {
-      "name": "Bulle",
-      "id": "EbIirGwwfknF"
+      "id": "bulle",
+      "name": "Bulle"
     },
     {
-      "name": "Buochs",
-      "id": "zNCK2YBn6cTw"
+      "id": "buochs",
+      "name": "Buochs"
     },
     {
-      "name": "Buonas",
-      "id": "fv0sXEx0lTN9"
+      "id": "buonas",
+      "name": "Buonas"
     },
     {
-      "name": "Burchen",
-      "id": "a2upFTMoSHDx"
+      "id": "burchen",
+      "name": "Burchen"
     },
     {
-      "name": "Buren an der Aare",
-      "id": "YUK9IVP9C3JH"
+      "id": "buren-an-der-aare",
+      "name": "Buren an der Aare"
     },
     {
-      "name": "Buren nid dem Bach",
-      "id": "AMjGX2WRlXwY"
+      "id": "buren-nid-dem-bach",
+      "name": "Buren nid dem Bach"
     },
     {
-      "name": "Burgdorf",
-      "id": "zNaDfh45q8zT"
+      "id": "burgdorf",
+      "name": "Burgdorf"
     },
     {
-      "name": "Burglen",
-      "id": "sKtjD-WvtcDp"
+      "id": "burglen",
+      "name": "Burglen"
     },
     {
-      "name": "Bursins",
-      "id": "uEOBggxZ5Gci"
+      "id": "bursins",
+      "name": "Bursins"
     },
     {
-      "name": "Busserach",
-      "id": "EkY_hE4Z9F9K"
+      "id": "busserach",
+      "name": "Busserach"
     },
     {
-      "name": "Bussigny",
-      "id": "LbHLQ27lQxS_"
+      "id": "bussigny",
+      "name": "Bussigny"
     },
     {
-      "name": "Busswil",
-      "id": "2ZK5tYft350I"
+      "id": "busswil",
+      "name": "Busswil"
     },
     {
-      "name": "Buttes",
-      "id": "UoKWysnxlp2z"
+      "id": "buttes",
+      "name": "Buttes"
     },
     {
-      "name": "Buttisholz",
-      "id": "vYSy8TfSdOUv"
+      "id": "buttisholz",
+      "name": "Buttisholz"
     },
     {
-      "name": "Butzberg",
-      "id": "_gDjTz1AiS_I"
+      "id": "butzberg",
+      "name": "Butzberg"
     },
     {
-      "name": "Buus",
-      "id": "KS6K0yJVf9uI"
+      "id": "buus",
+      "name": "Buus"
     },
     {
-      "name": "Cadempino",
-      "id": "kqbs-d3eyIq2"
+      "id": "cadempino",
+      "name": "Cadempino"
     },
     {
-      "name": "Cadenazzo",
-      "id": "xaP7l3MiEDCW"
+      "id": "cadenazzo",
+      "name": "Cadenazzo"
     },
     {
-      "name": "Cadro",
-      "id": "JrpWDn82dETd"
+      "id": "cadro",
+      "name": "Cadro"
     },
     {
-      "name": "Camorino",
-      "id": "PCPn1v5LASnH"
+      "id": "camorino",
+      "name": "Camorino"
     },
     {
-      "name": "Campfer",
-      "id": "QAyCobeeHHPA"
+      "id": "campfer",
+      "name": "Campfer"
     },
     {
-      "name": "Canobbio",
-      "id": "NWgzImBwVKmK"
+      "id": "canobbio",
+      "name": "Canobbio"
     },
     {
-      "name": "Capolago",
-      "id": "SyqUSGkbAGUh"
+      "id": "capolago",
+      "name": "Capolago"
     },
     {
-      "name": "Carouge",
-      "id": "egMGf3zButRw"
+      "id": "carouge",
+      "name": "Carouge"
     },
     {
-      "name": "Cartigny",
-      "id": "3FbqYpXMm0jb"
+      "id": "cartigny",
+      "name": "Cartigny"
     },
     {
-      "name": "Caslano",
-      "id": "I1zbLs8e14w9"
+      "id": "caslano",
+      "name": "Caslano"
     },
     {
-      "name": "Castione",
-      "id": "I45y5o9t03Yn"
+      "id": "castione",
+      "name": "Castione"
     },
     {
-      "name": "Cazis",
-      "id": "X5EOisKAFS5i"
+      "id": "cazis",
+      "name": "Cazis"
     },
     {
-      "name": "Celerina",
-      "id": "wfORBGs_nezo"
+      "id": "celerina",
+      "name": "Celerina"
     },
     {
-      "name": "Celigny",
-      "id": "EVbVQwXzpR8Z"
+      "id": "celigny",
+      "name": "Celigny"
     },
     {
-      "name": "Cernier",
-      "id": "of8j0Qg2Y8WQ"
+      "id": "cernier",
+      "name": "Cernier"
     },
     {
-      "name": "Chalais",
-      "id": "-F-zuH49q10Q"
+      "id": "chalais",
+      "name": "Chalais"
     },
     {
-      "name": "Cham",
-      "id": "vwO8XdFd-z-J"
+      "id": "cham",
+      "name": "Cham"
     },
     {
-      "name": "Chambesy",
-      "id": "cblqtFDL7v5j"
+      "id": "chambesy",
+      "name": "Chambesy"
     },
     {
-      "name": "Chamoson",
-      "id": "XaDDOGmbNWnA"
+      "id": "chamoson",
+      "name": "Chamoson"
     },
     {
-      "name": "Champagne",
-      "id": "Dq1KxHciNYiU"
+      "id": "champagne",
+      "name": "Champagne"
     },
     {
-      "name": "Champex",
-      "id": "saDcmLAtf6bW"
+      "id": "champex",
+      "name": "Champex"
     },
     {
-      "name": "Champsec",
-      "id": "kQarzK4qBY9z"
+      "id": "champsec",
+      "name": "Champsec"
     },
     {
-      "name": "Chancy",
-      "id": "4fsuKIk1kFBI"
+      "id": "chancy",
+      "name": "Chancy"
     },
     {
-      "name": "Chapelle",
-      "id": "SPDIdvzLalp9"
+      "id": "chapelle",
+      "name": "Chapelle"
     },
     {
-      "name": "Chardonne",
-      "id": "E-D4DmrdJEWg"
+      "id": "chardonne",
+      "name": "Chardonne"
     },
     {
-      "name": "Charmey",
-      "id": "ENz1livhEQib"
+      "id": "charmey",
+      "name": "Charmey"
     },
     {
-      "name": "Charrat-les-Chenes",
-      "id": "HwQVM7Znf3rN"
+      "id": "charrat-les-chenes",
+      "name": "Charrat-les-Chenes"
     },
     {
-      "name": "Chatel-Saint-Denis",
-      "id": "ejcRJO0MIQZl"
+      "id": "chatel-saint-denis",
+      "name": "Chatel-Saint-Denis"
     },
     {
-      "name": "Chatelaine",
-      "id": "QusxbuoiQaI0"
+      "id": "chatelaine",
+      "name": "Chatelaine"
     },
     {
-      "name": "Chavannes",
-      "id": "pWEnYVY4uO-r"
+      "id": "chavannes",
+      "name": "Chavannes"
     },
     {
-      "name": "Chavannes de Bogis",
-      "id": "CMl5da88TM7x"
+      "id": "chavannes-de-bogis",
+      "name": "Chavannes de Bogis"
     },
     {
-      "name": "Chavannes-les-Forts",
-      "id": "60NmkXB94DEd"
+      "id": "chavannes-les-forts",
+      "name": "Chavannes-les-Forts"
     },
     {
-      "name": "Chavornay",
-      "id": "6pQXd75ZpUIl"
+      "id": "chavornay",
+      "name": "Chavornay"
     },
     {
-      "name": "Cheiry",
-      "id": "GGI5VuQ7vE9y"
+      "id": "cheiry",
+      "name": "Cheiry"
     },
     {
-      "name": "Chene-Bougeries",
-      "id": "bZeh-u6_rCgc"
+      "id": "chene-bougeries",
+      "name": "Chene-Bougeries"
     },
     {
-      "name": "Chene-Bourg",
-      "id": "9VCzNUkJ-WlV"
+      "id": "chene-bourg",
+      "name": "Chene-Bourg"
     },
     {
-      "name": "Chene-Paquier",
-      "id": "YWmUtv_EUD2v"
+      "id": "chene-paquier",
+      "name": "Chene-Paquier"
     },
     {
-      "name": "Cheseaux-sur-Lausanne",
-      "id": "BmeZI11jfamk"
+      "id": "cheseaux-sur-lausanne",
+      "name": "Cheseaux-sur-Lausanne"
     },
     {
-      "name": "Chesieres",
-      "id": "YGDw0rBxNs2H"
+      "id": "chesieres",
+      "name": "Chesieres"
     },
     {
-      "name": "Chexbres",
-      "id": "zoFsE4paKNgz"
+      "id": "chexbres",
+      "name": "Chexbres"
     },
     {
-      "name": "Cheyres",
-      "id": "e7I0uEYl8JOR"
+      "id": "cheyres",
+      "name": "Cheyres"
     },
     {
-      "name": "Chez-le-Bart",
-      "id": "aQrjXul1BMtR"
+      "id": "chez-le-bart",
+      "name": "Chez-le-Bart"
     },
     {
-      "name": "Chiasso",
-      "id": "bxM2KbHaMyv7"
+      "id": "chiasso",
+      "name": "Chiasso"
     },
     {
-      "name": "Chippis",
-      "id": "PwB9cmXbt6tw"
+      "id": "chippis",
+      "name": "Chippis"
     },
     {
-      "name": "Chur",
-      "id": "JDuyAp7R2hUH"
+      "id": "chur",
+      "name": "Chur"
     },
     {
-      "name": "Claro",
-      "id": "kegLtPwu7f-9"
+      "id": "claro",
+      "name": "Claro"
     },
     {
-      "name": "Coeuve",
-      "id": "A0U5-NaN3wSt"
+      "id": "coeuve",
+      "name": "Coeuve"
     },
     {
-      "name": "Cointrin",
-      "id": "Imxb2Mxfh6Ua"
+      "id": "cointrin",
+      "name": "Cointrin"
     },
     {
-      "name": "Collombey",
-      "id": "aB66IAPWvVLi"
+      "id": "collombey",
+      "name": "Collombey"
     },
     {
-      "name": "Colombier",
-      "id": "FRiU4whY4uPG"
+      "id": "colombier",
+      "name": "Colombier"
     },
     {
-      "name": "Concise",
-      "id": "rOUrEuDn0SHV"
+      "id": "concise",
+      "name": "Concise"
     },
     {
-      "name": "Confignon",
-      "id": "2toCXyWQy3Ka"
+      "id": "confignon",
+      "name": "Confignon"
     },
     {
-      "name": "Conthey",
-      "id": "-KqBoVkJsEPE"
+      "id": "conthey",
+      "name": "Conthey"
     },
     {
-      "name": "Contone",
-      "id": "uBBU9NVhTrO2"
+      "id": "contone",
+      "name": "Contone"
     },
     {
-      "name": "Coppet",
-      "id": "4W1Q2xrk7wdI"
+      "id": "coppet",
+      "name": "Coppet"
     },
     {
-      "name": "Corcelles",
-      "id": "7SH-OwKPpwiW"
+      "id": "corcelles",
+      "name": "Corcelles"
     },
     {
-      "name": "Cordast",
-      "id": "QErr5ad-aC0Z"
+      "id": "cordast",
+      "name": "Cordast"
     },
     {
-      "name": "Corgemont",
-      "id": "Agek5B3ob8Js"
+      "id": "corgemont",
+      "name": "Corgemont"
     },
     {
-      "name": "Corminboeuf",
-      "id": "-8kvYPdpWKS9"
+      "id": "corminboeuf",
+      "name": "Corminboeuf"
     },
     {
-      "name": "Cornaux",
-      "id": "9vfmP23WN_2d"
+      "id": "cornaux",
+      "name": "Cornaux"
     },
     {
-      "name": "Corsier",
-      "id": "NA52d5uS9MsT"
+      "id": "corsier",
+      "name": "Corsier"
     },
     {
-      "name": "Cortaillod",
-      "id": "GH-T5wtJdTri"
+      "id": "cortaillod",
+      "name": "Cortaillod"
     },
     {
-      "name": "Cossonay",
-      "id": "eQc7UT10SYKM"
+      "id": "cossonay",
+      "name": "Cossonay"
     },
     {
-      "name": "Cottens",
-      "id": "I4MAYLmk3MJr"
+      "id": "cottens",
+      "name": "Cottens"
     },
     {
-      "name": "Courfaivre",
-      "id": "ntm_qQNaupcA"
+      "id": "courfaivre",
+      "name": "Courfaivre"
     },
     {
-      "name": "Courgenay",
-      "id": "VSSJVfX84UB8"
+      "id": "courgenay",
+      "name": "Courgenay"
     },
     {
-      "name": "Courrendlin",
-      "id": "nb8uBnasEMQk"
+      "id": "courrendlin",
+      "name": "Courrendlin"
     },
     {
-      "name": "Courroux",
-      "id": "6HYQzvXzbwCp"
+      "id": "courroux",
+      "name": "Courroux"
     },
     {
-      "name": "Court",
-      "id": "4qrAhkNzzEqB"
+      "id": "court",
+      "name": "Court"
     },
     {
-      "name": "Courtedoux",
-      "id": "5OaD897NzdR-"
+      "id": "courtedoux",
+      "name": "Courtedoux"
     },
     {
-      "name": "Courtelary",
-      "id": "TqPOsr66FA7r"
+      "id": "courtelary",
+      "name": "Courtelary"
     },
     {
-      "name": "Courtemaiche",
-      "id": "vf_1eMIEesJc"
+      "id": "courtemaiche",
+      "name": "Courtemaiche"
     },
     {
-      "name": "Courtepin",
-      "id": "CywgGOXQH2g5"
+      "id": "courtepin",
+      "name": "Courtepin"
     },
     {
-      "name": "Courtetelle",
-      "id": "MranIC1ps4t1"
+      "id": "courtetelle",
+      "name": "Courtetelle"
     },
     {
-      "name": "Courtion",
-      "id": "TXixZNhe6wFr"
+      "id": "courtion",
+      "name": "Courtion"
     },
     {
-      "name": "Couvet",
-      "id": "f_lPFrfWOJp3"
+      "id": "couvet",
+      "name": "Couvet"
     },
     {
-      "name": "Crassier",
-      "id": "wBthBfLNk9u_"
+      "id": "crassier",
+      "name": "Crassier"
     },
     {
-      "name": "Cremines",
-      "id": "D8RXm054-MfK"
+      "id": "cremines",
+      "name": "Cremines"
     },
     {
-      "name": "Cressier",
-      "id": "p8hfNNiyP2sQ"
+      "id": "cressier",
+      "name": "Cressier"
     },
     {
-      "name": "Crissier",
-      "id": "nGI4S9d4OUQF"
+      "id": "crissier",
+      "name": "Crissier"
     },
     {
-      "name": "Cudrefin",
-      "id": "kueDg1LdOr_g"
+      "id": "cudrefin",
+      "name": "Cudrefin"
     },
     {
-      "name": "Cugnasco",
-      "id": "XS_VX0WoRJeE"
+      "id": "cugnasco",
+      "name": "Cugnasco"
     },
     {
-      "name": "Cugy",
-      "id": "7ftRFV1Wzp6v"
+      "id": "cugy",
+      "name": "Cugy"
     },
     {
-      "name": "Cully",
-      "id": "uNYkwMsVXV3o"
+      "id": "cully",
+      "name": "Cully"
     },
     {
-      "name": "Dachsen",
-      "id": "6H0RZi89ydlA"
+      "id": "dachsen",
+      "name": "Dachsen"
     },
     {
-      "name": "Daettlikon",
-      "id": "JsAe5dWseI_4"
+      "id": "daettlikon",
+      "name": "Daettlikon"
     },
     {
-      "name": "Dagmersellen",
-      "id": "bL6HCRZ5YvHJ"
+      "id": "dagmersellen",
+      "name": "Dagmersellen"
     },
     {
-      "name": "Daillens",
-      "id": "6bnrla5e-zVp"
+      "id": "daillens",
+      "name": "Daillens"
     },
     {
-      "name": "Dallenwil",
-      "id": "urMJTsKhmhuD"
+      "id": "dallenwil",
+      "name": "Dallenwil"
     },
     {
-      "name": "Daniken",
-      "id": "RPqyZUQE4lq0"
+      "id": "daniken",
+      "name": "Daniken"
     },
     {
-      "name": "Dardagny",
-      "id": "ZI6Tjcj4kaHW"
+      "id": "dardagny",
+      "name": "Dardagny"
     },
     {
-      "name": "Dattwil",
-      "id": "OBJyJEBPGFN_"
+      "id": "dattwil",
+      "name": "Dattwil"
     },
     {
-      "name": "Davos",
-      "id": "ghB5vf_McuUx"
+      "id": "davos",
+      "name": "Davos"
     },
     {
-      "name": "Davos Dorf",
-      "id": "3fzlMuO0Funq"
+      "id": "davos-dorf",
+      "name": "Davos Dorf"
     },
     {
-      "name": "Davos Platz",
-      "id": "owpvORYydt29"
+      "id": "davos-platz",
+      "name": "Davos Platz"
     },
     {
-      "name": "Degersheim",
-      "id": "x_lZt_BoHKKH"
+      "id": "degersheim",
+      "name": "Degersheim"
     },
     {
-      "name": "Deitingen",
-      "id": "x4ftbr42IJ2d"
+      "id": "deitingen",
+      "name": "Deitingen"
     },
     {
-      "name": "Densbueren",
-      "id": "8CO-Y9tM92Uk"
+      "id": "densbueren",
+      "name": "Densbueren"
     },
     {
-      "name": "Derendingen",
-      "id": "MauA980RvTj1"
+      "id": "derendingen",
+      "name": "Derendingen"
     },
     {
-      "name": "Diegten",
-      "id": "We59Rdxdl1Zm"
+      "id": "diegten",
+      "name": "Diegten"
     },
     {
-      "name": "Dielsdorf",
-      "id": "5bShH6NEJZY5"
+      "id": "dielsdorf",
+      "name": "Dielsdorf"
     },
     {
-      "name": "Diepoldsau",
-      "id": "-NwoOZCA4E2O"
+      "id": "diepoldsau",
+      "name": "Diepoldsau"
     },
     {
-      "name": "Diessbach",
-      "id": "uzKQ36wocQN5"
+      "id": "diessbach",
+      "name": "Diessbach"
     },
     {
-      "name": "Diessenhofen",
-      "id": "jBXyB45T2FVk"
+      "id": "diessenhofen",
+      "name": "Diessenhofen"
     },
     {
-      "name": "Dietikon",
-      "id": "KCXl64TExzQW"
+      "id": "dietikon",
+      "name": "Dietikon"
     },
     {
-      "name": "Doettingen",
-      "id": "ZLFw60nXCOHG"
+      "id": "doettingen",
+      "name": "Doettingen"
     },
     {
-      "name": "Domat",
-      "id": "H3ekXreNyXUX"
+      "id": "domat",
+      "name": "Domat"
     },
     {
-      "name": "Dombresson",
-      "id": "7jpCTaIKiJST"
+      "id": "dombresson",
+      "name": "Dombresson"
     },
     {
-      "name": "Domdidier",
-      "id": "pdt5x0tSKcdg"
+      "id": "domdidier",
+      "name": "Domdidier"
     },
     {
-      "name": "Dompierre",
-      "id": "TSZdAWvSvBsV"
+      "id": "dompierre",
+      "name": "Dompierre"
     },
     {
-      "name": "Dornach",
-      "id": "kgXTXN9WjlEU"
+      "id": "dornach",
+      "name": "Dornach"
     },
     {
-      "name": "Dottikon",
-      "id": "EHCJ1XBISGLZ"
+      "id": "dottikon",
+      "name": "Dottikon"
     },
     {
-      "name": "Dozwil",
-      "id": "ej9PgC6GzN0x"
+      "id": "dozwil",
+      "name": "Dozwil"
     },
     {
-      "name": "Dubendorf",
-      "id": "4JQxcMyLwYm0"
+      "id": "dubendorf",
+      "name": "Dubendorf"
     },
     {
-      "name": "Durnten",
-      "id": "DxP0oAuGxbBI"
+      "id": "durnten",
+      "name": "Durnten"
     },
     {
-      "name": "Durrenasch",
-      "id": "9gN38XIm2grF"
+      "id": "durrenasch",
+      "name": "Durrenasch"
     },
     {
-      "name": "Ebikon",
-      "id": "ZUnzlr9hR83V"
+      "id": "ebikon",
+      "name": "Ebikon"
     },
     {
-      "name": "Ebnat-Kappel",
-      "id": "GBKXOA3L50jW"
+      "id": "ebnat-kappel",
+      "name": "Ebnat-Kappel"
     },
     {
-      "name": "Ecublens",
-      "id": "JMJeyewjxMOu"
+      "id": "ecublens",
+      "name": "Ecublens"
     },
     {
-      "name": "Ecuvillens",
-      "id": "hQa4zpLrcg5C"
+      "id": "ecuvillens",
+      "name": "Ecuvillens"
     },
     {
-      "name": "Effretikon",
-      "id": "3ln0--t1SepG"
+      "id": "effretikon",
+      "name": "Effretikon"
     },
     {
-      "name": "Egerkingen",
-      "id": "zFGT24DVwUlW"
+      "id": "egerkingen",
+      "name": "Egerkingen"
     },
     {
-      "name": "Egg",
-      "id": "0rwOxGCHTYWs"
+      "id": "egg",
+      "name": "Egg"
     },
     {
-      "name": "Eggenwil",
-      "id": "uqMF14EsaRDc"
+      "id": "eggenwil",
+      "name": "Eggenwil"
     },
     {
-      "name": "Eggersriet",
-      "id": "l0r_r9E1_hcc"
+      "id": "eggersriet",
+      "name": "Eggersriet"
     },
     {
-      "name": "Eggiwil",
-      "id": "zud2MLu__rh0"
+      "id": "eggiwil",
+      "name": "Eggiwil"
     },
     {
-      "name": "Eglisau",
-      "id": "w4sH3rK65WJv"
+      "id": "eglisau",
+      "name": "Eglisau"
     },
     {
-      "name": "Egliswil",
-      "id": "GyhnlwX9bN_0"
+      "id": "egliswil",
+      "name": "Egliswil"
     },
     {
-      "name": "Egnach",
-      "id": "3QHN5C4qElTd"
+      "id": "egnach",
+      "name": "Egnach"
     },
     {
-      "name": "Eich",
-      "id": "coRVKUU09OYb"
+      "id": "eich",
+      "name": "Eich"
     },
     {
-      "name": "Eichberg",
-      "id": "RXzFEgXk6ET0"
+      "id": "eichberg",
+      "name": "Eichberg"
     },
     {
-      "name": "Eiken",
-      "id": "-VDqST7ygUea"
+      "id": "eiken",
+      "name": "Eiken"
     },
     {
-      "name": "Einigen",
-      "id": "pI4hId2CQYOy"
+      "id": "einigen",
+      "name": "Einigen"
     },
     {
-      "name": "Einsiedeln",
-      "id": "7bfXgB0MroWV"
+      "id": "einsiedeln",
+      "name": "Einsiedeln"
     },
     {
-      "name": "Elgg",
-      "id": "pz-GuLw1qxjk"
+      "id": "elgg",
+      "name": "Elgg"
     },
     {
-      "name": "Ellikon an der Thur",
-      "id": "j9SdkBtePP10"
+      "id": "ellikon-an-der-thur",
+      "name": "Ellikon an der Thur"
     },
     {
-      "name": "Elsau-Raeterschen",
-      "id": "xKKaguWvXmNi"
+      "id": "elsau-raeterschen",
+      "name": "Elsau-Raeterschen"
     },
     {
-      "name": "Embrach",
-      "id": "5vrjhIXVbkOr"
+      "id": "embrach",
+      "name": "Embrach"
     },
     {
-      "name": "Emmen",
-      "id": "9TUA8HTA-c0v"
+      "id": "emmen",
+      "name": "Emmen"
     },
     {
-      "name": "Emmenbruecke",
-      "id": "Td306v7xqFny"
+      "id": "emmenbruecke",
+      "name": "Emmenbruecke"
     },
     {
-      "name": "Emmetten",
-      "id": "Q7oFCRz__-KQ"
+      "id": "emmetten",
+      "name": "Emmetten"
     },
     {
-      "name": "Endingen",
-      "id": "WZBuaNlOUteX"
+      "id": "endingen",
+      "name": "Endingen"
     },
     {
-      "name": "Engelberg",
-      "id": "sc2nFRNltSF4"
+      "id": "engelberg",
+      "name": "Engelberg"
     },
     {
-      "name": "Ennenda",
-      "id": "0EA1br5haEqC"
+      "id": "ennenda",
+      "name": "Ennenda"
     },
     {
-      "name": "Enney",
-      "id": "s5dHqsMdwXb-"
+      "id": "enney",
+      "name": "Enney"
     },
     {
-      "name": "Entlebuch",
-      "id": "BDPxi4RaU0KF"
+      "id": "entlebuch",
+      "name": "Entlebuch"
     },
     {
-      "name": "Epalinges",
-      "id": "1PEWZA431vrF"
+      "id": "epalinges",
+      "name": "Epalinges"
     },
     {
-      "name": "Epautheyres",
-      "id": "MkiqS1RFfBzN"
+      "id": "epautheyres",
+      "name": "Epautheyres"
     },
     {
-      "name": "Ependes",
-      "id": "6nswokMX3nmW"
+      "id": "ependes",
+      "name": "Ependes"
     },
     {
-      "name": "Erde",
-      "id": "fYxR4GAAX6EW"
+      "id": "erde",
+      "name": "Erde"
     },
     {
-      "name": "Erlach",
-      "id": "gvTJF2-ad1JG"
+      "id": "erlach",
+      "name": "Erlach"
     },
     {
-      "name": "Erlen",
-      "id": "tUL_FUcfMqQz"
+      "id": "erlen",
+      "name": "Erlen"
     },
     {
-      "name": "Erlenbach",
-      "id": "jr-RQzfiKDHE"
+      "id": "erlenbach",
+      "name": "Erlenbach"
     },
     {
-      "name": "Ermatingen",
-      "id": "vKTnGl7arNcl"
+      "id": "ermatingen",
+      "name": "Ermatingen"
     },
     {
-      "name": "Erschwil",
-      "id": "zrzNCERU42kX"
+      "id": "erschwil",
+      "name": "Erschwil"
     },
     {
-      "name": "Ersigen",
-      "id": "Ns0eZ1l4hKPt"
+      "id": "ersigen",
+      "name": "Ersigen"
     },
     {
-      "name": "Erstfeld",
-      "id": "ftpxG5DEeKSh"
+      "id": "erstfeld",
+      "name": "Erstfeld"
     },
     {
-      "name": "Eschenbach",
-      "id": "dO89ps0hXnfu"
+      "id": "eschenbach",
+      "name": "Eschenbach"
     },
     {
-      "name": "Eschlikon",
-      "id": "zrM7U6x7ajrZ"
+      "id": "eschlikon",
+      "name": "Eschlikon"
     },
     {
-      "name": "Escholzmatt",
-      "id": "G3gpHO1I4v8Q"
+      "id": "escholzmatt",
+      "name": "Escholzmatt"
     },
     {
-      "name": "Essertines-sur-Rolle",
-      "id": "4jTUx1LGQRHe"
+      "id": "essertines-sur-rolle",
+      "name": "Essertines-sur-Rolle"
     },
     {
-      "name": "Estavayer-le-Lac",
-      "id": "vyR1ysfENkIK"
+      "id": "estavayer-le-lac",
+      "name": "Estavayer-le-Lac"
     },
     {
-      "name": "Ettingen",
-      "id": "_lVed5M1RQ3l"
+      "id": "ettingen",
+      "name": "Ettingen"
     },
     {
-      "name": "Euthal",
-      "id": "7o5TG2YWhdiJ"
+      "id": "euthal",
+      "name": "Euthal"
     },
     {
-      "name": "Evilard",
-      "id": "JpS9EUpmvi5V"
+      "id": "evilard",
+      "name": "Evilard"
     },
     {
-      "name": "Evionnaz",
-      "id": "S7_A7tK5O9EW"
+      "id": "evionnaz",
+      "name": "Evionnaz"
     },
     {
-      "name": "Eysins",
-      "id": "28BQko29zu4A"
+      "id": "eysins",
+      "name": "Eysins"
     },
     {
-      "name": "Fahrwangen",
-      "id": "fN2HLVASicmI"
+      "id": "fahrwangen",
+      "name": "Fahrwangen"
     },
     {
-      "name": "Fallanden",
-      "id": "R2C2DuwSrLWU"
+      "id": "fallanden",
+      "name": "Fallanden"
     },
     {
-      "name": "Faoug",
-      "id": "sjhqX0ZcYv1z"
+      "id": "faoug",
+      "name": "Faoug"
     },
     {
-      "name": "Fehraltorf",
-      "id": "7NWGpEbPjKdz"
+      "id": "fehraltorf",
+      "name": "Fehraltorf"
     },
     {
-      "name": "Felben",
-      "id": "4Lk9La4IFDlt"
+      "id": "felben",
+      "name": "Felben"
     },
     {
-      "name": "Feldbach",
-      "id": "IHsEZflgGsz0"
+      "id": "feldbach",
+      "name": "Feldbach"
     },
     {
-      "name": "Feldbrunnen",
-      "id": "694oWU11KOP5"
+      "id": "feldbrunnen",
+      "name": "Feldbrunnen"
     },
     {
-      "name": "Feldmeilen",
-      "id": "vRaHMRcsS3pS"
+      "id": "feldmeilen",
+      "name": "Feldmeilen"
     },
     {
-      "name": "Felsberg",
-      "id": "Gb8uNKPnDApW"
+      "id": "felsberg",
+      "name": "Felsberg"
     },
     {
-      "name": "Felsenau",
-      "id": "NER-T5Pn8Hdz"
+      "id": "felsenau",
+      "name": "Felsenau"
     },
     {
-      "name": "Ferden",
-      "id": "DuyJUhfgRtjv"
+      "id": "ferden",
+      "name": "Ferden"
     },
     {
-      "name": "Ferenbalm",
-      "id": "oeFxkWKOtoYc"
+      "id": "ferenbalm",
+      "name": "Ferenbalm"
     },
     {
-      "name": "Feuerthalen",
-      "id": "gvW3Lse0MA4F"
+      "id": "feuerthalen",
+      "name": "Feuerthalen"
     },
     {
-      "name": "Feusisberg",
-      "id": "1n3PM4Rs5V9R"
+      "id": "feusisberg",
+      "name": "Feusisberg"
     },
     {
-      "name": "Finhaut",
-      "id": "EIaxNd_9WBp5"
+      "id": "finhaut",
+      "name": "Finhaut"
     },
     {
-      "name": "Fischenthal",
-      "id": "1jCNILDfvv8H"
+      "id": "fischenthal",
+      "name": "Fischenthal"
     },
     {
-      "name": "Fischingen",
-      "id": "lPAtIhYOOrcW"
+      "id": "fischingen",
+      "name": "Fischingen"
     },
     {
-      "name": "Flaach",
-      "id": "KmoTuh10P9Bb"
+      "id": "flaach",
+      "name": "Flaach"
     },
     {
-      "name": "Flamatt",
-      "id": "pRFkA0DQ4Jxp"
+      "id": "flamatt",
+      "name": "Flamatt"
     },
     {
-      "name": "Flawil",
-      "id": "HuBTeHr0d3VS"
+      "id": "flawil",
+      "name": "Flawil"
     },
     {
-      "name": "Fleurier",
-      "id": "_3FI53g5eMwF"
+      "id": "fleurier",
+      "name": "Fleurier"
     },
     {
-      "name": "Flims",
-      "id": "JqTj3YnKfuet"
+      "id": "flims",
+      "name": "Flims"
     },
     {
-      "name": "Fluehli",
-      "id": "tVnqCyDY2kro"
+      "id": "fluehli",
+      "name": "Fluehli"
     },
     {
-      "name": "Flueli",
-      "id": "rfHAuGHgDaLN"
+      "id": "flueli",
+      "name": "Flueli"
     },
     {
-      "name": "Flums",
-      "id": "NkSchrknp5US"
+      "id": "flums",
+      "name": "Flums"
     },
     {
-      "name": "Flurlingen",
-      "id": "AhmiuPCJQ6Be"
+      "id": "flurlingen",
+      "name": "Flurlingen"
     },
     {
-      "name": "Fontainemelon",
-      "id": "6iKwi3vmmfVQ"
+      "id": "fontainemelon",
+      "name": "Fontainemelon"
     },
     {
-      "name": "Forel",
-      "id": "eBRZ-Uw8tTx4"
+      "id": "forel",
+      "name": "Forel"
     },
     {
-      "name": "Founex",
-      "id": "eAaetkj_V1Ad"
+      "id": "founex",
+      "name": "Founex"
     },
     {
-      "name": "Fraubrunnen",
-      "id": "JPEuCEndNVnB"
+      "id": "fraubrunnen",
+      "name": "Fraubrunnen"
     },
     {
-      "name": "Frauenfeld",
-      "id": "v57vfBOq0b-b"
+      "id": "frauenfeld",
+      "name": "Frauenfeld"
     },
     {
-      "name": "Freidorf",
-      "id": "gMkWB3blQjfj"
+      "id": "freidorf",
+      "name": "Freidorf"
     },
     {
-      "name": "Freienbach",
-      "id": "I2hK3pitNjDS"
+      "id": "freienbach",
+      "name": "Freienbach"
     },
     {
-      "name": "Frenkendorf",
-      "id": "El2PAmKUX3Sy"
+      "id": "frenkendorf",
+      "name": "Frenkendorf"
     },
     {
-      "name": "Fribourg",
-      "id": "O9METQnubAX9"
+      "id": "fribourg",
+      "name": "Fribourg"
     },
     {
-      "name": "Frick",
-      "id": "HFY6l10nLA9Z"
+      "id": "frick",
+      "name": "Frick"
     },
     {
-      "name": "Froideville",
-      "id": "2qbDD_OgOWC7"
+      "id": "froideville",
+      "name": "Froideville"
     },
     {
-      "name": "Frutigen",
-      "id": "SJB4LRNQerNE"
+      "id": "frutigen",
+      "name": "Frutigen"
     },
     {
-      "name": "Fulenbach",
-      "id": "N-zt87-bf2NM"
+      "id": "fulenbach",
+      "name": "Fulenbach"
     },
     {
-      "name": "Full",
-      "id": "zjhVCev93eva"
+      "id": "full",
+      "name": "Full"
     },
     {
-      "name": "Fullinsdorf",
-      "id": "XhBIy6TyFR0_"
+      "id": "fullinsdorf",
+      "name": "Fullinsdorf"
     },
     {
-      "name": "Fully",
-      "id": "9vtGO-6IHIoq"
+      "id": "fully",
+      "name": "Fully"
     },
     {
-      "name": "Furstenaubruck",
-      "id": "rGb-CYojXk-_"
+      "id": "furstenaubruck",
+      "name": "Furstenaubruck"
     },
     {
-      "name": "Gachlingen",
-      "id": "BsisSasiO55Y"
+      "id": "gachlingen",
+      "name": "Gachlingen"
     },
     {
-      "name": "Gais",
-      "id": "0CwU3H4Z-405"
+      "id": "gais",
+      "name": "Gais"
     },
     {
-      "name": "Gampel",
-      "id": "mSAhYud1nS8M"
+      "id": "gampel",
+      "name": "Gampel"
     },
     {
-      "name": "Gampelen",
-      "id": "JiTveFsia3E9"
+      "id": "gampelen",
+      "name": "Gampelen"
     },
     {
-      "name": "Gandria",
-      "id": "i4CKZpXPjWkd"
+      "id": "gandria",
+      "name": "Gandria"
     },
     {
-      "name": "Ganterschwil",
-      "id": "bINWKiNZMjun"
+      "id": "ganterschwil",
+      "name": "Ganterschwil"
     },
     {
-      "name": "Gebenstorf",
-      "id": "v9cCIVHf0noV"
+      "id": "gebenstorf",
+      "name": "Gebenstorf"
     },
     {
-      "name": "Gelfingen",
-      "id": "jPGAEtNYC9bJ"
+      "id": "gelfingen",
+      "name": "Gelfingen"
     },
     {
-      "name": "Gelterkinden",
-      "id": "cjnDoni0T4BX"
+      "id": "gelterkinden",
+      "name": "Gelterkinden"
     },
     {
-      "name": "Genestrerio",
-      "id": "eZ3YGnfKGqFj"
+      "id": "genestrerio",
+      "name": "Genestrerio"
     },
     {
-      "name": "Geneva",
-      "id": "YKWyhP-omh66"
+      "id": "geneva",
+      "name": "Geneva"
     },
     {
-      "name": "Gerlafingen",
-      "id": "eguwsC2tyPTi"
+      "id": "gerlafingen",
+      "name": "Gerlafingen"
     },
     {
-      "name": "Gerlikon",
-      "id": "OVsOEGxFtk8b"
+      "id": "gerlikon",
+      "name": "Gerlikon"
     },
     {
-      "name": "Gersau",
-      "id": "h_LczGp5UiPs"
+      "id": "gersau",
+      "name": "Gersau"
     },
     {
-      "name": "Gerzensee",
-      "id": "8TToclvNTIz5"
+      "id": "gerzensee",
+      "name": "Gerzensee"
     },
     {
-      "name": "Gettnau",
-      "id": "qlhpVcv-J_ix"
+      "id": "gettnau",
+      "name": "Gettnau"
     },
     {
-      "name": "Geuensee",
-      "id": "uMf7ZZ2XY4WH"
+      "id": "geuensee",
+      "name": "Geuensee"
     },
     {
-      "name": "Gimel",
-      "id": "NwTIeW5yqXBB"
+      "id": "gimel",
+      "name": "Gimel"
     },
     {
-      "name": "Gingins",
-      "id": "pStQqlBcyEXp"
+      "id": "gingins",
+      "name": "Gingins"
     },
     {
-      "name": "Gipf-Oberfrick",
-      "id": "TWcjkhFTvfOQ"
+      "id": "gipf-oberfrick",
+      "name": "Gipf-Oberfrick"
     },
     {
-      "name": "Giswil",
-      "id": "XQcuD4fgXkbA"
+      "id": "giswil",
+      "name": "Giswil"
     },
     {
-      "name": "Giubiasco",
-      "id": "KMv4ewN3_xhK"
+      "id": "giubiasco",
+      "name": "Giubiasco"
     },
     {
-      "name": "Givrins",
-      "id": "yoNWZ8PxhX4a"
+      "id": "givrins",
+      "name": "Givrins"
     },
     {
-      "name": "Gland",
-      "id": "wFjiuOunoytU"
+      "id": "gland",
+      "name": "Gland"
     },
     {
-      "name": "Glaris",
-      "id": "He_hfmEKs-TT"
+      "id": "glaris",
+      "name": "Glaris"
     },
     {
-      "name": "Glarus",
-      "id": "sIz9bxKIyLY5"
+      "id": "glarus",
+      "name": "Glarus"
     },
     {
-      "name": "Glattburg",
-      "id": "LKQWFmNylNeJ"
+      "id": "glattburg",
+      "name": "Glattburg"
     },
     {
-      "name": "Glattfelden",
-      "id": "M-pJkqHNsuJH"
+      "id": "glattfelden",
+      "name": "Glattfelden"
     },
     {
-      "name": "Glion",
-      "id": "8XTQ1vEZobed"
+      "id": "glion",
+      "name": "Glion"
     },
     {
-      "name": "Glis",
-      "id": "142kwiji2Kij"
+      "id": "glis",
+      "name": "Glis"
     },
     {
-      "name": "Gnosca",
-      "id": "QajHLLlPWXjh"
+      "id": "gnosca",
+      "name": "Gnosca"
     },
     {
-      "name": "Goldach",
-      "id": "J3E-uKWUhBT4"
+      "id": "goldach",
+      "name": "Goldach"
     },
     {
-      "name": "Goldau",
-      "id": "MJAgDHX511c4"
+      "id": "goldau",
+      "name": "Goldau"
     },
     {
-      "name": "Goldiwil",
-      "id": "TVtzUy7EdqjD"
+      "id": "goldiwil",
+      "name": "Goldiwil"
     },
     {
-      "name": "Gommiswald",
-      "id": "eRUA3hI5vKML"
+      "id": "gommiswald",
+      "name": "Gommiswald"
     },
     {
-      "name": "Gonten",
-      "id": "9ki1SMk7JaUN"
+      "id": "gonten",
+      "name": "Gonten"
     },
     {
-      "name": "Gontenschwil",
-      "id": "gHJuVkBTGtx7"
+      "id": "gontenschwil",
+      "name": "Gontenschwil"
     },
     {
-      "name": "Gordevio",
-      "id": "ifY6jTHf_Ur7"
+      "id": "gordevio",
+      "name": "Gordevio"
     },
     {
-      "name": "Gordola",
-      "id": "bUJrqmOL8kDa"
+      "id": "gordola",
+      "name": "Gordola"
     },
     {
-      "name": "Goslikon",
-      "id": "fRj8N17NskLL"
+      "id": "goslikon",
+      "name": "Goslikon"
     },
     {
-      "name": "Gossau",
-      "id": "Z8lEP5JZjHQA"
+      "id": "gossau",
+      "name": "Gossau"
     },
     {
-      "name": "Gottlieben",
-      "id": "9FOdnv7xzRC9"
+      "id": "gottlieben",
+      "name": "Gottlieben"
     },
     {
-      "name": "Grabs",
-      "id": "Ka3r9y291n3Q"
+      "id": "grabs",
+      "name": "Grabs"
     },
     {
-      "name": "Graenichen",
-      "id": "6LutlQz-Vupz"
+      "id": "graenichen",
+      "name": "Graenichen"
     },
     {
-      "name": "Grancy",
-      "id": "-m5qH0gv3-iV"
+      "id": "grancy",
+      "name": "Grancy"
     },
     {
-      "name": "Grandcour",
-      "id": "pO-Kwj9OwOwB"
+      "id": "grandcour",
+      "name": "Grandcour"
     },
     {
-      "name": "Grandson",
-      "id": "ynenOQssklbH"
+      "id": "grandson",
+      "name": "Grandson"
     },
     {
-      "name": "Grandval",
-      "id": "KSybYoiwcqpy"
+      "id": "grandval",
+      "name": "Grandval"
     },
     {
-      "name": "Grandvillard",
-      "id": "GLewSbBe3jBR"
+      "id": "grandvillard",
+      "name": "Grandvillard"
     },
     {
-      "name": "Granges",
-      "id": "DIxpuXV4kCCm"
+      "id": "granges",
+      "name": "Granges"
     },
     {
-      "name": "Granges-pres-Sion",
-      "id": "w5opsMtYtui1"
+      "id": "granges-pres-sion",
+      "name": "Granges-pres-Sion"
     },
     {
-      "name": "Gravesano",
-      "id": "eSm9yD2NWXnP"
+      "id": "gravesano",
+      "name": "Gravesano"
     },
     {
-      "name": "Greifensee",
-      "id": "VMR3VQ_VNS39"
+      "id": "greifensee",
+      "name": "Greifensee"
     },
     {
-      "name": "Grellingen",
-      "id": "aVI18Mc2TWTH"
+      "id": "grellingen",
+      "name": "Grellingen"
     },
     {
-      "name": "Grenchen",
-      "id": "CXmNm_Q60BNJ"
+      "id": "grenchen",
+      "name": "Grenchen"
     },
     {
-      "name": "Greppen",
-      "id": "1mjzVgmpslag"
+      "id": "greppen",
+      "name": "Greppen"
     },
     {
-      "name": "Grimentz",
-      "id": "Dfg5l0kZ6zD-"
+      "id": "grimentz",
+      "name": "Grimentz"
     },
     {
-      "name": "Grimisuat",
-      "id": "xSX_2PXEoalE"
+      "id": "grimisuat",
+      "name": "Grimisuat"
     },
     {
-      "name": "Grindelwald",
-      "id": "K3lkK3lCAPAe"
+      "id": "grindelwald",
+      "name": "Grindelwald"
     },
     {
-      "name": "Grolley",
-      "id": "KJl-RGKU5bQl"
+      "id": "grolley",
+      "name": "Grolley"
     },
     {
-      "name": "Grone",
-      "id": "E_n6NiTSjLx7"
+      "id": "grone",
+      "name": "Grone"
     },
     {
-      "name": "Grono",
-      "id": "xWQXUDAgoT83"
+      "id": "grono",
+      "name": "Grono"
     },
     {
-      "name": "Grossandelfingen",
-      "id": "BsZAK6CC-teH"
+      "id": "grossandelfingen",
+      "name": "Grossandelfingen"
     },
     {
-      "name": "Grosswangen",
-      "id": "mywChAK1DUEX"
+      "id": "grosswangen",
+      "name": "Grosswangen"
     },
     {
-      "name": "Grueningen",
-      "id": "102pVVkRgaZZ"
+      "id": "grueningen",
+      "name": "Grueningen"
     },
     {
-      "name": "Grund",
-      "id": "zxcllvIPfwK2"
+      "id": "grund",
+      "name": "Grund"
     },
     {
-      "name": "Gryon",
-      "id": "jYKuz3I0O9Ir"
+      "id": "gryon",
+      "name": "Gryon"
     },
     {
-      "name": "Gstaad",
-      "id": "AHjwduLEYPIK"
+      "id": "gstaad",
+      "name": "Gstaad"
     },
     {
-      "name": "Gumligen",
-      "id": "w9Gw-KZNWAgs"
+      "id": "gumligen",
+      "name": "Gumligen"
     },
     {
-      "name": "Gummenen",
-      "id": "Pbgem_n4NTyJ"
+      "id": "gummenen",
+      "name": "Gummenen"
     },
     {
-      "name": "Gunten",
-      "id": "WZyprtx4trwT"
+      "id": "gunten",
+      "name": "Gunten"
     },
     {
-      "name": "Gunzgen",
-      "id": "RMbus0Gnxmxh"
+      "id": "gunzgen",
+      "name": "Gunzgen"
     },
     {
-      "name": "Guttingen",
-      "id": "9SHjJufd4d70"
+      "id": "guttingen",
+      "name": "Guttingen"
     },
     {
-      "name": "Gwatt",
-      "id": "UwIXAj71yZ3i"
+      "id": "gwatt",
+      "name": "Gwatt"
     },
     {
-      "name": "Habkern",
-      "id": "eOBk4kq8TMl5"
+      "id": "habkern",
+      "name": "Habkern"
     },
     {
-      "name": "Habsburg",
-      "id": "RSNP9jGiNpEB"
+      "id": "habsburg",
+      "name": "Habsburg"
     },
     {
-      "name": "Hagenbuch",
-      "id": "XZtQ684-B-gF"
+      "id": "hagenbuch",
+      "name": "Hagenbuch"
     },
     {
-      "name": "Hagendorf",
-      "id": "kespRcYyaumv"
+      "id": "hagendorf",
+      "name": "Hagendorf"
     },
     {
-      "name": "Hagglingen",
-      "id": "Dc_kPbQR9XXf"
+      "id": "hagglingen",
+      "name": "Hagglingen"
     },
     {
-      "name": "Hagneck",
-      "id": "ZEm9sI2vbncK"
+      "id": "hagneck",
+      "name": "Hagneck"
     },
     {
-      "name": "Haldenstein",
-      "id": "nlWJefM1DIK4"
+      "id": "haldenstein",
+      "name": "Haldenstein"
     },
     {
-      "name": "Hasle",
-      "id": "_gGeS5i48a09"
+      "id": "hasle",
+      "name": "Hasle"
     },
     {
-      "name": "Hauptwil",
-      "id": "IeyQim0KZKB_"
+      "id": "hauptwil",
+      "name": "Hauptwil"
     },
     {
-      "name": "Hausen",
-      "id": "ni0CShwSWhiN"
+      "id": "hausen",
+      "name": "Hausen"
     },
     {
-      "name": "Hausen am Albis / Hausen (Dorf)",
-      "id": "ME2PRjYP2GIV"
+      "id": "hausen-am-albis-hausen-dorf",
+      "name": "Hausen am Albis / Hausen (Dorf)"
     },
     {
-      "name": "Hauterive",
-      "id": "RKrqThKu98nk"
+      "id": "hauterive",
+      "name": "Hauterive"
     },
     {
-      "name": "Hauteville",
-      "id": "LxLFt2Vm7RkW"
+      "id": "hauteville",
+      "name": "Hauteville"
     },
     {
-      "name": "Heerbrugg",
-      "id": "XoDmYD7Cc1Tm"
+      "id": "heerbrugg",
+      "name": "Heerbrugg"
     },
     {
-      "name": "Heiden",
-      "id": "5-HoyxlWn2C7"
+      "id": "heiden",
+      "name": "Heiden"
     },
     {
-      "name": "Heimberg",
-      "id": "P-EKEqlRHBUI"
+      "id": "heimberg",
+      "name": "Heimberg"
     },
     {
-      "name": "Heimiswil",
-      "id": "z13P-QIxyGw6"
+      "id": "heimiswil",
+      "name": "Heimiswil"
     },
     {
-      "name": "Heitenried",
-      "id": "T-ESTjeN-yu8"
+      "id": "heitenried",
+      "name": "Heitenried"
     },
     {
-      "name": "Hellbuehl",
-      "id": "NW41j36udxWz"
+      "id": "hellbuehl",
+      "name": "Hellbuehl"
     },
     {
-      "name": "Hemmental",
-      "id": "WttZSEUojZAP"
+      "id": "hemmental",
+      "name": "Hemmental"
     },
     {
-      "name": "Henau",
-      "id": "X8__9FzUERwS"
+      "id": "henau",
+      "name": "Henau"
     },
     {
-      "name": "Hendschiken",
-      "id": "tE7EbAE1Oij1"
+      "id": "hendschiken",
+      "name": "Hendschiken"
     },
     {
-      "name": "Henggart",
-      "id": "dfCxVKG35BCp"
+      "id": "henggart",
+      "name": "Henggart"
     },
     {
-      "name": "Herbetswil",
-      "id": "SVclNdIcn50K"
+      "id": "herbetswil",
+      "name": "Herbetswil"
     },
     {
-      "name": "Herdern",
-      "id": "Jf5PaczW3G-M"
+      "id": "herdern",
+      "name": "Herdern"
     },
     {
-      "name": "Hergiswil",
-      "id": "e2w2MxrfBoPH"
+      "id": "hergiswil",
+      "name": "Hergiswil"
     },
     {
-      "name": "Herisau",
-      "id": "VbAW2gSoUmNF"
+      "id": "herisau",
+      "name": "Herisau"
     },
     {
-      "name": "Hermance",
-      "id": "i11RsDyNl4Tm"
+      "id": "hermance",
+      "name": "Hermance"
     },
     {
-      "name": "Hermetschwil-Staffeln",
-      "id": "smcDiCpEz2P0"
+      "id": "hermetschwil-staffeln",
+      "name": "Hermetschwil-Staffeln"
     },
     {
-      "name": "Herrliberg",
-      "id": "K6HN64r1U10W"
+      "id": "herrliberg",
+      "name": "Herrliberg"
     },
     {
-      "name": "Herzogenbuchsee",
-      "id": "Hi0fXRoZHBln"
+      "id": "herzogenbuchsee",
+      "name": "Herzogenbuchsee"
     },
     {
-      "name": "Hettlingen",
-      "id": "HXpLgh-HiY2x"
+      "id": "hettlingen",
+      "name": "Hettlingen"
     },
     {
-      "name": "Hildisrieden",
-      "id": "Cto0EWKP1NHJ"
+      "id": "hildisrieden",
+      "name": "Hildisrieden"
     },
     {
-      "name": "Hilterfingen",
-      "id": "JOQaeHd0pZOh"
+      "id": "hilterfingen",
+      "name": "Hilterfingen"
     },
     {
-      "name": "Himmelried",
-      "id": "68qWDQcqjIrE"
+      "id": "himmelried",
+      "name": "Himmelried"
     },
     {
-      "name": "Hindelbank",
-      "id": "d_Oi0pHLkQrk"
+      "id": "hindelbank",
+      "name": "Hindelbank"
     },
     {
-      "name": "Hinterkappelen",
-      "id": "Jmde8GAtblS1"
+      "id": "hinterkappelen",
+      "name": "Hinterkappelen"
     },
     {
-      "name": "Hinwil",
-      "id": "qgAGYW90OK7y"
+      "id": "hinwil",
+      "name": "Hinwil"
     },
     {
-      "name": "Hirzel-Kirche",
-      "id": "n9PVeGK4IX84"
+      "id": "hirzel-kirche",
+      "name": "Hirzel-Kirche"
     },
     {
-      "name": "Hittnau",
-      "id": "Xe01eGN0iRQi"
+      "id": "hittnau",
+      "name": "Hittnau"
     },
     {
-      "name": "Hitzkirch",
-      "id": "s12enAzdaRFV"
+      "id": "hitzkirch",
+      "name": "Hitzkirch"
     },
     {
-      "name": "Hochdorf",
-      "id": "vCkygNXoC3Ow"
+      "id": "hochdorf",
+      "name": "Hochdorf"
     },
     {
-      "name": "Hochwald",
-      "id": "ulZ4ywKFAyml"
+      "id": "hochwald",
+      "name": "Hochwald"
     },
     {
-      "name": "Hoerstetten",
-      "id": "b8wap4GdFyzZ"
+      "id": "hoerstetten",
+      "name": "Hoerstetten"
     },
     {
-      "name": "Hofstetten",
-      "id": "6vjF6zuHnCgC"
+      "id": "hofstetten",
+      "name": "Hofstetten"
     },
     {
-      "name": "Holderbank",
-      "id": "Im5BucBlxsF9"
+      "id": "holderbank",
+      "name": "Holderbank"
     },
     {
-      "name": "Holstein",
-      "id": "VFf1-4WAju30"
+      "id": "holstein",
+      "name": "Holstein"
     },
     {
-      "name": "Hombrechtikon",
-      "id": "z4CRTqYiJ-oA"
+      "id": "hombrechtikon",
+      "name": "Hombrechtikon"
     },
     {
-      "name": "Horgen",
-      "id": "94Yv6diy-Jwo"
+      "id": "horgen",
+      "name": "Horgen"
     },
     {
-      "name": "Horn",
-      "id": "51v5P5xEMrc4"
+      "id": "horn",
+      "name": "Horn"
     },
     {
-      "name": "Hornussen",
-      "id": "_Riguy-Z60Ai"
+      "id": "hornussen",
+      "name": "Hornussen"
     },
     {
-      "name": "Horw",
-      "id": "6tYhMHj4gtxg"
+      "id": "horw",
+      "name": "Horw"
     },
     {
-      "name": "Hundwil",
-      "id": "Eb5kA0PKOXK3"
+      "id": "hundwil",
+      "name": "Hundwil"
     },
     {
-      "name": "Hunenberg",
-      "id": "lc4qFJtXjfpZ"
+      "id": "hunenberg",
+      "name": "Hunenberg"
     },
     {
-      "name": "Hunibach",
-      "id": "WdF4fT5VJx0g"
+      "id": "hunibach",
+      "name": "Hunibach"
     },
     {
-      "name": "Huntwangen",
-      "id": "0CYeVbo3TCNV"
+      "id": "huntwangen",
+      "name": "Huntwangen"
     },
     {
-      "name": "Hunzenschwil",
-      "id": "EHh88EG6y81t"
+      "id": "hunzenschwil",
+      "name": "Hunzenschwil"
     },
     {
-      "name": "Huttwil",
-      "id": "fZG_haK8Lczi"
+      "id": "huttwil",
+      "name": "Huttwil"
     },
     {
-      "name": "Ibach",
-      "id": "VZr8FnU3sBSB"
+      "id": "ibach",
+      "name": "Ibach"
     },
     {
-      "name": "Igis",
-      "id": "b9tvkNa0ETAQ"
+      "id": "igis",
+      "name": "Igis"
     },
     {
-      "name": "Ilanz",
-      "id": "rN3YZIOSpjak"
+      "id": "ilanz",
+      "name": "Ilanz"
     },
     {
-      "name": "Illnau",
-      "id": "Tc44ZFtNtrQZ"
+      "id": "illnau",
+      "name": "Illnau"
     },
     {
-      "name": "Immensee",
-      "id": "msR0_OKKePLv"
+      "id": "immensee",
+      "name": "Immensee"
     },
     {
-      "name": "Ingenbohl",
-      "id": "C6yVs5ZxqgQh"
+      "id": "ingenbohl",
+      "name": "Ingenbohl"
     },
     {
-      "name": "Ins",
-      "id": "HQ24m9-L-CQs"
+      "id": "ins",
+      "name": "Ins"
     },
     {
-      "name": "Interlaken",
-      "id": "KgBfd_P7bJIS"
+      "id": "interlaken",
+      "name": "Interlaken"
     },
     {
-      "name": "Inwil",
-      "id": "BkkausQKX7NP"
+      "id": "inwil",
+      "name": "Inwil"
     },
     {
-      "name": "Iragna",
-      "id": "-9BqzUzK30KN"
+      "id": "iragna",
+      "name": "Iragna"
     },
     {
-      "name": "Iseo",
-      "id": "Vwa6OEmPSlOP"
+      "id": "iseo",
+      "name": "Iseo"
     },
     {
-      "name": "Iserables",
-      "id": "5iBL3byV5Kps"
+      "id": "iserables",
+      "name": "Iserables"
     },
     {
-      "name": "Islikon",
-      "id": "Q1brpr7rcFLM"
+      "id": "islikon",
+      "name": "Islikon"
     },
     {
-      "name": "Ittenthal",
-      "id": "2aQgddRdZIVx"
+      "id": "ittenthal",
+      "name": "Ittenthal"
     },
     {
-      "name": "Jegenstorf",
-      "id": "eT4XVe7eCEXT"
+      "id": "jegenstorf",
+      "name": "Jegenstorf"
     },
     {
-      "name": "Jenaz",
-      "id": "EsrgU2a5uOwx"
+      "id": "jenaz",
+      "name": "Jenaz"
     },
     {
-      "name": "Jona",
-      "id": "8iEUCVidMLyt"
+      "id": "jona",
+      "name": "Jona"
     },
     {
-      "name": "Jonen",
-      "id": "1q5EGPXLsole"
+      "id": "jonen",
+      "name": "Jonen"
     },
     {
-      "name": "Jonschwil",
-      "id": "36J7e7ie33p1"
+      "id": "jonschwil",
+      "name": "Jonschwil"
     },
     {
-      "name": "Jussy",
-      "id": "im5Cx50dS0lB"
+      "id": "jussy",
+      "name": "Jussy"
     },
     {
-      "name": "Kaiseraugst",
-      "id": "mV0XNddyZTV6"
+      "id": "kaiseraugst",
+      "name": "Kaiseraugst"
     },
     {
-      "name": "Kaiserstuhl",
-      "id": "h5sGeHfc_VhO"
+      "id": "kaiserstuhl",
+      "name": "Kaiserstuhl"
     },
     {
-      "name": "Kaisten",
-      "id": "03NsLqj12-Sk"
+      "id": "kaisten",
+      "name": "Kaisten"
     },
     {
-      "name": "Kallnach",
-      "id": "v850znzfEnYL"
+      "id": "kallnach",
+      "name": "Kallnach"
     },
     {
-      "name": "Kaltbrunn",
-      "id": "9a6UQ4NGX2-3"
+      "id": "kaltbrunn",
+      "name": "Kaltbrunn"
     },
     {
-      "name": "Kappel",
-      "id": "ayjlRKMUKQHJ"
+      "id": "kappel",
+      "name": "Kappel"
     },
     {
-      "name": "Kastanienbaum",
-      "id": "IIppk1_B1RPr"
+      "id": "kastanienbaum",
+      "name": "Kastanienbaum"
     },
     {
-      "name": "Kefikon",
-      "id": "BzVT_KaQcMKI"
+      "id": "kefikon",
+      "name": "Kefikon"
     },
     {
-      "name": "Kehrsatz",
-      "id": "WZnW_WJNKPSg"
+      "id": "kehrsatz",
+      "name": "Kehrsatz"
     },
     {
-      "name": "Kempttal",
-      "id": "Snitm25LLir8"
+      "id": "kempttal",
+      "name": "Kempttal"
     },
     {
-      "name": "Kernenried",
-      "id": "z0DUV7yILS7T"
+      "id": "kernenried",
+      "name": "Kernenried"
     },
     {
-      "name": "Kerns",
-      "id": "BRV0o-CB2q9V"
+      "id": "kerns",
+      "name": "Kerns"
     },
     {
-      "name": "Kerzers",
-      "id": "WtSfwWjQkGB-"
+      "id": "kerzers",
+      "name": "Kerzers"
     },
     {
-      "name": "Kiesen",
-      "id": "3EGqEGqvpi1H"
+      "id": "kiesen",
+      "name": "Kiesen"
     },
     {
-      "name": "Kilchberg",
-      "id": "lwVJBcrINRAL"
+      "id": "kilchberg",
+      "name": "Kilchberg"
     },
     {
-      "name": "Killwangen",
-      "id": "3JApaxUfkGIX"
+      "id": "killwangen",
+      "name": "Killwangen"
     },
     {
-      "name": "Kirchberg",
-      "id": "gHLhyXzmSAhz"
+      "id": "kirchberg",
+      "name": "Kirchberg"
     },
     {
-      "name": "Kirchdorf",
-      "id": "UWsHg87NCs5y"
+      "id": "kirchdorf",
+      "name": "Kirchdorf"
     },
     {
-      "name": "Kleinlutzel",
-      "id": "yq5wFINEoHZ0"
+      "id": "kleinlutzel",
+      "name": "Kleinlutzel"
     },
     {
-      "name": "Klingnau",
-      "id": "gT6U_1UBSyiR"
+      "id": "klingnau",
+      "name": "Klingnau"
     },
     {
-      "name": "Klosters Platz",
-      "id": "K4dHLjd-7tG8"
+      "id": "klosters-platz",
+      "name": "Klosters Platz"
     },
     {
-      "name": "Klosters Serneus",
-      "id": "tfDgd4i_zCkz"
+      "id": "klosters-serneus",
+      "name": "Klosters Serneus"
     },
     {
-      "name": "Kloten",
-      "id": "iDbvpuZP9DjK"
+      "id": "kloten",
+      "name": "Kloten"
     },
     {
-      "name": "Koblenz",
-      "id": "KSWsTQ2oyEco"
+      "id": "koblenz",
+      "name": "Koblenz"
     },
     {
-      "name": "Kollbrunn",
-      "id": "L12VI4kfY2WX"
+      "id": "kollbrunn",
+      "name": "Kollbrunn"
     },
     {
-      "name": "Kolliken",
-      "id": "zAx2eERYIldq"
+      "id": "kolliken",
+      "name": "Kolliken"
     },
     {
-      "name": "Konolfingen",
-      "id": "XO47MXmDUQ1F"
+      "id": "konolfingen",
+      "name": "Konolfingen"
     },
     {
-      "name": "Koppigen",
-      "id": "8FGv5rxPGCup"
+      "id": "koppigen",
+      "name": "Koppigen"
     },
     {
-      "name": "Kradolf",
-      "id": "tARcLd8HtvjN"
+      "id": "kradolf",
+      "name": "Kradolf"
     },
     {
-      "name": "Krauchthal",
-      "id": "8uxAibnr9NAZ"
+      "id": "krauchthal",
+      "name": "Krauchthal"
     },
     {
-      "name": "Kreuzlingen",
-      "id": "hb7YIhpdi4pU"
+      "id": "kreuzlingen",
+      "name": "Kreuzlingen"
     },
     {
-      "name": "Kriegstetten",
-      "id": "6dziF28Q7v2T"
+      "id": "kriegstetten",
+      "name": "Kriegstetten"
     },
     {
-      "name": "Kriens",
-      "id": "rMLrG3fGUmoZ"
+      "id": "kriens",
+      "name": "Kriens"
     },
     {
-      "name": "Kronbuhl",
-      "id": "_jDEgKQe7zdB"
+      "id": "kronbuhl",
+      "name": "Kronbuhl"
     },
     {
-      "name": "Kuesnacht",
-      "id": "Or-7gZU5bW-o"
+      "id": "kuesnacht",
+      "name": "Kuesnacht"
     },
     {
-      "name": "Kulm",
-      "id": "C6fNFGCO8Usl"
+      "id": "kulm",
+      "name": "Kulm"
     },
     {
-      "name": "La Chaux",
-      "id": "O143NhXCJWL0"
+      "id": "la-chaux",
+      "name": "La Chaux"
     },
     {
-      "name": "La Chaux-de-Fonds",
-      "id": "2I5S80bDh3jr"
+      "id": "la-chaux-de-fonds",
+      "name": "La Chaux-de-Fonds"
     },
     {
-      "name": "La Chiesaz",
-      "id": "VpodnF6dnx0u"
+      "id": "la-chiesaz",
+      "name": "La Chiesaz"
     },
     {
-      "name": "La Neuveville",
-      "id": "I0QHkuIHojlM"
+      "id": "la-neuveville",
+      "name": "La Neuveville"
     },
     {
-      "name": "La Plaine",
-      "id": "pGrYCrGaouTx"
+      "id": "la-plaine",
+      "name": "La Plaine"
     },
     {
-      "name": "La Roche",
-      "id": "CYAK61RuDE2X"
+      "id": "la-roche",
+      "name": "La Roche"
     },
     {
-      "name": "La Sarraz",
-      "id": "My7FXEOT3DDl"
+      "id": "la-sarraz",
+      "name": "La Sarraz"
     },
     {
-      "name": "La Tour-de-Peilz",
-      "id": "h3YtMhfN4gwU"
+      "id": "la-tour-de-peilz",
+      "name": "La Tour-de-Peilz"
     },
     {
-      "name": "Laax",
-      "id": "GL2afTPDAmef"
+      "id": "laax",
+      "name": "Laax"
     },
     {
-      "name": "Lachen",
-      "id": "7messsesVcYS"
+      "id": "lachen",
+      "name": "Lachen"
     },
     {
-      "name": "Lamboing",
-      "id": "gvLRnlN93suB"
+      "id": "lamboing",
+      "name": "Lamboing"
     },
     {
-      "name": "Landquart",
-      "id": "ft5r5zn-DK1C"
+      "id": "landquart",
+      "name": "Landquart"
     },
     {
-      "name": "Langenbruck",
-      "id": "y_rTTGmJgdZR"
+      "id": "langenbruck",
+      "name": "Langenbruck"
     },
     {
-      "name": "Langenthal",
-      "id": "bCfJZTo6WuJ9"
+      "id": "langenthal",
+      "name": "Langenthal"
     },
     {
-      "name": "Langnau",
-      "id": "qgncr6CiED2d"
+      "id": "langnau",
+      "name": "Langnau"
     },
     {
-      "name": "Langnau am Albis",
-      "id": "7ott-8Sq9d6f"
+      "id": "langnau-am-albis",
+      "name": "Langnau am Albis"
     },
     {
-      "name": "Lauenen",
-      "id": "eN7EwRjouMiK"
+      "id": "lauenen",
+      "name": "Lauenen"
     },
     {
-      "name": "Lauerz",
-      "id": "GLKymtqazoMA"
+      "id": "lauerz",
+      "name": "Lauerz"
     },
     {
-      "name": "Laufelfingen",
-      "id": "wi_ACQgMKpsr"
+      "id": "laufelfingen",
+      "name": "Laufelfingen"
     },
     {
-      "name": "Laufen",
-      "id": "AfqDmq1H7wZd"
+      "id": "laufen",
+      "name": "Laufen"
     },
     {
-      "name": "Laufenburg",
-      "id": "d9AouXGVU3zq"
+      "id": "laufenburg",
+      "name": "Laufenburg"
     },
     {
-      "name": "Laupen",
-      "id": "8687R1AahZ-7"
+      "id": "laupen",
+      "name": "Laupen"
     },
     {
-      "name": "Lausanne",
-      "id": "g3F_YPJ8BhOb"
+      "id": "lausanne",
+      "name": "Lausanne"
     },
     {
-      "name": "Lausen",
-      "id": "a_2uc6oTX2_y"
+      "id": "lausen",
+      "name": "Lausen"
     },
     {
-      "name": "Le Brassus",
-      "id": "V1FsJC_SIhaM"
+      "id": "le-brassus",
+      "name": "Le Brassus"
     },
     {
-      "name": "Le Bry",
-      "id": "dSuHqOOvtPg_"
+      "id": "le-bry",
+      "name": "Le Bry"
     },
     {
-      "name": "Le Cret",
-      "id": "aAGe5mPurbef"
+      "id": "le-cret",
+      "name": "Le Cret"
     },
     {
-      "name": "Le Grand-Saconnex",
-      "id": "lwjRJcE0DyJ7"
+      "id": "le-grand-saconnex",
+      "name": "Le Grand-Saconnex"
     },
     {
-      "name": "Le Landeron",
-      "id": "Al5xLPLlughl"
+      "id": "le-landeron",
+      "name": "Le Landeron"
     },
     {
-      "name": "Le Locle",
-      "id": "qhNF5GaQZ0YR"
+      "id": "le-locle",
+      "name": "Le Locle"
     },
     {
-      "name": "Le Mont-sur-Lausanne",
-      "id": "ax4zBVpH_ttW"
+      "id": "le-mont-sur-lausanne",
+      "name": "Le Mont-sur-Lausanne"
     },
     {
-      "name": "Le Noirmont",
-      "id": "aprJIOPEHtuv"
+      "id": "le-noirmont",
+      "name": "Le Noirmont"
     },
     {
-      "name": "Le Sentier",
-      "id": "U5S5NDiYFn17"
+      "id": "le-sentier",
+      "name": "Le Sentier"
     },
     {
-      "name": "Le Vaud",
-      "id": "uFwr8G5p4Q7q"
+      "id": "le-vaud",
+      "name": "Le Vaud"
     },
     {
-      "name": "Leibstadt",
-      "id": "6WZYcJ88ZNnr"
+      "id": "leibstadt",
+      "name": "Leibstadt"
     },
     {
-      "name": "Lengnau",
-      "id": "mzpABcxF-74Y"
+      "id": "lengnau",
+      "name": "Lengnau"
     },
     {
-      "name": "Lenk",
-      "id": "MiX3mvlijmHa"
+      "id": "lenk",
+      "name": "Lenk"
     },
     {
-      "name": "Lenz",
-      "id": "eKOX3FOcILdp"
+      "id": "lenz",
+      "name": "Lenz"
     },
     {
-      "name": "Lenzburg",
-      "id": "zmc19XMlRtjZ"
+      "id": "lenzburg",
+      "name": "Lenzburg"
     },
     {
-      "name": "Lenzerheide",
-      "id": "uXduugmtRBYp"
+      "id": "lenzerheide",
+      "name": "Lenzerheide"
     },
     {
-      "name": "Les Acacias",
-      "id": "ZCcjlYqdIQTI"
+      "id": "les-acacias",
+      "name": "Les Acacias"
     },
     {
-      "name": "Les Breuleux",
-      "id": "p2LF-t2oTuPP"
+      "id": "les-breuleux",
+      "name": "Les Breuleux"
     },
     {
-      "name": "Les Diablerets",
-      "id": "-I7yL5DryqzZ"
+      "id": "les-diablerets",
+      "name": "Les Diablerets"
     },
     {
-      "name": "Les Geneveys-sur-Coffrane",
-      "id": "N152ewSy045O"
+      "id": "les-geneveys-sur-coffrane",
+      "name": "Les Geneveys-sur-Coffrane"
     },
     {
-      "name": "Les Genevez",
-      "id": "6UgHpUIPvyuG"
+      "id": "les-genevez",
+      "name": "Les Genevez"
     },
     {
-      "name": "Les Hauts-Geneveys",
-      "id": "--uWj0_6Dnrs"
+      "id": "les-hauts-geneveys",
+      "name": "Les Hauts-Geneveys"
     },
     {
-      "name": "Les Pommerats",
-      "id": "mT2pRLVulZ7c"
+      "id": "les-pommerats",
+      "name": "Les Pommerats"
     },
     {
-      "name": "Les Verrieres",
-      "id": "ZBrTpoa1nSpm"
+      "id": "les-verrieres",
+      "name": "Les Verrieres"
     },
     {
-      "name": "Leukerbad",
-      "id": "rD0OZXDfgsl5"
+      "id": "leukerbad",
+      "name": "Leukerbad"
     },
     {
-      "name": "Leutwil",
-      "id": "0gbeL96x5zmO"
+      "id": "leutwil",
+      "name": "Leutwil"
     },
     {
-      "name": "Leysin",
-      "id": "Iw_ZpaNDQL4W"
+      "id": "leysin",
+      "name": "Leysin"
     },
     {
-      "name": "Lichtensteig",
-      "id": "IdmZYkTgWG1_"
+      "id": "lichtensteig",
+      "name": "Lichtensteig"
     },
     {
-      "name": "Liddes",
-      "id": "4QGH0bdwELHr"
+      "id": "liddes",
+      "name": "Liddes"
     },
     {
-      "name": "Liebistorf",
-      "id": "_2RS8E19HfSS"
+      "id": "liebistorf",
+      "name": "Liebistorf"
     },
     {
-      "name": "Lienz",
-      "id": "BV4SzqjO5PgJ"
+      "id": "lienz",
+      "name": "Lienz"
     },
     {
-      "name": "Liestal",
-      "id": "tuM9Fcwxj2nA"
+      "id": "liestal",
+      "name": "Liestal"
     },
     {
-      "name": "Ligerz",
-      "id": "HI3ly8Ismneo"
+      "id": "ligerz",
+      "name": "Ligerz"
     },
     {
-      "name": "Lignieres",
-      "id": "b4uW73WP2tqi"
+      "id": "lignieres",
+      "name": "Lignieres"
     },
     {
-      "name": "Lindau",
-      "id": "peFenr-5-aqo"
+      "id": "lindau",
+      "name": "Lindau"
     },
     {
-      "name": "Littau",
-      "id": "K-52yvt4J72D"
+      "id": "littau",
+      "name": "Littau"
     },
     {
-      "name": "Locarno",
-      "id": "RubWI7E9ejkv"
+      "id": "locarno",
+      "name": "Locarno"
     },
     {
-      "name": "Loco",
-      "id": "ECFlga8qBVQc"
+      "id": "loco",
+      "name": "Loco"
     },
     {
-      "name": "Lodrino",
-      "id": "8EG9Yk2aX2u_"
+      "id": "lodrino",
+      "name": "Lodrino"
     },
     {
-      "name": "Lohn",
-      "id": "ohV9BWSkqEht"
+      "id": "lohn",
+      "name": "Lohn"
     },
     {
-      "name": "Lommis",
-      "id": "5DamjZeQ4o8O"
+      "id": "lommis",
+      "name": "Lommis"
     },
     {
-      "name": "Losone",
-      "id": "5RDIoG4kHaVi"
+      "id": "losone",
+      "name": "Losone"
     },
     {
-      "name": "Lostorf",
-      "id": "pY96FdomwTwP"
+      "id": "lostorf",
+      "name": "Lostorf"
     },
     {
-      "name": "Lotzwil",
-      "id": "lQbFwca43O1m"
+      "id": "lotzwil",
+      "name": "Lotzwil"
     },
     {
-      "name": "Lucens",
-      "id": "IxMRJuD3UakE"
+      "id": "lucens",
+      "name": "Lucens"
     },
     {
-      "name": "Lucerne",
-      "id": "2RoJUUwcSgFs"
+      "id": "lucerne",
+      "name": "Lucerne"
     },
     {
-      "name": "Lugano",
-      "id": "gRBeig-tQbbi"
+      "id": "lugano",
+      "name": "Lugano"
     },
     {
-      "name": "Lungern",
-      "id": "CFosFt5OyQqS"
+      "id": "lungern",
+      "name": "Lungern"
     },
     {
-      "name": "Lurtigen",
-      "id": "Gr3vBhRfbZE3"
+      "id": "lurtigen",
+      "name": "Lurtigen"
     },
     {
-      "name": "Lutisburg",
-      "id": "Vk8MBDX6MfH5"
+      "id": "lutisburg",
+      "name": "Lutisburg"
     },
     {
-      "name": "Lutry",
-      "id": "GA0sl38Ll9zw"
+      "id": "lutry",
+      "name": "Lutry"
     },
     {
-      "name": "Luvis",
-      "id": "yArRUJtklXZJ"
+      "id": "luvis",
+      "name": "Luvis"
     },
     {
-      "name": "Lyss",
-      "id": "Na3HBOwD9R_S"
+      "id": "lyss",
+      "name": "Lyss"
     },
     {
-      "name": "Lyssach",
-      "id": "el6YnzRvtmMl"
+      "id": "lyssach",
+      "name": "Lyssach"
     },
     {
-      "name": "Maerstetten-Dorf",
-      "id": "_5D_9Vtlem8G"
+      "id": "maerstetten-dorf",
+      "name": "Maerstetten-Dorf"
     },
     {
-      "name": "Magadino",
-      "id": "Od0OC_GMOMsv"
+      "id": "magadino",
+      "name": "Magadino"
     },
     {
-      "name": "Magden",
-      "id": "VQJ3GcwZO6yM"
+      "id": "magden",
+      "name": "Magden"
     },
     {
-      "name": "Maggia",
-      "id": "qcV5Iw94Srdi"
+      "id": "maggia",
+      "name": "Maggia"
     },
     {
-      "name": "Maisprach",
-      "id": "v3ZyAvHC9AY5"
+      "id": "maisprach",
+      "name": "Maisprach"
     },
     {
-      "name": "Malleray",
-      "id": "Uj6ZiiUB5SrA"
+      "id": "malleray",
+      "name": "Malleray"
     },
     {
-      "name": "Malters",
-      "id": "PMwgylhbmyKn"
+      "id": "malters",
+      "name": "Malters"
     },
     {
-      "name": "Mannedorf",
-      "id": "pkcCSISLlbHx"
+      "id": "mannedorf",
+      "name": "Mannedorf"
     },
     {
-      "name": "Manno",
-      "id": "awK0elpBwyjR"
+      "id": "manno",
+      "name": "Manno"
     },
     {
-      "name": "Marin",
-      "id": "us26VG-fhQKO"
+      "id": "marin",
+      "name": "Marin"
     },
     {
-      "name": "Maroggia",
-      "id": "6FAOqMBocLwm"
+      "id": "maroggia",
+      "name": "Maroggia"
     },
     {
-      "name": "Marsens",
-      "id": "PtYhWDtKywgh"
+      "id": "marsens",
+      "name": "Marsens"
     },
     {
-      "name": "Martigny-Croix",
-      "id": "_ZxyHbWpqKEi"
+      "id": "martigny-croix",
+      "name": "Martigny-Croix"
     },
     {
-      "name": "Martigny-Ville",
-      "id": "lpKdFXRVZw72"
+      "id": "martigny-ville",
+      "name": "Martigny-Ville"
     },
     {
-      "name": "Maschwanden",
-      "id": "yyyyUeoqmhV5"
+      "id": "maschwanden",
+      "name": "Maschwanden"
     },
     {
-      "name": "Massagno",
-      "id": "gKAQubQsZpmk"
+      "id": "massagno",
+      "name": "Massagno"
     },
     {
-      "name": "Matt",
-      "id": "wZzaRxG5Si1n"
+      "id": "matt",
+      "name": "Matt"
     },
     {
-      "name": "Matzendorf",
-      "id": "V-hq4Fa_us-0"
+      "id": "matzendorf",
+      "name": "Matzendorf"
     },
     {
-      "name": "Matzingen",
-      "id": "npFKoHLPxXDT"
+      "id": "matzingen",
+      "name": "Matzingen"
     },
     {
-      "name": "Mauensee",
-      "id": "9yKYrfyh3gat"
+      "id": "mauensee",
+      "name": "Mauensee"
     },
     {
-      "name": "Maur",
-      "id": "l0vdRNvGlXKY"
+      "id": "maur",
+      "name": "Maur"
     },
     {
-      "name": "Meggen",
-      "id": "f6gWIR_rA4v3"
+      "id": "meggen",
+      "name": "Meggen"
     },
     {
-      "name": "Meierskappel",
-      "id": "twWX141W4hzB"
+      "id": "meierskappel",
+      "name": "Meierskappel"
     },
     {
-      "name": "Meilen",
-      "id": "7b2XcXJmeKa8"
+      "id": "meilen",
+      "name": "Meilen"
     },
     {
-      "name": "Meinier",
-      "id": "m1d63bnZ_8cR"
+      "id": "meinier",
+      "name": "Meinier"
     },
     {
-      "name": "Meinisberg",
-      "id": "GDbMYer7Q9JC"
+      "id": "meinisberg",
+      "name": "Meinisberg"
     },
     {
-      "name": "Meiringen",
-      "id": "LgGSbgwYJ8Yj"
+      "id": "meiringen",
+      "name": "Meiringen"
     },
     {
-      "name": "Meisterschwanden",
-      "id": "gSPxB_g_vqjQ"
+      "id": "meisterschwanden",
+      "name": "Meisterschwanden"
     },
     {
-      "name": "Melano",
-      "id": "EpUTaYLgcBx4"
+      "id": "melano",
+      "name": "Melano"
     },
     {
-      "name": "Melchnau",
-      "id": "rp8Iy03TdDZg"
+      "id": "melchnau",
+      "name": "Melchnau"
     },
     {
-      "name": "Melide",
-      "id": "DTs4U6S25d3k"
+      "id": "melide",
+      "name": "Melide"
     },
     {
-      "name": "Mellingen",
-      "id": "Y4CgOiEHyGKW"
+      "id": "mellingen",
+      "name": "Mellingen"
     },
     {
-      "name": "Mels",
-      "id": "N39n00-ZMbyC"
+      "id": "mels",
+      "name": "Mels"
     },
     {
-      "name": "Mendrisio",
-      "id": "IpXmVLG5pilA"
+      "id": "mendrisio",
+      "name": "Mendrisio"
     },
     {
-      "name": "Menziken",
-      "id": "lQd_oSWtuxKS"
+      "id": "menziken",
+      "name": "Menziken"
     },
     {
-      "name": "Menzingen",
-      "id": "NuvayIWIVFTL"
+      "id": "menzingen",
+      "name": "Menzingen"
     },
     {
-      "name": "Merenschwand",
-      "id": "TSoqlhUgHkeM"
+      "id": "merenschwand",
+      "name": "Merenschwand"
     },
     {
-      "name": "Merishausen",
-      "id": "j6zOXCxnAU3g"
+      "id": "merishausen",
+      "name": "Merishausen"
     },
     {
-      "name": "Messen",
-      "id": "mWJ4Be9fH1ml"
+      "id": "messen",
+      "name": "Messen"
     },
     {
-      "name": "Mettendorf",
-      "id": "6tBdqQmlY_rC"
+      "id": "mettendorf",
+      "name": "Mettendorf"
     },
     {
-      "name": "Mettlen",
-      "id": "bGyRNETTL5ou"
+      "id": "mettlen",
+      "name": "Mettlen"
     },
     {
-      "name": "Mettmenstetten",
-      "id": "aYA6RQ-frs1x"
+      "id": "mettmenstetten",
+      "name": "Mettmenstetten"
     },
     {
-      "name": "Meyrin",
-      "id": "Eurlo6ZOjor1"
+      "id": "meyrin",
+      "name": "Meyrin"
     },
     {
-      "name": "Miecourt",
-      "id": "BpOcSAkJTE-O"
+      "id": "miecourt",
+      "name": "Miecourt"
     },
     {
-      "name": "Minusio",
-      "id": "_84xAy-23MsZ"
+      "id": "minusio",
+      "name": "Minusio"
     },
     {
-      "name": "Mohlin",
-      "id": "oUjHueekEX6w"
+      "id": "mohlin",
+      "name": "Mohlin"
     },
     {
-      "name": "Mollis",
-      "id": "R2z_dpAVR9fR"
+      "id": "mollis",
+      "name": "Mollis"
     },
     {
-      "name": "Monchaltorf",
-      "id": "rMYtSCRi1GHI"
+      "id": "monchaltorf",
+      "name": "Monchaltorf"
     },
     {
-      "name": "Montagnola",
-      "id": "1aPA5kbxMH0r"
+      "id": "montagnola",
+      "name": "Montagnola"
     },
     {
-      "name": "Montana",
-      "id": "wCXZo8GRlDxb"
+      "id": "montana",
+      "name": "Montana"
     },
     {
-      "name": "Montet",
-      "id": "KHgoZCbQIRDa"
+      "id": "montet",
+      "name": "Montet"
     },
     {
-      "name": "Monthey",
-      "id": "MieIbOW6-wLU"
+      "id": "monthey",
+      "name": "Monthey"
     },
     {
-      "name": "Montreux",
-      "id": "0ML8GMXCfpLV"
+      "id": "montreux",
+      "name": "Montreux"
     },
     {
-      "name": "Moosleerau",
-      "id": "BQxoxujciDVt"
+      "id": "moosleerau",
+      "name": "Moosleerau"
     },
     {
-      "name": "Morbio Inferiore",
-      "id": "xlSAgsUXwZZ9"
+      "id": "morbio-inferiore",
+      "name": "Morbio Inferiore"
     },
     {
-      "name": "Morcote",
-      "id": "Fhj_gnzL3HUQ"
+      "id": "morcote",
+      "name": "Morcote"
     },
     {
-      "name": "Morges",
-      "id": "jsuyA0jiwMQ1"
+      "id": "morges",
+      "name": "Morges"
     },
     {
-      "name": "Morgins",
-      "id": "EIwTk3DSFlxP"
+      "id": "morgins",
+      "name": "Morgins"
     },
     {
-      "name": "Morigen",
-      "id": "7sv6ZSrLPyup"
+      "id": "morigen",
+      "name": "Morigen"
     },
     {
-      "name": "Moriken",
-      "id": "3wsjuv485knK"
+      "id": "moriken",
+      "name": "Moriken"
     },
     {
-      "name": "Morschach",
-      "id": "zov66s9Zc7Uu"
+      "id": "morschach",
+      "name": "Morschach"
     },
     {
-      "name": "Morschwil",
-      "id": "61Qh9eGFE5mC"
+      "id": "morschwil",
+      "name": "Morschwil"
     },
     {
-      "name": "Mosnang",
-      "id": "J0bs9TIScS2d"
+      "id": "mosnang",
+      "name": "Mosnang"
     },
     {
-      "name": "Motiers",
-      "id": "Bu8Ro7uVf4pe"
+      "id": "motiers",
+      "name": "Motiers"
     },
     {
-      "name": "Moudon",
-      "id": "FU_CnH7FiXc2"
+      "id": "moudon",
+      "name": "Moudon"
     },
     {
-      "name": "Moutier",
-      "id": "PzHU8weoc1Ui"
+      "id": "moutier",
+      "name": "Moutier"
     },
     {
-      "name": "Muerren",
-      "id": "JAGDlNy9Cmwc"
+      "id": "muerren",
+      "name": "Muerren"
     },
     {
-      "name": "Muhen",
-      "id": "JwG1w6Sr6hOI"
+      "id": "muhen",
+      "name": "Muhen"
     },
     {
-      "name": "Muhlau",
-      "id": "rZoJR91rromw"
+      "id": "muhlau",
+      "name": "Muhlau"
     },
     {
-      "name": "Muhleberg",
-      "id": "WfskE1z86Wvl"
+      "id": "muhleberg",
+      "name": "Muhleberg"
     },
     {
-      "name": "Mullheim",
-      "id": "pyk5MZWuDqci"
+      "id": "mullheim",
+      "name": "Mullheim"
     },
     {
-      "name": "Mumliswil",
-      "id": "9PKKLtkQyl9A"
+      "id": "mumliswil",
+      "name": "Mumliswil"
     },
     {
-      "name": "Mumpf",
-      "id": "cjhPROxR-5WS"
+      "id": "mumpf",
+      "name": "Mumpf"
     },
     {
-      "name": "Munchenbuchsee",
-      "id": "UBfDew6bUYd2"
+      "id": "munchenbuchsee",
+      "name": "Munchenbuchsee"
     },
     {
-      "name": "Munchenstein",
-      "id": "KGLmhMJyjrDp"
+      "id": "munchenstein",
+      "name": "Munchenstein"
     },
     {
-      "name": "Munchwilen",
-      "id": "mvbbFp-Y7Cn2"
+      "id": "munchwilen",
+      "name": "Munchwilen"
     },
     {
-      "name": "Munsingen",
-      "id": "hBPVqV_mfxKs"
+      "id": "munsingen",
+      "name": "Munsingen"
     },
     {
-      "name": "Munster",
-      "id": "HEjbTnZfAttr"
+      "id": "munster",
+      "name": "Munster"
     },
     {
-      "name": "Muolen",
-      "id": "E0j6sVjn2N14"
+      "id": "muolen",
+      "name": "Muolen"
     },
     {
-      "name": "Muotathal",
-      "id": "td8BSOEfBHT8"
+      "id": "muotathal",
+      "name": "Muotathal"
     },
     {
-      "name": "Murgenthal",
-      "id": "_ri9iZL83nkc"
+      "id": "murgenthal",
+      "name": "Murgenthal"
     },
     {
-      "name": "Muri",
-      "id": "WYdYc48qU6bk"
+      "id": "muri",
+      "name": "Muri"
     },
     {
-      "name": "Muri bei Bern",
-      "id": "4_5R50hhHKSS"
+      "id": "muri-bei-bern",
+      "name": "Muri bei Bern"
     },
     {
-      "name": "Murten",
-      "id": "66nlEbHAD6-w"
+      "id": "murten",
+      "name": "Murten"
     },
     {
-      "name": "Muttenz",
-      "id": "Sx8K6VqrtTAS"
+      "id": "muttenz",
+      "name": "Muttenz"
     },
     {
-      "name": "Nafels",
-      "id": "VZiHUFM8Xcn8"
+      "id": "nafels",
+      "name": "Nafels"
     },
     {
-      "name": "Nanikon",
-      "id": "bh3s00RnnKQz"
+      "id": "nanikon",
+      "name": "Nanikon"
     },
     {
-      "name": "Naters",
-      "id": "7jIdA4LD9B66"
+      "id": "naters",
+      "name": "Naters"
     },
     {
-      "name": "Nax",
-      "id": "KhxmL-eRaLdf"
+      "id": "nax",
+      "name": "Nax"
     },
     {
-      "name": "Neftenbach",
-      "id": "0VOBuEQYlIli"
+      "id": "neftenbach",
+      "name": "Neftenbach"
     },
     {
-      "name": "Nesslau",
-      "id": "50ScvbUjXOff"
+      "id": "nesslau",
+      "name": "Nesslau"
     },
     {
-      "name": "Netstal",
-      "id": "y02tCcLydY78"
+      "id": "netstal",
+      "name": "Netstal"
     },
     {
-      "name": "Neu-Rheinau",
-      "id": "wFOsw9Jul_XE"
+      "id": "neu-rheinau",
+      "name": "Neu-Rheinau"
     },
     {
-      "name": "Neuchatel",
-      "id": "sVe5G9WkZu5d"
+      "id": "neuchatel",
+      "name": "Neuchatel"
     },
     {
-      "name": "Neuenhof",
-      "id": "pv0SWdLNyVKt"
+      "id": "neuenhof",
+      "name": "Neuenhof"
     },
     {
-      "name": "Neuenkirch",
-      "id": "t22Y-RvAnOk5"
+      "id": "neuenkirch",
+      "name": "Neuenkirch"
     },
     {
-      "name": "Neuhausen",
-      "id": "Nohf215Xvkc0"
+      "id": "neuhausen",
+      "name": "Neuhausen"
     },
     {
-      "name": "Neuheim",
-      "id": "OFh8aUA1N_q9"
+      "id": "neuheim",
+      "name": "Neuheim"
     },
     {
-      "name": "Neukirch",
-      "id": "MUJA5DgROEYl"
+      "id": "neukirch",
+      "name": "Neukirch"
     },
     {
-      "name": "Neunkirch",
-      "id": "Hp1z91BoJuut"
+      "id": "neunkirch",
+      "name": "Neunkirch"
     },
     {
-      "name": "Neyruz",
-      "id": "n0KYj-Rs9s8u"
+      "id": "neyruz",
+      "name": "Neyruz"
     },
     {
-      "name": "Nidau",
-      "id": "INeHPziNShi0"
+      "id": "nidau",
+      "name": "Nidau"
     },
     {
-      "name": "Niederbipp",
-      "id": "wNV1wo0tt_an"
+      "id": "niederbipp",
+      "name": "Niederbipp"
     },
     {
-      "name": "Niederbuchsiten",
-      "id": "SBwWNjYXI9wb"
+      "id": "niederbuchsiten",
+      "name": "Niederbuchsiten"
     },
     {
-      "name": "Niederburen",
-      "id": "XhR4vY0iIbzW"
+      "id": "niederburen",
+      "name": "Niederburen"
     },
     {
-      "name": "Niedererlinsbach",
-      "id": "4fhm7F6L9l6_"
+      "id": "niedererlinsbach",
+      "name": "Niedererlinsbach"
     },
     {
-      "name": "Niedergosgen",
-      "id": "-97yePXXVO5Y"
+      "id": "niedergosgen",
+      "name": "Niedergosgen"
     },
     {
-      "name": "Niederhallwil",
-      "id": "qcw7wjigvWC5"
+      "id": "niederhallwil",
+      "name": "Niederhallwil"
     },
     {
-      "name": "Niederhelfenschwil",
-      "id": "z7xwkF6YNGA3"
+      "id": "niederhelfenschwil",
+      "name": "Niederhelfenschwil"
     },
     {
-      "name": "Niederlenz",
-      "id": "yezGJGTYtVCy"
+      "id": "niederlenz",
+      "name": "Niederlenz"
     },
     {
-      "name": "Niederrohrdorf",
-      "id": "fWdrqdUveUT5"
+      "id": "niederrohrdorf",
+      "name": "Niederrohrdorf"
     },
     {
-      "name": "Niederscherli",
-      "id": "B6nZUlYrXyti"
+      "id": "niederscherli",
+      "name": "Niederscherli"
     },
     {
-      "name": "Niederurnen",
-      "id": "ILIw47Bof6PM"
+      "id": "niederurnen",
+      "name": "Niederurnen"
     },
     {
-      "name": "Niederuzwil",
-      "id": "Cd0-2us48AFb"
+      "id": "niederuzwil",
+      "name": "Niederuzwil"
     },
     {
-      "name": "Niederweningen",
-      "id": "1DsVD4pZ40NY"
+      "id": "niederweningen",
+      "name": "Niederweningen"
     },
     {
-      "name": "Nohl",
-      "id": "TKA-OJnxHhkp"
+      "id": "nohl",
+      "name": "Nohl"
     },
     {
-      "name": "Noreaz",
-      "id": "fnfvixdEcDIw"
+      "id": "noreaz",
+      "name": "Noreaz"
     },
     {
-      "name": "Nottwil",
-      "id": "UA43dCaFkQbG"
+      "id": "nottwil",
+      "name": "Nottwil"
     },
     {
-      "name": "Novaggio",
-      "id": "qKPTceyiJzOG"
+      "id": "novaggio",
+      "name": "Novaggio"
     },
     {
-      "name": "Novazzano",
-      "id": "V_ILU8MSPkEC"
+      "id": "novazzano",
+      "name": "Novazzano"
     },
     {
-      "name": "Nunningen",
-      "id": "O5s2jEaIelWH"
+      "id": "nunningen",
+      "name": "Nunningen"
     },
     {
-      "name": "Nurensdorf",
-      "id": "pCzSf5k1Ti86"
+      "id": "nurensdorf",
+      "name": "Nurensdorf"
     },
     {
-      "name": "Nussbaumen",
-      "id": "7TqJB5LUV9ov"
+      "id": "nussbaumen",
+      "name": "Nussbaumen"
     },
     {
-      "name": "Nyon",
-      "id": "OovIDXQ_CsdA"
+      "id": "nyon",
+      "name": "Nyon"
     },
     {
-      "name": "Ober Urdorf",
-      "id": "lIutWzJdFZiP"
+      "id": "ober-urdorf",
+      "name": "Ober Urdorf"
     },
     {
-      "name": "Oberbalm",
-      "id": "hYT5PsNub9hh"
+      "id": "oberbalm",
+      "name": "Oberbalm"
     },
     {
-      "name": "Oberbipp",
-      "id": "Mh2sur3Qyk9X"
+      "id": "oberbipp",
+      "name": "Oberbipp"
     },
     {
-      "name": "Oberbuchsiten",
-      "id": "GtT_z36fA6to"
+      "id": "oberbuchsiten",
+      "name": "Oberbuchsiten"
     },
     {
-      "name": "Oberburg",
-      "id": "zXu_BOGUv2Ai"
+      "id": "oberburg",
+      "name": "Oberburg"
     },
     {
-      "name": "Oberdiessbach",
-      "id": "Wyvyz3fHh6fY"
+      "id": "oberdiessbach",
+      "name": "Oberdiessbach"
     },
     {
-      "name": "Oberdorf",
-      "id": "W3wcJYe80OeK"
+      "id": "oberdorf",
+      "name": "Oberdorf"
     },
     {
-      "name": "Oberegg",
-      "id": "GRpif3aK3bEw"
+      "id": "oberegg",
+      "name": "Oberegg"
     },
     {
-      "name": "Oberembrach",
-      "id": "xXBUQ-t613F6"
+      "id": "oberembrach",
+      "name": "Oberembrach"
     },
     {
-      "name": "Oberengstringen",
-      "id": "3ep87r_AHRT9"
+      "id": "oberengstringen",
+      "name": "Oberengstringen"
     },
     {
-      "name": "Oberentfelden",
-      "id": "s2vqSEKtzYDh"
+      "id": "oberentfelden",
+      "name": "Oberentfelden"
     },
     {
-      "name": "Obergerlafingen",
-      "id": "iNl870pI6WRA"
+      "id": "obergerlafingen",
+      "name": "Obergerlafingen"
     },
     {
-      "name": "Oberglatt",
-      "id": "3w0lMV6kST1B"
+      "id": "oberglatt",
+      "name": "Oberglatt"
     },
     {
-      "name": "Obergosgen",
-      "id": "enqZzBUyUcL3"
+      "id": "obergosgen",
+      "name": "Obergosgen"
     },
     {
-      "name": "Oberhelfenschwil",
-      "id": "1VVgJKACAQt4"
+      "id": "oberhelfenschwil",
+      "name": "Oberhelfenschwil"
     },
     {
-      "name": "Oberhofen",
-      "id": "VD_zakOIT6Gm"
+      "id": "oberhofen",
+      "name": "Oberhofen"
     },
     {
-      "name": "Oberhofen bei Etzgen",
-      "id": "jaOECTc-lHxb"
+      "id": "oberhofen-bei-etzgen",
+      "name": "Oberhofen bei Etzgen"
     },
     {
-      "name": "Oberkirch",
-      "id": "z6Jaxi4r7TyG"
+      "id": "oberkirch",
+      "name": "Oberkirch"
     },
     {
-      "name": "Oberlunkhofen",
-      "id": "6_8Ms66nbjNC"
+      "id": "oberlunkhofen",
+      "name": "Oberlunkhofen"
     },
     {
-      "name": "Oberonz",
-      "id": "m4BifbC_e_eo"
+      "id": "oberonz",
+      "name": "Oberonz"
     },
     {
-      "name": "Oberrieden",
-      "id": "vdTaR7BXL8BL"
+      "id": "oberrieden",
+      "name": "Oberrieden"
     },
     {
-      "name": "Oberriet",
-      "id": "o_hy18BVj592"
+      "id": "oberriet",
+      "name": "Oberriet"
     },
     {
-      "name": "Obersaxen",
-      "id": "Cmt-qoeCpO7h"
+      "id": "obersaxen",
+      "name": "Obersaxen"
     },
     {
-      "name": "Oberschlatt",
-      "id": "4LC5daUhwuEc"
+      "id": "oberschlatt",
+      "name": "Oberschlatt"
     },
     {
-      "name": "Oberstocken",
-      "id": "YUQtEJAUKP6c"
+      "id": "oberstocken",
+      "name": "Oberstocken"
     },
     {
-      "name": "Oberuzwil",
-      "id": "QmSU4qQ0GtUf"
+      "id": "oberuzwil",
+      "name": "Oberuzwil"
     },
     {
-      "name": "Obervaz",
-      "id": "pRuuE0ZoRwLL"
+      "id": "obervaz",
+      "name": "Obervaz"
     },
     {
-      "name": "Oberwangen",
-      "id": "uF9N-ckqBaCV"
+      "id": "oberwangen",
+      "name": "Oberwangen"
     },
     {
-      "name": "Oberweningen",
-      "id": "sligzYPtiGwO"
+      "id": "oberweningen",
+      "name": "Oberweningen"
     },
     {
-      "name": "Oberwil",
-      "id": "MVvzgL5jSNYE"
+      "id": "oberwil",
+      "name": "Oberwil"
     },
     {
-      "name": "Obfelden",
-      "id": "XAbg53IukZdJ"
+      "id": "obfelden",
+      "name": "Obfelden"
     },
     {
-      "name": "Oensingen",
-      "id": "rWdg8Sitr-eM"
+      "id": "oensingen",
+      "name": "Oensingen"
     },
     {
-      "name": "Oetwil / Oetwil an der Limmat",
-      "id": "TIqHbNGq2Z9i"
+      "id": "oetwil-oetwil-an-der-limmat",
+      "name": "Oetwil / Oetwil an der Limmat"
     },
     {
-      "name": "Oetwil am See",
-      "id": "1DRwnK6HzMoD"
+      "id": "oetwil-am-see",
+      "name": "Oetwil am See"
     },
     {
-      "name": "Oftringen",
-      "id": "6dhgTGFYFn3B"
+      "id": "oftringen",
+      "name": "Oftringen"
     },
     {
-      "name": "Olten",
-      "id": "6woTxqWRAMnH"
+      "id": "olten",
+      "name": "Olten"
     },
     {
-      "name": "Onex",
-      "id": "-JDi8VxnvZ4n"
+      "id": "onex",
+      "name": "Onex"
     },
     {
-      "name": "Onnens",
-      "id": "hrZEei9JWtlE"
+      "id": "onnens",
+      "name": "Onnens"
     },
     {
-      "name": "Opfikon",
-      "id": "BLJF2fvB51Sk"
+      "id": "opfikon",
+      "name": "Opfikon"
     },
     {
-      "name": "Orbe",
-      "id": "LpVEqKeruIwK"
+      "id": "orbe",
+      "name": "Orbe"
     },
     {
-      "name": "Ormalingen",
-      "id": "3drCG97RaJLP"
+      "id": "ormalingen",
+      "name": "Ormalingen"
     },
     {
-      "name": "Oron-la-ville",
-      "id": "gP5PcEQekyCK"
+      "id": "oron-la-ville",
+      "name": "Oron-la-ville"
     },
     {
-      "name": "Orpund",
-      "id": "bMlQYBXsTw-e"
+      "id": "orpund",
+      "name": "Orpund"
     },
     {
-      "name": "Orsonnens",
-      "id": "A8sDFLd8dRDz"
+      "id": "orsonnens",
+      "name": "Orsonnens"
     },
     {
-      "name": "Orvin",
-      "id": "eUdgrwU7218m"
+      "id": "orvin",
+      "name": "Orvin"
     },
     {
-      "name": "Ossingen",
-      "id": "v9rSD2ZSx17U"
+      "id": "ossingen",
+      "name": "Ossingen"
     },
     {
-      "name": "Ostermundigen",
-      "id": "wnsZYSLr6ozn"
+      "id": "ostermundigen",
+      "name": "Ostermundigen"
     },
     {
-      "name": "Otelfingen",
-      "id": "FMF9KbGWkyuC"
+      "id": "otelfingen",
+      "name": "Otelfingen"
     },
     {
-      "name": "Othmarsingen",
-      "id": "nEzaXMu4aF-u"
+      "id": "othmarsingen",
+      "name": "Othmarsingen"
     },
     {
-      "name": "Ottenbach",
-      "id": "ALRrQW6iEO3_"
+      "id": "ottenbach",
+      "name": "Ottenbach"
     },
     {
-      "name": "Ouchy",
-      "id": "mvu6WLdomQUF"
+      "id": "ouchy",
+      "name": "Ouchy"
     },
     {
-      "name": "Ovronnaz",
-      "id": "lOGO9X7uX-Lw"
+      "id": "ovronnaz",
+      "name": "Ovronnaz"
     },
     {
-      "name": "Palezieux",
-      "id": "WZa8aK-4v5S2"
+      "id": "palezieux",
+      "name": "Palezieux"
     },
     {
-      "name": "Pampigny",
-      "id": "ZFSN9vRPoYLE"
+      "id": "pampigny",
+      "name": "Pampigny"
     },
     {
-      "name": "Paudex",
-      "id": "ZPK4AxcqNPy_"
+      "id": "paudex",
+      "name": "Paudex"
     },
     {
-      "name": "Payerne",
-      "id": "WFDU7UUP31W0"
+      "id": "payerne",
+      "name": "Payerne"
     },
     {
-      "name": "Perlen",
-      "id": "kAKUGS8jklUE"
+      "id": "perlen",
+      "name": "Perlen"
     },
     {
-      "name": "Perroy",
-      "id": "L6SRFlFHcWO5"
+      "id": "perroy",
+      "name": "Perroy"
     },
     {
-      "name": "Pery",
-      "id": "qYka8RT-U-4f"
+      "id": "pery",
+      "name": "Pery"
     },
     {
-      "name": "Peseux",
-      "id": "6pSaoQSiKb23"
+      "id": "peseux",
+      "name": "Peseux"
     },
     {
-      "name": "Pfaeffikon",
-      "id": "0bwCWy43wAv3"
+      "id": "pfaeffikon",
+      "name": "Pfaeffikon"
     },
     {
-      "name": "Pfaffnau",
-      "id": "cnS2Mh7kkKDt"
+      "id": "pfaffnau",
+      "name": "Pfaffnau"
     },
     {
-      "name": "Pfeffikon",
-      "id": "ehyEoRjUqmBA"
+      "id": "pfeffikon",
+      "name": "Pfeffikon"
     },
     {
-      "name": "Pfeffingen",
-      "id": "w3qxYA30mt-S"
+      "id": "pfeffingen",
+      "name": "Pfeffingen"
     },
     {
-      "name": "Pfungen",
-      "id": "q-0-hXFDLC2E"
+      "id": "pfungen",
+      "name": "Pfungen"
     },
     {
-      "name": "Pfyn",
-      "id": "9AEPea2mjaik"
+      "id": "pfyn",
+      "name": "Pfyn"
     },
     {
-      "name": "Pieterlen",
-      "id": "4OYKeHQPnJwY"
+      "id": "pieterlen",
+      "name": "Pieterlen"
     },
     {
-      "name": "Plaffeien",
-      "id": "Ln4MbNBV6AiY"
+      "id": "plaffeien",
+      "name": "Plaffeien"
     },
     {
-      "name": "Plan-les-Ouates",
-      "id": "H-rtcDhsvxk4"
+      "id": "plan-les-ouates",
+      "name": "Plan-les-Ouates"
     },
     {
-      "name": "Porrentruy",
-      "id": "BWomtm2Fyjta"
+      "id": "porrentruy",
+      "name": "Porrentruy"
     },
     {
-      "name": "Porsel",
-      "id": "bukpwZBSBUm_"
+      "id": "porsel",
+      "name": "Porsel"
     },
     {
-      "name": "Portalban- Dessous",
-      "id": "Z18svmrB4fiD"
+      "id": "portalban-dessous",
+      "name": "Portalban- Dessous"
     },
     {
-      "name": "Prangins",
-      "id": "mdIhrPMfI4_Y"
+      "id": "prangins",
+      "name": "Prangins"
     },
     {
-      "name": "Pratteln",
-      "id": "lmiYyI7pvgUi"
+      "id": "pratteln",
+      "name": "Pratteln"
     },
     {
-      "name": "Pregassona",
-      "id": "jQv5WvuReqxX"
+      "id": "pregassona",
+      "name": "Pregassona"
     },
     {
-      "name": "Preles",
-      "id": "mKS0UDJN4spW"
+      "id": "preles",
+      "name": "Preles"
     },
     {
-      "name": "Preverenges",
-      "id": "IflSIGk-vxFY"
+      "id": "preverenges",
+      "name": "Preverenges"
     },
     {
-      "name": "Prilly",
-      "id": "awjWf0unD_tL"
+      "id": "prilly",
+      "name": "Prilly"
     },
     {
-      "name": "Puidoux",
-      "id": "wK_pOMuFzmIL"
+      "id": "puidoux",
+      "name": "Puidoux"
     },
     {
-      "name": "Pully",
-      "id": "skmLz0WFumRK"
+      "id": "pully",
+      "name": "Pully"
     },
     {
-      "name": "Pura",
-      "id": "zj5P_3B5Kxoz"
+      "id": "pura",
+      "name": "Pura"
     },
     {
-      "name": "Quartino",
-      "id": "61gGXDOM0u21"
+      "id": "quartino",
+      "name": "Quartino"
     },
     {
-      "name": "Rafz",
-      "id": "I_LhUIok5o8q"
+      "id": "rafz",
+      "name": "Rafz"
     },
     {
-      "name": "Ramsen",
-      "id": "pIx6x6DIr6-N"
+      "id": "ramsen",
+      "name": "Ramsen"
     },
     {
-      "name": "Rances",
-      "id": "BdIbSeOvbdYX"
+      "id": "rances",
+      "name": "Rances"
     },
     {
-      "name": "Raperswilen",
-      "id": "ruf1DIybgZnH"
+      "id": "raperswilen",
+      "name": "Raperswilen"
     },
     {
-      "name": "Rapperswil",
-      "id": "FU1odQNmhDO4"
+      "id": "rapperswil",
+      "name": "Rapperswil"
     },
     {
-      "name": "Raron",
-      "id": "dNKs0oMcKbpd"
+      "id": "raron",
+      "name": "Raron"
     },
     {
-      "name": "Rebstein",
-      "id": "zCuZ57jpBQBS"
+      "id": "rebstein",
+      "name": "Rebstein"
     },
     {
-      "name": "Rechthalten",
-      "id": "amKKzkxrqiEZ"
+      "id": "rechthalten",
+      "name": "Rechthalten"
     },
     {
-      "name": "Reconvilier",
-      "id": "EIPcSqinXjBr"
+      "id": "reconvilier",
+      "name": "Reconvilier"
     },
     {
-      "name": "Regensdorf",
-      "id": "dAkKdWkB-Xq5"
+      "id": "regensdorf",
+      "name": "Regensdorf"
     },
     {
-      "name": "Rehetobel",
-      "id": "VJV1aR4JfPPL"
+      "id": "rehetobel",
+      "name": "Rehetobel"
     },
     {
-      "name": "Reichenburg",
-      "id": "XsB4J1ZZC_IN"
+      "id": "reichenburg",
+      "name": "Reichenburg"
     },
     {
-      "name": "Reiden",
-      "id": "xHiDQgrdDLtg"
+      "id": "reiden",
+      "name": "Reiden"
     },
     {
-      "name": "Reigoldswil",
-      "id": "49ZOGnSHwqHo"
+      "id": "reigoldswil",
+      "name": "Reigoldswil"
     },
     {
-      "name": "Reinach",
-      "id": "_rBetLOFtyvA"
+      "id": "reinach",
+      "name": "Reinach"
     },
     {
-      "name": "Rekingen",
-      "id": "rmQn1C2u_rvc"
+      "id": "rekingen",
+      "name": "Rekingen"
     },
     {
-      "name": "Renens",
-      "id": "o35j45vtJ3xd"
+      "id": "renens",
+      "name": "Renens"
     },
     {
-      "name": "Rhazuns",
-      "id": "Jv396yFJc1Cy"
+      "id": "rhazuns",
+      "name": "Rhazuns"
     },
     {
-      "name": "Rheineck",
-      "id": "7V4BQCngQkNQ"
+      "id": "rheineck",
+      "name": "Rheineck"
     },
     {
-      "name": "Rheinfelden",
-      "id": "i5j-gKVN0-Iv"
+      "id": "rheinfelden",
+      "name": "Rheinfelden"
     },
     {
-      "name": "Riaz",
-      "id": "xvP87ng8oTZi"
+      "id": "riaz",
+      "name": "Riaz"
     },
     {
-      "name": "Richenthal",
-      "id": "PZfNl9FmKVrs"
+      "id": "richenthal",
+      "name": "Richenthal"
     },
     {
-      "name": "Richigen",
-      "id": "kYCuqeHlDnd-"
+      "id": "richigen",
+      "name": "Richigen"
     },
     {
-      "name": "Richterswil",
-      "id": "tdElcoHGTCOV"
+      "id": "richterswil",
+      "name": "Richterswil"
     },
     {
-      "name": "Ricken",
-      "id": "sVc1QLzfbOZF"
+      "id": "ricken",
+      "name": "Ricken"
     },
     {
-      "name": "Rickenbach",
-      "id": "AK3fXrOaq9Ip"
+      "id": "rickenbach",
+      "name": "Rickenbach"
     },
     {
-      "name": "Riddes",
-      "id": "7E0uqR4bF8rg"
+      "id": "riddes",
+      "name": "Riddes"
     },
     {
-      "name": "Ried",
-      "id": "WDGfiQ06sknb"
+      "id": "ried",
+      "name": "Ried"
     },
     {
-      "name": "Riedholz",
-      "id": "VUmqXYmkAful"
+      "id": "riedholz",
+      "name": "Riedholz"
     },
     {
-      "name": "Rifferswil",
-      "id": "KrxWN6fgo7IC"
+      "id": "rifferswil",
+      "name": "Rifferswil"
     },
     {
-      "name": "Riggisberg",
-      "id": "e_if3Yyqyxjn"
+      "id": "riggisberg",
+      "name": "Riggisberg"
     },
     {
-      "name": "Rikon / Rikon (Dorfkern)",
-      "id": "ETRnPf3pXlXC"
+      "id": "rikon-rikon-dorfkern",
+      "name": "Rikon / Rikon (Dorfkern)"
     },
     {
-      "name": "Ringgenberg",
-      "id": "0Y9BXel6s4ln"
+      "id": "ringgenberg",
+      "name": "Ringgenberg"
     },
     {
-      "name": "Riva San Vitale",
-      "id": "Gb7By1eNHhoN"
+      "id": "riva-san-vitale",
+      "name": "Riva San Vitale"
     },
     {
-      "name": "Roche",
-      "id": "6NXsAZFy-X-i"
+      "id": "roche",
+      "name": "Roche"
     },
     {
-      "name": "Roemerswil",
-      "id": "bhSIG-7ZO-7L"
+      "id": "roemerswil",
+      "name": "Roemerswil"
     },
     {
-      "name": "Roggwil",
-      "id": "nKaXEd0C9r8C"
+      "id": "roggwil",
+      "name": "Roggwil"
     },
     {
-      "name": "Rohr",
-      "id": "bRfvVzyHWO6R"
+      "id": "rohr",
+      "name": "Rohr"
     },
     {
-      "name": "Rohrbach",
-      "id": "WLpVUltd85_v"
+      "id": "rohrbach",
+      "name": "Rohrbach"
     },
     {
-      "name": "Rolle",
-      "id": "YUK0pT4BAQOe"
+      "id": "rolle",
+      "name": "Rolle"
     },
     {
-      "name": "Romainmotier",
-      "id": "Ojq4R_Kj_Ias"
+      "id": "romainmotier",
+      "name": "Romainmotier"
     },
     {
-      "name": "Romanel",
-      "id": "oBcNOGDhS80l"
+      "id": "romanel",
+      "name": "Romanel"
     },
     {
-      "name": "Romanshorn",
-      "id": "1-PdGTicErIc"
+      "id": "romanshorn",
+      "name": "Romanshorn"
     },
     {
-      "name": "Romont",
-      "id": "-2GA_To7dhfC"
+      "id": "romont",
+      "name": "Romont"
     },
     {
-      "name": "Rondchatel",
-      "id": "M-vhXUdC92ev"
+      "id": "rondchatel",
+      "name": "Rondchatel"
     },
     {
-      "name": "Root",
-      "id": "xEFKhk7FPgZP"
+      "id": "root",
+      "name": "Root"
     },
     {
-      "name": "Rorbas",
-      "id": "6RUpBag3sql1"
+      "id": "rorbas",
+      "name": "Rorbas"
     },
     {
-      "name": "Rorschach",
-      "id": "21THtzh5D7NU"
+      "id": "rorschach",
+      "name": "Rorschach"
     },
     {
-      "name": "Roschenz",
-      "id": "8xhYZDc_Z0i-"
+      "id": "roschenz",
+      "name": "Roschenz"
     },
     {
-      "name": "Rossens",
-      "id": "uJRnGHiFCt-v"
+      "id": "rossens",
+      "name": "Rossens"
     },
     {
-      "name": "Rothenbach",
-      "id": "86GEM4iamuJx"
+      "id": "rothenbach",
+      "name": "Rothenbach"
     },
     {
-      "name": "Rothenthurm",
-      "id": "Psc4M1miEmuL"
+      "id": "rothenthurm",
+      "name": "Rothenthurm"
     },
     {
-      "name": "Rothrist",
-      "id": "29mvCv8IFe5h"
+      "id": "rothrist",
+      "name": "Rothrist"
     },
     {
-      "name": "Rotkreuz",
-      "id": "5pHfUlTfS94i"
+      "id": "rotkreuz",
+      "name": "Rotkreuz"
     },
     {
-      "name": "Roveredo",
-      "id": "JZ5medu6DQ23"
+      "id": "roveredo",
+      "name": "Roveredo"
     },
     {
-      "name": "Rubigen",
-      "id": "u-t7O4JghzGo"
+      "id": "rubigen",
+      "name": "Rubigen"
     },
     {
-      "name": "Rudlingen",
-      "id": "GefmAQjekODW"
+      "id": "rudlingen",
+      "name": "Rudlingen"
     },
     {
-      "name": "Rudolfstetten",
-      "id": "yk_kB9XgBVSg"
+      "id": "rudolfstetten",
+      "name": "Rudolfstetten"
     },
     {
-      "name": "Rue",
-      "id": "KMInZH7apCB1"
+      "id": "rue",
+      "name": "Rue"
     },
     {
-      "name": "Rueggisberg",
-      "id": "cfDUCHdl0_Or"
+      "id": "rueggisberg",
+      "name": "Rueggisberg"
     },
     {
-      "name": "Rueti",
-      "id": "6sihMIpYaYtu"
+      "id": "rueti",
+      "name": "Rueti"
     },
     {
-      "name": "Rueyres",
-      "id": "VVHXFfOhUANU"
+      "id": "rueyres",
+      "name": "Rueyres"
     },
     {
-      "name": "Rufi",
-      "id": "18aniXzKO0u5"
+      "id": "rufi",
+      "name": "Rufi"
     },
     {
-      "name": "Rumlang",
-      "id": "8JXqBmE9lhS-"
+      "id": "rumlang",
+      "name": "Rumlang"
     },
     {
-      "name": "Rupperswil",
-      "id": "LRPBs6uOXhGH"
+      "id": "rupperswil",
+      "name": "Rupperswil"
     },
     {
-      "name": "Ruschlikon",
-      "id": "uExUCdJtEWEA"
+      "id": "ruschlikon",
+      "name": "Ruschlikon"
     },
     {
-      "name": "Russikon",
-      "id": "pDm9x6NFWNW5"
+      "id": "russikon",
+      "name": "Russikon"
     },
     {
-      "name": "Russin",
-      "id": "fV6mo8rNfDD3"
+      "id": "russin",
+      "name": "Russin"
     },
     {
-      "name": "Ruswil",
-      "id": "7M_6qclKaAr1"
+      "id": "ruswil",
+      "name": "Ruswil"
     },
     {
-      "name": "Ruthi",
-      "id": "nuqWA1xgovwi"
+      "id": "ruthi",
+      "name": "Ruthi"
     },
     {
-      "name": "Saanen",
-      "id": "Vt8DNcdyjVgG"
+      "id": "saanen",
+      "name": "Saanen"
     },
     {
-      "name": "Saanenmoser",
-      "id": "mMUsGsm4DBsg"
+      "id": "saanenmoser",
+      "name": "Saanenmoser"
     },
     {
-      "name": "Saas-Fee",
-      "id": "zhEXVbCXLDY4"
+      "id": "saas-fee",
+      "name": "Saas-Fee"
     },
     {
-      "name": "Saas-Grund",
-      "id": "kSkpwvy-kgaw"
+      "id": "saas-grund",
+      "name": "Saas-Grund"
     },
     {
-      "name": "Sachseln",
-      "id": "nNG7KSduwJdx"
+      "id": "sachseln",
+      "name": "Sachseln"
     },
     {
-      "name": "Safenwil",
-      "id": "OhCntMUHw27F"
+      "id": "safenwil",
+      "name": "Safenwil"
     },
     {
-      "name": "Saignelegier",
-      "id": "jn2XjRg9u0LP"
+      "id": "saignelegier",
+      "name": "Saignelegier"
     },
     {
-      "name": "Saint-Aubin",
-      "id": "GR4tDtH_1V_I"
+      "id": "saint-aubin",
+      "name": "Saint-Aubin"
     },
     {
-      "name": "Saint-Aubin-Sauges",
-      "id": "YtZBHxQ_oloo"
+      "id": "saint-aubin-sauges",
+      "name": "Saint-Aubin-Sauges"
     },
     {
-      "name": "Saint-Blaise",
-      "id": "ZPIw0xm3ql1c"
+      "id": "saint-blaise",
+      "name": "Saint-Blaise"
     },
     {
-      "name": "Saint-Cergue",
-      "id": "sYe__e_w3ENe"
+      "id": "saint-cergue",
+      "name": "Saint-Cergue"
     },
     {
-      "name": "Saint-Imier",
-      "id": "VW1astdOj68w"
+      "id": "saint-imier",
+      "name": "Saint-Imier"
     },
     {
-      "name": "Saint-Leonard",
-      "id": "rshWFNBdniII"
+      "id": "saint-leonard",
+      "name": "Saint-Leonard"
     },
     {
-      "name": "Saint-Livres",
-      "id": "9YFImzqMjy0Z"
+      "id": "saint-livres",
+      "name": "Saint-Livres"
     },
     {
-      "name": "Saint-Maurice",
-      "id": "cRPHgNqN2fNG"
+      "id": "saint-maurice",
+      "name": "Saint-Maurice"
     },
     {
-      "name": "Saint-Prex",
-      "id": "gRQqY92ZXk-7"
+      "id": "saint-prex",
+      "name": "Saint-Prex"
     },
     {
-      "name": "Saint-Sulpice",
-      "id": "a36xQfHnQR3q"
+      "id": "saint-sulpice",
+      "name": "Saint-Sulpice"
     },
     {
-      "name": "Sainte-Croix",
-      "id": "ghpYxw1_Aex1"
+      "id": "sainte-croix",
+      "name": "Sainte-Croix"
     },
     {
-      "name": "Salmsach",
-      "id": "9mC-v8Rejl0M"
+      "id": "salmsach",
+      "name": "Salmsach"
     },
     {
-      "name": "Samstagern",
-      "id": "BbwyroPY9Ylv"
+      "id": "samstagern",
+      "name": "Samstagern"
     },
     {
-      "name": "Sankt Gallenkappel",
-      "id": "zOCAq4dywRai"
+      "id": "sankt-gallenkappel",
+      "name": "Sankt Gallenkappel"
     },
     {
-      "name": "Sankt Margrethen",
-      "id": "mryXF7RrYq07"
+      "id": "sankt-margrethen",
+      "name": "Sankt Margrethen"
     },
     {
-      "name": "Sargans",
-      "id": "kZhhWQvnjQ8U"
+      "id": "sargans",
+      "name": "Sargans"
     },
     {
-      "name": "Sariswil",
-      "id": "gTllvE_7932f"
+      "id": "sariswil",
+      "name": "Sariswil"
     },
     {
-      "name": "Sarmenstorf",
-      "id": "e-emeo6mZBbO"
+      "id": "sarmenstorf",
+      "name": "Sarmenstorf"
     },
     {
-      "name": "Sarn",
-      "id": "xK_p1wIEzThB"
+      "id": "sarn",
+      "name": "Sarn"
     },
     {
-      "name": "Sarnen",
-      "id": "zU-WAdsjIxFD"
+      "id": "sarnen",
+      "name": "Sarnen"
     },
     {
-      "name": "Satigny",
-      "id": "pYg-HZNFFyTH"
+      "id": "satigny",
+      "name": "Satigny"
     },
     {
-      "name": "Sattel",
-      "id": "ciTRVCGoPOu1"
+      "id": "sattel",
+      "name": "Sattel"
     },
     {
-      "name": "Saviese",
-      "id": "P-OpLXOGK-9v"
+      "id": "saviese",
+      "name": "Saviese"
     },
     {
-      "name": "Savigny",
-      "id": "OEd93fHsPWZC"
+      "id": "savigny",
+      "name": "Savigny"
     },
     {
-      "name": "Savognin",
-      "id": "IirWhKecWBc6"
+      "id": "savognin",
+      "name": "Savognin"
     },
     {
-      "name": "Saxon",
-      "id": "pCwBpRjEkxMX"
+      "id": "saxon",
+      "name": "Saxon"
     },
     {
-      "name": "Schachen",
-      "id": "K0AflZLsk0mv"
+      "id": "schachen",
+      "name": "Schachen"
     },
     {
-      "name": "Schaffhausen",
-      "id": "JN24C9yzCzxg"
+      "id": "schaffhausen",
+      "name": "Schaffhausen"
     },
     {
-      "name": "Schafisheim",
-      "id": "SRxXVhXJPoIK"
+      "id": "schafisheim",
+      "name": "Schafisheim"
     },
     {
-      "name": "Schanis",
-      "id": "vca5KNBa_TJS"
+      "id": "schanis",
+      "name": "Schanis"
     },
     {
-      "name": "Schattdorf",
-      "id": "b3Ih8fUDKTmg"
+      "id": "schattdorf",
+      "name": "Schattdorf"
     },
     {
-      "name": "Schenkon",
-      "id": "t58Vp8cHcGTV"
+      "id": "schenkon",
+      "name": "Schenkon"
     },
     {
-      "name": "Schiers",
-      "id": "qRX8Tk5ThAHM"
+      "id": "schiers",
+      "name": "Schiers"
     },
     {
-      "name": "Schindellegi",
-      "id": "YvKyU75MhHcn"
+      "id": "schindellegi",
+      "name": "Schindellegi"
     },
     {
-      "name": "Schinznach Bad",
-      "id": "nyecv09le1LJ"
+      "id": "schinznach-bad",
+      "name": "Schinznach Bad"
     },
     {
-      "name": "Schinznach Dorf",
-      "id": "o7AGlcmd589C"
+      "id": "schinznach-dorf",
+      "name": "Schinznach Dorf"
     },
     {
-      "name": "Schlatt",
-      "id": "L8uqCRXiyNsG"
+      "id": "schlatt",
+      "name": "Schlatt"
     },
     {
-      "name": "Schleitheim",
-      "id": "-9nPyQanF8cG"
+      "id": "schleitheim",
+      "name": "Schleitheim"
     },
     {
-      "name": "Schlieren",
-      "id": "gaFgLgRirN-U"
+      "id": "schlieren",
+      "name": "Schlieren"
     },
     {
-      "name": "Schmerikon",
-      "id": "gqIyXxLP2QhL"
+      "id": "schmerikon",
+      "name": "Schmerikon"
     },
     {
-      "name": "Schmitten",
-      "id": "qNOCsRKE4pM3"
+      "id": "schmitten",
+      "name": "Schmitten"
     },
     {
-      "name": "Schnottwil",
-      "id": "ErRwoRj81O5a"
+      "id": "schnottwil",
+      "name": "Schnottwil"
     },
     {
-      "name": "Schoetz",
-      "id": "l8wei_ya-Y4f"
+      "id": "schoetz",
+      "name": "Schoetz"
     },
     {
-      "name": "Schoftland",
-      "id": "6ss4dmA812a_"
+      "id": "schoftland",
+      "name": "Schoftland"
     },
     {
-      "name": "Schonbuhl",
-      "id": "MZ47Zfr-j9oX"
+      "id": "schonbuhl",
+      "name": "Schonbuhl"
     },
     {
-      "name": "Schonenberg",
-      "id": "SGECm75CUYf2"
+      "id": "schonenberg",
+      "name": "Schonenberg"
     },
     {
-      "name": "Schonenbuch",
-      "id": "CrrbWNaqmj0W"
+      "id": "schonenbuch",
+      "name": "Schonenbuch"
     },
     {
-      "name": "Schonenwerd",
-      "id": "cPE-rsgv5ZHL"
+      "id": "schonenwerd",
+      "name": "Schonenwerd"
     },
     {
-      "name": "Schongau",
-      "id": "P2G8pEXY4FNk"
+      "id": "schongau",
+      "name": "Schongau"
     },
     {
-      "name": "Schonholzerswilen",
-      "id": "Kq3iibTCD4r_"
+      "id": "schonholzerswilen",
+      "name": "Schonholzerswilen"
     },
     {
-      "name": "Schonried",
-      "id": "Yz7SMrXGZLF-"
+      "id": "schonried",
+      "name": "Schonried"
     },
     {
-      "name": "Schubelbach",
-      "id": "LPf41hr4irjE"
+      "id": "schubelbach",
+      "name": "Schubelbach"
     },
     {
-      "name": "Schuepfheim",
-      "id": "5VjKdxviQ7wH"
+      "id": "schuepfheim",
+      "name": "Schuepfheim"
     },
     {
-      "name": "Schupfen",
-      "id": "iFAZ5ZW6DJ8U"
+      "id": "schupfen",
+      "name": "Schupfen"
     },
     {
-      "name": "Schwarzenberg",
-      "id": "XQjXeRxQKjiN"
+      "id": "schwarzenberg",
+      "name": "Schwarzenberg"
     },
     {
-      "name": "Schwarzenburg",
-      "id": "kATszzQScIH4"
+      "id": "schwarzenburg",
+      "name": "Schwarzenburg"
     },
     {
-      "name": "Schwellbrunn",
-      "id": "jNyRTrkZVxA0"
+      "id": "schwellbrunn",
+      "name": "Schwellbrunn"
     },
     {
-      "name": "Schwyz",
-      "id": "Wp6ZUq5Hxo1F"
+      "id": "schwyz",
+      "name": "Schwyz"
     },
     {
-      "name": "Scuol",
-      "id": "KDucatg_nXis"
+      "id": "scuol",
+      "name": "Scuol"
     },
     {
-      "name": "Seedorf",
-      "id": "-g_YmeYT7cYH"
+      "id": "seedorf",
+      "name": "Seedorf"
     },
     {
-      "name": "Seegraben",
-      "id": "tydklrLE7LCy"
+      "id": "seegraben",
+      "name": "Seegraben"
     },
     {
-      "name": "Seelisberg",
-      "id": "Ju5qMRtZjL51"
+      "id": "seelisberg",
+      "name": "Seelisberg"
     },
     {
-      "name": "Seengen",
-      "id": "Ttpylud5_fp3"
+      "id": "seengen",
+      "name": "Seengen"
     },
     {
-      "name": "Seewis im Pratigau",
-      "id": "0rYcrTvP2AQG"
+      "id": "seewis-im-pratigau",
+      "name": "Seewis im Pratigau"
     },
     {
-      "name": "Seftigen",
-      "id": "0WG95gDAKSUN"
+      "id": "seftigen",
+      "name": "Seftigen"
     },
     {
-      "name": "Seltisberg",
-      "id": "3jjTckM12Bxt"
+      "id": "seltisberg",
+      "name": "Seltisberg"
     },
     {
-      "name": "Selzach",
-      "id": "n0RDLNxnVJrE"
+      "id": "selzach",
+      "name": "Selzach"
     },
     {
-      "name": "Sembrancher",
-      "id": "QLjKarHMHhaP"
+      "id": "sembrancher",
+      "name": "Sembrancher"
     },
     {
-      "name": "Sementina",
-      "id": "oL3aIvXUedwA"
+      "id": "sementina",
+      "name": "Sementina"
     },
     {
-      "name": "Sempach",
-      "id": "7YbzSgxHbBQa"
+      "id": "sempach",
+      "name": "Sempach"
     },
     {
-      "name": "Semsales",
-      "id": "7p9M4kHenfUw"
+      "id": "semsales",
+      "name": "Semsales"
     },
     {
-      "name": "Sennwald",
-      "id": "2Dre3GAkrucz"
+      "id": "sennwald",
+      "name": "Sennwald"
     },
     {
-      "name": "Seon",
-      "id": "ADTmou--tOje"
+      "id": "seon",
+      "name": "Seon"
     },
     {
-      "name": "Sessa",
-      "id": "rUJSSYhK1w3D"
+      "id": "sessa",
+      "name": "Sessa"
     },
     {
-      "name": "Seuzach Dorf",
-      "id": "0r2ryBZgjQ38"
+      "id": "seuzach-dorf",
+      "name": "Seuzach Dorf"
     },
     {
-      "name": "Sevelen",
-      "id": "LgxT347ROaa2"
+      "id": "sevelen",
+      "name": "Sevelen"
     },
     {
-      "name": "Sezegnin",
-      "id": "aoEviarzfGtK"
+      "id": "sezegnin",
+      "name": "Sezegnin"
     },
     {
-      "name": "Siebnen",
-      "id": "JTxTgAHOpdtb"
+      "id": "siebnen",
+      "name": "Siebnen"
     },
     {
-      "name": "Sierre",
-      "id": "s3gy2NyirafO"
+      "id": "sierre",
+      "name": "Sierre"
     },
     {
-      "name": "Siglistorf",
-      "id": "zvXGSE2HRAgH"
+      "id": "siglistorf",
+      "name": "Siglistorf"
     },
     {
-      "name": "Sigriswil",
-      "id": "wbkdsr3VSrM4"
+      "id": "sigriswil",
+      "name": "Sigriswil"
     },
     {
-      "name": "Sils-Segl Maria",
-      "id": "vZfs9ENhC0eJ"
+      "id": "sils-segl-maria",
+      "name": "Sils-Segl Maria"
     },
     {
-      "name": "Sins",
-      "id": "wfcYrD-9rHY1"
+      "id": "sins",
+      "name": "Sins"
     },
     {
-      "name": "Sion",
-      "id": "ho4nbhL5LdoL"
+      "id": "sion",
+      "name": "Sion"
     },
     {
-      "name": "Sirnach",
-      "id": "3l42pSpi_35_"
+      "id": "sirnach",
+      "name": "Sirnach"
     },
     {
-      "name": "Siselen",
-      "id": "Yy20ffyea5Bp"
+      "id": "siselen",
+      "name": "Siselen"
     },
     {
-      "name": "Sissach",
-      "id": "BH7Uq7C5jDd4"
+      "id": "sissach",
+      "name": "Sissach"
     },
     {
-      "name": "Siviriez",
-      "id": "5ntALBzS4RXd"
+      "id": "siviriez",
+      "name": "Siviriez"
     },
     {
-      "name": "Solothurn",
-      "id": "Kv4wsZrAYWy_"
+      "id": "solothurn",
+      "name": "Solothurn"
     },
     {
-      "name": "Sonceboz",
-      "id": "vGjmpO6nnURx"
+      "id": "sonceboz",
+      "name": "Sonceboz"
     },
     {
-      "name": "Sonvico",
-      "id": "GnGdMcBFROeI"
+      "id": "sonvico",
+      "name": "Sonvico"
     },
     {
-      "name": "Sonvilier",
-      "id": "6jGXNuMgGS7a"
+      "id": "sonvilier",
+      "name": "Sonvilier"
     },
     {
-      "name": "Sorengo",
-      "id": "rEYgtQ-TfYby"
+      "id": "sorengo",
+      "name": "Sorengo"
     },
     {
-      "name": "Sottens",
-      "id": "XglTt3nbAQP2"
+      "id": "sottens",
+      "name": "Sottens"
     },
     {
-      "name": "Soyhieres",
-      "id": "jBHy11iSmNBU"
+      "id": "soyhieres",
+      "name": "Soyhieres"
     },
     {
-      "name": "Speicher",
-      "id": "6Vl1ATuO0s48"
+      "id": "speicher",
+      "name": "Speicher"
     },
     {
-      "name": "Spiez",
-      "id": "F_3wyhHxCtpM"
+      "id": "spiez",
+      "name": "Spiez"
     },
     {
-      "name": "Spreitenbach",
-      "id": "ctqqt0dntHsi"
+      "id": "spreitenbach",
+      "name": "Spreitenbach"
     },
     {
-      "name": "St. Gallen",
-      "id": "vscUHpMkpngu"
+      "id": "st-gallen",
+      "name": "St. Gallen"
     },
     {
-      "name": "Stabio",
-      "id": "0Uln9j3EIiGI"
+      "id": "stabio",
+      "name": "Stabio"
     },
     {
-      "name": "Stadel",
-      "id": "dJ8Xu27pGkVg"
+      "id": "stadel",
+      "name": "Stadel"
     },
     {
-      "name": "Stafa",
-      "id": "IPkfjhaVrD65"
+      "id": "stafa",
+      "name": "Stafa"
     },
     {
-      "name": "Stallikon",
-      "id": "DsaK11CaonFL"
+      "id": "stallikon",
+      "name": "Stallikon"
     },
     {
-      "name": "Stans",
-      "id": "2YBp6UCK15xL"
+      "id": "stans",
+      "name": "Stans"
     },
     {
-      "name": "Stansstad",
-      "id": "ugoVNLVv9f5l"
+      "id": "stansstad",
+      "name": "Stansstad"
     },
     {
-      "name": "Staufen",
-      "id": "jjDmsDkESLuP"
+      "id": "staufen",
+      "name": "Staufen"
     },
     {
-      "name": "Steckborn",
-      "id": "oRf3XIGRrobW"
+      "id": "steckborn",
+      "name": "Steckborn"
     },
     {
-      "name": "Steffisburg",
-      "id": "20q5fYOlgamM"
+      "id": "steffisburg",
+      "name": "Steffisburg"
     },
     {
-      "name": "Steg",
-      "id": "gjUhTAZQ4XWL"
+      "id": "steg",
+      "name": "Steg"
     },
     {
-      "name": "Stein",
-      "id": "83dSobSKfSpo"
+      "id": "stein",
+      "name": "Stein"
     },
     {
-      "name": "Stein am Rhein",
-      "id": "rz_lbacodpAQ"
+      "id": "stein-am-rhein",
+      "name": "Stein am Rhein"
     },
     {
-      "name": "Steinen",
-      "id": "3qJbtmNvi-pf"
+      "id": "steinen",
+      "name": "Steinen"
     },
     {
-      "name": "Steinhausen",
-      "id": "HchnFtNKQ7Ec"
+      "id": "steinhausen",
+      "name": "Steinhausen"
     },
     {
-      "name": "Stettfurt",
-      "id": "9zLq0a3WBj9N"
+      "id": "stettfurt",
+      "name": "Stettfurt"
     },
     {
-      "name": "Stettlen",
-      "id": "ggdWV2CXdGHY"
+      "id": "stettlen",
+      "name": "Stettlen"
     },
     {
-      "name": "Stoos",
-      "id": "R_OwFCt7lF41"
+      "id": "stoos",
+      "name": "Stoos"
     },
     {
-      "name": "Strengelbach",
-      "id": "blf5yURhVk3Y"
+      "id": "strengelbach",
+      "name": "Strengelbach"
     },
     {
-      "name": "Subingen",
-      "id": "Q8P-6qoeezok"
+      "id": "subingen",
+      "name": "Subingen"
     },
     {
-      "name": "Suhr",
-      "id": "MEgrYhFPKPrh"
+      "id": "suhr",
+      "name": "Suhr"
     },
     {
-      "name": "Sulgen",
-      "id": "antAGN7wyoMY"
+      "id": "sulgen",
+      "name": "Sulgen"
     },
     {
-      "name": "Sulz",
-      "id": "039ihew7UNp4"
+      "id": "sulz",
+      "name": "Sulz"
     },
     {
-      "name": "Sumiswald",
-      "id": "gv-vcFvijPMN"
+      "id": "sumiswald",
+      "name": "Sumiswald"
     },
     {
-      "name": "Sursee",
-      "id": "8wOQCPKiy1BD"
+      "id": "sursee",
+      "name": "Sursee"
     },
     {
-      "name": "Tafers",
-      "id": "9-4z1wIKXd6Y"
+      "id": "tafers",
+      "name": "Tafers"
     },
     {
-      "name": "Tagerwilen",
-      "id": "JGNcOBTwJwL3"
+      "id": "tagerwilen",
+      "name": "Tagerwilen"
     },
     {
-      "name": "Tamins",
-      "id": "OrBMHwmLGtsw"
+      "id": "tamins",
+      "name": "Tamins"
     },
     {
-      "name": "Tanay",
-      "id": "qvX7fXar2g0V"
+      "id": "tanay",
+      "name": "Tanay"
     },
     {
-      "name": "Tann",
-      "id": "wld9lvKW51Zv"
+      "id": "tann",
+      "name": "Tann"
     },
     {
-      "name": "Tasch",
-      "id": "qR-hh2Jd3ilM"
+      "id": "tasch",
+      "name": "Tasch"
     },
     {
-      "name": "Tauffelen",
-      "id": "jhKgIZhzYJxi"
+      "id": "tauffelen",
+      "name": "Tauffelen"
     },
     {
-      "name": "Tavannes",
-      "id": "126KyMoAepYZ"
+      "id": "tavannes",
+      "name": "Tavannes"
     },
     {
-      "name": "Tegerfelden",
-      "id": "T1qb-b_4nC-W"
+      "id": "tegerfelden",
+      "name": "Tegerfelden"
     },
     {
-      "name": "Tenero",
-      "id": "sW-hxjI2_tIV"
+      "id": "tenero",
+      "name": "Tenero"
     },
     {
-      "name": "Termen",
-      "id": "FvNFpnGnorYI"
+      "id": "termen",
+      "name": "Termen"
     },
     {
-      "name": "Territet",
-      "id": "1XxiwMhKTzXx"
+      "id": "territet",
+      "name": "Territet"
     },
     {
-      "name": "Tesserete",
-      "id": "Ktgk3_ftuvHz"
+      "id": "tesserete",
+      "name": "Tesserete"
     },
     {
-      "name": "Teufen AR",
-      "id": "jo6jxAhZGLlx"
+      "id": "teufen-ar",
+      "name": "Teufen AR"
     },
     {
-      "name": "Teufenthal",
-      "id": "32eI0cVz6NQL"
+      "id": "teufenthal",
+      "name": "Teufenthal"
     },
     {
-      "name": "Thalheim",
-      "id": "KGjq8qAT7JtQ"
+      "id": "thalheim",
+      "name": "Thalheim"
     },
     {
-      "name": "Thalwil",
-      "id": "LZyBIoPFsR3P"
+      "id": "thalwil",
+      "name": "Thalwil"
     },
     {
-      "name": "Thayngen",
-      "id": "oUj9xykhcZYh"
+      "id": "thayngen",
+      "name": "Thayngen"
     },
     {
-      "name": "Therwil",
-      "id": "r8m2_O72vtDh"
+      "id": "therwil",
+      "name": "Therwil"
     },
     {
-      "name": "Thielle",
-      "id": "DjxUofD-PsOw"
+      "id": "thielle",
+      "name": "Thielle"
     },
     {
-      "name": "Thierachern",
-      "id": "SdKHRdZHYp_O"
+      "id": "thierachern",
+      "name": "Thierachern"
     },
     {
-      "name": "Thierrens",
-      "id": "fjGmuvQjTnNB"
+      "id": "thierrens",
+      "name": "Thierrens"
     },
     {
-      "name": "Thonex",
-      "id": "iEUd_U-KPs5O"
+      "id": "thonex",
+      "name": "Thonex"
     },
     {
-      "name": "Thorishaus",
-      "id": "F744TQIEljQa"
+      "id": "thorishaus",
+      "name": "Thorishaus"
     },
     {
-      "name": "Thun",
-      "id": "iOnSTf_3sGvJ"
+      "id": "thun",
+      "name": "Thun"
     },
     {
-      "name": "Thundorf",
-      "id": "suoXQ6w4kQn1"
+      "id": "thundorf",
+      "name": "Thundorf"
     },
     {
-      "name": "Thusis",
-      "id": "CebSrlP76HDE"
+      "id": "thusis",
+      "name": "Thusis"
     },
     {
-      "name": "Toffen",
-      "id": "VP4moZDiFnW_"
+      "id": "toffen",
+      "name": "Toffen"
     },
     {
-      "name": "Tramelan",
-      "id": "Q9hYgcACEY_p"
+      "id": "tramelan",
+      "name": "Tramelan"
     },
     {
-      "name": "Trasadingen",
-      "id": "mlhj4NPWiB9J"
+      "id": "trasadingen",
+      "name": "Trasadingen"
     },
     {
-      "name": "Travers",
-      "id": "yhDpikMuJ_om"
+      "id": "travers",
+      "name": "Travers"
     },
     {
-      "name": "Treyvaux",
-      "id": "tD8U4PiyzxdT"
+      "id": "treyvaux",
+      "name": "Treyvaux"
     },
     {
-      "name": "Triengen",
-      "id": "BZalLB6_rWU9"
+      "id": "triengen",
+      "name": "Triengen"
     },
     {
-      "name": "Trimbach",
-      "id": "xE2c8t-Aa6QL"
+      "id": "trimbach",
+      "name": "Trimbach"
     },
     {
-      "name": "Trimmis",
-      "id": "dyvi0_V39flC"
+      "id": "trimmis",
+      "name": "Trimmis"
     },
     {
-      "name": "Trogen",
-      "id": "a99lM2KK4h6G"
+      "id": "trogen",
+      "name": "Trogen"
     },
     {
-      "name": "Troistorrents",
-      "id": "JZtxkOZWXbnQ"
+      "id": "troistorrents",
+      "name": "Troistorrents"
     },
     {
-      "name": "Trubbach",
-      "id": "6-BGop_vuWcM"
+      "id": "trubbach",
+      "name": "Trubbach"
     },
     {
-      "name": "Trubschachen",
-      "id": "htDffuoUWLQC"
+      "id": "trubschachen",
+      "name": "Trubschachen"
     },
     {
-      "name": "Trun",
-      "id": "VKrPo8OHM-XR"
+      "id": "trun",
+      "name": "Trun"
     },
     {
-      "name": "Tschuggen",
-      "id": "Y7jHcdxQoEUL"
+      "id": "tschuggen",
+      "name": "Tschuggen"
     },
     {
-      "name": "Tuggen",
-      "id": "7ikrAWxaJ7LV"
+      "id": "tuggen",
+      "name": "Tuggen"
     },
     {
-      "name": "Turbenthal",
-      "id": "5dsfkDpU4Kj_"
+      "id": "turbenthal",
+      "name": "Turbenthal"
     },
     {
-      "name": "Turgi",
-      "id": "2fh-7l9SnM-j"
+      "id": "turgi",
+      "name": "Turgi"
     },
     {
-      "name": "Twann",
-      "id": "K-uqlrsMnB3r"
+      "id": "twann",
+      "name": "Twann"
     },
     {
-      "name": "Udligenswil",
-      "id": "deNcwcN-eHWD"
+      "id": "udligenswil",
+      "name": "Udligenswil"
     },
     {
-      "name": "Ueberstorf",
-      "id": "coAI6HJz6iod"
+      "id": "ueberstorf",
+      "name": "Ueberstorf"
     },
     {
-      "name": "Uerikon",
-      "id": "uja5c6t1kt5w"
+      "id": "uerikon",
+      "name": "Uerikon"
     },
     {
-      "name": "Uerkheim",
-      "id": "BCiB6lRQKsmF"
+      "id": "uerkheim",
+      "name": "Uerkheim"
     },
     {
-      "name": "Uetendorf",
-      "id": "f3sYXj5RCh8X"
+      "id": "uetendorf",
+      "name": "Uetendorf"
     },
     {
-      "name": "Uetikon",
-      "id": "_ypRGLCoqJqB"
+      "id": "uetikon",
+      "name": "Uetikon"
     },
     {
-      "name": "Ufhusen",
-      "id": "9PEOGucYzgV9"
+      "id": "ufhusen",
+      "name": "Ufhusen"
     },
     {
-      "name": "Uhwiesen",
-      "id": "uJyFalo7t7Cy"
+      "id": "uhwiesen",
+      "name": "Uhwiesen"
     },
     {
-      "name": "Uitikon",
-      "id": "MJQo2KidI46L"
+      "id": "uitikon",
+      "name": "Uitikon"
     },
     {
-      "name": "Ulrichen",
-      "id": "6sfNzk7XkD-t"
+      "id": "ulrichen",
+      "name": "Ulrichen"
     },
     {
-      "name": "Unter-Teufen",
-      "id": "QQs0DXrlYPga"
+      "id": "unter-teufen",
+      "name": "Unter-Teufen"
     },
     {
-      "name": "Unterageri",
-      "id": "JMXBNUkthT_N"
+      "id": "unterageri",
+      "name": "Unterageri"
     },
     {
-      "name": "Unterehrendingen",
-      "id": "nxi1Tmkyf517"
+      "id": "unterehrendingen",
+      "name": "Unterehrendingen"
     },
     {
-      "name": "Unterengstringen",
-      "id": "_oBozWxOs9am"
+      "id": "unterengstringen",
+      "name": "Unterengstringen"
     },
     {
-      "name": "Untererlinsbach",
-      "id": "IXTkTG7JjUzi"
+      "id": "untererlinsbach",
+      "name": "Untererlinsbach"
     },
     {
-      "name": "Unteriberg",
-      "id": "p-iH85TBrazq"
+      "id": "unteriberg",
+      "name": "Unteriberg"
     },
     {
-      "name": "Unterkulm",
-      "id": "9aFJPceePWns"
+      "id": "unterkulm",
+      "name": "Unterkulm"
     },
     {
-      "name": "Unterlunkhofen",
-      "id": "ye-MJqeQ-n4o"
+      "id": "unterlunkhofen",
+      "name": "Unterlunkhofen"
     },
     {
-      "name": "Unterseen",
-      "id": "nXYoRMUoeUeR"
+      "id": "unterseen",
+      "name": "Unterseen"
     },
     {
-      "name": "Untersiggenthal",
-      "id": "CPMTJdXGGdos"
+      "id": "untersiggenthal",
+      "name": "Untersiggenthal"
     },
     {
-      "name": "Untervaz",
-      "id": "CV7p-NugGOUe"
+      "id": "untervaz",
+      "name": "Untervaz"
     },
     {
-      "name": "Ursenbach",
-      "id": "y0QfePw-IagP"
+      "id": "ursenbach",
+      "name": "Ursenbach"
     },
     {
-      "name": "Urtenen",
-      "id": "M6T10hOEs0cJ"
+      "id": "urtenen",
+      "name": "Urtenen"
     },
     {
-      "name": "Uster",
-      "id": "2nKjcYyqsZAj"
+      "id": "uster",
+      "name": "Uster"
     },
     {
-      "name": "Utzenstorf",
-      "id": "n1j57NrxJ-DR"
+      "id": "utzenstorf",
+      "name": "Utzenstorf"
     },
     {
-      "name": "Uznach",
-      "id": "5sIeehm-XYSh"
+      "id": "uznach",
+      "name": "Uznach"
     },
     {
-      "name": "Uzwil",
-      "id": "erMTkFil9-qR"
+      "id": "uzwil",
+      "name": "Uzwil"
     },
     {
-      "name": "Vacallo",
-      "id": "d_fqshWARZ8P"
+      "id": "vacallo",
+      "name": "Vacallo"
     },
     {
-      "name": "Vallorbe",
-      "id": "eY4u8MuHoRYW"
+      "id": "vallorbe",
+      "name": "Vallorbe"
     },
     {
-      "name": "Vandoeuvres",
-      "id": "OO2CK6wiGi0x"
+      "id": "vandoeuvres",
+      "name": "Vandoeuvres"
     },
     {
-      "name": "Vauderens",
-      "id": "MnYfILf5HjsZ"
+      "id": "vauderens",
+      "name": "Vauderens"
     },
     {
-      "name": "Vaulruz",
-      "id": "216aSzty4uDF"
+      "id": "vaulruz",
+      "name": "Vaulruz"
     },
     {
-      "name": "Veltheim",
-      "id": "zn6ELGj5D0RX"
+      "id": "veltheim",
+      "name": "Veltheim"
     },
     {
-      "name": "Verbier",
-      "id": "BtD0N9IUqDIW"
+      "id": "verbier",
+      "name": "Verbier"
     },
     {
-      "name": "Vercorin",
-      "id": "L1d65u1yEmV7"
+      "id": "vercorin",
+      "name": "Vercorin"
     },
     {
-      "name": "Vernayaz",
-      "id": "v42tDKGsH3p9"
+      "id": "vernayaz",
+      "name": "Vernayaz"
     },
     {
-      "name": "Vernier",
-      "id": "VS9J2B7P5fBy"
+      "id": "vernier",
+      "name": "Vernier"
     },
     {
-      "name": "Verscio",
-      "id": "vmwmxkORGIPt"
+      "id": "verscio",
+      "name": "Verscio"
     },
     {
-      "name": "Versoix",
-      "id": "KcOYAK4J0M0C"
+      "id": "versoix",
+      "name": "Versoix"
     },
     {
-      "name": "Vesenaz",
-      "id": "ndTLPLEZgNM5"
+      "id": "vesenaz",
+      "name": "Vesenaz"
     },
     {
-      "name": "Vessy",
-      "id": "mLYcPHNtNV84"
+      "id": "vessy",
+      "name": "Vessy"
     },
     {
-      "name": "Vetroz",
-      "id": "s1_1DbCJNRtv"
+      "id": "vetroz",
+      "name": "Vetroz"
     },
     {
-      "name": "Vevey",
-      "id": "1vW_n7ZUotRa"
+      "id": "vevey",
+      "name": "Vevey"
     },
     {
-      "name": "Vex",
-      "id": "JAzWRWLFKZqO"
+      "id": "vex",
+      "name": "Vex"
     },
     {
-      "name": "Veyrier",
-      "id": "p0XH8aYLzqVk"
+      "id": "veyrier",
+      "name": "Veyrier"
     },
     {
-      "name": "Veytaux",
-      "id": "ys2DVrpmtHlV"
+      "id": "veytaux",
+      "name": "Veytaux"
     },
     {
-      "name": "Vicques",
-      "id": "TScYI5HfuHM0"
+      "id": "vicques",
+      "name": "Vicques"
     },
     {
-      "name": "Viganello",
-      "id": "VLiSVVQQ92il"
+      "id": "viganello",
+      "name": "Viganello"
     },
     {
-      "name": "Villa",
-      "id": "ByX8nkqP2GlJ"
+      "id": "villa",
+      "name": "Villa"
     },
     {
-      "name": "Villars",
-      "id": "i7kqJb66VFgm"
+      "id": "villars",
+      "name": "Villars"
     },
     {
-      "name": "Villars-sur-Glane",
-      "id": "zCC_ZhkK-jjI"
+      "id": "villars-sur-glane",
+      "name": "Villars-sur-Glane"
     },
     {
-      "name": "Villars-sur-Ollon",
-      "id": "i9VXUxx7F6de"
+      "id": "villars-sur-ollon",
+      "name": "Villars-sur-Ollon"
     },
     {
-      "name": "Villaz-Saint-Pierre",
-      "id": "9k9y6Wd-v7jV"
+      "id": "villaz-saint-pierre",
+      "name": "Villaz-Saint-Pierre"
     },
     {
-      "name": "Villeneuve",
-      "id": "5lY_ZRf36k7q"
+      "id": "villeneuve",
+      "name": "Villeneuve"
     },
     {
-      "name": "Villeret",
-      "id": "PhlPrBF0NuD6"
+      "id": "villeret",
+      "name": "Villeret"
     },
     {
-      "name": "Villigen",
-      "id": "-Xsnj_fee7KL"
+      "id": "villigen",
+      "name": "Villigen"
     },
     {
-      "name": "Villmergen",
-      "id": "aFOJYg7LJant"
+      "id": "villmergen",
+      "name": "Villmergen"
     },
     {
-      "name": "Villnachern",
-      "id": "33DH6ddQWqyj"
+      "id": "villnachern",
+      "name": "Villnachern"
     },
     {
-      "name": "Vilters",
-      "id": "Yq1jQU2kzOdw"
+      "id": "vilters",
+      "name": "Vilters"
     },
     {
-      "name": "Vinzel",
-      "id": "fDAEtKRpTNb9"
+      "id": "vinzel",
+      "name": "Vinzel"
     },
     {
-      "name": "Vionnaz",
-      "id": "mdsCbnNxXc3P"
+      "id": "vionnaz",
+      "name": "Vionnaz"
     },
     {
-      "name": "Visp",
-      "id": "6XobGC1a-F3u"
+      "id": "visp",
+      "name": "Visp"
     },
     {
-      "name": "Vitznau",
-      "id": "bw240giGZDsE"
+      "id": "vitznau",
+      "name": "Vitznau"
     },
     {
-      "name": "Volketswil",
-      "id": "0amWiK05Uw1D"
+      "id": "volketswil",
+      "name": "Volketswil"
     },
     {
-      "name": "Vordemwald",
-      "id": "kMXRBPTk5b2s"
+      "id": "vordemwald",
+      "name": "Vordemwald"
     },
     {
-      "name": "Vouvry",
-      "id": "Auj4gHpufvUl"
+      "id": "vouvry",
+      "name": "Vouvry"
     },
     {
-      "name": "Vuadens",
-      "id": "9yRAkV54e32V"
+      "id": "vuadens",
+      "name": "Vuadens"
     },
     {
-      "name": "Vuiteboeuf",
-      "id": "CAZvTjQB3VWU"
+      "id": "vuiteboeuf",
+      "name": "Vuiteboeuf"
     },
     {
-      "name": "Vullierens",
-      "id": "RD7byebBIgx-"
+      "id": "vullierens",
+      "name": "Vullierens"
     },
     {
-      "name": "Wabern",
-      "id": "D76Vok5a1B5k"
+      "id": "wabern",
+      "name": "Wabern"
     },
     {
-      "name": "Wadenswil",
-      "id": "qpDi2YaIR3r5"
+      "id": "wadenswil",
+      "name": "Wadenswil"
     },
     {
-      "name": "Wagenhausen",
-      "id": "tGP12F3OVcxF"
+      "id": "wagenhausen",
+      "name": "Wagenhausen"
     },
     {
-      "name": "Wahlen",
-      "id": "ogUkwOU0jf0N"
+      "id": "wahlen",
+      "name": "Wahlen"
     },
     {
-      "name": "Walchwil",
-      "id": "MLpuwlxtNuQE"
+      "id": "walchwil",
+      "name": "Walchwil"
     },
     {
-      "name": "Wald",
-      "id": "mYK1xWqPtNLQ"
+      "id": "wald",
+      "name": "Wald"
     },
     {
-      "name": "Waldenburg",
-      "id": "rdOT7_IVsKMa"
+      "id": "waldenburg",
+      "name": "Waldenburg"
     },
     {
-      "name": "Waldhaus",
-      "id": "AJjzg8qFFPw4"
+      "id": "waldhaus",
+      "name": "Waldhaus"
     },
     {
-      "name": "Waldkirch",
-      "id": "YuR-di6x0864"
+      "id": "waldkirch",
+      "name": "Waldkirch"
     },
     {
-      "name": "Waldstatt",
-      "id": "6lWxfVuc89y8"
+      "id": "waldstatt",
+      "name": "Waldstatt"
     },
     {
-      "name": "Walkringen",
-      "id": "FZgDx_bpYZGx"
+      "id": "walkringen",
+      "name": "Walkringen"
     },
     {
-      "name": "Wallisellen",
-      "id": "kQ2VLe2TaURe"
+      "id": "wallisellen",
+      "name": "Wallisellen"
     },
     {
-      "name": "Waltenschwil",
-      "id": "fszVPCBMs1zV"
+      "id": "waltenschwil",
+      "name": "Waltenschwil"
     },
     {
-      "name": "Walzenhausen",
-      "id": "sid6OWAlZDXQ"
+      "id": "walzenhausen",
+      "name": "Walzenhausen"
     },
     {
-      "name": "Wangen",
-      "id": "qKLYC1ex7ZWA"
+      "id": "wangen",
+      "name": "Wangen"
     },
     {
-      "name": "Wangen an der Aare",
-      "id": "FTrC9bzLgjk2"
+      "id": "wangen-an-der-aare",
+      "name": "Wangen an der Aare"
     },
     {
-      "name": "Wangi",
-      "id": "u76Cx_f3BPSO"
+      "id": "wangi",
+      "name": "Wangi"
     },
     {
-      "name": "Wangs",
-      "id": "T3NhU0piU3Jx"
+      "id": "wangs",
+      "name": "Wangs"
     },
     {
-      "name": "Wasen",
-      "id": "0WUwmAzGEkPD"
+      "id": "wasen",
+      "name": "Wasen"
     },
     {
-      "name": "Wattwil",
-      "id": "0xHlB44Qw4at"
+      "id": "wattwil",
+      "name": "Wattwil"
     },
     {
-      "name": "Wauwil",
-      "id": "eWtajVy2OW5i"
+      "id": "wauwil",
+      "name": "Wauwil"
     },
     {
-      "name": "Weesen",
-      "id": "YlZYTSau1PE7"
+      "id": "weesen",
+      "name": "Weesen"
     },
     {
-      "name": "Wegenstetten",
-      "id": "qzgzzUh9KxZN"
+      "id": "wegenstetten",
+      "name": "Wegenstetten"
     },
     {
-      "name": "Weggis",
-      "id": "lCn7RjeOLEsO"
+      "id": "weggis",
+      "name": "Weggis"
     },
     {
-      "name": "Weinfelden",
-      "id": "kytoakM6869k"
+      "id": "weinfelden",
+      "name": "Weinfelden"
     },
     {
-      "name": "Weiningen",
-      "id": "hx1qJpOgI9p1"
+      "id": "weiningen",
+      "name": "Weiningen"
     },
     {
-      "name": "Weissbad",
-      "id": "-qYZUc2srLFM"
+      "id": "weissbad",
+      "name": "Weissbad"
     },
     {
-      "name": "Weisslingen",
-      "id": "5-47Jbbj8Icz"
+      "id": "weisslingen",
+      "name": "Weisslingen"
     },
     {
-      "name": "Welschenrohr",
-      "id": "8Ele7e88nZJU"
+      "id": "welschenrohr",
+      "name": "Welschenrohr"
     },
     {
-      "name": "Wengen",
-      "id": "7Q8gfC83J_S-"
+      "id": "wengen",
+      "name": "Wengen"
     },
     {
-      "name": "Werthenstein",
-      "id": "i2U7guEIvGxv"
+      "id": "werthenstein",
+      "name": "Werthenstein"
     },
     {
-      "name": "Wettingen",
-      "id": "FmTd2rQA2Cy0"
+      "id": "wettingen",
+      "name": "Wettingen"
     },
     {
-      "name": "Wetzikon",
-      "id": "c6bZDXEfq2iU"
+      "id": "wetzikon",
+      "name": "Wetzikon"
     },
     {
-      "name": "Wichtrach",
-      "id": "htc9FBFuXzIZ"
+      "id": "wichtrach",
+      "name": "Wichtrach"
     },
     {
-      "name": "Wiedlisbach",
-      "id": "I_Xj6Tp5abzf"
+      "id": "wiedlisbach",
+      "name": "Wiedlisbach"
     },
     {
-      "name": "Wiesendangen",
-      "id": "Z4PRN0qbBPvr"
+      "id": "wiesendangen",
+      "name": "Wiesendangen"
     },
     {
-      "name": "Wigoltingen",
-      "id": "KIWOX-C5pu3k"
+      "id": "wigoltingen",
+      "name": "Wigoltingen"
     },
     {
-      "name": "Wikon",
-      "id": "hYmRmnEv467T"
+      "id": "wikon",
+      "name": "Wikon"
     },
     {
-      "name": "Wil",
-      "id": "YOtBAnb3jX8W"
+      "id": "wil",
+      "name": "Wil"
     },
     {
-      "name": "Wila",
-      "id": "KqqCAlfbM5q3"
+      "id": "wila",
+      "name": "Wila"
     },
     {
-      "name": "Wildegg",
-      "id": "BxN73eq-Lvnq"
+      "id": "wildegg",
+      "name": "Wildegg"
     },
     {
-      "name": "Wilderswil",
-      "id": "bsGgp8b2jLA5"
+      "id": "wilderswil",
+      "name": "Wilderswil"
     },
     {
-      "name": "Wileroltigen",
-      "id": "ArYmXKUuxo02"
+      "id": "wileroltigen",
+      "name": "Wileroltigen"
     },
     {
-      "name": "Willisau",
-      "id": "oVrh08t8X9pZ"
+      "id": "willisau",
+      "name": "Willisau"
     },
     {
-      "name": "Wimmis",
-      "id": "CYx3FRocCDHH"
+      "id": "wimmis",
+      "name": "Wimmis"
     },
     {
-      "name": "Windisch",
-      "id": "1wE8JM2lEI8H"
+      "id": "windisch",
+      "name": "Windisch"
     },
     {
-      "name": "Winkel",
-      "id": "pIhsDese4Qem"
+      "id": "winkel",
+      "name": "Winkel"
     },
     {
-      "name": "Winterberg",
-      "id": "oPhrYAERleIj"
+      "id": "winterberg",
+      "name": "Winterberg"
     },
     {
-      "name": "Winterthur",
-      "id": "igkKJ5UnEZYW"
+      "id": "winterthur",
+      "name": "Winterthur"
     },
     {
-      "name": "Wittenbach",
-      "id": "0HZ5qPYov192"
+      "id": "wittenbach",
+      "name": "Wittenbach"
     },
     {
-      "name": "Wittnau",
-      "id": "YRuXgQS4OmFC"
+      "id": "wittnau",
+      "name": "Wittnau"
     },
     {
-      "name": "Wohlen",
-      "id": "TX-qoKpz0njW"
+      "id": "wohlen",
+      "name": "Wohlen"
     },
     {
-      "name": "Wolfenschiessen",
-      "id": "TbVfNFTfBazy"
+      "id": "wolfenschiessen",
+      "name": "Wolfenschiessen"
     },
     {
-      "name": "Wolfgang",
-      "id": "DiMZpKHuNwmJ"
+      "id": "wolfgang",
+      "name": "Wolfgang"
     },
     {
-      "name": "Wolfhalden",
-      "id": "y-ONuT49Twn0"
+      "id": "wolfhalden",
+      "name": "Wolfhalden"
     },
     {
-      "name": "Wolfwil",
-      "id": "lvKoiBVCs61W"
+      "id": "wolfwil",
+      "name": "Wolfwil"
     },
     {
-      "name": "Wolhusen",
-      "id": "NacPb6aJLLZd"
+      "id": "wolhusen",
+      "name": "Wolhusen"
     },
     {
-      "name": "Wollerau",
-      "id": "Bxinb3IxGb0n"
+      "id": "wollerau",
+      "name": "Wollerau"
     },
     {
-      "name": "Worb",
-      "id": "QBRhPFsfvE1B"
+      "id": "worb",
+      "name": "Worb"
     },
     {
-      "name": "Worben",
-      "id": "rVPjmgfCMkIx"
+      "id": "worben",
+      "name": "Worben"
     },
     {
-      "name": "Worblaufen",
-      "id": "IDNK2WkyYNNR"
+      "id": "worblaufen",
+      "name": "Worblaufen"
     },
     {
-      "name": "Wuppenau",
-      "id": "gg9n55uILLcU"
+      "id": "wuppenau",
+      "name": "Wuppenau"
     },
     {
-      "name": "Wurenlingen",
-      "id": "oOL0HP7tJuvf"
+      "id": "wurenlingen",
+      "name": "Wurenlingen"
     },
     {
-      "name": "Wurenlos",
-      "id": "-glovnePZRW4"
+      "id": "wurenlos",
+      "name": "Wurenlos"
     },
     {
-      "name": "Wynau",
-      "id": "MsXJQBlPvoAE"
+      "id": "wynau",
+      "name": "Wynau"
     },
     {
-      "name": "Yens",
-      "id": "-_AoXfSnZfMu"
+      "id": "yens",
+      "name": "Yens"
     },
     {
-      "name": "Yverdon-les-Bains",
-      "id": "ImB3YnzqEDCl"
+      "id": "yverdon-les-bains",
+      "name": "Yverdon-les-Bains"
     },
     {
-      "name": "Yvonand",
-      "id": "f7L0EOci8Qgo"
+      "id": "yvonand",
+      "name": "Yvonand"
     },
     {
-      "name": "Yvorne",
-      "id": "gLPGwK2yh2_e"
+      "id": "yvorne",
+      "name": "Yvorne"
     },
     {
-      "name": "Zaziwil",
-      "id": "CI6bQTM5N1mN"
+      "id": "zaziwil",
+      "name": "Zaziwil"
     },
     {
-      "name": "Zeglingen",
-      "id": "jlg8ecyIcVt5"
+      "id": "zeglingen",
+      "name": "Zeglingen"
     },
     {
-      "name": "Zeihen",
-      "id": "EO-vl9fi-cQC"
+      "id": "zeihen",
+      "name": "Zeihen"
     },
     {
-      "name": "Zell",
-      "id": "3uO4susfk46I"
+      "id": "zell",
+      "name": "Zell"
     },
     {
-      "name": "Zermatt",
-      "id": "gS62Gs7SbOfe"
+      "id": "zermatt",
+      "name": "Zermatt"
     },
     {
-      "name": "Ziegelbrucke",
-      "id": "wTZrNHjqqox6"
+      "id": "ziegelbrucke",
+      "name": "Ziegelbrucke"
     },
     {
-      "name": "Zihlschlacht",
-      "id": "FcNvnbHEoGWl"
+      "id": "zihlschlacht",
+      "name": "Zihlschlacht"
     },
     {
-      "name": "Zizers",
-      "id": "pyyhsJv5v-Er"
+      "id": "zizers",
+      "name": "Zizers"
     },
     {
-      "name": "Zofingen",
-      "id": "o0AdC2X9b1kW"
+      "id": "zofingen",
+      "name": "Zofingen"
     },
     {
-      "name": "Zollbruck",
-      "id": "LipyAbPRu4Vh"
+      "id": "zollbruck",
+      "name": "Zollbruck"
     },
     {
-      "name": "Zollikofen",
-      "id": "BAUPvUnti2PO"
+      "id": "zollikofen",
+      "name": "Zollikofen"
     },
     {
-      "name": "Zollikon",
-      "id": "TN9ZhHOOD4Og"
+      "id": "zollikon",
+      "name": "Zollikon"
     },
     {
-      "name": "Zuchwil",
-      "id": "icK4m-SINJMD"
+      "id": "zuchwil",
+      "name": "Zuchwil"
     },
     {
-      "name": "Zuckenriet",
-      "id": "jZg_fG7V2spK"
+      "id": "zuckenriet",
+      "name": "Zuckenriet"
     },
     {
-      "name": "Zufikon",
-      "id": "Q0x1YWwUIdMH"
+      "id": "zufikon",
+      "name": "Zufikon"
     },
     {
-      "name": "Zug",
-      "id": "uxeGTvTm4ESs"
+      "id": "zug",
+      "name": "Zug"
     },
     {
-      "name": "Zullwil",
-      "id": "IzIh20uJ_stf"
+      "id": "zullwil",
+      "name": "Zullwil"
     },
     {
-      "name": "Zumikon",
-      "id": "53Bn65cg1b7R"
+      "id": "zumikon",
+      "name": "Zumikon"
     },
     {
-      "name": "Zunzgen",
-      "id": "TGNn_aq_3YES"
+      "id": "zunzgen",
+      "name": "Zunzgen"
     },
     {
-      "name": "Zurich",
-      "id": "asr_adn2-b_8"
+      "id": "zurich",
+      "name": "Zurich"
     },
     {
-      "name": "Zuzgen",
-      "id": "Z7qK-UcAgfov"
+      "id": "zuzgen",
+      "name": "Zuzgen"
     },
     {
-      "name": "Zuzwil",
-      "id": "-aXyO_aCrTTu"
+      "id": "zuzwil",
+      "name": "Zuzwil"
     },
     {
-      "name": "Zwingen",
-      "id": "d0RX1mNbzg-K"
+      "id": "zwingen",
+      "name": "Zwingen"
     }
   ]
 }

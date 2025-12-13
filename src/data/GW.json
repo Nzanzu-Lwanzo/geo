@@ -2,44 +2,44 @@
   "coid": "GW",
   "cities": [
     {
-      "name": "Bissau",
-      "id": "SMdXCDZjBd_M"
+      "id": "bissau",
+      "name": "Bissau"
     },
     {
-      "name": "Bafatá",
-      "id": "jr9jy_XStd6q"
+      "id": "bafata",
+      "name": "Bafatá"
     },
     {
-      "name": "Gabú",
-      "id": "p_n41wYtQfoc"
+      "id": "gabu",
+      "name": "Gabú"
     },
     {
-      "name": "Bissorã",
-      "id": "s5G-YobqsHlX"
+      "id": "bissora",
+      "name": "Bissorã"
     },
     {
-      "name": "Bolama",
-      "id": "EUWIqv9GysBu"
+      "id": "bolama",
+      "name": "Bolama"
     },
     {
-      "name": "Cacheu",
-      "id": "6zhfCQC4mlut"
+      "id": "cacheu",
+      "name": "Cacheu"
     },
     {
-      "name": "Canchungo",
-      "id": "9JF15BziLnM2"
+      "id": "canchungo",
+      "name": "Canchungo"
     },
     {
-      "name": "Farim",
-      "id": "jxEjvyT0xqAD"
+      "id": "farim",
+      "name": "Farim"
     },
     {
-      "name": "Quinhámel",
-      "id": "--iGB58vAa34"
+      "id": "quinhamel",
+      "name": "Quinhámel"
     },
     {
-      "name": "Buba",
-      "id": "CiGDw_Gbx-9q"
+      "id": "buba",
+      "name": "Buba"
     }
   ]
 }

@@ -2,1400 +2,1400 @@
   "coid": "RO",
   "cities": [
     {
-      "name": "Adjud",
-      "id": "m6iiwte4uzbZ"
+      "id": "adjud",
+      "name": "Adjud"
     },
     {
-      "name": "Afumati",
-      "id": "Y0MfFgIrwbkB"
+      "id": "afumati",
+      "name": "Afumati"
     },
     {
-      "name": "Agnita",
-      "id": "3t2FlLRJ8d-M"
+      "id": "agnita",
+      "name": "Agnita"
     },
     {
-      "name": "Aiud",
-      "id": "7n3PGuRgkSGK"
+      "id": "aiud",
+      "name": "Aiud"
     },
     {
-      "name": "Alba",
-      "id": "F9eSHgqYYER3"
+      "id": "alba",
+      "name": "Alba"
     },
     {
-      "name": "Alba Iulia",
-      "id": "q3FKFK5dRQNC"
+      "id": "alba-iulia",
+      "name": "Alba Iulia"
     },
     {
-      "name": "Albesti-Paleologu",
-      "id": "PHFCR__8xXWx"
+      "id": "albesti-paleologu",
+      "name": "Albesti-Paleologu"
     },
     {
-      "name": "Alesd",
-      "id": "d1naw3UeN9R8"
+      "id": "alesd",
+      "name": "Alesd"
     },
     {
-      "name": "Alexandria",
-      "id": "fEYPN4-wBrrC"
+      "id": "alexandria",
+      "name": "Alexandria"
     },
     {
-      "name": "Alunu",
-      "id": "kEt_DK_HSArq"
+      "id": "alunu",
+      "name": "Alunu"
     },
     {
-      "name": "Apahida",
-      "id": "45Lcv90OE4dE"
+      "id": "apahida",
+      "name": "Apahida"
     },
     {
-      "name": "Apata",
-      "id": "K2FsPUrljlEw"
+      "id": "apata",
+      "name": "Apata"
     },
     {
-      "name": "Arad",
-      "id": "N_rHwAjKl3Z2"
+      "id": "arad",
+      "name": "Arad"
     },
     {
-      "name": "Avrig",
-      "id": "VZ1DRPo5UQWt"
+      "id": "avrig",
+      "name": "Avrig"
     },
     {
-      "name": "Baba Novac",
-      "id": "QOWzGt-KdZlQ"
+      "id": "baba-novac",
+      "name": "Baba Novac"
     },
     {
-      "name": "Baia Mare",
-      "id": "h2Mluxa4tves"
+      "id": "baia-mare",
+      "name": "Baia Mare"
     },
     {
-      "name": "Baia Sprie",
-      "id": "nm0VBQ4p8ZAt"
+      "id": "baia-sprie",
+      "name": "Baia Sprie"
     },
     {
-      "name": "Baicoi",
-      "id": "ty9XaDw-2gy_"
+      "id": "baicoi",
+      "name": "Baicoi"
     },
     {
-      "name": "Baile Olanesti",
-      "id": "RcMJFzqh2dKf"
+      "id": "baile-olanesti",
+      "name": "Baile Olanesti"
     },
     {
-      "name": "Baiut",
-      "id": "5n4TZhp3JSrE"
+      "id": "baiut",
+      "name": "Baiut"
     },
     {
-      "name": "Balomiru de Camp",
-      "id": "UDADsQssjIXc"
+      "id": "balomiru-de-camp",
+      "name": "Balomiru de Camp"
     },
     {
-      "name": "Balotesti",
-      "id": "aIuYH9nx3e_7"
+      "id": "balotesti",
+      "name": "Balotesti"
     },
     {
-      "name": "Banesti",
-      "id": "hRUIl_UBynvI"
+      "id": "banesti",
+      "name": "Banesti"
     },
     {
-      "name": "Baraolt",
-      "id": "UOxiCX9Zh_fi"
+      "id": "baraolt",
+      "name": "Baraolt"
     },
     {
-      "name": "Barbuletu",
-      "id": "J4zXF6ncyRYr"
+      "id": "barbuletu",
+      "name": "Barbuletu"
     },
     {
-      "name": "Bascov",
-      "id": "U8SOIMWevOch"
+      "id": "bascov",
+      "name": "Bascov"
     },
     {
-      "name": "Becicherecu Mic",
-      "id": "eWq6VlAY0W7A"
+      "id": "becicherecu-mic",
+      "name": "Becicherecu Mic"
     },
     {
-      "name": "Berceni",
-      "id": "OPYt3Iwq2iwI"
+      "id": "berceni",
+      "name": "Berceni"
     },
     {
-      "name": "Berzasca",
-      "id": "twwriPmTi7Rq"
+      "id": "berzasca",
+      "name": "Berzasca"
     },
     {
-      "name": "Bethausen",
-      "id": "GM6x_5nEIpdU"
+      "id": "bethausen",
+      "name": "Bethausen"
     },
     {
-      "name": "Bic",
-      "id": "5o-CGdp4CKUw"
+      "id": "bic",
+      "name": "Bic"
     },
     {
-      "name": "Bilciuresti",
-      "id": "PejH7UnvWRO-"
+      "id": "bilciuresti",
+      "name": "Bilciuresti"
     },
     {
-      "name": "Birda",
-      "id": "Cy1Le5opDtvA"
+      "id": "birda",
+      "name": "Birda"
     },
     {
-      "name": "Blaj",
-      "id": "rs_RtnHqpkcB"
+      "id": "blaj",
+      "name": "Blaj"
     },
     {
-      "name": "Bobolia",
-      "id": "n1tUglYivSJM"
+      "id": "bobolia",
+      "name": "Bobolia"
     },
     {
-      "name": "Bocsa",
-      "id": "ZLGCYI1FGvJx"
+      "id": "bocsa",
+      "name": "Bocsa"
     },
     {
-      "name": "Bogdanita",
-      "id": "futkDBkQTJJk"
+      "id": "bogdanita",
+      "name": "Bogdanita"
     },
     {
-      "name": "Bolintin Deal",
-      "id": "B2bX8ciWWo2O"
+      "id": "bolintin-deal",
+      "name": "Bolintin Deal"
     },
     {
-      "name": "Borca",
-      "id": "6kJs9hbXj8oN"
+      "id": "borca",
+      "name": "Borca"
     },
     {
-      "name": "Borsa",
-      "id": "JB25co9UqGNb"
+      "id": "borsa",
+      "name": "Borsa"
     },
     {
-      "name": "Bozieni",
-      "id": "GDMFtYL37QeV"
+      "id": "bozieni",
+      "name": "Bozieni"
     },
     {
-      "name": "Bragadiru",
-      "id": "s_ahbLW1AISt"
+      "id": "bragadiru",
+      "name": "Bragadiru"
     },
     {
-      "name": "Branistea",
-      "id": "SZqOx0xLu2Mw"
+      "id": "branistea",
+      "name": "Branistea"
     },
     {
-      "name": "Brazii de Sus",
-      "id": "QLMbf14_xTp4"
+      "id": "brazii-de-sus",
+      "name": "Brazii de Sus"
     },
     {
-      "name": "Breaza",
-      "id": "DXJkrM0_VmwC"
+      "id": "breaza",
+      "name": "Breaza"
     },
     {
-      "name": "Bucecea",
-      "id": "cCypQ3LPVXF5"
+      "id": "bucecea",
+      "name": "Bucecea"
     },
     {
-      "name": "Bucharest",
-      "id": "QsZpTEyNIgoR"
+      "id": "bucharest",
+      "name": "Bucharest"
     },
     {
-      "name": "Bucsani",
-      "id": "1e6puCj0Ff8y"
+      "id": "bucsani",
+      "name": "Bucsani"
     },
     {
-      "name": "Bucu",
-      "id": "4Kq9fxxFvCdy"
+      "id": "bucu",
+      "name": "Bucu"
     },
     {
-      "name": "Bucurestii Noi",
-      "id": "NbbpGUC3WOlH"
+      "id": "bucurestii-noi",
+      "name": "Bucurestii Noi"
     },
     {
-      "name": "Buftea",
-      "id": "dpAGPizE24c0"
+      "id": "buftea",
+      "name": "Buftea"
     },
     {
-      "name": "Buhusi",
-      "id": "sWdqI5JIQw6t"
+      "id": "buhusi",
+      "name": "Buhusi"
     },
     {
-      "name": "Bujor",
-      "id": "Oj3Oy5i4wPmo"
+      "id": "bujor",
+      "name": "Bujor"
     },
     {
-      "name": "Bumbesti-Jiu",
-      "id": "u9gSP5Gz4Jl1"
+      "id": "bumbesti-jiu",
+      "name": "Bumbesti-Jiu"
     },
     {
-      "name": "Busteni",
-      "id": "KpO_SVO4hseC"
+      "id": "busteni",
+      "name": "Busteni"
     },
     {
-      "name": "Buzias",
-      "id": "UJoN3eyR5czT"
+      "id": "buzias",
+      "name": "Buzias"
     },
     {
-      "name": "Calafat",
-      "id": "VV2v_nyGiNSo"
+      "id": "calafat",
+      "name": "Calafat"
     },
     {
-      "name": "Calan",
-      "id": "R3_qhy0eq-Dd"
+      "id": "calan",
+      "name": "Calan"
     },
     {
-      "name": "Calarasi",
-      "id": "P9PMYJ_AV2FG"
+      "id": "calarasi",
+      "name": "Calarasi"
     },
     {
-      "name": "Calinesti",
-      "id": "zX1tujqcbAj_"
+      "id": "calinesti",
+      "name": "Calinesti"
     },
     {
-      "name": "Campeni",
-      "id": "Mj1t451ZAah_"
+      "id": "campeni",
+      "name": "Campeni"
     },
     {
-      "name": "Campia",
-      "id": "AO26fg41HIf1"
+      "id": "campia",
+      "name": "Campia"
     },
     {
-      "name": "Campia Turzii",
-      "id": "jF72nrQNWJO0"
+      "id": "campia-turzii",
+      "name": "Campia Turzii"
     },
     {
-      "name": "Campina",
-      "id": "z4WdOZkBvjBJ"
+      "id": "campina",
+      "name": "Campina"
     },
     {
-      "name": "Campulung Moldovenesc",
-      "id": "LkzybtweFm4u"
+      "id": "campulung-moldovenesc",
+      "name": "Campulung Moldovenesc"
     },
     {
-      "name": "Campulung Muscel",
-      "id": "QBz-zF-hjRdH"
+      "id": "campulung-muscel",
+      "name": "Campulung Muscel"
     },
     {
-      "name": "Cara",
-      "id": "Fvcx5a0XzYIC"
+      "id": "cara",
+      "name": "Cara"
     },
     {
-      "name": "Caracal",
-      "id": "qy2hCnm3qlft"
+      "id": "caracal",
+      "name": "Caracal"
     },
     {
-      "name": "Caransebes",
-      "id": "ThNLcBvo4JOd"
+      "id": "caransebes",
+      "name": "Caransebes"
     },
     {
-      "name": "Carbunesti",
-      "id": "DDcFG6XBTCLO"
+      "id": "carbunesti",
+      "name": "Carbunesti"
     },
     {
-      "name": "Carei",
-      "id": "7tDNWq7fSq8-"
+      "id": "carei",
+      "name": "Carei"
     },
     {
-      "name": "Catcau",
-      "id": "9j2prWmSiHhn"
+      "id": "catcau",
+      "name": "Catcau"
     },
     {
-      "name": "Catunele",
-      "id": "1zQ0OVRedgkI"
+      "id": "catunele",
+      "name": "Catunele"
     },
     {
-      "name": "Cernisoara",
-      "id": "3jUrBckt2ecT"
+      "id": "cernisoara",
+      "name": "Cernisoara"
     },
     {
-      "name": "Cetatea de Balta",
-      "id": "4TxiIOHE_p8q"
+      "id": "cetatea-de-balta",
+      "name": "Cetatea de Balta"
     },
     {
-      "name": "Cetatuia",
-      "id": "D7HFbD8OUnFc"
+      "id": "cetatuia",
+      "name": "Cetatuia"
     },
     {
-      "name": "Chiajna",
-      "id": "_Ufg_QYR3juF"
+      "id": "chiajna",
+      "name": "Chiajna"
     },
     {
-      "name": "Chiselet",
-      "id": "NvxfV3JImomd"
+      "id": "chiselet",
+      "name": "Chiselet"
     },
     {
-      "name": "Chisineu-Cris",
-      "id": "WJKxxT2B38W_"
+      "id": "chisineu-cris",
+      "name": "Chisineu-Cris"
     },
     {
-      "name": "Chisoda",
-      "id": "AgXJETiGqX14"
+      "id": "chisoda",
+      "name": "Chisoda"
     },
     {
-      "name": "Chitila",
-      "id": "2FeLiIcpH34C"
+      "id": "chitila",
+      "name": "Chitila"
     },
     {
-      "name": "Cisnadie",
-      "id": "IkMw5elECIjD"
+      "id": "cisnadie",
+      "name": "Cisnadie"
     },
     {
-      "name": "Ciumani",
-      "id": "vA7RWy6507By"
+      "id": "ciumani",
+      "name": "Ciumani"
     },
     {
-      "name": "Cluj-Napoca",
-      "id": "QZsgbS1xw9Ru"
+      "id": "cluj-napoca",
+      "name": "Cluj-Napoca"
     },
     {
-      "name": "Cobadin",
-      "id": "Tg6O5MfHi40H"
+      "id": "cobadin",
+      "name": "Cobadin"
     },
     {
-      "name": "Codlea",
-      "id": "b_vskbfejq-a"
+      "id": "codlea",
+      "name": "Codlea"
     },
     {
-      "name": "Cojasca",
-      "id": "5PNDUN6QORba"
+      "id": "cojasca",
+      "name": "Cojasca"
     },
     {
-      "name": "Comana",
-      "id": "wruwrcynB6JU"
+      "id": "comana",
+      "name": "Comana"
     },
     {
-      "name": "Comanesti",
-      "id": "BrQqggoiNNBR"
+      "id": "comanesti",
+      "name": "Comanesti"
     },
     {
-      "name": "Corabia",
-      "id": "YeY4IruiX1wo"
+      "id": "corabia",
+      "name": "Corabia"
     },
     {
-      "name": "Corbeanca",
-      "id": "NUD9Q40lpSTr"
+      "id": "corbeanca",
+      "name": "Corbeanca"
     },
     {
-      "name": "Corbita",
-      "id": "PVfHGoMFw3m6"
+      "id": "corbita",
+      "name": "Corbita"
     },
     {
-      "name": "Corlateni",
-      "id": "y639NxLcu64d"
+      "id": "corlateni",
+      "name": "Corlateni"
     },
     {
-      "name": "Cosbuc",
-      "id": "_NjP6ccqpKyO"
+      "id": "cosbuc",
+      "name": "Cosbuc"
     },
     {
-      "name": "Costesti",
-      "id": "CM1YsgqdRt2C"
+      "id": "costesti",
+      "name": "Costesti"
     },
     {
-      "name": "Cotnari",
-      "id": "VNWcJlbnHovc"
+      "id": "cotnari",
+      "name": "Cotnari"
     },
     {
-      "name": "Covasna",
-      "id": "rdxrxY6Yebkd"
+      "id": "covasna",
+      "name": "Covasna"
     },
     {
-      "name": "Craiova",
-      "id": "L5EraEDaEMrx"
+      "id": "craiova",
+      "name": "Craiova"
     },
     {
-      "name": "Crangasi",
-      "id": "J_0c8Qryi1pm"
+      "id": "crangasi",
+      "name": "Crangasi"
     },
     {
-      "name": "Crasna",
-      "id": "kLTGCP0HbCSO"
+      "id": "crasna",
+      "name": "Crasna"
     },
     {
-      "name": "Cris",
-      "id": "1d5VgoDmBeji"
+      "id": "cris",
+      "name": "Cris"
     },
     {
-      "name": "Cristian",
-      "id": "qCgddoG_0RxQ"
+      "id": "cristian",
+      "name": "Cristian"
     },
     {
-      "name": "Cristuru Secuiesc",
-      "id": "HjPbLqTIoNVJ"
+      "id": "cristuru-secuiesc",
+      "name": "Cristuru Secuiesc"
     },
     {
-      "name": "Cugir",
-      "id": "nDvzxuuHrAAL"
+      "id": "cugir",
+      "name": "Cugir"
     },
     {
-      "name": "Curtici",
-      "id": "rkBsOs5WP-ek"
+      "id": "curtici",
+      "name": "Curtici"
     },
     {
-      "name": "Cuza Voda",
-      "id": "sfFZQmd9tWL-"
+      "id": "cuza-voda",
+      "name": "Cuza Voda"
     },
     {
-      "name": "Daia Romana",
-      "id": "sTRnPDuXtCKu"
+      "id": "daia-romana",
+      "name": "Daia Romana"
     },
     {
-      "name": "Decebal",
-      "id": "aAYyZ_fA5tOu"
+      "id": "decebal",
+      "name": "Decebal"
     },
     {
-      "name": "Dej",
-      "id": "qQ04okvGLRY3"
+      "id": "dej",
+      "name": "Dej"
     },
     {
-      "name": "Deta",
-      "id": "mKBjAF8aSdas"
+      "id": "deta",
+      "name": "Deta"
     },
     {
-      "name": "Deva",
-      "id": "h0ziYguYQ_YD"
+      "id": "deva",
+      "name": "Deva"
     },
     {
-      "name": "Dimitrie Cantemir",
-      "id": "E6Sh_1UmNxwu"
+      "id": "dimitrie-cantemir",
+      "name": "Dimitrie Cantemir"
     },
     {
-      "name": "Ditrau",
-      "id": "DikxuJ69zlV7"
+      "id": "ditrau",
+      "name": "Ditrau"
     },
     {
-      "name": "Doamna",
-      "id": "SX76C0qMvVNQ"
+      "id": "doamna",
+      "name": "Doamna"
     },
     {
-      "name": "Dobroesti",
-      "id": "1HyOybdVymbb"
+      "id": "dobroesti",
+      "name": "Dobroesti"
     },
     {
-      "name": "Domnesti",
-      "id": "mbxErtwfAH9P"
+      "id": "domnesti",
+      "name": "Domnesti"
     },
     {
-      "name": "Dor Marunt",
-      "id": "9BAvbvyS961B"
+      "id": "dor-marunt",
+      "name": "Dor Marunt"
     },
     {
-      "name": "Dorohoi",
-      "id": "8mMWGprex2Py"
+      "id": "dorohoi",
+      "name": "Dorohoi"
     },
     {
-      "name": "Dragotesti",
-      "id": "wkPuGBex2F-0"
+      "id": "dragotesti",
+      "name": "Dragotesti"
     },
     {
-      "name": "Dridu",
-      "id": "U1WasocIPWWp"
+      "id": "dridu",
+      "name": "Dridu"
     },
     {
-      "name": "Dudestii Vechi",
-      "id": "pw-4NE5EI_-H"
+      "id": "dudestii-vechi",
+      "name": "Dudestii Vechi"
     },
     {
-      "name": "Dumbravita",
-      "id": "nkSBnWA6_HOl"
+      "id": "dumbravita",
+      "name": "Dumbravita"
     },
     {
-      "name": "Eforie",
-      "id": "mH6fJBdojuD_"
+      "id": "eforie",
+      "name": "Eforie"
     },
     {
-      "name": "Fabrica",
-      "id": "tz9G8BqvqDDd"
+      "id": "fabrica",
+      "name": "Fabrica"
     },
     {
-      "name": "Faget",
-      "id": "vCT6J2SiDWzn"
+      "id": "faget",
+      "name": "Faget"
     },
     {
-      "name": "Fagetu",
-      "id": "-BpLbhBi25kD"
+      "id": "fagetu",
+      "name": "Fagetu"
     },
     {
-      "name": "Falcau",
-      "id": "zRx9hyUI3Wlt"
+      "id": "falcau",
+      "name": "Falcau"
     },
     {
-      "name": "Falticeni",
-      "id": "WFPM3AjLiF2E"
+      "id": "falticeni",
+      "name": "Falticeni"
     },
     {
-      "name": "Fetesti",
-      "id": "_9CKqGXWbLor"
+      "id": "fetesti",
+      "name": "Fetesti"
     },
     {
-      "name": "Filias",
-      "id": "KZBbgtmbBM2C"
+      "id": "filias",
+      "name": "Filias"
     },
     {
-      "name": "Filiasi",
-      "id": "tCCG1b4L2pRK"
+      "id": "filiasi",
+      "name": "Filiasi"
     },
     {
-      "name": "Filipestii de Padure",
-      "id": "pCqJIUeCM09I"
+      "id": "filipestii-de-padure",
+      "name": "Filipestii de Padure"
     },
     {
-      "name": "Floresti",
-      "id": "ZQfv7kMQHw5o"
+      "id": "floresti",
+      "name": "Floresti"
     },
     {
-      "name": "Fogarasch",
-      "id": "9UXds-A08Ne9"
+      "id": "fogarasch",
+      "name": "Fogarasch"
     },
     {
-      "name": "Fundulea",
-      "id": "bLZMJ5z5qhEQ"
+      "id": "fundulea",
+      "name": "Fundulea"
     },
     {
-      "name": "Gaesti",
-      "id": "NvPuPDemumIq"
+      "id": "gaesti",
+      "name": "Gaesti"
     },
     {
-      "name": "Garla-Mare",
-      "id": "J7FlcH6qXZbA"
+      "id": "garla-mare",
+      "name": "Garla-Mare"
     },
     {
-      "name": "Gataia",
-      "id": "esqVixMHNEQ8"
+      "id": "gataia",
+      "name": "Gataia"
     },
     {
-      "name": "Geoagiu",
-      "id": "OexlpIT4bZkH"
+      "id": "geoagiu",
+      "name": "Geoagiu"
     },
     {
-      "name": "Gheorgheni",
-      "id": "jEBabqhVOpPL"
+      "id": "gheorgheni",
+      "name": "Gheorgheni"
     },
     {
-      "name": "Gherea",
-      "id": "QmoLy8IJJQXP"
+      "id": "gherea",
+      "name": "Gherea"
     },
     {
-      "name": "Gherla",
-      "id": "95wAe9YkR8YA"
+      "id": "gherla",
+      "name": "Gherla"
     },
     {
-      "name": "Giarmata",
-      "id": "PZ7SycbhAhPM"
+      "id": "giarmata",
+      "name": "Giarmata"
     },
     {
-      "name": "Gilau",
-      "id": "8awGpekUCpa4"
+      "id": "gilau",
+      "name": "Gilau"
     },
     {
-      "name": "Giroc",
-      "id": "KY9_GIZ_bPoM"
+      "id": "giroc",
+      "name": "Giroc"
     },
     {
-      "name": "Giulesti",
-      "id": "g0MHiV_n2Atw"
+      "id": "giulesti",
+      "name": "Giulesti"
     },
     {
-      "name": "Giurgiu",
-      "id": "gGAkx8KOcO_j"
+      "id": "giurgiu",
+      "name": "Giurgiu"
     },
     {
-      "name": "Glina",
-      "id": "ydvQCIWuDHKm"
+      "id": "glina",
+      "name": "Glina"
     },
     {
-      "name": "Gramesti",
-      "id": "Bfgw1dJch1TV"
+      "id": "gramesti",
+      "name": "Gramesti"
     },
     {
-      "name": "Grojdibodu",
-      "id": "PlrTHsuoCoXX"
+      "id": "grojdibodu",
+      "name": "Grojdibodu"
     },
     {
-      "name": "Gura Humorului",
-      "id": "byKVERX7_UzP"
+      "id": "gura-humorului",
+      "name": "Gura Humorului"
     },
     {
-      "name": "Hangulesti",
-      "id": "N1Cjzg0tb2uf"
+      "id": "hangulesti",
+      "name": "Hangulesti"
     },
     {
-      "name": "Harsova",
-      "id": "h2WysU28FiKd"
+      "id": "harsova",
+      "name": "Harsova"
     },
     {
-      "name": "Hateg",
-      "id": "nN3ej_6VhJmt"
+      "id": "hateg",
+      "name": "Hateg"
     },
     {
-      "name": "Horia",
-      "id": "GrC00k731d2a"
+      "id": "horia",
+      "name": "Horia"
     },
     {
-      "name": "Huedin",
-      "id": "5sLe-vD1RdvI"
+      "id": "huedin",
+      "name": "Huedin"
     },
     {
-      "name": "Humulesti",
-      "id": "s3Kc4t7txLSi"
+      "id": "humulesti",
+      "name": "Humulesti"
     },
     {
-      "name": "Hunedoara",
-      "id": "lfgxBNyI2vFJ"
+      "id": "hunedoara",
+      "name": "Hunedoara"
     },
     {
-      "name": "Husi",
-      "id": "1toF4nNSkhk1"
+      "id": "husi",
+      "name": "Husi"
     },
     {
-      "name": "Iadara",
-      "id": "xmTO06OYXK-V"
+      "id": "iadara",
+      "name": "Iadara"
     },
     {
-      "name": "Iernut",
-      "id": "pf7wfA7VgW3Y"
+      "id": "iernut",
+      "name": "Iernut"
     },
     {
-      "name": "Ion Ghica",
-      "id": "zrevv5hWpMFD"
+      "id": "ion-ghica",
+      "name": "Ion Ghica"
     },
     {
-      "name": "Iorga",
-      "id": "0LDxYoKra1QM"
+      "id": "iorga",
+      "name": "Iorga"
     },
     {
-      "name": "Izvoru Crisului",
-      "id": "9moNXHFoXDvG"
+      "id": "izvoru-crisului",
+      "name": "Izvoru Crisului"
     },
     {
-      "name": "Jibou",
-      "id": "NRiy6F6ZGDbW"
+      "id": "jibou",
+      "name": "Jibou"
     },
     {
-      "name": "Jilava",
-      "id": "-zoKeBb010VV"
+      "id": "jilava",
+      "name": "Jilava"
     },
     {
-      "name": "Lacu",
-      "id": "UUpu9iBxap2I"
+      "id": "lacu",
+      "name": "Lacu"
     },
     {
-      "name": "Lacu Sinaia",
-      "id": "LnnW-mNpHxo9"
+      "id": "lacu-sinaia",
+      "name": "Lacu Sinaia"
     },
     {
-      "name": "Lancram",
-      "id": "3qCcYcUC1KNO"
+      "id": "lancram",
+      "name": "Lancram"
     },
     {
-      "name": "Lazuri",
-      "id": "_1YZNpZG_t7U"
+      "id": "lazuri",
+      "name": "Lazuri"
     },
     {
-      "name": "Lehliu-Gara",
-      "id": "zLzpNfeOme8M"
+      "id": "lehliu-gara",
+      "name": "Lehliu-Gara"
     },
     {
-      "name": "Lenauheim",
-      "id": "CbuhBRQXm01z"
+      "id": "lenauheim",
+      "name": "Lenauheim"
     },
     {
-      "name": "Livezi",
-      "id": "mLKxmLCPIjFe"
+      "id": "livezi",
+      "name": "Livezi"
     },
     {
-      "name": "Ludesti",
-      "id": "M9d_HTsNfrjg"
+      "id": "ludesti",
+      "name": "Ludesti"
     },
     {
-      "name": "Lugoj",
-      "id": "GFzaGEyVYQkm"
+      "id": "lugoj",
+      "name": "Lugoj"
     },
     {
-      "name": "Lunguletu",
-      "id": "3D5BVns2NX9y"
+      "id": "lunguletu",
+      "name": "Lunguletu"
     },
     {
-      "name": "Macin",
-      "id": "87F1Pdr250aV"
+      "id": "macin",
+      "name": "Macin"
     },
     {
-      "name": "Madaras",
-      "id": "YOB73GAK1xf1"
+      "id": "madaras",
+      "name": "Madaras"
     },
     {
-      "name": "Magura",
-      "id": "Ynjx3eR8rYBx"
+      "id": "magura",
+      "name": "Magura"
     },
     {
-      "name": "Magurele",
-      "id": "Vzc1J3792VcF"
+      "id": "magurele",
+      "name": "Magurele"
     },
     {
-      "name": "Mandruloc",
-      "id": "fq6ndkgRTeeB"
+      "id": "mandruloc",
+      "name": "Mandruloc"
     },
     {
-      "name": "Mangalia",
-      "id": "DisCcCSADTwP"
+      "id": "mangalia",
+      "name": "Mangalia"
     },
     {
-      "name": "Manta",
-      "id": "uphHUUZ7n4L2"
+      "id": "manta",
+      "name": "Manta"
     },
     {
-      "name": "Marasheshty",
-      "id": "TI5WMQWZ9Jqk"
+      "id": "marasheshty",
+      "name": "Marasheshty"
     },
     {
-      "name": "Marasti",
-      "id": "zFSrBN89uFH9"
+      "id": "marasti",
+      "name": "Marasti"
     },
     {
-      "name": "Marginea",
-      "id": "EZp7uO6ywX7Y"
+      "id": "marginea",
+      "name": "Marginea"
     },
     {
-      "name": "Masloc",
-      "id": "fxiJOvZMA5AS"
+      "id": "masloc",
+      "name": "Masloc"
     },
     {
-      "name": "Matasari",
-      "id": "z3dlqM-OnLGM"
+      "id": "matasari",
+      "name": "Matasari"
     },
     {
-      "name": "Matei",
-      "id": "3EMVhUjOV83u"
+      "id": "matei",
+      "name": "Matei"
     },
     {
-      "name": "Medgidia",
-      "id": "NNz-cBniOgBo"
+      "id": "medgidia",
+      "name": "Medgidia"
     },
     {
-      "name": "Miercurea Sibiului",
-      "id": "kSLBXsZzMeB9"
+      "id": "miercurea-sibiului",
+      "name": "Miercurea Sibiului"
     },
     {
-      "name": "Miercurea-Ciuc",
-      "id": "2a-yxVcMCYMG"
+      "id": "miercurea-ciuc",
+      "name": "Miercurea-Ciuc"
     },
     {
-      "name": "Mihai Bravu",
-      "id": "3o7WDJdXM-l_"
+      "id": "mihai-bravu",
+      "name": "Mihai Bravu"
     },
     {
-      "name": "Mihail Kogalniceanu",
-      "id": "VAsK5uKU_qGH"
+      "id": "mihail-kogalniceanu",
+      "name": "Mihail Kogalniceanu"
     },
     {
-      "name": "Mioveni",
-      "id": "xq_or8wUzoxK"
+      "id": "mioveni",
+      "name": "Mioveni"
     },
     {
-      "name": "Mircea",
-      "id": "UzSct5e_Ovs5"
+      "id": "mircea",
+      "name": "Mircea"
     },
     {
-      "name": "Mizil",
-      "id": "2aYu8y3Q8A--"
+      "id": "mizil",
+      "name": "Mizil"
     },
     {
-      "name": "Moara Vlasiei",
-      "id": "L0kRoTUVAmuY"
+      "id": "moara-vlasiei",
+      "name": "Moara Vlasiei"
     },
     {
-      "name": "Mocira",
-      "id": "HRKcq200s2AF"
+      "id": "mocira",
+      "name": "Mocira"
     },
     {
-      "name": "Mogosoaia",
-      "id": "0r9dGPwwnyDD"
+      "id": "mogosoaia",
+      "name": "Mogosoaia"
     },
     {
-      "name": "Moinesti",
-      "id": "nivZfiC6hHlV"
+      "id": "moinesti",
+      "name": "Moinesti"
     },
     {
-      "name": "Moisei",
-      "id": "dVwOzYrQn69i"
+      "id": "moisei",
+      "name": "Moisei"
     },
     {
-      "name": "Moldova Noua",
-      "id": "3yrmbEk8mmYO"
+      "id": "moldova-noua",
+      "name": "Moldova Noua"
     },
     {
-      "name": "Moreni",
-      "id": "XfSGo-W1FqR8"
+      "id": "moreni",
+      "name": "Moreni"
     },
     {
-      "name": "Moroda",
-      "id": "r7bTzFN_NZqJ"
+      "id": "moroda",
+      "name": "Moroda"
     },
     {
-      "name": "Motru",
-      "id": "npQy1RaG4jJZ"
+      "id": "motru",
+      "name": "Motru"
     },
     {
-      "name": "Murfatlar",
-      "id": "q1og7LR9_-aW"
+      "id": "murfatlar",
+      "name": "Murfatlar"
     },
     {
-      "name": "Musenita",
-      "id": "DL2vSgwjYACH"
+      "id": "musenita",
+      "name": "Musenita"
     },
     {
-      "name": "Nana",
-      "id": "5rt2H4v2_5UE"
+      "id": "nana",
+      "name": "Nana"
     },
     {
-      "name": "Nasaud",
-      "id": "KweAIdfFPtew"
+      "id": "nasaud",
+      "name": "Nasaud"
     },
     {
-      "name": "Navodari",
-      "id": "EarC0Nzg8Stz"
+      "id": "navodari",
+      "name": "Navodari"
     },
     {
-      "name": "Negresti",
-      "id": "1jZ2QwB3BfIB"
+      "id": "negresti",
+      "name": "Negresti"
     },
     {
-      "name": "Negru Voda",
-      "id": "e00EMeMnSxA7"
+      "id": "negru-voda",
+      "name": "Negru Voda"
     },
     {
-      "name": "Nenciulesti",
-      "id": "iJKpVd_u68-v"
+      "id": "nenciulesti",
+      "name": "Nenciulesti"
     },
     {
-      "name": "Nicolae Balcescu",
-      "id": "tcVOFAD4olb3"
+      "id": "nicolae-balcescu",
+      "name": "Nicolae Balcescu"
     },
     {
-      "name": "Nucsoara",
-      "id": "MhIcbEQhSJlZ"
+      "id": "nucsoara",
+      "name": "Nucsoara"
     },
     {
-      "name": "Obreja",
-      "id": "ettBnCAbwIp3"
+      "id": "obreja",
+      "name": "Obreja"
     },
     {
-      "name": "Ocna Mures",
-      "id": "k0P5NGMJrdb4"
+      "id": "ocna-mures",
+      "name": "Ocna Mures"
     },
     {
-      "name": "Ocnita",
-      "id": "ebA_pYfNJGUi"
+      "id": "ocnita",
+      "name": "Ocnita"
     },
     {
-      "name": "Odobesti",
-      "id": "E29x0FWcwMUl"
+      "id": "odobesti",
+      "name": "Odobesti"
     },
     {
-      "name": "Odorheiu Secuiesc",
-      "id": "TkCXss-yN0N9"
+      "id": "odorheiu-secuiesc",
+      "name": "Odorheiu Secuiesc"
     },
     {
-      "name": "Oltenita",
-      "id": "-1f29AmBMD10"
+      "id": "oltenita",
+      "name": "Oltenita"
     },
     {
-      "name": "Oradea",
-      "id": "_IRG47RkcfaF"
+      "id": "oradea",
+      "name": "Oradea"
     },
     {
-      "name": "Oravita",
-      "id": "_rSR_CW47YQY"
+      "id": "oravita",
+      "name": "Oravita"
     },
     {
-      "name": "Orsova",
-      "id": "GQtTg8LoGWkb"
+      "id": "orsova",
+      "name": "Orsova"
     },
     {
-      "name": "Otelu Rosu",
-      "id": "aklKQmp-OlZo"
+      "id": "otelu-rosu",
+      "name": "Otelu Rosu"
     },
     {
-      "name": "Otopeni",
-      "id": "VnzzB7lCAX9h"
+      "id": "otopeni",
+      "name": "Otopeni"
     },
     {
-      "name": "Padureni",
-      "id": "_FAfaXRoqnIe"
+      "id": "padureni",
+      "name": "Padureni"
     },
     {
-      "name": "Panciu",
-      "id": "PFcpIm7X3v1P"
+      "id": "panciu",
+      "name": "Panciu"
     },
     {
-      "name": "Panduri",
-      "id": "xfOl7T0hjM7u"
+      "id": "panduri",
+      "name": "Panduri"
     },
     {
-      "name": "Pantelimon",
-      "id": "k7Cpxlx4cbvG"
+      "id": "pantelimon",
+      "name": "Pantelimon"
     },
     {
-      "name": "Pascani",
-      "id": "jb-nTEt67KIJ"
+      "id": "pascani",
+      "name": "Pascani"
     },
     {
-      "name": "Patarlagele",
-      "id": "6UWY_XEslN5Z"
+      "id": "patarlagele",
+      "name": "Patarlagele"
     },
     {
-      "name": "Pecica",
-      "id": "UmocCdiMLf3Y"
+      "id": "pecica",
+      "name": "Pecica"
     },
     {
-      "name": "Petresti",
-      "id": "aqAanjHTImjH"
+      "id": "petresti",
+      "name": "Petresti"
     },
     {
-      "name": "Plopeni",
-      "id": "alKwspLjloBY"
+      "id": "plopeni",
+      "name": "Plopeni"
     },
     {
-      "name": "Podu Dambovitei",
-      "id": "c3WRcFT4EkS_"
+      "id": "podu-dambovitei",
+      "name": "Podu Dambovitei"
     },
     {
-      "name": "Poiana Ilvei",
-      "id": "28Bv-H8shljv"
+      "id": "poiana-ilvei",
+      "name": "Poiana Ilvei"
     },
     {
-      "name": "Popesti",
-      "id": "7oK-Ey_lLmWE"
+      "id": "popesti",
+      "name": "Popesti"
     },
     {
-      "name": "Popesti-Leordeni",
-      "id": "Qw98wRrStjIa"
+      "id": "popesti-leordeni",
+      "name": "Popesti-Leordeni"
     },
     {
-      "name": "Potlogi",
-      "id": "4vlABoeDfu_9"
+      "id": "potlogi",
+      "name": "Potlogi"
     },
     {
-      "name": "Prejmer",
-      "id": "GmzEi1qeWn_A"
+      "id": "prejmer",
+      "name": "Prejmer"
     },
     {
-      "name": "Prim Decembrie",
-      "id": "BJd0YRSgr3Bq"
+      "id": "prim-decembrie",
+      "name": "Prim Decembrie"
     },
     {
-      "name": "Prod",
-      "id": "evr59gkYVhzq"
+      "id": "prod",
+      "name": "Prod"
     },
     {
-      "name": "Pucheni",
-      "id": "UaLD1qH3qx5d"
+      "id": "pucheni",
+      "name": "Pucheni"
     },
     {
-      "name": "Rabagani",
-      "id": "X8Z36xoMdci-"
+      "id": "rabagani",
+      "name": "Rabagani"
     },
     {
-      "name": "Racari",
-      "id": "b3Fo9_XgLR4r"
+      "id": "racari",
+      "name": "Racari"
     },
     {
-      "name": "Racoasa",
-      "id": "qJAAMUIc4TaC"
+      "id": "racoasa",
+      "name": "Racoasa"
     },
     {
-      "name": "Racovita",
-      "id": "3StR1BLLJvEO"
+      "id": "racovita",
+      "name": "Racovita"
     },
     {
-      "name": "Radauti",
-      "id": "DexzEfu16qY8"
+      "id": "radauti",
+      "name": "Radauti"
     },
     {
-      "name": "Radovanu",
-      "id": "HoYQQDGUPjXE"
+      "id": "radovanu",
+      "name": "Radovanu"
     },
     {
-      "name": "Ramnicu Sarat",
-      "id": "DpyXsscSsXto"
+      "id": "ramnicu-sarat",
+      "name": "Ramnicu Sarat"
     },
     {
-      "name": "Reghin",
-      "id": "JkfW524Iiv9-"
+      "id": "reghin",
+      "name": "Reghin"
     },
     {
-      "name": "Roata de Jos",
-      "id": "e24OEZeoLh4L"
+      "id": "roata-de-jos",
+      "name": "Roata de Jos"
     },
     {
-      "name": "Rohia",
-      "id": "kqRQYeRL1wL-"
+      "id": "rohia",
+      "name": "Rohia"
     },
     {
-      "name": "Roman",
-      "id": "JNzb8tLfJKbC"
+      "id": "roman",
+      "name": "Roman"
     },
     {
-      "name": "Rosia",
-      "id": "eA6hz4KyWJnj"
+      "id": "rosia",
+      "name": "Rosia"
     },
     {
-      "name": "Rosiori de Vede",
-      "id": "wcpIxkI0PNv3"
+      "id": "rosiori-de-vede",
+      "name": "Rosiori de Vede"
     },
     {
-      "name": "Sacele",
-      "id": "87cUNvnFoBgd"
+      "id": "sacele",
+      "name": "Sacele"
     },
     {
-      "name": "Salatrucel",
-      "id": "v5tHjsaH2glm"
+      "id": "salatrucel",
+      "name": "Salatrucel"
     },
     {
-      "name": "Salcea",
-      "id": "Dm4CZyMh4Vmt"
+      "id": "salcea",
+      "name": "Salcea"
     },
     {
-      "name": "Salcioara",
-      "id": "tbSDWEvYvLpQ"
+      "id": "salcioara",
+      "name": "Salcioara"
     },
     {
-      "name": "Salonta",
-      "id": "-kfJC6rbIv36"
+      "id": "salonta",
+      "name": "Salonta"
     },
     {
-      "name": "Sancraieni",
-      "id": "LI_LHUFIgTTT"
+      "id": "sancraieni",
+      "name": "Sancraieni"
     },
     {
-      "name": "Sangeorge",
-      "id": "9Hbe2vHIEWB4"
+      "id": "sangeorge",
+      "name": "Sangeorge"
     },
     {
-      "name": "Sangeorz-Bai",
-      "id": "_9aFrSba3hL5"
+      "id": "sangeorz-bai",
+      "name": "Sangeorz-Bai"
     },
     {
-      "name": "Santimbru",
-      "id": "WGhvb6qsHemb"
+      "id": "santimbru",
+      "name": "Santimbru"
     },
     {
-      "name": "Satu Mare",
-      "id": "WAJuvO2L5WRG"
+      "id": "satu-mare",
+      "name": "Satu Mare"
     },
     {
-      "name": "Saveni",
-      "id": "60cRl-Nl-qhq"
+      "id": "saveni",
+      "name": "Saveni"
     },
     {
-      "name": "Schela",
-      "id": "j9TQ_jZyBa_R"
+      "id": "schela",
+      "name": "Schela"
     },
     {
-      "name": "Sebes",
-      "id": "eVBjCaxOEEQC"
+      "id": "sebes",
+      "name": "Sebes"
     },
     {
-      "name": "Seini",
-      "id": "LI1lFwChrao-"
+      "id": "seini",
+      "name": "Seini"
     },
     {
-      "name": "Sfantu Gheorghe",
-      "id": "0GehIW5iGlA5"
+      "id": "sfantu-gheorghe",
+      "name": "Sfantu Gheorghe"
     },
     {
-      "name": "Sfantu-Gheorghe",
-      "id": "z5RqIznyO0D-"
+      "id": "sfantu-gheorghe",
+      "name": "Sfantu-Gheorghe"
     },
     {
-      "name": "Sibiu",
-      "id": "v5wVUj8x4wVv"
+      "id": "sibiu",
+      "name": "Sibiu"
     },
     {
-      "name": "Siculeni",
-      "id": "rAwFDh6O_Wzs"
+      "id": "siculeni",
+      "name": "Siculeni"
     },
     {
-      "name": "Sighisoara",
-      "id": "aG7rLH3M3fJR"
+      "id": "sighisoara",
+      "name": "Sighisoara"
     },
     {
-      "name": "Simeria",
-      "id": "KpcZ4xbr9DSr"
+      "id": "simeria",
+      "name": "Simeria"
     },
     {
-      "name": "Slatina",
-      "id": "TH0HzJahiP9h"
+      "id": "slatina",
+      "name": "Slatina"
     },
     {
-      "name": "Slobozia",
-      "id": "2rzTRa6Qoy_E"
+      "id": "slobozia",
+      "name": "Slobozia"
     },
     {
-      "name": "Soimus",
-      "id": "bRxCGoLqjlRb"
+      "id": "soimus",
+      "name": "Soimus"
     },
     {
-      "name": "Somcuta Mare",
-      "id": "00aT3KUe1lNc"
+      "id": "somcuta-mare",
+      "name": "Somcuta Mare"
     },
     {
-      "name": "Sovata",
-      "id": "UsYFRXpUG6Zm"
+      "id": "sovata",
+      "name": "Sovata"
     },
     {
-      "name": "Spiru Haret",
-      "id": "bH3J7uQOOv8u"
+      "id": "spiru-haret",
+      "name": "Spiru Haret"
     },
     {
-      "name": "Stalpeni",
-      "id": "J2Wznnj_eGWx"
+      "id": "stalpeni",
+      "name": "Stalpeni"
     },
     {
-      "name": "Stanilesti",
-      "id": "RkFC5RN7BUqE"
+      "id": "stanilesti",
+      "name": "Stanilesti"
     },
     {
-      "name": "Stefanesti",
-      "id": "pzJGEaE8Fgoo"
+      "id": "stefanesti",
+      "name": "Stefanesti"
     },
     {
-      "name": "Stefanestii de Jos",
-      "id": "bRgQKFZnbG6q"
+      "id": "stefanestii-de-jos",
+      "name": "Stefanestii de Jos"
     },
     {
-      "name": "Stroesti",
-      "id": "XVz4GxBMa-06"
+      "id": "stroesti",
+      "name": "Stroesti"
     },
     {
-      "name": "Suceava",
-      "id": "cboQPgPkM1iE"
+      "id": "suceava",
+      "name": "Suceava"
     },
     {
-      "name": "Susenii Bargaului",
-      "id": "VBsJTI95UhS2"
+      "id": "susenii-bargaului",
+      "name": "Susenii Bargaului"
     },
     {
-      "name": "Sutesti",
-      "id": "Y0jCb0EBcCrl"
+      "id": "sutesti",
+      "name": "Sutesti"
     },
     {
-      "name": "Talisoara",
-      "id": "wqOgow8INs19"
+      "id": "talisoara",
+      "name": "Talisoara"
     },
     {
-      "name": "Tandarei",
-      "id": "w4oSdSxe00_G"
+      "id": "tandarei",
+      "name": "Tandarei"
     },
     {
-      "name": "Targu Gangulesti",
-      "id": "hYJBdYeYrl3n"
+      "id": "targu-gangulesti",
+      "name": "Targu Gangulesti"
     },
     {
-      "name": "Targu Neamt",
-      "id": "5Ykq_RjFXbVQ"
+      "id": "targu-neamt",
+      "name": "Targu Neamt"
     },
     {
-      "name": "Tartasesti",
-      "id": "bfAt3F1t_di4"
+      "id": "tartasesti",
+      "name": "Tartasesti"
     },
     {
-      "name": "Tatarani",
-      "id": "69nm6grEjuVd"
+      "id": "tatarani",
+      "name": "Tatarani"
     },
     {
-      "name": "Tatarusi",
-      "id": "Vgxe6UaFxp2h"
+      "id": "tatarusi",
+      "name": "Tatarusi"
     },
     {
-      "name": "Tecuci",
-      "id": "u5W3i0WsSoID"
+      "id": "tecuci",
+      "name": "Tecuci"
     },
     {
-      "name": "Teiu",
-      "id": "2bukT1roqd7I"
+      "id": "teiu",
+      "name": "Teiu"
     },
     {
-      "name": "Teius",
-      "id": "J9HHEeYL_3pG"
+      "id": "teius",
+      "name": "Teius"
     },
     {
-      "name": "Telega",
-      "id": "qCNa5Gs9Lfde"
+      "id": "telega",
+      "name": "Telega"
     },
     {
-      "name": "Tibeni",
-      "id": "dmRCuXRg1qtW"
+      "id": "tibeni",
+      "name": "Tibeni"
     },
     {
-      "name": "Tileagd",
-      "id": "3PjuUs2oPe5o"
+      "id": "tileagd",
+      "name": "Tileagd"
     },
     {
-      "name": "Timus",
-      "id": "_3KWIWdBLgFN"
+      "id": "timus",
+      "name": "Timus"
     },
     {
-      "name": "Tina",
-      "id": "MSu5yUxeQqpy"
+      "id": "tina",
+      "name": "Tina"
     },
     {
-      "name": "Tipari",
-      "id": "LJfD6AQPL4Sj"
+      "id": "tipari",
+      "name": "Tipari"
     },
     {
-      "name": "Titesti",
-      "id": "VDSoQM2adZOt"
+      "id": "titesti",
+      "name": "Titesti"
     },
     {
-      "name": "Titu",
-      "id": "JXUBt2yNsR6Y"
+      "id": "titu",
+      "name": "Titu"
     },
     {
-      "name": "Tomesti",
-      "id": "2waPXJX8T9ll"
+      "id": "tomesti",
+      "name": "Tomesti"
     },
     {
-      "name": "Topoloveni",
-      "id": "qUE63GpEhiHq"
+      "id": "topoloveni",
+      "name": "Topoloveni"
     },
     {
-      "name": "Traian",
-      "id": "rYvczHwHhhd4"
+      "id": "traian",
+      "name": "Traian"
     },
     {
-      "name": "Trestiana",
-      "id": "rVxAoeadtFCM"
+      "id": "trestiana",
+      "name": "Trestiana"
     },
     {
-      "name": "Tulcea",
-      "id": "7BlxjoWM3Izl"
+      "id": "tulcea",
+      "name": "Tulcea"
     },
     {
-      "name": "Tulnici",
-      "id": "zJpWMUO8IEEK"
+      "id": "tulnici",
+      "name": "Tulnici"
     },
     {
-      "name": "Tunari",
-      "id": "Aa9pF2g32nrk"
+      "id": "tunari",
+      "name": "Tunari"
     },
     {
-      "name": "Turda",
-      "id": "1le2mXQqTkQR"
+      "id": "turda",
+      "name": "Turda"
     },
     {
-      "name": "Turnu Magurele",
-      "id": "SYVnHsncyIBp"
+      "id": "turnu-magurele",
+      "name": "Turnu Magurele"
     },
     {
-      "name": "Turnu Ruieni",
-      "id": "6A7ITAO30m6e"
+      "id": "turnu-ruieni",
+      "name": "Turnu Ruieni"
     },
     {
-      "name": "Tuzla",
-      "id": "rwa1SKV2VLFH"
+      "id": "tuzla",
+      "name": "Tuzla"
     },
     {
-      "name": "Uioara de Jos",
-      "id": "sT_tQBx7kEpN"
+      "id": "uioara-de-jos",
+      "name": "Uioara de Jos"
     },
     {
-      "name": "Ungheni",
-      "id": "_QZQp9TPqaBk"
+      "id": "ungheni",
+      "name": "Ungheni"
     },
     {
-      "name": "Unirea",
-      "id": "b-xzMmq98yL0"
+      "id": "unirea",
+      "name": "Unirea"
     },
     {
-      "name": "Urlati",
-      "id": "LWz2bekRh9_9"
+      "id": "urlati",
+      "name": "Urlati"
     },
     {
-      "name": "Urziceni",
-      "id": "0M0-LfcgD8LV"
+      "id": "urziceni",
+      "name": "Urziceni"
     },
     {
-      "name": "Utvin",
-      "id": "w47Ujtxdod26"
+      "id": "utvin",
+      "name": "Utvin"
     },
     {
-      "name": "Vacaresti",
-      "id": "mkbLJ8KcXHxu"
+      "id": "vacaresti",
+      "name": "Vacaresti"
     },
     {
-      "name": "Valcea",
-      "id": "PYp_2st6AGfd"
+      "id": "valcea",
+      "name": "Valcea"
     },
     {
-      "name": "Valea Lupului",
-      "id": "DHeEEdzU63-K"
+      "id": "valea-lupului",
+      "name": "Valea Lupului"
     },
     {
-      "name": "Valea Seaca",
-      "id": "J9Zwf9Bh0F_7"
+      "id": "valea-seaca",
+      "name": "Valea Seaca"
     },
     {
-      "name": "Valenii de Munte",
-      "id": "9sk10nVwqWD7"
+      "id": "valenii-de-munte",
+      "name": "Valenii de Munte"
     },
     {
-      "name": "Vama",
-      "id": "lm9Sxf9JmSy8"
+      "id": "vama",
+      "name": "Vama"
     },
     {
-      "name": "Vaslui",
-      "id": "Zc3N1ttFTTK0"
+      "id": "vaslui",
+      "name": "Vaslui"
     },
     {
-      "name": "Vatra Dornei",
-      "id": "PzuRhA2CSbzw"
+      "id": "vatra-dornei",
+      "name": "Vatra Dornei"
     },
     {
-      "name": "Vedea",
-      "id": "43OKYWnTNqKR"
+      "id": "vedea",
+      "name": "Vedea"
     },
     {
-      "name": "Vetresti-Herastrau",
-      "id": "HaTHrDmmShky"
+      "id": "vetresti-herastrau",
+      "name": "Vetresti-Herastrau"
     },
     {
-      "name": "Victoria",
-      "id": "tPY3Wh-bByrq"
+      "id": "victoria",
+      "name": "Victoria"
     },
     {
-      "name": "Videle",
-      "id": "UBrVmnQZjamV"
+      "id": "videle",
+      "name": "Videle"
     },
     {
-      "name": "Vidin",
-      "id": "g-Yb19NI6Y4u"
+      "id": "vidin",
+      "name": "Vidin"
     },
     {
-      "name": "Vidra",
-      "id": "VYBrPJC_GDmA"
+      "id": "vidra",
+      "name": "Vidra"
     },
     {
-      "name": "Viseu de Jos",
-      "id": "SnSVeoeWTniO"
+      "id": "viseu-de-jos",
+      "name": "Viseu de Jos"
     },
     {
-      "name": "Viseu de Sus",
-      "id": "nlfuai9_u3Aw"
+      "id": "viseu-de-sus",
+      "name": "Viseu de Sus"
     },
     {
-      "name": "Voinesti",
-      "id": "wpIOzcF8VZIN"
+      "id": "voinesti",
+      "name": "Voinesti"
     },
     {
-      "name": "Voiteg",
-      "id": "xV92WxkvNE3m"
+      "id": "voiteg",
+      "name": "Voiteg"
     },
     {
-      "name": "Voluntari",
-      "id": "tnu9rXYjKYxv"
+      "id": "voluntari",
+      "name": "Voluntari"
     },
     {
-      "name": "Voronet",
-      "id": "aobTaZ7P9A9V"
+      "id": "voronet",
+      "name": "Voronet"
     },
     {
-      "name": "Zetea",
-      "id": "1DqbByalOEeW"
+      "id": "zetea",
+      "name": "Zetea"
     },
     {
-      "name": "Zimnicea",
-      "id": "Ch6c6640R36h"
+      "id": "zimnicea",
+      "name": "Zimnicea"
     }
   ]
 }

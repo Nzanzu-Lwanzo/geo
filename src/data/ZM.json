@@ -2,40 +2,40 @@
   "coid": "ZM",
   "cities": [
     {
-      "name": "Kalomo",
-      "id": "mBpp-lEzdKyS"
+      "id": "kalomo",
+      "name": "Kalomo"
     },
     {
-      "name": "Kitwe",
-      "id": "g2o3tk6A7L1x"
+      "id": "kitwe",
+      "name": "Kitwe"
     },
     {
-      "name": "Livingstone",
-      "id": "nwiVJ_nJC05T"
+      "id": "livingstone",
+      "name": "Livingstone"
     },
     {
-      "name": "Lusaka",
-      "id": "HaGkQuWHg7Qz"
+      "id": "lusaka",
+      "name": "Lusaka"
     },
     {
-      "name": "Macha",
-      "id": "cAW9aoQ0kVEA"
+      "id": "macha",
+      "name": "Macha"
     },
     {
-      "name": "Mumbwa",
-      "id": "dGhp1F_mjpIw"
+      "id": "mumbwa",
+      "name": "Mumbwa"
     },
     {
-      "name": "Ndola",
-      "id": "kwNeg3ZC7wH8"
+      "id": "ndola",
+      "name": "Ndola"
     },
     {
-      "name": "Siavonga",
-      "id": "xt3L4ykL0mja"
+      "id": "siavonga",
+      "name": "Siavonga"
     },
     {
-      "name": "Solwezi",
-      "id": "cGaNKYUz_-l7"
+      "id": "solwezi",
+      "name": "Solwezi"
     }
   ]
 }

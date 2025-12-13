@@ -2,44 +2,44 @@
   "coid": "MV",
   "cities": [
     {
-      "name": "Malé",
-      "id": "aF4xOAv_0Snz"
+      "id": "male",
+      "name": "Malé"
     },
     {
-      "name": "Addu City",
-      "id": "WfB8FbO9w15_"
+      "id": "addu-city",
+      "name": "Addu City"
     },
     {
-      "name": "Fuvahmulah",
-      "id": "FZbMJWgbPtBG"
+      "id": "fuvahmulah",
+      "name": "Fuvahmulah"
     },
     {
-      "name": "Kulhudhuffushi",
-      "id": "uLsTuKTFSn6p"
+      "id": "kulhudhuffushi",
+      "name": "Kulhudhuffushi"
     },
     {
-      "name": "Thinadhoo",
-      "id": "nMqEkI9s1a6h"
+      "id": "thinadhoo",
+      "name": "Thinadhoo"
     },
     {
-      "name": "Naifaru",
-      "id": "ORfInz2BAWMl"
+      "id": "naifaru",
+      "name": "Naifaru"
     },
     {
-      "name": "Hithadhoo",
-      "id": "wFecm5sGBRoB"
+      "id": "hithadhoo",
+      "name": "Hithadhoo"
     },
     {
-      "name": "Mahibadhoo",
-      "id": "rC9IGyVKIFxi"
+      "id": "mahibadhoo",
+      "name": "Mahibadhoo"
     },
     {
-      "name": "Eydhafushi",
-      "id": "z6uX0kaXr4SV"
+      "id": "eydhafushi",
+      "name": "Eydhafushi"
     },
     {
-      "name": "Dhidhdhoo",
-      "id": "0g9jNf_l8UC8"
+      "id": "dhidhdhoo",
+      "name": "Dhidhdhoo"
     }
   ]
 }

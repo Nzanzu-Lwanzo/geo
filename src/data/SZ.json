@@ -2,44 +2,44 @@
   "coid": "SZ",
   "cities": [
     {
-      "name": "Mbabane",
-      "id": "maFMyowEGCtD"
+      "id": "mbabane",
+      "name": "Mbabane"
     },
     {
-      "name": "Manzini",
-      "id": "7TvnNLWv0IL4"
+      "id": "manzini",
+      "name": "Manzini"
     },
     {
-      "name": "Lobamba",
-      "id": "C66kFUN1bXNM"
+      "id": "lobamba",
+      "name": "Lobamba"
     },
     {
-      "name": "Siteki",
-      "id": "KsFZXFTzVYng"
+      "id": "siteki",
+      "name": "Siteki"
     },
     {
-      "name": "Piggs Peak",
-      "id": "kk8fqyxXbpWv"
+      "id": "piggs-peak",
+      "name": "Piggs Peak"
     },
     {
-      "name": "Nhlangano",
-      "id": "D_1G_IToLJCq"
+      "id": "nhlangano",
+      "name": "Nhlangano"
     },
     {
-      "name": "Malkerns",
-      "id": "_Z9jVBeTuWQF"
+      "id": "malkerns",
+      "name": "Malkerns"
     },
     {
-      "name": "Big Bend",
-      "id": "GGr7-evgemTb"
+      "id": "big-bend",
+      "name": "Big Bend"
     },
     {
-      "name": "Matsapha",
-      "id": "8GOHOc91WGF7"
+      "id": "matsapha",
+      "name": "Matsapha"
     },
     {
-      "name": "Hlatikulu",
-      "id": "ehkin-HaIFrv"
+      "id": "hlatikulu",
+      "name": "Hlatikulu"
     }
   ]
 }

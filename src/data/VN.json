@@ -2,452 +2,452 @@
   "coid": "VN",
   "cities": [
     {
-      "name": "An Dinh",
-      "id": "-OBii9D1EIty"
+      "id": "an-dinh",
+      "name": "An Dinh"
     },
     {
-      "name": "An Giang",
-      "id": "MSrIJCTcRhMV"
+      "id": "an-giang",
+      "name": "An Giang"
     },
     {
-      "name": "An Nhon",
-      "id": "c0O9R28hlo5P"
+      "id": "an-nhon",
+      "name": "An Nhon"
     },
     {
-      "name": "An Tam",
-      "id": "3NJLv3Q6Pks0"
+      "id": "an-tam",
+      "name": "An Tam"
     },
     {
-      "name": "An Thanh",
-      "id": "z4cO8_K1JQ8I"
+      "id": "an-thanh",
+      "name": "An Thanh"
     },
     {
-      "name": "Ap Sai Gon",
-      "id": "YXlO19toJE-R"
+      "id": "ap-sai-gon",
+      "name": "Ap Sai Gon"
     },
     {
-      "name": "Ap Trung",
-      "id": "IQHN8oHjf5bb"
+      "id": "ap-trung",
+      "name": "Ap Trung"
     },
     {
-      "name": "Bac Giang",
-      "id": "So0xwY74DmWp"
+      "id": "bac-giang",
+      "name": "Bac Giang"
     },
     {
-      "name": "Bac Kan",
-      "id": "jRNWgoW3IlYG"
+      "id": "bac-kan",
+      "name": "Bac Kan"
     },
     {
-      "name": "Bac Ninh",
-      "id": "PQSZnUkdTkr8"
+      "id": "bac-ninh",
+      "name": "Bac Ninh"
     },
     {
-      "name": "Bach Ma",
-      "id": "t9_Vc9CptY5z"
+      "id": "bach-ma",
+      "name": "Bach Ma"
     },
     {
-      "name": "Bang",
-      "id": "UkhXcpk6sYEF"
+      "id": "bang",
+      "name": "Bang"
     },
     {
-      "name": "Ben Nghe",
-      "id": "CBftqEOOdkI9"
+      "id": "ben-nghe",
+      "name": "Ben Nghe"
     },
     {
-      "name": "Ben Than",
-      "id": "RypCRzrA7994"
+      "id": "ben-than",
+      "name": "Ben Than"
     },
     {
-      "name": "Bien Hoa",
-      "id": "N65SMxSQKUx4"
+      "id": "bien-hoa",
+      "name": "Bien Hoa"
     },
     {
-      "name": "Binh Phuoc",
-      "id": "BoB_HLMRIqbH"
+      "id": "binh-phuoc",
+      "name": "Binh Phuoc"
     },
     {
-      "name": "Binh Thanh",
-      "id": "VJEGjS3trIEj"
+      "id": "binh-thanh",
+      "name": "Binh Thanh"
     },
     {
-      "name": "Binh Thoai",
-      "id": "k7UhIPNJ6G8p"
+      "id": "binh-thoai",
+      "name": "Binh Thoai"
     },
     {
-      "name": "Buon Ma Thuot",
-      "id": "8lT0lHaaj67j"
+      "id": "buon-ma-thuot",
+      "name": "Buon Ma Thuot"
     },
     {
-      "name": "Ca Mau",
-      "id": "RTdvtGZHHNAl"
+      "id": "ca-mau",
+      "name": "Ca Mau"
     },
     {
-      "name": "Cam Pha",
-      "id": "oSn--sT_96iG"
+      "id": "cam-pha",
+      "name": "Cam Pha"
     },
     {
-      "name": "Can Tho",
-      "id": "BaCUNrnTBsk7"
+      "id": "can-tho",
+      "name": "Can Tho"
     },
     {
-      "name": "Cho Ha",
-      "id": "eQrrx8GY8Y3r"
+      "id": "cho-ha",
+      "name": "Cho Ha"
     },
     {
-      "name": "Chuong Duong",
-      "id": "b6ZJbA5DWG0I"
+      "id": "chuong-duong",
+      "name": "Chuong Duong"
     },
     {
-      "name": "Co Giang",
-      "id": "ycQuGhNnqEEs"
+      "id": "co-giang",
+      "name": "Co Giang"
     },
     {
-      "name": "Da Lat",
-      "id": "8rxL5WPX-mUH"
+      "id": "da-lat",
+      "name": "Da Lat"
     },
     {
-      "name": "Da Nang",
-      "id": "pUEgw86OiGnk"
+      "id": "da-nang",
+      "name": "Da Nang"
     },
     {
-      "name": "Dac Loc",
-      "id": "H_2PPCLZNGtz"
+      "id": "dac-loc",
+      "name": "Dac Loc"
     },
     {
-      "name": "Di An",
-      "id": "UhhKeHboq5_O"
+      "id": "di-an",
+      "name": "Di An"
     },
     {
-      "name": "Dien Bien Phu",
-      "id": "B8PL8sxYRhw2"
+      "id": "dien-bien-phu",
+      "name": "Dien Bien Phu"
     },
     {
-      "name": "Dinh Long",
-      "id": "WGfzk8iGBqpA"
+      "id": "dinh-long",
+      "name": "Dinh Long"
     },
     {
-      "name": "Dong",
-      "id": "pIhwKJ1FIrLv"
+      "id": "dong",
+      "name": "Dong"
     },
     {
-      "name": "Dong Nai",
-      "id": "5vCAoL1B4kDt"
+      "id": "dong-nai",
+      "name": "Dong Nai"
     },
     {
-      "name": "Dong Thap",
-      "id": "H54uz3yQ2rP7"
+      "id": "dong-thap",
+      "name": "Dong Thap"
     },
     {
-      "name": "Duc Thang",
-      "id": "3tQecPzc8VgX"
+      "id": "duc-thang",
+      "name": "Duc Thang"
     },
     {
-      "name": "Giong Ngai",
-      "id": "pVQNWFe82hcj"
+      "id": "giong-ngai",
+      "name": "Giong Ngai"
     },
     {
-      "name": "Giong Truong",
-      "id": "ra1h8Lrn78kT"
+      "id": "giong-truong",
+      "name": "Giong Truong"
     },
     {
-      "name": "Go Vap",
-      "id": "nybOPqp_7RYQ"
+      "id": "go-vap",
+      "name": "Go Vap"
     },
     {
-      "name": "Ha Dong",
-      "id": "W_gq2MfDKMYi"
+      "id": "ha-dong",
+      "name": "Ha Dong"
     },
     {
-      "name": "Ha Long",
-      "id": "0AQMKDt3ZAuK"
+      "id": "ha-long",
+      "name": "Ha Long"
     },
     {
-      "name": "Ha Nam",
-      "id": "Fej2amsdziId"
+      "id": "ha-nam",
+      "name": "Ha Nam"
     },
     {
-      "name": "Ha Tinh",
-      "id": "cDocukudEc68"
+      "id": "ha-tinh",
+      "name": "Ha Tinh"
     },
     {
-      "name": "Haiphong",
-      "id": "SMjVq6tvQX9z"
+      "id": "haiphong",
+      "name": "Haiphong"
     },
     {
-      "name": "Hanoi",
-      "id": "wcBZ9hhuOBzD"
+      "id": "hanoi",
+      "name": "Hanoi"
     },
     {
-      "name": "Ho Chi Minh City",
-      "id": "a-IquOiZV2NG"
+      "id": "ho-chi-minh-city",
+      "name": "Ho Chi Minh City"
     },
     {
-      "name": "Hoang Mai",
-      "id": "1BOsxwrq9twa"
+      "id": "hoang-mai",
+      "name": "Hoang Mai"
     },
     {
-      "name": "Hung Yen",
-      "id": "0zG4AqYiBbap"
+      "id": "hung-yen",
+      "name": "Hung Yen"
     },
     {
-      "name": "Huong Tinh",
-      "id": "e8qIy4-PIxTw"
+      "id": "huong-tinh",
+      "name": "Huong Tinh"
     },
     {
-      "name": "Khanh Hoa",
-      "id": "Gm_HsTm-1_nm"
+      "id": "khanh-hoa",
+      "name": "Khanh Hoa"
     },
     {
-      "name": "Kon Tum",
-      "id": "AMe-1CabcrHX"
+      "id": "kon-tum",
+      "name": "Kon Tum"
     },
     {
-      "name": "Lang Dung",
-      "id": "PQYeIb1CPadW"
+      "id": "lang-dung",
+      "name": "Lang Dung"
     },
     {
-      "name": "Lang Hong",
-      "id": "aLR5277hItVo"
+      "id": "lang-hong",
+      "name": "Lang Hong"
     },
     {
-      "name": "Lang Son",
-      "id": "acQBAQgKMe26"
+      "id": "lang-son",
+      "name": "Lang Son"
     },
     {
-      "name": "Lao Cai",
-      "id": "Jer4dyqrR_4g"
+      "id": "lao-cai",
+      "name": "Lao Cai"
     },
     {
-      "name": "Le Loi",
-      "id": "UdiHjxMsEM4K"
+      "id": "le-loi",
+      "name": "Le Loi"
     },
     {
-      "name": "Long An",
-      "id": "Xk8EYPh5eVAu"
+      "id": "long-an",
+      "name": "Long An"
     },
     {
-      "name": "Long Tan",
-      "id": "5U-znYJQ57_9"
+      "id": "long-tan",
+      "name": "Long Tan"
     },
     {
-      "name": "Long Van",
-      "id": "kSw7vrUeTZHH"
+      "id": "long-van",
+      "name": "Long Van"
     },
     {
-      "name": "Luong Hoi",
-      "id": "mMLEed8CS46v"
+      "id": "luong-hoi",
+      "name": "Luong Hoi"
     },
     {
-      "name": "Minh Khai",
-      "id": "DHzCsol42tXd"
+      "id": "minh-khai",
+      "name": "Minh Khai"
     },
     {
-      "name": "Nghi Loc",
-      "id": "tKVS5MHTb748"
+      "id": "nghi-loc",
+      "name": "Nghi Loc"
     },
     {
-      "name": "Nha Be",
-      "id": "2RwVEYyhvYjb"
+      "id": "nha-be",
+      "name": "Nha Be"
     },
     {
-      "name": "Nha Trang",
-      "id": "MEdVjYJL4vUH"
+      "id": "nha-trang",
+      "name": "Nha Trang"
     },
     {
-      "name": "Phan Thon",
-      "id": "vt3b8dNBT6g2"
+      "id": "phan-thon",
+      "name": "Phan Thon"
     },
     {
-      "name": "Phu Nhuan",
-      "id": "IAbkeSBp87xP"
+      "id": "phu-nhuan",
+      "name": "Phu Nhuan"
     },
     {
-      "name": "Phu Tho",
-      "id": "4QkCwS34xGSC"
+      "id": "phu-tho",
+      "name": "Phu Tho"
     },
     {
-      "name": "Phu Xuyen",
-      "id": "T34V0C7vmMlF"
+      "id": "phu-xuyen",
+      "name": "Phu Xuyen"
     },
     {
-      "name": "Phu Yen",
-      "id": "9k1ceSpa7BPw"
+      "id": "phu-yen",
+      "name": "Phu Yen"
     },
     {
-      "name": "Phuong Tan",
-      "id": "7rkaehd6xJ4S"
+      "id": "phuong-tan",
+      "name": "Phuong Tan"
     },
     {
-      "name": "Pleiku",
-      "id": "JsxN03zF3kLm"
+      "id": "pleiku",
+      "name": "Pleiku"
     },
     {
-      "name": "Quan Ngoc",
-      "id": "PPDMpd1YfWCO"
+      "id": "quan-ngoc",
+      "name": "Quan Ngoc"
     },
     {
-      "name": "Quan Trang",
-      "id": "HqTALIABxcvg"
+      "id": "quan-trang",
+      "name": "Quan Trang"
     },
     {
-      "name": "Quang Nam",
-      "id": "kKqS_9fUspFb"
+      "id": "quang-nam",
+      "name": "Quang Nam"
     },
     {
-      "name": "Quang Tri",
-      "id": "4RxmEo6IbBpa"
+      "id": "quang-tri",
+      "name": "Quang Tri"
     },
     {
-      "name": "Quang Trung",
-      "id": "iqQbhOEx62kn"
+      "id": "quang-trung",
+      "name": "Quang Trung"
     },
     {
-      "name": "Qui Nhon",
-      "id": "EPUsmJQT_F70"
+      "id": "qui-nhon",
+      "name": "Qui Nhon"
     },
     {
-      "name": "Soc Trang",
-      "id": "FwcrPwQJWJNK"
+      "id": "soc-trang",
+      "name": "Soc Trang"
     },
     {
-      "name": "Tam Ky",
-      "id": "MMiruw3h2wLR"
+      "id": "tam-ky",
+      "name": "Tam Ky"
     },
     {
-      "name": "Tan Binh",
-      "id": "ptBm0HMADKV8"
+      "id": "tan-binh",
+      "name": "Tan Binh"
     },
     {
-      "name": "Tan Thuan Dong",
-      "id": "RSey8tB6Nkrf"
+      "id": "tan-thuan-dong",
+      "name": "Tan Thuan Dong"
     },
     {
-      "name": "Tang",
-      "id": "gzyPoM-J08TF"
+      "id": "tang",
+      "name": "Tang"
     },
     {
-      "name": "Tay Ninh",
-      "id": "ykAlh3eI5XGa"
+      "id": "tay-ninh",
+      "name": "Tay Ninh"
     },
     {
-      "name": "Thach That",
-      "id": "YOHp3ARZIgIU"
+      "id": "thach-that",
+      "name": "Thach That"
     },
     {
-      "name": "Thanh Nguyen",
-      "id": "wGpvY2ZoEuKf"
+      "id": "thanh-nguyen",
+      "name": "Thanh Nguyen"
     },
     {
-      "name": "Thanh Pho Ha Giang",
-      "id": "FR4ux84cDl0-"
+      "id": "thanh-pho-ha-giang",
+      "name": "Thanh Pho Ha Giang"
     },
     {
-      "name": "Thanh Pho Hai Duong",
-      "id": "gbEU5xlu-rYA"
+      "id": "thanh-pho-hai-duong",
+      "name": "Thanh Pho Hai Duong"
     },
     {
-      "name": "Thanh Pho Hoa Binh",
-      "id": "Gdl_fNSFthKd"
+      "id": "thanh-pho-hoa-binh",
+      "name": "Thanh Pho Hoa Binh"
     },
     {
-      "name": "Thanh Pho Ninh Binh",
-      "id": "qXgfLdOdcpd9"
+      "id": "thanh-pho-ninh-binh",
+      "name": "Thanh Pho Ninh Binh"
     },
     {
-      "name": "Thanh Pho Thai Binh",
-      "id": "pNXnL6BL54_M"
+      "id": "thanh-pho-thai-binh",
+      "name": "Thanh Pho Thai Binh"
     },
     {
-      "name": "Thanh Pho Thai Nguyen",
-      "id": "EjbVijLlmqI0"
+      "id": "thanh-pho-thai-nguyen",
+      "name": "Thanh Pho Thai Nguyen"
     },
     {
-      "name": "Thanh Pho Tuyen Quang",
-      "id": "TFOz7a6YAIZD"
+      "id": "thanh-pho-tuyen-quang",
+      "name": "Thanh Pho Tuyen Quang"
     },
     {
-      "name": "Thon Bao An",
-      "id": "87IXeJFTPsZQ"
+      "id": "thon-bao-an",
+      "name": "Thon Bao An"
     },
     {
-      "name": "Thong Nhat",
-      "id": "v17KV0H_EQUN"
+      "id": "thong-nhat",
+      "name": "Thong Nhat"
     },
     {
-      "name": "Thu Dau Mot",
-      "id": "-kBgrRGtEedt"
+      "id": "thu-dau-mot",
+      "name": "Thu Dau Mot"
     },
     {
-      "name": "Thu Duc",
-      "id": "JTiykaeUJBkq"
+      "id": "thu-duc",
+      "name": "Thu Duc"
     },
     {
-      "name": "Thuan An",
-      "id": "iAoun4I42KdK"
+      "id": "thuan-an",
+      "name": "Thuan An"
     },
     {
-      "name": "Thuan Cong",
-      "id": "35OYbaR9GqjK"
+      "id": "thuan-cong",
+      "name": "Thuan Cong"
     },
     {
-      "name": "Tra Vinh",
-      "id": "rEl1oxzfmI0f"
+      "id": "tra-vinh",
+      "name": "Tra Vinh"
     },
     {
-      "name": "Trao",
-      "id": "jOEZcyOMFh1K"
+      "id": "trao",
+      "name": "Trao"
     },
     {
-      "name": "Truong Lam",
-      "id": "exzn7Tugi0kc"
+      "id": "truong-lam",
+      "name": "Truong Lam"
     },
     {
-      "name": "Truong Son",
-      "id": "82dX0jQ0KA1j"
+      "id": "truong-son",
+      "name": "Truong Son"
     },
     {
-      "name": "Van Hai",
-      "id": "Z3y0yC_VSIRu"
+      "id": "van-hai",
+      "name": "Van Hai"
     },
     {
-      "name": "Van Tan",
-      "id": "qYNuturiIUgG"
+      "id": "van-tan",
+      "name": "Van Tan"
     },
     {
-      "name": "Vi Thanh",
-      "id": "hlRefkpu5DlW"
+      "id": "vi-thanh",
+      "name": "Vi Thanh"
     },
     {
-      "name": "Vinh",
-      "id": "K-vu5kstNitX"
+      "id": "vinh",
+      "name": "Vinh"
     },
     {
-      "name": "Vinh Long",
-      "id": "yppFLfoTM31M"
+      "id": "vinh-long",
+      "name": "Vinh Long"
     },
     {
-      "name": "Vinh Yen",
-      "id": "K1RRQ3PNOVCD"
+      "id": "vinh-yen",
+      "name": "Vinh Yen"
     },
     {
-      "name": "Xom Phuoc My",
-      "id": "GktVDRIKW4GH"
+      "id": "xom-phuoc-my",
+      "name": "Xom Phuoc My"
     },
     {
-      "name": "Xom Thang",
-      "id": "df7ek3WfZWgz"
+      "id": "xom-thang",
+      "name": "Xom Thang"
     },
     {
-      "name": "Xom Truong Dinh",
-      "id": "UA2WwNps_7K-"
+      "id": "xom-truong-dinh",
+      "name": "Xom Truong Dinh"
     },
     {
-      "name": "Yen Bai",
-      "id": "mFhpaIelZZUR"
+      "id": "yen-bai",
+      "name": "Yen Bai"
     },
     {
-      "name": "Yen Thanh",
-      "id": "CXIQTOfGz8kt"
+      "id": "yen-thanh",
+      "name": "Yen Thanh"
     }
   ]
 }

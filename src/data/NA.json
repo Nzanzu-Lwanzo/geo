@@ -2,68 +2,68 @@
   "coid": "NA",
   "cities": [
     {
-      "name": "Etunda",
-      "id": "qOvMLi2x2W_r"
+      "id": "etunda",
+      "name": "Etunda"
     },
     {
-      "name": "Grootfontein",
-      "id": "tifDORCCJ6uF"
+      "id": "grootfontein",
+      "name": "Grootfontein"
     },
     {
-      "name": "Katima Mulilo",
-      "id": "hH8CzPNCAOV_"
+      "id": "katima-mulilo",
+      "name": "Katima Mulilo"
     },
     {
-      "name": "Keetmanshoop",
-      "id": "cpoIT2_ZGz69"
+      "id": "keetmanshoop",
+      "name": "Keetmanshoop"
     },
     {
-      "name": "Mpapuka",
-      "id": "1pT0GYzWPDTE"
+      "id": "mpapuka",
+      "name": "Mpapuka"
     },
     {
-      "name": "Olympia",
-      "id": "LaIph_8bQTBI"
+      "id": "olympia",
+      "name": "Olympia"
     },
     {
-      "name": "Ondangwa",
-      "id": "fVlNgY0ifB-v"
+      "id": "ondangwa",
+      "name": "Ondangwa"
     },
     {
-      "name": "Ongwediva",
-      "id": "zYAbJkQXM7B8"
+      "id": "ongwediva",
+      "name": "Ongwediva"
     },
     {
-      "name": "Oranjemund",
-      "id": "AEkcWhFBjtqD"
+      "id": "oranjemund",
+      "name": "Oranjemund"
     },
     {
-      "name": "Oshakati",
-      "id": "Cw_z7GBqQE9-"
+      "id": "oshakati",
+      "name": "Oshakati"
     },
     {
-      "name": "Otjiwarongo",
-      "id": "2gsEY2bltHOk"
+      "id": "otjiwarongo",
+      "name": "Otjiwarongo"
     },
     {
-      "name": "Outapi",
-      "id": "2Kxp_wNInCXG"
+      "id": "outapi",
+      "name": "Outapi"
     },
     {
-      "name": "Swakopmund",
-      "id": "PwKDrUA76c-R"
+      "id": "swakopmund",
+      "name": "Swakopmund"
     },
     {
-      "name": "Tsumeb",
-      "id": "lx2cVoF0OIaO"
+      "id": "tsumeb",
+      "name": "Tsumeb"
     },
     {
-      "name": "Walvis Bay",
-      "id": "-FUv7wfUEk5j"
+      "id": "walvis-bay",
+      "name": "Walvis Bay"
     },
     {
-      "name": "Windhoek",
-      "id": "GNhnimCVT9Ot"
+      "id": "windhoek",
+      "name": "Windhoek"
     }
   ]
 }

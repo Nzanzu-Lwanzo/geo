@@ -2,44 +2,44 @@
   "coid": "MH",
   "cities": [
     {
-      "name": "Majuro",
-      "id": "xfRmoB3Jrn7W"
+      "id": "majuro",
+      "name": "Majuro"
     },
     {
-      "name": "Ebeye",
-      "id": "DrpQ5uD4INRJ"
+      "id": "ebeye",
+      "name": "Ebeye"
     },
     {
-      "name": "Rongelap",
-      "id": "9L_WRjuTwKUF"
+      "id": "rongelap",
+      "name": "Rongelap"
     },
     {
-      "name": "Wotje",
-      "id": "kTA6pyPn_w4s"
+      "id": "wotje",
+      "name": "Wotje"
     },
     {
-      "name": "Jaluit",
-      "id": "JK39B2zmY53w"
+      "id": "jaluit",
+      "name": "Jaluit"
     },
     {
-      "name": "Ailinglaplap",
-      "id": "1DKQt2jA3vD_"
+      "id": "ailinglaplap",
+      "name": "Ailinglaplap"
     },
     {
-      "name": "Arno",
-      "id": "oj4fm6QwWZOp"
+      "id": "arno",
+      "name": "Arno"
     },
     {
-      "name": "Likiep",
-      "id": "22LyWVgKdCrT"
+      "id": "likiep",
+      "name": "Likiep"
     },
     {
-      "name": "Maloelap",
-      "id": "qguNVXhKi01j"
+      "id": "maloelap",
+      "name": "Maloelap"
     },
     {
-      "name": "Utrik",
-      "id": "_7tF2NfWiwub"
+      "id": "utrik",
+      "name": "Utrik"
     }
   ]
 }

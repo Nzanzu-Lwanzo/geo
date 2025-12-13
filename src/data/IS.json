@@ -2,76 +2,76 @@
   "coid": "IS",
   "cities": [
     {
-      "name": "Akranes",
-      "id": "GsiXb4ZJov8O"
+      "id": "akranes",
+      "name": "Akranes"
     },
     {
-      "name": "Akureyri",
-      "id": "01hUscevNLii"
+      "id": "akureyri",
+      "name": "Akureyri"
     },
     {
-      "name": "Borgarnes",
-      "id": "SoFNsabIykgl"
+      "id": "borgarnes",
+      "name": "Borgarnes"
     },
     {
-      "name": "Dalvik",
-      "id": "7pR2OABEQrYk"
+      "id": "dalvik",
+      "name": "Dalvik"
     },
     {
-      "name": "Grindavik",
-      "id": "rBcrVoyogFxy"
+      "id": "grindavik",
+      "name": "Grindavik"
     },
     {
-      "name": "Hella",
-      "id": "GlJickt7VvT_"
+      "id": "hella",
+      "name": "Hella"
     },
     {
-      "name": "Holmavik",
-      "id": "ixu6mVWTbO17"
+      "id": "holmavik",
+      "name": "Holmavik"
     },
     {
-      "name": "Husavik",
-      "id": "hEOJNZ_zKnyN"
+      "id": "husavik",
+      "name": "Husavik"
     },
     {
-      "name": "Hvammstangi",
-      "id": "u700Kz2XFXv4"
+      "id": "hvammstangi",
+      "name": "Hvammstangi"
     },
     {
-      "name": "Hveragerdi",
-      "id": "-kHbK4ZViU9a"
+      "id": "hveragerdi",
+      "name": "Hveragerdi"
     },
     {
-      "name": "Hvolsvollur",
-      "id": "sXwW31mI-cdm"
+      "id": "hvolsvollur",
+      "name": "Hvolsvollur"
     },
     {
-      "name": "Kopavogur",
-      "id": "yrO9bzgiADKp"
+      "id": "kopavogur",
+      "name": "Kopavogur"
     },
     {
-      "name": "Reykjavik",
-      "id": "6xpTqXbenJ-f"
+      "id": "reykjavik",
+      "name": "Reykjavik"
     },
     {
-      "name": "Selfoss",
-      "id": "cVOgeXdnQjd4"
+      "id": "selfoss",
+      "name": "Selfoss"
     },
     {
-      "name": "Skagastrond",
-      "id": "-pwOqXnBqYuI"
+      "id": "skagastrond",
+      "name": "Skagastrond"
     },
     {
-      "name": "Stokkseyri",
-      "id": "4cT-AwalBDMJ"
+      "id": "stokkseyri",
+      "name": "Stokkseyri"
     },
     {
-      "name": "Vestmannaeyjar",
-      "id": "8ui5FT9FD5kZ"
+      "id": "vestmannaeyjar",
+      "name": "Vestmannaeyjar"
     },
     {
-      "name": "Vogar",
-      "id": "G1IfA3kd8q3Z"
+      "id": "vogar",
+      "name": "Vogar"
     }
   ]
 }

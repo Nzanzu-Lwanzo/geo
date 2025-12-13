@@ -2,332 +2,332 @@
   "coid": "PE",
   "cities": [
     {
-      "name": "Abancay",
-      "id": "qil5c1M2AO2y"
+      "id": "abancay",
+      "name": "Abancay"
     },
     {
-      "name": "Arequipa",
-      "id": "UyR9SPZTNTmX"
+      "id": "arequipa",
+      "name": "Arequipa"
     },
     {
-      "name": "Ate",
-      "id": "V4yN0Kjn9RX0"
+      "id": "ate",
+      "name": "Ate"
     },
     {
-      "name": "Ayacucho",
-      "id": "Tx4YVdRccnSJ"
+      "id": "ayacucho",
+      "name": "Ayacucho"
     },
     {
-      "name": "Bagua",
-      "id": "juJvMR6zFkAW"
+      "id": "bagua",
+      "name": "Bagua"
     },
     {
-      "name": "Barranca",
-      "id": "5NFLMwb2ls34"
+      "id": "barranca",
+      "name": "Barranca"
     },
     {
-      "name": "Barranco",
-      "id": "OCw7jO0h-Fu8"
+      "id": "barranco",
+      "name": "Barranco"
     },
     {
-      "name": "Bellavista",
-      "id": "jGb_Krx5LJt2"
+      "id": "bellavista",
+      "name": "Bellavista"
     },
     {
-      "name": "Bolivar",
-      "id": "5m2V5rfVJOUk"
+      "id": "bolivar",
+      "name": "Bolivar"
     },
     {
-      "name": "Cajamarca",
-      "id": "og81RnhM7pGt"
+      "id": "cajamarca",
+      "name": "Cajamarca"
     },
     {
-      "name": "Callao",
-      "id": "vwCg-9operK3"
+      "id": "callao",
+      "name": "Callao"
     },
     {
-      "name": "Calle",
-      "id": "_u0KpbMqCrm0"
+      "id": "calle",
+      "name": "Calle"
     },
     {
-      "name": "Caras",
-      "id": "WoFjvhLjpiYa"
+      "id": "caras",
+      "name": "Caras"
     },
     {
-      "name": "Cerro de Pasco",
-      "id": "Myv0S5Moi1Y6"
+      "id": "cerro-de-pasco",
+      "name": "Cerro de Pasco"
     },
     {
-      "name": "Chachapoyas",
-      "id": "XtgWrUVBUvTF"
+      "id": "chachapoyas",
+      "name": "Chachapoyas"
     },
     {
-      "name": "Chiclayo",
-      "id": "6ytoEqIAa_y6"
+      "id": "chiclayo",
+      "name": "Chiclayo"
     },
     {
-      "name": "Chimbote",
-      "id": "oyDb-O78Nt1L"
+      "id": "chimbote",
+      "name": "Chimbote"
     },
     {
-      "name": "Chincha",
-      "id": "3kYU_9M8syH4"
+      "id": "chincha",
+      "name": "Chincha"
     },
     {
-      "name": "Cusco",
-      "id": "fLJ4MDz1Ugg3"
+      "id": "cusco",
+      "name": "Cusco"
     },
     {
-      "name": "Cuzco",
-      "id": "Isj-DyuJdbzg"
+      "id": "cuzco",
+      "name": "Cuzco"
     },
     {
-      "name": "El Agustino",
-      "id": "9PCnG6oBpnrq"
+      "id": "el-agustino",
+      "name": "El Agustino"
     },
     {
-      "name": "Hacienda La Palma",
-      "id": "WKPx5T05lr7Y"
+      "id": "hacienda-la-palma",
+      "name": "Hacienda La Palma"
     },
     {
-      "name": "Huacho",
-      "id": "yMLVRVKduwAB"
+      "id": "huacho",
+      "name": "Huacho"
     },
     {
-      "name": "Huancavelica",
-      "id": "PZTAMZCYp5TN"
+      "id": "huancavelica",
+      "name": "Huancavelica"
     },
     {
-      "name": "Huancayo",
-      "id": "b8M-nb4oi01Y"
+      "id": "huancayo",
+      "name": "Huancayo"
     },
     {
-      "name": "Huaral",
-      "id": "VMwIpaXw8oRj"
+      "id": "huaral",
+      "name": "Huaral"
     },
     {
-      "name": "Huaraz",
-      "id": "ZZaIosIXhZRs"
+      "id": "huaraz",
+      "name": "Huaraz"
     },
     {
-      "name": "Huaytara",
-      "id": "9tqxtjE1iaY2"
+      "id": "huaytara",
+      "name": "Huaytara"
     },
     {
-      "name": "Ica",
-      "id": "kds1yybTryb6"
+      "id": "ica",
+      "name": "Ica"
     },
     {
-      "name": "Ilo",
-      "id": "x_RZA0BI5U_i"
+      "id": "ilo",
+      "name": "Ilo"
     },
     {
-      "name": "Imperial",
-      "id": "YQE_jFYbvs3F"
+      "id": "imperial",
+      "name": "Imperial"
     },
     {
-      "name": "Iquitos",
-      "id": "FhKlFMQ8I0rX"
+      "id": "iquitos",
+      "name": "Iquitos"
     },
     {
-      "name": "Jaen",
-      "id": "AcuT_B-jli2P"
+      "id": "jaen",
+      "name": "Jaen"
     },
     {
-      "name": "Jesus Maria",
-      "id": "Vj80Z6xl6Y41"
+      "id": "jesus-maria",
+      "name": "Jesus Maria"
     },
     {
-      "name": "Jose Olaya",
-      "id": "Lgo_KkH_OqKv"
+      "id": "jose-olaya",
+      "name": "Jose Olaya"
     },
     {
-      "name": "Juliaca",
-      "id": "J3BRUtStYY5F"
+      "id": "juliaca",
+      "name": "Juliaca"
     },
     {
-      "name": "Junin",
-      "id": "N2ZInUsDzHPc"
+      "id": "junin",
+      "name": "Junin"
     },
     {
-      "name": "La Molina",
-      "id": "eO7_r9rqoLmQ"
+      "id": "la-molina",
+      "name": "La Molina"
     },
     {
-      "name": "La Perla",
-      "id": "AenlvBI6_2oT"
+      "id": "la-perla",
+      "name": "La Perla"
     },
     {
-      "name": "La Punta",
-      "id": "htx4I3pWkQYh"
+      "id": "la-punta",
+      "name": "La Punta"
     },
     {
-      "name": "Lambayeque",
-      "id": "FjfecdapLbLc"
+      "id": "lambayeque",
+      "name": "Lambayeque"
     },
     {
-      "name": "Lima",
-      "id": "Gz71lcL_H-YB"
+      "id": "lima",
+      "name": "Lima"
     },
     {
-      "name": "Lince",
-      "id": "Lr-vbblTQOzk"
+      "id": "lince",
+      "name": "Lince"
     },
     {
-      "name": "Loreto",
-      "id": "DIe4V4WyRnN8"
+      "id": "loreto",
+      "name": "Loreto"
     },
     {
-      "name": "Lurigancho",
-      "id": "foCztxnbMG3u"
+      "id": "lurigancho",
+      "name": "Lurigancho"
     },
     {
-      "name": "Machu Picchu",
-      "id": "4OsGOfnruIwu"
+      "id": "machu-picchu",
+      "name": "Machu Picchu"
     },
     {
-      "name": "Maldonado",
-      "id": "K6uRFHbCgGYy"
+      "id": "maldonado",
+      "name": "Maldonado"
     },
     {
-      "name": "Minas de Marcona",
-      "id": "Wz6NFHEhm5OJ"
+      "id": "minas-de-marcona",
+      "name": "Minas de Marcona"
     },
     {
-      "name": "Miraflores",
-      "id": "l9qToZH_LsfG"
+      "id": "miraflores",
+      "name": "Miraflores"
     },
     {
-      "name": "Moquegua",
-      "id": "dGAQSJKiZ2zR"
+      "id": "moquegua",
+      "name": "Moquegua"
     },
     {
-      "name": "Moyobamba",
-      "id": "XBvEefwN3Ntj"
+      "id": "moyobamba",
+      "name": "Moyobamba"
     },
     {
-      "name": "Pasco",
-      "id": "IxlkVSyisphk"
+      "id": "pasco",
+      "name": "Pasco"
     },
     {
-      "name": "Paucarpata",
-      "id": "6_Ku1cBCjzh5"
+      "id": "paucarpata",
+      "name": "Paucarpata"
     },
     {
-      "name": "Pimentel",
-      "id": "pw43kYNVRPZc"
+      "id": "pimentel",
+      "name": "Pimentel"
     },
     {
-      "name": "Pisco",
-      "id": "1qeWK8RTekv2"
+      "id": "pisco",
+      "name": "Pisco"
     },
     {
-      "name": "Piura",
-      "id": "UiJXDTdLN0KH"
+      "id": "piura",
+      "name": "Piura"
     },
     {
-      "name": "Progreso",
-      "id": "3ATRUjbCkdGu"
+      "id": "progreso",
+      "name": "Progreso"
     },
     {
-      "name": "Pucallpa",
-      "id": "daQ1qhs_9AEW"
+      "id": "pucallpa",
+      "name": "Pucallpa"
     },
     {
-      "name": "Puerto Inca",
-      "id": "pJ8T08Twt_v4"
+      "id": "puerto-inca",
+      "name": "Puerto Inca"
     },
     {
-      "name": "Puerto Maldonado",
-      "id": "lkZOYb_hkQK8"
+      "id": "puerto-maldonado",
+      "name": "Puerto Maldonado"
     },
     {
-      "name": "Puno",
-      "id": "ccuvW0JLmAzQ"
+      "id": "puno",
+      "name": "Puno"
     },
     {
-      "name": "Rimac",
-      "id": "A3m-gXD6fnPT"
+      "id": "rimac",
+      "name": "Rimac"
     },
     {
-      "name": "Rioja",
-      "id": "CtCpOW4pTIFA"
+      "id": "rioja",
+      "name": "Rioja"
     },
     {
-      "name": "San Borja",
-      "id": "OyhD4JwiA28t"
+      "id": "san-borja",
+      "name": "San Borja"
     },
     {
-      "name": "San Isidro",
-      "id": "mgxjxXXAvaf6"
+      "id": "san-isidro",
+      "name": "San Isidro"
     },
     {
-      "name": "San Juan Bautista",
-      "id": "kz6nGEPL3XP-"
+      "id": "san-juan-bautista",
+      "name": "San Juan Bautista"
     },
     {
-      "name": "San Martin",
-      "id": "YzBTm2zTWKt4"
+      "id": "san-martin",
+      "name": "San Martin"
     },
     {
-      "name": "San Miguel",
-      "id": "CwqFV7GyBuVk"
+      "id": "san-miguel",
+      "name": "San Miguel"
     },
     {
-      "name": "Santa",
-      "id": "3mlN1oNLAcKq"
+      "id": "santa",
+      "name": "Santa"
     },
     {
-      "name": "Santiago",
-      "id": "qCLumeHJLG0a"
+      "id": "santiago",
+      "name": "Santiago"
     },
     {
-      "name": "Santiago De Surco",
-      "id": "3lTWf5rA_WYd"
+      "id": "santiago-de-surco",
+      "name": "Santiago De Surco"
     },
     {
-      "name": "Sullana",
-      "id": "LVRZDnIbswmR"
+      "id": "sullana",
+      "name": "Sullana"
     },
     {
-      "name": "Surco",
-      "id": "NCkz6noVneEB"
+      "id": "surco",
+      "name": "Surco"
     },
     {
-      "name": "Surquillo",
-      "id": "Rnu-nAJoqhFi"
+      "id": "surquillo",
+      "name": "Surquillo"
     },
     {
-      "name": "Tacna",
-      "id": "KK9iEAJYcRTq"
+      "id": "tacna",
+      "name": "Tacna"
     },
     {
-      "name": "Talara",
-      "id": "Q3C0KrwS35G7"
+      "id": "talara",
+      "name": "Talara"
     },
     {
-      "name": "Tarapoto",
-      "id": "ru3PBQhYBepq"
+      "id": "tarapoto",
+      "name": "Tarapoto"
     },
     {
-      "name": "Tingo Maria",
-      "id": "iYaGA4l2tcnT"
+      "id": "tingo-maria",
+      "name": "Tingo Maria"
     },
     {
-      "name": "Trujillo",
-      "id": "7KKKs10yByeK"
+      "id": "trujillo",
+      "name": "Trujillo"
     },
     {
-      "name": "Tumbes",
-      "id": "9uXHY39Zf2fk"
+      "id": "tumbes",
+      "name": "Tumbes"
     },
     {
-      "name": "Ventanilla",
-      "id": "c72cR5VSsFSv"
+      "id": "ventanilla",
+      "name": "Ventanilla"
     },
     {
-      "name": "Victoria",
-      "id": "UdFSBQ8F8MiP"
+      "id": "victoria",
+      "name": "Victoria"
     }
   ]
 }

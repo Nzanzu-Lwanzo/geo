@@ -2,96 +2,96 @@
   "coid": "DO",
   "cities": [
     {
-      "name": "Arenazo",
-      "id": "JYNxiZ6GOXYO"
+      "id": "arenazo",
+      "name": "Arenazo"
     },
     {
-      "name": "Bavaro",
-      "id": "tpZ0iYaJcyJz"
+      "id": "bavaro",
+      "name": "Bavaro"
     },
     {
-      "name": "Boca Chica",
-      "id": "CH7OYPdLTpxI"
+      "id": "boca-chica",
+      "name": "Boca Chica"
     },
     {
-      "name": "Cabarete",
-      "id": "afhHVxLdVGGd"
+      "id": "cabarete",
+      "name": "Cabarete"
     },
     {
-      "name": "Cotui",
-      "id": "UsgjCQ5nxIGL"
+      "id": "cotui",
+      "name": "Cotui"
     },
     {
-      "name": "Dominica",
-      "id": "7HIxCdSveDnl"
+      "id": "dominica",
+      "name": "Dominica"
     },
     {
-      "name": "Guaricano",
-      "id": "IIJ6L2hdoTXI"
+      "id": "guaricano",
+      "name": "Guaricano"
     },
     {
-      "name": "Hato Mayor del Rey",
-      "id": "S21Ww7G0p05Y"
+      "id": "hato-mayor-del-rey",
+      "name": "Hato Mayor del Rey"
     },
     {
-      "name": "Jimani",
-      "id": "hdnu2sFN58h1"
+      "id": "jimani",
+      "name": "Jimani"
     },
     {
-      "name": "La Romana",
-      "id": "NS5GSltn9E_l"
+      "id": "la-romana",
+      "name": "La Romana"
     },
     {
-      "name": "Los Alcarrizos",
-      "id": "wYkJwzkE0nvU"
+      "id": "los-alcarrizos",
+      "name": "Los Alcarrizos"
     },
     {
-      "name": "Los Prados",
-      "id": "jS2oRLpbxAwT"
+      "id": "los-prados",
+      "name": "Los Prados"
     },
     {
-      "name": "Moca",
-      "id": "stkDRDItfmK3"
+      "id": "moca",
+      "name": "Moca"
     },
     {
-      "name": "Pedernales",
-      "id": "Gb1NwLDB54di"
+      "id": "pedernales",
+      "name": "Pedernales"
     },
     {
-      "name": "Puerto Plata",
-      "id": "TcmxxpI0bJv_"
+      "id": "puerto-plata",
+      "name": "Puerto Plata"
     },
     {
-      "name": "Punta Cana",
-      "id": "3i7-WCz5vl5n"
+      "id": "punta-cana",
+      "name": "Punta Cana"
     },
     {
-      "name": "Sabaneta",
-      "id": "aGIPNMN6esel"
+      "id": "sabaneta",
+      "name": "Sabaneta"
     },
     {
-      "name": "San Cristobal",
-      "id": "SZLlxXccY3w9"
+      "id": "san-cristobal",
+      "name": "San Cristobal"
     },
     {
-      "name": "San Fernando de Monte Cristi",
-      "id": "8DCufyuPXOkk"
+      "id": "san-fernando-de-monte-cristi",
+      "name": "San Fernando de Monte Cristi"
     },
     {
-      "name": "San Jose de Ocoa",
-      "id": "SccC33pNEl5I"
+      "id": "san-jose-de-ocoa",
+      "name": "San Jose de Ocoa"
     },
     {
-      "name": "Santa Cruz de Barahona",
-      "id": "2XieHNUbehmb"
+      "id": "santa-cruz-de-barahona",
+      "name": "Santa Cruz de Barahona"
     },
     {
-      "name": "Santiago de los Caballeros",
-      "id": "Guj93UQzDw_H"
+      "id": "santiago-de-los-caballeros",
+      "name": "Santiago de los Caballeros"
     },
     {
-      "name": "Santo Domingo",
-      "id": "dsr7yOaPKWrY"
+      "id": "santo-domingo",
+      "name": "Santo Domingo"
     }
   ]
 }

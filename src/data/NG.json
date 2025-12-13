@@ -2,344 +2,344 @@
   "coid": "NG",
   "cities": [
     {
-      "name": "Aba",
-      "id": "LS7qiinIrl3Y"
+      "id": "aba",
+      "name": "Aba"
     },
     {
-      "name": "Abakaliki",
-      "id": "k0bhHCsINXBu"
+      "id": "abakaliki",
+      "name": "Abakaliki"
     },
     {
-      "name": "Abeokuta",
-      "id": "BzqbkcvBW-ru"
+      "id": "abeokuta",
+      "name": "Abeokuta"
     },
     {
-      "name": "Abraka",
-      "id": "HHTUyvGY4pCC"
+      "id": "abraka",
+      "name": "Abraka"
     },
     {
-      "name": "Abuja",
-      "id": "QEjKDsVqFdRR"
+      "id": "abuja",
+      "name": "Abuja"
     },
     {
-      "name": "Ado-Ekiti",
-      "id": "hdYSRo3rewNZ"
+      "id": "ado-ekiti",
+      "name": "Ado-Ekiti"
     },
     {
-      "name": "Adodo",
-      "id": "PO9O7fHsG4LP"
+      "id": "adodo",
+      "name": "Adodo"
     },
     {
-      "name": "Aganga",
-      "id": "xYnqN_i8QWJU"
+      "id": "aganga",
+      "name": "Aganga"
     },
     {
-      "name": "Agege",
-      "id": "QedFlIcfp6Xf"
+      "id": "agege",
+      "name": "Agege"
     },
     {
-      "name": "Agidingbi",
-      "id": "ZfdxC9rXS6rL"
+      "id": "agidingbi",
+      "name": "Agidingbi"
     },
     {
-      "name": "Ajegunle",
-      "id": "fQQ4lZsrlMLw"
+      "id": "ajegunle",
+      "name": "Ajegunle"
     },
     {
-      "name": "Ajuwon",
-      "id": "s_b0I-BsPvyQ"
+      "id": "ajuwon",
+      "name": "Ajuwon"
     },
     {
-      "name": "Akure",
-      "id": "up7uG1B7w51f"
+      "id": "akure",
+      "name": "Akure"
     },
     {
-      "name": "Alimosho",
-      "id": "67QCN7AMmQay"
+      "id": "alimosho",
+      "name": "Alimosho"
     },
     {
-      "name": "Anambra",
-      "id": "v4JUEZA5K2yn"
+      "id": "anambra",
+      "name": "Anambra"
     },
     {
-      "name": "Apapa",
-      "id": "c2LDw30w4YNq"
+      "id": "apapa",
+      "name": "Apapa"
     },
     {
-      "name": "Ayobo",
-      "id": "B6vJ9aCG7p1q"
+      "id": "ayobo",
+      "name": "Ayobo"
     },
     {
-      "name": "Benin City",
-      "id": "zSzqDYxJUhrY"
+      "id": "benin-city",
+      "name": "Benin City"
     },
     {
-      "name": "Birnin Kebbi",
-      "id": "0fE3Qjg85jfW"
+      "id": "birnin-kebbi",
+      "name": "Birnin Kebbi"
     },
     {
-      "name": "Bonny",
-      "id": "3tFGSXYtEa_U"
+      "id": "bonny",
+      "name": "Bonny"
     },
     {
-      "name": "Burutu",
-      "id": "fDGIfdVSeZzg"
+      "id": "burutu",
+      "name": "Burutu"
     },
     {
-      "name": "Bwari",
-      "id": "XeeJTexbzMVN"
+      "id": "bwari",
+      "name": "Bwari"
     },
     {
-      "name": "Calabar",
-      "id": "6TJUOq8_bL1O"
+      "id": "calabar",
+      "name": "Calabar"
     },
     {
-      "name": "Chafe",
-      "id": "8W-vjyIhlJGi"
+      "id": "chafe",
+      "name": "Chafe"
     },
     {
-      "name": "Damaturu",
-      "id": "ac8Cpxwww5_M"
+      "id": "damaturu",
+      "name": "Damaturu"
     },
     {
-      "name": "Egbeda",
-      "id": "AI07_Ug2YwJK"
+      "id": "egbeda",
+      "name": "Egbeda"
     },
     {
-      "name": "Ekpoma",
-      "id": "5o9jxDoefr9J"
+      "id": "ekpoma",
+      "name": "Ekpoma"
     },
     {
-      "name": "Enugu",
-      "id": "NZHZCRiSkvd9"
+      "id": "enugu",
+      "name": "Enugu"
     },
     {
-      "name": "Forum",
-      "id": "Xb8tLjCqdaF9"
+      "id": "forum",
+      "name": "Forum"
     },
     {
-      "name": "Funtua",
-      "id": "r2ikEf-OE0mw"
+      "id": "funtua",
+      "name": "Funtua"
     },
     {
-      "name": "Ibadan",
-      "id": "wQJaZNXUiuuQ"
+      "id": "ibadan",
+      "name": "Ibadan"
     },
     {
-      "name": "Ido",
-      "id": "AEetGCjqPk__"
+      "id": "ido",
+      "name": "Ido"
     },
     {
-      "name": "Ifako",
-      "id": "tLmimOC6t_fj"
+      "id": "ifako",
+      "name": "Ifako"
     },
     {
-      "name": "Igando",
-      "id": "DzuW8QRK7Ayt"
+      "id": "igando",
+      "name": "Igando"
     },
     {
-      "name": "Igueben",
-      "id": "_zVZHrftaROn"
+      "id": "igueben",
+      "name": "Igueben"
     },
     {
-      "name": "Ikeja",
-      "id": "revhvE-feV4Q"
+      "id": "ikeja",
+      "name": "Ikeja"
     },
     {
-      "name": "Ikorodu",
-      "id": "bnvApH8cZxtE"
+      "id": "ikorodu",
+      "name": "Ikorodu"
     },
     {
-      "name": "Ikotun",
-      "id": "M6t47jWkXNAb"
+      "id": "ikotun",
+      "name": "Ikotun"
     },
     {
-      "name": "Ile-Ife",
-      "id": "0YOMDV--XvCH"
+      "id": "ile-ife",
+      "name": "Ile-Ife"
     },
     {
-      "name": "Ilesa",
-      "id": "FQVcA6CH76Ms"
+      "id": "ilesa",
+      "name": "Ilesa"
     },
     {
-      "name": "Ilorin",
-      "id": "eks97v6A4x8V"
+      "id": "ilorin",
+      "name": "Ilorin"
     },
     {
-      "name": "Ipaja",
-      "id": "cAAi5SqLgP7f"
+      "id": "ipaja",
+      "name": "Ipaja"
     },
     {
-      "name": "Iseri-Oke",
-      "id": "-ehGzNL9pMXm"
+      "id": "iseri-oke",
+      "name": "Iseri-Oke"
     },
     {
-      "name": "Isolo",
-      "id": "jQv2glJ1X_uP"
+      "id": "isolo",
+      "name": "Isolo"
     },
     {
-      "name": "Jalingo",
-      "id": "EBLgc6xFY_4g"
+      "id": "jalingo",
+      "name": "Jalingo"
     },
     {
-      "name": "Jos",
-      "id": "voFCf-R_lq_6"
+      "id": "jos",
+      "name": "Jos"
     },
     {
-      "name": "Kaduna",
-      "id": "YGs-3cobsqxJ"
+      "id": "kaduna",
+      "name": "Kaduna"
     },
     {
-      "name": "Kano",
-      "id": "psgyL33q6o57"
+      "id": "kano",
+      "name": "Kano"
     },
     {
-      "name": "Kebbi",
-      "id": "J5Z6R2JDvcL7"
+      "id": "kebbi",
+      "name": "Kebbi"
     },
     {
-      "name": "Lagos",
-      "id": "z_UlFaeMEK84"
+      "id": "lagos",
+      "name": "Lagos"
     },
     {
-      "name": "Lekki",
-      "id": "wqrhLpi-DqNw"
+      "id": "lekki",
+      "name": "Lekki"
     },
     {
-      "name": "Lokoja",
-      "id": "qUbBiXsmv-SB"
+      "id": "lokoja",
+      "name": "Lokoja"
     },
     {
-      "name": "Magodo",
-      "id": "lAQ_UnbmY_BJ"
+      "id": "magodo",
+      "name": "Magodo"
     },
     {
-      "name": "Makurdi",
-      "id": "BSR29bnwHhfS"
+      "id": "makurdi",
+      "name": "Makurdi"
     },
     {
-      "name": "Maryland",
-      "id": "dXL0ttKvmuec"
+      "id": "maryland",
+      "name": "Maryland"
     },
     {
-      "name": "Minna",
-      "id": "XsekQDRcEiqA"
+      "id": "minna",
+      "name": "Minna"
     },
     {
-      "name": "Mogho",
-      "id": "W0Zk2RG2LJHb"
+      "id": "mogho",
+      "name": "Mogho"
     },
     {
-      "name": "Mowe",
-      "id": "8Jxht-3c9pGE"
+      "id": "mowe",
+      "name": "Mowe"
     },
     {
-      "name": "Mushin",
-      "id": "G1RarwG-fdJL"
+      "id": "mushin",
+      "name": "Mushin"
     },
     {
-      "name": "Nsukka",
-      "id": "F33KAW4RXpOe"
+      "id": "nsukka",
+      "name": "Nsukka"
     },
     {
-      "name": "Obafemi",
-      "id": "VPDP1I9Z0qzb"
+      "id": "obafemi",
+      "name": "Obafemi"
     },
     {
-      "name": "Obudu",
-      "id": "_4uQxjGO6yWD"
+      "id": "obudu",
+      "name": "Obudu"
     },
     {
-      "name": "Odau",
-      "id": "YjofVGsC6Oay"
+      "id": "odau",
+      "name": "Odau"
     },
     {
-      "name": "Ojo",
-      "id": "k3Ey-xQiRY3o"
+      "id": "ojo",
+      "name": "Ojo"
     },
     {
-      "name": "Ojota",
-      "id": "6R_omMUELv2N"
+      "id": "ojota",
+      "name": "Ojota"
     },
     {
-      "name": "Ondo",
-      "id": "rBpHWc6dpm-4"
+      "id": "ondo",
+      "name": "Ondo"
     },
     {
-      "name": "Onigbongbo",
-      "id": "IIx0QXQdoGBT"
+      "id": "onigbongbo",
+      "name": "Onigbongbo"
     },
     {
-      "name": "Orile Oshodi",
-      "id": "clqrbl5suEpi"
+      "id": "orile-oshodi",
+      "name": "Orile Oshodi"
     },
     {
-      "name": "Oshodi",
-      "id": "PIwKYATYsDJ9"
+      "id": "oshodi",
+      "name": "Oshodi"
     },
     {
-      "name": "Osogbo",
-      "id": "b1KwDUJ4jmnS"
+      "id": "osogbo",
+      "name": "Osogbo"
     },
     {
-      "name": "Ota",
-      "id": "Ss1Q_VmViD--"
+      "id": "ota",
+      "name": "Ota"
     },
     {
-      "name": "Owerri",
-      "id": "zLgq89187HX5"
+      "id": "owerri",
+      "name": "Owerri"
     },
     {
-      "name": "Oworonsoki",
-      "id": "J9Ew9ZpLHOdv"
+      "id": "oworonsoki",
+      "name": "Oworonsoki"
     },
     {
-      "name": "Port Harcourt",
-      "id": "-UgkMOuBcb7g"
+      "id": "port-harcourt",
+      "name": "Port Harcourt"
     },
     {
-      "name": "Shomolu",
-      "id": "DV4X052Z7x3v"
+      "id": "shomolu",
+      "name": "Shomolu"
     },
     {
-      "name": "Suleja",
-      "id": "A5SurI_T5CkW"
+      "id": "suleja",
+      "name": "Suleja"
     },
     {
-      "name": "Suru-Lere",
-      "id": "2s1v3ifbBFlu"
+      "id": "suru-lere",
+      "name": "Suru-Lere"
     },
     {
-      "name": "Tara",
-      "id": "CJXIFfUjDux4"
+      "id": "tara",
+      "name": "Tara"
     },
     {
-      "name": "Ughelli",
-      "id": "qNFP-_zscNJ9"
+      "id": "ughelli",
+      "name": "Ughelli"
     },
     {
-      "name": "Ungwan Madaki",
-      "id": "zwd5VBuMa7p0"
+      "id": "ungwan-madaki",
+      "name": "Ungwan Madaki"
     },
     {
-      "name": "Uyo",
-      "id": "ewBrtPDxdBnE"
+      "id": "uyo",
+      "name": "Uyo"
     },
     {
-      "name": "Warri",
-      "id": "cZsmNsYGNlJI"
+      "id": "warri",
+      "name": "Warri"
     },
     {
-      "name": "Yaba",
-      "id": "EDAG6UJRo5ua"
+      "id": "yaba",
+      "name": "Yaba"
     },
     {
-      "name": "Yola",
-      "id": "M2wdB7JMXVz7"
+      "id": "yola",
+      "name": "Yola"
     },
     {
-      "name": "Zaria",
-      "id": "DlYW_goGs3uh"
+      "id": "zaria",
+      "name": "Zaria"
     }
   ]
 }

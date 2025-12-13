@@ -2,140 +2,140 @@
   "coid": "SG",
   "cities": [
     {
-      "name": "Ang Mo Kio New Town",
-      "id": "BFI37_zuu9JI"
+      "id": "ang-mo-kio-new-town",
+      "name": "Ang Mo Kio New Town"
     },
     {
-      "name": "Ayer Raja New Town",
-      "id": "uACIHnTSqdBR"
+      "id": "ayer-raja-new-town",
+      "name": "Ayer Raja New Town"
     },
     {
-      "name": "Bedok New Town",
-      "id": "Y8936lIdDtR7"
+      "id": "bedok-new-town",
+      "name": "Bedok New Town"
     },
     {
-      "name": "Boon Lay",
-      "id": "0EL7S12vj6fy"
+      "id": "boon-lay",
+      "name": "Boon Lay"
     },
     {
-      "name": "Bukit Batok New Town",
-      "id": "9ZDwt5nr4Kt4"
+      "id": "bukit-batok-new-town",
+      "name": "Bukit Batok New Town"
     },
     {
-      "name": "Bukit Panjang New Town",
-      "id": "nNBRMMFRqBC4"
+      "id": "bukit-panjang-new-town",
+      "name": "Bukit Panjang New Town"
     },
     {
-      "name": "Bukit Timah",
-      "id": "PMemdxtkXaIQ"
+      "id": "bukit-timah",
+      "name": "Bukit Timah"
     },
     {
-      "name": "Bukit Timah Estate",
-      "id": "1oCuoeWd1ZgW"
+      "id": "bukit-timah-estate",
+      "name": "Bukit Timah Estate"
     },
     {
-      "name": "Changi Village",
-      "id": "FulRugkrEGR4"
+      "id": "changi-village",
+      "name": "Changi Village"
     },
     {
-      "name": "Choa Chu Kang New Town",
-      "id": "TTjltRcQSnPt"
+      "id": "choa-chu-kang-new-town",
+      "name": "Choa Chu Kang New Town"
     },
     {
-      "name": "Clementi New Town",
-      "id": "_To1ydzACcgV"
+      "id": "clementi-new-town",
+      "name": "Clementi New Town"
     },
     {
-      "name": "Holland Village",
-      "id": "8UYIpQ_QIbEP"
+      "id": "holland-village",
+      "name": "Holland Village"
     },
     {
-      "name": "Hougang",
-      "id": "3oP08rEm8yah"
+      "id": "hougang",
+      "name": "Hougang"
     },
     {
-      "name": "Jurong East New Town",
-      "id": "krcglldYo2H0"
+      "id": "jurong-east-new-town",
+      "name": "Jurong East New Town"
     },
     {
-      "name": "Jurong Town",
-      "id": "kykJjd2n8hkX"
+      "id": "jurong-town",
+      "name": "Jurong Town"
     },
     {
-      "name": "Jurong West New Town",
-      "id": "ozhS5-KRxawZ"
+      "id": "jurong-west-new-town",
+      "name": "Jurong West New Town"
     },
     {
-      "name": "Kalang",
-      "id": "CaMLw8BWfxHo"
+      "id": "kalang",
+      "name": "Kalang"
     },
     {
-      "name": "Kampong Pasir Ris",
-      "id": "kAfZUJ6k17K0"
+      "id": "kampong-pasir-ris",
+      "name": "Kampong Pasir Ris"
     },
     {
-      "name": "Kembangan",
-      "id": "UgbnaJE1TDF3"
+      "id": "kembangan",
+      "name": "Kembangan"
     },
     {
-      "name": "Pandan Valley",
-      "id": "XnXXlxPe2IED"
+      "id": "pandan-valley",
+      "name": "Pandan Valley"
     },
     {
-      "name": "Pasir Panjang",
-      "id": "NcU9W7zzGfkG"
+      "id": "pasir-panjang",
+      "name": "Pasir Panjang"
     },
     {
-      "name": "Punggol",
-      "id": "olqaOxQ_IBER"
+      "id": "punggol",
+      "name": "Punggol"
     },
     {
-      "name": "Queenstown Estate",
-      "id": "b9EfzYSpe-dt"
+      "id": "queenstown-estate",
+      "name": "Queenstown Estate"
     },
     {
-      "name": "Serangoon",
-      "id": "fMmypFnb1MGM"
+      "id": "serangoon",
+      "name": "Serangoon"
     },
     {
-      "name": "Simei New Town",
-      "id": "3fE8kKYW5Vma"
+      "id": "simei-new-town",
+      "name": "Simei New Town"
     },
     {
-      "name": "Singapore",
-      "id": "vgIW63Fm3KlH"
+      "id": "singapore",
+      "name": "Singapore"
     },
     {
-      "name": "Tai Seng",
-      "id": "Z9aVZItlcbU6"
+      "id": "tai-seng",
+      "name": "Tai Seng"
     },
     {
-      "name": "Tampines New Town",
-      "id": "3mQC3vzUIIYv"
+      "id": "tampines-new-town",
+      "name": "Tampines New Town"
     },
     {
-      "name": "Tanglin Halt",
-      "id": "4M0dJuJmy0Jr"
+      "id": "tanglin-halt",
+      "name": "Tanglin Halt"
     },
     {
-      "name": "Tanjong Pagar",
-      "id": "TfolHxOvjkbZ"
+      "id": "tanjong-pagar",
+      "name": "Tanjong Pagar"
     },
     {
-      "name": "Toa Payoh New Town",
-      "id": "xQhOkiqvSthq"
+      "id": "toa-payoh-new-town",
+      "name": "Toa Payoh New Town"
     },
     {
-      "name": "Woodlands New Town",
-      "id": "Ro7PZcohYFO2"
+      "id": "woodlands-new-town",
+      "name": "Woodlands New Town"
     },
     {
-      "name": "Yew Tee",
-      "id": "MBjJ3buviDH9"
+      "id": "yew-tee",
+      "name": "Yew Tee"
     },
     {
-      "name": "Yishun New Town",
-      "id": "kQ_NEuyvCByk"
+      "id": "yishun-new-town",
+      "name": "Yishun New Town"
     }
   ]
 }

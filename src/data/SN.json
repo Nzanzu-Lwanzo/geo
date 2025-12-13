@@ -2,52 +2,52 @@
   "coid": "SN",
   "cities": [
     {
-      "name": "Boussinki",
-      "id": "-6IsmoU39ABf"
+      "id": "boussinki",
+      "name": "Boussinki"
     },
     {
-      "name": "Camberene",
-      "id": "39jJjwkTiMa8"
+      "id": "camberene",
+      "name": "Camberene"
     },
     {
-      "name": "Dakar",
-      "id": "6iPQuL1Hrx1X"
+      "id": "dakar",
+      "name": "Dakar"
     },
     {
-      "name": "Dodji",
-      "id": "jAzQXeLpcaqt"
+      "id": "dodji",
+      "name": "Dodji"
     },
     {
-      "name": "Guediawaye",
-      "id": "Vuu4O8QfA1i_"
+      "id": "guediawaye",
+      "name": "Guediawaye"
     },
     {
-      "name": "Kaolack",
-      "id": "I9qFyCxsjGdm"
+      "id": "kaolack",
+      "name": "Kaolack"
     },
     {
-      "name": "Kedougou",
-      "id": "gEzOodqtlX4z"
+      "id": "kedougou",
+      "name": "Kedougou"
     },
     {
-      "name": "Louga",
-      "id": "oiVqtNOHAlcy"
+      "id": "louga",
+      "name": "Louga"
     },
     {
-      "name": "Madina Kokoun",
-      "id": "12alzTgZrUtC"
+      "id": "madina-kokoun",
+      "name": "Madina Kokoun"
     },
     {
-      "name": "Saint-Louis",
-      "id": "ofBR_Bs_9Av1"
+      "id": "saint-louis",
+      "name": "Saint-Louis"
     },
     {
-      "name": "Sama",
-      "id": "NXjxkEIz9wLK"
+      "id": "sama",
+      "name": "Sama"
     },
     {
-      "name": "Tanaf",
-      "id": "p4esvbCbvqWN"
+      "id": "tanaf",
+      "name": "Tanaf"
     }
   ]
 }

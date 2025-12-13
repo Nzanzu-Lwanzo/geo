@@ -2,44 +2,44 @@
   "coid": "JO",
   "cities": [
     {
-      "name": "Amman",
-      "id": "C4RqQmolOOBQ"
+      "id": "amman",
+      "name": "Amman"
     },
     {
-      "name": "Zarqa",
-      "id": "F9qOgaHZaDxz"
+      "id": "zarqa",
+      "name": "Zarqa"
     },
     {
-      "name": "Irbid",
-      "id": "s12Zly6MCcW7"
+      "id": "irbid",
+      "name": "Irbid"
     },
     {
-      "name": "Russeifa",
-      "id": "PDH3ECDhvtK7"
+      "id": "russeifa",
+      "name": "Russeifa"
     },
     {
-      "name": "Aqaba",
-      "id": "ChqaX-7qHY08"
+      "id": "aqaba",
+      "name": "Aqaba"
     },
     {
-      "name": "Mafraq",
-      "id": "GUC6TPKbPzqt"
+      "id": "mafraq",
+      "name": "Mafraq"
     },
     {
-      "name": "Salt",
-      "id": "VqJOyGlYTrpD"
+      "id": "salt",
+      "name": "Salt"
     },
     {
-      "name": "Madaba",
-      "id": "Nk2Oi2lQavah"
+      "id": "madaba",
+      "name": "Madaba"
     },
     {
-      "name": "Jerash",
-      "id": "tSCpefyDVlZA"
+      "id": "jerash",
+      "name": "Jerash"
     },
     {
-      "name": "Karak",
-      "id": "227LEhBCa_ru"
+      "id": "karak",
+      "name": "Karak"
     }
   ]
 }

@@ -2,44 +2,44 @@
   "coid": "DJ",
   "cities": [
     {
-      "name": "Djibouti City",
-      "id": "Iu4dyCR5xo7j"
+      "id": "djibouti-city",
+      "name": "Djibouti City"
     },
     {
-      "name": "Ali Sabieh",
-      "id": "Rw2zpBFZAJ8X"
+      "id": "ali-sabieh",
+      "name": "Ali Sabieh"
     },
     {
-      "name": "Tadjoura",
-      "id": "3LPSTSraX7Yg"
+      "id": "tadjoura",
+      "name": "Tadjoura"
     },
     {
-      "name": "Obock",
-      "id": "opJuPCxi3IjN"
+      "id": "obock",
+      "name": "Obock"
     },
     {
-      "name": "Dikhil",
-      "id": "iyemJ75WHPQ6"
+      "id": "dikhil",
+      "name": "Dikhil"
     },
     {
-      "name": "Arta",
-      "id": "IRhV-cIGsUYI"
+      "id": "arta",
+      "name": "Arta"
     },
     {
-      "name": "Holhol",
-      "id": "k86xXoiGehbi"
+      "id": "holhol",
+      "name": "Holhol"
     },
     {
-      "name": "Balho",
-      "id": "_DFUR243E6mm"
+      "id": "balho",
+      "name": "Balho"
     },
     {
-      "name": "Yoboki",
-      "id": "-v3aiMZwVU4m"
+      "id": "yoboki",
+      "name": "Yoboki"
     },
     {
-      "name": "Randa",
-      "id": "MLTRxHlEDxPW"
+      "id": "randa",
+      "name": "Randa"
     }
   ]
 }

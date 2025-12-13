@@ -2,44 +2,44 @@
   "coid": "CF",
   "cities": [
     {
-      "name": "Bangui",
-      "id": "fo4HvaZT2V-v"
+      "id": "bangui",
+      "name": "Bangui"
     },
     {
-      "name": "Bimbo",
-      "id": "LrHY2dmzj-Yy"
+      "id": "bimbo",
+      "name": "Bimbo"
     },
     {
-      "name": "Berbérati",
-      "id": "uWjI_Oz7K5sC"
+      "id": "berberati",
+      "name": "Berbérati"
     },
     {
-      "name": "Kaga-Bandoro",
-      "id": "9VGvTr34IOWh"
+      "id": "kaga-bandoro",
+      "name": "Kaga-Bandoro"
     },
     {
-      "name": "Bozoum",
-      "id": "_9vKChte-ytL"
+      "id": "bozoum",
+      "name": "Bozoum"
     },
     {
-      "name": "Carnot",
-      "id": "3ux0-3RWfFk3"
+      "id": "carnot",
+      "name": "Carnot"
     },
     {
-      "name": "Bambari",
-      "id": "uRizpwJ4P_Ow"
+      "id": "bambari",
+      "name": "Bambari"
     },
     {
-      "name": "Bria",
-      "id": "MwVGBr5Q24LW"
+      "id": "bria",
+      "name": "Bria"
     },
     {
-      "name": "Nola",
-      "id": "NgZFhgQxMsxJ"
+      "id": "nola",
+      "name": "Nola"
     },
     {
-      "name": "Mobaye",
-      "id": "eqCjSHYILP2z"
+      "id": "mobaye",
+      "name": "Mobaye"
     }
   ]
 }

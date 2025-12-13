@@ -2,52 +2,52 @@
   "coid": "TN",
   "cities": [
     {
-      "name": "Ariana",
-      "id": "90ygdjXQUlAt"
+      "id": "ariana",
+      "name": "Ariana"
     },
     {
-      "name": "Beja",
-      "id": "ZUQhicZFOwpQ"
+      "id": "beja",
+      "name": "Beja"
     },
     {
-      "name": "Gafsa",
-      "id": "xzUF7NSeJhWc"
+      "id": "gafsa",
+      "name": "Gafsa"
     },
     {
-      "name": "Hammamet",
-      "id": "Xd_LWhYff-Sd"
+      "id": "hammamet",
+      "name": "Hammamet"
     },
     {
-      "name": "Le Bardo",
-      "id": "IrMjUqvZ3MzU"
+      "id": "le-bardo",
+      "name": "Le Bardo"
     },
     {
-      "name": "Manouba",
-      "id": "Hl-YuIK2BUqv"
+      "id": "manouba",
+      "name": "Manouba"
     },
     {
-      "name": "Monastir",
-      "id": "ykfcPkFHPTDi"
+      "id": "monastir",
+      "name": "Monastir"
     },
     {
-      "name": "Rades",
-      "id": "1nJaYgC_G-He"
+      "id": "rades",
+      "name": "Rades"
     },
     {
-      "name": "Sfax",
-      "id": "5fjLSWIhJFsT"
+      "id": "sfax",
+      "name": "Sfax"
     },
     {
-      "name": "Sidi Bouzid",
-      "id": "UNNM2GzYjqqX"
+      "id": "sidi-bouzid",
+      "name": "Sidi Bouzid"
     },
     {
-      "name": "Sousse",
-      "id": "kNT7zGWlmlTm"
+      "id": "sousse",
+      "name": "Sousse"
     },
     {
-      "name": "Tunis",
-      "id": "VerlI2Gn8pEy"
+      "id": "tunis",
+      "name": "Tunis"
     }
   ]
 }

@@ -2,3536 +2,3536 @@
   "coid": "NO",
   "cities": [
     {
-      "name": "Abelvaer",
-      "id": "Ti3gpL0A2_Mq"
+      "id": "abelvaer",
+      "name": "Abelvaer"
     },
     {
-      "name": "Adalsbruk",
-      "id": "_IvzE8vv40dP"
+      "id": "adalsbruk",
+      "name": "Adalsbruk"
     },
     {
-      "name": "Adland",
-      "id": "8ZZEgKApLHNC"
+      "id": "adland",
+      "name": "Adland"
     },
     {
-      "name": "Agotnes",
-      "id": "LkN2CF6wtB_j"
+      "id": "agotnes",
+      "name": "Agotnes"
     },
     {
-      "name": "Agskardet",
-      "id": "pS2tEwJ51hoU"
+      "id": "agskardet",
+      "name": "Agskardet"
     },
     {
-      "name": "Aker",
-      "id": "LsueplOzX_nE"
+      "id": "aker",
+      "name": "Aker"
     },
     {
-      "name": "Akkarfjord",
-      "id": "cmmiK8KDxPE7"
+      "id": "akkarfjord",
+      "name": "Akkarfjord"
     },
     {
-      "name": "Akrehamn",
-      "id": "NbGTb1YaoxOf"
+      "id": "akrehamn",
+      "name": "Akrehamn"
     },
     {
-      "name": "Al",
-      "id": "0uJNDVH1kmI0"
+      "id": "al",
+      "name": "Al"
     },
     {
-      "name": "Alen",
-      "id": "22FH8nU3k7kV"
+      "id": "alen",
+      "name": "Alen"
     },
     {
-      "name": "Algard",
-      "id": "xbGjnu50O59-"
+      "id": "algard",
+      "name": "Algard"
     },
     {
-      "name": "Almas",
-      "id": "BjyGxNiXZ6YD"
+      "id": "almas",
+      "name": "Almas"
     },
     {
-      "name": "Alta",
-      "id": "0iwZS70sgYnj"
+      "id": "alta",
+      "name": "Alta"
     },
     {
-      "name": "Alvdal",
-      "id": "dHEY1vNm3kz2"
+      "id": "alvdal",
+      "name": "Alvdal"
     },
     {
-      "name": "Amli",
-      "id": "w0cfE_ifbRvk"
+      "id": "amli",
+      "name": "Amli"
     },
     {
-      "name": "Amot",
-      "id": "U1REPNpm1Qj2"
+      "id": "amot",
+      "name": "Amot"
     },
     {
-      "name": "Ana-Sira",
-      "id": "juizc7ycCVkK"
+      "id": "ana-sira",
+      "name": "Ana-Sira"
     },
     {
-      "name": "Andalsnes",
-      "id": "p1BcpnMGW8jU"
+      "id": "andalsnes",
+      "name": "Andalsnes"
     },
     {
-      "name": "Andenes",
-      "id": "9LeGaEpkCWI-"
+      "id": "andenes",
+      "name": "Andenes"
     },
     {
-      "name": "Angvika",
-      "id": "g6wPoIKY8w3Q"
+      "id": "angvika",
+      "name": "Angvika"
     },
     {
-      "name": "Ankenes",
-      "id": "dTXNSavivGin"
+      "id": "ankenes",
+      "name": "Ankenes"
     },
     {
-      "name": "Annstad",
-      "id": "Fl331RU8f9FI"
+      "id": "annstad",
+      "name": "Annstad"
     },
     {
-      "name": "Ardal",
-      "id": "3hgu-S2oCYsW"
+      "id": "ardal",
+      "name": "Ardal"
     },
     {
-      "name": "Ardalstangen",
-      "id": "Vr-c4Fe5QHb7"
+      "id": "ardalstangen",
+      "name": "Ardalstangen"
     },
     {
-      "name": "Arendal",
-      "id": "fy5l_sfI5pNK"
+      "id": "arendal",
+      "name": "Arendal"
     },
     {
-      "name": "Arland",
-      "id": "m7uxt-d2v5cR"
+      "id": "arland",
+      "name": "Arland"
     },
     {
-      "name": "Arneberg",
-      "id": "Gl-ik8ug2thD"
+      "id": "arneberg",
+      "name": "Arneberg"
     },
     {
-      "name": "Arnes",
-      "id": "RPd8qgZWOJcS"
+      "id": "arnes",
+      "name": "Arnes"
     },
     {
-      "name": "Aros",
-      "id": "3n8sTpaEVlWw"
+      "id": "aros",
+      "name": "Aros"
     },
     {
-      "name": "As",
-      "id": "8S2t9ZqEJquU"
+      "id": "as",
+      "name": "As"
     },
     {
-      "name": "Asen",
-      "id": "7lnyKWkGLRQG"
+      "id": "asen",
+      "name": "Asen"
     },
     {
-      "name": "Aseral",
-      "id": "jK6CWL8erT9E"
+      "id": "aseral",
+      "name": "Aseral"
     },
     {
-      "name": "Asgardstrand",
-      "id": "-MbJO_lcJGSJ"
+      "id": "asgardstrand",
+      "name": "Asgardstrand"
     },
     {
-      "name": "Ask",
-      "id": "5rCO6QSCGWAf"
+      "id": "ask",
+      "name": "Ask"
     },
     {
-      "name": "Asker",
-      "id": "bIcrJ4WvL-sU"
+      "id": "asker",
+      "name": "Asker"
     },
     {
-      "name": "Askim",
-      "id": "uBLPM-lUBo9_"
+      "id": "askim",
+      "name": "Askim"
     },
     {
-      "name": "Aukra",
-      "id": "hOTFC60wvWgW"
+      "id": "aukra",
+      "name": "Aukra"
     },
     {
-      "name": "Auli",
-      "id": "f0Ik9SgyT9vD"
+      "id": "auli",
+      "name": "Auli"
     },
     {
-      "name": "Aurdal",
-      "id": "6Q0QLqLQ_2bX"
+      "id": "aurdal",
+      "name": "Aurdal"
     },
     {
-      "name": "Aure",
-      "id": "2QQnERPwir3D"
+      "id": "aure",
+      "name": "Aure"
     },
     {
-      "name": "Aursmoen",
-      "id": "4vMdZ8xPVcDZ"
+      "id": "aursmoen",
+      "name": "Aursmoen"
     },
     {
-      "name": "Austbo",
-      "id": "Lipa6OGCeV3J"
+      "id": "austbo",
+      "name": "Austbo"
     },
     {
-      "name": "Austbygdi",
-      "id": "qxM6HaACV66k"
+      "id": "austbygdi",
+      "name": "Austbygdi"
     },
     {
-      "name": "Austevoll",
-      "id": "pZ_atjfDa1hc"
+      "id": "austevoll",
+      "name": "Austevoll"
     },
     {
-      "name": "Austmarka",
-      "id": "JT8p6fGtaSLI"
+      "id": "austmarka",
+      "name": "Austmarka"
     },
     {
-      "name": "Baerums verk",
-      "id": "_SKoJjouzhlW"
+      "id": "baerums-verk",
+      "name": "Baerums verk"
     },
     {
-      "name": "Bagn",
-      "id": "spZnVMAZ2sVQ"
+      "id": "bagn",
+      "name": "Bagn"
     },
     {
-      "name": "Balestrand",
-      "id": "icKi2KUITd6J"
+      "id": "balestrand",
+      "name": "Balestrand"
     },
     {
-      "name": "Ballangen",
-      "id": "9IvnvIxzO2pg"
+      "id": "ballangen",
+      "name": "Ballangen"
     },
     {
-      "name": "Ballstad",
-      "id": "ueVvNCUeTByQ"
+      "id": "ballstad",
+      "name": "Ballstad"
     },
     {
-      "name": "Bangsund",
-      "id": "57-9b7JeoGgr"
+      "id": "bangsund",
+      "name": "Bangsund"
     },
     {
-      "name": "Barkaker",
-      "id": "7BGrvYFUpmj0"
+      "id": "barkaker",
+      "name": "Barkaker"
     },
     {
-      "name": "Barstadvik",
-      "id": "Y1Z0dSt-JIed"
+      "id": "barstadvik",
+      "name": "Barstadvik"
     },
     {
-      "name": "Batnfjordsora",
-      "id": "OhzJH-dEXzfv"
+      "id": "batnfjordsora",
+      "name": "Batnfjordsora"
     },
     {
-      "name": "Batsto",
-      "id": "gMPUvcUR9e1V"
+      "id": "batsto",
+      "name": "Batsto"
     },
     {
-      "name": "Beisfjord",
-      "id": "bRjhC1IgF5SA"
+      "id": "beisfjord",
+      "name": "Beisfjord"
     },
     {
-      "name": "Beitostolen",
-      "id": "65Mq4PPGHois"
+      "id": "beitostolen",
+      "name": "Beitostolen"
     },
     {
-      "name": "Bekkjarvik",
-      "id": "cT2zeR2AgrkG"
+      "id": "bekkjarvik",
+      "name": "Bekkjarvik"
     },
     {
-      "name": "Berge",
-      "id": "OSZurNM5DbGX"
+      "id": "berge",
+      "name": "Berge"
     },
     {
-      "name": "Bergen",
-      "id": "5VqAp1lOuAAb"
+      "id": "bergen",
+      "name": "Bergen"
     },
     {
-      "name": "Berger",
-      "id": "4gee_Jhqvf7O"
+      "id": "berger",
+      "name": "Berger"
     },
     {
-      "name": "Berkak",
-      "id": "sCg8yi0BhC0-"
+      "id": "berkak",
+      "name": "Berkak"
     },
     {
-      "name": "Birkeland",
-      "id": "0l9D3G4801F2"
+      "id": "birkeland",
+      "name": "Birkeland"
     },
     {
-      "name": "Birtavarre",
-      "id": "4DxL64jNVLaL"
+      "id": "birtavarre",
+      "name": "Birtavarre"
     },
     {
-      "name": "Bjaland",
-      "id": "kwPBOtY-Ctps"
+      "id": "bjaland",
+      "name": "Bjaland"
     },
     {
-      "name": "Bjerka",
-      "id": "WLsGgNPIkYsk"
+      "id": "bjerka",
+      "name": "Bjerka"
     },
     {
-      "name": "Bjerkvik",
-      "id": "64M-hKRc1OWL"
+      "id": "bjerkvik",
+      "name": "Bjerkvik"
     },
     {
-      "name": "Bjoneroa",
-      "id": "2ckLn65fxA5I"
+      "id": "bjoneroa",
+      "name": "Bjoneroa"
     },
     {
-      "name": "Bjordal",
-      "id": "Y1AQGKDI2JGW"
+      "id": "bjordal",
+      "name": "Bjordal"
     },
     {
-      "name": "Bjorke",
-      "id": "VtevWWY4iyrP"
+      "id": "bjorke",
+      "name": "Bjorke"
     },
     {
-      "name": "Bjorkelangen",
-      "id": "iwQvi4zZiBXU"
+      "id": "bjorkelangen",
+      "name": "Bjorkelangen"
     },
     {
-      "name": "Bjornevatn",
-      "id": "3TAYnjnGzRK7"
+      "id": "bjornevatn",
+      "name": "Bjornevatn"
     },
     {
-      "name": "Blaker",
-      "id": "6bvv-fvxe5aS"
+      "id": "blaker",
+      "name": "Blaker"
     },
     {
-      "name": "Blakset",
-      "id": "D35pchQ5hL8s"
+      "id": "blakset",
+      "name": "Blakset"
     },
     {
-      "name": "Bleikvasslia",
-      "id": "4K-PUSM2_FJV"
+      "id": "bleikvasslia",
+      "name": "Bleikvasslia"
     },
     {
-      "name": "Bo",
-      "id": "PKV7S1Lo7LrR"
+      "id": "bo",
+      "name": "Bo"
     },
     {
-      "name": "Bomlo",
-      "id": "rEIkPhHVkGD9"
+      "id": "bomlo",
+      "name": "Bomlo"
     },
     {
-      "name": "Bones",
-      "id": "rot-c_BBHLPY"
+      "id": "bones",
+      "name": "Bones"
     },
     {
-      "name": "Borge",
-      "id": "sjM0sgqgw06U"
+      "id": "borge",
+      "name": "Borge"
     },
     {
-      "name": "Borgen",
-      "id": "HeoBpF7Dlob9"
+      "id": "borgen",
+      "name": "Borgen"
     },
     {
-      "name": "Borhaug",
-      "id": "fBX9boahaSoR"
+      "id": "borhaug",
+      "name": "Borhaug"
     },
     {
-      "name": "Borkenes",
-      "id": "0waHFlk6T6ir"
+      "id": "borkenes",
+      "name": "Borkenes"
     },
     {
-      "name": "Borregard",
-      "id": "PivxRGwa9OMw"
+      "id": "borregard",
+      "name": "Borregard"
     },
     {
-      "name": "Bostad",
-      "id": "m-hrJlz7lIjW"
+      "id": "bostad",
+      "name": "Bostad"
     },
     {
-      "name": "Bovagen",
-      "id": "SNm5FL7lU8fk"
+      "id": "bovagen",
+      "name": "Bovagen"
     },
     {
-      "name": "Boverfjorden",
-      "id": "wDuZpg7wEm7l"
+      "id": "boverfjorden",
+      "name": "Boverfjorden"
     },
     {
-      "name": "Brandbu",
-      "id": "wHO06556_vcP"
+      "id": "brandbu",
+      "name": "Brandbu"
     },
     {
-      "name": "Brandval",
-      "id": "jHfQfCG02ufv"
+      "id": "brandval",
+      "name": "Brandval"
     },
     {
-      "name": "Brattholmen",
-      "id": "vgFcvfCIytGi"
+      "id": "brattholmen",
+      "name": "Brattholmen"
     },
     {
-      "name": "Brattvag",
-      "id": "JtBR4b7FhwJr"
+      "id": "brattvag",
+      "name": "Brattvag"
     },
     {
-      "name": "Brekke",
-      "id": "OwGZa721VPnj"
+      "id": "brekke",
+      "name": "Brekke"
     },
     {
-      "name": "Brekstad",
-      "id": "pa-GUMSAtgX-"
+      "id": "brekstad",
+      "name": "Brekstad"
     },
     {
-      "name": "Brennasen",
-      "id": "OFk3SFSN5jnh"
+      "id": "brennasen",
+      "name": "Brennasen"
     },
     {
-      "name": "Brevik",
-      "id": "DWolLaTjCJ4Y"
+      "id": "brevik",
+      "name": "Brevik"
     },
     {
-      "name": "Bronnoysund",
-      "id": "-wxLIuY2syZY"
+      "id": "bronnoysund",
+      "name": "Bronnoysund"
     },
     {
-      "name": "Bru",
-      "id": "Zk1Sdmr4aeUN"
+      "id": "bru",
+      "name": "Bru"
     },
     {
-      "name": "Bruflat",
-      "id": "at2kj1H3PGV9"
+      "id": "bruflat",
+      "name": "Bruflat"
     },
     {
-      "name": "Brumunddal",
-      "id": "uBR7snilvNvy"
+      "id": "brumunddal",
+      "name": "Brumunddal"
     },
     {
-      "name": "Brusand",
-      "id": "ROhc59Nlsbdk"
+      "id": "brusand",
+      "name": "Brusand"
     },
     {
-      "name": "Bruvik",
-      "id": "uynSeNyMRWqM"
+      "id": "bruvik",
+      "name": "Bruvik"
     },
     {
-      "name": "Bryne",
-      "id": "oW-Ys7eL9vEp"
+      "id": "bryne",
+      "name": "Bryne"
     },
     {
-      "name": "Bud",
-      "id": "GOhmcUdhg3v0"
+      "id": "bud",
+      "name": "Bud"
     },
     {
-      "name": "Burfjord",
-      "id": "UGXriGY1gGpj"
+      "id": "burfjord",
+      "name": "Burfjord"
     },
     {
-      "name": "Buskerud",
-      "id": "_Btwbbw_BUnD"
+      "id": "buskerud",
+      "name": "Buskerud"
     },
     {
-      "name": "Buvika",
-      "id": "xBczFN-68RJO"
+      "id": "buvika",
+      "name": "Buvika"
     },
     {
-      "name": "Byglandsfjord",
-      "id": "x3Cx6Q-g5vNy"
+      "id": "byglandsfjord",
+      "name": "Byglandsfjord"
     },
     {
-      "name": "Bygstad",
-      "id": "lXiLMt3yNL7f"
+      "id": "bygstad",
+      "name": "Bygstad"
     },
     {
-      "name": "Bykle",
-      "id": "iakYEW3qDik4"
+      "id": "bykle",
+      "name": "Bykle"
     },
     {
-      "name": "Byrknes Nordre",
-      "id": "RLYZij4EXXuM"
+      "id": "byrknes-nordre",
+      "name": "Byrknes Nordre"
     },
     {
-      "name": "Cavkkus",
-      "id": "INWO6mM3dska"
+      "id": "cavkkus",
+      "name": "Cavkkus"
     },
     {
-      "name": "Dal",
-      "id": "IXs9r4kB2NnO"
+      "id": "dal",
+      "name": "Dal"
     },
     {
-      "name": "Dale",
-      "id": "43oBCFIwHwCb"
+      "id": "dale",
+      "name": "Dale"
     },
     {
-      "name": "Dalen",
-      "id": "vyuCWXHmBs5j"
+      "id": "dalen",
+      "name": "Dalen"
     },
     {
-      "name": "Davik",
-      "id": "xpuhr6s2uyeQ"
+      "id": "davik",
+      "name": "Davik"
     },
     {
-      "name": "Deknepollen",
-      "id": "xsC9ZjHVAJ7X"
+      "id": "deknepollen",
+      "name": "Deknepollen"
     },
     {
-      "name": "Digermulen",
-      "id": "p1zOcDyGXZHI"
+      "id": "digermulen",
+      "name": "Digermulen"
     },
     {
-      "name": "Dilling",
-      "id": "YthSVp8c9O-Z"
+      "id": "dilling",
+      "name": "Dilling"
     },
     {
-      "name": "Dimmelsvik",
-      "id": "Ro3IG3PsvgB7"
+      "id": "dimmelsvik",
+      "name": "Dimmelsvik"
     },
     {
-      "name": "Dirdal",
-      "id": "po9gyqp9EI1q"
+      "id": "dirdal",
+      "name": "Dirdal"
     },
     {
-      "name": "Disena",
-      "id": "c6IOsuoZU3CR"
+      "id": "disena",
+      "name": "Disena"
     },
     {
-      "name": "Dokka",
-      "id": "rhiqZfvOzLNF"
+      "id": "dokka",
+      "name": "Dokka"
     },
     {
-      "name": "Dolemo",
-      "id": "fOO7Tcq7X-o_"
+      "id": "dolemo",
+      "name": "Dolemo"
     },
     {
-      "name": "Dovre",
-      "id": "SpqkteIMuCOm"
+      "id": "dovre",
+      "name": "Dovre"
     },
     {
-      "name": "Drag",
-      "id": "ktSoTlq6sYDR"
+      "id": "drag",
+      "name": "Drag"
     },
     {
-      "name": "Drammen",
-      "id": "vZM9dv484i6Z"
+      "id": "drammen",
+      "name": "Drammen"
     },
     {
-      "name": "Drangedal",
-      "id": "Jg89ysPwEN6x"
+      "id": "drangedal",
+      "name": "Drangedal"
     },
     {
-      "name": "Drobak",
-      "id": "cFlqfeaKnHrx"
+      "id": "drobak",
+      "name": "Drobak"
     },
     {
-      "name": "Dverberg",
-      "id": "kGRXCi9kXzh8"
+      "id": "dverberg",
+      "name": "Dverberg"
     },
     {
-      "name": "Dyrvika",
-      "id": "JzSmlFHFT0UK"
+      "id": "dyrvika",
+      "name": "Dyrvika"
     },
     {
-      "name": "Ebru",
-      "id": "-9MlMThA7Box"
+      "id": "ebru",
+      "name": "Ebru"
     },
     {
-      "name": "Egersund",
-      "id": "lkQ60BaqEzF3"
+      "id": "egersund",
+      "name": "Egersund"
     },
     {
-      "name": "Eggedal",
-      "id": "P0FusyEPhdwK"
+      "id": "eggedal",
+      "name": "Eggedal"
     },
     {
-      "name": "Eggkleiva",
-      "id": "-6pRuc83Hj6T"
+      "id": "eggkleiva",
+      "name": "Eggkleiva"
     },
     {
-      "name": "Eide",
-      "id": "LRy9RBGUUbgG"
+      "id": "eide",
+      "name": "Eide"
     },
     {
-      "name": "Eidfjord",
-      "id": "Px8vRatesDZD"
+      "id": "eidfjord",
+      "name": "Eidfjord"
     },
     {
-      "name": "Eidsa",
-      "id": "-vlQD4KlgREf"
+      "id": "eidsa",
+      "name": "Eidsa"
     },
     {
-      "name": "Eidsberg",
-      "id": "eD-GCfooK78j"
+      "id": "eidsberg",
+      "name": "Eidsberg"
     },
     {
-      "name": "Eidsdal",
-      "id": "lGpA5taJ_hJJ"
+      "id": "eidsdal",
+      "name": "Eidsdal"
     },
     {
-      "name": "Eidsfoss",
-      "id": "vpXeHEbup7cS"
+      "id": "eidsfoss",
+      "name": "Eidsfoss"
     },
     {
-      "name": "Eidsnes",
-      "id": "ih_DLSxIWx3p"
+      "id": "eidsnes",
+      "name": "Eidsnes"
     },
     {
-      "name": "Eidsvag",
-      "id": "nt0ZVq44vFQE"
+      "id": "eidsvag",
+      "name": "Eidsvag"
     },
     {
-      "name": "Eidsvoll",
-      "id": "GmMPk8evbg05"
+      "id": "eidsvoll",
+      "name": "Eidsvoll"
     },
     {
-      "name": "Eidsvoll verk",
-      "id": "_eI3hxLXdkAm"
+      "id": "eidsvoll-verk",
+      "name": "Eidsvoll verk"
     },
     {
-      "name": "Eikanger",
-      "id": "TqwEzOrPYv-S"
+      "id": "eikanger",
+      "name": "Eikanger"
     },
     {
-      "name": "Eikelandsosen",
-      "id": "hjYw659szEb4"
+      "id": "eikelandsosen",
+      "name": "Eikelandsosen"
     },
     {
-      "name": "Eiken",
-      "id": "YX48IHzMqLwF"
+      "id": "eiken",
+      "name": "Eiken"
     },
     {
-      "name": "Eina",
-      "id": "MDTfBmb3H8ra"
+      "id": "eina",
+      "name": "Eina"
     },
     {
-      "name": "Eivindvik",
-      "id": "pk0tB2BsWhBF"
+      "id": "eivindvik",
+      "name": "Eivindvik"
     },
     {
-      "name": "Elverum",
-      "id": "DtpVfER4ZICn"
+      "id": "elverum",
+      "name": "Elverum"
     },
     {
-      "name": "Enebakkneset",
-      "id": "akSTLJAcQ3Lv"
+      "id": "enebakkneset",
+      "name": "Enebakkneset"
     },
     {
-      "name": "Enga",
-      "id": "CSHuoyhe6TjR"
+      "id": "enga",
+      "name": "Enga"
     },
     {
-      "name": "Engalsvik",
-      "id": "Op8ugOwK_v7n"
+      "id": "engalsvik",
+      "name": "Engalsvik"
     },
     {
-      "name": "Erdal",
-      "id": "DVvldMQ0rCkc"
+      "id": "erdal",
+      "name": "Erdal"
     },
     {
-      "name": "Erfjord",
-      "id": "KXGm3vncMJ8q"
+      "id": "erfjord",
+      "name": "Erfjord"
     },
     {
-      "name": "Ervik",
-      "id": "_emUBtTF8jg6"
+      "id": "ervik",
+      "name": "Ervik"
     },
     {
-      "name": "Espeland",
-      "id": "_oVSHgKKrQ_K"
+      "id": "espeland",
+      "name": "Espeland"
     },
     {
-      "name": "Etne",
-      "id": "AslOHaltxwZQ"
+      "id": "etne",
+      "name": "Etne"
     },
     {
-      "name": "Evanger",
-      "id": "3XugLpGU4CIE"
+      "id": "evanger",
+      "name": "Evanger"
     },
     {
-      "name": "Evenskjer",
-      "id": "gkh96XzxAdUs"
+      "id": "evenskjer",
+      "name": "Evenskjer"
     },
     {
-      "name": "Evje",
-      "id": "HiE77fQgRv4b"
+      "id": "evje",
+      "name": "Evje"
     },
     {
-      "name": "Eydehavn",
-      "id": "VglZPu5HU6AM"
+      "id": "eydehavn",
+      "name": "Eydehavn"
     },
     {
-      "name": "Faberg",
-      "id": "Z5fxb3R8gzEe"
+      "id": "faberg",
+      "name": "Faberg"
     },
     {
-      "name": "Faervik",
-      "id": "HHCHXh4no4QX"
+      "id": "faervik",
+      "name": "Faervik"
     },
     {
-      "name": "Fagernes",
-      "id": "Kbeg74cubRrR"
+      "id": "fagernes",
+      "name": "Fagernes"
     },
     {
-      "name": "Fagerstrand",
-      "id": "JyAybKhNACq6"
+      "id": "fagerstrand",
+      "name": "Fagerstrand"
     },
     {
-      "name": "Fall",
-      "id": "pA8ZMKjUydjD"
+      "id": "fall",
+      "name": "Fall"
     },
     {
-      "name": "Fardal",
-      "id": "Qnd4fG6WAFUo"
+      "id": "fardal",
+      "name": "Fardal"
     },
     {
-      "name": "Farsund",
-      "id": "riC2ZgwmTyKJ"
+      "id": "farsund",
+      "name": "Farsund"
     },
     {
-      "name": "Fauske",
-      "id": "tF5y7sFAd32x"
+      "id": "fauske",
+      "name": "Fauske"
     },
     {
-      "name": "Feda",
-      "id": "Uya11Ow-n2v3"
+      "id": "feda",
+      "name": "Feda"
     },
     {
-      "name": "Fedje",
-      "id": "VqYzFD8EZzQ0"
+      "id": "fedje",
+      "name": "Fedje"
     },
     {
-      "name": "Feiring",
-      "id": "ggxoq-7UBfRR"
+      "id": "feiring",
+      "name": "Feiring"
     },
     {
-      "name": "Felle",
-      "id": "wRCzRPrYRmWY"
+      "id": "felle",
+      "name": "Felle"
     },
     {
-      "name": "Fenstad",
-      "id": "xQQbZ_rmASFX"
+      "id": "fenstad",
+      "name": "Fenstad"
     },
     {
-      "name": "Fetsund",
-      "id": "Lk48hMt4QGWG"
+      "id": "fetsund",
+      "name": "Fetsund"
     },
     {
-      "name": "Fevik",
-      "id": "CADbc_QELtdg"
+      "id": "fevik",
+      "name": "Fevik"
     },
     {
-      "name": "Figgjo",
-      "id": "cufmoP-BuMhA"
+      "id": "figgjo",
+      "name": "Figgjo"
     },
     {
-      "name": "Finnoy",
-      "id": "35zUxonU4RgL"
+      "id": "finnoy",
+      "name": "Finnoy"
     },
     {
-      "name": "Finnsnes",
-      "id": "xjaUVC01SLdO"
+      "id": "finnsnes",
+      "name": "Finnsnes"
     },
     {
-      "name": "Finsand",
-      "id": "zaaFWwDIzpds"
+      "id": "finsand",
+      "name": "Finsand"
     },
     {
-      "name": "Fiska",
-      "id": "voxT6xNGnoZQ"
+      "id": "fiska",
+      "name": "Fiska"
     },
     {
-      "name": "Fiskum",
-      "id": "pu5PsE3s5IPe"
+      "id": "fiskum",
+      "name": "Fiskum"
     },
     {
-      "name": "Fister",
-      "id": "KS3kWCoIClkx"
+      "id": "fister",
+      "name": "Fister"
     },
     {
-      "name": "Fitjar",
-      "id": "9KCOzr3GT2SU"
+      "id": "fitjar",
+      "name": "Fitjar"
     },
     {
-      "name": "Fjellstrand",
-      "id": "8VFuSN8wxqbS"
+      "id": "fjellstrand",
+      "name": "Fjellstrand"
     },
     {
-      "name": "Fla",
-      "id": "C6537PVR4NRs"
+      "id": "fla",
+      "name": "Fla"
     },
     {
-      "name": "Flam",
-      "id": "_QicXzTikzTT"
+      "id": "flam",
+      "name": "Flam"
     },
     {
-      "name": "Flateby",
-      "id": "rLZJk_DTB8K5"
+      "id": "flateby",
+      "name": "Flateby"
     },
     {
-      "name": "Flekke",
-      "id": "n1m_SbcfXn-c"
+      "id": "flekke",
+      "name": "Flekke"
     },
     {
-      "name": "Flekkefjord",
-      "id": "Ars6av1nrXaF"
+      "id": "flekkefjord",
+      "name": "Flekkefjord"
     },
     {
-      "name": "Flemma",
-      "id": "3oS2pm8RBmhV"
+      "id": "flemma",
+      "name": "Flemma"
     },
     {
-      "name": "Flesberg",
-      "id": "S-A1QcqEX6f0"
+      "id": "flesberg",
+      "name": "Flesberg"
     },
     {
-      "name": "Flesnes",
-      "id": "xsUo3jWvEyeN"
+      "id": "flesnes",
+      "name": "Flesnes"
     },
     {
-      "name": "Floro",
-      "id": "cN9O-Usy8er5"
+      "id": "floro",
+      "name": "Floro"
     },
     {
-      "name": "Florvag",
-      "id": "Y-StvgykhlUj"
+      "id": "florvag",
+      "name": "Florvag"
     },
     {
-      "name": "Foldereid",
-      "id": "McnYoVOrsuz3"
+      "id": "foldereid",
+      "name": "Foldereid"
     },
     {
-      "name": "Folderoy",
-      "id": "daiSIjRdh8jo"
+      "id": "folderoy",
+      "name": "Folderoy"
     },
     {
-      "name": "Folkestad",
-      "id": "PYMd1sEdHw0g"
+      "id": "folkestad",
+      "name": "Folkestad"
     },
     {
-      "name": "Follafoss",
-      "id": "LZtfeannBZfE"
+      "id": "follafoss",
+      "name": "Follafoss"
     },
     {
-      "name": "Follebu",
-      "id": "lKMbl8qwdZom"
+      "id": "follebu",
+      "name": "Follebu"
     },
     {
-      "name": "Follese",
-      "id": "5hPgsgmtyC7y"
+      "id": "follese",
+      "name": "Follese"
     },
     {
-      "name": "Fonnes",
-      "id": "N7QCT2r2xlM2"
+      "id": "fonnes",
+      "name": "Fonnes"
     },
     {
-      "name": "Forde",
-      "id": "j0Ex20JopLO1"
+      "id": "forde",
+      "name": "Forde"
     },
     {
-      "name": "Fornebu",
-      "id": "_1b5Ab_XM8zb"
+      "id": "fornebu",
+      "name": "Fornebu"
     },
     {
-      "name": "Fosnavag",
-      "id": "STCH714mxHMP"
+      "id": "fosnavag",
+      "name": "Fosnavag"
     },
     {
-      "name": "Fossdalen",
-      "id": "yQ50RyHBEqxg"
+      "id": "fossdalen",
+      "name": "Fossdalen"
     },
     {
-      "name": "Fosser",
-      "id": "vP514uUfGdyn"
+      "id": "fosser",
+      "name": "Fosser"
     },
     {
-      "name": "Fotlandsvag",
-      "id": "ItJzmVx2xH83"
+      "id": "fotlandsvag",
+      "name": "Fotlandsvag"
     },
     {
-      "name": "Fredrikstad",
-      "id": "gwIHdkzrujxd"
+      "id": "fredrikstad",
+      "name": "Fredrikstad"
     },
     {
-      "name": "Frekhaug",
-      "id": "nKWfdCZlgH7d"
+      "id": "frekhaug",
+      "name": "Frekhaug"
     },
     {
-      "name": "Fresvik",
-      "id": "Qic3UhEVxVMj"
+      "id": "fresvik",
+      "name": "Fresvik"
     },
     {
-      "name": "Frogner",
-      "id": "QujwuepTXKz9"
+      "id": "frogner",
+      "name": "Frogner"
     },
     {
-      "name": "Froland",
-      "id": "3xDFZZe8HscI"
+      "id": "froland",
+      "name": "Froland"
     },
     {
-      "name": "From",
-      "id": "AkuRetqQjht_"
+      "id": "from",
+      "name": "From"
     },
     {
-      "name": "Furnes",
-      "id": "Pxfie6cQP1bd"
+      "id": "furnes",
+      "name": "Furnes"
     },
     {
-      "name": "Fyrde",
-      "id": "6BlEbubC1VMY"
+      "id": "fyrde",
+      "name": "Fyrde"
     },
     {
-      "name": "Fyresdal",
-      "id": "hw1ivDOf9r7e"
+      "id": "fyresdal",
+      "name": "Fyresdal"
     },
     {
-      "name": "Gan",
-      "id": "G5K2I-tC0PX1"
+      "id": "gan",
+      "name": "Gan"
     },
     {
-      "name": "Gardermoen",
-      "id": "7OLsFLTHRloD"
+      "id": "gardermoen",
+      "name": "Gardermoen"
     },
     {
-      "name": "Gargan",
-      "id": "7wcRQTDP8WYm"
+      "id": "gargan",
+      "name": "Gargan"
     },
     {
-      "name": "Garnes",
-      "id": "K0X-p3dxQ3_h"
+      "id": "garnes",
+      "name": "Garnes"
     },
     {
-      "name": "Gasbakken",
-      "id": "sHwqN58toG-5"
+      "id": "gasbakken",
+      "name": "Gasbakken"
     },
     {
-      "name": "Gaupen",
-      "id": "ZgemEq-VjyT0"
+      "id": "gaupen",
+      "name": "Gaupen"
     },
     {
-      "name": "Geilo",
-      "id": "gGORCeb0OPTO"
+      "id": "geilo",
+      "name": "Geilo"
     },
     {
-      "name": "Geithus",
-      "id": "6Ln_GEAUSzg7"
+      "id": "geithus",
+      "name": "Geithus"
     },
     {
-      "name": "Gjerdrum",
-      "id": "gf82zJLmnOcC"
+      "id": "gjerdrum",
+      "name": "Gjerdrum"
     },
     {
-      "name": "Gjerstad",
-      "id": "mqXWd8qWv9KY"
+      "id": "gjerstad",
+      "name": "Gjerstad"
     },
     {
-      "name": "Gjolme",
-      "id": "6ZWQXRIrewOK"
+      "id": "gjolme",
+      "name": "Gjolme"
     },
     {
-      "name": "Glesvaer",
-      "id": "EIzt0ILH_fNo"
+      "id": "glesvaer",
+      "name": "Glesvaer"
     },
     {
-      "name": "Glomfjord",
-      "id": "sRIXLEbKid_v"
+      "id": "glomfjord",
+      "name": "Glomfjord"
     },
     {
-      "name": "Godoy",
-      "id": "gcr8B6mHJQ8g"
+      "id": "godoy",
+      "name": "Godoy"
     },
     {
-      "name": "Godvik",
-      "id": "LyurUCkHafhF"
+      "id": "godvik",
+      "name": "Godvik"
     },
     {
-      "name": "Gol",
-      "id": "mtDR_QCYTYde"
+      "id": "gol",
+      "name": "Gol"
     },
     {
-      "name": "Gran",
-      "id": "UMQxQ4fWq1N4"
+      "id": "gran",
+      "name": "Gran"
     },
     {
-      "name": "Gransherad",
-      "id": "Z9OABPA8xALB"
+      "id": "gransherad",
+      "name": "Gransherad"
     },
     {
-      "name": "Granvin",
-      "id": "J1O-C2nUfsdo"
+      "id": "granvin",
+      "name": "Granvin"
     },
     {
-      "name": "Gratangen",
-      "id": "8tMLW8rP_o4c"
+      "id": "gratangen",
+      "name": "Gratangen"
     },
     {
-      "name": "Gravdal",
-      "id": "rmpwFHZYApHn"
+      "id": "gravdal",
+      "name": "Gravdal"
     },
     {
-      "name": "Greaker",
-      "id": "xTDiYWyG8CpR"
+      "id": "greaker",
+      "name": "Greaker"
     },
     {
-      "name": "Grendi",
-      "id": "QKlVQVBjsIIi"
+      "id": "grendi",
+      "name": "Grendi"
     },
     {
-      "name": "Gressvik",
-      "id": "YcTqeX7QrCyH"
+      "id": "gressvik",
+      "name": "Gressvik"
     },
     {
-      "name": "Grimstad",
-      "id": "GBhXof5t-Bv-"
+      "id": "grimstad",
+      "name": "Grimstad"
     },
     {
-      "name": "Groa",
-      "id": "gmAeGJwak3bK"
+      "id": "groa",
+      "name": "Groa"
     },
     {
-      "name": "Grong",
-      "id": "vkJ7gVArxQ_A"
+      "id": "grong",
+      "name": "Grong"
     },
     {
-      "name": "Grua",
-      "id": "iCy0JO-rccI4"
+      "id": "grua",
+      "name": "Grua"
     },
     {
-      "name": "Gullaug",
-      "id": "5B4GuO9ZXV5A"
+      "id": "gullaug",
+      "name": "Gullaug"
     },
     {
-      "name": "Gvarv",
-      "id": "BUDjJml3WNeE"
+      "id": "gvarv",
+      "name": "Gvarv"
     },
     {
-      "name": "Haddal",
-      "id": "CfJ5i4TmMCFQ"
+      "id": "haddal",
+      "name": "Haddal"
     },
     {
-      "name": "Haegeland",
-      "id": "4G5zui8hfdX7"
+      "id": "haegeland",
+      "name": "Haegeland"
     },
     {
-      "name": "Haerland",
-      "id": "TuRe1Qou6i7r"
+      "id": "haerland",
+      "name": "Haerland"
     },
     {
-      "name": "Hagan",
-      "id": "2xm1hEfBFfbT"
+      "id": "hagan",
+      "name": "Hagan"
     },
     {
-      "name": "Hagavik",
-      "id": "prC0frl98OA6"
+      "id": "hagavik",
+      "name": "Hagavik"
     },
     {
-      "name": "Hakadal",
-      "id": "YUpDST_DkpHj"
+      "id": "hakadal",
+      "name": "Hakadal"
     },
     {
-      "name": "Halden",
-      "id": "b8jMXUnAnpQT"
+      "id": "halden",
+      "name": "Halden"
     },
     {
-      "name": "Hallingby",
-      "id": "UjWmmyjKAmQj"
+      "id": "hallingby",
+      "name": "Hallingby"
     },
     {
-      "name": "Halsa",
-      "id": "3Lfu2qR9CfYs"
+      "id": "halsa",
+      "name": "Halsa"
     },
     {
-      "name": "Haltdalen",
-      "id": "cjfPB-E9iw8l"
+      "id": "haltdalen",
+      "name": "Haltdalen"
     },
     {
-      "name": "Hamar",
-      "id": "kKhipABbucs0"
+      "id": "hamar",
+      "name": "Hamar"
     },
     {
-      "name": "Hamarvik",
-      "id": "K-Vp3-I_yHKL"
+      "id": "hamarvik",
+      "name": "Hamarvik"
     },
     {
-      "name": "Hammerfest",
-      "id": "VOArxkY61B6O"
+      "id": "hammerfest",
+      "name": "Hammerfest"
     },
     {
-      "name": "Hansnes",
-      "id": "YYiHFg4vs_8k"
+      "id": "hansnes",
+      "name": "Hansnes"
     },
     {
-      "name": "Haram",
-      "id": "2a979aSaXri1"
+      "id": "haram",
+      "name": "Haram"
     },
     {
-      "name": "Hareid",
-      "id": "zSppQLekgpST"
+      "id": "hareid",
+      "name": "Hareid"
     },
     {
-      "name": "Harstad",
-      "id": "bg5dy2QVGGLK"
+      "id": "harstad",
+      "name": "Harstad"
     },
     {
-      "name": "Haslum",
-      "id": "rvMb3Nyarags"
+      "id": "haslum",
+      "name": "Haslum"
     },
     {
-      "name": "Hasvik",
-      "id": "q0gcHoiNzISn"
+      "id": "hasvik",
+      "name": "Hasvik"
     },
     {
-      "name": "Hatlestranda",
-      "id": "TG3WrS-wXv2A"
+      "id": "hatlestranda",
+      "name": "Hatlestranda"
     },
     {
-      "name": "Hauge",
-      "id": "h1-XmIKdhQQR"
+      "id": "hauge",
+      "name": "Hauge"
     },
     {
-      "name": "Haugesund",
-      "id": "QoOobssLMIDi"
+      "id": "haugesund",
+      "name": "Haugesund"
     },
     {
-      "name": "Haukeland",
-      "id": "ID_OYOoSo_h9"
+      "id": "haukeland",
+      "name": "Haukeland"
     },
     {
-      "name": "Havik",
-      "id": "CopxkD_hYP22"
+      "id": "havik",
+      "name": "Havik"
     },
     {
-      "name": "Hebnes",
-      "id": "luqOloXdWy50"
+      "id": "hebnes",
+      "name": "Hebnes"
     },
     {
-      "name": "Hedal",
-      "id": "3Ls5Z4hxHR4C"
+      "id": "hedal",
+      "name": "Hedal"
     },
     {
-      "name": "Heggedal",
-      "id": "DZVGslGEPjC_"
+      "id": "heggedal",
+      "name": "Heggedal"
     },
     {
-      "name": "Heggenes",
-      "id": "vJcxlEkYIGD-"
+      "id": "heggenes",
+      "name": "Heggenes"
     },
     {
-      "name": "Hegra",
-      "id": "BvJ0kaXu1FWm"
+      "id": "hegra",
+      "name": "Hegra"
     },
     {
-      "name": "Heimdal",
-      "id": "ri_muQl_VTc8"
+      "id": "heimdal",
+      "name": "Heimdal"
     },
     {
-      "name": "Helgeland",
-      "id": "iGvJ5BPlmF6l"
+      "id": "helgeland",
+      "name": "Helgeland"
     },
     {
-      "name": "Helgeroa",
-      "id": "8DG0zxFrx6Wj"
+      "id": "helgeroa",
+      "name": "Helgeroa"
     },
     {
-      "name": "Hell",
-      "id": "s_la-YgD5rkR"
+      "id": "hell",
+      "name": "Hell"
     },
     {
-      "name": "Hellandsjoen",
-      "id": "mMOtGAGBCvB2"
+      "id": "hellandsjoen",
+      "name": "Hellandsjoen"
     },
     {
-      "name": "Helleland",
-      "id": "ZZu8TQX9xRw_"
+      "id": "helleland",
+      "name": "Helleland"
     },
     {
-      "name": "Hellesylt",
-      "id": "AJEfiQh27bmo"
+      "id": "hellesylt",
+      "name": "Hellesylt"
     },
     {
-      "name": "Hellvik",
-      "id": "7wO5u01PdGXU"
+      "id": "hellvik",
+      "name": "Hellvik"
     },
     {
-      "name": "Hemnes",
-      "id": "1Gyg5fwAWeSr"
+      "id": "hemnes",
+      "name": "Hemnes"
     },
     {
-      "name": "Hemnesberget",
-      "id": "yVRUMnNcP051"
+      "id": "hemnesberget",
+      "name": "Hemnesberget"
     },
     {
-      "name": "Hemnskjela",
-      "id": "SF5ucha5ECro"
+      "id": "hemnskjela",
+      "name": "Hemnskjela"
     },
     {
-      "name": "Hemsedal",
-      "id": "azgx4ptvIcK1"
+      "id": "hemsedal",
+      "name": "Hemsedal"
     },
     {
-      "name": "Henningsvaer",
-      "id": "B5ynUWi28sRW"
+      "id": "henningsvaer",
+      "name": "Henningsvaer"
     },
     {
-      "name": "Herand",
-      "id": "veZ32qj4gaC7"
+      "id": "herand",
+      "name": "Herand"
     },
     {
-      "name": "Heroysund",
-      "id": "OHRTvcHjXPv1"
+      "id": "heroysund",
+      "name": "Heroysund"
     },
     {
-      "name": "Herre",
-      "id": "Fce9tVaYORuM"
+      "id": "herre",
+      "name": "Herre"
     },
     {
-      "name": "Hersaeter",
-      "id": "9ZJw4eMbN6Le"
+      "id": "hersaeter",
+      "name": "Hersaeter"
     },
     {
-      "name": "Hestvika",
-      "id": "yM-jVk8Kpk75"
+      "id": "hestvika",
+      "name": "Hestvika"
     },
     {
-      "name": "Hetlevik",
-      "id": "cRbRZoI4HlXV"
+      "id": "hetlevik",
+      "name": "Hetlevik"
     },
     {
-      "name": "Hildre",
-      "id": "yYV6zwU_LHIR"
+      "id": "hildre",
+      "name": "Hildre"
     },
     {
-      "name": "Hitra",
-      "id": "rRPHxfsHmYOB"
+      "id": "hitra",
+      "name": "Hitra"
     },
     {
-      "name": "Hjellestad",
-      "id": "dJeTR08bGHec"
+      "id": "hjellestad",
+      "name": "Hjellestad"
     },
     {
-      "name": "Hjelmas",
-      "id": "LtNezajKKp0f"
+      "id": "hjelmas",
+      "name": "Hjelmas"
     },
     {
-      "name": "Hjelset",
-      "id": "tIvrF0Q053q3"
+      "id": "hjelset",
+      "name": "Hjelset"
     },
     {
-      "name": "Hjorungavag",
-      "id": "xvcROr3S0piz"
+      "id": "hjorungavag",
+      "name": "Hjorungavag"
     },
     {
-      "name": "Hof",
-      "id": "wfP-w04fPDhx"
+      "id": "hof",
+      "name": "Hof"
     },
     {
-      "name": "Hokkasen",
-      "id": "ASoU4neY8-eh"
+      "id": "hokkasen",
+      "name": "Hokkasen"
     },
     {
-      "name": "Hokksund",
-      "id": "TTvTx0w2ANSW"
+      "id": "hokksund",
+      "name": "Hokksund"
     },
     {
-      "name": "Hol",
-      "id": "L0SS-FOHmDzW"
+      "id": "hol",
+      "name": "Hol"
     },
     {
-      "name": "Hole",
-      "id": "hV6EtZcTv59D"
+      "id": "hole",
+      "name": "Hole"
     },
     {
-      "name": "Holen",
-      "id": "t33mczDwnaDF"
+      "id": "holen",
+      "name": "Holen"
     },
     {
-      "name": "Holmefjord",
-      "id": "aKH1R-TtSvDT"
+      "id": "holmefjord",
+      "name": "Holmefjord"
     },
     {
-      "name": "Holmen",
-      "id": "Ifudye8ObD2O"
+      "id": "holmen",
+      "name": "Holmen"
     },
     {
-      "name": "Holmenkollen",
-      "id": "rch3tuZXbi50"
+      "id": "holmenkollen",
+      "name": "Holmenkollen"
     },
     {
-      "name": "Holmestrand",
-      "id": "pbaoxqvZ02MX"
+      "id": "holmestrand",
+      "name": "Holmestrand"
     },
     {
-      "name": "Holsen",
-      "id": "9y3JUSK9-xPB"
+      "id": "holsen",
+      "name": "Holsen"
     },
     {
-      "name": "Holter",
-      "id": "Zcc_IKgSVwEv"
+      "id": "holter",
+      "name": "Holter"
     },
     {
-      "name": "Hommelvik",
-      "id": "izmgoBgqcBvo"
+      "id": "hommelvik",
+      "name": "Hommelvik"
     },
     {
-      "name": "Hommersak",
-      "id": "zKfMBcsI9sap"
+      "id": "hommersak",
+      "name": "Hommersak"
     },
     {
-      "name": "Honefoss",
-      "id": "8HVCSXKJW8LH"
+      "id": "honefoss",
+      "name": "Honefoss"
     },
     {
-      "name": "Hordvik",
-      "id": "-wAEOMbL8aZG"
+      "id": "hordvik",
+      "name": "Hordvik"
     },
     {
-      "name": "Hornnes",
-      "id": "4_VvIXFi_TM9"
+      "id": "hornnes",
+      "name": "Hornnes"
     },
     {
-      "name": "Horte",
-      "id": "MdF8O6o6KUwO"
+      "id": "horte",
+      "name": "Horte"
     },
     {
-      "name": "Horten",
-      "id": "gJGbXfyn_FRZ"
+      "id": "horten",
+      "name": "Horten"
     },
     {
-      "name": "Hov",
-      "id": "E6oV-04F-zO8"
+      "id": "hov",
+      "name": "Hov"
     },
     {
-      "name": "Hovag",
-      "id": "kf5SD6o4zjnk"
+      "id": "hovag",
+      "name": "Hovag"
     },
     {
-      "name": "Hovden",
-      "id": "j4lKxUfuJnSF"
+      "id": "hovden",
+      "name": "Hovden"
     },
     {
-      "name": "Hovet",
-      "id": "NlrVu9kcAkbB"
+      "id": "hovet",
+      "name": "Hovet"
     },
     {
-      "name": "Hovik verk",
-      "id": "1UhDjLsQR3Q_"
+      "id": "hovik-verk",
+      "name": "Hovik verk"
     },
     {
-      "name": "Hovin",
-      "id": "OV2jx_m4Yu57"
+      "id": "hovin",
+      "name": "Hovin"
     },
     {
-      "name": "Hoyanger",
-      "id": "D4cMLPu-Hi96"
+      "id": "hoyanger",
+      "name": "Hoyanger"
     },
     {
-      "name": "Hundven",
-      "id": "vFHFu7AmWhrZ"
+      "id": "hundven",
+      "name": "Hundven"
     },
     {
-      "name": "Hunndalen",
-      "id": "3Lx5d6IiiM-y"
+      "id": "hunndalen",
+      "name": "Hunndalen"
     },
     {
-      "name": "Husoy",
-      "id": "5-9g5H8EvXYh"
+      "id": "husoy",
+      "name": "Husoy"
     },
     {
-      "name": "Hustad",
-      "id": "7NpN14C5B2gq"
+      "id": "hustad",
+      "name": "Hustad"
     },
     {
-      "name": "Hvalstad",
-      "id": "KvKK3x6dS3Hm"
+      "id": "hvalstad",
+      "name": "Hvalstad"
     },
     {
-      "name": "Hvam",
-      "id": "mksGsx_FCVac"
+      "id": "hvam",
+      "name": "Hvam"
     },
     {
-      "name": "Hvitsten",
-      "id": "DVDI5o1TElhe"
+      "id": "hvitsten",
+      "name": "Hvitsten"
     },
     {
-      "name": "Hvittingfoss",
-      "id": "2h12m3PUTQdh"
+      "id": "hvittingfoss",
+      "name": "Hvittingfoss"
     },
     {
-      "name": "Hyggen",
-      "id": "YdFpPWvFkUWV"
+      "id": "hyggen",
+      "name": "Hyggen"
     },
     {
-      "name": "Hylkje",
-      "id": "emnCIJ09xs6p"
+      "id": "hylkje",
+      "name": "Hylkje"
     },
     {
-      "name": "Hyllestad",
-      "id": "f9lke2u_Fp1d"
+      "id": "hyllestad",
+      "name": "Hyllestad"
     },
     {
-      "name": "Ikornnes",
-      "id": "R6xsUnaABaG0"
+      "id": "ikornnes",
+      "name": "Ikornnes"
     },
     {
-      "name": "Indre Arna",
-      "id": "EMEPMyixfGRo"
+      "id": "indre-arna",
+      "name": "Indre Arna"
     },
     {
-      "name": "Indre Billefjord",
-      "id": "Rg4S5T3kM9FP"
+      "id": "indre-billefjord",
+      "name": "Indre Billefjord"
     },
     {
-      "name": "Indre Klubben",
-      "id": "en2Z1K3iC2qZ"
+      "id": "indre-klubben",
+      "name": "Indre Klubben"
     },
     {
-      "name": "Indre Ulvsvag",
-      "id": "hCDDAJZfd-zI"
+      "id": "indre-ulvsvag",
+      "name": "Indre Ulvsvag"
     },
     {
-      "name": "Indreby",
-      "id": "XTD_HK-gnwn4"
+      "id": "indreby",
+      "name": "Indreby"
     },
     {
-      "name": "Innbygda",
-      "id": "J39o0hZnBwRz"
+      "id": "innbygda",
+      "name": "Innbygda"
     },
     {
-      "name": "Inndyr",
-      "id": "yQ-jnNzUYeZ8"
+      "id": "inndyr",
+      "name": "Inndyr"
     },
     {
-      "name": "Innvik",
-      "id": "Y7rJvHQQy_Pv"
+      "id": "innvik",
+      "name": "Innvik"
     },
     {
-      "name": "Isdalsto",
-      "id": "5TXRe1baJilu"
+      "id": "isdalsto",
+      "name": "Isdalsto"
     },
     {
-      "name": "Ise",
-      "id": "1LV074eHwnKh"
+      "id": "ise",
+      "name": "Ise"
     },
     {
-      "name": "Ivgobahta",
-      "id": "9h445YGZ7jcD"
+      "id": "ivgobahta",
+      "name": "Ivgobahta"
     },
     {
-      "name": "Jakobselv",
-      "id": "fjCTA630SrY7"
+      "id": "jakobselv",
+      "name": "Jakobselv"
     },
     {
-      "name": "Jar",
-      "id": "HgKueXhFf0O5"
+      "id": "jar",
+      "name": "Jar"
     },
     {
-      "name": "Jaren",
-      "id": "SWDRAvT7xHv3"
+      "id": "jaren",
+      "name": "Jaren"
     },
     {
-      "name": "Jessheim",
-      "id": "Tq_kFaQ51bZ8"
+      "id": "jessheim",
+      "name": "Jessheim"
     },
     {
-      "name": "Jevnaker",
-      "id": "mRhsm9Ohqzs1"
+      "id": "jevnaker",
+      "name": "Jevnaker"
     },
     {
-      "name": "Jomna",
-      "id": "hw5f9RXydHAq"
+      "id": "jomna",
+      "name": "Jomna"
     },
     {
-      "name": "Jorpeland",
-      "id": "YARPSRoJyLxB"
+      "id": "jorpeland",
+      "name": "Jorpeland"
     },
     {
-      "name": "Kabelvag",
-      "id": "BkIzTlZr8is8"
+      "id": "kabelvag",
+      "name": "Kabelvag"
     },
     {
-      "name": "Kaldfarnes",
-      "id": "Htpsmj02ldcS"
+      "id": "kaldfarnes",
+      "name": "Kaldfarnes"
     },
     {
-      "name": "Kalvag",
-      "id": "jxnrcDInxdWY"
+      "id": "kalvag",
+      "name": "Kalvag"
     },
     {
-      "name": "Kamben",
-      "id": "M1qVGRaieHCm"
+      "id": "kamben",
+      "name": "Kamben"
     },
     {
-      "name": "Karasjok",
-      "id": "qcf40HYzc22d"
+      "id": "karasjok",
+      "name": "Karasjok"
     },
     {
-      "name": "Karlshus",
-      "id": "P7JjwXZn7TJ-"
+      "id": "karlshus",
+      "name": "Karlshus"
     },
     {
-      "name": "Kaupanger",
-      "id": "hQ48g9CnOY8H"
+      "id": "kaupanger",
+      "name": "Kaupanger"
     },
     {
-      "name": "Kautokeino",
-      "id": "oBDT0DZEHjAB"
+      "id": "kautokeino",
+      "name": "Kautokeino"
     },
     {
-      "name": "Kirkenaer",
-      "id": "kv6orCGsEla0"
+      "id": "kirkenaer",
+      "name": "Kirkenaer"
     },
     {
-      "name": "Kirkenes",
-      "id": "P-dNU8HYxw0e"
+      "id": "kirkenes",
+      "name": "Kirkenes"
     },
     {
-      "name": "Kjeller",
-      "id": "tL2_yJCCJMI4"
+      "id": "kjeller",
+      "name": "Kjeller"
     },
     {
-      "name": "Kjellmyra",
-      "id": "3NnKycqk1k65"
+      "id": "kjellmyra",
+      "name": "Kjellmyra"
     },
     {
-      "name": "Kjerstad",
-      "id": "RbWx_-nahMxR"
+      "id": "kjerstad",
+      "name": "Kjerstad"
     },
     {
-      "name": "Kjollefjord",
-      "id": "OUcZC7bphF_5"
+      "id": "kjollefjord",
+      "name": "Kjollefjord"
     },
     {
-      "name": "Kjopsvik",
-      "id": "kCaynkFNqoNk"
+      "id": "kjopsvik",
+      "name": "Kjopsvik"
     },
     {
-      "name": "Kleive",
-      "id": "l-jAfFJgCFLr"
+      "id": "kleive",
+      "name": "Kleive"
     },
     {
-      "name": "Klepp",
-      "id": "OnZeFzb3picG"
+      "id": "klepp",
+      "name": "Klepp"
     },
     {
-      "name": "Kleppe",
-      "id": "3FsN0cX0gvKu"
+      "id": "kleppe",
+      "name": "Kleppe"
     },
     {
-      "name": "Kleppesto",
-      "id": "Rb9UCN-v7aK1"
+      "id": "kleppesto",
+      "name": "Kleppesto"
     },
     {
-      "name": "Kleppstad",
-      "id": "y2ZDutb5reL_"
+      "id": "kleppstad",
+      "name": "Kleppstad"
     },
     {
-      "name": "Klofta",
-      "id": "Ft3TTvrxFYNo"
+      "id": "klofta",
+      "name": "Klofta"
     },
     {
-      "name": "Klokkarvik",
-      "id": "3jRUQ0XxPVgB"
+      "id": "klokkarvik",
+      "name": "Klokkarvik"
     },
     {
-      "name": "Knapper",
-      "id": "0mlwALK6NAqp"
+      "id": "knapper",
+      "name": "Knapper"
     },
     {
-      "name": "Knappstad",
-      "id": "28SyKBv_eGh3"
+      "id": "knappstad",
+      "name": "Knappstad"
     },
     {
-      "name": "Knarrevik",
-      "id": "vaORVIFOnGp7"
+      "id": "knarrevik",
+      "name": "Knarrevik"
     },
     {
-      "name": "Knarrlaget",
-      "id": "iqvbQ4i3YdI-"
+      "id": "knarrlaget",
+      "name": "Knarrlaget"
     },
     {
-      "name": "Kolbjornsvik",
-      "id": "Z66dmgW8CwXx"
+      "id": "kolbjornsvik",
+      "name": "Kolbjornsvik"
     },
     {
-      "name": "Kolbotn",
-      "id": "R7kYNt-e0Si-"
+      "id": "kolbotn",
+      "name": "Kolbotn"
     },
     {
-      "name": "Kolbu",
-      "id": "crBO_k6jTf8Z"
+      "id": "kolbu",
+      "name": "Kolbu"
     },
     {
-      "name": "Kolltveit",
-      "id": "wDtxOnjXfPL-"
+      "id": "kolltveit",
+      "name": "Kolltveit"
     },
     {
-      "name": "Kolnes",
-      "id": "yQGtCFGAJ2cY"
+      "id": "kolnes",
+      "name": "Kolnes"
     },
     {
-      "name": "Kolsas",
-      "id": "4kV0n08PDN7n"
+      "id": "kolsas",
+      "name": "Kolsas"
     },
     {
-      "name": "Kolvereid",
-      "id": "WVdpp5uBaz7o"
+      "id": "kolvereid",
+      "name": "Kolvereid"
     },
     {
-      "name": "Kongsberg",
-      "id": "z3U92UYfYtoe"
+      "id": "kongsberg",
+      "name": "Kongsberg"
     },
     {
-      "name": "Kongshamn",
-      "id": "3_Hcw83awbOz"
+      "id": "kongshamn",
+      "name": "Kongshamn"
     },
     {
-      "name": "Kongsvika",
-      "id": "N_eazoag90R9"
+      "id": "kongsvika",
+      "name": "Kongsvika"
     },
     {
-      "name": "Kongsvinger",
-      "id": "fAKAl-W1B5ZQ"
+      "id": "kongsvinger",
+      "name": "Kongsvinger"
     },
     {
-      "name": "Konsmo",
-      "id": "4dC3nM4aNFf3"
+      "id": "konsmo",
+      "name": "Konsmo"
     },
     {
-      "name": "Konsvikosen",
-      "id": "1bwBj8j6LjoY"
+      "id": "konsvikosen",
+      "name": "Konsvikosen"
     },
     {
-      "name": "Kopervik",
-      "id": "tBMZiUgVUwQX"
+      "id": "kopervik",
+      "name": "Kopervik"
     },
     {
-      "name": "Koppang",
-      "id": "eQTHnwiVQu4k"
+      "id": "koppang",
+      "name": "Koppang"
     },
     {
-      "name": "Korgen",
-      "id": "4_5JG5ZxIXp9"
+      "id": "korgen",
+      "name": "Korgen"
     },
     {
-      "name": "Kornsjo",
-      "id": "YQNMbLcVJ_6F"
+      "id": "kornsjo",
+      "name": "Kornsjo"
     },
     {
-      "name": "Korsvegen",
-      "id": "k3ZiYEAWm1Y5"
+      "id": "korsvegen",
+      "name": "Korsvegen"
     },
     {
-      "name": "Kragero",
-      "id": "EAP5aGYF9Us9"
+      "id": "kragero",
+      "name": "Kragero"
     },
     {
-      "name": "Krakeroy",
-      "id": "G3EKGeAQtJuf"
+      "id": "krakeroy",
+      "name": "Krakeroy"
     },
     {
-      "name": "Krakstad",
-      "id": "AsdQ8Gtwa8si"
+      "id": "krakstad",
+      "name": "Krakstad"
     },
     {
-      "name": "Kristiansand",
-      "id": "CRU18FDh0NVN"
+      "id": "kristiansand",
+      "name": "Kristiansand"
     },
     {
-      "name": "Kristiansund",
-      "id": "W5B_Qlxo1zxQ"
+      "id": "kristiansund",
+      "name": "Kristiansund"
     },
     {
-      "name": "Kroderen",
-      "id": "y65MbSi0uVqB"
+      "id": "kroderen",
+      "name": "Kroderen"
     },
     {
-      "name": "Krokstadelva",
-      "id": "f9aHP4F3MkOX"
+      "id": "krokstadelva",
+      "name": "Krokstadelva"
     },
     {
-      "name": "Kval",
-      "id": "mwtt-_6HKQds"
+      "id": "kval",
+      "name": "Kval"
     },
     {
-      "name": "Kvalsund",
-      "id": "jYnoqBdRngow"
+      "id": "kvalsund",
+      "name": "Kvalsund"
     },
     {
-      "name": "Kvam",
-      "id": "6ni7jgXQr-1s"
+      "id": "kvam",
+      "name": "Kvam"
     },
     {
-      "name": "Kvammen",
-      "id": "FRJmIjBP0abS"
+      "id": "kvammen",
+      "name": "Kvammen"
     },
     {
-      "name": "Kvanne",
-      "id": "bvDkKNLvcWTk"
+      "id": "kvanne",
+      "name": "Kvanne"
     },
     {
-      "name": "Kvelde",
-      "id": "KqjsHhjZv4ME"
+      "id": "kvelde",
+      "name": "Kvelde"
     },
     {
-      "name": "Kvinesdal",
-      "id": "Lyhhnyxu3pXI"
+      "id": "kvinesdal",
+      "name": "Kvinesdal"
     },
     {
-      "name": "Kvinlog",
-      "id": "CYccTE0D60k-"
+      "id": "kvinlog",
+      "name": "Kvinlog"
     },
     {
-      "name": "Kvisvik",
-      "id": "UcOUVdPq3wsz"
+      "id": "kvisvik",
+      "name": "Kvisvik"
     },
     {
-      "name": "Kviteseid",
-      "id": "2YSQ17s5W1hm"
+      "id": "kviteseid",
+      "name": "Kviteseid"
     },
     {
-      "name": "Kyrkjebo",
-      "id": "97jxcO4npuF-"
+      "id": "kyrkjebo",
+      "name": "Kyrkjebo"
     },
     {
-      "name": "Kyrksaeterora",
-      "id": "vTerKFu4LBeF"
+      "id": "kyrksaeterora",
+      "name": "Kyrksaeterora"
     },
     {
-      "name": "Lakselv",
-      "id": "AmAXP0ZYoxf_"
+      "id": "lakselv",
+      "name": "Lakselv"
     },
     {
-      "name": "Laksevag",
-      "id": "K6cCmnj8PisQ"
+      "id": "laksevag",
+      "name": "Laksevag"
     },
     {
-      "name": "Laksvatn",
-      "id": "rAhpQEniKMdg"
+      "id": "laksvatn",
+      "name": "Laksvatn"
     },
     {
-      "name": "Lalm",
-      "id": "8t9ZfvhgMjq9"
+      "id": "lalm",
+      "name": "Lalm"
     },
     {
-      "name": "Land",
-      "id": "ZcSiy9CetFjX"
+      "id": "land",
+      "name": "Land"
     },
     {
-      "name": "Langangen",
-      "id": "nhyHiSOW4msH"
+      "id": "langangen",
+      "name": "Langangen"
     },
     {
-      "name": "Langesund",
-      "id": "L342WJAeo3l3"
+      "id": "langesund",
+      "name": "Langesund"
     },
     {
-      "name": "Langevag",
-      "id": "LjZ2RlBsmXxH"
+      "id": "langevag",
+      "name": "Langevag"
     },
     {
-      "name": "Langfjordbotn",
-      "id": "hOTNC1eW8gpZ"
+      "id": "langfjordbotn",
+      "name": "Langfjordbotn"
     },
     {
-      "name": "Langhus",
-      "id": "nsOSLVr3RZjE"
+      "id": "langhus",
+      "name": "Langhus"
     },
     {
-      "name": "Larkollen",
-      "id": "TmW9-20YIGKp"
+      "id": "larkollen",
+      "name": "Larkollen"
     },
     {
-      "name": "Larvik",
-      "id": "fwY3hH3WPWQi"
+      "id": "larvik",
+      "name": "Larvik"
     },
     {
-      "name": "Laukvik",
-      "id": "eI2GYfaSBI9Y"
+      "id": "laukvik",
+      "name": "Laukvik"
     },
     {
-      "name": "Lauvsnes",
-      "id": "owVbKd9Mc_1K"
+      "id": "lauvsnes",
+      "name": "Lauvsnes"
     },
     {
-      "name": "Lauvstad",
-      "id": "wjrOsUebT54Q"
+      "id": "lauvstad",
+      "name": "Lauvstad"
     },
     {
-      "name": "Leikang",
-      "id": "1WiNXgrKbBiD"
+      "id": "leikang",
+      "name": "Leikang"
     },
     {
-      "name": "Leines",
-      "id": "QIun042iSp4u"
+      "id": "leines",
+      "name": "Leines"
     },
     {
-      "name": "Leira",
-      "id": "j2gMaovwfiKJ"
+      "id": "leira",
+      "name": "Leira"
     },
     {
-      "name": "Leirfjord",
-      "id": "BPbN73ef256r"
+      "id": "leirfjord",
+      "name": "Leirfjord"
     },
     {
-      "name": "Leirsund",
-      "id": "fWXshlc_Zmp1"
+      "id": "leirsund",
+      "name": "Leirsund"
     },
     {
-      "name": "Leirvik",
-      "id": "h7M3QCGpua6H"
+      "id": "leirvik",
+      "name": "Leirvik"
     },
     {
-      "name": "Leknes",
-      "id": "0D1J1CBxWpxG"
+      "id": "leknes",
+      "name": "Leknes"
     },
     {
-      "name": "Lena",
-      "id": "hwPHINkrzy_m"
+      "id": "lena",
+      "name": "Lena"
     },
     {
-      "name": "Lensvik",
-      "id": "_spS-CdgjMpQ"
+      "id": "lensvik",
+      "name": "Lensvik"
     },
     {
-      "name": "Lenvik",
-      "id": "OXfB9xJj4vpx"
+      "id": "lenvik",
+      "name": "Lenvik"
     },
     {
-      "name": "Lepsoy",
-      "id": "c3zWxitq5Hpf"
+      "id": "lepsoy",
+      "name": "Lepsoy"
     },
     {
-      "name": "Levanger",
-      "id": "7x72hO1hvcZL"
+      "id": "levanger",
+      "name": "Levanger"
     },
     {
-      "name": "Lidaladdi",
-      "id": "mf7FzodBHHjM"
+      "id": "lidaladdi",
+      "name": "Lidaladdi"
     },
     {
-      "name": "Lier",
-      "id": "1FK0lhBs0rMj"
+      "id": "lier",
+      "name": "Lier"
     },
     {
-      "name": "Lillehammer",
-      "id": "zLPlSA0GZp4w"
+      "id": "lillehammer",
+      "name": "Lillehammer"
     },
     {
-      "name": "Lillesand",
-      "id": "CfXehYLUqY6K"
+      "id": "lillesand",
+      "name": "Lillesand"
     },
     {
-      "name": "Lindas",
-      "id": "TK05QEZEZg5k"
+      "id": "lindas",
+      "name": "Lindas"
     },
     {
-      "name": "Loddefjord",
-      "id": "zNN5xnrNmKmr"
+      "id": "loddefjord",
+      "name": "Loddefjord"
     },
     {
-      "name": "Lodingen",
-      "id": "QBVGQIF_pq5e"
+      "id": "lodingen",
+      "name": "Lodingen"
     },
     {
-      "name": "Loen",
-      "id": "6vg6RBbRj1z2"
+      "id": "loen",
+      "name": "Loen"
     },
     {
-      "name": "Lofthus",
-      "id": "F7zzyeo20FUe"
+      "id": "lofthus",
+      "name": "Lofthus"
     },
     {
-      "name": "Loken",
-      "id": "aNhCGLfqY-3f"
+      "id": "loken",
+      "name": "Loken"
     },
     {
-      "name": "Lokken Verk",
-      "id": "b2lTK-AmdfyQ"
+      "id": "lokken-verk",
+      "name": "Lokken Verk"
     },
     {
-      "name": "Lom",
-      "id": "zucQXNSQdVAr"
+      "id": "lom",
+      "name": "Lom"
     },
     {
-      "name": "Lonevag",
-      "id": "Vx9_thxRA64f"
+      "id": "lonevag",
+      "name": "Lonevag"
     },
     {
-      "name": "Longva",
-      "id": "v2ohJsduzt9-"
+      "id": "longva",
+      "name": "Longva"
     },
     {
-      "name": "Lorenfallet",
-      "id": "wFxl-oJswL1L"
+      "id": "lorenfallet",
+      "name": "Lorenfallet"
     },
     {
-      "name": "Loten",
-      "id": "pdVZe9EU7BtG"
+      "id": "loten",
+      "name": "Loten"
     },
     {
-      "name": "Lovund",
-      "id": "B2M1w2KOlf3C"
+      "id": "lovund",
+      "name": "Lovund"
     },
     {
-      "name": "Lundamo",
-      "id": "eux6aLuuL3S7"
+      "id": "lundamo",
+      "name": "Lundamo"
     },
     {
-      "name": "Lunde",
-      "id": "YCa-GCI55Vg3"
+      "id": "lunde",
+      "name": "Lunde"
     },
     {
-      "name": "Lunner",
-      "id": "GVFfDS5NRTSO"
+      "id": "lunner",
+      "name": "Lunner"
     },
     {
-      "name": "Lyngdal",
-      "id": "rWvX6QoyoQYg"
+      "id": "lyngdal",
+      "name": "Lyngdal"
     },
     {
-      "name": "Lyngseidet",
-      "id": "W7pku3yHY2Jr"
+      "id": "lyngseidet",
+      "name": "Lyngseidet"
     },
     {
-      "name": "Lyngstad",
-      "id": "mh60letObTO4"
+      "id": "lyngstad",
+      "name": "Lyngstad"
     },
     {
-      "name": "Lysaker",
-      "id": "UayakDRlmf3P"
+      "id": "lysaker",
+      "name": "Lysaker"
     },
     {
-      "name": "Lysoysundet",
-      "id": "ZIJmu5bynEZM"
+      "id": "lysoysundet",
+      "name": "Lysoysundet"
     },
     {
-      "name": "Magnor",
-      "id": "5G3Ro-bGsn1u"
+      "id": "magnor",
+      "name": "Magnor"
     },
     {
-      "name": "Malm",
-      "id": "dw3CFJASTLJ8"
+      "id": "malm",
+      "name": "Malm"
     },
     {
-      "name": "Maloy",
-      "id": "CuY_xRd6veEb"
+      "id": "maloy",
+      "name": "Maloy"
     },
     {
-      "name": "Malvik",
-      "id": "lrVMHDFZmhCh"
+      "id": "malvik",
+      "name": "Malvik"
     },
     {
-      "name": "Mandal",
-      "id": "9Fc8npfq0D4K"
+      "id": "mandal",
+      "name": "Mandal"
     },
     {
-      "name": "Manger",
-      "id": "NrD3fXVCgh2-"
+      "id": "manger",
+      "name": "Manger"
     },
     {
-      "name": "Manndalen",
-      "id": "5U6iDbVhUgby"
+      "id": "manndalen",
+      "name": "Manndalen"
     },
     {
-      "name": "Marheim",
-      "id": "9qwFFgCh3F8X"
+      "id": "marheim",
+      "name": "Marheim"
     },
     {
-      "name": "Masfjorden",
-      "id": "m_-fEJHa99oJ"
+      "id": "masfjorden",
+      "name": "Masfjorden"
     },
     {
-      "name": "Mathopen",
-      "id": "0nk20DOElv2R"
+      "id": "mathopen",
+      "name": "Mathopen"
     },
     {
-      "name": "Maura",
-      "id": "v5cZnJ_ctDgn"
+      "id": "maura",
+      "name": "Maura"
     },
     {
-      "name": "Mehamn",
-      "id": "XJW4k3trM_xj"
+      "id": "mehamn",
+      "name": "Mehamn"
     },
     {
-      "name": "Meisingset",
-      "id": "n16TihHhfx9B"
+      "id": "meisingset",
+      "name": "Meisingset"
     },
     {
-      "name": "Melbu",
-      "id": "g7_JeZkUC8iV"
+      "id": "melbu",
+      "name": "Melbu"
     },
     {
-      "name": "Meldal",
-      "id": "6BnGGGG0iQN_"
+      "id": "meldal",
+      "name": "Meldal"
     },
     {
-      "name": "Melhus",
-      "id": "TaJVzfuLl7FO"
+      "id": "melhus",
+      "name": "Melhus"
     },
     {
-      "name": "Melsomvik",
-      "id": "TxDw85-qUKAw"
+      "id": "melsomvik",
+      "name": "Melsomvik"
     },
     {
-      "name": "Meraker",
-      "id": "nuoOZCwRIYrd"
+      "id": "meraker",
+      "name": "Meraker"
     },
     {
-      "name": "Mestervik",
-      "id": "KGAE25xlSLxA"
+      "id": "mestervik",
+      "name": "Mestervik"
     },
     {
-      "name": "Midsund",
-      "id": "mTQwfefPFfpW"
+      "id": "midsund",
+      "name": "Midsund"
     },
     {
-      "name": "Miland",
-      "id": "rtK3JHJoR0bS"
+      "id": "miland",
+      "name": "Miland"
     },
     {
-      "name": "Minnesund",
-      "id": "p5zL817x1Glk"
+      "id": "minnesund",
+      "name": "Minnesund"
     },
     {
-      "name": "Mirza Rafi Sauda",
-      "id": "eE7xjCanlWcK"
+      "id": "mirza-rafi-sauda",
+      "name": "Mirza Rafi Sauda"
     },
     {
-      "name": "Misje",
-      "id": "Wrnhhhadysjv"
+      "id": "misje",
+      "name": "Misje"
     },
     {
-      "name": "Misvaer",
-      "id": "Hlu3NQ6OHwoC"
+      "id": "misvaer",
+      "name": "Misvaer"
     },
     {
-      "name": "Mjolkeraen",
-      "id": "OCayhkK2KIGG"
+      "id": "mjolkeraen",
+      "name": "Mjolkeraen"
     },
     {
-      "name": "Mjondalen",
-      "id": "GW2nQnJqnE8m"
+      "id": "mjondalen",
+      "name": "Mjondalen"
     },
     {
-      "name": "Mo",
-      "id": "JRemfuE3MU2Z"
+      "id": "mo",
+      "name": "Mo"
     },
     {
-      "name": "Mo i Rana",
-      "id": "Vihq0KtGOItD"
+      "id": "mo-i-rana",
+      "name": "Mo i Rana"
     },
     {
-      "name": "Modalen",
-      "id": "X_VYzF__76iU"
+      "id": "modalen",
+      "name": "Modalen"
     },
     {
-      "name": "Moelv",
-      "id": "ubv0nNDHvzWn"
+      "id": "moelv",
+      "name": "Moelv"
     },
     {
-      "name": "Moen",
-      "id": "uD7KeD9chlGT"
+      "id": "moen",
+      "name": "Moen"
     },
     {
-      "name": "Moi",
-      "id": "hgvvIofWBoN5"
+      "id": "moi",
+      "name": "Moi"
     },
     {
-      "name": "Molde",
-      "id": "qUFgMbmDbyB7"
+      "id": "molde",
+      "name": "Molde"
     },
     {
-      "name": "Moldjord",
-      "id": "nKRJB_gT5ZEp"
+      "id": "moldjord",
+      "name": "Moldjord"
     },
     {
-      "name": "Morgedal",
-      "id": "mMADWF4PDwsW"
+      "id": "morgedal",
+      "name": "Morgedal"
     },
     {
-      "name": "Mosby",
-      "id": "eKcDTs5eeQLa"
+      "id": "mosby",
+      "name": "Mosby"
     },
     {
-      "name": "Mosjoen",
-      "id": "6dDzt0i-LOxt"
+      "id": "mosjoen",
+      "name": "Mosjoen"
     },
     {
-      "name": "Moss",
-      "id": "3nFcH3CUgBHn"
+      "id": "moss",
+      "name": "Moss"
     },
     {
-      "name": "Movik",
-      "id": "yfeVzByVc-65"
+      "id": "movik",
+      "name": "Movik"
     },
     {
-      "name": "Myking",
-      "id": "zE1SX_qXQkM_"
+      "id": "myking",
+      "name": "Myking"
     },
     {
-      "name": "Myre",
-      "id": "VezPevpvUq3A"
+      "id": "myre",
+      "name": "Myre"
     },
     {
-      "name": "Mysen",
-      "id": "ufWq4JowvsUg"
+      "id": "mysen",
+      "name": "Mysen"
     },
     {
-      "name": "Na",
-      "id": "TKX9hwv81ESM"
+      "id": "na",
+      "name": "Na"
     },
     {
-      "name": "Naerbo",
-      "id": "Jp9VEfld4x6p"
+      "id": "naerbo",
+      "name": "Naerbo"
     },
     {
-      "name": "Naersnes",
-      "id": "EF5mKSua5euF"
+      "id": "naersnes",
+      "name": "Naersnes"
     },
     {
-      "name": "Namsos",
-      "id": "r-qaa-_Zig6T"
+      "id": "namsos",
+      "name": "Namsos"
     },
     {
-      "name": "Namsskogan",
-      "id": "JMnOZagPzW7u"
+      "id": "namsskogan",
+      "name": "Namsskogan"
     },
     {
-      "name": "Narvik",
-      "id": "BpBE_wLxbkq9"
+      "id": "narvik",
+      "name": "Narvik"
     },
     {
-      "name": "Naustdal",
-      "id": "k_g1AtTYB_nr"
+      "id": "naustdal",
+      "name": "Naustdal"
     },
     {
-      "name": "Nedenes",
-      "id": "AcHKcfgUogmG"
+      "id": "nedenes",
+      "name": "Nedenes"
     },
     {
-      "name": "Nedre Frei",
-      "id": "O0YQfiC9ufJx"
+      "id": "nedre-frei",
+      "name": "Nedre Frei"
     },
     {
-      "name": "Nesbru",
-      "id": "aqXmYC076tbT"
+      "id": "nesbru",
+      "name": "Nesbru"
     },
     {
-      "name": "Nesbyen",
-      "id": "GF119rpugHtE"
+      "id": "nesbyen",
+      "name": "Nesbyen"
     },
     {
-      "name": "Nesgrenda",
-      "id": "SsSVG64v1Vbz"
+      "id": "nesgrenda",
+      "name": "Nesgrenda"
     },
     {
-      "name": "Nesna",
-      "id": "9BahV1OXTa3Z"
+      "id": "nesna",
+      "name": "Nesna"
     },
     {
-      "name": "Nesoddtangen",
-      "id": "5UR-LHUqcw5Z"
+      "id": "nesoddtangen",
+      "name": "Nesoddtangen"
     },
     {
-      "name": "Nesttun",
-      "id": "d0kV23uujIw9"
+      "id": "nesttun",
+      "name": "Nesttun"
     },
     {
-      "name": "Neverdal",
-      "id": "YnLiUSaL3lZ8"
+      "id": "neverdal",
+      "name": "Neverdal"
     },
     {
-      "name": "Nevlunghamn",
-      "id": "38nFZTCHB7bq"
+      "id": "nevlunghamn",
+      "name": "Nevlunghamn"
     },
     {
-      "name": "Nodeland",
-      "id": "FvHMZ14mOYqb"
+      "id": "nodeland",
+      "name": "Nodeland"
     },
     {
-      "name": "Nordby Bruk",
-      "id": "t45oaXyNoOSD"
+      "id": "nordby-bruk",
+      "name": "Nordby Bruk"
     },
     {
-      "name": "Nordfjordeid",
-      "id": "fmPW_kYNrAAq"
+      "id": "nordfjordeid",
+      "name": "Nordfjordeid"
     },
     {
-      "name": "Nordkisa",
-      "id": "f81dxtS3MObN"
+      "id": "nordkisa",
+      "name": "Nordkisa"
     },
     {
-      "name": "Nordland",
-      "id": "rZPNv2QaMy2b"
+      "id": "nordland",
+      "name": "Nordland"
     },
     {
-      "name": "Nordstrono",
-      "id": "f2J1lGe_bxfW"
+      "id": "nordstrono",
+      "name": "Nordstrono"
     },
     {
-      "name": "Noresund",
-      "id": "L-28F25wRTvy"
+      "id": "noresund",
+      "name": "Noresund"
     },
     {
-      "name": "Norheimsund",
-      "id": "pPxpnz6mFffZ"
+      "id": "norheimsund",
+      "name": "Norheimsund"
     },
     {
-      "name": "Notodden",
-      "id": "bayuGTr_jr-h"
+      "id": "notodden",
+      "name": "Notodden"
     },
     {
-      "name": "Nybergsund",
-      "id": "dFhpwHh5S_Or"
+      "id": "nybergsund",
+      "name": "Nybergsund"
     },
     {
-      "name": "Nyborg",
-      "id": "w3OG39QwKgx6"
+      "id": "nyborg",
+      "name": "Nyborg"
     },
     {
-      "name": "Nydalen",
-      "id": "LaHnpCAizmBp"
+      "id": "nydalen",
+      "name": "Nydalen"
     },
     {
-      "name": "Nygardsjoen",
-      "id": "FdppJ9RTOkrH"
+      "id": "nygardsjoen",
+      "name": "Nygardsjoen"
     },
     {
-      "name": "Nyhus",
-      "id": "BkxucyYIckLi"
+      "id": "nyhus",
+      "name": "Nyhus"
     },
     {
-      "name": "Nykirke",
-      "id": "UeRI7ed6FkYZ"
+      "id": "nykirke",
+      "name": "Nykirke"
     },
     {
-      "name": "Odda",
-      "id": "OnfdM18QXcG4"
+      "id": "odda",
+      "name": "Odda"
     },
     {
-      "name": "Odnes",
-      "id": "5opKj3yzGczI"
+      "id": "odnes",
+      "name": "Odnes"
     },
     {
-      "name": "Oksfjord",
-      "id": "D2R__16SginV"
+      "id": "oksfjord",
+      "name": "Oksfjord"
     },
     {
-      "name": "Oksvoll",
-      "id": "31_X77wRXn6b"
+      "id": "oksvoll",
+      "name": "Oksvoll"
     },
     {
-      "name": "Olden",
-      "id": "6lQTczNt4XF4"
+      "id": "olden",
+      "name": "Olden"
     },
     {
-      "name": "Olderdalen",
-      "id": "PESaOUGuYV0s"
+      "id": "olderdalen",
+      "name": "Olderdalen"
     },
     {
-      "name": "Olen",
-      "id": "b6qDAdQFXrw3"
+      "id": "olen",
+      "name": "Olen"
     },
     {
-      "name": "Oltedal",
-      "id": "L1zlSJCHjAMs"
+      "id": "oltedal",
+      "name": "Oltedal"
     },
     {
-      "name": "Oma",
-      "id": "3TxFB6se3AGN"
+      "id": "oma",
+      "name": "Oma"
     },
     {
-      "name": "Onarheim",
-      "id": "19acSYcTI5BB"
+      "id": "onarheim",
+      "name": "Onarheim"
     },
     {
-      "name": "Oppdal",
-      "id": "XzHJC1F1zkri"
+      "id": "oppdal",
+      "name": "Oppdal"
     },
     {
-      "name": "Oppegard",
-      "id": "BSZ693-V8vQv"
+      "id": "oppegard",
+      "name": "Oppegard"
     },
     {
-      "name": "Opphaug",
-      "id": "Bs_vS2ShiKE7"
+      "id": "opphaug",
+      "name": "Opphaug"
     },
     {
-      "name": "Oresvika",
-      "id": "mflb06OzEjct"
+      "id": "oresvika",
+      "name": "Oresvika"
     },
     {
-      "name": "Orje",
-      "id": "BqeGG_FyK0l3"
+      "id": "orje",
+      "name": "Orje"
     },
     {
-      "name": "Orkanger",
-      "id": "c59C7W7M9wIZ"
+      "id": "orkanger",
+      "name": "Orkanger"
     },
     {
-      "name": "Ornes",
-      "id": "n0dkOdOnquO7"
+      "id": "ornes",
+      "name": "Ornes"
     },
     {
-      "name": "Orre",
-      "id": "Yc89y0hoN-5U"
+      "id": "orre",
+      "name": "Orre"
     },
     {
-      "name": "Os",
-      "id": "fgtdQ2DHeYWI"
+      "id": "os",
+      "name": "Os"
     },
     {
-      "name": "Oslo",
-      "id": "Ize_JQe_Bos5"
+      "id": "oslo",
+      "name": "Oslo"
     },
     {
-      "name": "Otta",
-      "id": "1vCLkfVWGP5n"
+      "id": "otta",
+      "name": "Otta"
     },
     {
-      "name": "Otteroy",
-      "id": "b3CGM8UQc77F"
+      "id": "otteroy",
+      "name": "Otteroy"
     },
     {
-      "name": "Ottestad",
-      "id": "nO_WVKNILBA3"
+      "id": "ottestad",
+      "name": "Ottestad"
     },
     {
-      "name": "Oveland",
-      "id": "lfbnVfQiLdgT"
+      "id": "oveland",
+      "name": "Oveland"
     },
     {
-      "name": "Ovre Ardal",
-      "id": "tgiwzolANyac"
+      "id": "ovre-ardal",
+      "name": "Ovre Ardal"
     },
     {
-      "name": "Ovrebo",
-      "id": "TS93rWFw5YML"
+      "id": "ovrebo",
+      "name": "Ovrebo"
     },
     {
-      "name": "Oyeren",
-      "id": "iS6xomVaIIBX"
+      "id": "oyeren",
+      "name": "Oyeren"
     },
     {
-      "name": "Oystese",
-      "id": "n_fdyIooLL_o"
+      "id": "oystese",
+      "name": "Oystese"
     },
     {
-      "name": "Porsgrunn",
-      "id": "igVKJtHOyyIQ"
+      "id": "porsgrunn",
+      "name": "Porsgrunn"
     },
     {
-      "name": "Prestfoss",
-      "id": "HzWXCt7xi60n"
+      "id": "prestfoss",
+      "name": "Prestfoss"
     },
     {
-      "name": "Raholt",
-      "id": "bwSe3NPulXaQ"
+      "id": "raholt",
+      "name": "Raholt"
     },
     {
-      "name": "Rakkestad",
-      "id": "h9PIlXGkLQbg"
+      "id": "rakkestad",
+      "name": "Rakkestad"
     },
     {
-      "name": "Ramberg",
-      "id": "-R-lDE1YsYe3"
+      "id": "ramberg",
+      "name": "Ramberg"
     },
     {
-      "name": "Ramfjordbotn",
-      "id": "R_IMPdeBGu-h"
+      "id": "ramfjordbotn",
+      "name": "Ramfjordbotn"
     },
     {
-      "name": "Ramnes",
-      "id": "TCXF8Z3yy7T4"
+      "id": "ramnes",
+      "name": "Ramnes"
     },
     {
-      "name": "Rana",
-      "id": "tQJD44g2sZKC"
+      "id": "rana",
+      "name": "Rana"
     },
     {
-      "name": "Ranasfoss",
-      "id": "ceB3uCUfhvtL"
+      "id": "ranasfoss",
+      "name": "Ranasfoss"
     },
     {
-      "name": "Randaberg",
-      "id": "VJTxNaiZiBCi"
+      "id": "randaberg",
+      "name": "Randaberg"
     },
     {
-      "name": "Ranheim",
-      "id": "iPKnpC07-XI3"
+      "id": "ranheim",
+      "name": "Ranheim"
     },
     {
-      "name": "Raudeberg",
-      "id": "ZKs9HUH08WMx"
+      "id": "raudeberg",
+      "name": "Raudeberg"
     },
     {
-      "name": "Raudsand",
-      "id": "uyvhAlpHp0x7"
+      "id": "raudsand",
+      "name": "Raudsand"
     },
     {
-      "name": "Raufoss",
-      "id": "gAn7CwECbhQ9"
+      "id": "raufoss",
+      "name": "Raufoss"
     },
     {
-      "name": "Rauland",
-      "id": "SyX4tXsCtHY6"
+      "id": "rauland",
+      "name": "Rauland"
     },
     {
-      "name": "Re",
-      "id": "eW0ZMfOuPGDG"
+      "id": "re",
+      "name": "Re"
     },
     {
-      "name": "Reine",
-      "id": "2z9FHzPo5wxh"
+      "id": "reine",
+      "name": "Reine"
     },
     {
-      "name": "Reinsvoll",
-      "id": "U2CrHKm1GFSA"
+      "id": "reinsvoll",
+      "name": "Reinsvoll"
     },
     {
-      "name": "Reipa",
-      "id": "ZiGVijp2lf3E"
+      "id": "reipa",
+      "name": "Reipa"
     },
     {
-      "name": "Reistad",
-      "id": "7zwNGllA97wP"
+      "id": "reistad",
+      "name": "Reistad"
     },
     {
-      "name": "Reitan",
-      "id": "v0cHOgvOeDiQ"
+      "id": "reitan",
+      "name": "Reitan"
     },
     {
-      "name": "Rena",
-      "id": "pV26czDk35y3"
+      "id": "rena",
+      "name": "Rena"
     },
     {
-      "name": "Rennebu",
-      "id": "CMxdB5A5AJhA"
+      "id": "rennebu",
+      "name": "Rennebu"
     },
     {
-      "name": "Rindal",
-      "id": "egSw8aIM8dP9"
+      "id": "rindal",
+      "name": "Rindal"
     },
     {
-      "name": "Ringebu",
-      "id": "ZyRwC4lzCshb"
+      "id": "ringebu",
+      "name": "Ringebu"
     },
     {
-      "name": "Ringsaker",
-      "id": "7aKqA6J-QDwQ"
+      "id": "ringsaker",
+      "name": "Ringsaker"
     },
     {
-      "name": "Ringstad",
-      "id": "pTIC1mXQoupe"
+      "id": "ringstad",
+      "name": "Ringstad"
     },
     {
-      "name": "Risoyhamn",
-      "id": "kbgufd-dN7qE"
+      "id": "risoyhamn",
+      "name": "Risoyhamn"
     },
     {
-      "name": "Rjukan",
-      "id": "9CU5ArZ6wc2k"
+      "id": "rjukan",
+      "name": "Rjukan"
     },
     {
-      "name": "Roa",
-      "id": "DzClh2-EJ_x1"
+      "id": "roa",
+      "name": "Roa"
     },
     {
-      "name": "Rodberg",
-      "id": "XWYi42d7-aFS"
+      "id": "rodberg",
+      "name": "Rodberg"
     },
     {
-      "name": "Rodoy",
-      "id": "Xq9tVAdcEFGP"
+      "id": "rodoy",
+      "name": "Rodoy"
     },
     {
-      "name": "Rognan",
-      "id": "5ldcENFhaolX"
+      "id": "rognan",
+      "name": "Rognan"
     },
     {
-      "name": "Rogne",
-      "id": "CQaq20hcq6xP"
+      "id": "rogne",
+      "name": "Rogne"
     },
     {
-      "name": "Rokland",
-      "id": "GgpJwTf9K59E"
+      "id": "rokland",
+      "name": "Rokland"
     },
     {
-      "name": "Roldal",
-      "id": "KiF8H3AUUzft"
+      "id": "roldal",
+      "name": "Roldal"
     },
     {
-      "name": "Rollag",
-      "id": "YIusPPNK88Tm"
+      "id": "rollag",
+      "name": "Rollag"
     },
     {
-      "name": "Rolvsoy",
-      "id": "SK0K6Cflq7hp"
+      "id": "rolvsoy",
+      "name": "Rolvsoy"
     },
     {
-      "name": "Romedal",
-      "id": "IISzeNqNVL6U"
+      "id": "romedal",
+      "name": "Romedal"
     },
     {
-      "name": "Rong",
-      "id": "51t91XmK1qs1"
+      "id": "rong",
+      "name": "Rong"
     },
     {
-      "name": "Roros",
-      "id": "BzD7O4APl4IF"
+      "id": "roros",
+      "name": "Roros"
     },
     {
-      "name": "Rorvik",
-      "id": "mURFGiXHAyee"
+      "id": "rorvik",
+      "name": "Rorvik"
     },
     {
-      "name": "Rosendal",
-      "id": "7WBXH6iWpbGI"
+      "id": "rosendal",
+      "name": "Rosendal"
     },
     {
-      "name": "Rossland",
-      "id": "k_gepCv_M-MZ"
+      "id": "rossland",
+      "name": "Rossland"
     },
     {
-      "name": "Rost",
-      "id": "g_NR4q-g70WW"
+      "id": "rost",
+      "name": "Rost"
     },
     {
-      "name": "Rovde",
-      "id": "8YLXQQBMoNGa"
+      "id": "rovde",
+      "name": "Rovde"
     },
     {
-      "name": "Roverud",
-      "id": "IoDpZevXAQ7m"
+      "id": "roverud",
+      "name": "Roverud"
     },
     {
-      "name": "Royken",
-      "id": "wnSPsM2fuhR3"
+      "id": "royken",
+      "name": "Royken"
     },
     {
-      "name": "Royneberg",
-      "id": "d_p4Swrhp3PF"
+      "id": "royneberg",
+      "name": "Royneberg"
     },
     {
-      "name": "Rubbestadneset",
-      "id": "chEJuafJUNCD"
+      "id": "rubbestadneset",
+      "name": "Rubbestadneset"
     },
     {
-      "name": "Rud",
-      "id": "66Jk3xI3EXUM"
+      "id": "rud",
+      "name": "Rud"
     },
     {
-      "name": "Rygge",
-      "id": "g7lWY_ymPTPr"
+      "id": "rygge",
+      "name": "Rygge"
     },
     {
-      "name": "Rykene",
-      "id": "hUMsY6iR5Qz5"
+      "id": "rykene",
+      "name": "Rykene"
     },
     {
-      "name": "Rypefjord",
-      "id": "9HGz9LMfY2kn"
+      "id": "rypefjord",
+      "name": "Rypefjord"
     },
     {
-      "name": "Saebo",
-      "id": "XtLUv5rbK40d"
+      "id": "saebo",
+      "name": "Saebo"
     },
     {
-      "name": "Saebovik",
-      "id": "pdhgeYLGN-bZ"
+      "id": "saebovik",
+      "name": "Saebovik"
     },
     {
-      "name": "Saetre",
-      "id": "AVZC_TXnTFEc"
+      "id": "saetre",
+      "name": "Saetre"
     },
     {
-      "name": "Saevareid",
-      "id": "n69_BewueP4i"
+      "id": "saevareid",
+      "name": "Saevareid"
     },
     {
-      "name": "Saeveland",
-      "id": "y7b9zbpbWIyY"
+      "id": "saeveland",
+      "name": "Saeveland"
     },
     {
-      "name": "Sagvag",
-      "id": "EfwCjJN1Umuy"
+      "id": "sagvag",
+      "name": "Sagvag"
     },
     {
-      "name": "Salhus",
-      "id": "RoJVN5y-OAg9"
+      "id": "salhus",
+      "name": "Salhus"
     },
     {
-      "name": "Salsbruket",
-      "id": "WG3OSajajG9u"
+      "id": "salsbruket",
+      "name": "Salsbruket"
     },
     {
-      "name": "Salsnes",
-      "id": "vtZ-O6gv-bPZ"
+      "id": "salsnes",
+      "name": "Salsnes"
     },
     {
-      "name": "Saltnes",
-      "id": "7jwRoQ3zTs5b"
+      "id": "saltnes",
+      "name": "Saltnes"
     },
     {
-      "name": "Samuelsberg",
-      "id": "73qeuoHZr1Mq"
+      "id": "samuelsberg",
+      "name": "Samuelsberg"
     },
     {
-      "name": "Sand",
-      "id": "9fE-4f50ktrh"
+      "id": "sand",
+      "name": "Sand"
     },
     {
-      "name": "Sandane",
-      "id": "n7ItCy-fFH25"
+      "id": "sandane",
+      "name": "Sandane"
     },
     {
-      "name": "Sande",
-      "id": "AD0iegI1Pxk5"
+      "id": "sande",
+      "name": "Sande"
     },
     {
-      "name": "Sandefjord",
-      "id": "9_cxWk4KJVTv"
+      "id": "sandefjord",
+      "name": "Sandefjord"
     },
     {
-      "name": "Sandeid",
-      "id": "o1pVD8m62xnD"
+      "id": "sandeid",
+      "name": "Sandeid"
     },
     {
-      "name": "Sander",
-      "id": "AgI4_WMVMEAl"
+      "id": "sander",
+      "name": "Sander"
     },
     {
-      "name": "Sandnes",
-      "id": "wEEYObDKcxHT"
+      "id": "sandnes",
+      "name": "Sandnes"
     },
     {
-      "name": "Sandnessjoen",
-      "id": "FzwO62CQoq53"
+      "id": "sandnessjoen",
+      "name": "Sandnessjoen"
     },
     {
-      "name": "Sandshamn",
-      "id": "Z4eBmuvVhty2"
+      "id": "sandshamn",
+      "name": "Sandshamn"
     },
     {
-      "name": "Sandstad",
-      "id": "Bet8uwi3DqTt"
+      "id": "sandstad",
+      "name": "Sandstad"
     },
     {
-      "name": "Sandtorg",
-      "id": "dIgBmtBtLOP5"
+      "id": "sandtorg",
+      "name": "Sandtorg"
     },
     {
-      "name": "Sandvika",
-      "id": "cK_Oq2_Q58Y2"
+      "id": "sandvika",
+      "name": "Sandvika"
     },
     {
-      "name": "Sandvoll",
-      "id": "JI0tJjRgb7CY"
+      "id": "sandvoll",
+      "name": "Sandvoll"
     },
     {
-      "name": "Sannidal",
-      "id": "yqSmTbpxXPcY"
+      "id": "sannidal",
+      "name": "Sannidal"
     },
     {
-      "name": "Sarpsborg",
-      "id": "buTGM_xq8Mmn"
+      "id": "sarpsborg",
+      "name": "Sarpsborg"
     },
     {
-      "name": "Saupstad",
-      "id": "BzQlRUpnjN7N"
+      "id": "saupstad",
+      "name": "Saupstad"
     },
     {
-      "name": "Selasvatn",
-      "id": "wY9sdxTo75Fi"
+      "id": "selasvatn",
+      "name": "Selasvatn"
     },
     {
-      "name": "Selje",
-      "id": "OsKigwUoRI-T"
+      "id": "selje",
+      "name": "Selje"
     },
     {
-      "name": "Seljord",
-      "id": "9_vLy36T2Ytm"
+      "id": "seljord",
+      "name": "Seljord"
     },
     {
-      "name": "Sellebakk",
-      "id": "nYT3QTAHKdS-"
+      "id": "sellebakk",
+      "name": "Sellebakk"
     },
     {
-      "name": "Selva",
-      "id": "DG_TyvWcvzQU"
+      "id": "selva",
+      "name": "Selva"
     },
     {
-      "name": "Selvaer",
-      "id": "to5XU46puJn7"
+      "id": "selvaer",
+      "name": "Selvaer"
     },
     {
-      "name": "Sem",
-      "id": "ORV01DMIErWU"
+      "id": "sem",
+      "name": "Sem"
     },
     {
-      "name": "Setermoen",
-      "id": "rdYoLvrWlt9x"
+      "id": "setermoen",
+      "name": "Setermoen"
     },
     {
-      "name": "Siggerud",
-      "id": "-uYOlQ4MsAXj"
+      "id": "siggerud",
+      "name": "Siggerud"
     },
     {
-      "name": "Siljan",
-      "id": "60gkMgreeWlL"
+      "id": "siljan",
+      "name": "Siljan"
     },
     {
-      "name": "Silsand",
-      "id": "Xf5Ls4Q7h_LL"
+      "id": "silsand",
+      "name": "Silsand"
     },
     {
-      "name": "Singsas",
-      "id": "V0cIASd4f0MI"
+      "id": "singsas",
+      "name": "Singsas"
     },
     {
-      "name": "Sira",
-      "id": "MeAdbQz6sq_8"
+      "id": "sira",
+      "name": "Sira"
     },
     {
-      "name": "Sirevag",
-      "id": "wuk27KVgln-9"
+      "id": "sirevag",
+      "name": "Sirevag"
     },
     {
-      "name": "Sistranda",
-      "id": "eJLYlmKoY5Lq"
+      "id": "sistranda",
+      "name": "Sistranda"
     },
     {
-      "name": "Sjovegan",
-      "id": "W0IY3pMxB_Zx"
+      "id": "sjovegan",
+      "name": "Sjovegan"
     },
     {
-      "name": "Skabu",
-      "id": "GRp7vzXppVtz"
+      "id": "skabu",
+      "name": "Skabu"
     },
     {
-      "name": "Skage",
-      "id": "BWePPkP5CsqI"
+      "id": "skage",
+      "name": "Skage"
     },
     {
-      "name": "Skanevik",
-      "id": "R_KWOO-zvX5p"
+      "id": "skanevik",
+      "name": "Skanevik"
     },
     {
-      "name": "Skarer",
-      "id": "MuVtyDh9X0hT"
+      "id": "skarer",
+      "name": "Skarer"
     },
     {
-      "name": "Skarnes",
-      "id": "rPQWHO7Z7fav"
+      "id": "skarnes",
+      "name": "Skarnes"
     },
     {
-      "name": "Skatoy",
-      "id": "1p3NQ-RlFqYk"
+      "id": "skatoy",
+      "name": "Skatoy"
     },
     {
-      "name": "Skaun",
-      "id": "h1sZO5SAarvW"
+      "id": "skaun",
+      "name": "Skaun"
     },
     {
-      "name": "Skedsmokorset",
-      "id": "y8RXLXfhxAfm"
+      "id": "skedsmokorset",
+      "name": "Skedsmokorset"
     },
     {
-      "name": "Skeie",
-      "id": "nWJfieGTACte"
+      "id": "skeie",
+      "name": "Skeie"
     },
     {
-      "name": "Ski",
-      "id": "f8yJK81QKduz"
+      "id": "ski",
+      "name": "Ski"
     },
     {
-      "name": "Skien",
-      "id": "ZAw7nqmtGbhL"
+      "id": "skien",
+      "name": "Skien"
     },
     {
-      "name": "Skjeberg",
-      "id": "qjE6kW-pxAdh"
+      "id": "skjeberg",
+      "name": "Skjeberg"
     },
     {
-      "name": "Skjerstad",
-      "id": "WtqJ0g-8Yz5l"
+      "id": "skjerstad",
+      "name": "Skjerstad"
     },
     {
-      "name": "Skjervoy",
-      "id": "MNk5pxWZk_lw"
+      "id": "skjervoy",
+      "name": "Skjervoy"
     },
     {
-      "name": "Skjold",
-      "id": "NF8JWuy5h1SZ"
+      "id": "skjold",
+      "name": "Skjold"
     },
     {
-      "name": "Skjoldastraumen",
-      "id": "bu7TX0DnmHVd"
+      "id": "skjoldastraumen",
+      "name": "Skjoldastraumen"
     },
     {
-      "name": "Skjolden",
-      "id": "wTs0x6dHVXKz"
+      "id": "skjolden",
+      "name": "Skjolden"
     },
     {
-      "name": "Skodje",
-      "id": "8dTVh9uxqLmL"
+      "id": "skodje",
+      "name": "Skodje"
     },
     {
-      "name": "Skogn",
-      "id": "-P4XBvhqnw0f"
+      "id": "skogn",
+      "name": "Skogn"
     },
     {
-      "name": "Skoppum",
-      "id": "4uvuw4zgJe9p"
+      "id": "skoppum",
+      "name": "Skoppum"
     },
     {
-      "name": "Skotbu",
-      "id": "yTDvZQZOz1oh"
+      "id": "skotbu",
+      "name": "Skotbu"
     },
     {
-      "name": "Skotterud",
-      "id": "e5O4cnBFOw_V"
+      "id": "skotterud",
+      "name": "Skotterud"
     },
     {
-      "name": "Skreia",
-      "id": "NtgfriL2O9b4"
+      "id": "skreia",
+      "name": "Skreia"
     },
     {
-      "name": "Skudeneshavn",
-      "id": "ASLRp-H8KTGI"
+      "id": "skudeneshavn",
+      "name": "Skudeneshavn"
     },
     {
-      "name": "Skulsfjord",
-      "id": "5fPkC7oGI3Xc"
+      "id": "skulsfjord",
+      "name": "Skulsfjord"
     },
     {
-      "name": "Skutvika",
-      "id": "sX9ncQNchWnl"
+      "id": "skutvika",
+      "name": "Skutvika"
     },
     {
-      "name": "Slastad",
-      "id": "Ye1YmEhHPtrD"
+      "id": "slastad",
+      "name": "Slastad"
     },
     {
-      "name": "Slattum",
-      "id": "O-d8iQvMpde7"
+      "id": "slattum",
+      "name": "Slattum"
     },
     {
-      "name": "Slemdal",
-      "id": "7fRlCzBu5AjG"
+      "id": "slemdal",
+      "name": "Slemdal"
     },
     {
-      "name": "Slemmestad",
-      "id": "MkBlC5aCKFk0"
+      "id": "slemmestad",
+      "name": "Slemmestad"
     },
     {
-      "name": "Sletta",
-      "id": "mXkn-dUkxFe7"
+      "id": "sletta",
+      "name": "Sletta"
     },
     {
-      "name": "Snaase",
-      "id": "aeiO9ga0x9A2"
+      "id": "snaase",
+      "name": "Snaase"
     },
     {
-      "name": "Snillfjord",
-      "id": "JzExuPpSIOKm"
+      "id": "snillfjord",
+      "name": "Snillfjord"
     },
     {
-      "name": "Sogn",
-      "id": "p830dwZt8EEo"
+      "id": "sogn",
+      "name": "Sogn"
     },
     {
-      "name": "Sokna",
-      "id": "A2eTcfHKJoj4"
+      "id": "sokna",
+      "name": "Sokna"
     },
     {
-      "name": "Sokndal",
-      "id": "c3X_79FEW1NK"
+      "id": "sokndal",
+      "name": "Sokndal"
     },
     {
-      "name": "Soknedal",
-      "id": "uWNCsDIywjE0"
+      "id": "soknedal",
+      "name": "Soknedal"
     },
     {
-      "name": "Sola",
-      "id": "VRCY-1ulSNPX"
+      "id": "sola",
+      "name": "Sola"
     },
     {
-      "name": "Solbergelva",
-      "id": "yhSMZF3P3Nql"
+      "id": "solbergelva",
+      "name": "Solbergelva"
     },
     {
-      "name": "Solvorn",
-      "id": "dvC_0mQBrCCq"
+      "id": "solvorn",
+      "name": "Solvorn"
     },
     {
-      "name": "Sommaroy",
-      "id": "jiKwsd9Kfk23"
+      "id": "sommaroy",
+      "name": "Sommaroy"
     },
     {
-      "name": "Somna",
-      "id": "EvhbggsGJKVN"
+      "id": "somna",
+      "name": "Somna"
     },
     {
-      "name": "Son",
-      "id": "V2Gro1SGVy4c"
+      "id": "son",
+      "name": "Son"
     },
     {
-      "name": "Sondeled",
-      "id": "u68Dcv4Bf0wN"
+      "id": "sondeled",
+      "name": "Sondeled"
     },
     {
-      "name": "Sor-Fron",
-      "id": "_vpJxLq2rNAd"
+      "id": "sor-fron",
+      "name": "Sor-Fron"
     },
     {
-      "name": "Sorbo",
-      "id": "jmWvnys42w6X"
+      "id": "sorbo",
+      "name": "Sorbo"
     },
     {
-      "name": "Soreidgrenda",
-      "id": "LeE8tBlJWEgv"
+      "id": "soreidgrenda",
+      "name": "Soreidgrenda"
     },
     {
-      "name": "Sorli",
-      "id": "Z3vHkKeeRqTV"
+      "id": "sorli",
+      "name": "Sorli"
     },
     {
-      "name": "Sortland",
-      "id": "vwxbi6tKnaFz"
+      "id": "sortland",
+      "name": "Sortland"
     },
     {
-      "name": "Sorum",
-      "id": "gGUkQSAoqVWl"
+      "id": "sorum",
+      "name": "Sorum"
     },
     {
-      "name": "Sorumsand",
-      "id": "9jHhDqmbIsRo"
+      "id": "sorumsand",
+      "name": "Sorumsand"
     },
     {
-      "name": "Sorvaer",
-      "id": "jYT70A5cG-QT"
+      "id": "sorvaer",
+      "name": "Sorvaer"
     },
     {
-      "name": "Sorvagen",
-      "id": "BYaww72A2wzi"
+      "id": "sorvagen",
+      "name": "Sorvagen"
     },
     {
-      "name": "Sorvik",
-      "id": "xLPk-zHC1PaN"
+      "id": "sorvik",
+      "name": "Sorvik"
     },
     {
-      "name": "Spangereid",
-      "id": "6Z2-PLBwypiZ"
+      "id": "spangereid",
+      "name": "Spangereid"
     },
     {
-      "name": "Sparbu",
-      "id": "E6xfbYN-K-jG"
+      "id": "sparbu",
+      "name": "Sparbu"
     },
     {
-      "name": "Sperrebotn",
-      "id": "-15c0CSfeZRi"
+      "id": "sperrebotn",
+      "name": "Sperrebotn"
     },
     {
-      "name": "Spillum",
-      "id": "eaduzDPOxbLo"
+      "id": "spillum",
+      "name": "Spillum"
     },
     {
-      "name": "Spydeberg",
-      "id": "0QnHqa3FpVvr"
+      "id": "spydeberg",
+      "name": "Spydeberg"
     },
     {
-      "name": "Stabbestad",
-      "id": "uwW4GvyRrjo6"
+      "id": "stabbestad",
+      "name": "Stabbestad"
     },
     {
-      "name": "Stabekk",
-      "id": "vIn_qAe-aUiz"
+      "id": "stabekk",
+      "name": "Stabekk"
     },
     {
-      "name": "Stamnes",
-      "id": "7R3gRLjvs8RB"
+      "id": "stamnes",
+      "name": "Stamnes"
     },
     {
-      "name": "Stamsund",
-      "id": "Ie6X6D5gSipC"
+      "id": "stamsund",
+      "name": "Stamsund"
     },
     {
-      "name": "Stange",
-      "id": "lB1DPdOYuMH1"
+      "id": "stange",
+      "name": "Stange"
     },
     {
-      "name": "Stathelle",
-      "id": "iZaM334w4zLm"
+      "id": "stathelle",
+      "name": "Stathelle"
     },
     {
-      "name": "Staubo",
-      "id": "4H_yH8doQ0fu"
+      "id": "staubo",
+      "name": "Staubo"
     },
     {
-      "name": "Stavanger",
-      "id": "BXy0x6slFSBt"
+      "id": "stavanger",
+      "name": "Stavanger"
     },
     {
-      "name": "Stavern",
-      "id": "nv1ojQU00--k"
+      "id": "stavern",
+      "name": "Stavern"
     },
     {
-      "name": "Steigen",
-      "id": "ksXdWs0KmITc"
+      "id": "steigen",
+      "name": "Steigen"
     },
     {
-      "name": "Steinberg",
-      "id": "P9mPcbYeyYvN"
+      "id": "steinberg",
+      "name": "Steinberg"
     },
     {
-      "name": "Steinkjer",
-      "id": "h_zIcdTeXz1L"
+      "id": "steinkjer",
+      "name": "Steinkjer"
     },
     {
-      "name": "Steinsdalen",
-      "id": "5twwLi-rqKcK"
+      "id": "steinsdalen",
+      "name": "Steinsdalen"
     },
     {
-      "name": "Sto",
-      "id": "V3LY0Lxau2po"
+      "id": "sto",
+      "name": "Sto"
     },
     {
-      "name": "Stokke",
-      "id": "Aap5zjFbgGNw"
+      "id": "stokke",
+      "name": "Stokke"
     },
     {
-      "name": "Stokmarknes",
-      "id": "I3AhNI8tdXHD"
+      "id": "stokmarknes",
+      "name": "Stokmarknes"
     },
     {
-      "name": "Stol",
-      "id": "4eXibAh810Si"
+      "id": "stol",
+      "name": "Stol"
     },
     {
-      "name": "Storas",
-      "id": "w3pQ37WAoKfB"
+      "id": "storas",
+      "name": "Storas"
     },
     {
-      "name": "Stordal",
-      "id": "Rrb7MKt8FGsg"
+      "id": "stordal",
+      "name": "Stordal"
     },
     {
-      "name": "Storebo",
-      "id": "Wicqiv65bh4R"
+      "id": "storebo",
+      "name": "Storebo"
     },
     {
-      "name": "Storforshei",
-      "id": "gN9FLZyi0HWq"
+      "id": "storforshei",
+      "name": "Storforshei"
     },
     {
-      "name": "Storslett",
-      "id": "4pxFCnOy8z46"
+      "id": "storslett",
+      "name": "Storslett"
     },
     {
-      "name": "Storsteinnes",
-      "id": "TWOeRYG-HGAQ"
+      "id": "storsteinnes",
+      "name": "Storsteinnes"
     },
     {
-      "name": "Stranda",
-      "id": "OgTn17J3A4a2"
+      "id": "stranda",
+      "name": "Stranda"
     },
     {
-      "name": "Straume",
-      "id": "P5Snyx2ax3Ru"
+      "id": "straume",
+      "name": "Straume"
     },
     {
-      "name": "Straumen",
-      "id": "81XkCfRUTCW9"
+      "id": "straumen",
+      "name": "Straumen"
     },
     {
-      "name": "Strommen",
-      "id": "x5etrJGgm9wM"
+      "id": "strommen",
+      "name": "Strommen"
     },
     {
-      "name": "Stronstad",
-      "id": "M-fZrckRaXA5"
+      "id": "stronstad",
+      "name": "Stronstad"
     },
     {
-      "name": "Strusshamn",
-      "id": "8kSx07RZt3B4"
+      "id": "strusshamn",
+      "name": "Strusshamn"
     },
     {
-      "name": "Stryn",
-      "id": "07TjaZFmc_4_"
+      "id": "stryn",
+      "name": "Stryn"
     },
     {
-      "name": "Suldalsosen",
-      "id": "a7gMW9dfdQ5N"
+      "id": "suldalsosen",
+      "name": "Suldalsosen"
     },
     {
-      "name": "Sulisjielmma",
-      "id": "ce6CPFjIvZNS"
+      "id": "sulisjielmma",
+      "name": "Sulisjielmma"
     },
     {
-      "name": "Sund",
-      "id": "G5pPH_zL3v2X"
+      "id": "sund",
+      "name": "Sund"
     },
     {
-      "name": "Sundal",
-      "id": "JbbgsuVCRYaF"
+      "id": "sundal",
+      "name": "Sundal"
     },
     {
-      "name": "Sunde",
-      "id": "9JiXXOpKa4yM"
+      "id": "sunde",
+      "name": "Sunde"
     },
     {
-      "name": "Sunndalsora",
-      "id": "qLqCtbyx7cFW"
+      "id": "sunndalsora",
+      "name": "Sunndalsora"
     },
     {
-      "name": "Surnadalsora",
-      "id": "YakTZ5-wXm0k"
+      "id": "surnadalsora",
+      "name": "Surnadalsora"
     },
     {
-      "name": "Svarstad",
-      "id": "-T6-1psqSyqr"
+      "id": "svarstad",
+      "name": "Svarstad"
     },
     {
-      "name": "Svartskog",
-      "id": "D7JCiMlCyOKt"
+      "id": "svartskog",
+      "name": "Svartskog"
     },
     {
-      "name": "Sveio",
-      "id": "gTcl4cUs42ns"
+      "id": "sveio",
+      "name": "Sveio"
     },
     {
-      "name": "Svelgen",
-      "id": "1zb6jQM8E9nB"
+      "id": "svelgen",
+      "name": "Svelgen"
     },
     {
-      "name": "Svelvik",
-      "id": "tN5IZUSDg5M3"
+      "id": "svelvik",
+      "name": "Svelvik"
     },
     {
-      "name": "Svene",
-      "id": "osj28EK1JN8a"
+      "id": "svene",
+      "name": "Svene"
     },
     {
-      "name": "Svortland",
-      "id": "bGHtIop7LRUh"
+      "id": "svortland",
+      "name": "Svortland"
     },
     {
-      "name": "Sylling",
-      "id": "1QtPcBSfRPPL"
+      "id": "sylling",
+      "name": "Sylling"
     },
     {
-      "name": "Syvik",
-      "id": "jzZw34YHUlfp"
+      "id": "syvik",
+      "name": "Syvik"
     },
     {
-      "name": "Tafjord",
-      "id": "YxNSFNe1AauJ"
+      "id": "tafjord",
+      "name": "Tafjord"
     },
     {
-      "name": "Talvik",
-      "id": "wkq6CtY57vpX"
+      "id": "talvik",
+      "name": "Talvik"
     },
     {
-      "name": "Tananger",
-      "id": "Wua4q1LH4Bpt"
+      "id": "tananger",
+      "name": "Tananger"
     },
     {
-      "name": "Tanem",
-      "id": "Q0GJqmQDrzsU"
+      "id": "tanem",
+      "name": "Tanem"
     },
     {
-      "name": "Tangen",
-      "id": "IRJ6mqGn7ABi"
+      "id": "tangen",
+      "name": "Tangen"
     },
     {
-      "name": "Tau",
-      "id": "8PKyUJ4sWiK4"
+      "id": "tau",
+      "name": "Tau"
     },
     {
-      "name": "Tennevoll",
-      "id": "48ikR3m98q5S"
+      "id": "tennevoll",
+      "name": "Tennevoll"
     },
     {
-      "name": "Tennfjord",
-      "id": "6jINQHmlwIw8"
+      "id": "tennfjord",
+      "name": "Tennfjord"
     },
     {
-      "name": "Tertnes",
-      "id": "mwuObNQO--My"
+      "id": "tertnes",
+      "name": "Tertnes"
     },
     {
-      "name": "Tiller",
-      "id": "BLInCssAlvSI"
+      "id": "tiller",
+      "name": "Tiller"
     },
     {
-      "name": "Tingvoll",
-      "id": "jUYCODAgUSu4"
+      "id": "tingvoll",
+      "name": "Tingvoll"
     },
     {
-      "name": "Tistedal",
-      "id": "vsmeV4vjlt_1"
+      "id": "tistedal",
+      "name": "Tistedal"
     },
     {
-      "name": "Tjeldsto",
-      "id": "-1-v731EyK3L"
+      "id": "tjeldsto",
+      "name": "Tjeldsto"
     },
     {
-      "name": "Tjelta",
-      "id": "b3apgoohy0wX"
+      "id": "tjelta",
+      "name": "Tjelta"
     },
     {
-      "name": "Tjong",
-      "id": "g7U0pd6sZus5"
+      "id": "tjong",
+      "name": "Tjong"
     },
     {
-      "name": "Tjorvag",
-      "id": "36wqjqLSb1fh"
+      "id": "tjorvag",
+      "name": "Tjorvag"
     },
     {
-      "name": "Tjotta",
-      "id": "s_TXG7k6mDhp"
+      "id": "tjotta",
+      "name": "Tjotta"
     },
     {
-      "name": "Tofte",
-      "id": "JGhSMhVGQLU8"
+      "id": "tofte",
+      "name": "Tofte"
     },
     {
-      "name": "Tolga",
-      "id": "iH6LBn8d7PTS"
+      "id": "tolga",
+      "name": "Tolga"
     },
     {
-      "name": "Tomasjorda",
-      "id": "6taLDeUvkbTO"
+      "id": "tomasjorda",
+      "name": "Tomasjorda"
     },
     {
-      "name": "Tomter",
-      "id": "HQfg_0B6OcM3"
+      "id": "tomter",
+      "name": "Tomter"
     },
     {
-      "name": "Tonstad",
-      "id": "YwPNjyQzVeJm"
+      "id": "tonstad",
+      "name": "Tonstad"
     },
     {
-      "name": "Tornes",
-      "id": "d8KXyH9cM3q_"
+      "id": "tornes",
+      "name": "Tornes"
     },
     {
-      "name": "Torod",
-      "id": "FbONn0cVvKTp"
+      "id": "torod",
+      "name": "Torod"
     },
     {
-      "name": "Torp",
-      "id": "3hLrgGJSzq8w"
+      "id": "torp",
+      "name": "Torp"
     },
     {
-      "name": "Torpo",
-      "id": "sPNoZW1lhRB9"
+      "id": "torpo",
+      "name": "Torpo"
     },
     {
-      "name": "Tovik",
-      "id": "gPO85HWDbM2G"
+      "id": "tovik",
+      "name": "Tovik"
     },
     {
-      "name": "Trana",
-      "id": "iujNNwoK2gSS"
+      "id": "trana",
+      "name": "Trana"
     },
     {
-      "name": "Tranby",
-      "id": "Ncc8Qrp0AiMh"
+      "id": "tranby",
+      "name": "Tranby"
     },
     {
-      "name": "Trengereid",
-      "id": "b2r3d3tU6Arn"
+      "id": "trengereid",
+      "name": "Trengereid"
     },
     {
-      "name": "Tretten",
-      "id": "pBOOi6-rw-am"
+      "id": "tretten",
+      "name": "Tretten"
     },
     {
-      "name": "Treungen",
-      "id": "tsjSTLXly88I"
+      "id": "treungen",
+      "name": "Treungen"
     },
     {
-      "name": "Trofors",
-      "id": "TM0xO8VSyWG3"
+      "id": "trofors",
+      "name": "Trofors"
     },
     {
-      "name": "Trollfjorden",
-      "id": "7JyHR7CjF4Lf"
+      "id": "trollfjorden",
+      "name": "Trollfjorden"
     },
     {
-      "name": "Tromsdalen",
-      "id": "j73ZalYoYPYp"
+      "id": "tromsdalen",
+      "name": "Tromsdalen"
     },
     {
-      "name": "Trondheim",
-      "id": "GdYP7j-LtV6A"
+      "id": "trondheim",
+      "name": "Trondheim"
     },
     {
-      "name": "Trones",
-      "id": "SMpiBmNQfZVr"
+      "id": "trones",
+      "name": "Trones"
     },
     {
-      "name": "Turoy",
-      "id": "BmhB0Cgvrj0P"
+      "id": "turoy",
+      "name": "Turoy"
     },
     {
-      "name": "Tvedestrand",
-      "id": "soLwNDTeKvhs"
+      "id": "tvedestrand",
+      "name": "Tvedestrand"
     },
     {
-      "name": "Tveit",
-      "id": "24_evCinlc8u"
+      "id": "tveit",
+      "name": "Tveit"
     },
     {
-      "name": "Tynset",
-      "id": "CK3R1uK7czKh"
+      "id": "tynset",
+      "name": "Tynset"
     },
     {
-      "name": "Tyristrand",
-      "id": "fO8WyS5l4gCx"
+      "id": "tyristrand",
+      "name": "Tyristrand"
     },
     {
-      "name": "Tysnes",
-      "id": "RqmUGcDroReJ"
+      "id": "tysnes",
+      "name": "Tysnes"
     },
     {
-      "name": "Tysse",
-      "id": "jp9xb--_6R5K"
+      "id": "tysse",
+      "name": "Tysse"
     },
     {
-      "name": "Tyssedal",
-      "id": "wCsLtrtRMAnJ"
+      "id": "tyssedal",
+      "name": "Tyssedal"
     },
     {
-      "name": "Uggdal",
-      "id": "KGVdJSmiaKtG"
+      "id": "uggdal",
+      "name": "Uggdal"
     },
     {
-      "name": "Ulefoss",
-      "id": "k29UYP0ziiY4"
+      "id": "ulefoss",
+      "name": "Ulefoss"
     },
     {
-      "name": "Ulstein",
-      "id": "lJvhPjCeFTaK"
+      "id": "ulstein",
+      "name": "Ulstein"
     },
     {
-      "name": "Ulsteinvik",
-      "id": "smdckVudFrbL"
+      "id": "ulsteinvik",
+      "name": "Ulsteinvik"
     },
     {
-      "name": "Ulvagen",
-      "id": "Ke3z6Vlc5dPB"
+      "id": "ulvagen",
+      "name": "Ulvagen"
     },
     {
-      "name": "Ulvik",
-      "id": "R00mhCnCIMyr"
+      "id": "ulvik",
+      "name": "Ulvik"
     },
     {
-      "name": "Undeim",
-      "id": "0VUswen77rCV"
+      "id": "undeim",
+      "name": "Undeim"
     },
     {
-      "name": "Uskedalen",
-      "id": "IZ9_ZX2RGPVT"
+      "id": "uskedalen",
+      "name": "Uskedalen"
     },
     {
-      "name": "Utsira",
-      "id": "VtBS-PpdFg6Y"
+      "id": "utsira",
+      "name": "Utsira"
     },
     {
-      "name": "Utskarpen",
-      "id": "5s-WZeKxuqUV"
+      "id": "utskarpen",
+      "name": "Utskarpen"
     },
     {
-      "name": "Uvdal",
-      "id": "dyclqRF5wrwv"
+      "id": "uvdal",
+      "name": "Uvdal"
     },
     {
-      "name": "Vadheim",
-      "id": "8_ERneLFAj2K"
+      "id": "vadheim",
+      "name": "Vadheim"
     },
     {
-      "name": "Vage",
-      "id": "cnLjMB89XiJD"
+      "id": "vage",
+      "name": "Vage"
     },
     {
-      "name": "Vagland",
-      "id": "F1yJsPr_Q1ZC"
+      "id": "vagland",
+      "name": "Vagland"
     },
     {
-      "name": "Vaksdal",
-      "id": "htMkA_y1Soq_"
+      "id": "vaksdal",
+      "name": "Vaksdal"
     },
     {
-      "name": "Vale",
-      "id": "xLr9nJDeZ_sv"
+      "id": "vale",
+      "name": "Vale"
     },
     {
-      "name": "Valen",
-      "id": "kjF1Yb-Dfp7F"
+      "id": "valen",
+      "name": "Valen"
     },
     {
-      "name": "Valer",
-      "id": "lZfGMK2AWHcG"
+      "id": "valer",
+      "name": "Valer"
     },
     {
-      "name": "Valestrand",
-      "id": "SHEhhsYLB2Az"
+      "id": "valestrand",
+      "name": "Valestrand"
     },
     {
-      "name": "Valestrandfossen",
-      "id": "lsojRtDyc5bC"
+      "id": "valestrandfossen",
+      "name": "Valestrandfossen"
     },
     {
-      "name": "Valldal",
-      "id": "f7AJZ86Gec2x"
+      "id": "valldal",
+      "name": "Valldal"
     },
     {
-      "name": "Valle",
-      "id": "UB82UDLB7agN"
+      "id": "valle",
+      "name": "Valle"
     },
     {
-      "name": "Valsoyfjord",
-      "id": "qnEdPPG_yarm"
+      "id": "valsoyfjord",
+      "name": "Valsoyfjord"
     },
     {
-      "name": "Vangsvika",
-      "id": "TXOu50AfmAsv"
+      "id": "vangsvika",
+      "name": "Vangsvika"
     },
     {
-      "name": "Vannvag",
-      "id": "dc7Z_3Xr9cJA"
+      "id": "vannvag",
+      "name": "Vannvag"
     },
     {
-      "name": "Vanse",
-      "id": "0cmOJDehEhPV"
+      "id": "vanse",
+      "name": "Vanse"
     },
     {
-      "name": "Varangerbotn",
-      "id": "H5W9pQN2CYfw"
+      "id": "varangerbotn",
+      "name": "Varangerbotn"
     },
     {
-      "name": "Varhaug",
-      "id": "DWKm5bWY0YZk"
+      "id": "varhaug",
+      "name": "Varhaug"
     },
     {
-      "name": "Vassenden",
-      "id": "ajpK0bcwv6do"
+      "id": "vassenden",
+      "name": "Vassenden"
     },
     {
-      "name": "Vatne",
-      "id": "QxXkht0oXzpV"
+      "id": "vatne",
+      "name": "Vatne"
     },
     {
-      "name": "Vedavagen",
-      "id": "zbff7vSDpY5F"
+      "id": "vedavagen",
+      "name": "Vedavagen"
     },
     {
-      "name": "Vegarshei",
-      "id": "FpgTE3Xm16xq"
+      "id": "vegarshei",
+      "name": "Vegarshei"
     },
     {
-      "name": "Veggli",
-      "id": "bkF6jHnByxx5"
+      "id": "veggli",
+      "name": "Veggli"
     },
     {
-      "name": "Venabygd",
-      "id": "OYyptpuP6CI2"
+      "id": "venabygd",
+      "name": "Venabygd"
     },
     {
-      "name": "Vennesla",
-      "id": "2STFCl2_tqrY"
+      "id": "vennesla",
+      "name": "Vennesla"
     },
     {
-      "name": "Verdal",
-      "id": "1Aai-FztN2PB"
+      "id": "verdal",
+      "name": "Verdal"
     },
     {
-      "name": "Vestby",
-      "id": "W_v_83-74TLo"
+      "id": "vestby",
+      "name": "Vestby"
     },
     {
-      "name": "Vestfossen",
-      "id": "cYrykzvJ2pX6"
+      "id": "vestfossen",
+      "name": "Vestfossen"
     },
     {
-      "name": "Vestnes",
-      "id": "lOOr_63w3n3O"
+      "id": "vestnes",
+      "name": "Vestnes"
     },
     {
-      "name": "Vestra Mosterhamn",
-      "id": "XkAsU31l5DFi"
+      "id": "vestra-mosterhamn",
+      "name": "Vestra Mosterhamn"
     },
     {
-      "name": "Vestre Gausdal",
-      "id": "62BinCyF71oU"
+      "id": "vestre-gausdal",
+      "name": "Vestre Gausdal"
     },
     {
-      "name": "Vevang",
-      "id": "td0VvVPX8PUh"
+      "id": "vevang",
+      "name": "Vevang"
     },
     {
-      "name": "Vevelstad",
-      "id": "h8tAiIHuBCX3"
+      "id": "vevelstad",
+      "name": "Vevelstad"
     },
     {
-      "name": "Vigrestad",
-      "id": "loAAwZkmA0Xj"
+      "id": "vigrestad",
+      "name": "Vigrestad"
     },
     {
-      "name": "Vikebygd",
-      "id": "gWXU4m5pCZ6d"
+      "id": "vikebygd",
+      "name": "Vikebygd"
     },
     {
-      "name": "Vikedal",
-      "id": "B1AejgclgLXz"
+      "id": "vikedal",
+      "name": "Vikedal"
     },
     {
-      "name": "Vikersund",
-      "id": "AgCcR9TnfSU6"
+      "id": "vikersund",
+      "name": "Vikersund"
     },
     {
-      "name": "Vikesa",
-      "id": "-JywTvX-QIQB"
+      "id": "vikesa",
+      "name": "Vikesa"
     },
     {
-      "name": "Vikran",
-      "id": "GRoJsgYO0mZL"
+      "id": "vikran",
+      "name": "Vikran"
     },
     {
-      "name": "Vingelen",
-      "id": "iHa8dyWWEBjX"
+      "id": "vingelen",
+      "name": "Vingelen"
     },
     {
-      "name": "Vinje",
-      "id": "qNmstSQjPMFk"
+      "id": "vinje",
+      "name": "Vinje"
     },
     {
-      "name": "Vinstra",
-      "id": "xY4qyO8GE4aC"
+      "id": "vinstra",
+      "name": "Vinstra"
     },
     {
-      "name": "Voksa",
-      "id": "4L-d3wqKvyeg"
+      "id": "voksa",
+      "name": "Voksa"
     },
     {
-      "name": "Volda",
-      "id": "whvr7x4fmDP_"
+      "id": "volda",
+      "name": "Volda"
     },
     {
-      "name": "Vollen",
-      "id": "UEx-w7YBuS7s"
+      "id": "vollen",
+      "name": "Vollen"
     },
     {
-      "name": "Vormedal",
-      "id": "ymHnOSrwhZ7U"
+      "id": "vormedal",
+      "name": "Vormedal"
     },
     {
-      "name": "Vormsund",
-      "id": "GENvAe5lU1EI"
+      "id": "vormsund",
+      "name": "Vormsund"
     },
     {
-      "name": "Voss",
-      "id": "N9EwOfpHdsNF"
+      "id": "voss",
+      "name": "Voss"
     },
     {
-      "name": "Vossestrand",
-      "id": "iiGPQdt58DzX"
+      "id": "vossestrand",
+      "name": "Vossestrand"
     },
     {
-      "name": "Vraliosen",
-      "id": "MKqRYwQWz6PP"
+      "id": "vraliosen",
+      "name": "Vraliosen"
     },
     {
-      "name": "Ytre Alvik",
-      "id": "UN79GJvdo8Rk"
+      "id": "ytre-alvik",
+      "name": "Ytre Alvik"
     }
   ]
 }

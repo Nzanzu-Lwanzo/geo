@@ -2,68 +2,68 @@
   "coid": "KW",
   "cities": [
     {
-      "name": "Abraq Khaytan",
-      "id": "vZVL3mAtwoZ7"
+      "id": "abraq-khaytan",
+      "name": "Abraq Khaytan"
     },
     {
-      "name": "Ad Dasmah",
-      "id": "Fz_VNhDG-va0"
+      "id": "ad-dasmah",
+      "name": "Ad Dasmah"
     },
     {
-      "name": "Ad Dawhah",
-      "id": "SmcUv0Tz0XDK"
+      "id": "ad-dawhah",
+      "name": "Ad Dawhah"
     },
     {
-      "name": "Al Ahmadi",
-      "id": "hGDpaggyZJlX"
+      "id": "al-ahmadi",
+      "name": "Al Ahmadi"
     },
     {
-      "name": "Al Farwaniyah",
-      "id": "idPCxv_RKLJ9"
+      "id": "al-farwaniyah",
+      "name": "Al Farwaniyah"
     },
     {
-      "name": "Al Shamiya",
-      "id": "q-FJvAkmYl0n"
+      "id": "al-shamiya",
+      "name": "Al Shamiya"
     },
     {
-      "name": "Ar Rawdah",
-      "id": "0VNsPOZlwnUG"
+      "id": "ar-rawdah",
+      "name": "Ar Rawdah"
     },
     {
-      "name": "As Salimiyah",
-      "id": "gsWF3lJoYnam"
+      "id": "as-salimiyah",
+      "name": "As Salimiyah"
     },
     {
-      "name": "Ash Shu`aybah",
-      "id": "G5kA4hWrriWN"
+      "id": "ash-shuaybah",
+      "name": "Ash Shu`aybah"
     },
     {
-      "name": "Ash Shuwaykh",
-      "id": "z1B8bUfJPtlk"
+      "id": "ash-shuwaykh",
+      "name": "Ash Shuwaykh"
     },
     {
-      "name": "Bayan",
-      "id": "FcOZfW6-bFtx"
+      "id": "bayan",
+      "name": "Bayan"
     },
     {
-      "name": "Hawalli",
-      "id": "TTSGjv45JGcS"
+      "id": "hawalli",
+      "name": "Hawalli"
     },
     {
-      "name": "Janub as Surrah",
-      "id": "v-Qcs0CzC-ix"
+      "id": "janub-as-surrah",
+      "name": "Janub as Surrah"
     },
     {
-      "name": "Kayfan",
-      "id": "yDoKUoIWGW0E"
+      "id": "kayfan",
+      "name": "Kayfan"
     },
     {
-      "name": "Kuwait City",
-      "id": "B2U4Jke732G1"
+      "id": "kuwait-city",
+      "name": "Kuwait City"
     },
     {
-      "name": "Salwa",
-      "id": "3JxmyYaoG7H6"
+      "id": "salwa",
+      "name": "Salwa"
     }
   ]
 }

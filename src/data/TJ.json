@@ -2,44 +2,44 @@
   "coid": "TJ",
   "cities": [
     {
-      "name": "Dushanbe",
-      "id": "w9CDDBLNozs6"
+      "id": "dushanbe",
+      "name": "Dushanbe"
     },
     {
-      "name": "Khujand",
-      "id": "9HqU1hRUnVKX"
+      "id": "khujand",
+      "name": "Khujand"
     },
     {
-      "name": "Kulob",
-      "id": "LLbZMaUla2bA"
+      "id": "kulob",
+      "name": "Kulob"
     },
     {
-      "name": "Khorugh",
-      "id": "2YIjpE9-CKIg"
+      "id": "khorugh",
+      "name": "Khorugh"
     },
     {
-      "name": "Istaravshan",
-      "id": "QSx2htlvsbsM"
+      "id": "istaravshan",
+      "name": "Istaravshan"
     },
     {
-      "name": "Tursunzoda",
-      "id": "b3p0rklwJevm"
+      "id": "tursunzoda",
+      "name": "Tursunzoda"
     },
     {
-      "name": "Vahdat",
-      "id": "OyrxWXLJ5Uki"
+      "id": "vahdat",
+      "name": "Vahdat"
     },
     {
-      "name": "Isfara",
-      "id": "J7e7TnoQNill"
+      "id": "isfara",
+      "name": "Isfara"
     },
     {
-      "name": "Panjakent",
-      "id": "XIJ-6h8hnKIw"
+      "id": "panjakent",
+      "name": "Panjakent"
     },
     {
-      "name": "Konibodom",
-      "id": "o4glpAbSzRjU"
+      "id": "konibodom",
+      "name": "Konibodom"
     }
   ]
 }

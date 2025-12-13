@@ -2,56 +2,56 @@
   "coid": "MU",
   "cities": [
     {
-      "name": "Beau Bassin",
-      "id": "ecDmRz-IknXa"
+      "id": "beau-bassin",
+      "name": "Beau Bassin"
     },
     {
-      "name": "Chemin Grenier",
-      "id": "LGrg6qQI4Oug"
+      "id": "chemin-grenier",
+      "name": "Chemin Grenier"
     },
     {
-      "name": "Ebene CyberCity",
-      "id": "f1tjWQ55xPOJ"
+      "id": "ebene-cybercity",
+      "name": "Ebene CyberCity"
     },
     {
-      "name": "Floreal",
-      "id": "13ZB3WIVN23B"
+      "id": "floreal",
+      "name": "Floreal"
     },
     {
-      "name": "Goodlands",
-      "id": "W0LxS5nXUPXf"
+      "id": "goodlands",
+      "name": "Goodlands"
     },
     {
-      "name": "Le Reduit",
-      "id": "di5VUnOuye0B"
+      "id": "le-reduit",
+      "name": "Le Reduit"
     },
     {
-      "name": "Port Louis",
-      "id": "0BySsD0_Here"
+      "id": "port-louis",
+      "name": "Port Louis"
     },
     {
-      "name": "Port Mathurin",
-      "id": "1RF__UuJNvPo"
+      "id": "port-mathurin",
+      "name": "Port Mathurin"
     },
     {
-      "name": "Quatre Bornes",
-      "id": "d76Czs3WRuQi"
+      "id": "quatre-bornes",
+      "name": "Quatre Bornes"
     },
     {
-      "name": "Rose Hill",
-      "id": "cOoCm3EAAxoP"
+      "id": "rose-hill",
+      "name": "Rose Hill"
     },
     {
-      "name": "Saint Jean",
-      "id": "j54wNWJ8Y2ha"
+      "id": "saint-jean",
+      "name": "Saint Jean"
     },
     {
-      "name": "Tamarin",
-      "id": "iwuI3_g4Mrx9"
+      "id": "tamarin",
+      "name": "Tamarin"
     },
     {
-      "name": "Vacoas",
-      "id": "IEkEYiaVes-a"
+      "id": "vacoas",
+      "name": "Vacoas"
     }
   ]
 }

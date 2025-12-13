@@ -1,15 +1,45 @@
 {
   "coid": "PW",
   "cities": [
-    { "name": "Ngerulmud", "id": "c91f3a2d9b7e" },
-    { "name": "Koror", "id": "d28e1f9ac4d2" },
-    { "name": "Airai", "id": "e39d7b1e0f52" },
-    { "name": "Melekeok", "id": "f84a2c7f1e93" },
-    { "name": "Ngaraard", "id": "a72b9d4c3a10" },
-    { "name": "Ngardmau", "id": "b63c1a8e5b27" },
-    { "name": "Ngchesar", "id": "c72d9c4f1b83" },
-    { "name": "Ngiwal", "id": "d91e3f7a2c64" },
-    { "name": "Peleliu", "id": "e58f2a9d7e31" },
-    { "name": "Angaur", "id": "f47b1c6e9f20" }
+    {
+      "id": "ngerulmud",
+      "name": "Ngerulmud"
+    },
+    {
+      "id": "koror",
+      "name": "Koror"
+    },
+    {
+      "id": "airai",
+      "name": "Airai"
+    },
+    {
+      "id": "melekeok",
+      "name": "Melekeok"
+    },
+    {
+      "id": "ngaraard",
+      "name": "Ngaraard"
+    },
+    {
+      "id": "ngardmau",
+      "name": "Ngardmau"
+    },
+    {
+      "id": "ngchesar",
+      "name": "Ngchesar"
+    },
+    {
+      "id": "ngiwal",
+      "name": "Ngiwal"
+    },
+    {
+      "id": "peleliu",
+      "name": "Peleliu"
+    },
+    {
+      "id": "angaur",
+      "name": "Angaur"
+    }
   ]
 }

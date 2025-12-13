@@ -2,32 +2,32 @@
   "coid": "BZ",
   "cities": [
     {
-      "name": "Belize City",
-      "id": "hR7FtFwQ73U7"
+      "id": "belize-city",
+      "name": "Belize City"
     },
     {
-      "name": "Belmopan",
-      "id": "fIC_uhj5RfvD"
+      "id": "belmopan",
+      "name": "Belmopan"
     },
     {
-      "name": "Benque Viejo del Carmen",
-      "id": "PPVPUaQ8fuwg"
+      "id": "benque-viejo-del-carmen",
+      "name": "Benque Viejo del Carmen"
     },
     {
-      "name": "Freetown Sibun",
-      "id": "X0B4tVVQB4-c"
+      "id": "freetown-sibun",
+      "name": "Freetown Sibun"
     },
     {
-      "name": "Ladyville",
-      "id": "2Or8UMlRcVm5"
+      "id": "ladyville",
+      "name": "Ladyville"
     },
     {
-      "name": "San Ignacio",
-      "id": "WBc--JPyBoh_"
+      "id": "san-ignacio",
+      "name": "San Ignacio"
     },
     {
-      "name": "San Pedro Town",
-      "id": "8uXd2y8y-G6T"
+      "id": "san-pedro-town",
+      "name": "San Pedro Town"
     }
   ]
 }

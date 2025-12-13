@@ -2,44 +2,44 @@
   "coid": "LS",
   "cities": [
     {
-      "name": "Maseru",
-      "id": "HtNKFWRgZ7SG"
+      "id": "maseru",
+      "name": "Maseru"
     },
     {
-      "name": "Teyateyaneng",
-      "id": "peAQjRpwUjtz"
+      "id": "teyateyaneng",
+      "name": "Teyateyaneng"
     },
     {
-      "name": "Mafeteng",
-      "id": "GWrpUIdzJkmU"
+      "id": "mafeteng",
+      "name": "Mafeteng"
     },
     {
-      "name": "Hlotse",
-      "id": "0c6A8r-rJK9S"
+      "id": "hlotse",
+      "name": "Hlotse"
     },
     {
-      "name": "Mohale's Hoek",
-      "id": "siFGOA4qpdoO"
+      "id": "mohales-hoek",
+      "name": "Mohale's Hoek"
     },
     {
-      "name": "Quthing",
-      "id": "ec0AY-WMgDc8"
+      "id": "quthing",
+      "name": "Quthing"
     },
     {
-      "name": "Qacha's Nek",
-      "id": "_6EOoLXi4H3I"
+      "id": "qachas-nek",
+      "name": "Qacha's Nek"
     },
     {
-      "name": "Butha-Buthe",
-      "id": "NGgJCAhJXAUG"
+      "id": "butha-buthe",
+      "name": "Butha-Buthe"
     },
     {
-      "name": "Thaba-Tseka",
-      "id": "ZMWd0HMPlEwo"
+      "id": "thaba-tseka",
+      "name": "Thaba-Tseka"
     },
     {
-      "name": "Semonkong",
-      "id": "kKc02VV56EFE"
+      "id": "semonkong",
+      "name": "Semonkong"
     }
   ]
 }

@@ -2,1080 +2,1080 @@
   "coid": "ID",
   "cities": [
     {
-      "name": "Abadi",
-      "id": "8l_pOETu4NhX"
+      "id": "abadi",
+      "name": "Abadi"
     },
     {
-      "name": "Adiantorop",
-      "id": "QBcW89Iubyy0"
+      "id": "adiantorop",
+      "name": "Adiantorop"
     },
     {
-      "name": "Airmadidi",
-      "id": "XGBfuPHpNgtj"
+      "id": "airmadidi",
+      "name": "Airmadidi"
     },
     {
-      "name": "Ambarawa",
-      "id": "sXklTqcxDKSv"
+      "id": "ambarawa",
+      "name": "Ambarawa"
     },
     {
-      "name": "Ambon City",
-      "id": "bAh054GF6O6v"
+      "id": "ambon-city",
+      "name": "Ambon City"
     },
     {
-      "name": "Amlapura",
-      "id": "BLzl8XmFePBA"
+      "id": "amlapura",
+      "name": "Amlapura"
     },
     {
-      "name": "Anggrek",
-      "id": "5fUZxh5NnwM8"
+      "id": "anggrek",
+      "name": "Anggrek"
     },
     {
-      "name": "Angkasa",
-      "id": "Z1r29MkVUO4G"
+      "id": "angkasa",
+      "name": "Angkasa"
     },
     {
-      "name": "Area",
-      "id": "kEc_RJXDytJF"
+      "id": "area",
+      "name": "Area"
     },
     {
-      "name": "Badung",
-      "id": "Z9hVo4K_hR2V"
+      "id": "badung",
+      "name": "Badung"
     },
     {
-      "name": "Bali",
-      "id": "YVtAwv3kzk8_"
+      "id": "bali",
+      "name": "Bali"
     },
     {
-      "name": "Balige",
-      "id": "LEaZD2GyCRC0"
+      "id": "balige",
+      "name": "Balige"
     },
     {
-      "name": "Balikpapan",
-      "id": "mhGdj-9Totib"
+      "id": "balikpapan",
+      "name": "Balikpapan"
     },
     {
-      "name": "Banda Aceh",
-      "id": "owh0PSEiIbGQ"
+      "id": "banda-aceh",
+      "name": "Banda Aceh"
     },
     {
-      "name": "Bandar",
-      "id": "y7s_Fn9_ffOQ"
+      "id": "bandar",
+      "name": "Bandar"
     },
     {
-      "name": "Bandar Lampung",
-      "id": "n8yOgVnuiOI3"
+      "id": "bandar-lampung",
+      "name": "Bandar Lampung"
     },
     {
-      "name": "Bandung",
-      "id": "Z4DMCbz0Xnm9"
+      "id": "bandung",
+      "name": "Bandung"
     },
     {
-      "name": "Bangkalan",
-      "id": "KBY3jpe90heK"
+      "id": "bangkalan",
+      "name": "Bangkalan"
     },
     {
-      "name": "Bangkinang",
-      "id": "3ULcF6SoNCCA"
+      "id": "bangkinang",
+      "name": "Bangkinang"
     },
     {
-      "name": "Bangli",
-      "id": "vwtuxS-rIweF"
+      "id": "bangli",
+      "name": "Bangli"
     },
     {
-      "name": "Banjar",
-      "id": "3xVSm0TroKOW"
+      "id": "banjar",
+      "name": "Banjar"
     },
     {
-      "name": "Banjarbaru",
-      "id": "U_OK90Ou_FJI"
+      "id": "banjarbaru",
+      "name": "Banjarbaru"
     },
     {
-      "name": "Banjarmasin",
-      "id": "9a5EfLClv9_O"
+      "id": "banjarmasin",
+      "name": "Banjarmasin"
     },
     {
-      "name": "Banjarnegara",
-      "id": "FSpYVzPZJKta"
+      "id": "banjarnegara",
+      "name": "Banjarnegara"
     },
     {
-      "name": "Bantaeng",
-      "id": "JkXewCNAKXic"
+      "id": "bantaeng",
+      "name": "Bantaeng"
     },
     {
-      "name": "Bantan",
-      "id": "p_BoBe1eNKCW"
+      "id": "bantan",
+      "name": "Bantan"
     },
     {
-      "name": "Bantul",
-      "id": "h9JC-w-Gc6L6"
+      "id": "bantul",
+      "name": "Bantul"
     },
     {
-      "name": "Banyumas",
-      "id": "eRVLKnI0OnAn"
+      "id": "banyumas",
+      "name": "Banyumas"
     },
     {
-      "name": "Banyuwangi",
-      "id": "k3Akl2AL_Hsu"
+      "id": "banyuwangi",
+      "name": "Banyuwangi"
     },
     {
-      "name": "Baratjaya",
-      "id": "ApXnT_xPO2U8"
+      "id": "baratjaya",
+      "name": "Baratjaya"
     },
     {
-      "name": "Batang",
-      "id": "gHXH_91XBqgZ"
+      "id": "batang",
+      "name": "Batang"
     },
     {
-      "name": "Batu",
-      "id": "zLzqOdYQwFUd"
+      "id": "batu",
+      "name": "Batu"
     },
     {
-      "name": "Baturaja",
-      "id": "v50GCZoZR2sI"
+      "id": "baturaja",
+      "name": "Baturaja"
     },
     {
-      "name": "Baubau",
-      "id": "orYwfCe2C0PM"
+      "id": "baubau",
+      "name": "Baubau"
     },
     {
-      "name": "Bekasi",
-      "id": "T14yE9mud_6G"
+      "id": "bekasi",
+      "name": "Bekasi"
     },
     {
-      "name": "Bengkalis",
-      "id": "YqiOzu8UU8h0"
+      "id": "bengkalis",
+      "name": "Bengkalis"
     },
     {
-      "name": "Bengkulu",
-      "id": "YaxnmWbPSHFc"
+      "id": "bengkulu",
+      "name": "Bengkulu"
     },
     {
-      "name": "Bima",
-      "id": "JFle_h5uUaf3"
+      "id": "bima",
+      "name": "Bima"
     },
     {
-      "name": "Binjai",
-      "id": "RW6HucTuKiqZ"
+      "id": "binjai",
+      "name": "Binjai"
     },
     {
-      "name": "Bitung",
-      "id": "A9pl8uNfQb2Y"
+      "id": "bitung",
+      "name": "Bitung"
     },
     {
-      "name": "Blitar",
-      "id": "KDSp5JSq9P_x"
+      "id": "blitar",
+      "name": "Blitar"
     },
     {
-      "name": "Blora",
-      "id": "Y1dtOH-1GVw0"
+      "id": "blora",
+      "name": "Blora"
     },
     {
-      "name": "Bogor",
-      "id": "ZA_8hfxqg3g1"
+      "id": "bogor",
+      "name": "Bogor"
     },
     {
-      "name": "Bojonegoro",
-      "id": "fscnKYt04kLA"
+      "id": "bojonegoro",
+      "name": "Bojonegoro"
     },
     {
-      "name": "Bondowoso",
-      "id": "JzuMCpR-yReh"
+      "id": "bondowoso",
+      "name": "Bondowoso"
     },
     {
-      "name": "Bontang",
-      "id": "oa4vVgeoU0si"
+      "id": "bontang",
+      "name": "Bontang"
     },
     {
-      "name": "Boyolali",
-      "id": "YjtD3AuaDGL6"
+      "id": "boyolali",
+      "name": "Boyolali"
     },
     {
-      "name": "Bukit Tinggi",
-      "id": "IqcfdUdd2Kcb"
+      "id": "bukit-tinggi",
+      "name": "Bukit Tinggi"
     },
     {
-      "name": "Bulukumba",
-      "id": "Ccyp9Eyvo-qQ"
+      "id": "bulukumba",
+      "name": "Bulukumba"
     },
     {
-      "name": "Buntok",
-      "id": "8oY1tH3PCike"
+      "id": "buntok",
+      "name": "Buntok"
     },
     {
-      "name": "Cakrawala",
-      "id": "MOu_E3QJ0AyV"
+      "id": "cakrawala",
+      "name": "Cakrawala"
     },
     {
-      "name": "Cempaka",
-      "id": "EkJLHeMi9Ms7"
+      "id": "cempaka",
+      "name": "Cempaka"
     },
     {
-      "name": "Cengkareng",
-      "id": "WTNIL5mMyTM9"
+      "id": "cengkareng",
+      "name": "Cengkareng"
     },
     {
-      "name": "Ciamis",
-      "id": "Ubako2kUL4KZ"
+      "id": "ciamis",
+      "name": "Ciamis"
     },
     {
-      "name": "Cianjur",
-      "id": "oa2Uhv_9mc39"
+      "id": "cianjur",
+      "name": "Cianjur"
     },
     {
-      "name": "Cibitung",
-      "id": "HZfKOwiBUTEC"
+      "id": "cibitung",
+      "name": "Cibitung"
     },
     {
-      "name": "Cibubur",
-      "id": "LRcyQr2CSXI-"
+      "id": "cibubur",
+      "name": "Cibubur"
     },
     {
-      "name": "Cihampelas",
-      "id": "S29GLKZaOOxv"
+      "id": "cihampelas",
+      "name": "Cihampelas"
     },
     {
-      "name": "Cikarang",
-      "id": "OJheBZ2UGitb"
+      "id": "cikarang",
+      "name": "Cikarang"
     },
     {
-      "name": "Cikini",
-      "id": "SuIM15HtbbgY"
+      "id": "cikini",
+      "name": "Cikini"
     },
     {
-      "name": "Cilacap",
-      "id": "_MvDbfvkulnD"
+      "id": "cilacap",
+      "name": "Cilacap"
     },
     {
-      "name": "Cilegon",
-      "id": "7RlP1PDJHwuj"
+      "id": "cilegon",
+      "name": "Cilegon"
     },
     {
-      "name": "Cilincing",
-      "id": "9oWkoEl-Ot_A"
+      "id": "cilincing",
+      "name": "Cilincing"
     },
     {
-      "name": "Cimahi",
-      "id": "ybFPhA1ng53U"
+      "id": "cimahi",
+      "name": "Cimahi"
     },
     {
-      "name": "Cimanggis",
-      "id": "5obl3U8AHb5s"
+      "id": "cimanggis",
+      "name": "Cimanggis"
     },
     {
-      "name": "Cipinanglatihan",
-      "id": "AMNithoh6iT1"
+      "id": "cipinanglatihan",
+      "name": "Cipinanglatihan"
     },
     {
-      "name": "Ciputat",
-      "id": "6dYzF57YwPTE"
+      "id": "ciputat",
+      "name": "Ciputat"
     },
     {
-      "name": "Cirebon",
-      "id": "Nm_6lwmSjfRK"
+      "id": "cirebon",
+      "name": "Cirebon"
     },
     {
-      "name": "Citeureup",
-      "id": "NdZwQWJWRNo2"
+      "id": "citeureup",
+      "name": "Citeureup"
     },
     {
-      "name": "Darmaga",
-      "id": "XNMqUHayMC3g"
+      "id": "darmaga",
+      "name": "Darmaga"
     },
     {
-      "name": "Darussalam",
-      "id": "aAduHmnqNhbp"
+      "id": "darussalam",
+      "name": "Darussalam"
     },
     {
-      "name": "Demak",
-      "id": "2xgYBbOcBpbQ"
+      "id": "demak",
+      "name": "Demak"
     },
     {
-      "name": "Denpasar",
-      "id": "L33awd7rXNWA"
+      "id": "denpasar",
+      "name": "Denpasar"
     },
     {
-      "name": "Depok",
-      "id": "iHAmaLls10M6"
+      "id": "depok",
+      "name": "Depok"
     },
     {
-      "name": "Depok Jaya",
-      "id": "HaPaEt_zeAuz"
+      "id": "depok-jaya",
+      "name": "Depok Jaya"
     },
     {
-      "name": "Dumai",
-      "id": "lXanaKYh2jcj"
+      "id": "dumai",
+      "name": "Dumai"
     },
     {
-      "name": "Duren",
-      "id": "37mejzK6e1V_"
+      "id": "duren",
+      "name": "Duren"
     },
     {
-      "name": "Duri",
-      "id": "QlP8MeSZH9Cb"
+      "id": "duri",
+      "name": "Duri"
     },
     {
-      "name": "Gandul",
-      "id": "W5mPt2cVudKx"
+      "id": "gandul",
+      "name": "Gandul"
     },
     {
-      "name": "Garut",
-      "id": "wTM0_XR7ilzH"
+      "id": "garut",
+      "name": "Garut"
     },
     {
-      "name": "Gedung",
-      "id": "C8SVJwrUmAEK"
+      "id": "gedung",
+      "name": "Gedung"
     },
     {
-      "name": "Gianyar",
-      "id": "MdxVSX3TCA5D"
+      "id": "gianyar",
+      "name": "Gianyar"
     },
     {
-      "name": "Gorontalo",
-      "id": "XJRdsgE79AjY"
+      "id": "gorontalo",
+      "name": "Gorontalo"
     },
     {
-      "name": "Gresik",
-      "id": "SlA9V5VD5SAq"
+      "id": "gresik",
+      "name": "Gresik"
     },
     {
-      "name": "Guntung",
-      "id": "aT5qlMkFuyYO"
+      "id": "guntung",
+      "name": "Guntung"
     },
     {
-      "name": "Gunungsitoli",
-      "id": "NtRw4Y7UiB-c"
+      "id": "gunungsitoli",
+      "name": "Gunungsitoli"
     },
     {
-      "name": "Holis",
-      "id": "4BPLFLRJJu76"
+      "id": "holis",
+      "name": "Holis"
     },
     {
-      "name": "Indo",
-      "id": "a2LvOThH4gMK"
+      "id": "indo",
+      "name": "Indo"
     },
     {
-      "name": "Indramayu",
-      "id": "quDeGd1gAGMa"
+      "id": "indramayu",
+      "name": "Indramayu"
     },
     {
-      "name": "Jagakarsa",
-      "id": "tb7LAmVwQBIR"
+      "id": "jagakarsa",
+      "name": "Jagakarsa"
     },
     {
-      "name": "Jakarta",
-      "id": "NoEq5fJ3rHCC"
+      "id": "jakarta",
+      "name": "Jakarta"
     },
     {
-      "name": "Jambi City",
-      "id": "rvBY7y1EDTOv"
+      "id": "jambi-city",
+      "name": "Jambi City"
     },
     {
-      "name": "Jayapura",
-      "id": "VIrmYbYLvIZC"
+      "id": "jayapura",
+      "name": "Jayapura"
     },
     {
-      "name": "Jember",
-      "id": "0MPcws32BVSF"
+      "id": "jember",
+      "name": "Jember"
     },
     {
-      "name": "Jepara",
-      "id": "cB3l-dIqhwyF"
+      "id": "jepara",
+      "name": "Jepara"
     },
     {
-      "name": "Jimbaran",
-      "id": "jMxfrD5-G2MI"
+      "id": "jimbaran",
+      "name": "Jimbaran"
     },
     {
-      "name": "Jombang",
-      "id": "CiYggXGvJPhn"
+      "id": "jombang",
+      "name": "Jombang"
     },
     {
-      "name": "Kabanjahe",
-      "id": "qL6xarGUhfBv"
+      "id": "kabanjahe",
+      "name": "Kabanjahe"
     },
     {
-      "name": "Kalideres",
-      "id": "IwOvNfB0KHmO"
+      "id": "kalideres",
+      "name": "Kalideres"
     },
     {
-      "name": "Kalimantan",
-      "id": "RxncY3TicJQJ"
+      "id": "kalimantan",
+      "name": "Kalimantan"
     },
     {
-      "name": "Kandangan",
-      "id": "g3fS3Wh8fe3t"
+      "id": "kandangan",
+      "name": "Kandangan"
     },
     {
-      "name": "Karanganyar",
-      "id": "mBVaZgbt6zDw"
+      "id": "karanganyar",
+      "name": "Karanganyar"
     },
     {
-      "name": "Karawang",
-      "id": "dmTmwOCBsIST"
+      "id": "karawang",
+      "name": "Karawang"
     },
     {
-      "name": "Kartasura",
-      "id": "uLUhmEogIKf4"
+      "id": "kartasura",
+      "name": "Kartasura"
     },
     {
-      "name": "Kebayoran Baru",
-      "id": "oUSOON5U1zvC"
+      "id": "kebayoran-baru",
+      "name": "Kebayoran Baru"
     },
     {
-      "name": "Kebayoran Lama Selatan",
-      "id": "sSH61qU6x1e-"
+      "id": "kebayoran-lama-selatan",
+      "name": "Kebayoran Lama Selatan"
     },
     {
-      "name": "Kebumen",
-      "id": "PEQsYxdtR_Sa"
+      "id": "kebumen",
+      "name": "Kebumen"
     },
     {
-      "name": "Kediri",
-      "id": "T3Ue9kGjwqkk"
+      "id": "kediri",
+      "name": "Kediri"
     },
     {
-      "name": "Kelapa Dua",
-      "id": "-QgCqbSCQ9sw"
+      "id": "kelapa-dua",
+      "name": "Kelapa Dua"
     },
     {
-      "name": "Kemang",
-      "id": "_KjSnFDQaOwt"
+      "id": "kemang",
+      "name": "Kemang"
     },
     {
-      "name": "Kendal",
-      "id": "FUq4GFZkq-Ff"
+      "id": "kendal",
+      "name": "Kendal"
     },
     {
-      "name": "Kepanjen",
-      "id": "wJfs1MAq8MwP"
+      "id": "kepanjen",
+      "name": "Kepanjen"
     },
     {
-      "name": "Kerinci",
-      "id": "B6HFNLCieBGF"
+      "id": "kerinci",
+      "name": "Kerinci"
     },
     {
-      "name": "Kerobokan",
-      "id": "-x6gI8lYedVv"
+      "id": "kerobokan",
+      "name": "Kerobokan"
     },
     {
-      "name": "Klaten",
-      "id": "uftxGcXSH8uf"
+      "id": "klaten",
+      "name": "Klaten"
     },
     {
-      "name": "Kopeng",
-      "id": "MEG4MUX4xxia"
+      "id": "kopeng",
+      "name": "Kopeng"
     },
     {
-      "name": "Kota",
-      "id": "ThHa7ANiaNX_"
+      "id": "kota",
+      "name": "Kota"
     },
     {
-      "name": "Kudus",
-      "id": "Qv7vAhyXC7lw"
+      "id": "kudus",
+      "name": "Kudus"
     },
     {
-      "name": "Kulon",
-      "id": "DH-DR5GfjD8Z"
+      "id": "kulon",
+      "name": "Kulon"
     },
     {
-      "name": "Kuningan",
-      "id": "PJ_qtwIaz61G"
+      "id": "kuningan",
+      "name": "Kuningan"
     },
     {
-      "name": "Kupang",
-      "id": "Fm7pcB5NPdgq"
+      "id": "kupang",
+      "name": "Kupang"
     },
     {
-      "name": "Kuta",
-      "id": "dxfwoCm7Mssi"
+      "id": "kuta",
+      "name": "Kuta"
     },
     {
-      "name": "Lamongan",
-      "id": "5Df6fL8wXt2t"
+      "id": "lamongan",
+      "name": "Lamongan"
     },
     {
-      "name": "Lampeong",
-      "id": "LEidiemO-8ft"
+      "id": "lampeong",
+      "name": "Lampeong"
     },
     {
-      "name": "Langsa",
-      "id": "s11r2vkkpBsY"
+      "id": "langsa",
+      "name": "Langsa"
     },
     {
-      "name": "Lapan",
-      "id": "zlqgwkVlwJTQ"
+      "id": "lapan",
+      "name": "Lapan"
     },
     {
-      "name": "Lawang",
-      "id": "BsG_h7CrMKXd"
+      "id": "lawang",
+      "name": "Lawang"
     },
     {
-      "name": "Lestari",
-      "id": "Vyyzjew01i6A"
+      "id": "lestari",
+      "name": "Lestari"
     },
     {
-      "name": "Lhokseumawe",
-      "id": "dE9wjJOz_qDG"
+      "id": "lhokseumawe",
+      "name": "Lhokseumawe"
     },
     {
-      "name": "Lubuk Pakam",
-      "id": "fZyejnINjM-B"
+      "id": "lubuk-pakam",
+      "name": "Lubuk Pakam"
     },
     {
-      "name": "Lumajang",
-      "id": "ysiQUhksRuUi"
+      "id": "lumajang",
+      "name": "Lumajang"
     },
     {
-      "name": "Madiun",
-      "id": "V6TdV5LlLoGP"
+      "id": "madiun",
+      "name": "Madiun"
     },
     {
-      "name": "Magelang",
-      "id": "HDr7h_4RXTir"
+      "id": "magelang",
+      "name": "Magelang"
     },
     {
-      "name": "Magetan",
-      "id": "N-bk1QIcR_uW"
+      "id": "magetan",
+      "name": "Magetan"
     },
     {
-      "name": "Mail",
-      "id": "BhlitzxDetJm"
+      "id": "mail",
+      "name": "Mail"
     },
     {
-      "name": "Majalengka",
-      "id": "7JFF2BGZ2WRZ"
+      "id": "majalengka",
+      "name": "Majalengka"
     },
     {
-      "name": "Makassar",
-      "id": "GlLnuc1pe5Wi"
+      "id": "makassar",
+      "name": "Makassar"
     },
     {
-      "name": "Malang",
-      "id": "cYed9GNSsoZi"
+      "id": "malang",
+      "name": "Malang"
     },
     {
-      "name": "Mamuju",
-      "id": "j0xZeJEzHt74"
+      "id": "mamuju",
+      "name": "Mamuju"
     },
     {
-      "name": "Manado",
-      "id": "NRxEjVZQ-Gku"
+      "id": "manado",
+      "name": "Manado"
     },
     {
-      "name": "Maros",
-      "id": "Cs_p6pUZn8Dy"
+      "id": "maros",
+      "name": "Maros"
     },
     {
-      "name": "Mataram",
-      "id": "BtRvv7K6aLxn"
+      "id": "mataram",
+      "name": "Mataram"
     },
     {
-      "name": "Medan",
-      "id": "cssWT_hSXVS8"
+      "id": "medan",
+      "name": "Medan"
     },
     {
-      "name": "Mega",
-      "id": "UnwYXOWkYcHX"
+      "id": "mega",
+      "name": "Mega"
     },
     {
-      "name": "Menara",
-      "id": "Pm-wS7TMDHnx"
+      "id": "menara",
+      "name": "Menara"
     },
     {
-      "name": "Menteng",
-      "id": "VuFAsKLZDhuf"
+      "id": "menteng",
+      "name": "Menteng"
     },
     {
-      "name": "Mojoagung",
-      "id": "SPGxopOHGeXg"
+      "id": "mojoagung",
+      "name": "Mojoagung"
     },
     {
-      "name": "Mojokerto",
-      "id": "WIh0mDOnSICF"
+      "id": "mojokerto",
+      "name": "Mojokerto"
     },
     {
-      "name": "Muntilan",
-      "id": "RjJNxGBqfE-l"
+      "id": "muntilan",
+      "name": "Muntilan"
     },
     {
-      "name": "Negara",
-      "id": "tXk8xnMpPm7a"
+      "id": "negara",
+      "name": "Negara"
     },
     {
-      "name": "Negeribesar",
-      "id": "Sa7RI03f3wBf"
+      "id": "negeribesar",
+      "name": "Negeribesar"
     },
     {
-      "name": "Nganjuk",
-      "id": "QcUc9e8FzGOT"
+      "id": "nganjuk",
+      "name": "Nganjuk"
     },
     {
-      "name": "Ngawi",
-      "id": "LPaHXmQpmJw7"
+      "id": "ngawi",
+      "name": "Ngawi"
     },
     {
-      "name": "Nusa",
-      "id": "YgkBLKZPHzGu"
+      "id": "nusa",
+      "name": "Nusa"
     },
     {
-      "name": "Nusa Dua",
-      "id": "6j2TrGfQgQsu"
+      "id": "nusa-dua",
+      "name": "Nusa Dua"
     },
     {
-      "name": "Nusantara",
-      "id": "G98i0mF9RKa8"
+      "id": "nusantara",
+      "name": "Nusantara"
     },
     {
-      "name": "Pacitan",
-      "id": "chMwiOQjRosq"
+      "id": "pacitan",
+      "name": "Pacitan"
     },
     {
-      "name": "Padang",
-      "id": "1AkrTBFZu8RS"
+      "id": "padang",
+      "name": "Padang"
     },
     {
-      "name": "Palaihari",
-      "id": "CuQT6AluUqqL"
+      "id": "palaihari",
+      "name": "Palaihari"
     },
     {
-      "name": "Palangka",
-      "id": "QMYsyF9gvB6G"
+      "id": "palangka",
+      "name": "Palangka"
     },
     {
-      "name": "Palangkaraya",
-      "id": "swbBv9UGC2yJ"
+      "id": "palangkaraya",
+      "name": "Palangkaraya"
     },
     {
-      "name": "Palembang",
-      "id": "oJdgBMtfF7B5"
+      "id": "palembang",
+      "name": "Palembang"
     },
     {
-      "name": "Palu",
-      "id": "QHjO6MArLZU5"
+      "id": "palu",
+      "name": "Palu"
     },
     {
-      "name": "Pamekasan",
-      "id": "eohUqF0oc93c"
+      "id": "pamekasan",
+      "name": "Pamekasan"
     },
     {
-      "name": "Pamulang",
-      "id": "Y32rQ0yZmjfa"
+      "id": "pamulang",
+      "name": "Pamulang"
     },
     {
-      "name": "Panasuan",
-      "id": "FRZn0UEVNIW_"
+      "id": "panasuan",
+      "name": "Panasuan"
     },
     {
-      "name": "Pandeglang",
-      "id": "Ejozuxmy1JBq"
+      "id": "pandeglang",
+      "name": "Pandeglang"
     },
     {
-      "name": "Pangaturan",
-      "id": "Tr6GjiY1GG8X"
+      "id": "pangaturan",
+      "name": "Pangaturan"
     },
     {
-      "name": "Parakan",
-      "id": "tiDYgXuPpRDW"
+      "id": "parakan",
+      "name": "Parakan"
     },
     {
-      "name": "Pare",
-      "id": "Py3VVXHLuhjQ"
+      "id": "pare",
+      "name": "Pare"
     },
     {
-      "name": "Parman",
-      "id": "KH7yfEWr8XvB"
+      "id": "parman",
+      "name": "Parman"
     },
     {
-      "name": "Pasuruan",
-      "id": "OubUpoja32Yv"
+      "id": "pasuruan",
+      "name": "Pasuruan"
     },
     {
-      "name": "Patam",
-      "id": "MbYokKjpRMUu"
+      "id": "patam",
+      "name": "Patam"
     },
     {
-      "name": "Pati",
-      "id": "0Iil_Sb29_U1"
+      "id": "pati",
+      "name": "Pati"
     },
     {
-      "name": "Payakumbuh",
-      "id": "bYc-Wo0agj7Q"
+      "id": "payakumbuh",
+      "name": "Payakumbuh"
     },
     {
-      "name": "Pekalongan",
-      "id": "B8dJIj0PrBNk"
+      "id": "pekalongan",
+      "name": "Pekalongan"
     },
     {
-      "name": "Pekan",
-      "id": "xqsFeHv4V1CU"
+      "id": "pekan",
+      "name": "Pekan"
     },
     {
-      "name": "Pekanbaru",
-      "id": "q6NqDthEL4tv"
+      "id": "pekanbaru",
+      "name": "Pekanbaru"
     },
     {
-      "name": "Pemalang",
-      "id": "K_1nN0Mm1fDM"
+      "id": "pemalang",
+      "name": "Pemalang"
     },
     {
-      "name": "Pematangsiantar",
-      "id": "4NVtDJCASXsD"
+      "id": "pematangsiantar",
+      "name": "Pematangsiantar"
     },
     {
-      "name": "Polerejo",
-      "id": "4hdjxF38Mx5y"
+      "id": "polerejo",
+      "name": "Polerejo"
     },
     {
-      "name": "Pondok",
-      "id": "R9aAxUPJONyO"
+      "id": "pondok",
+      "name": "Pondok"
     },
     {
-      "name": "Ponorogo",
-      "id": "iiL90SEajvgH"
+      "id": "ponorogo",
+      "name": "Ponorogo"
     },
     {
-      "name": "Pontianak",
-      "id": "4jnqYWzWnmeq"
+      "id": "pontianak",
+      "name": "Pontianak"
     },
     {
-      "name": "Porsea",
-      "id": "X67Iq8Yw8YSz"
+      "id": "porsea",
+      "name": "Porsea"
     },
     {
-      "name": "Poso",
-      "id": "GOA4UyZ2SPIa"
+      "id": "poso",
+      "name": "Poso"
     },
     {
-      "name": "Probolinggo",
-      "id": "N72IpdkXpZ9b"
+      "id": "probolinggo",
+      "name": "Probolinggo"
     },
     {
-      "name": "Purbalingga",
-      "id": "IwMqHthvzoNn"
+      "id": "purbalingga",
+      "name": "Purbalingga"
     },
     {
-      "name": "Purwakarta",
-      "id": "fc8YRfiNN684"
+      "id": "purwakarta",
+      "name": "Purwakarta"
     },
     {
-      "name": "Purwodadi Grobogan",
-      "id": "o5EIuXDOhJRZ"
+      "id": "purwodadi-grobogan",
+      "name": "Purwodadi Grobogan"
     },
     {
-      "name": "Purwokerto",
-      "id": "tk-yEAIDeGCE"
+      "id": "purwokerto",
+      "name": "Purwokerto"
     },
     {
-      "name": "Purworejo",
-      "id": "uZgEUY4O1E2g"
+      "id": "purworejo",
+      "name": "Purworejo"
     },
     {
-      "name": "Pusat",
-      "id": "zeZfcjr_Wquo"
+      "id": "pusat",
+      "name": "Pusat"
     },
     {
-      "name": "Riau",
-      "id": "Eh_TQn04im1E"
+      "id": "riau",
+      "name": "Riau"
     },
     {
-      "name": "Salatiga",
-      "id": "51DgDUFU_s9L"
+      "id": "salatiga",
+      "name": "Salatiga"
     },
     {
-      "name": "Samarinda",
-      "id": "i7Bt3jpZj2EZ"
+      "id": "samarinda",
+      "name": "Samarinda"
     },
     {
-      "name": "Sampang",
-      "id": "R33jUABsPJr4"
+      "id": "sampang",
+      "name": "Sampang"
     },
     {
-      "name": "Sampit",
-      "id": "FJkF5qfl1lm6"
+      "id": "sampit",
+      "name": "Sampit"
     },
     {
-      "name": "Sangereng",
-      "id": "bUBDFXRDQ6wH"
+      "id": "sangereng",
+      "name": "Sangereng"
     },
     {
-      "name": "Sanur",
-      "id": "ZRJOV65sLu0Z"
+      "id": "sanur",
+      "name": "Sanur"
     },
     {
-      "name": "Sejahtera",
-      "id": "cshDjpE36uup"
+      "id": "sejahtera",
+      "name": "Sejahtera"
     },
     {
-      "name": "Sekupang",
-      "id": "5M9QqmzvFTcE"
+      "id": "sekupang",
+      "name": "Sekupang"
     },
     {
-      "name": "Selatan",
-      "id": "_Eai5afOSzIg"
+      "id": "selatan",
+      "name": "Selatan"
     },
     {
-      "name": "Selong",
-      "id": "b8vQYl47x82C"
+      "id": "selong",
+      "name": "Selong"
     },
     {
-      "name": "Semarang",
-      "id": "5MPCh213SBmj"
+      "id": "semarang",
+      "name": "Semarang"
     },
     {
-      "name": "Sengkang",
-      "id": "fcRYgeBoK_I9"
+      "id": "sengkang",
+      "name": "Sengkang"
     },
     {
-      "name": "Sentul",
-      "id": "mexQRFRJ3JU7"
+      "id": "sentul",
+      "name": "Sentul"
     },
     {
-      "name": "Serang",
-      "id": "Lscq-DNI7Nxr"
+      "id": "serang",
+      "name": "Serang"
     },
     {
-      "name": "Serdang",
-      "id": "pwarvcJ9EQXr"
+      "id": "serdang",
+      "name": "Serdang"
     },
     {
-      "name": "Serpong",
-      "id": "pEZIbBppL_bX"
+      "id": "serpong",
+      "name": "Serpong"
     },
     {
-      "name": "Sidoarjo",
-      "id": "Fgqam8P7KXuU"
+      "id": "sidoarjo",
+      "name": "Sidoarjo"
     },
     {
-      "name": "Sigli",
-      "id": "EuCvSRPhMxqo"
+      "id": "sigli",
+      "name": "Sigli"
     },
     {
-      "name": "Sijunjung",
-      "id": "VnerthTcfHM5"
+      "id": "sijunjung",
+      "name": "Sijunjung"
     },
     {
-      "name": "Simpang",
-      "id": "ddRsHlkd_IEt"
+      "id": "simpang",
+      "name": "Simpang"
     },
     {
-      "name": "Singaraja",
-      "id": "HyK2gh2SY3rl"
+      "id": "singaraja",
+      "name": "Singaraja"
     },
     {
-      "name": "Singkawang",
-      "id": "qsrK7MwbIt3W"
+      "id": "singkawang",
+      "name": "Singkawang"
     },
     {
-      "name": "Situbondo",
-      "id": "4E5DiMhTTIou"
+      "id": "situbondo",
+      "name": "Situbondo"
     },
     {
-      "name": "Sleman",
-      "id": "9UFPDL9rSxs4"
+      "id": "sleman",
+      "name": "Sleman"
     },
     {
-      "name": "Soasio",
-      "id": "CEl1XA3PSpIr"
+      "id": "soasio",
+      "name": "Soasio"
     },
     {
-      "name": "Soe",
-      "id": "pKk9CMlXAE8g"
+      "id": "soe",
+      "name": "Soe"
     },
     {
-      "name": "Soho",
-      "id": "ae24LRxujekx"
+      "id": "soho",
+      "name": "Soho"
     },
     {
-      "name": "Solo",
-      "id": "FuGFX6sLP7cP"
+      "id": "solo",
+      "name": "Solo"
     },
     {
-      "name": "Sragen",
-      "id": "DAghLb9FM6uZ"
+      "id": "sragen",
+      "name": "Sragen"
     },
     {
-      "name": "Stabat",
-      "id": "rV5XaJYmcYkM"
+      "id": "stabat",
+      "name": "Stabat"
     },
     {
-      "name": "Subang",
-      "id": "6F1aJ5O5nc6P"
+      "id": "subang",
+      "name": "Subang"
     },
     {
-      "name": "Sukabumi",
-      "id": "wdH7zAFPQgOg"
+      "id": "sukabumi",
+      "name": "Sukabumi"
     },
     {
-      "name": "Sukoharjo",
-      "id": "oHwx8s-CTDWL"
+      "id": "sukoharjo",
+      "name": "Sukoharjo"
     },
     {
-      "name": "Sumedang",
-      "id": "QhKeDFydYMRu"
+      "id": "sumedang",
+      "name": "Sumedang"
     },
     {
-      "name": "Sungailiat",
-      "id": "UAtAjetS4ZQD"
+      "id": "sungailiat",
+      "name": "Sungailiat"
     },
     {
-      "name": "Sunggal",
-      "id": "R3abe1BAILib"
+      "id": "sunggal",
+      "name": "Sunggal"
     },
     {
-      "name": "Sungguminasa",
-      "id": "XUeQTdzwKhNT"
+      "id": "sungguminasa",
+      "name": "Sungguminasa"
     },
     {
-      "name": "Surabaya",
-      "id": "9zQMZwhL80s4"
+      "id": "surabaya",
+      "name": "Surabaya"
     },
     {
-      "name": "Surabayan",
-      "id": "SWzk-jMXcqM2"
+      "id": "surabayan",
+      "name": "Surabayan"
     },
     {
-      "name": "Surakarta",
-      "id": "oyNsAIo8OR3P"
+      "id": "surakarta",
+      "name": "Surakarta"
     },
     {
-      "name": "Tabanan",
-      "id": "oiBhmkRMyZve"
+      "id": "tabanan",
+      "name": "Tabanan"
     },
     {
-      "name": "Tangsel",
-      "id": "TD3PXz-QmVql"
+      "id": "tangsel",
+      "name": "Tangsel"
     },
     {
-      "name": "Tanjung",
-      "id": "NvU0mHCpWm39"
+      "id": "tanjung",
+      "name": "Tanjung"
     },
     {
-      "name": "Tanjung Balai",
-      "id": "1wjm4MENOZri"
+      "id": "tanjung-balai",
+      "name": "Tanjung Balai"
     },
     {
-      "name": "Tanjungpinang",
-      "id": "209wJWpxeiV9"
+      "id": "tanjungpinang",
+      "name": "Tanjungpinang"
     },
     {
-      "name": "Tarakan",
-      "id": "x_vxWxwfKvMi"
+      "id": "tarakan",
+      "name": "Tarakan"
     },
     {
-      "name": "Tasikmalaya",
-      "id": "yetupp_eFXkM"
+      "id": "tasikmalaya",
+      "name": "Tasikmalaya"
     },
     {
-      "name": "Tebingtinggi",
-      "id": "MllBOWYVdwFY"
+      "id": "tebingtinggi",
+      "name": "Tebingtinggi"
     },
     {
-      "name": "Tegal",
-      "id": "jsGqrHMjjbbx"
+      "id": "tegal",
+      "name": "Tegal"
     },
     {
-      "name": "Temanggung",
-      "id": "0QLKWgwiJT6w"
+      "id": "temanggung",
+      "name": "Temanggung"
     },
     {
-      "name": "Tembagapura",
-      "id": "q9Io36vtJ8eS"
+      "id": "tembagapura",
+      "name": "Tembagapura"
     },
     {
-      "name": "Tengah",
-      "id": "yNdYlMKjik1H"
+      "id": "tengah",
+      "name": "Tengah"
     },
     {
-      "name": "Tenggara",
-      "id": "Da0-nbnGn6OQ"
+      "id": "tenggara",
+      "name": "Tenggara"
     },
     {
-      "name": "Tenggarong",
-      "id": "GHbTgqJKT6FW"
+      "id": "tenggarong",
+      "name": "Tenggarong"
     },
     {
-      "name": "Tigaraksa",
-      "id": "T-91QE8mFJ61"
+      "id": "tigaraksa",
+      "name": "Tigaraksa"
     },
     {
-      "name": "Tigarasa",
-      "id": "FRVETI6bGPqs"
+      "id": "tigarasa",
+      "name": "Tigarasa"
     },
     {
-      "name": "Timur",
-      "id": "YFkeAfEBDu6v"
+      "id": "timur",
+      "name": "Timur"
     },
     {
-      "name": "Tipar Timur",
-      "id": "_BenNrw4fsWS"
+      "id": "tipar-timur",
+      "name": "Tipar Timur"
     },
     {
-      "name": "Tirtagangga",
-      "id": "WRUtqtRQhFye"
+      "id": "tirtagangga",
+      "name": "Tirtagangga"
     },
     {
-      "name": "Tomohon",
-      "id": "-IKY-q9PFzsz"
+      "id": "tomohon",
+      "name": "Tomohon"
     },
     {
-      "name": "Tondano",
-      "id": "Tn3IoQrdmHtC"
+      "id": "tondano",
+      "name": "Tondano"
     },
     {
-      "name": "Trenggalek",
-      "id": "cvIsW72mhofP"
+      "id": "trenggalek",
+      "name": "Trenggalek"
     },
     {
-      "name": "Tuban",
-      "id": "HL-633DkRM25"
+      "id": "tuban",
+      "name": "Tuban"
     },
     {
-      "name": "Tulungagung",
-      "id": "wrslzQiLPlea"
+      "id": "tulungagung",
+      "name": "Tulungagung"
     },
     {
-      "name": "Ubud",
-      "id": "1KbHjfoCCdJJ"
+      "id": "ubud",
+      "name": "Ubud"
     },
     {
-      "name": "Udayana",
-      "id": "n_ypDn5GgdLi"
+      "id": "udayana",
+      "name": "Udayana"
     },
     {
-      "name": "Ungaran",
-      "id": "4lb3R-r9Uk9I"
+      "id": "ungaran",
+      "name": "Ungaran"
     },
     {
-      "name": "Utama",
-      "id": "R0tTVtHjYeQw"
+      "id": "utama",
+      "name": "Utama"
     },
     {
-      "name": "Utara",
-      "id": "WkvX6iDdpQqs"
+      "id": "utara",
+      "name": "Utara"
     },
     {
-      "name": "Veteran",
-      "id": "ERplQP0Y0WHb"
+      "id": "veteran",
+      "name": "Veteran"
     },
     {
-      "name": "Wilayah",
-      "id": "91Den8CvKNL4"
+      "id": "wilayah",
+      "name": "Wilayah"
     },
     {
-      "name": "Wonogiri",
-      "id": "PYdXi_dKamkp"
+      "id": "wonogiri",
+      "name": "Wonogiri"
     },
     {
-      "name": "Wonosari",
-      "id": "F4gjJO82-maD"
+      "id": "wonosari",
+      "name": "Wonosari"
     },
     {
-      "name": "Wonosobo",
-      "id": "c3SOHsMRgLWp"
+      "id": "wonosobo",
+      "name": "Wonosobo"
     },
     {
-      "name": "Yogyakarta",
-      "id": "XiUiBGfDl98C"
+      "id": "yogyakarta",
+      "name": "Yogyakarta"
     }
   ]
 }

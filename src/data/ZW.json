@@ -2,40 +2,40 @@
   "coid": "ZW",
   "cities": [
     {
-      "name": "Bulawayo",
-      "id": "eroQHf-XQ9i4"
+      "id": "bulawayo",
+      "name": "Bulawayo"
     },
     {
-      "name": "Chinhoyi",
-      "id": "y88rJWCVyRzN"
+      "id": "chinhoyi",
+      "name": "Chinhoyi"
     },
     {
-      "name": "Greendale",
-      "id": "67hxJ9Pem0XU"
+      "id": "greendale",
+      "name": "Greendale"
     },
     {
-      "name": "Gwanda",
-      "id": "KNe2II_V8FYX"
+      "id": "gwanda",
+      "name": "Gwanda"
     },
     {
-      "name": "Harare",
-      "id": "vjINGL-lileh"
+      "id": "harare",
+      "name": "Harare"
     },
     {
-      "name": "Kwekwe",
-      "id": "w_fCfs_oCEfd"
+      "id": "kwekwe",
+      "name": "Kwekwe"
     },
     {
-      "name": "Mufakose",
-      "id": "FkaotInPiYke"
+      "id": "mufakose",
+      "name": "Mufakose"
     },
     {
-      "name": "Mutare",
-      "id": "LUUp9GtOiBHc"
+      "id": "mutare",
+      "name": "Mutare"
     },
     {
-      "name": "Victoria Falls",
-      "id": "1N8UneVdgZuQ"
+      "id": "victoria-falls",
+      "name": "Victoria Falls"
     }
   ]
 }

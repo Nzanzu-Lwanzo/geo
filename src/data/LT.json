@@ -2,44 +2,44 @@
   "coid": "LT",
   "cities": [
     {
-      "name": "Vilnius",
-      "id": "eNsuM0MHEYvs"
+      "id": "vilnius",
+      "name": "Vilnius"
     },
     {
-      "name": "Kaunas",
-      "id": "tiEs1Megkz8p"
+      "id": "kaunas",
+      "name": "Kaunas"
     },
     {
-      "name": "Klaipėda",
-      "id": "Bqop7jqgvxCe"
+      "id": "klaipeda",
+      "name": "Klaipėda"
     },
     {
-      "name": "Šiauliai",
-      "id": "EELB6X4gmEtg"
+      "id": "siauliai",
+      "name": "Šiauliai"
     },
     {
-      "name": "Panevėžys",
-      "id": "l-IQQbrwEKIy"
+      "id": "panevezys",
+      "name": "Panevėžys"
     },
     {
-      "name": "Alytus",
-      "id": "3N4Dp09vS_o6"
+      "id": "alytus",
+      "name": "Alytus"
     },
     {
-      "name": "Marijampolė",
-      "id": "KVUBBCMA2nX5"
+      "id": "marijampole",
+      "name": "Marijampolė"
     },
     {
-      "name": "Mažeikiai",
-      "id": "HM6M3wAnnLzt"
+      "id": "mazeikiai",
+      "name": "Mažeikiai"
     },
     {
-      "name": "Jonava",
-      "id": "ZA4PXw0LTCTv"
+      "id": "jonava",
+      "name": "Jonava"
     },
     {
-      "name": "Utena",
-      "id": "12iAm1kEHAMB"
+      "id": "utena",
+      "name": "Utena"
     }
   ]
 }

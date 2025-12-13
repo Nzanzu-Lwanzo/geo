@@ -2,28 +2,28 @@
   "coid": "LC",
   "cities": [
     {
-      "name": "Anse La Raye",
-      "id": "zYZqHX95Hu39"
+      "id": "anse-la-raye",
+      "name": "Anse La Raye"
     },
     {
-      "name": "Castries",
-      "id": "H2u3pM2zNGsi"
+      "id": "castries",
+      "name": "Castries"
     },
     {
-      "name": "Choiseul",
-      "id": "-2q4ggPJuqwO"
+      "id": "choiseul",
+      "name": "Choiseul"
     },
     {
-      "name": "Dauphin",
-      "id": "ned_7-HzHlLj"
+      "id": "dauphin",
+      "name": "Dauphin"
     },
     {
-      "name": "Gros Islet",
-      "id": "ZFQv8ZMOOiik"
+      "id": "gros-islet",
+      "name": "Gros Islet"
     },
     {
-      "name": "Vieux Fort",
-      "id": "_I-UQDncZzCD"
+      "id": "vieux-fort",
+      "name": "Vieux Fort"
     }
   ]
 }

@@ -2,24 +2,24 @@
   "coid": "GA",
   "cities": [
     {
-      "name": "Gamba",
-      "id": "qQUFrUH3y-Wa"
+      "id": "gamba",
+      "name": "Gamba"
     },
     {
-      "name": "Libreville",
-      "id": "6yS1II5wG1u4"
+      "id": "libreville",
+      "name": "Libreville"
     },
     {
-      "name": "Mamagnia",
-      "id": "TAtbYVzN-tyO"
+      "id": "mamagnia",
+      "name": "Mamagnia"
     },
     {
-      "name": "Moanda",
-      "id": "Q9QnsMuaqxPU"
+      "id": "moanda",
+      "name": "Moanda"
     },
     {
-      "name": "Port-Gentil",
-      "id": "eypZIN6YDtP9"
+      "id": "port-gentil",
+      "name": "Port-Gentil"
     }
   ]
 }

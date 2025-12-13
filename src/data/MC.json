@@ -2,44 +2,44 @@
   "coid": "MC",
   "cities": [
     {
-      "name": "Monaco-Ville",
-      "id": "ewWZL2xTUO_t"
+      "id": "monaco-ville",
+      "name": "Monaco-Ville"
     },
     {
-      "name": "Monte Carlo",
-      "id": "moMYZm4BIS4W"
+      "id": "monte-carlo",
+      "name": "Monte Carlo"
     },
     {
-      "name": "La Condamine",
-      "id": "wqhhMrssidW9"
+      "id": "la-condamine",
+      "name": "La Condamine"
     },
     {
-      "name": "Fontvieille",
-      "id": "aST2SDe9ignV"
+      "id": "fontvieille",
+      "name": "Fontvieille"
     },
     {
-      "name": "Moneghetti",
-      "id": "KvdhmYZPvSQi"
+      "id": "moneghetti",
+      "name": "Moneghetti"
     },
     {
-      "name": "Larvotto",
-      "id": "xri90VtHYc8F"
+      "id": "larvotto",
+      "name": "Larvotto"
     },
     {
-      "name": "Saint Roman",
-      "id": "Y4aXnmRvG9yi"
+      "id": "saint-roman",
+      "name": "Saint Roman"
     },
     {
-      "name": "Jardin Exotique",
-      "id": "sDv1LKR8AVHR"
+      "id": "jardin-exotique",
+      "name": "Jardin Exotique"
     },
     {
-      "name": "La Rousse",
-      "id": "CN8fYFY1IRo4"
+      "id": "la-rousse",
+      "name": "La Rousse"
     },
     {
-      "name": "Les Révoires",
-      "id": "q2Buws9I9z_h"
+      "id": "les-revoires",
+      "name": "Les Révoires"
     }
   ]
 }

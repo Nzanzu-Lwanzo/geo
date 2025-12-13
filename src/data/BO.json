@@ -2,68 +2,68 @@
   "coid": "BO",
   "cities": [
     {
-      "name": "Anillo",
-      "id": "KVWKM23dsz9E"
+      "id": "anillo",
+      "name": "Anillo"
     },
     {
-      "name": "Aroma",
-      "id": "uHGEOOGMWI0y"
+      "id": "aroma",
+      "name": "Aroma"
     },
     {
-      "name": "Bermejo",
-      "id": "mndUnaqhpSFX"
+      "id": "bermejo",
+      "name": "Bermejo"
     },
     {
-      "name": "Caracasa",
-      "id": "zF6iJSBAZxmx"
+      "id": "caracasa",
+      "name": "Caracasa"
     },
     {
-      "name": "Cobija",
-      "id": "ixrzPd7m6k9b"
+      "id": "cobija",
+      "name": "Cobija"
     },
     {
-      "name": "Cochabamba",
-      "id": "M5MLbkiIlhDT"
+      "id": "cochabamba",
+      "name": "Cochabamba"
     },
     {
-      "name": "Cotoca",
-      "id": "RO3y5w13pbak"
+      "id": "cotoca",
+      "name": "Cotoca"
     },
     {
-      "name": "Cruz",
-      "id": "oHgk7c4Bivoa"
+      "id": "cruz",
+      "name": "Cruz"
     },
     {
-      "name": "Guayaramerin",
-      "id": "rLQsZXTI0vpF"
+      "id": "guayaramerin",
+      "name": "Guayaramerin"
     },
     {
-      "name": "La Paz",
-      "id": "Y1h4TCWT8D9W"
+      "id": "la-paz",
+      "name": "La Paz"
     },
     {
-      "name": "Oruro",
-      "id": "oQga71seCtvp"
+      "id": "oruro",
+      "name": "Oruro"
     },
     {
-      "name": "Riberalta",
-      "id": "ybKgeRLIf7OZ"
+      "id": "riberalta",
+      "name": "Riberalta"
     },
     {
-      "name": "Santa Cruz",
-      "id": "FWvcpDkdZsXy"
+      "id": "santa-cruz",
+      "name": "Santa Cruz"
     },
     {
-      "name": "Sucre",
-      "id": "OUfDReaHmqo-"
+      "id": "sucre",
+      "name": "Sucre"
     },
     {
-      "name": "Tarija",
-      "id": "C4rniugJ6ZTd"
+      "id": "tarija",
+      "name": "Tarija"
     },
     {
-      "name": "Trinidad",
-      "id": "KO8vLYWHpLUn"
+      "id": "trinidad",
+      "name": "Trinidad"
     }
   ]
 }

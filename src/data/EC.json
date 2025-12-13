@@ -2,280 +2,280 @@
   "coid": "EC",
   "cities": [
     {
-      "name": "Ambato",
-      "id": "EP9aQub3buKh"
+      "id": "ambato",
+      "name": "Ambato"
     },
     {
-      "name": "Atacames",
-      "id": "Nm69z9UwVjzz"
+      "id": "atacames",
+      "name": "Atacames"
     },
     {
-      "name": "Atuntaqui",
-      "id": "4NGwO9opKaEu"
+      "id": "atuntaqui",
+      "name": "Atuntaqui"
     },
     {
-      "name": "Bahia de Caraquez",
-      "id": "5V8QJHgLDpSg"
+      "id": "bahia-de-caraquez",
+      "name": "Bahia de Caraquez"
     },
     {
-      "name": "Banos",
-      "id": "yqoKFXO3klZJ"
+      "id": "banos",
+      "name": "Banos"
     },
     {
-      "name": "Calderon",
-      "id": "SB0Hna_7QDPn"
+      "id": "calderon",
+      "name": "Calderon"
     },
     {
-      "name": "Cayambe",
-      "id": "vErU80rpNEu0"
+      "id": "cayambe",
+      "name": "Cayambe"
     },
     {
-      "name": "Cuenca",
-      "id": "5PvvCOF6gc9x"
+      "id": "cuenca",
+      "name": "Cuenca"
     },
     {
-      "name": "Daule",
-      "id": "8onliMgCDO5g"
+      "id": "daule",
+      "name": "Daule"
     },
     {
-      "name": "El Carmen",
-      "id": "pjsH9WZYfbSR"
+      "id": "el-carmen",
+      "name": "El Carmen"
     },
     {
-      "name": "El Naranjal",
-      "id": "oClLBQhGdM69"
+      "id": "el-naranjal",
+      "name": "El Naranjal"
     },
     {
-      "name": "Esmeraldas",
-      "id": "qbjtTA9TlwSX"
+      "id": "esmeraldas",
+      "name": "Esmeraldas"
     },
     {
-      "name": "Florida",
-      "id": "0_EhY98gWmFK"
+      "id": "florida",
+      "name": "Florida"
     },
     {
-      "name": "General Leonidas Plaza Gutierrez",
-      "id": "cAjkeqcwJhKL"
+      "id": "general-leonidas-plaza-gutierrez",
+      "name": "General Leonidas Plaza Gutierrez"
     },
     {
-      "name": "Guabo",
-      "id": "3z785D4u9p48"
+      "id": "guabo",
+      "name": "Guabo"
     },
     {
-      "name": "Gualaceo",
-      "id": "zk_4GL3XFpbI"
+      "id": "gualaceo",
+      "name": "Gualaceo"
     },
     {
-      "name": "Guamote",
-      "id": "y78NOxchm8jJ"
+      "id": "guamote",
+      "name": "Guamote"
     },
     {
-      "name": "Guayaquil",
-      "id": "T_2YBczOrmk4"
+      "id": "guayaquil",
+      "name": "Guayaquil"
     },
     {
-      "name": "Guayas",
-      "id": "0N68rV3zziOd"
+      "id": "guayas",
+      "name": "Guayas"
     },
     {
-      "name": "Guayllabamba",
-      "id": "M9vMUbQO0vBE"
+      "id": "guayllabamba",
+      "name": "Guayllabamba"
     },
     {
-      "name": "Hacienda Bolivia",
-      "id": "IPDcMWyjtLmt"
+      "id": "hacienda-bolivia",
+      "name": "Hacienda Bolivia"
     },
     {
-      "name": "Hacienda Duran",
-      "id": "tojM9k02w36f"
+      "id": "hacienda-duran",
+      "name": "Hacienda Duran"
     },
     {
-      "name": "Hacienda Ibarra",
-      "id": "rKGnw8GpzG5B"
+      "id": "hacienda-ibarra",
+      "name": "Hacienda Ibarra"
     },
     {
-      "name": "Hacienda Santa Catalina",
-      "id": "prO5adfmjGha"
+      "id": "hacienda-santa-catalina",
+      "name": "Hacienda Santa Catalina"
     },
     {
-      "name": "Huaquillas",
-      "id": "gNb3ftQOYmFq"
+      "id": "huaquillas",
+      "name": "Huaquillas"
     },
     {
-      "name": "Ibarra",
-      "id": "IyaEgx8HlKCG"
+      "id": "ibarra",
+      "name": "Ibarra"
     },
     {
-      "name": "Jipijapa",
-      "id": "phtDXVUFuAgH"
+      "id": "jipijapa",
+      "name": "Jipijapa"
     },
     {
-      "name": "La Esperanza",
-      "id": "dtrmrA4gHQFX"
+      "id": "la-esperanza",
+      "name": "La Esperanza"
     },
     {
-      "name": "La Libertad",
-      "id": "McqMfhHd0n-1"
+      "id": "la-libertad",
+      "name": "La Libertad"
     },
     {
-      "name": "La Troncal",
-      "id": "YYEVLkYH6VFR"
+      "id": "la-troncal",
+      "name": "La Troncal"
     },
     {
-      "name": "Latacunga",
-      "id": "jDd1YFRUYK7B"
+      "id": "latacunga",
+      "name": "Latacunga"
     },
     {
-      "name": "Loja",
-      "id": "ufGY382-6h4h"
+      "id": "loja",
+      "name": "Loja"
     },
     {
-      "name": "Loreto",
-      "id": "5DD1KqY6LOqV"
+      "id": "loreto",
+      "name": "Loreto"
     },
     {
-      "name": "Macara",
-      "id": "E5Ew2N7hBDpE"
+      "id": "macara",
+      "name": "Macara"
     },
     {
-      "name": "Macas",
-      "id": "_RddBh-QRQV2"
+      "id": "macas",
+      "name": "Macas"
     },
     {
-      "name": "Machachi",
-      "id": "FKsbT2_MY_1A"
+      "id": "machachi",
+      "name": "Machachi"
     },
     {
-      "name": "Machala",
-      "id": "-5cGF7mnY-3y"
+      "id": "machala",
+      "name": "Machala"
     },
     {
-      "name": "Manta",
-      "id": "ZGJOmhsYxOqy"
+      "id": "manta",
+      "name": "Manta"
     },
     {
-      "name": "Milagro",
-      "id": "gS_Dkb7OsGNk"
+      "id": "milagro",
+      "name": "Milagro"
     },
     {
-      "name": "Montecristi",
-      "id": "nJcWy0P3MMTC"
+      "id": "montecristi",
+      "name": "Montecristi"
     },
     {
-      "name": "Nabon",
-      "id": "jDWPBXv4566S"
+      "id": "nabon",
+      "name": "Nabon"
     },
     {
-      "name": "Olmedo",
-      "id": "TWSI-3sd6SGc"
+      "id": "olmedo",
+      "name": "Olmedo"
     },
     {
-      "name": "Otavalo",
-      "id": "yVQRmRugWxcs"
+      "id": "otavalo",
+      "name": "Otavalo"
     },
     {
-      "name": "Paccha",
-      "id": "1NjJPAlM_du9"
+      "id": "paccha",
+      "name": "Paccha"
     },
     {
-      "name": "Pasaje",
-      "id": "0Iyx_wY7AMEJ"
+      "id": "pasaje",
+      "name": "Pasaje"
     },
     {
-      "name": "Pelileo",
-      "id": "HWJ9VxTL7OVF"
+      "id": "pelileo",
+      "name": "Pelileo"
     },
     {
-      "name": "Pichincha",
-      "id": "RDndgRNfOTIr"
+      "id": "pichincha",
+      "name": "Pichincha"
     },
     {
-      "name": "Playas",
-      "id": "3Is7wsw6eiy9"
+      "id": "playas",
+      "name": "Playas"
     },
     {
-      "name": "Portoviejo",
-      "id": "OK4-boOO8O_Z"
+      "id": "portoviejo",
+      "name": "Portoviejo"
     },
     {
-      "name": "Puerto Francisco de Orellana",
-      "id": "nfVXN-XBZoaI"
+      "id": "puerto-francisco-de-orellana",
+      "name": "Puerto Francisco de Orellana"
     },
     {
-      "name": "Puyo",
-      "id": "UrxcgkFbPbah"
+      "id": "puyo",
+      "name": "Puyo"
     },
     {
-      "name": "Quevedo",
-      "id": "xfmDYPv4XWHT"
+      "id": "quevedo",
+      "name": "Quevedo"
     },
     {
-      "name": "Quito",
-      "id": "N26d1L6_SKs9"
+      "id": "quito",
+      "name": "Quito"
     },
     {
-      "name": "Riobamba",
-      "id": "jsJARLs1p-j-"
+      "id": "riobamba",
+      "name": "Riobamba"
     },
     {
-      "name": "Salinas",
-      "id": "XvGVqkpTnQKF"
+      "id": "salinas",
+      "name": "Salinas"
     },
     {
-      "name": "Samborondon",
-      "id": "Ldin2RQzyQcu"
+      "id": "samborondon",
+      "name": "Samborondon"
     },
     {
-      "name": "San Miguel",
-      "id": "smKQg4yYqWbS"
+      "id": "san-miguel",
+      "name": "San Miguel"
     },
     {
-      "name": "San Rafael",
-      "id": "0-H7i-DDFUER"
+      "id": "san-rafael",
+      "name": "San Rafael"
     },
     {
-      "name": "Santa Cruz",
-      "id": "GiO9-oVHurGG"
+      "id": "santa-cruz",
+      "name": "Santa Cruz"
     },
     {
-      "name": "Santa Elena",
-      "id": "uray7ZbWpwjs"
+      "id": "santa-elena",
+      "name": "Santa Elena"
     },
     {
-      "name": "Santo Domingo de los Colorados",
-      "id": "j2EuDEstCgj5"
+      "id": "santo-domingo-de-los-colorados",
+      "name": "Santo Domingo de los Colorados"
     },
     {
-      "name": "Sucre",
-      "id": "HHxRAkn1PHIu"
+      "id": "sucre",
+      "name": "Sucre"
     },
     {
-      "name": "Tababela",
-      "id": "Ceq8OQQgL1an"
+      "id": "tababela",
+      "name": "Tababela"
     },
     {
-      "name": "Tarapoa",
-      "id": "WF4FOircTQkS"
+      "id": "tarapoa",
+      "name": "Tarapoa"
     },
     {
-      "name": "Tena",
-      "id": "V-KIRHQX00KZ"
+      "id": "tena",
+      "name": "Tena"
     },
     {
-      "name": "Vinces",
-      "id": "f09S1B2I1lJe"
+      "id": "vinces",
+      "name": "Vinces"
     },
     {
-      "name": "Zamora",
-      "id": "USjNb1orPRIq"
+      "id": "zamora",
+      "name": "Zamora"
     },
     {
-      "name": "Zaruma",
-      "id": "Ao8SFvmmp0W-"
+      "id": "zaruma",
+      "name": "Zaruma"
     },
     {
-      "name": "Zumba",
-      "id": "55RcjfgWQocO"
+      "id": "zumba",
+      "name": "Zumba"
     }
   ]
 }

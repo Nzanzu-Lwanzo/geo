@@ -2,44 +2,44 @@
   "coid": "GQ",
   "cities": [
     {
-      "name": "Malabo",
-      "id": "DTh2cb7RvXmy"
+      "id": "malabo",
+      "name": "Malabo"
     },
     {
-      "name": "Bata",
-      "id": "s83JIDY7fTbX"
+      "id": "bata",
+      "name": "Bata"
     },
     {
-      "name": "Ebebiyín",
-      "id": "DJGY4Ns-CC_D"
+      "id": "ebebiyin",
+      "name": "Ebebiyín"
     },
     {
-      "name": "Aconibe",
-      "id": "2GsiUTj0ZQnO"
+      "id": "aconibe",
+      "name": "Aconibe"
     },
     {
-      "name": "Mongomo",
-      "id": "5gPPvcrZI49A"
+      "id": "mongomo",
+      "name": "Mongomo"
     },
     {
-      "name": "Luba",
-      "id": "mx4bB03TgDLq"
+      "id": "luba",
+      "name": "Luba"
     },
     {
-      "name": "Evinayong",
-      "id": "2b7HJzyL4X-W"
+      "id": "evinayong",
+      "name": "Evinayong"
     },
     {
-      "name": "Rebola",
-      "id": "PrNe2dgLWB16"
+      "id": "rebola",
+      "name": "Rebola"
     },
     {
-      "name": "Añisoc",
-      "id": "HSM06rNbP-wC"
+      "id": "anisoc",
+      "name": "Añisoc"
     },
     {
-      "name": "Nsok",
-      "id": "MHBtTZwgbofk"
+      "id": "nsok",
+      "name": "Nsok"
     }
   ]
 }

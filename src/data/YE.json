@@ -2,44 +2,44 @@
   "coid": "YE",
   "cities": [
     {
-      "name": "Sana'a",
-      "id": "gNFi23ps79XB"
+      "id": "sanaa",
+      "name": "Sana'a"
     },
     {
-      "name": "Aden",
-      "id": "O2Pmx8rBd1KD"
+      "id": "aden",
+      "name": "Aden"
     },
     {
-      "name": "Taiz",
-      "id": "XyUGM0Cz1xWa"
+      "id": "taiz",
+      "name": "Taiz"
     },
     {
-      "name": "Al Hudaydah",
-      "id": "Mj94T76BG358"
+      "id": "al-hudaydah",
+      "name": "Al Hudaydah"
     },
     {
-      "name": "Ibb",
-      "id": "DsnT9zx9S9he"
+      "id": "ibb",
+      "name": "Ibb"
     },
     {
-      "name": "Dhamar",
-      "id": "wnhMTfSuL--X"
+      "id": "dhamar",
+      "name": "Dhamar"
     },
     {
-      "name": "Al Mukalla",
-      "id": "4sbwPFmzDc4t"
+      "id": "al-mukalla",
+      "name": "Al Mukalla"
     },
     {
-      "name": "Zabid",
-      "id": "0rVX6RYzYkzV"
+      "id": "zabid",
+      "name": "Zabid"
     },
     {
-      "name": "Sa'dah",
-      "id": "qf_o9enTNSpb"
+      "id": "sadah",
+      "name": "Sa'dah"
     },
     {
-      "name": "Marib",
-      "id": "nGsrxx-JolHD"
+      "id": "marib",
+      "name": "Marib"
     }
   ]
 }

@@ -2,196 +2,196 @@
   "coid": "LV",
   "cities": [
     {
-      "name": "Adazi",
-      "id": "bZ18G4hWphIJ"
+      "id": "adazi",
+      "name": "Adazi"
     },
     {
-      "name": "Agenskalns",
-      "id": "WPOO78zP-EWj"
+      "id": "agenskalns",
+      "name": "Agenskalns"
     },
     {
-      "name": "Aizkraukle",
-      "id": "SdEmemBCcNBp"
+      "id": "aizkraukle",
+      "name": "Aizkraukle"
     },
     {
-      "name": "Aizpute",
-      "id": "yxHk4YurSO2Q"
+      "id": "aizpute",
+      "name": "Aizpute"
     },
     {
-      "name": "Baldone",
-      "id": "UPJRw3jcjqQD"
+      "id": "baldone",
+      "name": "Baldone"
     },
     {
-      "name": "Balvi",
-      "id": "6LY2AC00Ptzy"
+      "id": "balvi",
+      "name": "Balvi"
     },
     {
-      "name": "Bauska",
-      "id": "8buc6IWmLVcw"
+      "id": "bauska",
+      "name": "Bauska"
     },
     {
-      "name": "Brankas",
-      "id": "gVJIyl__fhJ9"
+      "id": "brankas",
+      "name": "Brankas"
     },
     {
-      "name": "Carnikava",
-      "id": "j-ylT-tOM-p5"
+      "id": "carnikava",
+      "name": "Carnikava"
     },
     {
-      "name": "Centrs",
-      "id": "ZCc9qbQm4rOS"
+      "id": "centrs",
+      "name": "Centrs"
     },
     {
-      "name": "Daugavpils",
-      "id": "oAE-j6w63NT2"
+      "id": "daugavpils",
+      "name": "Daugavpils"
     },
     {
-      "name": "Dobele",
-      "id": "O-ZnL_tFmkHZ"
+      "id": "dobele",
+      "name": "Dobele"
     },
     {
-      "name": "Durbe",
-      "id": "Qhw0FQ1u8-MX"
+      "id": "durbe",
+      "name": "Durbe"
     },
     {
-      "name": "Gulbene",
-      "id": "6sRuXM6YLUEf"
+      "id": "gulbene",
+      "name": "Gulbene"
     },
     {
-      "name": "Ilguciems",
-      "id": "2yJE0NzSCSij"
+      "id": "ilguciems",
+      "name": "Ilguciems"
     },
     {
-      "name": "Izvalta",
-      "id": "AMbOKk0gJYR6"
+      "id": "izvalta",
+      "name": "Izvalta"
     },
     {
-      "name": "Jaunolaine",
-      "id": "JXzhZWnrY-sS"
+      "id": "jaunolaine",
+      "name": "Jaunolaine"
     },
     {
-      "name": "Jelgava",
-      "id": "_HUBxV-bpjH7"
+      "id": "jelgava",
+      "name": "Jelgava"
     },
     {
-      "name": "Kandava",
-      "id": "8omU3eR5RQjQ"
+      "id": "kandava",
+      "name": "Kandava"
     },
     {
-      "name": "Kolka",
-      "id": "oQ7Ws8jy7mO_"
+      "id": "kolka",
+      "name": "Kolka"
     },
     {
-      "name": "Lapmezciems",
-      "id": "oZy5wwCdEQMl"
+      "id": "lapmezciems",
+      "name": "Lapmezciems"
     },
     {
-      "name": "Liepa",
-      "id": "tP1sC367GHLe"
+      "id": "liepa",
+      "name": "Liepa"
     },
     {
-      "name": "Ludza",
-      "id": "iKn8P5hotqQz"
+      "id": "ludza",
+      "name": "Ludza"
     },
     {
-      "name": "Madona",
-      "id": "pApZyab_2pea"
+      "id": "madona",
+      "name": "Madona"
     },
     {
-      "name": "Malpils",
-      "id": "g7sTqe9xSW3Q"
+      "id": "malpils",
+      "name": "Malpils"
     },
     {
-      "name": "Malta",
-      "id": "BBHY9328V7j6"
+      "id": "malta",
+      "name": "Malta"
     },
     {
-      "name": "Marupe",
-      "id": "ZMZQ8fKl-yiQ"
+      "id": "marupe",
+      "name": "Marupe"
     },
     {
-      "name": "Mazsalaca",
-      "id": "VARsNQqRiWuy"
+      "id": "mazsalaca",
+      "name": "Mazsalaca"
     },
     {
-      "name": "Ogre",
-      "id": "Mg_WasBfLs40"
+      "id": "ogre",
+      "name": "Ogre"
     },
     {
-      "name": "Olaine",
-      "id": "KMylPRoqyIwz"
+      "id": "olaine",
+      "name": "Olaine"
     },
     {
-      "name": "Ozolnieki",
-      "id": "VYqH1O8qVk0H"
+      "id": "ozolnieki",
+      "name": "Ozolnieki"
     },
     {
-      "name": "Pilsrundale",
-      "id": "ax2BFQ5iU26G"
+      "id": "pilsrundale",
+      "name": "Pilsrundale"
     },
     {
-      "name": "Priedkalne",
-      "id": "cnwGA4hBi5vE"
+      "id": "priedkalne",
+      "name": "Priedkalne"
     },
     {
-      "name": "Pure",
-      "id": "f8dF1ymK1Ywt"
+      "id": "pure",
+      "name": "Pure"
     },
     {
-      "name": "Riga",
-      "id": "NcISfaVioVlD"
+      "id": "riga",
+      "name": "Riga"
     },
     {
-      "name": "Salaspils",
-      "id": "uE0hO-pgCSmw"
+      "id": "salaspils",
+      "name": "Salaspils"
     },
     {
-      "name": "Saldus",
-      "id": "PAZO3Fb_oOXu"
+      "id": "saldus",
+      "name": "Saldus"
     },
     {
-      "name": "Sigulda",
-      "id": "Mt1uMqND0pdE"
+      "id": "sigulda",
+      "name": "Sigulda"
     },
     {
-      "name": "Smiltene",
-      "id": "4M_cSS4MRTXF"
+      "id": "smiltene",
+      "name": "Smiltene"
     },
     {
-      "name": "Stalgene",
-      "id": "IEDkTnetuDER"
+      "id": "stalgene",
+      "name": "Stalgene"
     },
     {
-      "name": "Talsi",
-      "id": "uRx2m84NOIa2"
+      "id": "talsi",
+      "name": "Talsi"
     },
     {
-      "name": "Tukums",
-      "id": "vGmvKWVm9xbd"
+      "id": "tukums",
+      "name": "Tukums"
     },
     {
-      "name": "Valka",
-      "id": "jsXzWHUJq_BD"
+      "id": "valka",
+      "name": "Valka"
     },
     {
-      "name": "Valmiera",
-      "id": "60xkfXhMOt_3"
+      "id": "valmiera",
+      "name": "Valmiera"
     },
     {
-      "name": "Varsava",
-      "id": "dsIP-7zpGj9F"
+      "id": "varsava",
+      "name": "Varsava"
     },
     {
-      "name": "Ventspils",
-      "id": "RUwolqGXGMDV"
+      "id": "ventspils",
+      "name": "Ventspils"
     },
     {
-      "name": "Zasa",
-      "id": "k24M0C4mQLHJ"
+      "id": "zasa",
+      "name": "Zasa"
     },
     {
-      "name": "Zilupe",
-      "id": "iXktGEUrjU4m"
+      "id": "zilupe",
+      "name": "Zilupe"
     }
   ]
 }

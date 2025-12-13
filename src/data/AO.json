@@ -2,88 +2,88 @@
   "coid": "AO",
   "cities": [
     {
-      "name": "Ambriz",
-      "id": "2Q6CEuqjlFo5"
+      "id": "ambriz",
+      "name": "Ambriz"
     },
     {
-      "name": "Benguela",
-      "id": "3U6GWHk4Yx6M"
+      "id": "benguela",
+      "name": "Benguela"
     },
     {
-      "name": "Cabinda",
-      "id": "uCGi0Dcdb4yX"
+      "id": "cabinda",
+      "name": "Cabinda"
     },
     {
-      "name": "Cacole",
-      "id": "8-zhWIy0UlG4"
+      "id": "cacole",
+      "name": "Cacole"
     },
     {
-      "name": "Camabatela",
-      "id": "Ut8ZViE19apB"
+      "id": "camabatela",
+      "name": "Camabatela"
     },
     {
-      "name": "Cazeta",
-      "id": "3_FTnHKVO4p1"
+      "id": "cazeta",
+      "name": "Cazeta"
     },
     {
-      "name": "Huambo",
-      "id": "eEEevOQQznqg"
+      "id": "huambo",
+      "name": "Huambo"
     },
     {
-      "name": "Kuito",
-      "id": "cL4buPlCIATN"
+      "id": "kuito",
+      "name": "Kuito"
     },
     {
-      "name": "Lobito",
-      "id": "b3AChO4l4Gn8"
+      "id": "lobito",
+      "name": "Lobito"
     },
     {
-      "name": "Luanda",
-      "id": "RPMF-O19IAAK"
+      "id": "luanda",
+      "name": "Luanda"
     },
     {
-      "name": "Lubango",
-      "id": "Yur0MhmJaXYS"
+      "id": "lubango",
+      "name": "Lubango"
     },
     {
-      "name": "Lucapa",
-      "id": "2bjZpDcvu5jf"
+      "id": "lucapa",
+      "name": "Lucapa"
     },
     {
-      "name": "Lumeje",
-      "id": "OaPMLFJkzXy9"
+      "id": "lumeje",
+      "name": "Lumeje"
     },
     {
-      "name": "Malanje",
-      "id": "XwYun6Lj8O4O"
+      "id": "malanje",
+      "name": "Malanje"
     },
     {
-      "name": "Menongue",
-      "id": "TJqdZeF6Ski_"
+      "id": "menongue",
+      "name": "Menongue"
     },
     {
-      "name": "Muxaluando",
-      "id": "eUQuuovl1H5u"
+      "id": "muxaluando",
+      "name": "Muxaluando"
     },
     {
-      "name": "Namibe",
-      "id": "tazSV8GgYuZ1"
+      "id": "namibe",
+      "name": "Namibe"
     },
     {
-      "name": "Ondjiva",
-      "id": "58Tw_YFME1Zd"
+      "id": "ondjiva",
+      "name": "Ondjiva"
     },
     {
-      "name": "Piri",
-      "id": "P1t5_jPrPVsw"
+      "id": "piri",
+      "name": "Piri"
     },
     {
-      "name": "Saurimo",
-      "id": "9l7xHICGrkwY"
+      "id": "saurimo",
+      "name": "Saurimo"
     },
     {
-      "name": "Talatona",
-      "id": "je10Wcct1fYx"
+      "id": "talatona",
+      "name": "Talatona"
     }
   ]
 }

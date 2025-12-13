@@ -2,160 +2,160 @@
   "coid": "EG",
   "cities": [
     {
-      "name": "Abu Hammad",
-      "id": "p0CYhYG1Wzet"
+      "id": "abu-hammad",
+      "name": "Abu Hammad"
     },
     {
-      "name": "Al Mahallah al Kubra",
-      "id": "3aLEYn1nrTtO"
+      "id": "al-mahallah-al-kubra",
+      "name": "Al Mahallah al Kubra"
     },
     {
-      "name": "Al Mansurah",
-      "id": "mLJ5lRY1mHGJ"
+      "id": "al-mansurah",
+      "name": "Al Mansurah"
     },
     {
-      "name": "Al Marj",
-      "id": "UYvok2iqOA9G"
+      "id": "al-marj",
+      "name": "Al Marj"
     },
     {
-      "name": "Alexandria",
-      "id": "DIx2h8oupddz"
+      "id": "alexandria",
+      "name": "Alexandria"
     },
     {
-      "name": "Almazah",
-      "id": "I1IrrkYSpFoa"
+      "id": "almazah",
+      "name": "Almazah"
     },
     {
-      "name": "Ar Rawdah",
-      "id": "HMYuo5QGzCd5"
+      "id": "ar-rawdah",
+      "name": "Ar Rawdah"
     },
     {
-      "name": "Assiut",
-      "id": "-P_8dNUbNtXp"
+      "id": "assiut",
+      "name": "Assiut"
     },
     {
-      "name": "Az Zamalik",
-      "id": "dARnu_7mRIx4"
+      "id": "az-zamalik",
+      "name": "Az Zamalik"
     },
     {
-      "name": "Badr",
-      "id": "ql36G6eEzmLb"
+      "id": "badr",
+      "name": "Badr"
     },
     {
-      "name": "Banha",
-      "id": "Ng0nwVmbVdne"
+      "id": "banha",
+      "name": "Banha"
     },
     {
-      "name": "Bani Suwayf",
-      "id": "DKQFsA2yaGLy"
+      "id": "bani-suwayf",
+      "name": "Bani Suwayf"
     },
     {
-      "name": "Cairo",
-      "id": "7NBKL9NrWnIQ"
+      "id": "cairo",
+      "name": "Cairo"
     },
     {
-      "name": "Damietta",
-      "id": "itqPOzzs_thE"
+      "id": "damietta",
+      "name": "Damietta"
     },
     {
-      "name": "Faraskur",
-      "id": "cij5J8-LOUXw"
+      "id": "faraskur",
+      "name": "Faraskur"
     },
     {
-      "name": "Flaminj",
-      "id": "W9c_aN3DJ1CE"
+      "id": "flaminj",
+      "name": "Flaminj"
     },
     {
-      "name": "Giza",
-      "id": "Xs5-zgcSC3A3"
+      "id": "giza",
+      "name": "Giza"
     },
     {
-      "name": "Heliopolis",
-      "id": "1WjbtSo53EJY"
+      "id": "heliopolis",
+      "name": "Heliopolis"
     },
     {
-      "name": "Helwan",
-      "id": "4QbCi4j-8PPK"
+      "id": "helwan",
+      "name": "Helwan"
     },
     {
-      "name": "Hurghada",
-      "id": "3WmjVUDaRyhE"
+      "id": "hurghada",
+      "name": "Hurghada"
     },
     {
-      "name": "Ismailia",
-      "id": "QL1w6aBSreaM"
+      "id": "ismailia",
+      "name": "Ismailia"
     },
     {
-      "name": "Kafr ash Shaykh",
-      "id": "9veWDYaj29Lb"
+      "id": "kafr-ash-shaykh",
+      "name": "Kafr ash Shaykh"
     },
     {
-      "name": "Luxor",
-      "id": "13Ygin0eaGbn"
+      "id": "luxor",
+      "name": "Luxor"
     },
     {
-      "name": "Madinat an Nasr",
-      "id": "rCUGHWWUv_me"
+      "id": "madinat-an-nasr",
+      "name": "Madinat an Nasr"
     },
     {
-      "name": "Madinat as Sadis min Uktubar",
-      "id": "P6kLWRB8S0Yk"
+      "id": "madinat-as-sadis-min-uktubar",
+      "name": "Madinat as Sadis min Uktubar"
     },
     {
-      "name": "Minya",
-      "id": "mwdIcQKS0xJG"
+      "id": "minya",
+      "name": "Minya"
     },
     {
-      "name": "Nasr",
-      "id": "9HIoDfBVb_qz"
+      "id": "nasr",
+      "name": "Nasr"
     },
     {
-      "name": "New Cairo",
-      "id": "VsgX4peTuIhc"
+      "id": "new-cairo",
+      "name": "New Cairo"
     },
     {
-      "name": "Port Said",
-      "id": "9VRUM91m6iOB"
+      "id": "port-said",
+      "name": "Port Said"
     },
     {
-      "name": "Rafah",
-      "id": "G9j-yompZOIf"
+      "id": "rafah",
+      "name": "Rafah"
     },
     {
-      "name": "Ramsis",
-      "id": "cRlrBGZGiiRv"
+      "id": "ramsis",
+      "name": "Ramsis"
     },
     {
-      "name": "Sadat",
-      "id": "m37GdgzK3jEZ"
+      "id": "sadat",
+      "name": "Sadat"
     },
     {
-      "name": "Shirbin",
-      "id": "7J1aCSnDPaCP"
+      "id": "shirbin",
+      "name": "Shirbin"
     },
     {
-      "name": "Shubra",
-      "id": "5AmTl-eEtywJ"
+      "id": "shubra",
+      "name": "Shubra"
     },
     {
-      "name": "Sohag",
-      "id": "fExt-sdJZUoA"
+      "id": "sohag",
+      "name": "Sohag"
     },
     {
-      "name": "Suez",
-      "id": "pl6Mt7__D4tH"
+      "id": "suez",
+      "name": "Suez"
     },
     {
-      "name": "Tanta",
-      "id": "CXsC3vl76K8X"
+      "id": "tanta",
+      "name": "Tanta"
     },
     {
-      "name": "Toukh",
-      "id": "32CoJekMbLWN"
+      "id": "toukh",
+      "name": "Toukh"
     },
     {
-      "name": "Zagazig",
-      "id": "ePhL4jb6hxmV"
+      "id": "zagazig",
+      "name": "Zagazig"
     }
   ]
 }

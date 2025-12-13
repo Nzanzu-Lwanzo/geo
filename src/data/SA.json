@@ -2,156 +2,156 @@
   "coid": "SA",
   "cities": [
     {
-      "name": "Abha",
-      "id": "BwFvzmjH770c"
+      "id": "abha",
+      "name": "Abha"
     },
     {
-      "name": "Abqaiq",
-      "id": "p2X00W3ycxqe"
+      "id": "abqaiq",
+      "name": "Abqaiq"
     },
     {
-      "name": "Al Bahah",
-      "id": "WxtV2_IYjltt"
+      "id": "al-bahah",
+      "name": "Al Bahah"
     },
     {
-      "name": "Al Faruq",
-      "id": "dke2ErYmadhY"
+      "id": "al-faruq",
+      "name": "Al Faruq"
     },
     {
-      "name": "Al Hufuf",
-      "id": "1cYGLzkTW6I_"
+      "id": "al-hufuf",
+      "name": "Al Hufuf"
     },
     {
-      "name": "Al Qatif",
-      "id": "76qC2StjzS5T"
+      "id": "al-qatif",
+      "name": "Al Qatif"
     },
     {
-      "name": "Al Yamamah",
-      "id": "btYbl7fSR8vx"
+      "id": "al-yamamah",
+      "name": "Al Yamamah"
     },
     {
-      "name": "At Tuwal",
-      "id": "qJPZEexh-lV_"
+      "id": "at-tuwal",
+      "name": "At Tuwal"
     },
     {
-      "name": "Buraidah",
-      "id": "IFMpsorGkDVe"
+      "id": "buraidah",
+      "name": "Buraidah"
     },
     {
-      "name": "Dammam",
-      "id": "jwDILu88TJB0"
+      "id": "dammam",
+      "name": "Dammam"
     },
     {
-      "name": "Dhahran",
-      "id": "JQ9479Uhvf-e"
+      "id": "dhahran",
+      "name": "Dhahran"
     },
     {
-      "name": "Hayil",
-      "id": "E8nGPsAdqXnn"
+      "id": "hayil",
+      "name": "Hayil"
     },
     {
-      "name": "Jazirah",
-      "id": "LLtqSO3Wr--r"
+      "id": "jazirah",
+      "name": "Jazirah"
     },
     {
-      "name": "Jeddah",
-      "id": "jQDFBgdSKrjo"
+      "id": "jeddah",
+      "name": "Jeddah"
     },
     {
-      "name": "Jizan",
-      "id": "vl4M_ey0lm4P"
+      "id": "jizan",
+      "name": "Jizan"
     },
     {
-      "name": "Jubail",
-      "id": "BeKlaFV7lJwB"
+      "id": "jubail",
+      "name": "Jubail"
     },
     {
-      "name": "Khamis Mushait",
-      "id": "yapBLbMf_YIh"
+      "id": "khamis-mushait",
+      "name": "Khamis Mushait"
     },
     {
-      "name": "Khobar",
-      "id": "yhCQE7Hvk6ds"
+      "id": "khobar",
+      "name": "Khobar"
     },
     {
-      "name": "Khulays",
-      "id": "v6VVpD9TrX1Q"
+      "id": "khulays",
+      "name": "Khulays"
     },
     {
-      "name": "Linah",
-      "id": "EADq7XD6YkZR"
+      "id": "linah",
+      "name": "Linah"
     },
     {
-      "name": "Madinat Yanbu` as Sina`iyah",
-      "id": "pnQvFQw_kxQt"
+      "id": "madinat-yanbu-as-sinaiyah",
+      "name": "Madinat Yanbu` as Sina`iyah"
     },
     {
-      "name": "Mecca",
-      "id": "DZJDoIE2zsY1"
+      "id": "mecca",
+      "name": "Mecca"
     },
     {
-      "name": "Medina",
-      "id": "ODdQsLND4h5I"
+      "id": "medina",
+      "name": "Medina"
     },
     {
-      "name": "Mina",
-      "id": "PXN3aOnb2NnR"
+      "id": "mina",
+      "name": "Mina"
     },
     {
-      "name": "Najran",
-      "id": "qXlQuHIbwuSo"
+      "id": "najran",
+      "name": "Najran"
     },
     {
-      "name": "Rabigh",
-      "id": "bqCKrB5waQHJ"
+      "id": "rabigh",
+      "name": "Rabigh"
     },
     {
-      "name": "Rahimah",
-      "id": "mKrNJRAvEKIT"
+      "id": "rahimah",
+      "name": "Rahimah"
     },
     {
-      "name": "Rahman",
-      "id": "9Ea15XH_aguz"
+      "id": "rahman",
+      "name": "Rahman"
     },
     {
-      "name": "Ramdah",
-      "id": "pxXQSlsHeGLt"
+      "id": "ramdah",
+      "name": "Ramdah"
     },
     {
-      "name": "Ras Tanura",
-      "id": "rTZv7Z9AaSA1"
+      "id": "ras-tanura",
+      "name": "Ras Tanura"
     },
     {
-      "name": "Riyadh",
-      "id": "djy7M2QH4bUq"
+      "id": "riyadh",
+      "name": "Riyadh"
     },
     {
-      "name": "Sabya",
-      "id": "YOyNP3nRa7nG"
+      "id": "sabya",
+      "name": "Sabya"
     },
     {
-      "name": "Safwa",
-      "id": "Csmx6P3kLVVq"
+      "id": "safwa",
+      "name": "Safwa"
     },
     {
-      "name": "Sakaka",
-      "id": "YIaw1hiM7FfW"
+      "id": "sakaka",
+      "name": "Sakaka"
     },
     {
-      "name": "Sambah",
-      "id": "uj_DNQc3Pnb1"
+      "id": "sambah",
+      "name": "Sambah"
     },
     {
-      "name": "Sayhat",
-      "id": "xVR6sHKdYDk6"
+      "id": "sayhat",
+      "name": "Sayhat"
     },
     {
-      "name": "Tabuk",
-      "id": "Pm7VRvM59Jj_"
+      "id": "tabuk",
+      "name": "Tabuk"
     },
     {
-      "name": "Yanbu` al Bahr",
-      "id": "YhlrhPy5XhSy"
+      "id": "yanbu-al-bahr",
+      "name": "Yanbu` al Bahr"
     }
   ]
 }

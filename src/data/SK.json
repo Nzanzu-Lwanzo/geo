@@ -2,924 +2,924 @@
   "coid": "SK",
   "cities": [
     {
-      "name": "Bahon",
-      "id": "q8xQxsIyfLIn"
+      "id": "bahon",
+      "name": "Bahon"
     },
     {
-      "name": "Baka",
-      "id": "MjtkmvCu6SOf"
+      "id": "baka",
+      "name": "Baka"
     },
     {
-      "name": "Banovce nad Bebravou",
-      "id": "Pk7xZXhVB5IY"
+      "id": "banovce-nad-bebravou",
+      "name": "Banovce nad Bebravou"
     },
     {
-      "name": "Bardejov",
-      "id": "Vi8NwzjPbrN-"
+      "id": "bardejov",
+      "name": "Bardejov"
     },
     {
-      "name": "Bela",
-      "id": "s2ZmN4st5k_c"
+      "id": "bela",
+      "name": "Bela"
     },
     {
-      "name": "Beladice",
-      "id": "HAbwzktr24_0"
+      "id": "beladice",
+      "name": "Beladice"
     },
     {
-      "name": "Bernolakovo",
-      "id": "bukDgM4fsyu-"
+      "id": "bernolakovo",
+      "name": "Bernolakovo"
     },
     {
-      "name": "Besenov",
-      "id": "MRix1rGM1nCz"
+      "id": "besenov",
+      "name": "Besenov"
     },
     {
-      "name": "Blatnica",
-      "id": "pzRWr-XSC7yl"
+      "id": "blatnica",
+      "name": "Blatnica"
     },
     {
-      "name": "Bobrov",
-      "id": "sB_HYS0hLEAF"
+      "id": "bobrov",
+      "name": "Bobrov"
     },
     {
-      "name": "Bohdanovce",
-      "id": "mXo3hgqvjzOQ"
+      "id": "bohdanovce",
+      "name": "Bohdanovce"
     },
     {
-      "name": "Boleraz",
-      "id": "HBFcHiqC1g9I"
+      "id": "boleraz",
+      "name": "Boleraz"
     },
     {
-      "name": "Borovce",
-      "id": "h4Evg0ZDU50L"
+      "id": "borovce",
+      "name": "Borovce"
     },
     {
-      "name": "Branc",
-      "id": "fFUVX2PmnjRm"
+      "id": "branc",
+      "name": "Branc"
     },
     {
-      "name": "Bratislava",
-      "id": "HY9QCdZQ7DhF"
+      "id": "bratislava",
+      "name": "Bratislava"
     },
     {
-      "name": "Brezno",
-      "id": "aIirSYX6a0Wg"
+      "id": "brezno",
+      "name": "Brezno"
     },
     {
-      "name": "Brezova pod Bradlom",
-      "id": "P-608QehdCod"
+      "id": "brezova-pod-bradlom",
+      "name": "Brezova pod Bradlom"
     },
     {
-      "name": "Bystricka",
-      "id": "G24ZsB6BBJEJ"
+      "id": "bystricka",
+      "name": "Bystricka"
     },
     {
-      "name": "Cecejovce",
-      "id": "yRjtRwOcGgww"
+      "id": "cecejovce",
+      "name": "Cecejovce"
     },
     {
-      "name": "Cechynce",
-      "id": "JyWo56xyhHrM"
+      "id": "cechynce",
+      "name": "Cechynce"
     },
     {
-      "name": "Cerova",
-      "id": "GCQhE-9j0FVX"
+      "id": "cerova",
+      "name": "Cerova"
     },
     {
-      "name": "Cerveny Hradok",
-      "id": "SIyGPrcbJPXo"
+      "id": "cerveny-hradok",
+      "name": "Cerveny Hradok"
     },
     {
-      "name": "Cerveny Kamen",
-      "id": "_nsp4FGWFQQQ"
+      "id": "cerveny-kamen",
+      "name": "Cerveny Kamen"
     },
     {
-      "name": "Chlebnice",
-      "id": "eI1LjDy00M-U"
+      "id": "chlebnice",
+      "name": "Chlebnice"
     },
     {
-      "name": "Chorvatsky Grob",
-      "id": "NhoQW1FmMEkv"
+      "id": "chorvatsky-grob",
+      "name": "Chorvatsky Grob"
     },
     {
-      "name": "Chtelnica",
-      "id": "N5WLb-YFgzoE"
+      "id": "chtelnica",
+      "name": "Chtelnica"
     },
     {
-      "name": "Cifer",
-      "id": "X7imBXVZvt2R"
+      "id": "cifer",
+      "name": "Cifer"
     },
     {
-      "name": "Detva",
-      "id": "gTsrwsHgB7Im"
+      "id": "detva",
+      "name": "Detva"
     },
     {
-      "name": "Diakovce",
-      "id": "ZmbihhesBNVh"
+      "id": "diakovce",
+      "name": "Diakovce"
     },
     {
-      "name": "Diviaky nad Nitricou",
-      "id": "x2-CNoiEYsBa"
+      "id": "diviaky-nad-nitricou",
+      "name": "Diviaky nad Nitricou"
     },
     {
-      "name": "Dlha nad Oravou",
-      "id": "ySNFy8Cq98GI"
+      "id": "dlha-nad-oravou",
+      "name": "Dlha nad Oravou"
     },
     {
-      "name": "Dlhe Klcovo",
-      "id": "9uDTYNL9W48X"
+      "id": "dlhe-klcovo",
+      "name": "Dlhe Klcovo"
     },
     {
-      "name": "Dlhe nad Cirochou",
-      "id": "NUY-3DGlqnl0"
+      "id": "dlhe-nad-cirochou",
+      "name": "Dlhe nad Cirochou"
     },
     {
-      "name": "Dolna Marikova",
-      "id": "_1pffckPfvPU"
+      "id": "dolna-marikova",
+      "name": "Dolna Marikova"
     },
     {
-      "name": "Dolna Streda",
-      "id": "6NUYYU9CP0Ip"
+      "id": "dolna-streda",
+      "name": "Dolna Streda"
     },
     {
-      "name": "Dolne Oresany",
-      "id": "j3xmFI3GHeED"
+      "id": "dolne-oresany",
+      "name": "Dolne Oresany"
     },
     {
-      "name": "Dolne Vestenice",
-      "id": "IesvkaBGL74K"
+      "id": "dolne-vestenice",
+      "name": "Dolne Vestenice"
     },
     {
-      "name": "Dolny Hricov",
-      "id": "v5O62cOCIoA3"
+      "id": "dolny-hricov",
+      "name": "Dolny Hricov"
     },
     {
-      "name": "Dolny Stal",
-      "id": "8vsTqWUqn-Ul"
+      "id": "dolny-stal",
+      "name": "Dolny Stal"
     },
     {
-      "name": "Druzstevna pri Hornade",
-      "id": "sBS0LuXpFE4M"
+      "id": "druzstevna-pri-hornade",
+      "name": "Druzstevna pri Hornade"
     },
     {
-      "name": "Eliasovce",
-      "id": "CON4SflfqXjC"
+      "id": "eliasovce",
+      "name": "Eliasovce"
     },
     {
-      "name": "Fintice",
-      "id": "BWTGRVWMcgkK"
+      "id": "fintice",
+      "name": "Fintice"
     },
     {
-      "name": "Galanta",
-      "id": "sUfx8zoQBHEu"
+      "id": "galanta",
+      "name": "Galanta"
     },
     {
-      "name": "Gbely",
-      "id": "K_Fn-UymD042"
+      "id": "gbely",
+      "name": "Gbely"
     },
     {
-      "name": "Gelnica",
-      "id": "11d-YYiRGEDy"
+      "id": "gelnica",
+      "name": "Gelnica"
     },
     {
-      "name": "Giraltovce",
-      "id": "UOcLtkQMOiC4"
+      "id": "giraltovce",
+      "name": "Giraltovce"
     },
     {
-      "name": "Golianovo",
-      "id": "AA3-IUkThkU7"
+      "id": "golianovo",
+      "name": "Golianovo"
     },
     {
-      "name": "Handlova",
-      "id": "Yx3sWAZY973a"
+      "id": "handlova",
+      "name": "Handlova"
     },
     {
-      "name": "Hencovce",
-      "id": "P5pHi-hXJGaP"
+      "id": "hencovce",
+      "name": "Hencovce"
     },
     {
-      "name": "Hlinik",
-      "id": "lXvIj2NlNMEQ"
+      "id": "hlinik",
+      "name": "Hlinik"
     },
     {
-      "name": "Hlinik nad Hronom",
-      "id": "eM0Lhgj-YnHr"
+      "id": "hlinik-nad-hronom",
+      "name": "Hlinik nad Hronom"
     },
     {
-      "name": "Hlohovec",
-      "id": "eh8-BCg3hT9n"
+      "id": "hlohovec",
+      "name": "Hlohovec"
     },
     {
-      "name": "Holic",
-      "id": "MEHDb1jzlLv6"
+      "id": "holic",
+      "name": "Holic"
     },
     {
-      "name": "Holice",
-      "id": "uFyYFBO3gk2C"
+      "id": "holice",
+      "name": "Holice"
     },
     {
-      "name": "Horna Lehota",
-      "id": "BnUcYc3DD6VN"
+      "id": "horna-lehota",
+      "name": "Horna Lehota"
     },
     {
-      "name": "Horna Stubna",
-      "id": "3UyljSfbW6rC"
+      "id": "horna-stubna",
+      "name": "Horna Stubna"
     },
     {
-      "name": "Horne Oresany",
-      "id": "5AAelh48vbBJ"
+      "id": "horne-oresany",
+      "name": "Horne Oresany"
     },
     {
-      "name": "Horne Saliby",
-      "id": "M1dopLOafHGI"
+      "id": "horne-saliby",
+      "name": "Horne Saliby"
     },
     {
-      "name": "Horny Smokovec",
-      "id": "JcCIBC7HCCky"
+      "id": "horny-smokovec",
+      "name": "Horny Smokovec"
     },
     {
-      "name": "Hradiste",
-      "id": "Whsk_GS5rHe6"
+      "id": "hradiste",
+      "name": "Hradiste"
     },
     {
-      "name": "Hrinova",
-      "id": "-YqOxhnAjXxs"
+      "id": "hrinova",
+      "name": "Hrinova"
     },
     {
-      "name": "Hrochot,Slovakia",
-      "id": "kiDotSfJ1a0q"
+      "id": "hrochotslovakia",
+      "name": "Hrochot,Slovakia"
     },
     {
-      "name": "Hruby Sur",
-      "id": "Pq4BQLUKsv-G"
+      "id": "hruby-sur",
+      "name": "Hruby Sur"
     },
     {
-      "name": "Ilava",
-      "id": "FRFZMDyYZYbk"
+      "id": "ilava",
+      "name": "Ilava"
     },
     {
-      "name": "Istebne",
-      "id": "0okN4CYsc_cC"
+      "id": "istebne",
+      "name": "Istebne"
     },
     {
-      "name": "Ivanka pri Dunaji",
-      "id": "nAliicYYDSbm"
+      "id": "ivanka-pri-dunaji",
+      "name": "Ivanka pri Dunaji"
     },
     {
-      "name": "Jablonove",
-      "id": "tz6ngIR05sAX"
+      "id": "jablonove",
+      "name": "Jablonove"
     },
     {
-      "name": "Jacovce",
-      "id": "5DZxVwCQ3oKf"
+      "id": "jacovce",
+      "name": "Jacovce"
     },
     {
-      "name": "Jasenica",
-      "id": "cOywRv0lfZFb"
+      "id": "jasenica",
+      "name": "Jasenica"
     },
     {
-      "name": "Jaslovske Bohunice",
-      "id": "73ICl9i7V06I"
+      "id": "jaslovske-bohunice",
+      "name": "Jaslovske Bohunice"
     },
     {
-      "name": "Jelenec",
-      "id": "B1qUEirbxdbe"
+      "id": "jelenec",
+      "name": "Jelenec"
     },
     {
-      "name": "Jelka",
-      "id": "yfG0daBr2p5R"
+      "id": "jelka",
+      "name": "Jelka"
     },
     {
-      "name": "Kajal",
-      "id": "BfnYDfPq5FXA"
+      "id": "kajal",
+      "name": "Kajal"
     },
     {
-      "name": "Kanianka",
-      "id": "CZiW53Ri9qPO"
+      "id": "kanianka",
+      "name": "Kanianka"
     },
     {
-      "name": "Klatova Nova Ves",
-      "id": "jzCZmuUbTvJO"
+      "id": "klatova-nova-ves",
+      "name": "Klatova Nova Ves"
     },
     {
-      "name": "Klokoc",
-      "id": "hc6Aw2wx33tx"
+      "id": "klokoc",
+      "name": "Klokoc"
     },
     {
-      "name": "Klokocov",
-      "id": "UeG-ZtMAU66G"
+      "id": "klokocov",
+      "name": "Klokocov"
     },
     {
-      "name": "Kolarovo",
-      "id": "TCetoE3P2Zxb"
+      "id": "kolarovo",
+      "name": "Kolarovo"
     },
     {
-      "name": "Komjatice",
-      "id": "RF0GDLe58U6R"
+      "id": "komjatice",
+      "name": "Komjatice"
     },
     {
-      "name": "Kopcany",
-      "id": "BjxvF4jZF7_I"
+      "id": "kopcany",
+      "name": "Kopcany"
     },
     {
-      "name": "Kosicka Nova Ves",
-      "id": "GD_JRpvud5qO"
+      "id": "kosicka-nova-ves",
+      "name": "Kosicka Nova Ves"
     },
     {
-      "name": "Kremnica",
-      "id": "ACnIVCzHkOf0"
+      "id": "kremnica",
+      "name": "Kremnica"
     },
     {
-      "name": "Krizovany nad Dudvahom",
-      "id": "o022JiBfydCd"
+      "id": "krizovany-nad-dudvahom",
+      "name": "Krizovany nad Dudvahom"
     },
     {
-      "name": "Krompachy",
-      "id": "jXhIIfrtn9fe"
+      "id": "krompachy",
+      "name": "Krompachy"
     },
     {
-      "name": "Krupina",
-      "id": "NEEIhAb8syqp"
+      "id": "krupina",
+      "name": "Krupina"
     },
     {
-      "name": "Krusovce",
-      "id": "Wsvt5JlrBy3U"
+      "id": "krusovce",
+      "name": "Krusovce"
     },
     {
-      "name": "Kukova",
-      "id": "44X19_h8FyBU"
+      "id": "kukova",
+      "name": "Kukova"
     },
     {
-      "name": "Kvetoslavov",
-      "id": "0uZ9xtzp60dz"
+      "id": "kvetoslavov",
+      "name": "Kvetoslavov"
     },
     {
-      "name": "Kysucky Lieskovec",
-      "id": "HrMbHkEincKr"
+      "id": "kysucky-lieskovec",
+      "name": "Kysucky Lieskovec"
     },
     {
-      "name": "Ladce",
-      "id": "yzKfVa7A6PDf"
+      "id": "ladce",
+      "name": "Ladce"
     },
     {
-      "name": "Lednicke Rovne",
-      "id": "qvhugiJQcg0H"
+      "id": "lednicke-rovne",
+      "name": "Lednicke Rovne"
     },
     {
-      "name": "Lehota",
-      "id": "drN7Ui1Rl6E8"
+      "id": "lehota",
+      "name": "Lehota"
     },
     {
-      "name": "Lemesany",
-      "id": "QmF4hiVmN9cj"
+      "id": "lemesany",
+      "name": "Lemesany"
     },
     {
-      "name": "Levice",
-      "id": "tY0P3-k_DsvG"
+      "id": "levice",
+      "name": "Levice"
     },
     {
-      "name": "Likavka",
-      "id": "jkzfFYYblSso"
+      "id": "likavka",
+      "name": "Likavka"
     },
     {
-      "name": "Liptovske Revuce",
-      "id": "_mMpIThMLBWc"
+      "id": "liptovske-revuce",
+      "name": "Liptovske Revuce"
     },
     {
-      "name": "Liptovsky Hradok",
-      "id": "QrDYFx98HYpN"
+      "id": "liptovsky-hradok",
+      "name": "Liptovsky Hradok"
     },
     {
-      "name": "Lozorno",
-      "id": "ZvvZwBTPd786"
+      "id": "lozorno",
+      "name": "Lozorno"
     },
     {
-      "name": "Lubina",
-      "id": "c6UfuXskmt0m"
+      "id": "lubina",
+      "name": "Lubina"
     },
     {
-      "name": "Ludanice",
-      "id": "Xs0K8OlJv77A"
+      "id": "ludanice",
+      "name": "Ludanice"
     },
     {
-      "name": "Lukacovce",
-      "id": "fyhoV-kGEMIl"
+      "id": "lukacovce",
+      "name": "Lukacovce"
     },
     {
-      "name": "Madunice",
-      "id": "i9Gvb2vtcfRy"
+      "id": "madunice",
+      "name": "Madunice"
     },
     {
-      "name": "Malacky",
-      "id": "7kz96IxGULsH"
+      "id": "malacky",
+      "name": "Malacky"
     },
     {
-      "name": "Maly Lapas",
-      "id": "h_xtHdBRVg1r"
+      "id": "maly-lapas",
+      "name": "Maly Lapas"
     },
     {
-      "name": "Marianka",
-      "id": "JOuj3TdnaXDj"
+      "id": "marianka",
+      "name": "Marianka"
     },
     {
-      "name": "Martin",
-      "id": "WlROpDGKnYGG"
+      "id": "martin",
+      "name": "Martin"
     },
     {
-      "name": "Mesto",
-      "id": "9ndWbCFUJ88V"
+      "id": "mesto",
+      "name": "Mesto"
     },
     {
-      "name": "Michalovce",
-      "id": "8KfMnr7S8zOL"
+      "id": "michalovce",
+      "name": "Michalovce"
     },
     {
-      "name": "Miloslavov",
-      "id": "G4DhIJylXxl9"
+      "id": "miloslavov",
+      "name": "Miloslavov"
     },
     {
-      "name": "Mojmirovce",
-      "id": "7tm2YumUZdEI"
+      "id": "mojmirovce",
+      "name": "Mojmirovce"
     },
     {
-      "name": "Moldava nad Bodvou",
-      "id": "9tM18yJs07NL"
+      "id": "moldava-nad-bodvou",
+      "name": "Moldava nad Bodvou"
     },
     {
-      "name": "Moravany nad Vahom",
-      "id": "oppMtrchWX6a"
+      "id": "moravany-nad-vahom",
+      "name": "Moravany nad Vahom"
     },
     {
-      "name": "Mutne",
-      "id": "3OpVRo4hkg8s"
+      "id": "mutne",
+      "name": "Mutne"
     },
     {
-      "name": "Myjava",
-      "id": "HmtMI8UezDRm"
+      "id": "myjava",
+      "name": "Myjava"
     },
     {
-      "name": "Nana",
-      "id": "c1pxK9Seqv5u"
+      "id": "nana",
+      "name": "Nana"
     },
     {
-      "name": "Nededza",
-      "id": "D96M2MZUbH0P"
+      "id": "nededza",
+      "name": "Nededza"
     },
     {
-      "name": "Nitra",
-      "id": "GsCkiHzgH5Dp"
+      "id": "nitra",
+      "name": "Nitra"
     },
     {
-      "name": "Nitrianske Rudno",
-      "id": "lXohPloLmByR"
+      "id": "nitrianske-rudno",
+      "name": "Nitrianske Rudno"
     },
     {
-      "name": "Nitrianske Sucany",
-      "id": "UUEbKiRgdNST"
+      "id": "nitrianske-sucany",
+      "name": "Nitrianske Sucany"
     },
     {
-      "name": "Nizna",
-      "id": "4idC25TK_SpO"
+      "id": "nizna",
+      "name": "Nizna"
     },
     {
-      "name": "Nizna Kamenica",
-      "id": "qmeJbl8NrRWT"
+      "id": "nizna-kamenica",
+      "name": "Nizna Kamenica"
     },
     {
-      "name": "Nova Bana",
-      "id": "37S3sVERFWab"
+      "id": "nova-bana",
+      "name": "Nova Bana"
     },
     {
-      "name": "Novaky",
-      "id": "SuSAi4bmV2_K"
+      "id": "novaky",
+      "name": "Novaky"
     },
     {
-      "name": "Nove Sady",
-      "id": "YBiv6QIY8w72"
+      "id": "nove-sady",
+      "name": "Nove Sady"
     },
     {
-      "name": "Novy Salas",
-      "id": "XucYlszxynP0"
+      "id": "novy-salas",
+      "name": "Novy Salas"
     },
     {
-      "name": "Nyrovce",
-      "id": "-ZhE99YXZ_cv"
+      "id": "nyrovce",
+      "name": "Nyrovce"
     },
     {
-      "name": "Okoc",
-      "id": "ZNywb5QSJxCH"
+      "id": "okoc",
+      "name": "Okoc"
     },
     {
-      "name": "Olesna",
-      "id": "-iTC-VhOf0_3"
+      "id": "olesna",
+      "name": "Olesna"
     },
     {
-      "name": "Opatovce nad Nitrou",
-      "id": "Efv1hRpkunFQ"
+      "id": "opatovce-nad-nitrou",
+      "name": "Opatovce nad Nitrou"
     },
     {
-      "name": "Opoj",
-      "id": "FmTz3Ftp5lDu"
+      "id": "opoj",
+      "name": "Opoj"
     },
     {
-      "name": "Oravske Vesele",
-      "id": "OIPyWORZS5vv"
+      "id": "oravske-vesele",
+      "name": "Oravske Vesele"
     },
     {
-      "name": "Pastuchov",
-      "id": "ZV-4s3-lcaQO"
+      "id": "pastuchov",
+      "name": "Pastuchov"
     },
     {
-      "name": "Pata",
-      "id": "wezAlLsmYnFC"
+      "id": "pata",
+      "name": "Pata"
     },
     {
-      "name": "Pernek",
-      "id": "7A5OhNS8fv37"
+      "id": "pernek",
+      "name": "Pernek"
     },
     {
-      "name": "Pezinok",
-      "id": "nmwJbEEkzB4y"
+      "id": "pezinok",
+      "name": "Pezinok"
     },
     {
-      "name": "Plave Vozokany",
-      "id": "L0JxEdhXB_-q"
+      "id": "plave-vozokany",
+      "name": "Plave Vozokany"
     },
     {
-      "name": "Plavecke Podhradie",
-      "id": "QXD5R3I06jjO"
+      "id": "plavecke-podhradie",
+      "name": "Plavecke Podhradie"
     },
     {
-      "name": "Pliesovce",
-      "id": "Llzso4_AjLHN"
+      "id": "pliesovce",
+      "name": "Pliesovce"
     },
     {
-      "name": "Pobedim",
-      "id": "brTcFDwa1Bxs"
+      "id": "pobedim",
+      "name": "Pobedim"
     },
     {
-      "name": "Podbrezova",
-      "id": "jXEuWsuUYbL7"
+      "id": "podbrezova",
+      "name": "Podbrezova"
     },
     {
-      "name": "Podolie",
-      "id": "COW-c_d2oe3e"
+      "id": "podolie",
+      "name": "Podolie"
     },
     {
-      "name": "Polomka",
-      "id": "BotB1PO0R8a8"
+      "id": "polomka",
+      "name": "Polomka"
     },
     {
-      "name": "Poprad",
-      "id": "syzHnSXUvAbW"
+      "id": "poprad",
+      "name": "Poprad"
     },
     {
-      "name": "Potvorice",
-      "id": "Kh7P87hK8Fdh"
+      "id": "potvorice",
+      "name": "Potvorice"
     },
     {
-      "name": "Praha",
-      "id": "PiG8agCVbuhA"
+      "id": "praha",
+      "name": "Praha"
     },
     {
-      "name": "Prakovce",
-      "id": "LdSJ5yHE1Cdw"
+      "id": "prakovce",
+      "name": "Prakovce"
     },
     {
-      "name": "Praznovce",
-      "id": "JiU2xbOOiNQX"
+      "id": "praznovce",
+      "name": "Praznovce"
     },
     {
-      "name": "Prievidza",
-      "id": "NqCaZ42lT2YU"
+      "id": "prievidza",
+      "name": "Prievidza"
     },
     {
-      "name": "Proc",
-      "id": "hJhAHpgsFPHB"
+      "id": "proc",
+      "name": "Proc"
     },
     {
-      "name": "Reca",
-      "id": "tXX4_na6mdHI"
+      "id": "reca",
+      "name": "Reca"
     },
     {
-      "name": "Rosina",
-      "id": "XKph9YTTAeAl"
+      "id": "rosina",
+      "name": "Rosina"
     },
     {
-      "name": "Rovinka",
-      "id": "Mhkp8RtU8r6p"
+      "id": "rovinka",
+      "name": "Rovinka"
     },
     {
-      "name": "Ruzindol",
-      "id": "Ht9A1UyIAr5q"
+      "id": "ruzindol",
+      "name": "Ruzindol"
     },
     {
-      "name": "Sabinov",
-      "id": "ak9BoBwFM5rJ"
+      "id": "sabinov",
+      "name": "Sabinov"
     },
     {
-      "name": "Samorin",
-      "id": "v1Hpf--Iv0zB"
+      "id": "samorin",
+      "name": "Samorin"
     },
     {
-      "name": "Sarisske Bohdanovce",
-      "id": "qpuNgp3olheZ"
+      "id": "sarisske-bohdanovce",
+      "name": "Sarisske Bohdanovce"
     },
     {
-      "name": "Secovce",
-      "id": "pIlodcdfiUtk"
+      "id": "secovce",
+      "name": "Secovce"
     },
     {
-      "name": "Secovska Polianka",
-      "id": "7xLpUWPOxgDS"
+      "id": "secovska-polianka",
+      "name": "Secovska Polianka"
     },
     {
-      "name": "Selice",
-      "id": "DhDWU3N48jkL"
+      "id": "selice",
+      "name": "Selice"
     },
     {
-      "name": "Selpice",
-      "id": "iQ9AStWFOHdW"
+      "id": "selpice",
+      "name": "Selpice"
     },
     {
-      "name": "Sena",
-      "id": "Vs2fG15r_c7Y"
+      "id": "sena",
+      "name": "Sena"
     },
     {
-      "name": "Senec",
-      "id": "bJ2zldPYpWdZ"
+      "id": "senec",
+      "name": "Senec"
     },
     {
-      "name": "Senica",
-      "id": "mBLl4n0R2LGw"
+      "id": "senica",
+      "name": "Senica"
     },
     {
-      "name": "Sipkove",
-      "id": "1V2RCS684Xit"
+      "id": "sipkove",
+      "name": "Sipkove"
     },
     {
-      "name": "Skalica",
-      "id": "z_BwxepxmTbh"
+      "id": "skalica",
+      "name": "Skalica"
     },
     {
-      "name": "Sladkovicovo",
-      "id": "Q5IHMQlhnYoP"
+      "id": "sladkovicovo",
+      "name": "Sladkovicovo"
     },
     {
-      "name": "Slovenska Ves",
-      "id": "aulFgsY0sjEs"
+      "id": "slovenska-ves",
+      "name": "Slovenska Ves"
     },
     {
-      "name": "Slovensky Grob",
-      "id": "LQ9Ox58LX5PE"
+      "id": "slovensky-grob",
+      "name": "Slovensky Grob"
     },
     {
-      "name": "Smizany",
-      "id": "6fcO9Fkvh9wP"
+      "id": "smizany",
+      "name": "Smizany"
     },
     {
-      "name": "Snina",
-      "id": "NOlnYJuxludt"
+      "id": "snina",
+      "name": "Snina"
     },
     {
-      "name": "Sobrance",
-      "id": "_kYaZkerSCjG"
+      "id": "sobrance",
+      "name": "Sobrance"
     },
     {
-      "name": "Solosnica",
-      "id": "3nqTnB-dAdUt"
+      "id": "solosnica",
+      "name": "Solosnica"
     },
     {
-      "name": "Spacince",
-      "id": "_acrPwZJ5Aop"
+      "id": "spacince",
+      "name": "Spacince"
     },
     {
-      "name": "Spissky Hrusov",
-      "id": "XGbjE6odffDw"
+      "id": "spissky-hrusov",
+      "name": "Spissky Hrusov"
     },
     {
-      "name": "Spissky Stiavnik",
-      "id": "-TlSBlu5MlC3"
+      "id": "spissky-stiavnik",
+      "name": "Spissky Stiavnik"
     },
     {
-      "name": "Spissky Stvrtok",
-      "id": "4RNAwK3V2Syh"
+      "id": "spissky-stvrtok",
+      "name": "Spissky Stvrtok"
     },
     {
-      "name": "Stara Lesna",
-      "id": "73A_q16m8ux1"
+      "id": "stara-lesna",
+      "name": "Stara Lesna"
     },
     {
-      "name": "Stara Tura",
-      "id": "-1qZhlJXr8IH"
+      "id": "stara-tura",
+      "name": "Stara Tura"
     },
     {
-      "name": "Stary Smokovec",
-      "id": "vXoploBeW8H6"
+      "id": "stary-smokovec",
+      "name": "Stary Smokovec"
     },
     {
-      "name": "Staskov",
-      "id": "ywVWjSzEAKtZ"
+      "id": "staskov",
+      "name": "Staskov"
     },
     {
-      "name": "Stefanov",
-      "id": "OxIAcvKq4AvO"
+      "id": "stefanov",
+      "name": "Stefanov"
     },
     {
-      "name": "Stropkov",
-      "id": "DIbO9R5n-v6K"
+      "id": "stropkov",
+      "name": "Stropkov"
     },
     {
-      "name": "Studienka",
-      "id": "dCPYGco2QdpL"
+      "id": "studienka",
+      "name": "Studienka"
     },
     {
-      "name": "Stupava",
-      "id": "LL1ZHQQrBYyp"
+      "id": "stupava",
+      "name": "Stupava"
     },
     {
-      "name": "Sucany",
-      "id": "nCpxFvewjRmR"
+      "id": "sucany",
+      "name": "Sucany"
     },
     {
-      "name": "Sucha nad Parnou",
-      "id": "oL5jrkEE7Xtq"
+      "id": "sucha-nad-parnou",
+      "name": "Sucha nad Parnou"
     },
     {
-      "name": "Svaty Kriz",
-      "id": "pKgIUmN8sYIC"
+      "id": "svaty-kriz",
+      "name": "Svaty Kriz"
     },
     {
-      "name": "Svaty Peter",
-      "id": "QetSZ3Iyx-av"
+      "id": "svaty-peter",
+      "name": "Svaty Peter"
     },
     {
-      "name": "Svit",
-      "id": "l0CzlVyMyXnd"
+      "id": "svit",
+      "name": "Svit"
     },
     {
-      "name": "Svodin",
-      "id": "FNrdpmfWxgiJ"
+      "id": "svodin",
+      "name": "Svodin"
     },
     {
-      "name": "Tajov",
-      "id": "sv4XFST2bdbk"
+      "id": "tajov",
+      "name": "Tajov"
     },
     {
-      "name": "Terchova",
-      "id": "Q86CDWRp83YY"
+      "id": "terchova",
+      "name": "Terchova"
     },
     {
-      "name": "Tesedikovo",
-      "id": "SD8yL_3IhXzK"
+      "id": "tesedikovo",
+      "name": "Tesedikovo"
     },
     {
-      "name": "Tlmace",
-      "id": "GK5d_bUFnUul"
+      "id": "tlmace",
+      "name": "Tlmace"
     },
     {
-      "name": "Tomasov",
-      "id": "rxcrzvJgbedc"
+      "id": "tomasov",
+      "name": "Tomasov"
     },
     {
-      "name": "Torysky",
-      "id": "SnKcqUaKTRyN"
+      "id": "torysky",
+      "name": "Torysky"
     },
     {
-      "name": "Trnava",
-      "id": "OSKHxNDlzvzc"
+      "id": "trnava",
+      "name": "Trnava"
     },
     {
-      "name": "Trnovec nad Vahom",
-      "id": "4Tjfxj5JbIAV"
+      "id": "trnovec-nad-vahom",
+      "name": "Trnovec nad Vahom"
     },
     {
-      "name": "Trstena",
-      "id": "wdRz41UUCvoC"
+      "id": "trstena",
+      "name": "Trstena"
     },
     {
-      "name": "Turany",
-      "id": "BQIhSH_PMQqq"
+      "id": "turany",
+      "name": "Turany"
     },
     {
-      "name": "Tvrdosin",
-      "id": "FcPohSpSG-J7"
+      "id": "tvrdosin",
+      "name": "Tvrdosin"
     },
     {
-      "name": "Tvrdosovce",
-      "id": "LmvDMqxFm4vv"
+      "id": "tvrdosovce",
+      "name": "Tvrdosovce"
     },
     {
-      "name": "Udavske",
-      "id": "UkXYbx9T3Wdm"
+      "id": "udavske",
+      "name": "Udavske"
     },
     {
-      "name": "Urmince",
-      "id": "bcnd6Gy0dWT4"
+      "id": "urmince",
+      "name": "Urmince"
     },
     {
-      "name": "Vahovce",
-      "id": "gFg4btX-xTV9"
+      "id": "vahovce",
+      "name": "Vahovce"
     },
     {
-      "name": "Varhanovce",
-      "id": "1GAUMTAju89S"
+      "id": "varhanovce",
+      "name": "Varhanovce"
     },
     {
-      "name": "Varin",
-      "id": "ibFCI7fWXGcx"
+      "id": "varin",
+      "name": "Varin"
     },
     {
-      "name": "Vecelkov",
-      "id": "UvQiZVJLavAi"
+      "id": "vecelkov",
+      "name": "Vecelkov"
     },
     {
-      "name": "Velcice",
-      "id": "Rgz7NCtZ_Ehe"
+      "id": "velcice",
+      "name": "Velcice"
     },
     {
-      "name": "Velicna",
-      "id": "Zb0p80vDxDBl"
+      "id": "velicna",
+      "name": "Velicna"
     },
     {
-      "name": "Velky Meder",
-      "id": "Y1X1BPZh-JR9"
+      "id": "velky-meder",
+      "name": "Velky Meder"
     },
     {
-      "name": "Vinne",
-      "id": "B1Fl7OWdfzkA"
+      "id": "vinne",
+      "name": "Vinne"
     },
     {
-      "name": "Vitanova",
-      "id": "XMRR8nUGw0UC"
+      "id": "vitanova",
+      "name": "Vitanova"
     },
     {
-      "name": "Vlckovce",
-      "id": "LWhv3m2Xv1iD"
+      "id": "vlckovce",
+      "name": "Vlckovce"
     },
     {
-      "name": "Vlkanova",
-      "id": "O6dw9dTJGQjU"
+      "id": "vlkanova",
+      "name": "Vlkanova"
     },
     {
-      "name": "Vojcice",
-      "id": "SKBl95C0Abcz"
+      "id": "vojcice",
+      "name": "Vojcice"
     },
     {
-      "name": "Vrable",
-      "id": "3JV4MuOFt8PK"
+      "id": "vrable",
+      "name": "Vrable"
     },
     {
-      "name": "Vrutky",
-      "id": "BhTlB_EOSWUY"
+      "id": "vrutky",
+      "name": "Vrutky"
     },
     {
-      "name": "Vysne Raslavice",
-      "id": "qXwVtffOiQJr"
+      "id": "vysne-raslavice",
+      "name": "Vysne Raslavice"
     },
     {
-      "name": "Vysny Orlik",
-      "id": "GoiTacyyVYEI"
+      "id": "vysny-orlik",
+      "name": "Vysny Orlik"
     },
     {
-      "name": "Zakamenne",
-      "id": "6NKjBEylD-yZ"
+      "id": "zakamenne",
+      "name": "Zakamenne"
     },
     {
-      "name": "Zavod",
-      "id": "tf0JJTm_OQw1"
+      "id": "zavod",
+      "name": "Zavod"
     },
     {
-      "name": "Zbince",
-      "id": "Z0ATjUv_7y24"
+      "id": "zbince",
+      "name": "Zbince"
     },
     {
-      "name": "Zelenec",
-      "id": "uB7Ftz1db99e"
+      "id": "zelenec",
+      "name": "Zelenec"
     },
     {
-      "name": "Zeliezovce",
-      "id": "z6qfsLqG1pAg"
+      "id": "zeliezovce",
+      "name": "Zeliezovce"
     },
     {
-      "name": "Ziar nad Hronom",
-      "id": "Y9HlTBHz7W7J"
+      "id": "ziar-nad-hronom",
+      "name": "Ziar nad Hronom"
     },
     {
-      "name": "Zikava",
-      "id": "gJ8vfpv1NP3_"
+      "id": "zikava",
+      "name": "Zikava"
     },
     {
-      "name": "Zlate",
-      "id": "r9mgUre56qEb"
+      "id": "zlate",
+      "name": "Zlate"
     },
     {
-      "name": "Zuberec",
-      "id": "Tda-iF6eAyJp"
+      "id": "zuberec",
+      "name": "Zuberec"
     },
     {
-      "name": "Zvolen",
-      "id": "EaT59LMZ6daR"
+      "id": "zvolen",
+      "name": "Zvolen"
     }
   ]
 }

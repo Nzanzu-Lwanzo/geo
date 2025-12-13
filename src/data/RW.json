@@ -2,44 +2,44 @@
   "coid": "RW",
   "cities": [
     {
-      "name": "Kigali",
-      "id": "tU65bmml3H93"
+      "id": "kigali",
+      "name": "Kigali"
     },
     {
-      "name": "Butare",
-      "id": "WGI9lCJGzrYz"
+      "id": "butare",
+      "name": "Butare"
     },
     {
-      "name": "Gisenyi",
-      "id": "2kEW7QoL8sZe"
+      "id": "gisenyi",
+      "name": "Gisenyi"
     },
     {
-      "name": "Ruhengeri",
-      "id": "bZjQRcwcGR59"
+      "id": "ruhengeri",
+      "name": "Ruhengeri"
     },
     {
-      "name": "Gitarama",
-      "id": "YTEr7a5ZzhzI"
+      "id": "gitarama",
+      "name": "Gitarama"
     },
     {
-      "name": "Kibuye",
-      "id": "AgmTLDFUFsxU"
+      "id": "kibuye",
+      "name": "Kibuye"
     },
     {
-      "name": "Cyangugu",
-      "id": "p7z35RdUyymh"
+      "id": "cyangugu",
+      "name": "Cyangugu"
     },
     {
-      "name": "Byumba",
-      "id": "PMW5Z2T_NEvc"
+      "id": "byumba",
+      "name": "Byumba"
     },
     {
-      "name": "Kibungo",
-      "id": "k9NYmqKvOD3y"
+      "id": "kibungo",
+      "name": "Kibungo"
     },
     {
-      "name": "Nyagatare",
-      "id": "5K4Xv-JV41Ox"
+      "id": "nyagatare",
+      "name": "Nyagatare"
     }
   ]
 }

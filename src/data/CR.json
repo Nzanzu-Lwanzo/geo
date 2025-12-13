@@ -2,260 +2,260 @@
   "coid": "CR",
   "cities": [
     {
-      "name": "Alajuela",
-      "id": "bNhrifnlQZoz"
+      "id": "alajuela",
+      "name": "Alajuela"
     },
     {
-      "name": "Alajuelita",
-      "id": "EcCwbtlA4pST"
+      "id": "alajuelita",
+      "name": "Alajuelita"
     },
     {
-      "name": "Alfaro",
-      "id": "B-b2AokY7Rlz"
+      "id": "alfaro",
+      "name": "Alfaro"
     },
     {
-      "name": "Aserri",
-      "id": "NZnHMC4_90lj"
+      "id": "aserri",
+      "name": "Aserri"
     },
     {
-      "name": "Atenas",
-      "id": "lVnD8NN6MjNg"
+      "id": "atenas",
+      "name": "Atenas"
     },
     {
-      "name": "Barva",
-      "id": "7QLCf5n9szzP"
+      "id": "barva",
+      "name": "Barva"
     },
     {
-      "name": "Cartago",
-      "id": "PYXzwjIJIPuD"
+      "id": "cartago",
+      "name": "Cartago"
     },
     {
-      "name": "Colon",
-      "id": "BrJXZkvm95Uw"
+      "id": "colon",
+      "name": "Colon"
     },
     {
-      "name": "Corazon de Jesus",
-      "id": "sr-TA7vST-xL"
+      "id": "corazon-de-jesus",
+      "name": "Corazon de Jesus"
     },
     {
-      "name": "Coronado",
-      "id": "nBjJ-Qpni7d_"
+      "id": "coronado",
+      "name": "Coronado"
     },
     {
-      "name": "Coyol",
-      "id": "apga7UBgC2lH"
+      "id": "coyol",
+      "name": "Coyol"
     },
     {
-      "name": "Curridabat",
-      "id": "3pR731iyd14c"
+      "id": "curridabat",
+      "name": "Curridabat"
     },
     {
-      "name": "Desamparados",
-      "id": "Njsf67AZ5VRw"
+      "id": "desamparados",
+      "name": "Desamparados"
     },
     {
-      "name": "Escazu",
-      "id": "KZOsFqkRF1yH"
+      "id": "escazu",
+      "name": "Escazu"
     },
     {
-      "name": "Esparza",
-      "id": "LpD6381oQzK8"
+      "id": "esparza",
+      "name": "Esparza"
     },
     {
-      "name": "Filadelfia",
-      "id": "nPKb5vM2niMv"
+      "id": "filadelfia",
+      "name": "Filadelfia"
     },
     {
-      "name": "Grecia",
-      "id": "zp1GtAGTvqY8"
+      "id": "grecia",
+      "name": "Grecia"
     },
     {
-      "name": "Guachipelin",
-      "id": "hLSSzNiBDuk7"
+      "id": "guachipelin",
+      "name": "Guachipelin"
     },
     {
-      "name": "Guacima",
-      "id": "IJXVb2xKLRvA"
+      "id": "guacima",
+      "name": "Guacima"
     },
     {
-      "name": "Guadalupe",
-      "id": "bZuqCrxgesDK"
+      "id": "guadalupe",
+      "name": "Guadalupe"
     },
     {
-      "name": "Guapiles",
-      "id": "MzBUUTMBt1zm"
+      "id": "guapiles",
+      "name": "Guapiles"
     },
     {
-      "name": "Heredia",
-      "id": "e5WxJ2PKE7fN"
+      "id": "heredia",
+      "name": "Heredia"
     },
     {
-      "name": "Isla de Tibas",
-      "id": "X9ZludwnUUd4"
+      "id": "isla-de-tibas",
+      "name": "Isla de Tibas"
     },
     {
-      "name": "Jaco",
-      "id": "r1W-bdjk_4Yo"
+      "id": "jaco",
+      "name": "Jaco"
     },
     {
-      "name": "La Garita",
-      "id": "lTVRUJ3c959w"
+      "id": "la-garita",
+      "name": "La Garita"
     },
     {
-      "name": "Liberia",
-      "id": "JmPwaRw6qCS6"
+      "id": "liberia",
+      "name": "Liberia"
     },
     {
-      "name": "Llorente",
-      "id": "do4sVcRiLNya"
+      "id": "llorente",
+      "name": "Llorente"
     },
     {
-      "name": "Mercedes",
-      "id": "pW4XGOulGjNU"
+      "id": "mercedes",
+      "name": "Mercedes"
     },
     {
-      "name": "Mexico",
-      "id": "qLKJ1NT4tQWH"
+      "id": "mexico",
+      "name": "Mexico"
     },
     {
-      "name": "Miramar",
-      "id": "QPM3_Mm2RCs4"
+      "id": "miramar",
+      "name": "Miramar"
     },
     {
-      "name": "Moravia",
-      "id": "Up58n_Gw0xNr"
+      "id": "moravia",
+      "name": "Moravia"
     },
     {
-      "name": "Palmares",
-      "id": "aUfUTR2Bu0zd"
+      "id": "palmares",
+      "name": "Palmares"
     },
     {
-      "name": "Paraiso",
-      "id": "KQktFdEYJq9-"
+      "id": "paraiso",
+      "name": "Paraiso"
     },
     {
-      "name": "Pavas",
-      "id": "s-dJmgcywSuO"
+      "id": "pavas",
+      "name": "Pavas"
     },
     {
-      "name": "Perez",
-      "id": "BmF1Tj1AAwl2"
+      "id": "perez",
+      "name": "Perez"
     },
     {
-      "name": "Poas",
-      "id": "HNRZEsg-GYCo"
+      "id": "poas",
+      "name": "Poas"
     },
     {
-      "name": "Puerto Jimenez",
-      "id": "AInxQUIAQBgi"
+      "id": "puerto-jimenez",
+      "name": "Puerto Jimenez"
     },
     {
-      "name": "Puntarenas",
-      "id": "P_aJtej6yqD8"
+      "id": "puntarenas",
+      "name": "Puntarenas"
     },
     {
-      "name": "Quepos",
-      "id": "4JR7HQeXg1Vo"
+      "id": "quepos",
+      "name": "Quepos"
     },
     {
-      "name": "Quesada",
-      "id": "C0pK6H7d_6oj"
+      "id": "quesada",
+      "name": "Quesada"
     },
     {
-      "name": "Sabanilla",
-      "id": "7-Z6m6onaIp8"
+      "id": "sabanilla",
+      "name": "Sabanilla"
     },
     {
-      "name": "San Diego",
-      "id": "BAhM5-1cA04t"
+      "id": "san-diego",
+      "name": "San Diego"
     },
     {
-      "name": "San Francisco",
-      "id": "JfNFgCzj_DKr"
+      "id": "san-francisco",
+      "name": "San Francisco"
     },
     {
-      "name": "San Isidro",
-      "id": "hzmgIYlGnmVa"
+      "id": "san-isidro",
+      "name": "San Isidro"
     },
     {
-      "name": "San Joaquin",
-      "id": "Ifk-lI2_XILt"
+      "id": "san-joaquin",
+      "name": "San Joaquin"
     },
     {
-      "name": "San Jose de la Montana",
-      "id": "vAc4uxfZoixK"
+      "id": "san-jose-de-la-montana",
+      "name": "San Jose de la Montana"
     },
     {
-      "name": "San Josecito",
-      "id": "iHlcXJuZr8Ca"
+      "id": "san-josecito",
+      "name": "San Josecito"
     },
     {
-      "name": "San Juan",
-      "id": "hGZwqrWN8o4q"
+      "id": "san-juan",
+      "name": "San Juan"
     },
     {
-      "name": "San Marcos",
-      "id": "MhYl3dJTWidW"
+      "id": "san-marcos",
+      "name": "San Marcos"
     },
     {
-      "name": "San Pablo",
-      "id": "-5s8HFoJX3lJ"
+      "id": "san-pablo",
+      "name": "San Pablo"
     },
     {
-      "name": "San Pedro",
-      "id": "y3-v8golzJd9"
+      "id": "san-pedro",
+      "name": "San Pedro"
     },
     {
-      "name": "San Rafael",
-      "id": "zROznKInLS48"
+      "id": "san-rafael",
+      "name": "San Rafael"
     },
     {
-      "name": "San Ramon",
-      "id": "9scOM88Qa7Sg"
+      "id": "san-ramon",
+      "name": "San Ramon"
     },
     {
-      "name": "Santa Ana",
-      "id": "vdjRx6BjcQ6A"
+      "id": "santa-ana",
+      "name": "Santa Ana"
     },
     {
-      "name": "Santa Cecilia",
-      "id": "0Caok54GqTXw"
+      "id": "santa-cecilia",
+      "name": "Santa Cecilia"
     },
     {
-      "name": "Santa Cruz",
-      "id": "xUYoT-_pZZPW"
+      "id": "santa-cruz",
+      "name": "Santa Cruz"
     },
     {
-      "name": "Santo Domingo",
-      "id": "qHxmNb9-jbcj"
+      "id": "santo-domingo",
+      "name": "Santo Domingo"
     },
     {
-      "name": "Sarchi",
-      "id": "TpGV9Dc2J_zc"
+      "id": "sarchi",
+      "name": "Sarchi"
     },
     {
-      "name": "Siquirres",
-      "id": "UXYCs5vrd6oH"
+      "id": "siquirres",
+      "name": "Siquirres"
     },
     {
-      "name": "Tres Rios",
-      "id": "0wyJfPCWOqgs"
+      "id": "tres-rios",
+      "name": "Tres Rios"
     },
     {
-      "name": "Turrialba",
-      "id": "wJKuPYEh0lZV"
+      "id": "turrialba",
+      "name": "Turrialba"
     },
     {
-      "name": "Turrucares",
-      "id": "41Ou2_6JRUHw"
+      "id": "turrucares",
+      "name": "Turrucares"
     },
     {
-      "name": "Zapote",
-      "id": "JEK7qCGyg2eE"
+      "id": "zapote",
+      "name": "Zapote"
     },
     {
-      "name": "Zarcero",
-      "id": "ItuJSYPX8k7w"
+      "id": "zarcero",
+      "name": "Zarcero"
     }
   ]
 }

@@ -2,112 +2,112 @@
   "coid": "PG",
   "cities": [
     {
-      "name": "Aitape",
-      "id": "F11BKkAxnl4z"
+      "id": "aitape",
+      "name": "Aitape"
     },
     {
-      "name": "Arawa",
-      "id": "gzbl47iQotCL"
+      "id": "arawa",
+      "name": "Arawa"
     },
     {
-      "name": "Daru",
-      "id": "_8dJixpzz7jl"
+      "id": "daru",
+      "name": "Daru"
     },
     {
-      "name": "Goroka",
-      "id": "NSEVWYX9ass4"
+      "id": "goroka",
+      "name": "Goroka"
     },
     {
-      "name": "Kavieng",
-      "id": "bRbiQSq_25HW"
+      "id": "kavieng",
+      "name": "Kavieng"
     },
     {
-      "name": "Kerema",
-      "id": "Zq8IihYgHCF5"
+      "id": "kerema",
+      "name": "Kerema"
     },
     {
-      "name": "Kikori",
-      "id": "6PuA_8MQd5qt"
+      "id": "kikori",
+      "name": "Kikori"
     },
     {
-      "name": "Kimbe",
-      "id": "i_7pbURNh7Uk"
+      "id": "kimbe",
+      "name": "Kimbe"
     },
     {
-      "name": "Kiunga",
-      "id": "Iuuqvzilps0k"
+      "id": "kiunga",
+      "name": "Kiunga"
     },
     {
-      "name": "Kokopo",
-      "id": "P8e2zMeh6uPx"
+      "id": "kokopo",
+      "name": "Kokopo"
     },
     {
-      "name": "Kundiawa",
-      "id": "i_FRSEyRDSPs"
+      "id": "kundiawa",
+      "name": "Kundiawa"
     },
     {
-      "name": "Kupano",
-      "id": "8x9W5zxGd2vL"
+      "id": "kupano",
+      "name": "Kupano"
     },
     {
-      "name": "Lae",
-      "id": "GNa70_iOMZC5"
+      "id": "lae",
+      "name": "Lae"
     },
     {
-      "name": "Lorengau",
-      "id": "EyOOl92RTdOo"
+      "id": "lorengau",
+      "name": "Lorengau"
     },
     {
-      "name": "Madang",
-      "id": "bm5KYPg6dCJ6"
+      "id": "madang",
+      "name": "Madang"
     },
     {
-      "name": "Mendi",
-      "id": "qJ_d-TNDN1mg"
+      "id": "mendi",
+      "name": "Mendi"
     },
     {
-      "name": "Mount Hagen",
-      "id": "gW7w04fRWnZr"
+      "id": "mount-hagen",
+      "name": "Mount Hagen"
     },
     {
-      "name": "Namatanai",
-      "id": "pxe8TiwCzudm"
+      "id": "namatanai",
+      "name": "Namatanai"
     },
     {
-      "name": "Nambaga",
-      "id": "gkurmcxm_TqS"
+      "id": "nambaga",
+      "name": "Nambaga"
     },
     {
-      "name": "Paivara",
-      "id": "8QeW_zoCK-Tr"
+      "id": "paivara",
+      "name": "Paivara"
     },
     {
-      "name": "Pongani",
-      "id": "ZjfGOSmBRV02"
+      "id": "pongani",
+      "name": "Pongani"
     },
     {
-      "name": "Popondetta",
-      "id": "rGonaDmNedyb"
+      "id": "popondetta",
+      "name": "Popondetta"
     },
     {
-      "name": "Port Moresby",
-      "id": "nldGK1SdQRl3"
+      "id": "port-moresby",
+      "name": "Port Moresby"
     },
     {
-      "name": "Vanimo",
-      "id": "RSJz1pQ1Q-5F"
+      "id": "vanimo",
+      "name": "Vanimo"
     },
     {
-      "name": "Wabag",
-      "id": "67JVwkCLZ8I5"
+      "id": "wabag",
+      "name": "Wabag"
     },
     {
-      "name": "Waigani",
-      "id": "4jvUv_0q1RXM"
+      "id": "waigani",
+      "name": "Waigani"
     },
     {
-      "name": "Wewak",
-      "id": "msaiucvJ3XZd"
+      "id": "wewak",
+      "name": "Wewak"
     }
   ]
 }

@@ -2,44 +2,44 @@
   "coid": "KR",
   "cities": [
     {
-      "name": "Seoul",
-      "id": "rFlob5WA-w5f"
+      "id": "seoul",
+      "name": "Seoul"
     },
     {
-      "name": "Busan",
-      "id": "gH6P62p9IPI7"
+      "id": "busan",
+      "name": "Busan"
     },
     {
-      "name": "Incheon",
-      "id": "AKTfnInD9Rpf"
+      "id": "incheon",
+      "name": "Incheon"
     },
     {
-      "name": "Daegu",
-      "id": "X1z4vS7NRU5V"
+      "id": "daegu",
+      "name": "Daegu"
     },
     {
-      "name": "Daejeon",
-      "id": "pzPqpnSfVo41"
+      "id": "daejeon",
+      "name": "Daejeon"
     },
     {
-      "name": "Gwangju",
-      "id": "Ksq_8OEbz3rA"
+      "id": "gwangju",
+      "name": "Gwangju"
     },
     {
-      "name": "Suwon",
-      "id": "g-9CzCKRSgHU"
+      "id": "suwon",
+      "name": "Suwon"
     },
     {
-      "name": "Ulsan",
-      "id": "Rizs5KIUYC1b"
+      "id": "ulsan",
+      "name": "Ulsan"
     },
     {
-      "name": "Changwon",
-      "id": "paeY8QAV2fxG"
+      "id": "changwon",
+      "name": "Changwon"
     },
     {
-      "name": "Seongnam",
-      "id": "y-ItC0LUE7N1"
+      "id": "seongnam",
+      "name": "Seongnam"
     }
   ]
 }

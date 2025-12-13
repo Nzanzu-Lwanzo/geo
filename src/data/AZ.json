@@ -2,36 +2,36 @@
   "coid": "AZ",
   "cities": [
     {
-      "name": "Baku",
-      "id": "YLHB7vjvMI1-"
+      "id": "baku",
+      "name": "Baku"
     },
     {
-      "name": "Nakhchivan",
-      "id": "r0I3okWchXmM"
+      "id": "nakhchivan",
+      "name": "Nakhchivan"
     },
     {
-      "name": "Quba",
-      "id": "LaOGfu_F7pB5"
+      "id": "quba",
+      "name": "Quba"
     },
     {
-      "name": "Qusar",
-      "id": "Tdp7DIdahFzU"
+      "id": "qusar",
+      "name": "Qusar"
     },
     {
-      "name": "Sulutapa",
-      "id": "26FAHBMFYvEI"
+      "id": "sulutapa",
+      "name": "Sulutapa"
     },
     {
-      "name": "Sumqayit",
-      "id": "Uc8tUStUE__8"
+      "id": "sumqayit",
+      "name": "Sumqayit"
     },
     {
-      "name": "Xirdalan",
-      "id": "l1EaIxkjVUe1"
+      "id": "xirdalan",
+      "name": "Xirdalan"
     },
     {
-      "name": "Zurges",
-      "id": "s5W3lO2h9OKX"
+      "id": "zurges",
+      "name": "Zurges"
     }
   ]
 }

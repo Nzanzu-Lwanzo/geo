@@ -2,44 +2,44 @@
   "coid": "ML",
   "cities": [
     {
-      "name": "Bamako",
-      "id": "ld225CE06UIX"
+      "id": "bamako",
+      "name": "Bamako"
     },
     {
-      "name": "Sikasso",
-      "id": "b3XVar8Rf920"
+      "id": "sikasso",
+      "name": "Sikasso"
     },
     {
-      "name": "Mopti",
-      "id": "S_4RvzogVrYm"
+      "id": "mopti",
+      "name": "Mopti"
     },
     {
-      "name": "Koutiala",
-      "id": "wDNaWBHwdG2F"
+      "id": "koutiala",
+      "name": "Koutiala"
     },
     {
-      "name": "Kayes",
-      "id": "6Nur6FsllEUs"
+      "id": "kayes",
+      "name": "Kayes"
     },
     {
-      "name": "Ségou",
-      "id": "Ns_QTDKBk2R2"
+      "id": "segou",
+      "name": "Ségou"
     },
     {
-      "name": "Gao",
-      "id": "sY2F4tQhSR51"
+      "id": "gao",
+      "name": "Gao"
     },
     {
-      "name": "Tombouctou",
-      "id": "xzNPu-ID8rEl"
+      "id": "tombouctou",
+      "name": "Tombouctou"
     },
     {
-      "name": "Kati",
-      "id": "kIpzNKnzBKjT"
+      "id": "kati",
+      "name": "Kati"
     },
     {
-      "name": "Markala",
-      "id": "G5MzoWwl74Vr"
+      "id": "markala",
+      "name": "Markala"
     }
   ]
 }

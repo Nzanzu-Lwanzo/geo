@@ -2,36 +2,36 @@
   "coid": "BN",
   "cities": [
     {
-      "name": "Bandar Seri Begawan",
-      "id": "GbLY6FyuJDjS"
+      "id": "bandar-seri-begawan",
+      "name": "Bandar Seri Begawan"
     },
     {
-      "name": "Bangar",
-      "id": "1KCG0p8uK6S1"
+      "id": "bangar",
+      "name": "Bangar"
     },
     {
-      "name": "Kampong Jerudong",
-      "id": "dSu4OBlyj1DN"
+      "id": "kampong-jerudong",
+      "name": "Kampong Jerudong"
     },
     {
-      "name": "Kuala Balai",
-      "id": "qugcxwDhCtaY"
+      "id": "kuala-balai",
+      "name": "Kuala Balai"
     },
     {
-      "name": "Kuala Belait",
-      "id": "SNS5UvSRmesf"
+      "id": "kuala-belait",
+      "name": "Kuala Belait"
     },
     {
-      "name": "Panaga",
-      "id": "KUSHjsowjjvE"
+      "id": "panaga",
+      "name": "Panaga"
     },
     {
-      "name": "Seria",
-      "id": "yJw3Kbtr8Phw"
+      "id": "seria",
+      "name": "Seria"
     },
     {
-      "name": "Tutong",
-      "id": "2GiRUTPjs8Pj"
+      "id": "tutong",
+      "name": "Tutong"
     }
   ]
 }

@@ -2,200 +2,200 @@
   "coid": "TT",
   "cities": [
     {
-      "name": "Arima",
-      "id": "bywP9nNmrE35"
+      "id": "arima",
+      "name": "Arima"
     },
     {
-      "name": "Arouca",
-      "id": "YeG4SUUTIQdV"
+      "id": "arouca",
+      "name": "Arouca"
     },
     {
-      "name": "Barataria",
-      "id": "DkLN0ElMdMcE"
+      "id": "barataria",
+      "name": "Barataria"
     },
     {
-      "name": "California",
-      "id": "XDiDEzyqSnhL"
+      "id": "california",
+      "name": "California"
     },
     {
-      "name": "Carapichaima",
-      "id": "7haYJRLVbKq4"
+      "id": "carapichaima",
+      "name": "Carapichaima"
     },
     {
-      "name": "Carenage",
-      "id": "djiabBOUb6xX"
+      "id": "carenage",
+      "name": "Carenage"
     },
     {
-      "name": "Caroni",
-      "id": "sajqvx4X5-bi"
+      "id": "caroni",
+      "name": "Caroni"
     },
     {
-      "name": "Chaguanas",
-      "id": "Uy0rnDWtuQFx"
+      "id": "chaguanas",
+      "name": "Chaguanas"
     },
     {
-      "name": "Claxton Bay",
-      "id": "uop0zwfdXqV6"
+      "id": "claxton-bay",
+      "name": "Claxton Bay"
     },
     {
-      "name": "Couva",
-      "id": "i22PsT-X7lS5"
+      "id": "couva",
+      "name": "Couva"
     },
     {
-      "name": "Cumuto",
-      "id": "SOJwEmWo8Hvv"
+      "id": "cumuto",
+      "name": "Cumuto"
     },
     {
-      "name": "Cunupia",
-      "id": "u9v_uJ4kGPyt"
+      "id": "cunupia",
+      "name": "Cunupia"
     },
     {
-      "name": "Curepe",
-      "id": "9Wkgd2_5TfDF"
+      "id": "curepe",
+      "name": "Curepe"
     },
     {
-      "name": "Debe",
-      "id": "Qw0Pc5dzZ5M_"
+      "id": "debe",
+      "name": "Debe"
     },
     {
-      "name": "Diego Martin",
-      "id": "w53dUCz_5xQU"
+      "id": "diego-martin",
+      "name": "Diego Martin"
     },
     {
-      "name": "El Dorado",
-      "id": "gsguTV0WWtv1"
+      "id": "el-dorado",
+      "name": "El Dorado"
     },
     {
-      "name": "Freeport",
-      "id": "U_oyTgtowjuc"
+      "id": "freeport",
+      "name": "Freeport"
     },
     {
-      "name": "Fyzabad",
-      "id": "HGD4U6wt2yzU"
+      "id": "fyzabad",
+      "name": "Fyzabad"
     },
     {
-      "name": "Gasparillo",
-      "id": "-3wHKAtcGKXx"
+      "id": "gasparillo",
+      "name": "Gasparillo"
     },
     {
-      "name": "Golden Lane",
-      "id": "IjJ8mR1vaLME"
+      "id": "golden-lane",
+      "name": "Golden Lane"
     },
     {
-      "name": "Laventille",
-      "id": "svKAF8TVDhCW"
+      "id": "laventille",
+      "name": "Laventille"
     },
     {
-      "name": "Lopinot",
-      "id": "zuJ2CWzoRMmM"
+      "id": "lopinot",
+      "name": "Lopinot"
     },
     {
-      "name": "Marabella",
-      "id": "OpvgsfjC1ncK"
+      "id": "marabella",
+      "name": "Marabella"
     },
     {
-      "name": "Maraval",
-      "id": "JOLuleHJ2ybW"
+      "id": "maraval",
+      "name": "Maraval"
     },
     {
-      "name": "Moriah",
-      "id": "lBjqrwPCWUPX"
+      "id": "moriah",
+      "name": "Moriah"
     },
     {
-      "name": "Morvant",
-      "id": "PPZH5FNszHB2"
+      "id": "morvant",
+      "name": "Morvant"
     },
     {
-      "name": "Penal",
-      "id": "nvhTYUBr_68U"
+      "id": "penal",
+      "name": "Penal"
     },
     {
-      "name": "Petit Valley",
-      "id": "omy5Vbp6hUiv"
+      "id": "petit-valley",
+      "name": "Petit Valley"
     },
     {
-      "name": "Phoenix Park",
-      "id": "DCD42zSLQ7Tx"
+      "id": "phoenix-park",
+      "name": "Phoenix Park"
     },
     {
-      "name": "Piarco",
-      "id": "lm3AKxfQJd5V"
+      "id": "piarco",
+      "name": "Piarco"
     },
     {
-      "name": "Port of Spain",
-      "id": "Guqpm-tN1Or9"
+      "id": "port-of-spain",
+      "name": "Port of Spain"
     },
     {
-      "name": "Princes Town",
-      "id": "zq8WS6JpVDB0"
+      "id": "princes-town",
+      "name": "Princes Town"
     },
     {
-      "name": "Rio Claro",
-      "id": "YfCQ587V4GBu"
+      "id": "rio-claro",
+      "name": "Rio Claro"
     },
     {
-      "name": "Roxborough",
-      "id": "SzehDLaWfDGD"
+      "id": "roxborough",
+      "name": "Roxborough"
     },
     {
-      "name": "Saint Augustine",
-      "id": "PxKxtBMMj2PQ"
+      "id": "saint-augustine",
+      "name": "Saint Augustine"
     },
     {
-      "name": "Saint Clair",
-      "id": "DGU714wj3qDp"
+      "id": "saint-clair",
+      "name": "Saint Clair"
     },
     {
-      "name": "Saint James",
-      "id": "H4Kn_i2yavdC"
+      "id": "saint-james",
+      "name": "Saint James"
     },
     {
-      "name": "Saint Joseph",
-      "id": "FerYCkBe5mfl"
+      "id": "saint-joseph",
+      "name": "Saint Joseph"
     },
     {
-      "name": "San Fernando",
-      "id": "kW7861D91ekX"
+      "id": "san-fernando",
+      "name": "San Fernando"
     },
     {
-      "name": "San Juan",
-      "id": "Bq9o02ymoH7y"
+      "id": "san-juan",
+      "name": "San Juan"
     },
     {
-      "name": "Sangre Grande",
-      "id": "Lp-Ybvsi-ZPW"
+      "id": "sangre-grande",
+      "name": "Sangre Grande"
     },
     {
-      "name": "Santa Cruz",
-      "id": "6W1nqsPTOw9h"
+      "id": "santa-cruz",
+      "name": "Santa Cruz"
     },
     {
-      "name": "Scarborough",
-      "id": "j0lDNc2tLTCA"
+      "id": "scarborough",
+      "name": "Scarborough"
     },
     {
-      "name": "Siparia",
-      "id": "4-KJqpBl-Jyh"
+      "id": "siparia",
+      "name": "Siparia"
     },
     {
-      "name": "Tunapuna",
-      "id": "PFcoh8pIfu_N"
+      "id": "tunapuna",
+      "name": "Tunapuna"
     },
     {
-      "name": "Valsayn",
-      "id": "LPiqXYFIn1GT"
+      "id": "valsayn",
+      "name": "Valsayn"
     },
     {
-      "name": "Victoria",
-      "id": "bJpjK4-Omq7A"
+      "id": "victoria",
+      "name": "Victoria"
     },
     {
-      "name": "Ward of Tacarigua",
-      "id": "9h8KlUKoFS4F"
+      "id": "ward-of-tacarigua",
+      "name": "Ward of Tacarigua"
     },
     {
-      "name": "Woodbrook",
-      "id": "UuJ_3qmpLD_R"
+      "id": "woodbrook",
+      "name": "Woodbrook"
     }
   ]
 }

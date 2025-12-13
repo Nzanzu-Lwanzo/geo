@@ -2,48 +2,48 @@
   "coid": "AD",
   "cities": [
     {
-      "name": "Andorra la Vella",
-      "id": "HI3PfiGiqhgI"
+      "id": "andorra-la-vella",
+      "name": "Andorra la Vella"
     },
     {
-      "name": "Canillo",
-      "id": "_E_7kw2zagbB"
+      "id": "canillo",
+      "name": "Canillo"
     },
     {
-      "name": "Encamp",
-      "id": "FWadpGmeedv3"
+      "id": "encamp",
+      "name": "Encamp"
     },
     {
-      "name": "Engordany",
-      "id": "Jypk-C01W4Qb"
+      "id": "engordany",
+      "name": "Engordany"
     },
     {
-      "name": "Escaldes-Engordany",
-      "id": "AHuNSrdlAkTh"
+      "id": "escaldes-engordany",
+      "name": "Escaldes-Engordany"
     },
     {
-      "name": "La Massana",
-      "id": "hR3nl2yK5VZJ"
+      "id": "la-massana",
+      "name": "La Massana"
     },
     {
-      "name": "Llorts",
-      "id": "0mxe-1wrdNDk"
+      "id": "llorts",
+      "name": "Llorts"
     },
     {
-      "name": "Ordino",
-      "id": "e7xUwreNDZzA"
+      "id": "ordino",
+      "name": "Ordino"
     },
     {
-      "name": "Santa Coloma",
-      "id": "iT2gE1lIt6ER"
+      "id": "santa-coloma",
+      "name": "Santa Coloma"
     },
     {
-      "name": "Sispony",
-      "id": "oKZ0GfZVS9Fo"
+      "id": "sispony",
+      "name": "Sispony"
     },
     {
-      "name": "Soldeu",
-      "id": "FIWmAFtOSvB3"
+      "id": "soldeu",
+      "name": "Soldeu"
     }
   ]
 }

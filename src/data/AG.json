@@ -2,28 +2,28 @@
   "coid": "AG",
   "cities": [
     {
-      "name": "All Saints",
-      "id": "6nEaxWgCk0uY"
+      "id": "all-saints",
+      "name": "All Saints"
     },
     {
-      "name": "Cassada Gardens",
-      "id": "PGzvPhdBIzED"
+      "id": "cassada-gardens",
+      "name": "Cassada Gardens"
     },
     {
-      "name": "Codrington",
-      "id": "eMG1HKvI_GZb"
+      "id": "codrington",
+      "name": "Codrington"
     },
     {
-      "name": "Old Road",
-      "id": "X7kqKO5nNkQg"
+      "id": "old-road",
+      "name": "Old Road"
     },
     {
-      "name": "Parham",
-      "id": "M6dQsV1sthJ1"
+      "id": "parham",
+      "name": "Parham"
     },
     {
-      "name": "Woods",
-      "id": "7QghjX4gVHVO"
+      "id": "woods",
+      "name": "Woods"
     }
   ]
 }

@@ -2,60 +2,60 @@
   "coid": "KH",
   "cities": [
     {
-      "name": "Moung Roessei",
-      "id": "Xczx7Zg66BW8"
+      "id": "moung-roessei",
+      "name": "Moung Roessei"
     },
     {
-      "name": "Phnom Penh",
-      "id": "3BhB0VPN0WId"
+      "id": "phnom-penh",
+      "name": "Phnom Penh"
     },
     {
-      "name": "Phumi Boeng (1)",
-      "id": "ENQiaD2gFhPy"
+      "id": "phumi-boeng-1",
+      "name": "Phumi Boeng (1)"
     },
     {
-      "name": "Phumi Chhuk",
-      "id": "LUM-yRJFzRr8"
+      "id": "phumi-chhuk",
+      "name": "Phumi Chhuk"
     },
     {
-      "name": "Phumi Preah Haoh",
-      "id": "gTGGCBOQPMS-"
+      "id": "phumi-preah-haoh",
+      "name": "Phumi Preah Haoh"
     },
     {
-      "name": "Phumi Prei",
-      "id": "zdXJ0hxVLh1F"
+      "id": "phumi-prei",
+      "name": "Phumi Prei"
     },
     {
-      "name": "Phumi Prek Mrinh",
-      "id": "SjuYPcr54kNl"
+      "id": "phumi-prek-mrinh",
+      "name": "Phumi Prek Mrinh"
     },
     {
-      "name": "Phumi Siem Reab",
-      "id": "eaDPAxIXnfr9"
+      "id": "phumi-siem-reab",
+      "name": "Phumi Siem Reab"
     },
     {
-      "name": "Phumi Thmei",
-      "id": "11O5ukTWu1Ve"
+      "id": "phumi-thmei",
+      "name": "Phumi Thmei"
     },
     {
-      "name": "Phumi Thnal",
-      "id": "CD7plsnIx4M4"
+      "id": "phumi-thnal",
+      "name": "Phumi Thnal"
     },
     {
-      "name": "Phumi Vott Phnum",
-      "id": "01dNQgsiencl"
+      "id": "phumi-vott-phnum",
+      "name": "Phumi Vott Phnum"
     },
     {
-      "name": "Sihanoukville",
-      "id": "L4J2aie5uUdD"
+      "id": "sihanoukville",
+      "name": "Sihanoukville"
     },
     {
-      "name": "Tuol Kok",
-      "id": "GSLbNe1MaxPU"
+      "id": "tuol-kok",
+      "name": "Tuol Kok"
     },
     {
-      "name": "Vott Kampong Svay",
-      "id": "7yTIkkvTGJeG"
+      "id": "vott-kampong-svay",
+      "name": "Vott Kampong Svay"
     }
   ]
 }

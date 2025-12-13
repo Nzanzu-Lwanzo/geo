@@ -2,44 +2,44 @@
   "coid": "TL",
   "cities": [
     {
-      "name": "Dili",
-      "id": "fmZFqMd39b_r"
+      "id": "dili",
+      "name": "Dili"
     },
     {
-      "name": "Baucau",
-      "id": "heTod-d7zvcT"
+      "id": "baucau",
+      "name": "Baucau"
     },
     {
-      "name": "Maliana",
-      "id": "hXLN0xBs79IT"
+      "id": "maliana",
+      "name": "Maliana"
     },
     {
-      "name": "Suai",
-      "id": "71UJQajtrpVu"
+      "id": "suai",
+      "name": "Suai"
     },
     {
-      "name": "Lospalos",
-      "id": "HyalfCoCpao9"
+      "id": "lospalos",
+      "name": "Lospalos"
     },
     {
-      "name": "Liquiçá",
-      "id": "UtSuG79PPcIR"
+      "id": "liquica",
+      "name": "Liquiçá"
     },
     {
-      "name": "Viqueque",
-      "id": "ARB4LemGCj0N"
+      "id": "viqueque",
+      "name": "Viqueque"
     },
     {
-      "name": "Oecusse",
-      "id": "TfBfAUranWVe"
+      "id": "oecusse",
+      "name": "Oecusse"
     },
     {
-      "name": "Ainaro",
-      "id": "y7oHtQtYkgq8"
+      "id": "ainaro",
+      "name": "Ainaro"
     },
     {
-      "name": "Manatuto",
-      "id": "5xrr66aqzbMw"
+      "id": "manatuto",
+      "name": "Manatuto"
     }
   ]
 }

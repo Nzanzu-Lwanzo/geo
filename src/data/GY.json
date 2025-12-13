@@ -2,44 +2,44 @@
   "coid": "GY",
   "cities": [
     {
-      "name": "Georgetown",
-      "id": "nEKdK__YheWo"
+      "id": "georgetown",
+      "name": "Georgetown"
     },
     {
-      "name": "Linden",
-      "id": "vymUQCU-RAfv"
+      "id": "linden",
+      "name": "Linden"
     },
     {
-      "name": "New Amsterdam",
-      "id": "9ngrHhh4IVHl"
+      "id": "new-amsterdam",
+      "name": "New Amsterdam"
     },
     {
-      "name": "Bartica",
-      "id": "pEHlZuJ8HHPU"
+      "id": "bartica",
+      "name": "Bartica"
     },
     {
-      "name": "Skeldon",
-      "id": "vP_XLDxT_nSB"
+      "id": "skeldon",
+      "name": "Skeldon"
     },
     {
-      "name": "Rosignol",
-      "id": "V7OwRpSPq_XE"
+      "id": "rosignol",
+      "name": "Rosignol"
     },
     {
-      "name": "Anna Regina",
-      "id": "wKB0jtDwOfaM"
+      "id": "anna-regina",
+      "name": "Anna Regina"
     },
     {
-      "name": "Lethem",
-      "id": "Icmpk6jVnXBF"
+      "id": "lethem",
+      "name": "Lethem"
     },
     {
-      "name": "Mabaruma",
-      "id": "Gy_piOQCBstp"
+      "id": "mabaruma",
+      "name": "Mabaruma"
     },
     {
-      "name": "Mahdia",
-      "id": "ECGz9JEg7mh5"
+      "id": "mahdia",
+      "name": "Mahdia"
     }
   ]
 }

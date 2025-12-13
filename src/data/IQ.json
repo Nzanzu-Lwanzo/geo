@@ -2,68 +2,68 @@
   "coid": "IQ",
   "cities": [
     {
-      "name": "Al `Amarah",
-      "id": "O_L4smumqCih"
+      "id": "al-amarah",
+      "name": "Al `Amarah"
     },
     {
-      "name": "Al Hillah",
-      "id": "PkgadZIC4Gef"
+      "id": "al-hillah",
+      "name": "Al Hillah"
     },
     {
-      "name": "Baghdad",
-      "id": "vgNEiLVZT2In"
+      "id": "baghdad",
+      "name": "Baghdad"
     },
     {
-      "name": "Bahr",
-      "id": "cJedREZKVGFV"
+      "id": "bahr",
+      "name": "Bahr"
     },
     {
-      "name": "Basere",
-      "id": "jhmtLVLUwdqT"
+      "id": "basere",
+      "name": "Basere"
     },
     {
-      "name": "Basra",
-      "id": "ZGFfSXZfuWol"
+      "id": "basra",
+      "name": "Basra"
     },
     {
-      "name": "Erbil",
-      "id": "IfFd9B_3iRqp"
+      "id": "erbil",
+      "name": "Erbil"
     },
     {
-      "name": "Haji Hasan",
-      "id": "kD1tzwTO0uzc"
+      "id": "haji-hasan",
+      "name": "Haji Hasan"
     },
     {
-      "name": "Hayat",
-      "id": "85-_vQLUu_Rb"
+      "id": "hayat",
+      "name": "Hayat"
     },
     {
-      "name": "Karkh",
-      "id": "B3V9Ruod4RVo"
+      "id": "karkh",
+      "name": "Karkh"
     },
     {
-      "name": "Kirkuk",
-      "id": "UPqcpdSO4Ruf"
+      "id": "kirkuk",
+      "name": "Kirkuk"
     },
     {
-      "name": "Manawi",
-      "id": "KF26zEFqlkIp"
+      "id": "manawi",
+      "name": "Manawi"
     },
     {
-      "name": "Mosul",
-      "id": "CjvfptgiqrVw"
+      "id": "mosul",
+      "name": "Mosul"
     },
     {
-      "name": "Najaf",
-      "id": "G2ybWjW9gDkB"
+      "id": "najaf",
+      "name": "Najaf"
     },
     {
-      "name": "Sulaymaniyah",
-      "id": "i9TgHCypJz7w"
+      "id": "sulaymaniyah",
+      "name": "Sulaymaniyah"
     },
     {
-      "name": "Tikrit",
-      "id": "6R6_mUPbJ2hB"
+      "id": "tikrit",
+      "name": "Tikrit"
     }
   ]
 }

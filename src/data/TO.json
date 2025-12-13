@@ -2,44 +2,44 @@
   "coid": "TO",
   "cities": [
     {
-      "name": "Nukuʻalofa",
-      "id": "DHkiADXipidB"
+      "id": "nukualofa",
+      "name": "Nukuʻalofa"
     },
     {
-      "name": "Neiafu",
-      "id": "1QqZzD1rDP0Y"
+      "id": "neiafu",
+      "name": "Neiafu"
     },
     {
-      "name": "Haveluloto",
-      "id": "VZ_qQZ_b9W1O"
+      "id": "haveluloto",
+      "name": "Haveluloto"
     },
     {
-      "name": "Pangai",
-      "id": "W0ug5Xf9oKRQ"
+      "id": "pangai",
+      "name": "Pangai"
     },
     {
-      "name": "Vavaʻu",
-      "id": "iRyeoHtT-52T"
+      "id": "vavau",
+      "name": "Vavaʻu"
     },
     {
-      "name": "Muʻa",
-      "id": "3LQLxAE4EUy-"
+      "id": "mua",
+      "name": "Muʻa"
     },
     {
-      "name": "Fuaʻamotu",
-      "id": "zpas30dKjJDt"
+      "id": "fuaamotu",
+      "name": "Fuaʻamotu"
     },
     {
-      "name": "Kolomotuʻa",
-      "id": "R2UYuNbJUvGl"
+      "id": "kolomotua",
+      "name": "Kolomotuʻa"
     },
     {
-      "name": "Haʻapai",
-      "id": "YFEzZshpENmu"
+      "id": "haapai",
+      "name": "Haʻapai"
     },
     {
-      "name": "Lifuka",
-      "id": "_7UfmNO9ZCq3"
+      "id": "lifuka",
+      "name": "Lifuka"
     }
   ]
 }

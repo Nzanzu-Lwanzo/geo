@@ -2,40 +2,40 @@
   "coid": "SR",
   "cities": [
     {
-      "name": "Botopasi",
-      "id": "5YK37GCkSh2D"
+      "id": "botopasi",
+      "name": "Botopasi"
     },
     {
-      "name": "Brownsweg",
-      "id": "kbjvdWTuHx5l"
+      "id": "brownsweg",
+      "name": "Brownsweg"
     },
     {
-      "name": "Friendship",
-      "id": "lJousL-fsyNx"
+      "id": "friendship",
+      "name": "Friendship"
     },
     {
-      "name": "Groningen",
-      "id": "pQgOm47Br4qo"
+      "id": "groningen",
+      "name": "Groningen"
     },
     {
-      "name": "Moengo",
-      "id": "vhnREvJPNJyk"
+      "id": "moengo",
+      "name": "Moengo"
     },
     {
-      "name": "Nieuw Amsterdam",
-      "id": "e4i0VgV0JrSt"
+      "id": "nieuw-amsterdam",
+      "name": "Nieuw Amsterdam"
     },
     {
-      "name": "Onverwacht",
-      "id": "fkrwEcMjy_Rb"
+      "id": "onverwacht",
+      "name": "Onverwacht"
     },
     {
-      "name": "Paramaribo",
-      "id": "z_00PaW9uM_G"
+      "id": "paramaribo",
+      "name": "Paramaribo"
     },
     {
-      "name": "Totness",
-      "id": "_Hi61CgBG1MF"
+      "id": "totness",
+      "name": "Totness"
     }
   ]
 }

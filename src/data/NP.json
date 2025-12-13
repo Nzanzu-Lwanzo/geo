@@ -2,28 +2,28 @@
   "coid": "NP",
   "cities": [
     {
-      "name": "Bharatpur",
-      "id": "Crs87Md0TvGE"
+      "id": "bharatpur",
+      "name": "Bharatpur"
     },
     {
-      "name": "Jawlakhel",
-      "id": "MTm_xIolwTbX"
+      "id": "jawlakhel",
+      "name": "Jawlakhel"
     },
     {
-      "name": "Kathmandu",
-      "id": "aYTeHza-DNZz"
+      "id": "kathmandu",
+      "name": "Kathmandu"
     },
     {
-      "name": "Lumbini",
-      "id": "SyWUZ7EY9YU5"
+      "id": "lumbini",
+      "name": "Lumbini"
     },
     {
-      "name": "Palpa",
-      "id": "KKopSplHicvp"
+      "id": "palpa",
+      "name": "Palpa"
     },
     {
-      "name": "Patan",
-      "id": "5Z-fz8p3WSP-"
+      "id": "patan",
+      "name": "Patan"
     }
   ]
 }

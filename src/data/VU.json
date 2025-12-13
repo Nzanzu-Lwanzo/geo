@@ -2,44 +2,44 @@
   "coid": "VU",
   "cities": [
     {
-      "name": "Port Vila",
-      "id": "GQhwYoL5KdvZ"
+      "id": "port-vila",
+      "name": "Port Vila"
     },
     {
-      "name": "Luganville",
-      "id": "wT1Ejox-wC8Y"
+      "id": "luganville",
+      "name": "Luganville"
     },
     {
-      "name": "Norsup",
-      "id": "HFhFOTCQzxXk"
+      "id": "norsup",
+      "name": "Norsup"
     },
     {
-      "name": "Sola",
-      "id": "HY-AxMDyl5vf"
+      "id": "sola",
+      "name": "Sola"
     },
     {
-      "name": "Lenakel",
-      "id": "8KMmwtwen5-O"
+      "id": "lenakel",
+      "name": "Lenakel"
     },
     {
-      "name": "Isangel",
-      "id": "buRPdsny6J83"
+      "id": "isangel",
+      "name": "Isangel"
     },
     {
-      "name": "Tanna",
-      "id": "QHXt7w2f0Y2J"
+      "id": "tanna",
+      "name": "Tanna"
     },
     {
-      "name": "Santo",
-      "id": "yA_hnMr74mUC"
+      "id": "santo",
+      "name": "Santo"
     },
     {
-      "name": "Malekula",
-      "id": "Fi1vpgOqz4YF"
+      "id": "malekula",
+      "name": "Malekula"
     },
     {
-      "name": "Ambrym",
-      "id": "6GTT45mU8zJq"
+      "id": "ambrym",
+      "name": "Ambrym"
     }
   ]
 }

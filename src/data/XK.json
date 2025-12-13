@@ -2,24 +2,24 @@
   "coid": "XK",
   "cities": [
     {
-      "name": "Dunavo",
-      "id": "2fHQpXZOapyL"
+      "id": "dunavo",
+      "name": "Dunavo"
     },
     {
-      "name": "Ferizaj",
-      "id": "OMLK-U_XRIOH"
+      "id": "ferizaj",
+      "name": "Ferizaj"
     },
     {
-      "name": "Mitrovica",
-      "id": "atApkK6avwXz"
+      "id": "mitrovica",
+      "name": "Mitrovica"
     },
     {
-      "name": "Pristina",
-      "id": "49BeC0cObM0g"
+      "id": "pristina",
+      "name": "Pristina"
     },
     {
-      "name": "Prizren",
-      "id": "YJFv55NZdb7m"
+      "id": "prizren",
+      "name": "Prizren"
     }
   ]
 }

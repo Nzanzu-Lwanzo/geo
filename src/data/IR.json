@@ -2,936 +2,936 @@
   "coid": "IR",
   "cities": [
     {
-      "name": "`Aliabad",
-      "id": "g0BFbaTaAqyc"
+      "id": "aliabad",
+      "name": "`Aliabad"
     },
     {
-      "name": "`Aliabad-e Aq Hesar",
-      "id": "xaUtK_kj-xIM"
+      "id": "aliabad-e-aq-hesar",
+      "name": "`Aliabad-e Aq Hesar"
     },
     {
-      "name": "`Oryan",
-      "id": "vmOhUBuZQCXY"
+      "id": "oryan",
+      "name": "`Oryan"
     },
     {
-      "name": "Abadan",
-      "id": "WO6uF1bSvDpO"
+      "id": "abadan",
+      "name": "Abadan"
     },
     {
-      "name": "Abol",
-      "id": "JBc-Flsm0-qk"
+      "id": "abol",
+      "name": "Abol"
     },
     {
-      "name": "Ahvaz",
-      "id": "0LGtDoXMeWp8"
+      "id": "ahvaz",
+      "name": "Ahvaz"
     },
     {
-      "name": "Amlash",
-      "id": "B2OeLRZ-ZS0N"
+      "id": "amlash",
+      "name": "Amlash"
     },
     {
-      "name": "Amol",
-      "id": "S0CNrXsV0BDI"
+      "id": "amol",
+      "name": "Amol"
     },
     {
-      "name": "Arak",
-      "id": "2jWIjLmGlmWY"
+      "id": "arak",
+      "name": "Arak"
     },
     {
-      "name": "Ardabil",
-      "id": "DyI6ST3xw494"
+      "id": "ardabil",
+      "name": "Ardabil"
     },
     {
-      "name": "Ardakan",
-      "id": "sS6ygZiy-qm7"
+      "id": "ardakan",
+      "name": "Ardakan"
     },
     {
-      "name": "Arnan",
-      "id": "5_5HEVD2SoI0"
+      "id": "arnan",
+      "name": "Arnan"
     },
     {
-      "name": "Arsanjan",
-      "id": "KGphHadEqTb7"
+      "id": "arsanjan",
+      "name": "Arsanjan"
     },
     {
-      "name": "Asadabad",
-      "id": "TajzDOnxzBWP"
+      "id": "asadabad",
+      "name": "Asadabad"
     },
     {
-      "name": "Ashan",
-      "id": "nmljAXN0kW5E"
+      "id": "ashan",
+      "name": "Ashan"
     },
     {
-      "name": "Ashna",
-      "id": "g7dUrkvT2jLC"
+      "id": "ashna",
+      "name": "Ashna"
     },
     {
-      "name": "Ashtian",
-      "id": "Gpq7pXjjwKW-"
+      "id": "ashtian",
+      "name": "Ashtian"
     },
     {
-      "name": "Astara",
-      "id": "YIihof4tQfHh"
+      "id": "astara",
+      "name": "Astara"
     },
     {
-      "name": "Azad",
-      "id": "9JjRUcEyx5jk"
+      "id": "azad",
+      "name": "Azad"
     },
     {
-      "name": "Azadi",
-      "id": "CykB2_C5CBeu"
+      "id": "azadi",
+      "name": "Azadi"
     },
     {
-      "name": "Azaran",
-      "id": "inUE1PtsAmiN"
+      "id": "azaran",
+      "name": "Azaran"
     },
     {
-      "name": "Babol",
-      "id": "ZTSUgjWeQSEX"
+      "id": "babol",
+      "name": "Babol"
     },
     {
-      "name": "Badr",
-      "id": "KP8JLLhHu4vX"
+      "id": "badr",
+      "name": "Badr"
     },
     {
-      "name": "Baft",
-      "id": "_5nAOzzlmsyr"
+      "id": "baft",
+      "name": "Baft"
     },
     {
-      "name": "Baghin",
-      "id": "XkSuxkb7IVdj"
+      "id": "baghin",
+      "name": "Baghin"
     },
     {
-      "name": "Baharan",
-      "id": "-Ek3z-JyE8p4"
+      "id": "baharan",
+      "name": "Baharan"
     },
     {
-      "name": "Bakhtiari",
-      "id": "JBOZ7-aVQxZh"
+      "id": "bakhtiari",
+      "name": "Bakhtiari"
     },
     {
-      "name": "Bakhtiaruyeh",
-      "id": "Iyfy07C4NWtZ"
+      "id": "bakhtiaruyeh",
+      "name": "Bakhtiaruyeh"
     },
     {
-      "name": "Baladeh",
-      "id": "x0q5vnrB9Z63"
+      "id": "baladeh",
+      "name": "Baladeh"
     },
     {
-      "name": "Banak",
-      "id": "lmBygKP0tWx8"
+      "id": "banak",
+      "name": "Banak"
     },
     {
-      "name": "Band",
-      "id": "UHgFx-xnVVl2"
+      "id": "band",
+      "name": "Band"
     },
     {
-      "name": "Bandar-e Khamir",
-      "id": "Lo0sTqE5bNHL"
+      "id": "bandar-e-khamir",
+      "name": "Bandar-e Khamir"
     },
     {
-      "name": "Bandar-e Mahshahr",
-      "id": "1jTUXiJ_6Lx3"
+      "id": "bandar-e-mahshahr",
+      "name": "Bandar-e Mahshahr"
     },
     {
-      "name": "Barbun",
-      "id": "t5OZ_QsAYT5F"
+      "id": "barbun",
+      "name": "Barbun"
     },
     {
-      "name": "Bardsir",
-      "id": "pINva6VQlLul"
+      "id": "bardsir",
+      "name": "Bardsir"
     },
     {
-      "name": "Baseri Hadi",
-      "id": "SPAl8toWjn3i"
+      "id": "baseri-hadi",
+      "name": "Baseri Hadi"
     },
     {
-      "name": "Bastak",
-      "id": "2A411Ch38WDM"
+      "id": "bastak",
+      "name": "Bastak"
     },
     {
-      "name": "Behbahan",
-      "id": "iQRGnjC09lo5"
+      "id": "behbahan",
+      "name": "Behbahan"
     },
     {
-      "name": "Behdasht",
-      "id": "Qp0rHnIssyST"
+      "id": "behdasht",
+      "name": "Behdasht"
     },
     {
-      "name": "Behjan",
-      "id": "SUJ5ABZ5jb8H"
+      "id": "behjan",
+      "name": "Behjan"
     },
     {
-      "name": "Behshahr",
-      "id": "fNMBP4TN4PnN"
+      "id": "behshahr",
+      "name": "Behshahr"
     },
     {
-      "name": "Bidak",
-      "id": "4UFtEDlN1gFg"
+      "id": "bidak",
+      "name": "Bidak"
     },
     {
-      "name": "Birizg",
-      "id": "O1ZOnWQodJ5L"
+      "id": "birizg",
+      "name": "Birizg"
     },
     {
-      "name": "Birjand",
-      "id": "qenHAJgD-5lS"
+      "id": "birjand",
+      "name": "Birjand"
     },
     {
-      "name": "Bonab",
-      "id": "_xXa_u27v3u0"
+      "id": "bonab",
+      "name": "Bonab"
     },
     {
-      "name": "Borran-e Bala",
-      "id": "GBv8xdymBmlQ"
+      "id": "borran-e-bala",
+      "name": "Borran-e Bala"
     },
     {
-      "name": "Bostan",
-      "id": "JacqrmBfHubh"
+      "id": "bostan",
+      "name": "Bostan"
     },
     {
-      "name": "Bukan",
-      "id": "EXThBL0Ut8SW"
+      "id": "bukan",
+      "name": "Bukan"
     },
     {
-      "name": "Chabahar",
-      "id": "I8DDIzyr0C89"
+      "id": "chabahar",
+      "name": "Chabahar"
     },
     {
-      "name": "Chah Deraz",
-      "id": "32QWSU7YYFNG"
+      "id": "chah-deraz",
+      "name": "Chah Deraz"
     },
     {
-      "name": "Chapar",
-      "id": "vGJB701pXdy_"
+      "id": "chapar",
+      "name": "Chapar"
     },
     {
-      "name": "Dadeh",
-      "id": "xslrJR0QUgl9"
+      "id": "dadeh",
+      "name": "Dadeh"
     },
     {
-      "name": "Damavand",
-      "id": "Bk7Ho3ZCPff4"
+      "id": "damavand",
+      "name": "Damavand"
     },
     {
-      "name": "Damghan",
-      "id": "bPf0_8ArFdn2"
+      "id": "damghan",
+      "name": "Damghan"
     },
     {
-      "name": "Darmian",
-      "id": "03KPK2jcnVSA"
+      "id": "darmian",
+      "name": "Darmian"
     },
     {
-      "name": "Dezful",
-      "id": "rwqO8fOELt6K"
+      "id": "dezful",
+      "name": "Dezful"
     },
     {
-      "name": "Dorud",
-      "id": "HbCXQU7bOuhd"
+      "id": "dorud",
+      "name": "Dorud"
     },
     {
-      "name": "Emam",
-      "id": "CJfPLlDFl4qr"
+      "id": "emam",
+      "name": "Emam"
     },
     {
-      "name": "Esfarayen",
-      "id": "rK023qhPAKxA"
+      "id": "esfarayen",
+      "name": "Esfarayen"
     },
     {
-      "name": "Eslamshahr",
-      "id": "G9DtXCMBiZ8i"
+      "id": "eslamshahr",
+      "name": "Eslamshahr"
     },
     {
-      "name": "Estahban",
-      "id": "xmqxdGPZFPRP"
+      "id": "estahban",
+      "name": "Estahban"
     },
     {
-      "name": "Evin",
-      "id": "PRnX7QkLIHAn"
+      "id": "evin",
+      "name": "Evin"
     },
     {
-      "name": "Falavarjan",
-      "id": "2oLl5T1D7dta"
+      "id": "falavarjan",
+      "name": "Falavarjan"
     },
     {
-      "name": "Fardis",
-      "id": "iewLdG889EbT"
+      "id": "fardis",
+      "name": "Fardis"
     },
     {
-      "name": "Farsi",
-      "id": "B05z1p3IcrsB"
+      "id": "farsi",
+      "name": "Farsi"
     },
     {
-      "name": "Fasa",
-      "id": "c2AsU7gLTCq7"
+      "id": "fasa",
+      "name": "Fasa"
     },
     {
-      "name": "Fordu",
-      "id": "5mr3ItkYUA6o"
+      "id": "fordu",
+      "name": "Fordu"
     },
     {
-      "name": "Garmsar",
-      "id": "u8GNhqGLgZ_8"
+      "id": "garmsar",
+      "name": "Garmsar"
     },
     {
-      "name": "Gazan-e Bala",
-      "id": "jdr5w5z4Wl0i"
+      "id": "gazan-e-bala",
+      "name": "Gazan-e Bala"
     },
     {
-      "name": "Gerash",
-      "id": "wRsSc22_WGuP"
+      "id": "gerash",
+      "name": "Gerash"
     },
     {
-      "name": "Germi",
-      "id": "YNdFczUXEjSk"
+      "id": "germi",
+      "name": "Germi"
     },
     {
-      "name": "Gharbi",
-      "id": "XD8qYekPztHn"
+      "id": "gharbi",
+      "name": "Gharbi"
     },
     {
-      "name": "Gilan-e Gharb",
-      "id": "yg4ojODZHTJo"
+      "id": "gilan-e-gharb",
+      "name": "Gilan-e Gharb"
     },
     {
-      "name": "Gilas",
-      "id": "SENvKWy1igMj"
+      "id": "gilas",
+      "name": "Gilas"
     },
     {
-      "name": "Golestan",
-      "id": "AoxSZ82htmFS"
+      "id": "golestan",
+      "name": "Golestan"
     },
     {
-      "name": "Golpayegan",
-      "id": "v8HVctOX43c3"
+      "id": "golpayegan",
+      "name": "Golpayegan"
     },
     {
-      "name": "Golriz",
-      "id": "83pgZaaTCRP5"
+      "id": "golriz",
+      "name": "Golriz"
     },
     {
-      "name": "Gorgan",
-      "id": "S5B8afJ0dtCT"
+      "id": "gorgan",
+      "name": "Gorgan"
     },
     {
-      "name": "Gostar",
-      "id": "SBOFC4PmA4Dr"
+      "id": "gostar",
+      "name": "Gostar"
     },
     {
-      "name": "Hadishahr",
-      "id": "9GRG8ClW-Yej"
+      "id": "hadishahr",
+      "name": "Hadishahr"
     },
     {
-      "name": "Hamadan",
-      "id": "iUfoJHIiHH4D"
+      "id": "hamadan",
+      "name": "Hamadan"
     },
     {
-      "name": "Hasanabad-e Qadamgah",
-      "id": "DDEaGYg1vh8p"
+      "id": "hasanabad-e-qadamgah",
+      "name": "Hasanabad-e Qadamgah"
     },
     {
-      "name": "Hashtgerd",
-      "id": "fVl-ytMKETsZ"
+      "id": "hashtgerd",
+      "name": "Hashtgerd"
     },
     {
-      "name": "Hashtpar",
-      "id": "rekwG0V3v6ag"
+      "id": "hashtpar",
+      "name": "Hashtpar"
     },
     {
-      "name": "Hirad",
-      "id": "m_GZTXBs7j_Q"
+      "id": "hirad",
+      "name": "Hirad"
     },
     {
-      "name": "Homa",
-      "id": "HT-WPCgAPSzp"
+      "id": "homa",
+      "name": "Homa"
     },
     {
-      "name": "Hormozabad",
-      "id": "WzAj_fGhJ3B4"
+      "id": "hormozabad",
+      "name": "Hormozabad"
     },
     {
-      "name": "Hush",
-      "id": "nUCzlZYN37M-"
+      "id": "hush",
+      "name": "Hush"
     },
     {
-      "name": "Idah",
-      "id": "tC1ocfxo7rYm"
+      "id": "idah",
+      "name": "Idah"
     },
     {
-      "name": "Ilam",
-      "id": "IwmtwFWfVZQO"
+      "id": "ilam",
+      "name": "Ilam"
     },
     {
-      "name": "Iranshahr",
-      "id": "R74-fynfLKOU"
+      "id": "iranshahr",
+      "name": "Iranshahr"
     },
     {
-      "name": "Isfahan",
-      "id": "Pl2ejQVFzqwO"
+      "id": "isfahan",
+      "name": "Isfahan"
     },
     {
-      "name": "Jadir",
-      "id": "M-fHvKEV1Bvd"
+      "id": "jadir",
+      "name": "Jadir"
     },
     {
-      "name": "Jahan",
-      "id": "j3QEO5nGtajU"
+      "id": "jahan",
+      "name": "Jahan"
     },
     {
-      "name": "Jahan Nama",
-      "id": "ByzQJsidNts5"
+      "id": "jahan-nama",
+      "name": "Jahan Nama"
     },
     {
-      "name": "Jahrom",
-      "id": "XDiIq43ZId1D"
+      "id": "jahrom",
+      "name": "Jahrom"
     },
     {
-      "name": "Jiroft",
-      "id": "7XxmLHmG68c1"
+      "id": "jiroft",
+      "name": "Jiroft"
     },
     {
-      "name": "Julfa",
-      "id": "-3YgbZSWT5Ag"
+      "id": "julfa",
+      "name": "Julfa"
     },
     {
-      "name": "Kabir",
-      "id": "emMBA1IveQ3W"
+      "id": "kabir",
+      "name": "Kabir"
     },
     {
-      "name": "Kaman",
-      "id": "KFW_pTbQDezO"
+      "id": "kaman",
+      "name": "Kaman"
     },
     {
-      "name": "Karaj",
-      "id": "hZoxGFLcv1nS"
+      "id": "karaj",
+      "name": "Karaj"
     },
     {
-      "name": "Karimkhan",
-      "id": "w2N_j88hXR-W"
+      "id": "karimkhan",
+      "name": "Karimkhan"
     },
     {
-      "name": "Kashan",
-      "id": "AX7oZ-adCWmm"
+      "id": "kashan",
+      "name": "Kashan"
     },
     {
-      "name": "Kelarabad",
-      "id": "AYMRyDda3n3W"
+      "id": "kelarabad",
+      "name": "Kelarabad"
     },
     {
-      "name": "Kerman",
-      "id": "55HhT41chrCd"
+      "id": "kerman",
+      "name": "Kerman"
     },
     {
-      "name": "Kermanshah",
-      "id": "kgV_zSTlTFyh"
+      "id": "kermanshah",
+      "name": "Kermanshah"
     },
     {
-      "name": "Khalkhal",
-      "id": "StZ2BVUCDwMi"
+      "id": "khalkhal",
+      "name": "Khalkhal"
     },
     {
-      "name": "Khameneh",
-      "id": "0Qk-a5v5aDQB"
+      "id": "khameneh",
+      "name": "Khameneh"
     },
     {
-      "name": "Khash",
-      "id": "PJjXrGFYuSNL"
+      "id": "khash",
+      "name": "Khash"
     },
     {
-      "name": "Khomeyn",
-      "id": "ReJLZkHCA_rB"
+      "id": "khomeyn",
+      "name": "Khomeyn"
     },
     {
-      "name": "Khomeyni Shahr",
-      "id": "Y9InaljElTgX"
+      "id": "khomeyni-shahr",
+      "name": "Khomeyni Shahr"
     },
     {
-      "name": "Khong",
-      "id": "sRx_juxWRumc"
+      "id": "khong",
+      "name": "Khong"
     },
     {
-      "name": "Khorasan",
-      "id": "QYaqHGZwUHhp"
+      "id": "khorasan",
+      "name": "Khorasan"
     },
     {
-      "name": "Khowrasgan",
-      "id": "77LuxRO5PTQr"
+      "id": "khowrasgan",
+      "name": "Khowrasgan"
     },
     {
-      "name": "Khowrshid",
-      "id": "Sq2EtDj1jW2X"
+      "id": "khowrshid",
+      "name": "Khowrshid"
     },
     {
-      "name": "Khvajeh",
-      "id": "uw_jYO3PJs80"
+      "id": "khvajeh",
+      "name": "Khvajeh"
     },
     {
-      "name": "Khvoy",
-      "id": "EBd3WseCduZP"
+      "id": "khvoy",
+      "name": "Khvoy"
     },
     {
-      "name": "Kian",
-      "id": "dMRdKM4eTY2I"
+      "id": "kian",
+      "name": "Kian"
     },
     {
-      "name": "Kish",
-      "id": "LS_wcJGC1ke3"
+      "id": "kish",
+      "name": "Kish"
     },
     {
-      "name": "Kord Kandi",
-      "id": "P-DF-NhoO9U1"
+      "id": "kord-kandi",
+      "name": "Kord Kandi"
     },
     {
-      "name": "Kordestan-e `Olya",
-      "id": "CVKWWjMEwabO"
+      "id": "kordestan-e-olya",
+      "name": "Kordestan-e `Olya"
     },
     {
-      "name": "Kordovan-e Sofla",
-      "id": "D5fEXXZvcl3p"
+      "id": "kordovan-e-sofla",
+      "name": "Kordovan-e Sofla"
     },
     {
-      "name": "Lahijan",
-      "id": "xfEqgunzQhLU"
+      "id": "lahijan",
+      "name": "Lahijan"
     },
     {
-      "name": "Lamerd",
-      "id": "wXJv5KZW4OTq"
+      "id": "lamerd",
+      "name": "Lamerd"
     },
     {
-      "name": "Mahabad",
-      "id": "Yq6ceQa1rQvA"
+      "id": "mahabad",
+      "name": "Mahabad"
     },
     {
-      "name": "Mahallat",
-      "id": "t15_Bzpde7bZ"
+      "id": "mahallat",
+      "name": "Mahallat"
     },
     {
-      "name": "Mahestan",
-      "id": "qIZmOOKHZwnQ"
+      "id": "mahestan",
+      "name": "Mahestan"
     },
     {
-      "name": "Malayer",
-      "id": "7tp2DQe9qTte"
+      "id": "malayer",
+      "name": "Malayer"
     },
     {
-      "name": "Malek Talesh",
-      "id": "jAra9jqg7Kmc"
+      "id": "malek-talesh",
+      "name": "Malek Talesh"
     },
     {
-      "name": "Malekan",
-      "id": "IITsaslo4B9A"
+      "id": "malekan",
+      "name": "Malekan"
     },
     {
-      "name": "Mamasani",
-      "id": "XfwaQWGsg8oF"
+      "id": "mamasani",
+      "name": "Mamasani"
     },
     {
-      "name": "Manjil",
-      "id": "vamUjbDS0W1y"
+      "id": "manjil",
+      "name": "Manjil"
     },
     {
-      "name": "Maragheh",
-      "id": "FiXPWfqrbY71"
+      "id": "maragheh",
+      "name": "Maragheh"
     },
     {
-      "name": "Marand",
-      "id": "HLz1PRxShYW8"
+      "id": "marand",
+      "name": "Marand"
     },
     {
-      "name": "Mashhad",
-      "id": "_HNGlaluTy-N"
+      "id": "mashhad",
+      "name": "Mashhad"
     },
     {
-      "name": "Mehin",
-      "id": "wawwfLx1ayZm"
+      "id": "mehin",
+      "name": "Mehin"
     },
     {
-      "name": "Mehregan",
-      "id": "JTwvzh2jcnYi"
+      "id": "mehregan",
+      "name": "Mehregan"
     },
     {
-      "name": "Meshgin Shahr",
-      "id": "-pJJ7wSMF19P"
+      "id": "meshgin-shahr",
+      "name": "Meshgin Shahr"
     },
     {
-      "name": "Meybod",
-      "id": "oeWx_90cUk7p"
+      "id": "meybod",
+      "name": "Meybod"
     },
     {
-      "name": "Miandoab",
-      "id": "DXVv8xCb4sJj"
+      "id": "miandoab",
+      "name": "Miandoab"
     },
     {
-      "name": "Mianej",
-      "id": "ddIKNUQ4cMlI"
+      "id": "mianej",
+      "name": "Mianej"
     },
     {
-      "name": "Mobarakeh",
-      "id": "-iWMnTMXL8Je"
+      "id": "mobarakeh",
+      "name": "Mobarakeh"
     },
     {
-      "name": "Moghan",
-      "id": "Ltnaza_g2EcE"
+      "id": "moghan",
+      "name": "Moghan"
     },
     {
-      "name": "Mohr",
-      "id": "Aaiep2w2Vxii"
+      "id": "mohr",
+      "name": "Mohr"
     },
     {
-      "name": "Nahavand",
-      "id": "EybYxCRuXIqC"
+      "id": "nahavand",
+      "name": "Nahavand"
     },
     {
-      "name": "Najafabad",
-      "id": "ZTHsORCQexHC"
+      "id": "najafabad",
+      "name": "Najafabad"
     },
     {
-      "name": "Naji",
-      "id": "prMa696lGpLm"
+      "id": "naji",
+      "name": "Naji"
     },
     {
-      "name": "Nasir",
-      "id": "Mjly59oOLA7t"
+      "id": "nasir",
+      "name": "Nasir"
     },
     {
-      "name": "Negar",
-      "id": "HmDpDr0ybww-"
+      "id": "negar",
+      "name": "Negar"
     },
     {
-      "name": "Nehbandan",
-      "id": "KpWM1x7jczks"
+      "id": "nehbandan",
+      "name": "Nehbandan"
     },
     {
-      "name": "Neka",
-      "id": "DK2vGa7pXnNp"
+      "id": "neka",
+      "name": "Neka"
     },
     {
-      "name": "Neyriz",
-      "id": "GEpjZmer0DLc"
+      "id": "neyriz",
+      "name": "Neyriz"
     },
     {
-      "name": "Neyshabur",
-      "id": "tKpJ5FKdzEjE"
+      "id": "neyshabur",
+      "name": "Neyshabur"
     },
     {
-      "name": "Novin",
-      "id": "DE0Mt-PWZLXb"
+      "id": "novin",
+      "name": "Novin"
     },
     {
-      "name": "Onar",
-      "id": "R6svjsfihrgD"
+      "id": "onar",
+      "name": "Onar"
     },
     {
-      "name": "Parpis",
-      "id": "ojWz3krNafj1"
+      "id": "parpis",
+      "name": "Parpis"
     },
     {
-      "name": "Parsian",
-      "id": "aHxH6JVX3ZeP"
+      "id": "parsian",
+      "name": "Parsian"
     },
     {
-      "name": "Pasargad",
-      "id": "VX5haP1yieWi"
+      "id": "pasargad",
+      "name": "Pasargad"
     },
     {
-      "name": "Payam",
-      "id": "JlVtYjzs6l2R"
+      "id": "payam",
+      "name": "Payam"
     },
     {
-      "name": "Peshgoman",
-      "id": "1B8NwaJhIsNU"
+      "id": "peshgoman",
+      "name": "Peshgoman"
     },
     {
-      "name": "Peyk",
-      "id": "NAGLsVGovF77"
+      "id": "peyk",
+      "name": "Peyk"
     },
     {
-      "name": "Piruz",
-      "id": "Yzli3c6LzhPJ"
+      "id": "piruz",
+      "name": "Piruz"
     },
     {
-      "name": "Post",
-      "id": "qWmbrZ_9JGVk"
+      "id": "post",
+      "name": "Post"
     },
     {
-      "name": "Qasr od Dasht",
-      "id": "6b2xBDO8pmuV"
+      "id": "qasr-od-dasht",
+      "name": "Qasr od Dasht"
     },
     {
-      "name": "Qazvin",
-      "id": "HuzBtueUqnRW"
+      "id": "qazvin",
+      "name": "Qazvin"
     },
     {
-      "name": "Qeshm",
-      "id": "_Vvpi2eyQtU2"
+      "id": "qeshm",
+      "name": "Qeshm"
     },
     {
-      "name": "Quchan",
-      "id": "aH2uvBg3P4vZ"
+      "id": "quchan",
+      "name": "Quchan"
     },
     {
-      "name": "Rabor",
-      "id": "IePmby12r7J2"
+      "id": "rabor",
+      "name": "Rabor"
     },
     {
-      "name": "Rafsanjan",
-      "id": "m3tjqPfQhD0q"
+      "id": "rafsanjan",
+      "name": "Rafsanjan"
     },
     {
-      "name": "Rasak",
-      "id": "xr45s451u9Ft"
+      "id": "rasak",
+      "name": "Rasak"
     },
     {
-      "name": "Rasht",
-      "id": "O-wtt13uyyO-"
+      "id": "rasht",
+      "name": "Rasht"
     },
     {
-      "name": "Ravand",
-      "id": "NW9aDQBm7WRU"
+      "id": "ravand",
+      "name": "Ravand"
     },
     {
-      "name": "Ravansar",
-      "id": "ynwM5E7E8kDy"
+      "id": "ravansar",
+      "name": "Ravansar"
     },
     {
-      "name": "Ravar",
-      "id": "auYH6LXglrH-"
+      "id": "ravar",
+      "name": "Ravar"
     },
     {
-      "name": "Rayen",
-      "id": "8xHkJIwDQrm4"
+      "id": "rayen",
+      "name": "Rayen"
     },
     {
-      "name": "Razan",
-      "id": "ns8mGN9hp2MI"
+      "id": "razan",
+      "name": "Razan"
     },
     {
-      "name": "Razaviyeh",
-      "id": "ROVz1b_lckAI"
+      "id": "razaviyeh",
+      "name": "Razaviyeh"
     },
     {
-      "name": "Razi",
-      "id": "KhfG-tPtRVqg"
+      "id": "razi",
+      "name": "Razi"
     },
     {
-      "name": "Rigan",
-      "id": "k1GROgVhN0gs"
+      "id": "rigan",
+      "name": "Rigan"
     },
     {
-      "name": "Sabz",
-      "id": "lxZkITkxlqOl"
+      "id": "sabz",
+      "name": "Sabz"
     },
     {
-      "name": "Sabzevar",
-      "id": "5tUVFMpY2GfP"
+      "id": "sabzevar",
+      "name": "Sabzevar"
     },
     {
-      "name": "Sahand",
-      "id": "YWY7fyzuXcR2"
+      "id": "sahand",
+      "name": "Sahand"
     },
     {
-      "name": "Salmas",
-      "id": "ySnJ_2P7xsTK"
+      "id": "salmas",
+      "name": "Salmas"
     },
     {
-      "name": "Saman",
-      "id": "-4K4wupxfRXl"
+      "id": "saman",
+      "name": "Saman"
     },
     {
-      "name": "Samen",
-      "id": "hXRHPOg7mAUw"
+      "id": "samen",
+      "name": "Samen"
     },
     {
-      "name": "Sanandaj",
-      "id": "En_RZ-amQp63"
+      "id": "sanandaj",
+      "name": "Sanandaj"
     },
     {
-      "name": "Saravan",
-      "id": "NRy8YF7UN4p3"
+      "id": "saravan",
+      "name": "Saravan"
     },
     {
-      "name": "Sari",
-      "id": "0RtXUejMiL0Q"
+      "id": "sari",
+      "name": "Sari"
     },
     {
-      "name": "Saveh",
-      "id": "q5CcovslXaVB"
+      "id": "saveh",
+      "name": "Saveh"
     },
     {
-      "name": "Semirom",
-      "id": "tlT6UmrklIxj"
+      "id": "semirom",
+      "name": "Semirom"
     },
     {
-      "name": "Semnan",
-      "id": "84gn0QT2mbAg"
+      "id": "semnan",
+      "name": "Semnan"
     },
     {
-      "name": "Sena",
-      "id": "FrY81gcOUJa1"
+      "id": "sena",
+      "name": "Sena"
     },
     {
-      "name": "Servan",
-      "id": "rwjnW4_ykDD6"
+      "id": "servan",
+      "name": "Servan"
     },
     {
-      "name": "Shadman",
-      "id": "SjdPLndpMMJo"
+      "id": "shadman",
+      "name": "Shadman"
     },
     {
-      "name": "Shahid",
-      "id": "KgT034LoiOFi"
+      "id": "shahid",
+      "name": "Shahid"
     },
     {
-      "name": "Shahid Chamran",
-      "id": "wGKwGiyVT0X2"
+      "id": "shahid-chamran",
+      "name": "Shahid Chamran"
     },
     {
-      "name": "Shahid Madani",
-      "id": "6nwpCXxVHXs-"
+      "id": "shahid-madani",
+      "name": "Shahid Madani"
     },
     {
-      "name": "Shahr",
-      "id": "ml-oS6sIu_p9"
+      "id": "shahr",
+      "name": "Shahr"
     },
     {
-      "name": "Shahrak",
-      "id": "ln9AnCEdCQq8"
+      "id": "shahrak",
+      "name": "Shahrak"
     },
     {
-      "name": "Shahrak-e Direh",
-      "id": "TU6GyibDw1Z6"
+      "id": "shahrak-e-direh",
+      "name": "Shahrak-e Direh"
     },
     {
-      "name": "Shahrak-e Milad",
-      "id": "sHam02yXrSU1"
+      "id": "shahrak-e-milad",
+      "name": "Shahrak-e Milad"
     },
     {
-      "name": "Shahrak-e Pars",
-      "id": "4umgwzanSr3q"
+      "id": "shahrak-e-pars",
+      "name": "Shahrak-e Pars"
     },
     {
-      "name": "Shahreza",
-      "id": "MFf3ua6ek_Nk"
+      "id": "shahreza",
+      "name": "Shahreza"
     },
     {
-      "name": "Shahriar",
-      "id": "8ml41F7qASyy"
+      "id": "shahriar",
+      "name": "Shahriar"
     },
     {
-      "name": "Shahrud",
-      "id": "fRukoX2wZDk4"
+      "id": "shahrud",
+      "name": "Shahrud"
     },
     {
-      "name": "Sharif",
-      "id": "EzpMETXt4zQJ"
+      "id": "sharif",
+      "name": "Sharif"
     },
     {
-      "name": "Shazand",
-      "id": "8Ohg7yVR3hQw"
+      "id": "shazand",
+      "name": "Shazand"
     },
     {
-      "name": "Shiraz",
-      "id": "GsnVRJs1jE3n"
+      "id": "shiraz",
+      "name": "Shiraz"
     },
     {
-      "name": "Shirvan",
-      "id": "1HoOqtkqfv00"
+      "id": "shirvan",
+      "name": "Shirvan"
     },
     {
-      "name": "Siahkal",
-      "id": "VtT8Jwnt85iy"
+      "id": "siahkal",
+      "name": "Siahkal"
     },
     {
-      "name": "Sirjan",
-      "id": "wjw38Z0aosEg"
+      "id": "sirjan",
+      "name": "Sirjan"
     },
     {
-      "name": "Sistan-e `Olya",
-      "id": "ufmyrIe4A1YJ"
+      "id": "sistan-e-olya",
+      "name": "Sistan-e `Olya"
     },
     {
-      "name": "Soltanabad",
-      "id": "6Y7716wzRlVg"
+      "id": "soltanabad",
+      "name": "Soltanabad"
     },
     {
-      "name": "Tabriz",
-      "id": "6J9_0zafIF0k"
+      "id": "tabriz",
+      "name": "Tabriz"
     },
     {
-      "name": "Taha",
-      "id": "hZSsnpL04olt"
+      "id": "taha",
+      "name": "Taha"
     },
     {
-      "name": "Takestan",
-      "id": "7_82imFi2TXa"
+      "id": "takestan",
+      "name": "Takestan"
     },
     {
-      "name": "Tiran",
-      "id": "UsTtArHAGYE2"
+      "id": "tiran",
+      "name": "Tiran"
     },
     {
-      "name": "Tonekabon",
-      "id": "JdMy8BlX03MN"
+      "id": "tonekabon",
+      "name": "Tonekabon"
     },
     {
-      "name": "Torkan",
-      "id": "FRGHJ8ydbBMI"
+      "id": "torkan",
+      "name": "Torkan"
     },
     {
-      "name": "Urmia",
-      "id": "oc3AEDN4QjHt"
+      "id": "urmia",
+      "name": "Urmia"
     },
     {
-      "name": "Vaj",
-      "id": "g3gPCkA2mDiQ"
+      "id": "vaj",
+      "name": "Vaj"
     },
     {
-      "name": "Valilu",
-      "id": "KeInJFNNoefP"
+      "id": "valilu",
+      "name": "Valilu"
     },
     {
-      "name": "Vandar",
-      "id": "e30rLfB1GHK0"
+      "id": "vandar",
+      "name": "Vandar"
     },
     {
-      "name": "Varamin",
-      "id": "TtHG8sGACz-M"
+      "id": "varamin",
+      "name": "Varamin"
     },
     {
-      "name": "Wahna",
-      "id": "uVFGYw1fPSq2"
+      "id": "wahna",
+      "name": "Wahna"
     },
     {
-      "name": "Yasuj",
-      "id": "o6BNLy2vhty5"
+      "id": "yasuj",
+      "name": "Yasuj"
     },
     {
-      "name": "Yazd",
-      "id": "te4P2Zro8mUF"
+      "id": "yazd",
+      "name": "Yazd"
     },
     {
-      "name": "Zabol",
-      "id": "urr0Y0Sx1v3N"
+      "id": "zabol",
+      "name": "Zabol"
     },
     {
-      "name": "Zahedan",
-      "id": "3hx21ZRgTHcw"
+      "id": "zahedan",
+      "name": "Zahedan"
     },
     {
-      "name": "Zahra",
-      "id": "g-V34nA4GLjn"
+      "id": "zahra",
+      "name": "Zahra"
     },
     {
-      "name": "Zangiabad",
-      "id": "BVMVt11QLk3V"
+      "id": "zangiabad",
+      "name": "Zangiabad"
     },
     {
-      "name": "Zanjan",
-      "id": "1NGKKwiGg5Uu"
+      "id": "zanjan",
+      "name": "Zanjan"
     },
     {
-      "name": "Zarand",
-      "id": "AtDw9najYviE"
+      "id": "zarand",
+      "name": "Zarand"
     }
   ]
 }

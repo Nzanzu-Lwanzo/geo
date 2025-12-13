@@ -2,36 +2,36 @@
   "coid": "MZ",
   "cities": [
     {
-      "name": "Beira",
-      "id": "HDpYwyeQkVAr"
+      "id": "beira",
+      "name": "Beira"
     },
     {
-      "name": "Maputo",
-      "id": "ChR_t2xsmKD3"
+      "id": "maputo",
+      "name": "Maputo"
     },
     {
-      "name": "Matola",
-      "id": "dYNtL2-byju0"
+      "id": "matola",
+      "name": "Matola"
     },
     {
-      "name": "Mozambique",
-      "id": "D7WXbDUEHAQd"
+      "id": "mozambique",
+      "name": "Mozambique"
     },
     {
-      "name": "Nampula",
-      "id": "LXiGFhzViMYj"
+      "id": "nampula",
+      "name": "Nampula"
     },
     {
-      "name": "Pemba",
-      "id": "gUHwwEK7NGMf"
+      "id": "pemba",
+      "name": "Pemba"
     },
     {
-      "name": "Quelimane",
-      "id": "TUY1hVxogEom"
+      "id": "quelimane",
+      "name": "Quelimane"
     },
     {
-      "name": "Tete",
-      "id": "vxpiP3_COTRM"
+      "id": "tete",
+      "name": "Tete"
     }
   ]
 }

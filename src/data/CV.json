@@ -2,44 +2,44 @@
   "coid": "CV",
   "cities": [
     {
-      "name": "Praia",
-      "id": "ZH-2EJ_vE6iG"
+      "id": "praia",
+      "name": "Praia"
     },
     {
-      "name": "Mindelo",
-      "id": "4tn6TSs4q5iN"
+      "id": "mindelo",
+      "name": "Mindelo"
     },
     {
-      "name": "Santa Maria",
-      "id": "xMQz_ratSiPe"
+      "id": "santa-maria",
+      "name": "Santa Maria"
     },
     {
-      "name": "Espargos",
-      "id": "KxF-poRfCF8k"
+      "id": "espargos",
+      "name": "Espargos"
     },
     {
-      "name": "Assomada",
-      "id": "FgTZaYxBp-44"
+      "id": "assomada",
+      "name": "Assomada"
     },
     {
-      "name": "Tarrafal",
-      "id": "URzKvDlSFVWe"
+      "id": "tarrafal",
+      "name": "Tarrafal"
     },
     {
-      "name": "São Filipe",
-      "id": "z98PameGML0a"
+      "id": "sao-filipe",
+      "name": "São Filipe"
     },
     {
-      "name": "Porto Novo",
-      "id": "p2epJxEkKQu8"
+      "id": "porto-novo",
+      "name": "Porto Novo"
     },
     {
-      "name": "Ribeira Grande",
-      "id": "tbUkPRMSpM22"
+      "id": "ribeira-grande",
+      "name": "Ribeira Grande"
     },
     {
-      "name": "Calheta de São Miguel",
-      "id": "2sfFPD9-gCy5"
+      "id": "calheta-de-sao-miguel",
+      "name": "Calheta de São Miguel"
     }
   ]
 }

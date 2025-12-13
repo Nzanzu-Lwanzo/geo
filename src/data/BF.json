@@ -2,44 +2,44 @@
   "coid": "BF",
   "cities": [
     {
-      "name": "Ouagadougou",
-      "id": "KjRfrJOux1Q3"
+      "id": "ouagadougou",
+      "name": "Ouagadougou"
     },
     {
-      "name": "Bobo-Dioulasso",
-      "id": "BBSJyMk2EEp0"
+      "id": "bobo-dioulasso",
+      "name": "Bobo-Dioulasso"
     },
     {
-      "name": "Koudougou",
-      "id": "pQbEaRlHWzfD"
+      "id": "koudougou",
+      "name": "Koudougou"
     },
     {
-      "name": "Banfora",
-      "id": "mlXiK88KJhah"
+      "id": "banfora",
+      "name": "Banfora"
     },
     {
-      "name": "Ouahigouya",
-      "id": "Zs4LHjPwb1dl"
+      "id": "ouahigouya",
+      "name": "Ouahigouya"
     },
     {
-      "name": "Tenkodogo",
-      "id": "fF-VBLmXXfHK"
+      "id": "tenkodogo",
+      "name": "Tenkodogo"
     },
     {
-      "name": "Houndé",
-      "id": "fDEBr5SQKwMJ"
+      "id": "hounde",
+      "name": "Houndé"
     },
     {
-      "name": "Fada N’Gourma",
-      "id": "tQNlOVWySRny"
+      "id": "fada-ngourma",
+      "name": "Fada N’Gourma"
     },
     {
-      "name": "Kaya",
-      "id": "r3NrOj4QsQGo"
+      "id": "kaya",
+      "name": "Kaya"
     },
     {
-      "name": "Dédougou",
-      "id": "Qtayg_dA2s-l"
+      "id": "dedougou",
+      "name": "Dédougou"
     }
   ]
 }

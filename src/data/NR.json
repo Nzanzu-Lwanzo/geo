@@ -2,44 +2,44 @@
   "coid": "NR",
   "cities": [
     {
-      "name": "Yaren",
-      "id": "bKdR09FIXOzB"
+      "id": "yaren",
+      "name": "Yaren"
     },
     {
-      "name": "Denigomodu",
-      "id": "dY11-szAKeP5"
+      "id": "denigomodu",
+      "name": "Denigomodu"
     },
     {
-      "name": "Aiwo",
-      "id": "irSe7YVfBCJ8"
+      "id": "aiwo",
+      "name": "Aiwo"
     },
     {
-      "name": "Anabar",
-      "id": "2YPpFXtuHrCW"
+      "id": "anabar",
+      "name": "Anabar"
     },
     {
-      "name": "Anetan",
-      "id": "r6qvmLnAVry_"
+      "id": "anetan",
+      "name": "Anetan"
     },
     {
-      "name": "Anibare",
-      "id": "d_AJltnnKkud"
+      "id": "anibare",
+      "name": "Anibare"
     },
     {
-      "name": "Baiti",
-      "id": "uVl991K9pZck"
+      "id": "baiti",
+      "name": "Baiti"
     },
     {
-      "name": "Boe",
-      "id": "OPT17OZ4u97S"
+      "id": "boe",
+      "name": "Boe"
     },
     {
-      "name": "Buada",
-      "id": "NkXuvsIN-x9Q"
+      "id": "buada",
+      "name": "Buada"
     },
     {
-      "name": "Nibok",
-      "id": "j7VKCnRSz8Hk"
+      "id": "nibok",
+      "name": "Nibok"
     }
   ]
 }

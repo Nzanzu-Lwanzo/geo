@@ -2,72 +2,72 @@
   "coid": "JM",
   "cities": [
     {
-      "name": "Black River",
-      "id": "woG660y6k8XD"
+      "id": "black-river",
+      "name": "Black River"
     },
     {
-      "name": "Browns Town",
-      "id": "GrlBK0ggZhUL"
+      "id": "browns-town",
+      "name": "Browns Town"
     },
     {
-      "name": "Gordon Town",
-      "id": "6fr6SkBAfJm5"
+      "id": "gordon-town",
+      "name": "Gordon Town"
     },
     {
-      "name": "Gregory Park",
-      "id": "_aHpML_SYs-h"
+      "id": "gregory-park",
+      "name": "Gregory Park"
     },
     {
-      "name": "Kingston",
-      "id": "pb95h-8k1KAg"
+      "id": "kingston",
+      "name": "Kingston"
     },
     {
-      "name": "Mandeville",
-      "id": "nzmN7xYB4eCk"
+      "id": "mandeville",
+      "name": "Mandeville"
     },
     {
-      "name": "May Pen",
-      "id": "NIUIWFr6S6xN"
+      "id": "may-pen",
+      "name": "May Pen"
     },
     {
-      "name": "Moneague",
-      "id": "Sr4AnScs3sZh"
+      "id": "moneague",
+      "name": "Moneague"
     },
     {
-      "name": "Montego Bay",
-      "id": "-v2sUu7BiNai"
+      "id": "montego-bay",
+      "name": "Montego Bay"
     },
     {
-      "name": "Negril",
-      "id": "RCTizJr-gMe9"
+      "id": "negril",
+      "name": "Negril"
     },
     {
-      "name": "Ocho Rios",
-      "id": "XGLuiJQPOrE7"
+      "id": "ocho-rios",
+      "name": "Ocho Rios"
     },
     {
-      "name": "Old Harbour",
-      "id": "hXovHHm9c6FW"
+      "id": "old-harbour",
+      "name": "Old Harbour"
     },
     {
-      "name": "Port Maria",
-      "id": "7zobDAMt8M9k"
+      "id": "port-maria",
+      "name": "Port Maria"
     },
     {
-      "name": "Portland Cottage",
-      "id": "rjCyYNE_uiXY"
+      "id": "portland-cottage",
+      "name": "Portland Cottage"
     },
     {
-      "name": "Portmore",
-      "id": "K2FbQc45AAiX"
+      "id": "portmore",
+      "name": "Portmore"
     },
     {
-      "name": "Runaway Bay",
-      "id": "qeZhcDH4SiMH"
+      "id": "runaway-bay",
+      "name": "Runaway Bay"
     },
     {
-      "name": "Spanish Town",
-      "id": "a1NEGFH9A2MT"
+      "id": "spanish-town",
+      "name": "Spanish Town"
     }
   ]
 }

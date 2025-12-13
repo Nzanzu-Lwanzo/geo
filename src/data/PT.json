@@ -2,2696 +2,2696 @@
   "coid": "PT",
   "cities": [
     {
-      "name": "Abobada",
-      "id": "03100tOnz8SO"
+      "id": "abobada",
+      "name": "Abobada"
     },
     {
-      "name": "Abrantes",
-      "id": "KcfF7mWfRHfF"
+      "id": "abrantes",
+      "name": "Abrantes"
     },
     {
-      "name": "Acores",
-      "id": "oGOPtIlFITuB"
+      "id": "acores",
+      "name": "Acores"
     },
     {
-      "name": "Aguada de Cima",
-      "id": "Q0RRfH7QZFtw"
+      "id": "aguada-de-cima",
+      "name": "Aguada de Cima"
     },
     {
-      "name": "Agualva",
-      "id": "8lETa-tXt-Mu"
+      "id": "agualva",
+      "name": "Agualva"
     },
     {
-      "name": "Agucadoura",
-      "id": "-nZO8EnQsI5e"
+      "id": "agucadoura",
+      "name": "Agucadoura"
     },
     {
-      "name": "Aguiar da Beira Municipality",
-      "id": "irngYC4TeP4d"
+      "id": "aguiar-da-beira-municipality",
+      "name": "Aguiar da Beira Municipality"
     },
     {
-      "name": "Alandroal",
-      "id": "YNUTFYuZnBm0"
+      "id": "alandroal",
+      "name": "Alandroal"
     },
     {
-      "name": "Albergaria-a-Velha",
-      "id": "FuT4Cq-a0I4K"
+      "id": "albergaria-a-velha",
+      "name": "Albergaria-a-Velha"
     },
     {
-      "name": "Albufeira",
-      "id": "wanAzbpldEHL"
+      "id": "albufeira",
+      "name": "Albufeira"
     },
     {
-      "name": "Alcabideche",
-      "id": "_N9JYx0dXdsU"
+      "id": "alcabideche",
+      "name": "Alcabideche"
     },
     {
-      "name": "Alcacer do Sal",
-      "id": "mQR9JfuBH8JT"
+      "id": "alcacer-do-sal",
+      "name": "Alcacer do Sal"
     },
     {
-      "name": "Alcains",
-      "id": "bJO3hQSZUfws"
+      "id": "alcains",
+      "name": "Alcains"
     },
     {
-      "name": "Alcanede",
-      "id": "rwTElZGzXVHu"
+      "id": "alcanede",
+      "name": "Alcanede"
     },
     {
-      "name": "Alcanena",
-      "id": "SotyrixzBKHx"
+      "id": "alcanena",
+      "name": "Alcanena"
     },
     {
-      "name": "Alcobaca",
-      "id": "L9k_nHgoUdQ3"
+      "id": "alcobaca",
+      "name": "Alcobaca"
     },
     {
-      "name": "Alcochete",
-      "id": "59LI15E1U1E_"
+      "id": "alcochete",
+      "name": "Alcochete"
     },
     {
-      "name": "Alcoentre",
-      "id": "uVO6PDFw1HHZ"
+      "id": "alcoentre",
+      "name": "Alcoentre"
     },
     {
-      "name": "Aldeia de Paio Pires",
-      "id": "SwM1LMCSewVf"
+      "id": "aldeia-de-paio-pires",
+      "name": "Aldeia de Paio Pires"
     },
     {
-      "name": "Aldeia do Meio",
-      "id": "DddSsiE6mpyf"
+      "id": "aldeia-do-meio",
+      "name": "Aldeia do Meio"
     },
     {
-      "name": "Aldeia dos Fernandes",
-      "id": "aYRMTdRzTahs"
+      "id": "aldeia-dos-fernandes",
+      "name": "Aldeia dos Fernandes"
     },
     {
-      "name": "Alenquer",
-      "id": "yn1nKmJLbuff"
+      "id": "alenquer",
+      "name": "Alenquer"
     },
     {
-      "name": "Alfarelos",
-      "id": "BFa17nt6OzCQ"
+      "id": "alfarelos",
+      "name": "Alfarelos"
     },
     {
-      "name": "Alfena",
-      "id": "FIaICy5L2L5M"
+      "id": "alfena",
+      "name": "Alfena"
     },
     {
-      "name": "Alfornelos",
-      "id": "1MBCZqfPOD1x"
+      "id": "alfornelos",
+      "name": "Alfornelos"
     },
     {
-      "name": "Alfragide",
-      "id": "jEcSxAIDlNHk"
+      "id": "alfragide",
+      "name": "Alfragide"
     },
     {
-      "name": "Alges",
-      "id": "DtJVr4n7LjdQ"
+      "id": "alges",
+      "name": "Alges"
     },
     {
-      "name": "Algoz",
-      "id": "Y3mM1BsW54FS"
+      "id": "algoz",
+      "name": "Algoz"
     },
     {
-      "name": "Algueirao",
-      "id": "hFgm-0wAdwER"
+      "id": "algueirao",
+      "name": "Algueirao"
     },
     {
-      "name": "Alhandra",
-      "id": "sIC54JkNvIUD"
+      "id": "alhandra",
+      "name": "Alhandra"
     },
     {
-      "name": "Alhos Vedros",
-      "id": "mVefGSS1dHrd"
+      "id": "alhos-vedros",
+      "name": "Alhos Vedros"
     },
     {
-      "name": "Aljezur",
-      "id": "7DzcXNrr7BdJ"
+      "id": "aljezur",
+      "name": "Aljezur"
     },
     {
-      "name": "Aljustrel",
-      "id": "pSgYlcG41Hsw"
+      "id": "aljustrel",
+      "name": "Aljustrel"
     },
     {
-      "name": "Almada",
-      "id": "jYXl6S4FIMRk"
+      "id": "almada",
+      "name": "Almada"
     },
     {
-      "name": "Almancil",
-      "id": "UXvNVS5F6X7-"
+      "id": "almancil",
+      "name": "Almancil"
     },
     {
-      "name": "Almargem",
-      "id": "HKHAHtltyujk"
+      "id": "almargem",
+      "name": "Almargem"
     },
     {
-      "name": "Almeirim",
-      "id": "L_MkuoePuSn3"
+      "id": "almeirim",
+      "name": "Almeirim"
     },
     {
-      "name": "Almodovar",
-      "id": "0-vRvG52JxXr"
+      "id": "almodovar",
+      "name": "Almodovar"
     },
     {
-      "name": "Alpiarca",
-      "id": "N5rKKaQbtBns"
+      "id": "alpiarca",
+      "name": "Alpiarca"
     },
     {
-      "name": "Alportel",
-      "id": "lE06C91VW-qW"
+      "id": "alportel",
+      "name": "Alportel"
     },
     {
-      "name": "Alqueidao da Serra",
-      "id": "ZxDgnzQGRBat"
+      "id": "alqueidao-da-serra",
+      "name": "Alqueidao da Serra"
     },
     {
-      "name": "Alter do Chao",
-      "id": "FpboCRIMgDeS"
+      "id": "alter-do-chao",
+      "name": "Alter do Chao"
     },
     {
-      "name": "Altura",
-      "id": "dbbtZkkSvMr2"
+      "id": "altura",
+      "name": "Altura"
     },
     {
-      "name": "Alvaiazere",
-      "id": "3c6itTuDCkwk"
+      "id": "alvaiazere",
+      "name": "Alvaiazere"
     },
     {
-      "name": "Alvarinhos",
-      "id": "kdVTgCC-HKZK"
+      "id": "alvarinhos",
+      "name": "Alvarinhos"
     },
     {
-      "name": "Alvelos",
-      "id": "xeQiNrSHiOBf"
+      "id": "alvelos",
+      "name": "Alvelos"
     },
     {
-      "name": "Alverca",
-      "id": "OuvGd0ZNoODO"
+      "id": "alverca",
+      "name": "Alverca"
     },
     {
-      "name": "Amadora",
-      "id": "wtWFts5QIKQc"
+      "id": "amadora",
+      "name": "Amadora"
     },
     {
-      "name": "Amarante",
-      "id": "gbV3L6G-e3kk"
+      "id": "amarante",
+      "name": "Amarante"
     },
     {
-      "name": "Amares",
-      "id": "OGOO52aznuLe"
+      "id": "amares",
+      "name": "Amares"
     },
     {
-      "name": "Amiaes de Cima",
-      "id": "SAHDNr2DgvQ_"
+      "id": "amiaes-de-cima",
+      "name": "Amiaes de Cima"
     },
     {
-      "name": "Amor",
-      "id": "97POu8AoaPyC"
+      "id": "amor",
+      "name": "Amor"
     },
     {
-      "name": "Amora",
-      "id": "4hz6y9LDI67y"
+      "id": "amora",
+      "name": "Amora"
     },
     {
-      "name": "Amoreira",
-      "id": "H43bZvkdkikv"
+      "id": "amoreira",
+      "name": "Amoreira"
     },
     {
-      "name": "Amorim",
-      "id": "73-BYvM_BpCq"
+      "id": "amorim",
+      "name": "Amorim"
     },
     {
-      "name": "Anadia",
-      "id": "B9ipYE_gavf2"
+      "id": "anadia",
+      "name": "Anadia"
     },
     {
-      "name": "Anta",
-      "id": "A8RHEuo-2X33"
+      "id": "anta",
+      "name": "Anta"
     },
     {
-      "name": "Apulia",
-      "id": "ZRTUTgIYPlqm"
+      "id": "apulia",
+      "name": "Apulia"
     },
     {
-      "name": "Arazede",
-      "id": "YD-Po7vr5Li1"
+      "id": "arazede",
+      "name": "Arazede"
     },
     {
-      "name": "Arco da Calheta",
-      "id": "eKnl_qvUiH3P"
+      "id": "arco-da-calheta",
+      "name": "Arco da Calheta"
     },
     {
-      "name": "Arcos de Valdevez",
-      "id": "DjMF7YxVQSmd"
+      "id": "arcos-de-valdevez",
+      "name": "Arcos de Valdevez"
     },
     {
-      "name": "Arcozelo",
-      "id": "OZGmxOcuWJoT"
+      "id": "arcozelo",
+      "name": "Arcozelo"
     },
     {
-      "name": "Arganil",
-      "id": "JnpdpxzCV1AA"
+      "id": "arganil",
+      "name": "Arganil"
     },
     {
-      "name": "Argoncilhe",
-      "id": "L0Yknlja8HIU"
+      "id": "argoncilhe",
+      "name": "Argoncilhe"
     },
     {
-      "name": "Armacao de Pera",
-      "id": "itLSHrPkqa82"
+      "id": "armacao-de-pera",
+      "name": "Armacao de Pera"
     },
     {
-      "name": "Arouca",
-      "id": "1hJalxrpCvks"
+      "id": "arouca",
+      "name": "Arouca"
     },
     {
-      "name": "Arraiolos",
-      "id": "4uv6h4Zb-Qgt"
+      "id": "arraiolos",
+      "name": "Arraiolos"
     },
     {
-      "name": "Arrifana",
-      "id": "TqdgUiUfkmr4"
+      "id": "arrifana",
+      "name": "Arrifana"
     },
     {
-      "name": "Arronches",
-      "id": "mCQf1fJUxGxx"
+      "id": "arronches",
+      "name": "Arronches"
     },
     {
-      "name": "Arruda dos Vinhos",
-      "id": "d9uez_ZCB__Q"
+      "id": "arruda-dos-vinhos",
+      "name": "Arruda dos Vinhos"
     },
     {
-      "name": "Arvore",
-      "id": "-xGi584Pu0HW"
+      "id": "arvore",
+      "name": "Arvore"
     },
     {
-      "name": "Assumar",
-      "id": "VAEc8429lX9N"
+      "id": "assumar",
+      "name": "Assumar"
     },
     {
-      "name": "Atalaia",
-      "id": "KBrxvLXUQAzg"
+      "id": "atalaia",
+      "name": "Atalaia"
     },
     {
-      "name": "Atouguia da Baleia",
-      "id": "aTuSJ7aGpEKL"
+      "id": "atouguia-da-baleia",
+      "name": "Atouguia da Baleia"
     },
     {
-      "name": "Avanca",
-      "id": "MJ6QraKzBjLE"
+      "id": "avanca",
+      "name": "Avanca"
     },
     {
-      "name": "Aveiras de Cima",
-      "id": "Bz5aadZn4SqQ"
+      "id": "aveiras-de-cima",
+      "name": "Aveiras de Cima"
     },
     {
-      "name": "Aveiro",
-      "id": "mr89YmFa8eam"
+      "id": "aveiro",
+      "name": "Aveiro"
     },
     {
-      "name": "Avelar",
-      "id": "4hf8uQP5K-bJ"
+      "id": "avelar",
+      "name": "Avelar"
     },
     {
-      "name": "Avidos",
-      "id": "tgI5XWoNyeQS"
+      "id": "avidos",
+      "name": "Avidos"
     },
     {
-      "name": "Avintes",
-      "id": "572EU6jHItZC"
+      "id": "avintes",
+      "name": "Avintes"
     },
     {
-      "name": "Azoia",
-      "id": "HjFLgkH8eiAL"
+      "id": "azoia",
+      "name": "Azoia"
     },
     {
-      "name": "Azueira",
-      "id": "MLTPNUAU5DfK"
+      "id": "azueira",
+      "name": "Azueira"
     },
     {
-      "name": "Azurem",
-      "id": "sRHqXRjmnhnt"
+      "id": "azurem",
+      "name": "Azurem"
     },
     {
-      "name": "Baguim",
-      "id": "aftBQK8Z-SXq"
+      "id": "baguim",
+      "name": "Baguim"
     },
     {
-      "name": "Baguim do Monte",
-      "id": "gwAMII2P-6Ft"
+      "id": "baguim-do-monte",
+      "name": "Baguim do Monte"
     },
     {
-      "name": "Baleia",
-      "id": "muLYiKK1rCAe"
+      "id": "baleia",
+      "name": "Baleia"
     },
     {
-      "name": "Baltar",
-      "id": "usYlj59ZkO2x"
+      "id": "baltar",
+      "name": "Baltar"
     },
     {
-      "name": "Barcarena",
-      "id": "0DAZpGA7qlmF"
+      "id": "barcarena",
+      "name": "Barcarena"
     },
     {
-      "name": "Barcelos",
-      "id": "zKPkTMxIocIs"
+      "id": "barcelos",
+      "name": "Barcelos"
     },
     {
-      "name": "Barreiro",
-      "id": "OIDFHMzigsSH"
+      "id": "barreiro",
+      "name": "Barreiro"
     },
     {
-      "name": "Barrosas",
-      "id": "ljdXEF7UgwnA"
+      "id": "barrosas",
+      "name": "Barrosas"
     },
     {
-      "name": "Basto",
-      "id": "mnQxed5n_zwH"
+      "id": "basto",
+      "name": "Basto"
     },
     {
-      "name": "Batalha",
-      "id": "ol7aY0qsAyon"
+      "id": "batalha",
+      "name": "Batalha"
     },
     {
-      "name": "Beira",
-      "id": "zrKSb3DsSLnA"
+      "id": "beira",
+      "name": "Beira"
     },
     {
-      "name": "Beja",
-      "id": "Mb5H1Bv3wIoT"
+      "id": "beja",
+      "name": "Beja"
     },
     {
-      "name": "Belas",
-      "id": "JtrnNAEG9ApD"
+      "id": "belas",
+      "name": "Belas"
     },
     {
-      "name": "Belmonte",
-      "id": "qNgz_DILIdF8"
+      "id": "belmonte",
+      "name": "Belmonte"
     },
     {
-      "name": "Bemfica",
-      "id": "-NXsdrZXccw4"
+      "id": "bemfica",
+      "name": "Bemfica"
     },
     {
-      "name": "Benafim",
-      "id": "jK-ypz9bOuDz"
+      "id": "benafim",
+      "name": "Benafim"
     },
     {
-      "name": "Benavente",
-      "id": "pkVzXeKkdj9l"
+      "id": "benavente",
+      "name": "Benavente"
     },
     {
-      "name": "Benedita",
-      "id": "yKYJ2bQD8Eap"
+      "id": "benedita",
+      "name": "Benedita"
     },
     {
-      "name": "Bicesse",
-      "id": "uFlEY4OQfJec"
+      "id": "bicesse",
+      "name": "Bicesse"
     },
     {
-      "name": "Bico",
-      "id": "g9BL9aMkFrOa"
+      "id": "bico",
+      "name": "Bico"
     },
     {
-      "name": "Boavista",
-      "id": "gGtyb5wfdQBT"
+      "id": "boavista",
+      "name": "Boavista"
     },
     {
-      "name": "Bobadela",
-      "id": "vtTNOYfhQ5Vu"
+      "id": "bobadela",
+      "name": "Bobadela"
     },
     {
-      "name": "Boliqueime",
-      "id": "0TgY9ZR3HOvL"
+      "id": "boliqueime",
+      "name": "Boliqueime"
     },
     {
-      "name": "Bombarral",
-      "id": "GNANFHSjpQmb"
+      "id": "bombarral",
+      "name": "Bombarral"
     },
     {
-      "name": "Borba",
-      "id": "EkD1CRbx467b"
+      "id": "borba",
+      "name": "Borba"
     },
     {
-      "name": "Boticas",
-      "id": "dnBRsPWT2uhR"
+      "id": "boticas",
+      "name": "Boticas"
     },
     {
-      "name": "Bouca",
-      "id": "2_n8G-PUtEtx"
+      "id": "bouca",
+      "name": "Bouca"
     },
     {
-      "name": "Braga",
-      "id": "QdQg1txA4Zzz"
+      "id": "braga",
+      "name": "Braga"
     },
     {
-      "name": "Braganca",
-      "id": "_JIBulWdFQRe"
+      "id": "braganca",
+      "name": "Braganca"
     },
     {
-      "name": "Brito",
-      "id": "MA8JpTsEc6Yf"
+      "id": "brito",
+      "name": "Brito"
     },
     {
-      "name": "Bucelas",
-      "id": "T7x8K6AW2sPv"
+      "id": "bucelas",
+      "name": "Bucelas"
     },
     {
-      "name": "Buraca",
-      "id": "PSCMOGHm_PhP"
+      "id": "buraca",
+      "name": "Buraca"
     },
     {
-      "name": "Cabanelas",
-      "id": "jbI_koiFcD1C"
+      "id": "cabanelas",
+      "name": "Cabanelas"
     },
     {
-      "name": "Cabeceiras de Basto",
-      "id": "aDFlFw7o6rzd"
+      "id": "cabeceiras-de-basto",
+      "name": "Cabeceiras de Basto"
     },
     {
-      "name": "Cabeco de Vide",
-      "id": "ATMDAO2o13IF"
+      "id": "cabeco-de-vide",
+      "name": "Cabeco de Vide"
     },
     {
-      "name": "Cabecudos",
-      "id": "YwwexspjwDcr"
+      "id": "cabecudos",
+      "name": "Cabecudos"
     },
     {
-      "name": "Cabrela",
-      "id": "AWX6f3h95pTS"
+      "id": "cabrela",
+      "name": "Cabrela"
     },
     {
-      "name": "Cacela",
-      "id": "woBlMMyhy9-4"
+      "id": "cacela",
+      "name": "Cacela"
     },
     {
-      "name": "Cacem",
-      "id": "9oE-hBbG9lCQ"
+      "id": "cacem",
+      "name": "Cacem"
     },
     {
-      "name": "Cacilhas",
-      "id": "z-LcTB9p6fbY"
+      "id": "cacilhas",
+      "name": "Cacilhas"
     },
     {
-      "name": "Cadaval",
-      "id": "ByRG71SBtFvN"
+      "id": "cadaval",
+      "name": "Cadaval"
     },
     {
-      "name": "Caldas",
-      "id": "BXqbDh2M7pIC"
+      "id": "caldas",
+      "name": "Caldas"
     },
     {
-      "name": "Caldas da Rainha",
-      "id": "HgtXNdHAwXzA"
+      "id": "caldas-da-rainha",
+      "name": "Caldas da Rainha"
     },
     {
-      "name": "Caldas das Taipas",
-      "id": "zKPl_Tw4J7p8"
+      "id": "caldas-das-taipas",
+      "name": "Caldas das Taipas"
     },
     {
-      "name": "Caldas de Sao Jorge",
-      "id": "xsG_OqWlvyl3"
+      "id": "caldas-de-sao-jorge",
+      "name": "Caldas de Sao Jorge"
     },
     {
-      "name": "Caldas de Vizela",
-      "id": "WXKw5x0_vk8f"
+      "id": "caldas-de-vizela",
+      "name": "Caldas de Vizela"
     },
     {
-      "name": "Calvao",
-      "id": "myuWEFFxd6F1"
+      "id": "calvao",
+      "name": "Calvao"
     },
     {
-      "name": "Calvaria de Cima",
-      "id": "ZDkp72hZlXzh"
+      "id": "calvaria-de-cima",
+      "name": "Calvaria de Cima"
     },
     {
-      "name": "Camarate",
-      "id": "haO0MO3F2JPz"
+      "id": "camarate",
+      "name": "Camarate"
     },
     {
-      "name": "Caminha",
-      "id": "HcXI8Jzm88je"
+      "id": "caminha",
+      "name": "Caminha"
     },
     {
-      "name": "Campanario",
-      "id": "vj2gd-vFyeWJ"
+      "id": "campanario",
+      "name": "Campanario"
     },
     {
-      "name": "Campia",
-      "id": "sLrSx3QAMK7N"
+      "id": "campia",
+      "name": "Campia"
     },
     {
-      "name": "Campinho",
-      "id": "BuqYDG3E12NE"
+      "id": "campinho",
+      "name": "Campinho"
     },
     {
-      "name": "Campo",
-      "id": "ku5BC1FUZ94u"
+      "id": "campo",
+      "name": "Campo"
     },
     {
-      "name": "Campo Maior",
-      "id": "0c4nUGbqBoHn"
+      "id": "campo-maior",
+      "name": "Campo Maior"
     },
     {
-      "name": "Canecas",
-      "id": "6kL2_Wi2wS1g"
+      "id": "canecas",
+      "name": "Canecas"
     },
     {
-      "name": "Canedo",
-      "id": "OabueER0ri2v"
+      "id": "canedo",
+      "name": "Canedo"
     },
     {
-      "name": "Canelas",
-      "id": "nbZBsN3_qDdv"
+      "id": "canelas",
+      "name": "Canelas"
     },
     {
-      "name": "Canhas",
-      "id": "F2DZEPoAyVUA"
+      "id": "canhas",
+      "name": "Canhas"
     },
     {
-      "name": "Canical",
-      "id": "gO8WXsZchwew"
+      "id": "canical",
+      "name": "Canical"
     },
     {
-      "name": "Canico",
-      "id": "V-v4po5pENIo"
+      "id": "canico",
+      "name": "Canico"
     },
     {
-      "name": "Canidelo",
-      "id": "ZfZGk9-xhJfQ"
+      "id": "canidelo",
+      "name": "Canidelo"
     },
     {
-      "name": "Cano",
-      "id": "wQRwhna4Rw4D"
+      "id": "cano",
+      "name": "Cano"
     },
     {
-      "name": "Cantanhede",
-      "id": "jDMQ-nYVC_K8"
+      "id": "cantanhede",
+      "name": "Cantanhede"
     },
     {
-      "name": "Caparica",
-      "id": "OjmvRWBfQuyM"
+      "id": "caparica",
+      "name": "Caparica"
     },
     {
-      "name": "Caramulo",
-      "id": "SB7E3CM-D2ha"
+      "id": "caramulo",
+      "name": "Caramulo"
     },
     {
-      "name": "Carapinheira",
-      "id": "EeydWqkCMCdP"
+      "id": "carapinheira",
+      "name": "Carapinheira"
     },
     {
-      "name": "Carcavelos",
-      "id": "kSrETrscFyU_"
+      "id": "carcavelos",
+      "name": "Carcavelos"
     },
     {
-      "name": "Carnaxide",
-      "id": "Iy4hNRjULdAB"
+      "id": "carnaxide",
+      "name": "Carnaxide"
     },
     {
-      "name": "Carrazedo",
-      "id": "nngcEXbvJ-_2"
+      "id": "carrazedo",
+      "name": "Carrazedo"
     },
     {
-      "name": "Carregado",
-      "id": "WcJmFsXDt8HG"
+      "id": "carregado",
+      "name": "Carregado"
     },
     {
-      "name": "Carrico",
-      "id": "TuTiB4nK_om7"
+      "id": "carrico",
+      "name": "Carrico"
     },
     {
-      "name": "Cartaxo",
-      "id": "mCDzunYFrWtL"
+      "id": "cartaxo",
+      "name": "Cartaxo"
     },
     {
-      "name": "Carvalhal",
-      "id": "pNhjmt67Ww8F"
+      "id": "carvalhal",
+      "name": "Carvalhal"
     },
     {
-      "name": "Carvalho",
-      "id": "CVdDh95eMfIn"
+      "id": "carvalho",
+      "name": "Carvalho"
     },
     {
-      "name": "Carvalhosa",
-      "id": "_PkSyhkIJqvU"
+      "id": "carvalhosa",
+      "name": "Carvalhosa"
     },
     {
-      "name": "Carvoeiro",
-      "id": "wkGMxF1qSGl8"
+      "id": "carvoeiro",
+      "name": "Carvoeiro"
     },
     {
-      "name": "Casal",
-      "id": "Ye-FCaF1TJSo"
+      "id": "casal",
+      "name": "Casal"
     },
     {
-      "name": "Casal da Areia",
-      "id": "Bl67cHV8Mg77"
+      "id": "casal-da-areia",
+      "name": "Casal da Areia"
     },
     {
-      "name": "Cascais",
-      "id": "IgVrR3XQQ4R2"
+      "id": "cascais",
+      "name": "Cascais"
     },
     {
-      "name": "Castanheira do Ribatejo",
-      "id": "e5Te5amaqYqg"
+      "id": "castanheira-do-ribatejo",
+      "name": "Castanheira do Ribatejo"
     },
     {
-      "name": "Castelejo",
-      "id": "avFYn5f55de1"
+      "id": "castelejo",
+      "name": "Castelejo"
     },
     {
-      "name": "Castelo",
-      "id": "kn3hVXc_4w6u"
+      "id": "castelo",
+      "name": "Castelo"
     },
     {
-      "name": "Castelo Branco",
-      "id": "iCUbs7P8HG0h"
+      "id": "castelo-branco",
+      "name": "Castelo Branco"
     },
     {
-      "name": "Castelo de Paiva",
-      "id": "kEC2oqOKJQZT"
+      "id": "castelo-de-paiva",
+      "name": "Castelo de Paiva"
     },
     {
-      "name": "Castro Daire",
-      "id": "PMswRCypRBFz"
+      "id": "castro-daire",
+      "name": "Castro Daire"
     },
     {
-      "name": "Castro Marim",
-      "id": "VQJ7ZU5pYvYp"
+      "id": "castro-marim",
+      "name": "Castro Marim"
     },
     {
-      "name": "Castro Verde Municipality",
-      "id": "ScoWJ8-fKzfq"
+      "id": "castro-verde-municipality",
+      "name": "Castro Verde Municipality"
     },
     {
-      "name": "Catraia de Sao Paio",
-      "id": "dV1meLAk_9pU"
+      "id": "catraia-de-sao-paio",
+      "name": "Catraia de Sao Paio"
     },
     {
-      "name": "Cavaleiros",
-      "id": "2YxV8Sl7Afrf"
+      "id": "cavaleiros",
+      "name": "Cavaleiros"
     },
     {
-      "name": "Cavaloes",
-      "id": "tdY3CwtSZWn_"
+      "id": "cavaloes",
+      "name": "Cavaloes"
     },
     {
-      "name": "Caxias",
-      "id": "joq36FNTdYmS"
+      "id": "caxias",
+      "name": "Caxias"
     },
     {
-      "name": "Ceira",
-      "id": "5JWY_QhZD8Wj"
+      "id": "ceira",
+      "name": "Ceira"
     },
     {
-      "name": "Celorico de Basto",
-      "id": "witBy4EZG-za"
+      "id": "celorico-de-basto",
+      "name": "Celorico de Basto"
     },
     {
-      "name": "Cercal",
-      "id": "5I6gt9EtEFNB"
+      "id": "cercal",
+      "name": "Cercal"
     },
     {
-      "name": "Cernache",
-      "id": "3c-K7Ckple3j"
+      "id": "cernache",
+      "name": "Cernache"
     },
     {
-      "name": "Cesar",
-      "id": "yGy2rbZrWiHs"
+      "id": "cesar",
+      "name": "Cesar"
     },
     {
-      "name": "Chao de Couce",
-      "id": "99VAsjWEgTCr"
+      "id": "chao-de-couce",
+      "name": "Chao de Couce"
     },
     {
-      "name": "Charneca",
-      "id": "zC8Bdk5fL4Te"
+      "id": "charneca",
+      "name": "Charneca"
     },
     {
-      "name": "Chaves",
-      "id": "L3amCEKyfvG9"
+      "id": "chaves",
+      "name": "Chaves"
     },
     {
-      "name": "Cidade",
-      "id": "YWIZ92lKwWTM"
+      "id": "cidade",
+      "name": "Cidade"
     },
     {
-      "name": "Cinfaes",
-      "id": "tGp_CHNKR8tR"
+      "id": "cinfaes",
+      "name": "Cinfaes"
     },
     {
-      "name": "Coimbra",
-      "id": "v6UlBELbiVwk"
+      "id": "coimbra",
+      "name": "Coimbra"
     },
     {
-      "name": "Colares",
-      "id": "XqEdyUqwuGFW"
+      "id": "colares",
+      "name": "Colares"
     },
     {
-      "name": "Colmeias",
-      "id": "eD_KjzWonbP0"
+      "id": "colmeias",
+      "name": "Colmeias"
     },
     {
-      "name": "Condeixa-a-Nova",
-      "id": "igdw9KfBMlNd"
+      "id": "condeixa-a-nova",
+      "name": "Condeixa-a-Nova"
     },
     {
-      "name": "Constance",
-      "id": "K58E-JHBGaX2"
+      "id": "constance",
+      "name": "Constance"
     },
     {
-      "name": "Constancia",
-      "id": "9jj1rFZ3Ervr"
+      "id": "constancia",
+      "name": "Constancia"
     },
     {
-      "name": "Corroios",
-      "id": "7AWPI5l61fhB"
+      "id": "corroios",
+      "name": "Corroios"
     },
     {
-      "name": "Cortegaca",
-      "id": "IoQdkTey4ZZQ"
+      "id": "cortegaca",
+      "name": "Cortegaca"
     },
     {
-      "name": "Costa de Caparica",
-      "id": "6fxAHzKGm369"
+      "id": "costa-de-caparica",
+      "name": "Costa de Caparica"
     },
     {
-      "name": "Costa de Lavos",
-      "id": "YLEoirg4Jt-l"
+      "id": "costa-de-lavos",
+      "name": "Costa de Lavos"
     },
     {
-      "name": "Covilha",
-      "id": "NcpfuGIs14Z7"
+      "id": "covilha",
+      "name": "Covilha"
     },
     {
-      "name": "Creixomil",
-      "id": "y9jyu3LGZjPc"
+      "id": "creixomil",
+      "name": "Creixomil"
     },
     {
-      "name": "Cruz Quebrada",
-      "id": "4a9qhzJB1eFw"
+      "id": "cruz-quebrada",
+      "name": "Cruz Quebrada"
     },
     {
-      "name": "Cuba",
-      "id": "GEyusEeO_MF6"
+      "id": "cuba",
+      "name": "Cuba"
     },
     {
-      "name": "Cucujaes",
-      "id": "VQ13sUu1JaA5"
+      "id": "cucujaes",
+      "name": "Cucujaes"
     },
     {
-      "name": "Dalvares",
-      "id": "_bCX5COSE_Dd"
+      "id": "dalvares",
+      "name": "Dalvares"
     },
     {
-      "name": "Damaia",
-      "id": "cPYXiyh-qava"
+      "id": "damaia",
+      "name": "Damaia"
     },
     {
-      "name": "Darque",
-      "id": "_2JWt5mn3dR_"
+      "id": "darque",
+      "name": "Darque"
     },
     {
-      "name": "Dois Portos",
-      "id": "rxv9utlHDA0i"
+      "id": "dois-portos",
+      "name": "Dois Portos"
     },
     {
-      "name": "Dona Maria",
-      "id": "jHSUinQVSuF7"
+      "id": "dona-maria",
+      "name": "Dona Maria"
     },
     {
-      "name": "Dossaos",
-      "id": "1VOZlPt8WiEN"
+      "id": "dossaos",
+      "name": "Dossaos"
     },
     {
-      "name": "Eixo",
-      "id": "Y_PdfQWztoIb"
+      "id": "eixo",
+      "name": "Eixo"
     },
     {
-      "name": "Elvas",
-      "id": "X0guDhso_4SD"
+      "id": "elvas",
+      "name": "Elvas"
     },
     {
-      "name": "Encarnacao",
-      "id": "yqcLK1pT-hT2"
+      "id": "encarnacao",
+      "name": "Encarnacao"
     },
     {
-      "name": "Entroncamento",
-      "id": "6_oU-zqrt-jR"
+      "id": "entroncamento",
+      "name": "Entroncamento"
     },
     {
-      "name": "Ericeira",
-      "id": "KoWjYsjxa1lo"
+      "id": "ericeira",
+      "name": "Ericeira"
     },
     {
-      "name": "Ermidas",
-      "id": "USS8JYpJQjfS"
+      "id": "ermidas",
+      "name": "Ermidas"
     },
     {
-      "name": "Escapaes",
-      "id": "C-V2mHvnxXEp"
+      "id": "escapaes",
+      "name": "Escapaes"
     },
     {
-      "name": "Escoural",
-      "id": "dt3dFy08sjB0"
+      "id": "escoural",
+      "name": "Escoural"
     },
     {
-      "name": "Esmoriz",
-      "id": "a_GwN0Y91N7r"
+      "id": "esmoriz",
+      "name": "Esmoriz"
     },
     {
-      "name": "Espinho",
-      "id": "R6xb7r3Vy2y_"
+      "id": "espinho",
+      "name": "Espinho"
     },
     {
-      "name": "Esposende",
-      "id": "8eGrp5cbzjlV"
+      "id": "esposende",
+      "name": "Esposende"
     },
     {
-      "name": "Estarreja",
-      "id": "GlRWOoXxm6Ds"
+      "id": "estarreja",
+      "name": "Estarreja"
     },
     {
-      "name": "Estoi",
-      "id": "N0YMn08ph0Ym"
+      "id": "estoi",
+      "name": "Estoi"
     },
     {
-      "name": "Estombar",
-      "id": "Qsj8bsn1TX1b"
+      "id": "estombar",
+      "name": "Estombar"
     },
     {
-      "name": "Estoril",
-      "id": "eSFbv99mZbyV"
+      "id": "estoril",
+      "name": "Estoril"
     },
     {
-      "name": "Estremoz",
-      "id": "qQUseiw6giGt"
+      "id": "estremoz",
+      "name": "Estremoz"
     },
     {
-      "name": "Evora",
-      "id": "qFhHzrwUifqi"
+      "id": "evora",
+      "name": "Evora"
     },
     {
-      "name": "Fafe",
-      "id": "9X6krvqd2OOG"
+      "id": "fafe",
+      "name": "Fafe"
     },
     {
-      "name": "Famoes",
-      "id": "vcsSe-3lQvNq"
+      "id": "famoes",
+      "name": "Famoes"
     },
     {
-      "name": "Fanzeres",
-      "id": "hI9NifELx6Y_"
+      "id": "fanzeres",
+      "name": "Fanzeres"
     },
     {
-      "name": "Fao",
-      "id": "IFohpHx0ikYc"
+      "id": "fao",
+      "name": "Fao"
     },
     {
-      "name": "Faro",
-      "id": "uwPiH3iipnYz"
+      "id": "faro",
+      "name": "Faro"
     },
     {
-      "name": "Feira",
-      "id": "YnPqF-wT9mVa"
+      "id": "feira",
+      "name": "Feira"
     },
     {
-      "name": "Felgueiras",
-      "id": "wE9b9aQOZ5ZT"
+      "id": "felgueiras",
+      "name": "Felgueiras"
     },
     {
-      "name": "Ferradosa",
-      "id": "AECujBcUwvDe"
+      "id": "ferradosa",
+      "name": "Ferradosa"
     },
     {
-      "name": "Ferreira",
-      "id": "pTMMrZ_xu6m9"
+      "id": "ferreira",
+      "name": "Ferreira"
     },
     {
-      "name": "Ferreira do Alentejo",
-      "id": "916vd9TrQqyZ"
+      "id": "ferreira-do-alentejo",
+      "name": "Ferreira do Alentejo"
     },
     {
-      "name": "Ferrel",
-      "id": "c1I0pt3jUEOa"
+      "id": "ferrel",
+      "name": "Ferrel"
     },
     {
-      "name": "Ferro",
-      "id": "Fm0XbnWNrGZ-"
+      "id": "ferro",
+      "name": "Ferro"
     },
     {
-      "name": "Fiaes",
-      "id": "YyCg2ID-V0sZ"
+      "id": "fiaes",
+      "name": "Fiaes"
     },
     {
-      "name": "Figueira da Foz Municipality",
-      "id": "N_sX17WFW-vN"
+      "id": "figueira-da-foz-municipality",
+      "name": "Figueira da Foz Municipality"
     },
     {
-      "name": "Figueira de Lorvao",
-      "id": "27yw_v_FR35f"
+      "id": "figueira-de-lorvao",
+      "name": "Figueira de Lorvao"
     },
     {
-      "name": "Figueiro dos Vinhos",
-      "id": "Ldck_iVKSG9G"
+      "id": "figueiro-dos-vinhos",
+      "name": "Figueiro dos Vinhos"
     },
     {
-      "name": "Fogueteiro",
-      "id": "PyAiIjeKXmlb"
+      "id": "fogueteiro",
+      "name": "Fogueteiro"
     },
     {
-      "name": "Folgados",
-      "id": "2NVy8Dg6b6g-"
+      "id": "folgados",
+      "name": "Folgados"
     },
     {
-      "name": "Forte",
-      "id": "hFuGKJoeJbgE"
+      "id": "forte",
+      "name": "Forte"
     },
     {
-      "name": "Foz do Sousa",
-      "id": "SNBdAhkDMOpr"
+      "id": "foz-do-sousa",
+      "name": "Foz do Sousa"
     },
     {
-      "name": "Fradelos",
-      "id": "WvdGhpkGbUQ3"
+      "id": "fradelos",
+      "name": "Fradelos"
     },
     {
-      "name": "Freamunde",
-      "id": "dEAn7p1tzzZi"
+      "id": "freamunde",
+      "name": "Freamunde"
     },
     {
-      "name": "Frielas",
-      "id": "MpwDfNQ4HKFq"
+      "id": "frielas",
+      "name": "Frielas"
     },
     {
-      "name": "Funchal",
-      "id": "mBH3PMzjP98n"
+      "id": "funchal",
+      "name": "Funchal"
     },
     {
-      "name": "Fundao",
-      "id": "qBQdsYrumsj7"
+      "id": "fundao",
+      "name": "Fundao"
     },
     {
-      "name": "Gafanha da Nazare",
-      "id": "KeCBfsktAGpr"
+      "id": "gafanha-da-nazare",
+      "name": "Gafanha da Nazare"
     },
     {
-      "name": "Galiza",
-      "id": "51b0iPas-8Ln"
+      "id": "galiza",
+      "name": "Galiza"
     },
     {
-      "name": "Gandara dos Olivais",
-      "id": "q17DS4e3sjAu"
+      "id": "gandara-dos-olivais",
+      "name": "Gandara dos Olivais"
     },
     {
-      "name": "Gandra",
-      "id": "yOAzxIB5Q4se"
+      "id": "gandra",
+      "name": "Gandra"
     },
     {
-      "name": "Garruchas",
-      "id": "ejabn6CTd2aI"
+      "id": "garruchas",
+      "name": "Garruchas"
     },
     {
-      "name": "Gemunde",
-      "id": "XGD7RUejIeJx"
+      "id": "gemunde",
+      "name": "Gemunde"
     },
     {
-      "name": "Godim",
-      "id": "yVn_yava-73-"
+      "id": "godim",
+      "name": "Godim"
     },
     {
-      "name": "Golega",
-      "id": "ydLsx03kQyHz"
+      "id": "golega",
+      "name": "Golega"
     },
     {
-      "name": "Gondomar",
-      "id": "BIqWreJ86EUp"
+      "id": "gondomar",
+      "name": "Gondomar"
     },
     {
-      "name": "Gouveia",
-      "id": "qd8tMMIdPd-U"
+      "id": "gouveia",
+      "name": "Gouveia"
     },
     {
-      "name": "Graca",
-      "id": "jsldVGqtdRki"
+      "id": "graca",
+      "name": "Graca"
     },
     {
-      "name": "Gradil",
-      "id": "phbhvmPHcfoK"
+      "id": "gradil",
+      "name": "Gradil"
     },
     {
-      "name": "Grandola",
-      "id": "xK_1RxLnvPJr"
+      "id": "grandola",
+      "name": "Grandola"
     },
     {
-      "name": "Granja",
-      "id": "kPF5ZgxiUnL5"
+      "id": "granja",
+      "name": "Granja"
     },
     {
-      "name": "Granja do Ulmeiro",
-      "id": "XuKLbXQT_dgO"
+      "id": "granja-do-ulmeiro",
+      "name": "Granja do Ulmeiro"
     },
     {
-      "name": "Grijo",
-      "id": "G_GKIlNf0VRe"
+      "id": "grijo",
+      "name": "Grijo"
     },
     {
-      "name": "Guarda",
-      "id": "3IdKXwajMag7"
+      "id": "guarda",
+      "name": "Guarda"
     },
     {
-      "name": "Guardizela",
-      "id": "CwZCQ029uecP"
+      "id": "guardizela",
+      "name": "Guardizela"
     },
     {
-      "name": "Guia",
-      "id": "y-mBE9hXJuGf"
+      "id": "guia",
+      "name": "Guia"
     },
     {
-      "name": "Guimaraes",
-      "id": "5vs2TxdNbuyC"
+      "id": "guimaraes",
+      "name": "Guimaraes"
     },
     {
-      "name": "Gulpilhares",
-      "id": "QN7Ig7npkk5S"
+      "id": "gulpilhares",
+      "name": "Gulpilhares"
     },
     {
-      "name": "Igreja Nova",
-      "id": "QjCltDBAkgj2"
+      "id": "igreja-nova",
+      "name": "Igreja Nova"
     },
     {
-      "name": "Ilhavo",
-      "id": "BKuGaVFetMTj"
+      "id": "ilhavo",
+      "name": "Ilhavo"
     },
     {
-      "name": "Infesta",
-      "id": "8oiE7JQRvp5P"
+      "id": "infesta",
+      "name": "Infesta"
     },
     {
-      "name": "Joane",
-      "id": "u9TGzffobpUv"
+      "id": "joane",
+      "name": "Joane"
     },
     {
-      "name": "Jovim",
-      "id": "v5kFnZxaDiUW"
+      "id": "jovim",
+      "name": "Jovim"
     },
     {
-      "name": "Juncal",
-      "id": "zq6ZTkKjVPo-"
+      "id": "juncal",
+      "name": "Juncal"
     },
     {
-      "name": "Lagarinhos",
-      "id": "TF1wCqDcj7rt"
+      "id": "lagarinhos",
+      "name": "Lagarinhos"
     },
     {
-      "name": "Lago",
-      "id": "17wcKL3IsgTA"
+      "id": "lago",
+      "name": "Lago"
     },
     {
-      "name": "Lagoa",
-      "id": "lL_M9TtVcr3H"
+      "id": "lagoa",
+      "name": "Lagoa"
     },
     {
-      "name": "Lagoas",
-      "id": "bEuRggo4pGc-"
+      "id": "lagoas",
+      "name": "Lagoas"
     },
     {
-      "name": "Lagos",
-      "id": "-8V2mjFG3cm3"
+      "id": "lagos",
+      "name": "Lagos"
     },
     {
-      "name": "Lajes",
-      "id": "pJJz3IuXgCTQ"
+      "id": "lajes",
+      "name": "Lajes"
     },
     {
-      "name": "Lamego",
-      "id": "VlXBYrA3PziA"
+      "id": "lamego",
+      "name": "Lamego"
     },
     {
-      "name": "Landim",
-      "id": "xyZ_SKKmCibU"
+      "id": "landim",
+      "name": "Landim"
     },
     {
-      "name": "Lavos",
-      "id": "KFDZeYo_QL7b"
+      "id": "lavos",
+      "name": "Lavos"
     },
     {
-      "name": "Lavra",
-      "id": "ZUB8hvI3R2Kx"
+      "id": "lavra",
+      "name": "Lavra"
     },
     {
-      "name": "Lavradio",
-      "id": "_uImMY090VFd"
+      "id": "lavradio",
+      "name": "Lavradio"
     },
     {
-      "name": "Leca da Palmeira",
-      "id": "V1P86XAUvz5o"
+      "id": "leca-da-palmeira",
+      "name": "Leca da Palmeira"
     },
     {
-      "name": "Leca do Bailio",
-      "id": "iHJIvZ2XUEuf"
+      "id": "leca-do-bailio",
+      "name": "Leca do Bailio"
     },
     {
-      "name": "Leiria",
-      "id": "W1rm-CtxJQFb"
+      "id": "leiria",
+      "name": "Leiria"
     },
     {
-      "name": "Linda a Velha",
-      "id": "x1NpiCPYUbsC"
+      "id": "linda-a-velha",
+      "name": "Linda a Velha"
     },
     {
-      "name": "Linhaceira",
-      "id": "0hsfhdC4c8_9"
+      "id": "linhaceira",
+      "name": "Linhaceira"
     },
     {
-      "name": "Linho",
-      "id": "vzUW0NdycOCX"
+      "id": "linho",
+      "name": "Linho"
     },
     {
-      "name": "Lisbon",
-      "id": "grX4wAjqq2kq"
+      "id": "lisbon",
+      "name": "Lisbon"
     },
     {
-      "name": "Lordelo",
-      "id": "Lb_JEMJ4h1tn"
+      "id": "lordelo",
+      "name": "Lordelo"
     },
     {
-      "name": "Loule",
-      "id": "qf3iqk0gJOGY"
+      "id": "loule",
+      "name": "Loule"
     },
     {
-      "name": "Lourel de Baixo",
-      "id": "uDuaXYou-p4Y"
+      "id": "lourel-de-baixo",
+      "name": "Lourel de Baixo"
     },
     {
-      "name": "Loures",
-      "id": "kUe8z_53dU4z"
+      "id": "loures",
+      "name": "Loures"
     },
     {
-      "name": "Lourical",
-      "id": "SbQwErw8zRbZ"
+      "id": "lourical",
+      "name": "Lourical"
     },
     {
-      "name": "Lourosa",
-      "id": "HPyNemYhY_oZ"
+      "id": "lourosa",
+      "name": "Lourosa"
     },
     {
-      "name": "Lousa",
-      "id": "nzo9ekGd0-sI"
+      "id": "lousa",
+      "name": "Lousa"
     },
     {
-      "name": "Lousada",
-      "id": "KD5HrQD1M9S4"
+      "id": "lousada",
+      "name": "Lousada"
     },
     {
-      "name": "Lousado",
-      "id": "KMYhbO2S8dAO"
+      "id": "lousado",
+      "name": "Lousado"
     },
     {
-      "name": "Macas de Caminho",
-      "id": "DpHK4bUZoayq"
+      "id": "macas-de-caminho",
+      "name": "Macas de Caminho"
     },
     {
-      "name": "Maceda",
-      "id": "q6hRNfpJC8xf"
+      "id": "maceda",
+      "name": "Maceda"
     },
     {
-      "name": "Macedo de Cavaleiros",
-      "id": "lSsZ99LD9KVq"
+      "id": "macedo-de-cavaleiros",
+      "name": "Macedo de Cavaleiros"
     },
     {
-      "name": "Maceira",
-      "id": "lhjZFZqoz4zH"
+      "id": "maceira",
+      "name": "Maceira"
     },
     {
-      "name": "Machico",
-      "id": "BBiES9lIaUTT"
+      "id": "machico",
+      "name": "Machico"
     },
     {
-      "name": "Macieira da Lixa",
-      "id": "tprEVwmWJGa4"
+      "id": "macieira-da-lixa",
+      "name": "Macieira da Lixa"
     },
     {
-      "name": "Madeira",
-      "id": "5Uk2NYa_Hjlm"
+      "id": "madeira",
+      "name": "Madeira"
     },
     {
-      "name": "Mafra",
-      "id": "ZYDu72WXXfyV"
+      "id": "mafra",
+      "name": "Mafra"
     },
     {
-      "name": "Maia",
-      "id": "FqYQf2MaPTaX"
+      "id": "maia",
+      "name": "Maia"
     },
     {
-      "name": "Malveira",
-      "id": "1CCxaUS6Rr_a"
+      "id": "malveira",
+      "name": "Malveira"
     },
     {
-      "name": "Malveira da Serra",
-      "id": "lSyH3ttD_Hku"
+      "id": "malveira-da-serra",
+      "name": "Malveira da Serra"
     },
     {
-      "name": "Mamouros",
-      "id": "YxUnKTita-tH"
+      "id": "mamouros",
+      "name": "Mamouros"
     },
     {
-      "name": "Mangualde",
-      "id": "WSbwAEYRO55T"
+      "id": "mangualde",
+      "name": "Mangualde"
     },
     {
-      "name": "Manique de Baixo",
-      "id": "c2d781iFPbCz"
+      "id": "manique-de-baixo",
+      "name": "Manique de Baixo"
     },
     {
-      "name": "Manique do Intendente",
-      "id": "7bldC4mbg_i4"
+      "id": "manique-do-intendente",
+      "name": "Manique do Intendente"
     },
     {
-      "name": "Marco",
-      "id": "xOX9pEP_d-uk"
+      "id": "marco",
+      "name": "Marco"
     },
     {
-      "name": "Marco de Canaveses",
-      "id": "1TVU1KxFQfRM"
+      "id": "marco-de-canaveses",
+      "name": "Marco de Canaveses"
     },
     {
-      "name": "Margaride",
-      "id": "m_PeJu37-ING"
+      "id": "margaride",
+      "name": "Margaride"
     },
     {
-      "name": "Marinha",
-      "id": "UeF5yMweud-6"
+      "id": "marinha",
+      "name": "Marinha"
     },
     {
-      "name": "Marinha Grande",
-      "id": "NrUpzcHGNz6u"
+      "id": "marinha-grande",
+      "name": "Marinha Grande"
     },
     {
-      "name": "Marinhais",
-      "id": "_fdbCuXizhLv"
+      "id": "marinhais",
+      "name": "Marinhais"
     },
     {
-      "name": "Marteleira",
-      "id": "J3NSbUqBICma"
+      "id": "marteleira",
+      "name": "Marteleira"
     },
     {
-      "name": "Martinganca",
-      "id": "P6gSVAuh5IVT"
+      "id": "martinganca",
+      "name": "Martinganca"
     },
     {
-      "name": "Massama",
-      "id": "qaISfmmkm7PZ"
+      "id": "massama",
+      "name": "Massama"
     },
     {
-      "name": "Massarelos",
-      "id": "KhZ2HoYX3KUa"
+      "id": "massarelos",
+      "name": "Massarelos"
     },
     {
-      "name": "Matosinhos Municipality",
-      "id": "XY1jec7R2Wyf"
+      "id": "matosinhos-municipality",
+      "name": "Matosinhos Municipality"
     },
     {
-      "name": "Mealhada",
-      "id": "sIlEbyQgrTgD"
+      "id": "mealhada",
+      "name": "Mealhada"
     },
     {
-      "name": "Mem Martins",
-      "id": "xXwjOtbNOWDY"
+      "id": "mem-martins",
+      "name": "Mem Martins"
     },
     {
-      "name": "Mesao Frio",
-      "id": "0Snjd6yH2CMX"
+      "id": "mesao-frio",
+      "name": "Mesao Frio"
     },
     {
-      "name": "Mexilhoeira Grande",
-      "id": "dPnUzx7w9a1c"
+      "id": "mexilhoeira-grande",
+      "name": "Mexilhoeira Grande"
     },
     {
-      "name": "Milharado",
-      "id": "P2cEP0RtOkKx"
+      "id": "milharado",
+      "name": "Milharado"
     },
     {
-      "name": "Milhazes",
-      "id": "G41gWYObO5R-"
+      "id": "milhazes",
+      "name": "Milhazes"
     },
     {
-      "name": "Minde",
-      "id": "3-aBDyUAcDwr"
+      "id": "minde",
+      "name": "Minde"
     },
     {
-      "name": "Mira",
-      "id": "leFpDnulqFBR"
+      "id": "mira",
+      "name": "Mira"
     },
     {
-      "name": "Miranda do Corvo",
-      "id": "Fh2vQDp5d7rS"
+      "id": "miranda-do-corvo",
+      "name": "Miranda do Corvo"
     },
     {
-      "name": "Miranda do Douro",
-      "id": "N8PW6DBDySD2"
+      "id": "miranda-do-douro",
+      "name": "Miranda do Douro"
     },
     {
-      "name": "Mirandela",
-      "id": "LQUiJy22Heq6"
+      "id": "mirandela",
+      "name": "Mirandela"
     },
     {
-      "name": "Mocarria",
-      "id": "7_V9stuyYARP"
+      "id": "mocarria",
+      "name": "Mocarria"
     },
     {
-      "name": "Modivas",
-      "id": "3S2-_1U_6op4"
+      "id": "modivas",
+      "name": "Modivas"
     },
     {
-      "name": "Moita",
-      "id": "RXbgMrGR-UQJ"
+      "id": "moita",
+      "name": "Moita"
     },
     {
-      "name": "Moncao",
-      "id": "ASAmtqKW4z7p"
+      "id": "moncao",
+      "name": "Moncao"
     },
     {
-      "name": "Monchique",
-      "id": "Spga2EwxqLlo"
+      "id": "monchique",
+      "name": "Monchique"
     },
     {
-      "name": "Monforte",
-      "id": "ktZ_WluRQCf5"
+      "id": "monforte",
+      "name": "Monforte"
     },
     {
-      "name": "Monsanto",
-      "id": "dT728TMNn541"
+      "id": "monsanto",
+      "name": "Monsanto"
     },
     {
-      "name": "Monsaraz",
-      "id": "sYMyek8uodah"
+      "id": "monsaraz",
+      "name": "Monsaraz"
     },
     {
-      "name": "Montalvo",
-      "id": "GVRII8f0f_no"
+      "id": "montalvo",
+      "name": "Montalvo"
     },
     {
-      "name": "Monte Estoril",
-      "id": "WEksO1tnGh_7"
+      "id": "monte-estoril",
+      "name": "Monte Estoril"
     },
     {
-      "name": "Montelavar",
-      "id": "uBhnyGKIh1dW"
+      "id": "montelavar",
+      "name": "Montelavar"
     },
     {
-      "name": "Montemor-o-Novo",
-      "id": "n4gJxB2d7eg2"
+      "id": "montemor-o-novo",
+      "name": "Montemor-o-Novo"
     },
     {
-      "name": "Montemor-o-Velho",
-      "id": "uFl326Zh_yY-"
+      "id": "montemor-o-velho",
+      "name": "Montemor-o-Velho"
     },
     {
-      "name": "Montes",
-      "id": "AarBAvy7c8_M"
+      "id": "montes",
+      "name": "Montes"
     },
     {
-      "name": "Montijo",
-      "id": "xJHR-y8Ag_VC"
+      "id": "montijo",
+      "name": "Montijo"
     },
     {
-      "name": "Moreira de Conegos",
-      "id": "KbdbLkK0vBj0"
+      "id": "moreira-de-conegos",
+      "name": "Moreira de Conegos"
     },
     {
-      "name": "Mortagua",
-      "id": "4REPNIqacY8a"
+      "id": "mortagua",
+      "name": "Mortagua"
     },
     {
-      "name": "Moscavide",
-      "id": "84DraX1dk_fC"
+      "id": "moscavide",
+      "name": "Moscavide"
     },
     {
-      "name": "Moura",
-      "id": "Nmd3Q_x0QoBM"
+      "id": "moura",
+      "name": "Moura"
     },
     {
-      "name": "Moure",
-      "id": "-8A1bSRFMmot"
+      "id": "moure",
+      "name": "Moure"
     },
     {
-      "name": "Mourisca do Vouga",
-      "id": "cFqMpAwOVz1Y"
+      "id": "mourisca-do-vouga",
+      "name": "Mourisca do Vouga"
     },
     {
-      "name": "Mozelos",
-      "id": "AyXP2CROMLIa"
+      "id": "mozelos",
+      "name": "Mozelos"
     },
     {
-      "name": "Muro",
-      "id": "_ENrkNdknRYT"
+      "id": "muro",
+      "name": "Muro"
     },
     {
-      "name": "Murtede",
-      "id": "2yQD8i71HjFX"
+      "id": "murtede",
+      "name": "Murtede"
     },
     {
-      "name": "Murteira",
-      "id": "yv68sI3c77RE"
+      "id": "murteira",
+      "name": "Murteira"
     },
     {
-      "name": "Nadadouro",
-      "id": "qZj1kTnkNueU"
+      "id": "nadadouro",
+      "name": "Nadadouro"
     },
     {
-      "name": "Negrelos",
-      "id": "4lw4t-ggxpi9"
+      "id": "negrelos",
+      "name": "Negrelos"
     },
     {
-      "name": "Neiva",
-      "id": "eH-BJtQE3UbA"
+      "id": "neiva",
+      "name": "Neiva"
     },
     {
-      "name": "Nelas",
-      "id": "giK-FmKo1qrl"
+      "id": "nelas",
+      "name": "Nelas"
     },
     {
-      "name": "Nespereira",
-      "id": "j2nYi9WE6_9T"
+      "id": "nespereira",
+      "name": "Nespereira"
     },
     {
-      "name": "Nine",
-      "id": "K1JHA-J-svBA"
+      "id": "nine",
+      "name": "Nine"
     },
     {
-      "name": "Nisa",
-      "id": "pSb1KkdUUp4R"
+      "id": "nisa",
+      "name": "Nisa"
     },
     {
-      "name": "Nogueira",
-      "id": "jZgNJmQ83Uos"
+      "id": "nogueira",
+      "name": "Nogueira"
     },
     {
-      "name": "Nogueira da Regedoura",
-      "id": "c5IER68NvOiU"
+      "id": "nogueira-da-regedoura",
+      "name": "Nogueira da Regedoura"
     },
     {
-      "name": "Nogueira do Cravo",
-      "id": "jayL2AqJO8_4"
+      "id": "nogueira-do-cravo",
+      "name": "Nogueira do Cravo"
     },
     {
-      "name": "Obidos",
-      "id": "SXcX-JLvlzVY"
+      "id": "obidos",
+      "name": "Obidos"
     },
     {
-      "name": "Odemira",
-      "id": "07Dx-Cl-nma6"
+      "id": "odemira",
+      "name": "Odemira"
     },
     {
-      "name": "Odivelas",
-      "id": "AM0IOViNmyJI"
+      "id": "odivelas",
+      "name": "Odivelas"
     },
     {
-      "name": "Oeiras",
-      "id": "nz6Jbsu687Y8"
+      "id": "oeiras",
+      "name": "Oeiras"
     },
     {
-      "name": "Oia",
-      "id": "zc6RkZB_A0nG"
+      "id": "oia",
+      "name": "Oia"
     },
     {
-      "name": "Olhao",
-      "id": "P9ZmmEsPItFw"
+      "id": "olhao",
+      "name": "Olhao"
     },
     {
-      "name": "Olhos de Agua",
-      "id": "wTP9Vjv0baI5"
+      "id": "olhos-de-agua",
+      "name": "Olhos de Agua"
     },
     {
-      "name": "Olivais",
-      "id": "DwSGVaLvygg4"
+      "id": "olivais",
+      "name": "Olivais"
     },
     {
-      "name": "Olival",
-      "id": "lxLy1QfrH6sK"
+      "id": "olival",
+      "name": "Olival"
     },
     {
-      "name": "Oliveira",
-      "id": "GG_PYNpN1v4D"
+      "id": "oliveira",
+      "name": "Oliveira"
     },
     {
-      "name": "Oliveira do Bairro",
-      "id": "WOmTiL8graeH"
+      "id": "oliveira-do-bairro",
+      "name": "Oliveira do Bairro"
     },
     {
-      "name": "Oliveira do Douro",
-      "id": "eXvx_m5xvWyo"
+      "id": "oliveira-do-douro",
+      "name": "Oliveira do Douro"
     },
     {
-      "name": "Oliveira do Hospital",
-      "id": "GBVF88BewC6z"
+      "id": "oliveira-do-hospital",
+      "name": "Oliveira do Hospital"
     },
     {
-      "name": "Ortiga",
-      "id": "az2TKoIT6Qz4"
+      "id": "ortiga",
+      "name": "Ortiga"
     },
     {
-      "name": "Ota",
-      "id": "GZyaX0xe4F3W"
+      "id": "ota",
+      "name": "Ota"
     },
     {
-      "name": "Ourem",
-      "id": "1Bkjzrx35W9p"
+      "id": "ourem",
+      "name": "Ourem"
     },
     {
-      "name": "Ourique",
-      "id": "2nZak7otuerL"
+      "id": "ourique",
+      "name": "Ourique"
     },
     {
-      "name": "Outeiro",
-      "id": "ufAvwV1YbhNZ"
+      "id": "outeiro",
+      "name": "Outeiro"
     },
     {
-      "name": "Ovar",
-      "id": "CWdowXtJs5ZC"
+      "id": "ovar",
+      "name": "Ovar"
     },
     {
-      "name": "Paco de Arcos",
-      "id": "xxRF2Ftgk64F"
+      "id": "paco-de-arcos",
+      "name": "Paco de Arcos"
     },
     {
-      "name": "Paderne",
-      "id": "dEWmrZB8tVn9"
+      "id": "paderne",
+      "name": "Paderne"
     },
     {
-      "name": "Palhaca",
-      "id": "igy95RtWFuJD"
+      "id": "palhaca",
+      "name": "Palhaca"
     },
     {
-      "name": "Palhais",
-      "id": "aoWCDnnILH5K"
+      "id": "palhais",
+      "name": "Palhais"
     },
     {
-      "name": "Palmeira",
-      "id": "W-mb0YJ-kmn3"
+      "id": "palmeira",
+      "name": "Palmeira"
     },
     {
-      "name": "Palmela",
-      "id": "OTsRRcVr-Wvj"
+      "id": "palmela",
+      "name": "Palmela"
     },
     {
-      "name": "Parada de Gonta",
-      "id": "PwSnd1fwuY5g"
+      "id": "parada-de-gonta",
+      "name": "Parada de Gonta"
     },
     {
-      "name": "Parada do Bispo",
-      "id": "xeZDXsuXFPAQ"
+      "id": "parada-do-bispo",
+      "name": "Parada do Bispo"
     },
     {
-      "name": "Paraiso",
-      "id": "1Pw1ilx69Yig"
+      "id": "paraiso",
+      "name": "Paraiso"
     },
     {
-      "name": "Parchal",
-      "id": "gZIC0BqgI5Qp"
+      "id": "parchal",
+      "name": "Parchal"
     },
     {
-      "name": "Pardilho",
-      "id": "fgfOjhZw6vvm"
+      "id": "pardilho",
+      "name": "Pardilho"
     },
     {
-      "name": "Parede",
-      "id": "uWLqc4E1zOEB"
+      "id": "parede",
+      "name": "Parede"
     },
     {
-      "name": "Paredes",
-      "id": "A38UYIm-w6oe"
+      "id": "paredes",
+      "name": "Paredes"
     },
     {
-      "name": "Paredes da Beira",
-      "id": "EjCWgzYr-qOP"
+      "id": "paredes-da-beira",
+      "name": "Paredes da Beira"
     },
     {
-      "name": "Paredes de Coura",
-      "id": "nVPK8bFzQuAT"
+      "id": "paredes-de-coura",
+      "name": "Paredes de Coura"
     },
     {
-      "name": "Pataias",
-      "id": "z0OQoGyl1Zsu"
+      "id": "pataias",
+      "name": "Pataias"
     },
     {
-      "name": "Paul",
-      "id": "W2_anbt-QNF_"
+      "id": "paul",
+      "name": "Paul"
     },
     {
-      "name": "Pechao",
-      "id": "F3FtsIRgDRTP"
+      "id": "pechao",
+      "name": "Pechao"
     },
     {
-      "name": "Pedreiras",
-      "id": "YUA08pnMXz0D"
+      "id": "pedreiras",
+      "name": "Pedreiras"
     },
     {
-      "name": "Pedroso",
-      "id": "gmvZmVkB8MOz"
+      "id": "pedroso",
+      "name": "Pedroso"
     },
     {
-      "name": "Pedroucos",
-      "id": "EE0vGPvntOUk"
+      "id": "pedroucos",
+      "name": "Pedroucos"
     },
     {
-      "name": "Pegoes Velhos",
-      "id": "wCOMv5_Q1qrL"
+      "id": "pegoes-velhos",
+      "name": "Pegoes Velhos"
     },
     {
-      "name": "Penacova",
-      "id": "mMP3E-nmESiJ"
+      "id": "penacova",
+      "name": "Penacova"
     },
     {
-      "name": "Penafiel",
-      "id": "1_oC2j_QPHWd"
+      "id": "penafiel",
+      "name": "Penafiel"
     },
     {
-      "name": "Penedono",
-      "id": "IbNBuWWgcsgW"
+      "id": "penedono",
+      "name": "Penedono"
     },
     {
-      "name": "Penela",
-      "id": "U8cV50BWUCRv"
+      "id": "penela",
+      "name": "Penela"
     },
     {
-      "name": "Penha Garcia",
-      "id": "Eu20fiErk9_f"
+      "id": "penha-garcia",
+      "name": "Penha Garcia"
     },
     {
-      "name": "Peniche",
-      "id": "rQxUx-v9jsFq"
+      "id": "peniche",
+      "name": "Peniche"
     },
     {
-      "name": "Penteado",
-      "id": "Ad5cIvSBPeL5"
+      "id": "penteado",
+      "name": "Penteado"
     },
     {
-      "name": "Pereira",
-      "id": "_efPpbSdH1hb"
+      "id": "pereira",
+      "name": "Pereira"
     },
     {
-      "name": "Pero Pinheiro",
-      "id": "DnzF9VfDVoke"
+      "id": "pero-pinheiro",
+      "name": "Pero Pinheiro"
     },
     {
-      "name": "Pevidem",
-      "id": "Lx9Mop062wlQ"
+      "id": "pevidem",
+      "name": "Pevidem"
     },
     {
-      "name": "Piedade",
-      "id": "bm-O78dfaHK_"
+      "id": "piedade",
+      "name": "Piedade"
     },
     {
-      "name": "Pinhal",
-      "id": "NXQQkpPKbAEW"
+      "id": "pinhal",
+      "name": "Pinhal"
     },
     {
-      "name": "Pinhal Novo",
-      "id": "_0RW-4hiqppP"
+      "id": "pinhal-novo",
+      "name": "Pinhal Novo"
     },
     {
-      "name": "Pinheiro",
-      "id": "V9mUzwkr3AkA"
+      "id": "pinheiro",
+      "name": "Pinheiro"
     },
     {
-      "name": "Pinheiro da Bemposta",
-      "id": "c6Olm7AgdfuN"
+      "id": "pinheiro-da-bemposta",
+      "name": "Pinheiro da Bemposta"
     },
     {
-      "name": "Pinheiro de Azere",
-      "id": "oV3DYWWbDi7Y"
+      "id": "pinheiro-de-azere",
+      "name": "Pinheiro de Azere"
     },
     {
-      "name": "Poceirao",
-      "id": "UZgtjYd31eVX"
+      "id": "poceirao",
+      "name": "Poceirao"
     },
     {
-      "name": "Poco Barreto",
-      "id": "VAif-tMEzNUk"
+      "id": "poco-barreto",
+      "name": "Poco Barreto"
     },
     {
-      "name": "Poiares",
-      "id": "Ix5YUgU5IKoW"
+      "id": "poiares",
+      "name": "Poiares"
     },
     {
-      "name": "Polima",
-      "id": "dDTeVG2i9Wgo"
+      "id": "polima",
+      "name": "Polima"
     },
     {
-      "name": "Pombal",
-      "id": "Plgy-fmay7X_"
+      "id": "pombal",
+      "name": "Pombal"
     },
     {
-      "name": "Ponta",
-      "id": "m9rVkcmCsiAk"
+      "id": "ponta",
+      "name": "Ponta"
     },
     {
-      "name": "Ponta Delgada",
-      "id": "osIRiExe5CSU"
+      "id": "ponta-delgada",
+      "name": "Ponta Delgada"
     },
     {
-      "name": "Ponta do Sol",
-      "id": "D7bf9YrmA0Tq"
+      "id": "ponta-do-sol",
+      "name": "Ponta do Sol"
     },
     {
-      "name": "Ponte",
-      "id": "x0qebUdYgRDB"
+      "id": "ponte",
+      "name": "Ponte"
     },
     {
-      "name": "Ponte da Barca",
-      "id": "FfYrhymTUmzN"
+      "id": "ponte-da-barca",
+      "name": "Ponte da Barca"
     },
     {
-      "name": "Ponte de Lima",
-      "id": "JQwr8Q8oFHOM"
+      "id": "ponte-de-lima",
+      "name": "Ponte de Lima"
     },
     {
-      "name": "Ponte de Sor",
-      "id": "U4qATV3VKoVM"
+      "id": "ponte-de-sor",
+      "name": "Ponte de Sor"
     },
     {
-      "name": "Ponte de Vagos",
-      "id": "E3FHKbZJjglG"
+      "id": "ponte-de-vagos",
+      "name": "Ponte de Vagos"
     },
     {
-      "name": "Pontevel",
-      "id": "xKXt8MOX3F_x"
+      "id": "pontevel",
+      "name": "Pontevel"
     },
     {
-      "name": "Pontinha",
-      "id": "2z3YS0l1cWfN"
+      "id": "pontinha",
+      "name": "Pontinha"
     },
     {
-      "name": "Portalegre",
-      "id": "Ffewnj_57eW-"
+      "id": "portalegre",
+      "name": "Portalegre"
     },
     {
-      "name": "Portel",
-      "id": "kW0GZmoV_Hjk"
+      "id": "portel",
+      "name": "Portel"
     },
     {
-      "name": "Portela",
-      "id": "Nz8B1aJDy3XC"
+      "id": "portela",
+      "name": "Portela"
     },
     {
-      "name": "Portimao",
-      "id": "Ipz7tXESJ03T"
+      "id": "portimao",
+      "name": "Portimao"
     },
     {
-      "name": "Porto",
-      "id": "uKAD-mcb-a6U"
+      "id": "porto",
+      "name": "Porto"
     },
     {
-      "name": "Porto Alto",
-      "id": "cZJCmHQvrVw-"
+      "id": "porto-alto",
+      "name": "Porto Alto"
     },
     {
-      "name": "Porto da Cruz",
-      "id": "DEwr6Re-rU1h"
+      "id": "porto-da-cruz",
+      "name": "Porto da Cruz"
     },
     {
-      "name": "Porto de Mos",
-      "id": "QDsIiN35Wz_Y"
+      "id": "porto-de-mos",
+      "name": "Porto de Mos"
     },
     {
-      "name": "Porto Moniz",
-      "id": "bu3k_S9ipTX_"
+      "id": "porto-moniz",
+      "name": "Porto Moniz"
     },
     {
-      "name": "Porto Salvo",
-      "id": "btdu-xXYCs2h"
+      "id": "porto-salvo",
+      "name": "Porto Salvo"
     },
     {
-      "name": "Povoa",
-      "id": "fhDRALa-iPbY"
+      "id": "povoa",
+      "name": "Povoa"
     },
     {
-      "name": "Povoa da Galega",
-      "id": "5EE0lNBiF7rt"
+      "id": "povoa-da-galega",
+      "name": "Povoa da Galega"
     },
     {
-      "name": "Povoa de Lanhoso",
-      "id": "_MP21GrQvpAP"
+      "id": "povoa-de-lanhoso",
+      "name": "Povoa de Lanhoso"
     },
     {
-      "name": "Povoa de Santa Iria",
-      "id": "WAoY6_nvlReC"
+      "id": "povoa-de-santa-iria",
+      "name": "Povoa de Santa Iria"
     },
     {
-      "name": "Povoa de Santo Adriao",
-      "id": "uhT2hGbyLbtz"
+      "id": "povoa-de-santo-adriao",
+      "name": "Povoa de Santo Adriao"
     },
     {
-      "name": "Povoa do Forno",
-      "id": "TsHiFG-E3IlT"
+      "id": "povoa-do-forno",
+      "name": "Povoa do Forno"
     },
     {
-      "name": "Prado",
-      "id": "EzjBTKzwDJOP"
+      "id": "prado",
+      "name": "Prado"
     },
     {
-      "name": "Pragal",
-      "id": "Fpt3SkYli-KB"
+      "id": "pragal",
+      "name": "Pragal"
     },
     {
-      "name": "Praia da Vitoria",
-      "id": "--lcSVYow6jq"
+      "id": "praia-da-vitoria",
+      "name": "Praia da Vitoria"
     },
     {
-      "name": "Praia de Mira",
-      "id": "BXtDEK8if0mI"
+      "id": "praia-de-mira",
+      "name": "Praia de Mira"
     },
     {
-      "name": "Praia do Almoxarife",
-      "id": "8yj2wt6ynkWP"
+      "id": "praia-do-almoxarife",
+      "name": "Praia do Almoxarife"
     },
     {
-      "name": "Praia do Carvoeiro",
-      "id": "L1qjjkxa34pw"
+      "id": "praia-do-carvoeiro",
+      "name": "Praia do Carvoeiro"
     },
     {
-      "name": "Praia do Ribatejo",
-      "id": "7MYJnvOFIOd2"
+      "id": "praia-do-ribatejo",
+      "name": "Praia do Ribatejo"
     },
     {
-      "name": "Prazins",
-      "id": "okOwE4-OUG4K"
+      "id": "prazins",
+      "name": "Prazins"
     },
     {
-      "name": "Prime",
-      "id": "m2owZnqNa83U"
+      "id": "prime",
+      "name": "Prime"
     },
     {
-      "name": "Proenca-a-Nova",
-      "id": "WvjFERfGXQEm"
+      "id": "proenca-a-nova",
+      "name": "Proenca-a-Nova"
     },
     {
-      "name": "Quarteira",
-      "id": "m5_xM7MjT-Oa"
+      "id": "quarteira",
+      "name": "Quarteira"
     },
     {
-      "name": "Quejas",
-      "id": "8wNt1BB4jlSw"
+      "id": "quejas",
+      "name": "Quejas"
     },
     {
-      "name": "Queluz",
-      "id": "iCmp6Q8hBn9k"
+      "id": "queluz",
+      "name": "Queluz"
     },
     {
-      "name": "Queluz de Baixo",
-      "id": "z7o6IPWswD2f"
+      "id": "queluz-de-baixo",
+      "name": "Queluz de Baixo"
     },
     {
-      "name": "Quinchaes",
-      "id": "v5AfH24is7LB"
+      "id": "quinchaes",
+      "name": "Quinchaes"
     },
     {
-      "name": "Quinta",
-      "id": "qudYykYY2kjs"
+      "id": "quinta",
+      "name": "Quinta"
     },
     {
-      "name": "Quinta do Anjo",
-      "id": "Cj-lpj0piPFm"
+      "id": "quinta-do-anjo",
+      "name": "Quinta do Anjo"
     },
     {
-      "name": "Ramada",
-      "id": "OnwVHtKvBjDl"
+      "id": "ramada",
+      "name": "Ramada"
     },
     {
-      "name": "Ramo",
-      "id": "rrwypkVl7fzp"
+      "id": "ramo",
+      "name": "Ramo"
     },
     {
-      "name": "Rana",
-      "id": "KIEqSvaH1vty"
+      "id": "rana",
+      "name": "Rana"
     },
     {
-      "name": "Real",
-      "id": "DwVMwNrqTdwy"
+      "id": "real",
+      "name": "Real"
     },
     {
-      "name": "Rebordosa",
-      "id": "L82KikrgSTSQ"
+      "id": "rebordosa",
+      "name": "Rebordosa"
     },
     {
-      "name": "Recarei",
-      "id": "PsCPcToTUF7N"
+      "id": "recarei",
+      "name": "Recarei"
     },
     {
-      "name": "Redondo",
-      "id": "ezVWD5Cat3HI"
+      "id": "redondo",
+      "name": "Redondo"
     },
     {
-      "name": "Regueira de Pontes",
-      "id": "cPbyuO4I6IEp"
+      "id": "regueira-de-pontes",
+      "name": "Regueira de Pontes"
     },
     {
-      "name": "Reguengo Grande",
-      "id": "Kh9VZlxrdnaf"
+      "id": "reguengo-grande",
+      "name": "Reguengo Grande"
     },
     {
-      "name": "Reguengos de Monsaraz",
-      "id": "4B2MQ9qc0cdh"
+      "id": "reguengos-de-monsaraz",
+      "name": "Reguengos de Monsaraz"
     },
     {
-      "name": "Riachos",
-      "id": "NXF7LrLG4RAC"
+      "id": "riachos",
+      "name": "Riachos"
     },
     {
-      "name": "Riba de Ave",
-      "id": "SN_TGj7VXHWM"
+      "id": "riba-de-ave",
+      "name": "Riba de Ave"
     },
     {
-      "name": "Ribeira Brava",
-      "id": "kg1ZFnHTr2II"
+      "id": "ribeira-brava",
+      "name": "Ribeira Brava"
     },
     {
-      "name": "Ribeira Grande",
-      "id": "tl3y7nx9O4Lg"
+      "id": "ribeira-grande",
+      "name": "Ribeira Grande"
     },
     {
-      "name": "Ribeirao",
-      "id": "og7nvwcTr-ly"
+      "id": "ribeirao",
+      "name": "Ribeirao"
     },
     {
-      "name": "Rinchoa",
-      "id": "0yZMYLbWfpau"
+      "id": "rinchoa",
+      "name": "Rinchoa"
     },
     {
-      "name": "Rio de Moinhos",
-      "id": "-QezxyAUthUf"
+      "id": "rio-de-moinhos",
+      "name": "Rio de Moinhos"
     },
     {
-      "name": "Rio de Mouro",
-      "id": "Fz_rXF1zFr8M"
+      "id": "rio-de-mouro",
+      "name": "Rio de Mouro"
     },
     {
-      "name": "Rio Maior",
-      "id": "T0HDDhq--Qw4"
+      "id": "rio-maior",
+      "name": "Rio Maior"
     },
     {
-      "name": "Rio Tinto",
-      "id": "4XPhtAcOqHCJ"
+      "id": "rio-tinto",
+      "name": "Rio Tinto"
     },
     {
-      "name": "Romariz",
-      "id": "dbuXkOfUwyke"
+      "id": "romariz",
+      "name": "Romariz"
     },
     {
-      "name": "Ronfe",
-      "id": "KgmW_XZgShlC"
+      "id": "ronfe",
+      "name": "Ronfe"
     },
     {
-      "name": "Roque",
-      "id": "Jqd-oPDHkw9o"
+      "id": "roque",
+      "name": "Roque"
     },
     {
-      "name": "Roriz",
-      "id": "xqPJv8VUX8ds"
+      "id": "roriz",
+      "name": "Roriz"
     },
     {
-      "name": "Runa",
-      "id": "ygp-fVplzo_p"
+      "id": "runa",
+      "name": "Runa"
     },
     {
-      "name": "Sabugal",
-      "id": "ZLm1K1Xebxzt"
+      "id": "sabugal",
+      "name": "Sabugal"
     },
     {
-      "name": "Sacavem",
-      "id": "oRNoXOZBmAlW"
+      "id": "sacavem",
+      "name": "Sacavem"
     },
     {
-      "name": "Salreu",
-      "id": "wYQoOY6PQVHZ"
+      "id": "salreu",
+      "name": "Salreu"
     },
     {
-      "name": "Salto",
-      "id": "3F6XDyVjibkC"
+      "id": "salto",
+      "name": "Salto"
     },
     {
-      "name": "Salvaterra de Magos",
-      "id": "x4_Q_KivgAXd"
+      "id": "salvaterra-de-magos",
+      "name": "Salvaterra de Magos"
     },
     {
-      "name": "Samil",
-      "id": "IEPxdNMJrdRO"
+      "id": "samil",
+      "name": "Samil"
     },
     {
-      "name": "Samora Correia",
-      "id": "OGobCHpM4Wra"
+      "id": "samora-correia",
+      "name": "Samora Correia"
     },
     {
-      "name": "Samouco",
-      "id": "6FmuhYp0yBqP"
+      "id": "samouco",
+      "name": "Samouco"
     },
     {
-      "name": "Sandim",
-      "id": "uG8_mp6G_K0C"
+      "id": "sandim",
+      "name": "Sandim"
     },
     {
-      "name": "Sanfins do Douro",
-      "id": "miH0WGqHEF3O"
+      "id": "sanfins-do-douro",
+      "name": "Sanfins do Douro"
     },
     {
-      "name": "Sangalhos",
-      "id": "DECbWAnGic-M"
+      "id": "sangalhos",
+      "name": "Sangalhos"
     },
     {
-      "name": "Sanguedo",
-      "id": "a5LwaKEc0TAI"
+      "id": "sanguedo",
+      "name": "Sanguedo"
     },
     {
-      "name": "Santa Barbara de Nexe",
-      "id": "GnptNuP9bf3-"
+      "id": "santa-barbara-de-nexe",
+      "name": "Santa Barbara de Nexe"
     },
     {
-      "name": "Santa Catarina",
-      "id": "_eu9n1my5jh1"
+      "id": "santa-catarina",
+      "name": "Santa Catarina"
     },
     {
-      "name": "Santa Catarina da Serra",
-      "id": "Zv-3xC3OOBzz"
+      "id": "santa-catarina-da-serra",
+      "name": "Santa Catarina da Serra"
     },
     {
-      "name": "Santa Clara-a-Velha",
-      "id": "dRzU23WHZ7SZ"
+      "id": "santa-clara-a-velha",
+      "name": "Santa Clara-a-Velha"
     },
     {
-      "name": "Santa Comba Dao",
-      "id": "D4K22URf5c12"
+      "id": "santa-comba-dao",
+      "name": "Santa Comba Dao"
     },
     {
-      "name": "Santa Cruz",
-      "id": "d6wPbFrPzILo"
+      "id": "santa-cruz",
+      "name": "Santa Cruz"
     },
     {
-      "name": "Santa Iria da Azoia",
-      "id": "OGgIwrnoWpVA"
+      "id": "santa-iria-da-azoia",
+      "name": "Santa Iria da Azoia"
     },
     {
-      "name": "Santa Marta",
-      "id": "ZtRytEax5gkI"
+      "id": "santa-marta",
+      "name": "Santa Marta"
     },
     {
-      "name": "Santa Marta de Penaguiao",
-      "id": "mfDFZ6I0OEqO"
+      "id": "santa-marta-de-penaguiao",
+      "name": "Santa Marta de Penaguiao"
     },
     {
-      "name": "Santana",
-      "id": "yOBDGJyFnsgy"
+      "id": "santana",
+      "name": "Santana"
     },
     {
-      "name": "Santiago",
-      "id": "xtv1ybrMXJ6a"
+      "id": "santiago",
+      "name": "Santiago"
     },
     {
-      "name": "Santiago da Guarda",
-      "id": "D2WXvjy5h4QY"
+      "id": "santiago-da-guarda",
+      "name": "Santiago da Guarda"
     },
     {
-      "name": "Santiago de Riba-Ul",
-      "id": "pQEQCmQm_Ck_"
+      "id": "santiago-de-riba-ul",
+      "name": "Santiago de Riba-Ul"
     },
     {
-      "name": "Santiago do Cacem",
-      "id": "73ahZD3i9717"
+      "id": "santiago-do-cacem",
+      "name": "Santiago do Cacem"
     },
     {
-      "name": "Santo Andre",
-      "id": "oip7JKIKuknl"
+      "id": "santo-andre",
+      "name": "Santo Andre"
     },
     {
-      "name": "Santo Antao do Tojal",
-      "id": "q3aOJKbxebeU"
+      "id": "santo-antao-do-tojal",
+      "name": "Santo Antao do Tojal"
     },
     {
-      "name": "Santo Antonio",
-      "id": "VxkUR246gSSL"
+      "id": "santo-antonio",
+      "name": "Santo Antonio"
     },
     {
-      "name": "Santo Antonio da Charneca",
-      "id": "SvGWtzWrsxIa"
+      "id": "santo-antonio-da-charneca",
+      "name": "Santo Antonio da Charneca"
     },
     {
-      "name": "Santo Tirso",
-      "id": "BNFhGK_eH0Hm"
+      "id": "santo-tirso",
+      "name": "Santo Tirso"
     },
     {
-      "name": "Sao Bras",
-      "id": "BtFAPB7vwwJP"
+      "id": "sao-bras",
+      "name": "Sao Bras"
     },
     {
-      "name": "Sao Bras de Alportel",
-      "id": "Qp2ksgW5O6kH"
+      "id": "sao-bras-de-alportel",
+      "name": "Sao Bras de Alportel"
     },
     {
-      "name": "Sao Domingos de Rana",
-      "id": "VSXIuuOJQarB"
+      "id": "sao-domingos-de-rana",
+      "name": "Sao Domingos de Rana"
     },
     {
-      "name": "Sao Felix da Marinha",
-      "id": "1bWOizeEu9wI"
+      "id": "sao-felix-da-marinha",
+      "name": "Sao Felix da Marinha"
     },
     {
-      "name": "Sao Francisco",
-      "id": "tNf2z-URajb2"
+      "id": "sao-francisco",
+      "name": "Sao Francisco"
     },
     {
-      "name": "Sao Joao",
-      "id": "4kUQyNC-U0qk"
+      "id": "sao-joao",
+      "name": "Sao Joao"
     },
     {
-      "name": "Sao Joao da Madeira",
-      "id": "o6SE5tnW70kq"
+      "id": "sao-joao-da-madeira",
+      "name": "Sao Joao da Madeira"
     },
     {
-      "name": "Sao Joao da Talha",
-      "id": "-1-J1mqGr_mR"
+      "id": "sao-joao-da-talha",
+      "name": "Sao Joao da Talha"
     },
     {
-      "name": "Sao Joao das Lampas",
-      "id": "kgetuEJeq19S"
+      "id": "sao-joao-das-lampas",
+      "name": "Sao Joao das Lampas"
     },
     {
-      "name": "Sao Joao de Ver",
-      "id": "9rQWZ9Z_Hplp"
+      "id": "sao-joao-de-ver",
+      "name": "Sao Joao de Ver"
     },
     {
-      "name": "Sao Joao do Campo",
-      "id": "rHUVBMi6rREQ"
+      "id": "sao-joao-do-campo",
+      "name": "Sao Joao do Campo"
     },
     {
-      "name": "Sao Joao dos Montes",
-      "id": "8v1O0I85PRYs"
+      "id": "sao-joao-dos-montes",
+      "name": "Sao Joao dos Montes"
     },
     {
-      "name": "Sao Juliao do Tojal",
-      "id": "BlkkDPx3RooJ"
+      "id": "sao-juliao-do-tojal",
+      "name": "Sao Juliao do Tojal"
     },
     {
-      "name": "Sao Mamede de Infesta",
-      "id": "B1M2_NpZAtqI"
+      "id": "sao-mamede-de-infesta",
+      "name": "Sao Mamede de Infesta"
     },
     {
-      "name": "Sao Marcos",
-      "id": "rcAXESzc7qx7"
+      "id": "sao-marcos",
+      "name": "Sao Marcos"
     },
     {
-      "name": "Sao Pedro da Cadeira",
-      "id": "-7WOEehHF2re"
+      "id": "sao-pedro-da-cadeira",
+      "name": "Sao Pedro da Cadeira"
     },
     {
-      "name": "Sao Pedro do Estoril",
-      "id": "O-xcH_X5VXEJ"
+      "id": "sao-pedro-do-estoril",
+      "name": "Sao Pedro do Estoril"
     },
     {
-      "name": "Sao Romao do Coronado",
-      "id": "vgoOIqJ61QVP"
+      "id": "sao-romao-do-coronado",
+      "name": "Sao Romao do Coronado"
     },
     {
-      "name": "Sao Roque",
-      "id": "ccMXdPgcgsjx"
+      "id": "sao-roque",
+      "name": "Sao Roque"
     },
     {
-      "name": "Sao Vicente da Beira",
-      "id": "nlB7WPIGWhI3"
+      "id": "sao-vicente-da-beira",
+      "name": "Sao Vicente da Beira"
     },
     {
-      "name": "Sao Vicente de Lafoes",
-      "id": "Rq3EOlrxC6qD"
+      "id": "sao-vicente-de-lafoes",
+      "name": "Sao Vicente de Lafoes"
     },
     {
-      "name": "Sardoal",
-      "id": "L-A5ZLGKXZmt"
+      "id": "sardoal",
+      "name": "Sardoal"
     },
     {
-      "name": "Sarilhos Grandes",
-      "id": "UJTMIKGIPGzv"
+      "id": "sarilhos-grandes",
+      "name": "Sarilhos Grandes"
     },
     {
-      "name": "Satao",
-      "id": "6TB1WD3E4Sao"
+      "id": "satao",
+      "name": "Satao"
     },
     {
-      "name": "Seia",
-      "id": "vDLrADGQipx5"
+      "id": "seia",
+      "name": "Seia"
     },
     {
-      "name": "Seixal",
-      "id": "jTVmra5X0zli"
+      "id": "seixal",
+      "name": "Seixal"
     },
     {
-      "name": "Sendim",
-      "id": "8FHT280Zx7jx"
+      "id": "sendim",
+      "name": "Sendim"
     },
     {
-      "name": "Senhora da Hora",
-      "id": "NYRuCovpVGxb"
+      "id": "senhora-da-hora",
+      "name": "Senhora da Hora"
     },
     {
-      "name": "Seroa",
-      "id": "38Th8I-fjTEO"
+      "id": "seroa",
+      "name": "Seroa"
     },
     {
-      "name": "Serpa",
-      "id": "4moXYtHgbNux"
+      "id": "serpa",
+      "name": "Serpa"
     },
     {
-      "name": "Serpins",
-      "id": "5nHBDR0MamE_"
+      "id": "serpins",
+      "name": "Serpins"
     },
     {
-      "name": "Serta",
-      "id": "IrudKacxnmK5"
+      "id": "serta",
+      "name": "Serta"
     },
     {
-      "name": "Sesimbra",
-      "id": "vxacU5vMq37L"
+      "id": "sesimbra",
+      "name": "Sesimbra"
     },
     {
-      "name": "Sete Rios",
-      "id": "Qbqj7aJEwqSx"
+      "id": "sete-rios",
+      "name": "Sete Rios"
     },
     {
-      "name": "Sever do Vouga",
-      "id": "t6YszXstUVrZ"
+      "id": "sever-do-vouga",
+      "name": "Sever do Vouga"
     },
     {
-      "name": "Silva",
-      "id": "mSLR-VvCs6CG"
+      "id": "silva",
+      "name": "Silva"
     },
     {
-      "name": "Silvares",
-      "id": "uVYp5oHP4BZJ"
+      "id": "silvares",
+      "name": "Silvares"
     },
     {
-      "name": "Silveira",
-      "id": "XNeW-nSFUD9i"
+      "id": "silveira",
+      "name": "Silveira"
     },
     {
-      "name": "Silves",
-      "id": "14B2XmNerxVe"
+      "id": "silves",
+      "name": "Silves"
     },
     {
-      "name": "Sines Municipality",
-      "id": "gP3t0VcijHZF"
+      "id": "sines-municipality",
+      "name": "Sines Municipality"
     },
     {
-      "name": "Sintra",
-      "id": "lPLmd0hWu0mO"
+      "id": "sintra",
+      "name": "Sintra"
     },
     {
-      "name": "Soalheira",
-      "id": "swQ7y0_2MxcB"
+      "id": "soalheira",
+      "name": "Soalheira"
     },
     {
-      "name": "Sobrado",
-      "id": "kBN3yVNYwhwf"
+      "id": "sobrado",
+      "name": "Sobrado"
     },
     {
-      "name": "Sobrado de Paiva",
-      "id": "V7bj_rbhmJJP"
+      "id": "sobrado-de-paiva",
+      "name": "Sobrado de Paiva"
     },
     {
-      "name": "Sobral de Monte Agraco",
-      "id": "HCet_U6C4V1E"
+      "id": "sobral-de-monte-agraco",
+      "name": "Sobral de Monte Agraco"
     },
     {
-      "name": "Sobralinho",
-      "id": "Inr31YCdtgD8"
+      "id": "sobralinho",
+      "name": "Sobralinho"
     },
     {
-      "name": "Sobreda",
-      "id": "r_55iOZGocgx"
+      "id": "sobreda",
+      "name": "Sobreda"
     },
     {
-      "name": "Sobreiro",
-      "id": "9uGxxiP-1bvO"
+      "id": "sobreiro",
+      "name": "Sobreiro"
     },
     {
-      "name": "Sobrosa",
-      "id": "Avex4z5T8Uho"
+      "id": "sobrosa",
+      "name": "Sobrosa"
     },
     {
-      "name": "Soito",
-      "id": "A0BfzBLAmJ8X"
+      "id": "soito",
+      "name": "Soito"
     },
     {
-      "name": "Soure Municipality",
-      "id": "FkJ922s85uDG"
+      "id": "soure-municipality",
+      "name": "Soure Municipality"
     },
     {
-      "name": "Souto da Carpalhosa",
-      "id": "EGoER43eNCaE"
+      "id": "souto-da-carpalhosa",
+      "name": "Souto da Carpalhosa"
     },
     {
-      "name": "Souzel",
-      "id": "0qIdh1tDswNp"
+      "id": "souzel",
+      "name": "Souzel"
     },
     {
-      "name": "Sul",
-      "id": "QfmC_wFgOcf4"
+      "id": "sul",
+      "name": "Sul"
     },
     {
-      "name": "Tabuaco",
-      "id": "Gr8AuZ66aOP8"
+      "id": "tabuaco",
+      "name": "Tabuaco"
     },
     {
-      "name": "Talaide",
-      "id": "8iafmro8IGGy"
+      "id": "talaide",
+      "name": "Talaide"
     },
     {
-      "name": "Tamel",
-      "id": "dl1fA6MbKxxA"
+      "id": "tamel",
+      "name": "Tamel"
     },
     {
-      "name": "Tarouca",
-      "id": "hF6IPM349ngu"
+      "id": "tarouca",
+      "name": "Tarouca"
     },
     {
-      "name": "Taveiro",
-      "id": "Uck_ak-HmRdo"
+      "id": "taveiro",
+      "name": "Taveiro"
     },
     {
-      "name": "Tavira Municipality",
-      "id": "XCQUpxAcFcJy"
+      "id": "tavira-municipality",
+      "name": "Tavira Municipality"
     },
     {
-      "name": "Teixoso",
-      "id": "HjJOuyGuBrxu"
+      "id": "teixoso",
+      "name": "Teixoso"
     },
     {
-      "name": "Telhado",
-      "id": "yVmTTLOtxxqY"
+      "id": "telhado",
+      "name": "Telhado"
     },
     {
-      "name": "Tercena",
-      "id": "1e6xlPJ77oJS"
+      "id": "tercena",
+      "name": "Tercena"
     },
     {
-      "name": "Terena",
-      "id": "A7uQ7aO6CNu4"
+      "id": "terena",
+      "name": "Terena"
     },
     {
-      "name": "Tires",
-      "id": "deBSkxUWCujl"
+      "id": "tires",
+      "name": "Tires"
     },
     {
-      "name": "Tocha",
-      "id": "TjwW14VaT0WK"
+      "id": "tocha",
+      "name": "Tocha"
     },
     {
-      "name": "Tomar",
-      "id": "rjazbU3d9jST"
+      "id": "tomar",
+      "name": "Tomar"
     },
     {
-      "name": "Tondela",
-      "id": "XmZvX-kwIEqX"
+      "id": "tondela",
+      "name": "Tondela"
     },
     {
-      "name": "Torre da Marinha",
-      "id": "-KbpIiPFNLd3"
+      "id": "torre-da-marinha",
+      "name": "Torre da Marinha"
     },
     {
-      "name": "Torre de Moncorvo",
-      "id": "EaK3lL3DSoeQ"
+      "id": "torre-de-moncorvo",
+      "name": "Torre de Moncorvo"
     },
     {
-      "name": "Torres Novas",
-      "id": "TfZJR7FVQLUH"
+      "id": "torres-novas",
+      "name": "Torres Novas"
     },
     {
-      "name": "Torres Vedras",
-      "id": "hG0AwYmhLgcD"
+      "id": "torres-vedras",
+      "name": "Torres Vedras"
     },
     {
-      "name": "Touguinha",
-      "id": "402IIssSFBFc"
+      "id": "touguinha",
+      "name": "Touguinha"
     },
     {
-      "name": "Tourais",
-      "id": "ZVQ9RX041335"
+      "id": "tourais",
+      "name": "Tourais"
     },
     {
-      "name": "Trafaria",
-      "id": "G89khWQ-dJff"
+      "id": "trafaria",
+      "name": "Trafaria"
     },
     {
-      "name": "Trancoso",
-      "id": "Nv0ROFB_eYXn"
+      "id": "trancoso",
+      "name": "Trancoso"
     },
     {
-      "name": "Trancoso de Baixo",
-      "id": "hYCJ20KOlXjf"
+      "id": "trancoso-de-baixo",
+      "name": "Trancoso de Baixo"
     },
     {
-      "name": "Travanca",
-      "id": "b9GHqf8Z59AY"
+      "id": "travanca",
+      "name": "Travanca"
     },
     {
-      "name": "Treixedo",
-      "id": "4Gn-dfoZcTQY"
+      "id": "treixedo",
+      "name": "Treixedo"
     },
     {
-      "name": "Trofa",
-      "id": "U4_zljpaNC2Q"
+      "id": "trofa",
+      "name": "Trofa"
     },
     {
-      "name": "Tunes",
-      "id": "Peyo4o6Rc14i"
+      "id": "tunes",
+      "name": "Tunes"
     },
     {
-      "name": "Turcifal",
-      "id": "naWwt4-xxSql"
+      "id": "turcifal",
+      "name": "Turcifal"
     },
     {
-      "name": "Vagos",
-      "id": "kZiC98KHwHPV"
+      "id": "vagos",
+      "name": "Vagos"
     },
     {
-      "name": "Valado de Frades",
-      "id": "YKEc1JsVzs5d"
+      "id": "valado-de-frades",
+      "name": "Valado de Frades"
     },
     {
-      "name": "Valbom",
-      "id": "RMP_7wkbPTeO"
+      "id": "valbom",
+      "name": "Valbom"
     },
     {
-      "name": "Vale",
-      "id": "OhdFQCC2rbK1"
+      "id": "vale",
+      "name": "Vale"
     },
     {
-      "name": "Vale da Pinta",
-      "id": "M4z6AqKa-BRV"
+      "id": "vale-da-pinta",
+      "name": "Vale da Pinta"
     },
     {
-      "name": "Vale de Acor",
-      "id": "RCW-tRQFP3c5"
+      "id": "vale-de-acor",
+      "name": "Vale de Acor"
     },
     {
-      "name": "Vale de Cambra",
-      "id": "T2yqE4RP0uk_"
+      "id": "vale-de-cambra",
+      "name": "Vale de Cambra"
     },
     {
-      "name": "Valega",
-      "id": "tDc5pch-q4I_"
+      "id": "valega",
+      "name": "Valega"
     },
     {
-      "name": "Valenca",
-      "id": "0LbUepobLzgK"
+      "id": "valenca",
+      "name": "Valenca"
     },
     {
-      "name": "Valongo",
-      "id": "a0rYPHZFjXtv"
+      "id": "valongo",
+      "name": "Valongo"
     },
     {
-      "name": "Valverde",
-      "id": "zduUatQEkVmk"
+      "id": "valverde",
+      "name": "Valverde"
     },
     {
-      "name": "Varzea do Douro",
-      "id": "5SJkO4wouoCe"
+      "id": "varzea-do-douro",
+      "name": "Varzea do Douro"
     },
     {
-      "name": "Venda do Pinheiro",
-      "id": "k7ixES2Rw31x"
+      "id": "venda-do-pinheiro",
+      "name": "Venda do Pinheiro"
     },
     {
-      "name": "Vendas Novas",
-      "id": "g14lZiTEPF3B"
+      "id": "vendas-novas",
+      "name": "Vendas Novas"
     },
     {
-      "name": "Vermelha",
-      "id": "RJ40qrKGyteF"
+      "id": "vermelha",
+      "name": "Vermelha"
     },
     {
-      "name": "Vermoil",
-      "id": "yCaMxIxpidn3"
+      "id": "vermoil",
+      "name": "Vermoil"
     },
     {
-      "name": "Vialonga",
-      "id": "cbUE7mDYUW9S"
+      "id": "vialonga",
+      "name": "Vialonga"
     },
     {
-      "name": "Viana do Alentejo",
-      "id": "sMmWcetE0sY7"
+      "id": "viana-do-alentejo",
+      "name": "Viana do Alentejo"
     },
     {
-      "name": "Viana do Castelo",
-      "id": "LHfbKGzTRGCT"
+      "id": "viana-do-castelo",
+      "name": "Viana do Castelo"
     },
     {
-      "name": "Vidago",
-      "id": "3L2RF1WCbdY_"
+      "id": "vidago",
+      "name": "Vidago"
     },
     {
-      "name": "Vidigueira",
-      "id": "4LPUXSp_tae7"
+      "id": "vidigueira",
+      "name": "Vidigueira"
     },
     {
-      "name": "Vieira de Leiria",
-      "id": "y-YhmY1NA4nQ"
+      "id": "vieira-de-leiria",
+      "name": "Vieira de Leiria"
     },
     {
-      "name": "Vieira do Minho",
-      "id": "zK_HOCdCzk6C"
+      "id": "vieira-do-minho",
+      "name": "Vieira do Minho"
     },
     {
-      "name": "Vila Alva",
-      "id": "w_TxJpejeTrL"
+      "id": "vila-alva",
+      "name": "Vila Alva"
     },
     {
-      "name": "Vila Boa de Quires",
-      "id": "RsYrr6NAKiSH"
+      "id": "vila-boa-de-quires",
+      "name": "Vila Boa de Quires"
     },
     {
-      "name": "Vila Cha",
-      "id": "gTZfM1PDSk5A"
+      "id": "vila-cha",
+      "name": "Vila Cha"
     },
     {
-      "name": "Vila Cha de Ourique",
-      "id": "YKOxcMypNDEM"
+      "id": "vila-cha-de-ourique",
+      "name": "Vila Cha de Ourique"
     },
     {
-      "name": "Vila de Porto Santo",
-      "id": "LvXxfFEzQzvi"
+      "id": "vila-de-porto-santo",
+      "name": "Vila de Porto Santo"
     },
     {
-      "name": "Vila do Bispo",
-      "id": "ihOmv4tgVffF"
+      "id": "vila-do-bispo",
+      "name": "Vila do Bispo"
     },
     {
-      "name": "Vila do Conde",
-      "id": "ecOzTRO8RDYs"
+      "id": "vila-do-conde",
+      "name": "Vila do Conde"
     },
     {
-      "name": "Vila Franca de Xira",
-      "id": "RWDG5jFHdy5n"
+      "id": "vila-franca-de-xira",
+      "name": "Vila Franca de Xira"
     },
     {
-      "name": "Vila Franca do Rosario",
-      "id": "WjpyEMNwTK3Q"
+      "id": "vila-franca-do-rosario",
+      "name": "Vila Franca do Rosario"
     },
     {
-      "name": "Vila Nogueira de Azeitao",
-      "id": "7NZjGxviR4T8"
+      "id": "vila-nogueira-de-azeitao",
+      "name": "Vila Nogueira de Azeitao"
     },
     {
-      "name": "Vila Nova",
-      "id": "cwwrz8psZDNY"
+      "id": "vila-nova",
+      "name": "Vila Nova"
     },
     {
-      "name": "Vila Nova da Barquinha",
-      "id": "1_EvDDIKJCWW"
+      "id": "vila-nova-da-barquinha",
+      "name": "Vila Nova da Barquinha"
     },
     {
-      "name": "Vila Nova de Cerveira",
-      "id": "vQdTun950jKR"
+      "id": "vila-nova-de-cerveira",
+      "name": "Vila Nova de Cerveira"
     },
     {
-      "name": "Vila Nova de Famalicao",
-      "id": "_-xwUM025pEG"
+      "id": "vila-nova-de-famalicao",
+      "name": "Vila Nova de Famalicao"
     },
     {
-      "name": "Vila Nova de Gaia",
-      "id": "ddo_Bj2gNmy0"
+      "id": "vila-nova-de-gaia",
+      "name": "Vila Nova de Gaia"
     },
     {
-      "name": "Vila Nova de Paiva",
-      "id": "ctX0Lpq3QJ8Q"
+      "id": "vila-nova-de-paiva",
+      "name": "Vila Nova de Paiva"
     },
     {
-      "name": "Vila Praia de Ancora",
-      "id": "h-fEY5ppW4Zx"
+      "id": "vila-praia-de-ancora",
+      "name": "Vila Praia de Ancora"
     },
     {
-      "name": "Vila Real",
-      "id": "9UIszpt-KLIe"
+      "id": "vila-real",
+      "name": "Vila Real"
     },
     {
-      "name": "Vila Verde",
-      "id": "HBScwlD9QIOh"
+      "id": "vila-verde",
+      "name": "Vila Verde"
     },
     {
-      "name": "Vilar de Perdizes",
-      "id": "7AGtDhy3YdrD"
+      "id": "vilar-de-perdizes",
+      "name": "Vilar de Perdizes"
     },
     {
-      "name": "Vilar do Paraiso",
-      "id": "a0FNvUNGmH3T"
+      "id": "vilar-do-paraiso",
+      "name": "Vilar do Paraiso"
     },
     {
-      "name": "Vilar do Pinheiro",
-      "id": "q1e6QnFWPe_O"
+      "id": "vilar-do-pinheiro",
+      "name": "Vilar do Pinheiro"
     },
     {
-      "name": "Vilar Formoso",
-      "id": "DW1fTQvOEQRv"
+      "id": "vilar-formoso",
+      "name": "Vilar Formoso"
     },
     {
-      "name": "Vilarinho das Paranheiras",
-      "id": "cBnqjFQh0apB"
+      "id": "vilarinho-das-paranheiras",
+      "name": "Vilarinho das Paranheiras"
     },
     {
-      "name": "Vilarinho de Arcos",
-      "id": "NILXSnbAYSQI"
+      "id": "vilarinho-de-arcos",
+      "name": "Vilarinho de Arcos"
     },
     {
-      "name": "Vilarinho do Bairro",
-      "id": "ppUwKITccA1W"
+      "id": "vilarinho-do-bairro",
+      "name": "Vilarinho do Bairro"
     },
     {
-      "name": "Vilela",
-      "id": "0GRf5q4koFIv"
+      "id": "vilela",
+      "name": "Vilela"
     },
     {
-      "name": "Vimieiro",
-      "id": "421qsdwuElTo"
+      "id": "vimieiro",
+      "name": "Vimieiro"
     },
     {
-      "name": "Vinhais",
-      "id": "GDb-ADDhhsAT"
+      "id": "vinhais",
+      "name": "Vinhais"
     },
     {
-      "name": "Viseu",
-      "id": "KKJ17dWmUrmH"
+      "id": "viseu",
+      "name": "Viseu"
     },
     {
-      "name": "Vizela",
-      "id": "_wWWDnzzmvv1"
+      "id": "vizela",
+      "name": "Vizela"
     },
     {
-      "name": "Zambujal",
-      "id": "l7ok2HRD2-Jm"
+      "id": "zambujal",
+      "name": "Zambujal"
     },
     {
-      "name": "Zibreira",
-      "id": "-YEpWgmpeWtI"
+      "id": "zibreira",
+      "name": "Zibreira"
     }
   ]
 }

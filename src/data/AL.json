@@ -2,28 +2,28 @@
   "coid": "AL",
   "cities": [
     {
-      "name": "Elbasan",
-      "id": "ca8a7J1IbZML"
+      "id": "elbasan",
+      "name": "Elbasan"
     },
     {
-      "name": "Petran",
-      "id": "zX6aPH6Cqu4b"
+      "id": "petran",
+      "name": "Petran"
     },
     {
-      "name": "Pogradec",
-      "id": "86xvyGo0T-8d"
+      "id": "pogradec",
+      "name": "Pogradec"
     },
     {
-      "name": "Shkoder",
-      "id": "1-8bLJ4FkFkL"
+      "id": "shkoder",
+      "name": "Shkoder"
     },
     {
-      "name": "Tirana",
-      "id": "g8TD0X--ObYc"
+      "id": "tirana",
+      "name": "Tirana"
     },
     {
-      "name": "Ura Vajgurore",
-      "id": "6Z13XVratwxr"
+      "id": "ura-vajgurore",
+      "name": "Ura Vajgurore"
     }
   ]
 }

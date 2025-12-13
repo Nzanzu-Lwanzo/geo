@@ -2,172 +2,172 @@
   "coid": "KZ",
   "cities": [
     {
-      "name": "Aksay",
-      "id": "90c1XRrzYPll"
+      "id": "aksay",
+      "name": "Aksay"
     },
     {
-      "name": "Aksoran",
-      "id": "x6zjzrmp3fHz"
+      "id": "aksoran",
+      "name": "Aksoran"
     },
     {
-      "name": "Almaty",
-      "id": "mpLZ_bGG6rzk"
+      "id": "almaty",
+      "name": "Almaty"
     },
     {
-      "name": "Aqtas",
-      "id": "uxDkwd1inLfm"
+      "id": "aqtas",
+      "name": "Aqtas"
     },
     {
-      "name": "Aqtau",
-      "id": "JUoK_J0k3A2W"
+      "id": "aqtau",
+      "name": "Aqtau"
     },
     {
-      "name": "Astana",
-      "id": "1N8NN_bmnFQO"
+      "id": "astana",
+      "name": "Astana"
     },
     {
-      "name": "Atyrau",
-      "id": "XhZIIK59Oih1"
+      "id": "atyrau",
+      "name": "Atyrau"
     },
     {
-      "name": "Baikonur",
-      "id": "BCDV3U-dvTf-"
+      "id": "baikonur",
+      "name": "Baikonur"
     },
     {
-      "name": "Dostyk",
-      "id": "AjVDGwxvzmZc"
+      "id": "dostyk",
+      "name": "Dostyk"
     },
     {
-      "name": "Dzhezkazgan",
-      "id": "I-SAW30_e1pH"
+      "id": "dzhezkazgan",
+      "name": "Dzhezkazgan"
     },
     {
-      "name": "Ekibastuz",
-      "id": "KJlf1C7naMJh"
+      "id": "ekibastuz",
+      "name": "Ekibastuz"
     },
     {
-      "name": "Esil",
-      "id": "CmyFuCCX0nqV"
+      "id": "esil",
+      "name": "Esil"
     },
     {
-      "name": "Karagandy",
-      "id": "qNfJT1P1GlB8"
+      "id": "karagandy",
+      "name": "Karagandy"
     },
     {
-      "name": "Kazakh",
-      "id": "_l1KaiqGhMQR"
+      "id": "kazakh",
+      "name": "Kazakh"
     },
     {
-      "name": "Kentau",
-      "id": "5TK0jRANEwf6"
+      "id": "kentau",
+      "name": "Kentau"
     },
     {
-      "name": "Koktem",
-      "id": "4d4rLLcJQTrm"
+      "id": "koktem",
+      "name": "Koktem"
     },
     {
-      "name": "Kostanay",
-      "id": "bHhNxDkeLsAa"
+      "id": "kostanay",
+      "name": "Kostanay"
     },
     {
-      "name": "Kyzyl",
-      "id": "E2rkKlTh-pwG"
+      "id": "kyzyl",
+      "name": "Kyzyl"
     },
     {
-      "name": "Kyzylorda",
-      "id": "CqeuaJjOETqn"
+      "id": "kyzylorda",
+      "name": "Kyzylorda"
     },
     {
-      "name": "Lomonosovka",
-      "id": "th_fGubjZq4b"
+      "id": "lomonosovka",
+      "name": "Lomonosovka"
     },
     {
-      "name": "Oral",
-      "id": "wd7NW57fvRBN"
+      "id": "oral",
+      "name": "Oral"
     },
     {
-      "name": "Pavlodar",
-      "id": "XEbuC6c_WkhL"
+      "id": "pavlodar",
+      "name": "Pavlodar"
     },
     {
-      "name": "Petropavl",
-      "id": "3Tx6Oqc8CPeG"
+      "id": "petropavl",
+      "name": "Petropavl"
     },
     {
-      "name": "Qaraghandy",
-      "id": "_18GDenjN_pz"
+      "id": "qaraghandy",
+      "name": "Qaraghandy"
     },
     {
-      "name": "Qaskeleng",
-      "id": "CspfkJRYRomL"
+      "id": "qaskeleng",
+      "name": "Qaskeleng"
     },
     {
-      "name": "Ridder",
-      "id": "midYLRBDupsK"
+      "id": "ridder",
+      "name": "Ridder"
     },
     {
-      "name": "Rudnyy",
-      "id": "_j-QUXme7vbh"
+      "id": "rudnyy",
+      "name": "Rudnyy"
     },
     {
-      "name": "Semey",
-      "id": "SM8oGl_egm2V"
+      "id": "semey",
+      "name": "Semey"
     },
     {
-      "name": "Serebryansk",
-      "id": "IhnN7FFXpOm0"
+      "id": "serebryansk",
+      "name": "Serebryansk"
     },
     {
-      "name": "Shymkent",
-      "id": "hv_dEdKgTLOt"
+      "id": "shymkent",
+      "name": "Shymkent"
     },
     {
-      "name": "Sonaly",
-      "id": "NzLFTt9zaX7n"
+      "id": "sonaly",
+      "name": "Sonaly"
     },
     {
-      "name": "Stepnogorsk",
-      "id": "Sdipm8wVi7LC"
+      "id": "stepnogorsk",
+      "name": "Stepnogorsk"
     },
     {
-      "name": "Taldyk",
-      "id": "4uj98eu7g-eT"
+      "id": "taldyk",
+      "name": "Taldyk"
     },
     {
-      "name": "Taldykorgan",
-      "id": "DidjlCbBe_y-"
+      "id": "taldykorgan",
+      "name": "Taldykorgan"
     },
     {
-      "name": "Talghar",
-      "id": "WNy-vhGjBy1s"
+      "id": "talghar",
+      "name": "Talghar"
     },
     {
-      "name": "Taraz",
-      "id": "V2-ajHfwwpLX"
+      "id": "taraz",
+      "name": "Taraz"
     },
     {
-      "name": "Temirtau",
-      "id": "Y7NZqfuK7cIX"
+      "id": "temirtau",
+      "name": "Temirtau"
     },
     {
-      "name": "Turkestan",
-      "id": "OrepTzlkm-Z3"
+      "id": "turkestan",
+      "name": "Turkestan"
     },
     {
-      "name": "Uritskiy",
-      "id": "beIBNtXPHeyy"
+      "id": "uritskiy",
+      "name": "Uritskiy"
     },
     {
-      "name": "Ust-Kamenogorsk",
-      "id": "fC74ZIiZGHOM"
+      "id": "ust-kamenogorsk",
+      "name": "Ust-Kamenogorsk"
     },
     {
-      "name": "Vostok",
-      "id": "qeuNIw4FSaFU"
+      "id": "vostok",
+      "name": "Vostok"
     },
     {
-      "name": "Zyryanovsk",
-      "id": "pqtZ7GRJY5Gp"
+      "id": "zyryanovsk",
+      "name": "Zyryanovsk"
     }
   ]
 }

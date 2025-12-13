@@ -2,44 +2,44 @@
   "coid": "MM",
   "cities": [
     {
-      "name": "Yangon",
-      "id": "OvjXpwIWYtHf"
+      "id": "yangon",
+      "name": "Yangon"
     },
     {
-      "name": "Mandalay",
-      "id": "mMWdl2heTHNs"
+      "id": "mandalay",
+      "name": "Mandalay"
     },
     {
-      "name": "Naypyidaw",
-      "id": "0Jwwt8Ad9O2u"
+      "id": "naypyidaw",
+      "name": "Naypyidaw"
     },
     {
-      "name": "Bago",
-      "id": "DmB4WK38L_PJ"
+      "id": "bago",
+      "name": "Bago"
     },
     {
-      "name": "Pathein",
-      "id": "EWpI0T0w6ezN"
+      "id": "pathein",
+      "name": "Pathein"
     },
     {
-      "name": "Mawlamyine",
-      "id": "1EFZAOUPg_tv"
+      "id": "mawlamyine",
+      "name": "Mawlamyine"
     },
     {
-      "name": "Sittwe",
-      "id": "8cgCyg7xJLch"
+      "id": "sittwe",
+      "name": "Sittwe"
     },
     {
-      "name": "Taunggyi",
-      "id": "nydLO17TNZtQ"
+      "id": "taunggyi",
+      "name": "Taunggyi"
     },
     {
-      "name": "Monywa",
-      "id": "g18spBOJzvua"
+      "id": "monywa",
+      "name": "Monywa"
     },
     {
-      "name": "Myitkyina",
-      "id": "X02ignUJHIbX"
+      "id": "myitkyina",
+      "name": "Myitkyina"
     }
   ]
 }

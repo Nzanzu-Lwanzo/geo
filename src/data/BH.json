@@ -2,72 +2,72 @@
   "coid": "BH",
   "cities": [
     {
-      "name": "Al Budayyi`",
-      "id": "q-af662P9qXq"
+      "id": "al-budayyi",
+      "name": "Al Budayyi`"
     },
     {
-      "name": "Al Hadd",
-      "id": "kQ6vgA9Sl1rq"
+      "id": "al-hadd",
+      "name": "Al Hadd"
     },
     {
-      "name": "Al Hamalah",
-      "id": "ku2-rYeiHg-s"
+      "id": "al-hamalah",
+      "name": "Al Hamalah"
     },
     {
-      "name": "Al Janabiyah",
-      "id": "xqWSbj7r2olZ"
+      "id": "al-janabiyah",
+      "name": "Al Janabiyah"
     },
     {
-      "name": "Al Markh",
-      "id": "cXNERWjG-uJo"
+      "id": "al-markh",
+      "name": "Al Markh"
     },
     {
-      "name": "Al Muharraq",
-      "id": "nasM29vzJIg2"
+      "id": "al-muharraq",
+      "name": "Al Muharraq"
     },
     {
-      "name": "Bani Jamrah",
-      "id": "AomJf6_xwgxQ"
+      "id": "bani-jamrah",
+      "name": "Bani Jamrah"
     },
     {
-      "name": "Barbar",
-      "id": "_h-XgjXdx1b9"
+      "id": "barbar",
+      "name": "Barbar"
     },
     {
-      "name": "Jurdab",
-      "id": "TMYBvDWOaaWl"
+      "id": "jurdab",
+      "name": "Jurdab"
     },
     {
-      "name": "Madinat `Isa",
-      "id": "Ct0B63ccAamN"
+      "id": "madinat-isa",
+      "name": "Madinat `Isa"
     },
     {
-      "name": "Madinat Hamad",
-      "id": "D-hSYr_zVWHP"
+      "id": "madinat-hamad",
+      "name": "Madinat Hamad"
     },
     {
-      "name": "Manama",
-      "id": "B2IcdZjEEFi-"
+      "id": "manama",
+      "name": "Manama"
     },
     {
-      "name": "Oil City",
-      "id": "tJGlOEhZmj0a"
+      "id": "oil-city",
+      "name": "Oil City"
     },
     {
-      "name": "Sanabis",
-      "id": "aJzLo3tFqfa7"
+      "id": "sanabis",
+      "name": "Sanabis"
     },
     {
-      "name": "Sanad",
-      "id": "ijXt10AiLW4_"
+      "id": "sanad",
+      "name": "Sanad"
     },
     {
-      "name": "Sitrah",
-      "id": "LrHsWCKjTOS-"
+      "id": "sitrah",
+      "name": "Sitrah"
     },
     {
-      "name": "Tubli",
-      "id": "rtjU69aL786H"
+      "id": "tubli",
+      "name": "Tubli"
     }
   ]
 }

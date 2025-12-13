@@ -2,44 +2,44 @@
   "coid": "KP",
   "cities": [
     {
-      "name": "Pyongyang",
-      "id": "owxjF8KG-pXc"
+      "id": "pyongyang",
+      "name": "Pyongyang"
     },
     {
-      "name": "Hamhung",
-      "id": "IGS0b8hOxLzY"
+      "id": "hamhung",
+      "name": "Hamhung"
     },
     {
-      "name": "Chongjin",
-      "id": "vLd9B3nYlLWm"
+      "id": "chongjin",
+      "name": "Chongjin"
     },
     {
-      "name": "Nampo",
-      "id": "xKYfF1M9JyCy"
+      "id": "nampo",
+      "name": "Nampo"
     },
     {
-      "name": "Wonsan",
-      "id": "f2xfO9aeslUl"
+      "id": "wonsan",
+      "name": "Wonsan"
     },
     {
-      "name": "Sinuiju",
-      "id": "mnc-N5COugts"
+      "id": "sinuiju",
+      "name": "Sinuiju"
     },
     {
-      "name": "Tanchon",
-      "id": "1I_4-uvKGuO0"
+      "id": "tanchon",
+      "name": "Tanchon"
     },
     {
-      "name": "Kaesong",
-      "id": "u5YeJG8ajW7Q"
+      "id": "kaesong",
+      "name": "Kaesong"
     },
     {
-      "name": "Haeju",
-      "id": "3R5CPVfQSDXq"
+      "id": "haeju",
+      "name": "Haeju"
     },
     {
-      "name": "Kanggye",
-      "id": "klYSiyQwxKlF"
+      "id": "kanggye",
+      "name": "Kanggye"
     }
   ]
 }

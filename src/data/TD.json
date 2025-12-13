@@ -2,44 +2,44 @@
   "coid": "TD",
   "cities": [
     {
-      "name": "N'Djamena",
-      "id": "ELUuBWqWX4lA"
+      "id": "ndjamena",
+      "name": "N'Djamena"
     },
     {
-      "name": "Moundou",
-      "id": "_k1syhvEoDJ2"
+      "id": "moundou",
+      "name": "Moundou"
     },
     {
-      "name": "Sarh",
-      "id": "EDT9F-YCmX4U"
+      "id": "sarh",
+      "name": "Sarh"
     },
     {
-      "name": "Abeche",
-      "id": "ZAlZJzFG3KOm"
+      "id": "abeche",
+      "name": "Abeche"
     },
     {
-      "name": "Kelo",
-      "id": "MXnYvPjXrt4h"
+      "id": "kelo",
+      "name": "Kelo"
     },
     {
-      "name": "Koumra",
-      "id": "mdI36IMazkDq"
+      "id": "koumra",
+      "name": "Koumra"
     },
     {
-      "name": "Pala",
-      "id": "GojBp8XR_jn1"
+      "id": "pala",
+      "name": "Pala"
     },
     {
-      "name": "Am Timan",
-      "id": "uAkqfdBTz_TD"
+      "id": "am-timan",
+      "name": "Am Timan"
     },
     {
-      "name": "Mongo",
-      "id": "u4Bm58XvPYpN"
+      "id": "mongo",
+      "name": "Mongo"
     },
     {
-      "name": "Bongor",
-      "id": "CMEbEiWLy_ID"
+      "id": "bongor",
+      "name": "Bongor"
     }
   ]
 }

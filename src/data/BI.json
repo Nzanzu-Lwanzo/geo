@@ -2,44 +2,44 @@
   "coid": "BI",
   "cities": [
     {
-      "name": "Bujumbura",
-      "id": "zxfMI4z5OjUg"
+      "id": "bujumbura",
+      "name": "Bujumbura"
     },
     {
-      "name": "Gitega",
-      "id": "2NQVQnNhlqZn"
+      "id": "gitega",
+      "name": "Gitega"
     },
     {
-      "name": "Ngozi",
-      "id": "J8mPNchtLyaI"
+      "id": "ngozi",
+      "name": "Ngozi"
     },
     {
-      "name": "Rumonge",
-      "id": "fF0o-dYHx0wW"
+      "id": "rumonge",
+      "name": "Rumonge"
     },
     {
-      "name": "Muyinga",
-      "id": "GQMfS4WT8KDb"
+      "id": "muyinga",
+      "name": "Muyinga"
     },
     {
-      "name": "Ruyigi",
-      "id": "7dtx5DiGTP22"
+      "id": "ruyigi",
+      "name": "Ruyigi"
     },
     {
-      "name": "Kayanza",
-      "id": "c9hhimixotlk"
+      "id": "kayanza",
+      "name": "Kayanza"
     },
     {
-      "name": "Bururi",
-      "id": "V6-1Q1tBM_gM"
+      "id": "bururi",
+      "name": "Bururi"
     },
     {
-      "name": "Makamba",
-      "id": "3UvL_gKqIKZn"
+      "id": "makamba",
+      "name": "Makamba"
     },
     {
-      "name": "Muramvya",
-      "id": "2i5pN0hQXLyo"
+      "id": "muramvya",
+      "name": "Muramvya"
     }
   ]
 }

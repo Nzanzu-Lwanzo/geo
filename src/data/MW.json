@@ -2,44 +2,44 @@
   "coid": "MW",
   "cities": [
     {
-      "name": "Lilongwe",
-      "id": "o6EhuBpsunvS"
+      "id": "lilongwe",
+      "name": "Lilongwe"
     },
     {
-      "name": "Blantyre",
-      "id": "5E21nTfUyvZy"
+      "id": "blantyre",
+      "name": "Blantyre"
     },
     {
-      "name": "Mzuzu",
-      "id": "FL2Nqangn_fV"
+      "id": "mzuzu",
+      "name": "Mzuzu"
     },
     {
-      "name": "Zomba",
-      "id": "YePqb7zw8n2s"
+      "id": "zomba",
+      "name": "Zomba"
     },
     {
-      "name": "Kasungu",
-      "id": "7-HFdiL9t4TI"
+      "id": "kasungu",
+      "name": "Kasungu"
     },
     {
-      "name": "Mangochi",
-      "id": "IIGiUsAnEB3V"
+      "id": "mangochi",
+      "name": "Mangochi"
     },
     {
-      "name": "Karonga",
-      "id": "gXjkoyKCzjHr"
+      "id": "karonga",
+      "name": "Karonga"
     },
     {
-      "name": "Salima",
-      "id": "pN5ANoGJfE7_"
+      "id": "salima",
+      "name": "Salima"
     },
     {
-      "name": "Nkhotakota",
-      "id": "OkjGC4GvQtkF"
+      "id": "nkhotakota",
+      "name": "Nkhotakota"
     },
     {
-      "name": "Liwonde",
-      "id": "WOGynU42VBJ_"
+      "id": "liwonde",
+      "name": "Liwonde"
     }
   ]
 }

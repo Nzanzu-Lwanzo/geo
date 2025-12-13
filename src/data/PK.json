@@ -2,284 +2,284 @@
   "coid": "PK",
   "cities": [
     {
-      "name": "Abbottabad",
-      "id": "6Z-kA1q3ld-n"
+      "id": "abbottabad",
+      "name": "Abbottabad"
     },
     {
-      "name": "Attock",
-      "id": "q88OxrOqKfE0"
+      "id": "attock",
+      "name": "Attock"
     },
     {
-      "name": "Batgram",
-      "id": "kpC_VjjUM1ik"
+      "id": "batgram",
+      "name": "Batgram"
     },
     {
-      "name": "Bhimbar",
-      "id": "Gg9yUQHx5G8J"
+      "id": "bhimbar",
+      "name": "Bhimbar"
     },
     {
-      "name": "Burewala",
-      "id": "2bK1KvDdJcZQ"
+      "id": "burewala",
+      "name": "Burewala"
     },
     {
-      "name": "Cantt",
-      "id": "9MtyRV7a3tDs"
+      "id": "cantt",
+      "name": "Cantt"
     },
     {
-      "name": "Chakwal",
-      "id": "zrEdnE2sSmje"
+      "id": "chakwal",
+      "name": "Chakwal"
     },
     {
-      "name": "Clifton",
-      "id": "vrg01VTgT19e"
+      "id": "clifton",
+      "name": "Clifton"
     },
     {
-      "name": "Daska",
-      "id": "6WZYDVVtRDe5"
+      "id": "daska",
+      "name": "Daska"
     },
     {
-      "name": "Daud Khel",
-      "id": "CpHV9fzOQW0p"
+      "id": "daud-khel",
+      "name": "Daud Khel"
     },
     {
-      "name": "Dera Ghazi Khan",
-      "id": "MZHkVGY6i3zn"
+      "id": "dera-ghazi-khan",
+      "name": "Dera Ghazi Khan"
     },
     {
-      "name": "Faisalabad",
-      "id": "XtP4kA02o3IQ"
+      "id": "faisalabad",
+      "name": "Faisalabad"
     },
     {
-      "name": "Fazal",
-      "id": "MTea_SiHKotD"
+      "id": "fazal",
+      "name": "Fazal"
     },
     {
-      "name": "Gilgit",
-      "id": "3tbM6DyVzka2"
+      "id": "gilgit",
+      "name": "Gilgit"
     },
     {
-      "name": "Goth Abad Magsi",
-      "id": "eo4_0F-k4puX"
+      "id": "goth-abad-magsi",
+      "name": "Goth Abad Magsi"
     },
     {
-      "name": "Gujar Khan",
-      "id": "Y258SNqxH0XS"
+      "id": "gujar-khan",
+      "name": "Gujar Khan"
     },
     {
-      "name": "Gujranwala",
-      "id": "F-IbyD8KxTjA"
+      "id": "gujranwala",
+      "name": "Gujranwala"
     },
     {
-      "name": "Gujrat",
-      "id": "2oF7-K1kKVbw"
+      "id": "gujrat",
+      "name": "Gujrat"
     },
     {
-      "name": "Gulberg",
-      "id": "67hO3A1yNjnw"
+      "id": "gulberg",
+      "name": "Gulberg"
     },
     {
-      "name": "Gulshan-e-Iqbal",
-      "id": "RrOTndehB9n6"
+      "id": "gulshan-e-iqbal",
+      "name": "Gulshan-e-Iqbal"
     },
     {
-      "name": "Habib Baihk",
-      "id": "zDl3W4oK8c5Y"
+      "id": "habib-baihk",
+      "name": "Habib Baihk"
     },
     {
-      "name": "Haripur",
-      "id": "uZpnKuqHSa1r"
+      "id": "haripur",
+      "name": "Haripur"
     },
     {
-      "name": "Havelian",
-      "id": "uee-UY6Z5PIA"
+      "id": "havelian",
+      "name": "Havelian"
     },
     {
-      "name": "Hyderabad",
-      "id": "1O8JgEYzNAX4"
+      "id": "hyderabad",
+      "name": "Hyderabad"
     },
     {
-      "name": "Islamabad",
-      "id": "Dcb8bRQ5iqdB"
+      "id": "islamabad",
+      "name": "Islamabad"
     },
     {
-      "name": "Jhang City",
-      "id": "X0LraIpvUWxv"
+      "id": "jhang-city",
+      "name": "Jhang City"
     },
     {
-      "name": "Jhang Sadr",
-      "id": "259arxqKiSSz"
+      "id": "jhang-sadr",
+      "name": "Jhang Sadr"
     },
     {
-      "name": "Jhelum",
-      "id": "do4QDK5as41Z"
+      "id": "jhelum",
+      "name": "Jhelum"
     },
     {
-      "name": "Jhumra",
-      "id": "8NU-v4TFnSy1"
+      "id": "jhumra",
+      "name": "Jhumra"
     },
     {
-      "name": "Kabirwala",
-      "id": "nNDP3_juE_Ef"
+      "id": "kabirwala",
+      "name": "Kabirwala"
     },
     {
-      "name": "Karachi",
-      "id": "Xsm2pGvue8yl"
+      "id": "karachi",
+      "name": "Karachi"
     },
     {
-      "name": "Kasur",
-      "id": "te1CspzFgVI3"
+      "id": "kasur",
+      "name": "Kasur"
     },
     {
-      "name": "Khan",
-      "id": "XRbGGypcfxyh"
+      "id": "khan",
+      "name": "Khan"
     },
     {
-      "name": "Khanewal",
-      "id": "Z3fbl4jbM-xo"
+      "id": "khanewal",
+      "name": "Khanewal"
     },
     {
-      "name": "Khanpur",
-      "id": "1YVHainPKxAt"
+      "id": "khanpur",
+      "name": "Khanpur"
     },
     {
-      "name": "Kohat",
-      "id": "hUTMSOX3RXYq"
+      "id": "kohat",
+      "name": "Kohat"
     },
     {
-      "name": "Lahore",
-      "id": "5ACAA_eE6xrw"
+      "id": "lahore",
+      "name": "Lahore"
     },
     {
-      "name": "Mandi",
-      "id": "zjxCdapEHTIq"
+      "id": "mandi",
+      "name": "Mandi"
     },
     {
-      "name": "Mandi Bahauddin",
-      "id": "ZKDUOZ6N7q7Z"
+      "id": "mandi-bahauddin",
+      "name": "Mandi Bahauddin"
     },
     {
-      "name": "Mansehra",
-      "id": "_UBr7wYw0l2J"
+      "id": "mansehra",
+      "name": "Mansehra"
     },
     {
-      "name": "Mardan",
-      "id": "2vM3AcoMha0O"
+      "id": "mardan",
+      "name": "Mardan"
     },
     {
-      "name": "Mian Channu",
-      "id": "G9AE7ksoCyA6"
+      "id": "mian-channu",
+      "name": "Mian Channu"
     },
     {
-      "name": "Mianwali",
-      "id": "fjeUmG14XFS6"
+      "id": "mianwali",
+      "name": "Mianwali"
     },
     {
-      "name": "Miran Shah",
-      "id": "MZqVUUrnMlv3"
+      "id": "miran-shah",
+      "name": "Miran Shah"
     },
     {
-      "name": "Multan",
-      "id": "LxJ-8lsKdAcb"
+      "id": "multan",
+      "name": "Multan"
     },
     {
-      "name": "Muzaffarabad",
-      "id": "gwWlU9Q3PlZI"
+      "id": "muzaffarabad",
+      "name": "Muzaffarabad"
     },
     {
-      "name": "Nangar",
-      "id": "uXi5MJrY8ArN"
+      "id": "nangar",
+      "name": "Nangar"
     },
     {
-      "name": "Nankana Sahib",
-      "id": "dHNXZ_K0e-qy"
+      "id": "nankana-sahib",
+      "name": "Nankana Sahib"
     },
     {
-      "name": "Narowal",
-      "id": "Qz9MI063ULC-"
+      "id": "narowal",
+      "name": "Narowal"
     },
     {
-      "name": "New Mirpur",
-      "id": "5TgWRczYBfDb"
+      "id": "new-mirpur",
+      "name": "New Mirpur"
     },
     {
-      "name": "Nowshera",
-      "id": "2KCi6XTb2bHc"
+      "id": "nowshera",
+      "name": "Nowshera"
     },
     {
-      "name": "Okara",
-      "id": "96c3iwfzxhPc"
+      "id": "okara",
+      "name": "Okara"
     },
     {
-      "name": "Peshawar",
-      "id": "067xIlSIfYgV"
+      "id": "peshawar",
+      "name": "Peshawar"
     },
     {
-      "name": "Pindi",
-      "id": "09H1Q9JWCSUq"
+      "id": "pindi",
+      "name": "Pindi"
     },
     {
-      "name": "Plot",
-      "id": "UcFyrdu8QVni"
+      "id": "plot",
+      "name": "Plot"
     },
     {
-      "name": "Quetta",
-      "id": "WeA8VTd7Njtl"
+      "id": "quetta",
+      "name": "Quetta"
     },
     {
-      "name": "Rawalpindi",
-      "id": "gUPaEXInDG02"
+      "id": "rawalpindi",
+      "name": "Rawalpindi"
     },
     {
-      "name": "Rawlakot",
-      "id": "I7tGQfEN6q7m"
+      "id": "rawlakot",
+      "name": "Rawlakot"
     },
     {
-      "name": "Saddar",
-      "id": "GQe86liKYCEq"
+      "id": "saddar",
+      "name": "Saddar"
     },
     {
-      "name": "Sahiwal",
-      "id": "HlpVGkjsUkDM"
+      "id": "sahiwal",
+      "name": "Sahiwal"
     },
     {
-      "name": "Sarai Sidhu",
-      "id": "aJChU-UDhlne"
+      "id": "sarai-sidhu",
+      "name": "Sarai Sidhu"
     },
     {
-      "name": "Sargodha",
-      "id": "tTrvRUdQjqpn"
+      "id": "sargodha",
+      "name": "Sargodha"
     },
     {
-      "name": "Sarwar",
-      "id": "oANsbLOdXH3i"
+      "id": "sarwar",
+      "name": "Sarwar"
     },
     {
-      "name": "Sheikhupura",
-      "id": "TVHcSsYwcM_1"
+      "id": "sheikhupura",
+      "name": "Sheikhupura"
     },
     {
-      "name": "Sialkot",
-      "id": "59cFS4V2w0yv"
+      "id": "sialkot",
+      "name": "Sialkot"
     },
     {
-      "name": "Sukkur",
-      "id": "SRlDDh0E3hbN"
+      "id": "sukkur",
+      "name": "Sukkur"
     },
     {
-      "name": "Toba Tek Singh",
-      "id": "A0J43FpDcfVk"
+      "id": "toba-tek-singh",
+      "name": "Toba Tek Singh"
     },
     {
-      "name": "Usman",
-      "id": "U8TrynK9f5wX"
+      "id": "usman",
+      "name": "Usman"
     },
     {
-      "name": "Wazirabad",
-      "id": "aYhQ26zSeUw9"
+      "id": "wazirabad",
+      "name": "Wazirabad"
     },
     {
-      "name": "Ziauddin",
-      "id": "Pk82BA-8dk_U"
+      "id": "ziauddin",
+      "name": "Ziauddin"
     }
   ]
 }

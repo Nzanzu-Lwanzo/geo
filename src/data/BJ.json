@@ -2,44 +2,44 @@
   "coid": "BJ",
   "cities": [
     {
-      "name": "Cotonou",
-      "id": "gFcZHAQGbLbu"
+      "id": "cotonou",
+      "name": "Cotonou"
     },
     {
-      "name": "Porto-Novo",
-      "id": "9N7In3PAZU_l"
+      "id": "porto-novo",
+      "name": "Porto-Novo"
     },
     {
-      "name": "Parakou",
-      "id": "VQ9G3J4vanES"
+      "id": "parakou",
+      "name": "Parakou"
     },
     {
-      "name": "Djougou",
-      "id": "Vy7u3gYrXBJx"
+      "id": "djougou",
+      "name": "Djougou"
     },
     {
-      "name": "Bohicon",
-      "id": "Hz6RulX86_Rt"
+      "id": "bohicon",
+      "name": "Bohicon"
     },
     {
-      "name": "Kandi",
-      "id": "EHDeyd0Qu4g9"
+      "id": "kandi",
+      "name": "Kandi"
     },
     {
-      "name": "Abomey",
-      "id": "gDUXVrWjVZKM"
+      "id": "abomey",
+      "name": "Abomey"
     },
     {
-      "name": "Natitingou",
-      "id": "eFvgLrktNWP3"
+      "id": "natitingou",
+      "name": "Natitingou"
     },
     {
-      "name": "Lokossa",
-      "id": "Avs4rzZAmw_z"
+      "id": "lokossa",
+      "name": "Lokossa"
     },
     {
-      "name": "Ouidah",
-      "id": "ANMu3zjxeyYq"
+      "id": "ouidah",
+      "name": "Ouidah"
     }
   ]
 }

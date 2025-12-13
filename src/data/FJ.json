@@ -2,44 +2,44 @@
   "coid": "FJ",
   "cities": [
     {
-      "name": "Suva",
-      "id": "GMefES_5iOGj"
+      "id": "suva",
+      "name": "Suva"
     },
     {
-      "name": "Lautoka",
-      "id": "Mefhb8BbdpyB"
+      "id": "lautoka",
+      "name": "Lautoka"
     },
     {
-      "name": "Nadi",
-      "id": "_F_t-5TIPMzk"
+      "id": "nadi",
+      "name": "Nadi"
     },
     {
-      "name": "Labasa",
-      "id": "yB7W9P0gAofH"
+      "id": "labasa",
+      "name": "Labasa"
     },
     {
-      "name": "Ba",
-      "id": "mb2xJrXj9bRE"
+      "id": "ba",
+      "name": "Ba"
     },
     {
-      "name": "Levuka",
-      "id": "R-p2rgYfHdK5"
+      "id": "levuka",
+      "name": "Levuka"
     },
     {
-      "name": "Savusavu",
-      "id": "KqbAxsPk6r3_"
+      "id": "savusavu",
+      "name": "Savusavu"
     },
     {
-      "name": "Tavua",
-      "id": "c_XBFqO4wQHZ"
+      "id": "tavua",
+      "name": "Tavua"
     },
     {
-      "name": "Sigatoka",
-      "id": "KBlKFjMfGm_c"
+      "id": "sigatoka",
+      "name": "Sigatoka"
     },
     {
-      "name": "Rakiraki",
-      "id": "tzZutLxMnCJf"
+      "id": "rakiraki",
+      "name": "Rakiraki"
     }
   ]
 }

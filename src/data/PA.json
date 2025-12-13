@@ -2,292 +2,292 @@
   "coid": "PA",
   "cities": [
     {
-      "name": "Aguadulce",
-      "id": "cK0F7OjT7YHD"
+      "id": "aguadulce",
+      "name": "Aguadulce"
     },
     {
-      "name": "Albrook",
-      "id": "LaJt3kGhmeST"
+      "id": "albrook",
+      "name": "Albrook"
     },
     {
-      "name": "Ancon",
-      "id": "lIxdWB0Doilq"
+      "id": "ancon",
+      "name": "Ancon"
     },
     {
-      "name": "Arosemena",
-      "id": "N4gbEY_xG4ih"
+      "id": "arosemena",
+      "name": "Arosemena"
     },
     {
-      "name": "Arraijan",
-      "id": "ImPeMxM2pzPu"
+      "id": "arraijan",
+      "name": "Arraijan"
     },
     {
-      "name": "Balboa",
-      "id": "B0BzoPq1dpY5"
+      "id": "balboa",
+      "name": "Balboa"
     },
     {
-      "name": "Bella Vista",
-      "id": "e-ubr3QF7lub"
+      "id": "bella-vista",
+      "name": "Bella Vista"
     },
     {
-      "name": "Bocas del Toro",
-      "id": "ddyob13ReRce"
+      "id": "bocas-del-toro",
+      "name": "Bocas del Toro"
     },
     {
-      "name": "Boquete",
-      "id": "DDHU8w2_Kgyd"
+      "id": "boquete",
+      "name": "Boquete"
     },
     {
-      "name": "Bugaba",
-      "id": "Aa2vySDpfylL"
+      "id": "bugaba",
+      "name": "Bugaba"
     },
     {
-      "name": "Calidonia",
-      "id": "X1c25CTEdvgv"
+      "id": "calidonia",
+      "name": "Calidonia"
     },
     {
-      "name": "Campo Alegre",
-      "id": "mmAeNLBuy3qx"
+      "id": "campo-alegre",
+      "name": "Campo Alegre"
     },
     {
-      "name": "Cerro Viento",
-      "id": "de6nxFHgUZH4"
+      "id": "cerro-viento",
+      "name": "Cerro Viento"
     },
     {
-      "name": "Chigore",
-      "id": "UBzTVrGeVpin"
+      "id": "chigore",
+      "name": "Chigore"
     },
     {
-      "name": "Chiriqui",
-      "id": "fnoGZobbm-iN"
+      "id": "chiriqui",
+      "name": "Chiriqui"
     },
     {
-      "name": "Cocle",
-      "id": "GHPK17vm21oL"
+      "id": "cocle",
+      "name": "Cocle"
     },
     {
-      "name": "Corozal",
-      "id": "VL-2kIYGCdHU"
+      "id": "corozal",
+      "name": "Corozal"
     },
     {
-      "name": "Cristobal",
-      "id": "AA4XRAbHnoRt"
+      "id": "cristobal",
+      "name": "Cristobal"
     },
     {
-      "name": "Curundame",
-      "id": "BxCbyeQyQFeD"
+      "id": "curundame",
+      "name": "Curundame"
     },
     {
-      "name": "Curundu",
-      "id": "tlJsZwHPMx29"
+      "id": "curundu",
+      "name": "Curundu"
     },
     {
-      "name": "David",
-      "id": "pRsS8o1L-B_8"
+      "id": "david",
+      "name": "David"
     },
     {
-      "name": "El Arado",
-      "id": "mlTSll2lVsdE"
+      "id": "el-arado",
+      "name": "El Arado"
     },
     {
-      "name": "El Cangrejo",
-      "id": "p6MOgUGH3jqX"
+      "id": "el-cangrejo",
+      "name": "El Cangrejo"
     },
     {
-      "name": "El Lago",
-      "id": "efSx15gcYjH4"
+      "id": "el-lago",
+      "name": "El Lago"
     },
     {
-      "name": "Elena",
-      "id": "TwHwAxcAICQB"
+      "id": "elena",
+      "name": "Elena"
     },
     {
-      "name": "Entre Rios",
-      "id": "yFLY5mNbZVqE"
+      "id": "entre-rios",
+      "name": "Entre Rios"
     },
     {
-      "name": "Finca Blanco Numero Uno",
-      "id": "0JLnVUD78rX9"
+      "id": "finca-blanco-numero-uno",
+      "name": "Finca Blanco Numero Uno"
     },
     {
-      "name": "Fuerte Amador",
-      "id": "82mzdMyA_pFY"
+      "id": "fuerte-amador",
+      "name": "Fuerte Amador"
     },
     {
-      "name": "Guadalupe",
-      "id": "_nrRjpMSOh8i"
+      "id": "guadalupe",
+      "name": "Guadalupe"
     },
     {
-      "name": "Jimenez",
-      "id": "rWLsuGs5Z7ol"
+      "id": "jimenez",
+      "name": "Jimenez"
     },
     {
-      "name": "Juan Diaz",
-      "id": "IYWKPxhuA3Vu"
+      "id": "juan-diaz",
+      "name": "Juan Diaz"
     },
     {
-      "name": "Juan Franco",
-      "id": "u4B3Q544-JR6"
+      "id": "juan-franco",
+      "name": "Juan Franco"
     },
     {
-      "name": "Kuba",
-      "id": "TNfst_bqNiyO"
+      "id": "kuba",
+      "name": "Kuba"
     },
     {
-      "name": "La Chorrera",
-      "id": "EnBqDpSiRnDK"
+      "id": "la-chorrera",
+      "name": "La Chorrera"
     },
     {
-      "name": "La Exposicion",
-      "id": "sZR683BaCB4_"
+      "id": "la-exposicion",
+      "name": "La Exposicion"
     },
     {
-      "name": "La Loma",
-      "id": "RF9EUt84elfA"
+      "id": "la-loma",
+      "name": "La Loma"
     },
     {
-      "name": "Las Mercedes",
-      "id": "wkinXA4LaZq9"
+      "id": "las-mercedes",
+      "name": "Las Mercedes"
     },
     {
-      "name": "Las Sabanas",
-      "id": "D3wLCf85yn_I"
+      "id": "las-sabanas",
+      "name": "Las Sabanas"
     },
     {
-      "name": "Las Tablas",
-      "id": "zppq-v01Uty_"
+      "id": "las-tablas",
+      "name": "Las Tablas"
     },
     {
-      "name": "Llano Tugri",
-      "id": "r4nwS5zgKIcw"
+      "id": "llano-tugri",
+      "name": "Llano Tugri"
     },
     {
-      "name": "Los Angeles",
-      "id": "pCwzTfvC6B2F"
+      "id": "los-angeles",
+      "name": "Los Angeles"
     },
     {
-      "name": "Muerto",
-      "id": "jjejdqtQAdj7"
+      "id": "muerto",
+      "name": "Muerto"
     },
     {
-      "name": "Mulatupo",
-      "id": "82yhFv5lQFe8"
+      "id": "mulatupo",
+      "name": "Mulatupo"
     },
     {
-      "name": "Paitilla",
-      "id": "UAxCpV3lspC5"
+      "id": "paitilla",
+      "name": "Paitilla"
     },
     {
-      "name": "Panama City",
-      "id": "k1qJAiF3Ijx8"
+      "id": "panama-city",
+      "name": "Panama City"
     },
     {
-      "name": "Parque Lefevre",
-      "id": "T5x--S3kWVNH"
+      "id": "parque-lefevre",
+      "name": "Parque Lefevre"
     },
     {
-      "name": "Peru",
-      "id": "ndlTsny7Shmt"
+      "id": "peru",
+      "name": "Peru"
     },
     {
-      "name": "Playa Blanca",
-      "id": "QIMYG9iA1dlM"
+      "id": "playa-blanca",
+      "name": "Playa Blanca"
     },
     {
-      "name": "Plaza",
-      "id": "2rUG67dl9SBY"
+      "id": "plaza",
+      "name": "Plaza"
     },
     {
-      "name": "Portobelo",
-      "id": "II5hXRWokGhz"
+      "id": "portobelo",
+      "name": "Portobelo"
     },
     {
-      "name": "Pueblo Nuevo",
-      "id": "6LpMDbk6Bu_V"
+      "id": "pueblo-nuevo",
+      "name": "Pueblo Nuevo"
     },
     {
-      "name": "Quebrada de Camilo",
-      "id": "x_lU51jHYatz"
+      "id": "quebrada-de-camilo",
+      "name": "Quebrada de Camilo"
     },
     {
-      "name": "Rio Abajo",
-      "id": "SR1tOo9wit5J"
+      "id": "rio-abajo",
+      "name": "Rio Abajo"
     },
     {
-      "name": "Sabalo",
-      "id": "bIO-8Xj-vBB8"
+      "id": "sabalo",
+      "name": "Sabalo"
     },
     {
-      "name": "Sacramento",
-      "id": "7rpUBLziATa8"
+      "id": "sacramento",
+      "name": "Sacramento"
     },
     {
-      "name": "San Cristobal",
-      "id": "GccR3cp3WF5i"
+      "id": "san-cristobal",
+      "name": "San Cristobal"
     },
     {
-      "name": "San Felipe",
-      "id": "RKFWCbtYaLQ1"
+      "id": "san-felipe",
+      "name": "San Felipe"
     },
     {
-      "name": "San Francisco",
-      "id": "hKGEYAISyNja"
+      "id": "san-francisco",
+      "name": "San Francisco"
     },
     {
-      "name": "San Miguelito",
-      "id": "B5_FtjSdYXDe"
+      "id": "san-miguelito",
+      "name": "San Miguelito"
     },
     {
-      "name": "Santa Ana",
-      "id": "jmk9eIqacZOo"
+      "id": "santa-ana",
+      "name": "Santa Ana"
     },
     {
-      "name": "Santa Catalina",
-      "id": "W5pDku82phBY"
+      "id": "santa-catalina",
+      "name": "Santa Catalina"
     },
     {
-      "name": "Santa Clara",
-      "id": "c79b-YCHYH_g"
+      "id": "santa-clara",
+      "name": "Santa Clara"
     },
     {
-      "name": "Santa Isabel",
-      "id": "ElQMEkHyq1G8"
+      "id": "santa-isabel",
+      "name": "Santa Isabel"
     },
     {
-      "name": "Santiago",
-      "id": "-fTa2dmhTPu4"
+      "id": "santiago",
+      "name": "Santiago"
     },
     {
-      "name": "Santo Domingo",
-      "id": "2sKBzxzFjkiX"
+      "id": "santo-domingo",
+      "name": "Santo Domingo"
     },
     {
-      "name": "Tocumen",
-      "id": "RMkdFu068wOD"
+      "id": "tocumen",
+      "name": "Tocumen"
     },
     {
-      "name": "Torre",
-      "id": "W3R6XpYxqrAj"
+      "id": "torre",
+      "name": "Torre"
     },
     {
-      "name": "Torres Bluff",
-      "id": "j0f5_jRSh73N"
+      "id": "torres-bluff",
+      "name": "Torres Bluff"
     },
     {
-      "name": "Veraguas",
-      "id": "4dt9Lpo4FB7S"
+      "id": "veraguas",
+      "name": "Veraguas"
     },
     {
-      "name": "Victoria",
-      "id": "krlAYlJZBOhU"
+      "id": "victoria",
+      "name": "Victoria"
     },
     {
-      "name": "Vista Alegre",
-      "id": "3h-L8-KLz9sY"
+      "id": "vista-alegre",
+      "name": "Vista Alegre"
     },
     {
-      "name": "Vista Hermosa",
-      "id": "UUF0K3q0j2Jh"
+      "id": "vista-hermosa",
+      "name": "Vista Hermosa"
     }
   ]
 }

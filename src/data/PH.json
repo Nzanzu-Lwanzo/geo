@@ -2,1472 +2,1472 @@
   "coid": "PH",
   "cities": [
     {
-      "name": "Abucay",
-      "id": "al01UdgQoq7E"
+      "id": "abucay",
+      "name": "Abucay"
     },
     {
-      "name": "Acacia",
-      "id": "yZDKdLqL2vjH"
+      "id": "acacia",
+      "name": "Acacia"
     },
     {
-      "name": "Aguilar",
-      "id": "fTdslOe85uZJ"
+      "id": "aguilar",
+      "name": "Aguilar"
     },
     {
-      "name": "Agusan Pequeno",
-      "id": "2TZQTrKs7thT"
+      "id": "agusan-pequeno",
+      "name": "Agusan Pequeno"
     },
     {
-      "name": "Alabang",
-      "id": "WW9lFQEDhL9r"
+      "id": "alabang",
+      "name": "Alabang"
     },
     {
-      "name": "Alaminos",
-      "id": "tziYGYYgFrxD"
+      "id": "alaminos",
+      "name": "Alaminos"
     },
     {
-      "name": "Alcala",
-      "id": "Y_kxbDXzj6ct"
+      "id": "alcala",
+      "name": "Alcala"
     },
     {
-      "name": "Alfonso",
-      "id": "BOOQBwQqfQcT"
+      "id": "alfonso",
+      "name": "Alfonso"
     },
     {
-      "name": "Alitagtag",
-      "id": "_-dJK6drmuk1"
+      "id": "alitagtag",
+      "name": "Alitagtag"
     },
     {
-      "name": "Amadeo",
-      "id": "uD7aBOcSLPo3"
+      "id": "amadeo",
+      "name": "Amadeo"
     },
     {
-      "name": "Angat",
-      "id": "gJI-PfO840JT"
+      "id": "angat",
+      "name": "Angat"
     },
     {
-      "name": "Angeles City",
-      "id": "EaIJDOWuEwOv"
+      "id": "angeles-city",
+      "name": "Angeles City"
     },
     {
-      "name": "Angono",
-      "id": "dR1e2V3HqR8r"
+      "id": "angono",
+      "name": "Angono"
     },
     {
-      "name": "Antipolo",
-      "id": "LTEyWnTccS2r"
+      "id": "antipolo",
+      "name": "Antipolo"
     },
     {
-      "name": "Apalit",
-      "id": "oBwz380nn5rf"
+      "id": "apalit",
+      "name": "Apalit"
     },
     {
-      "name": "Aquino",
-      "id": "ALYqX33crrMZ"
+      "id": "aquino",
+      "name": "Aquino"
     },
     {
-      "name": "Arayat",
-      "id": "IBaF4ttkVCtc"
+      "id": "arayat",
+      "name": "Arayat"
     },
     {
-      "name": "Asia",
-      "id": "jBDh4guFCIaA"
+      "id": "asia",
+      "name": "Asia"
     },
     {
-      "name": "Aurora",
-      "id": "B5kDdAnbWiXS"
+      "id": "aurora",
+      "name": "Aurora"
     },
     {
-      "name": "Ayala",
-      "id": "eJZgzPz9kOWa"
+      "id": "ayala",
+      "name": "Ayala"
     },
     {
-      "name": "Baao",
-      "id": "2p2IxYn31l8R"
+      "id": "baao",
+      "name": "Baao"
     },
     {
-      "name": "Baclaran",
-      "id": "14Fk9TvNLzf_"
+      "id": "baclaran",
+      "name": "Baclaran"
     },
     {
-      "name": "Bacolod City",
-      "id": "fQ1y0QiasB2m"
+      "id": "bacolod-city",
+      "name": "Bacolod City"
     },
     {
-      "name": "Bacoor",
-      "id": "d3f8oxq-0w3q"
+      "id": "bacoor",
+      "name": "Bacoor"
     },
     {
-      "name": "Bagac",
-      "id": "vW9dmn5qLu1X"
+      "id": "bagac",
+      "name": "Bagac"
     },
     {
-      "name": "Bago City",
-      "id": "CxDi8w1lNY23"
+      "id": "bago-city",
+      "name": "Bago City"
     },
     {
-      "name": "Bagong Nayon",
-      "id": "gxSXl6VBkSzh"
+      "id": "bagong-nayon",
+      "name": "Bagong Nayon"
     },
     {
-      "name": "Baguio City",
-      "id": "jLAgSJi20bsg"
+      "id": "baguio-city",
+      "name": "Baguio City"
     },
     {
-      "name": "Bagumbayan",
-      "id": "fqPJSH8iMSIO"
+      "id": "bagumbayan",
+      "name": "Bagumbayan"
     },
     {
-      "name": "Balabag",
-      "id": "tQOgmN6ov4op"
+      "id": "balabag",
+      "name": "Balabag"
     },
     {
-      "name": "Balagtas",
-      "id": "CFMNulT_OtgT"
+      "id": "balagtas",
+      "name": "Balagtas"
     },
     {
-      "name": "Balamban",
-      "id": "l9fODnu57N4j"
+      "id": "balamban",
+      "name": "Balamban"
     },
     {
-      "name": "Balanga",
-      "id": "P4nmU507TwpJ"
+      "id": "balanga",
+      "name": "Balanga"
     },
     {
-      "name": "Balayan",
-      "id": "KU2Ie7x1g5QO"
+      "id": "balayan",
+      "name": "Balayan"
     },
     {
-      "name": "Baliuag",
-      "id": "QIGn_P74WJK3"
+      "id": "baliuag",
+      "name": "Baliuag"
     },
     {
-      "name": "Balungao",
-      "id": "FUl_5XJTZF24"
+      "id": "balungao",
+      "name": "Balungao"
     },
     {
-      "name": "Barbar",
-      "id": "yUZK6M7bLVml"
+      "id": "barbar",
+      "name": "Barbar"
     },
     {
-      "name": "Bataan",
-      "id": "l9SDVrizbBmj"
+      "id": "bataan",
+      "name": "Bataan"
     },
     {
-      "name": "Batangas",
-      "id": "kGf6bdqQmcFs"
+      "id": "batangas",
+      "name": "Batangas"
     },
     {
-      "name": "Bates",
-      "id": "MtVNyv9aLV0D"
+      "id": "bates",
+      "name": "Bates"
     },
     {
-      "name": "Batis",
-      "id": "bMvpcPrktbSN"
+      "id": "batis",
+      "name": "Batis"
     },
     {
-      "name": "Bauan",
-      "id": "7Hn6YgK-lHCQ"
+      "id": "bauan",
+      "name": "Bauan"
     },
     {
-      "name": "Bautista",
-      "id": "vBO-HIczKDZc"
+      "id": "bautista",
+      "name": "Bautista"
     },
     {
-      "name": "Bay",
-      "id": "k_beeUOOKzAS"
+      "id": "bay",
+      "name": "Bay"
     },
     {
-      "name": "Bayan",
-      "id": "G4sgiNQtVKka"
+      "id": "bayan",
+      "name": "Bayan"
     },
     {
-      "name": "Bayawan",
-      "id": "NFOhFsdoWMlR"
+      "id": "bayawan",
+      "name": "Bayawan"
     },
     {
-      "name": "Binan",
-      "id": "Ex2-byYJ6OI1"
+      "id": "binan",
+      "name": "Binan"
     },
     {
-      "name": "Binangonan",
-      "id": "6U6UnfFptQtf"
+      "id": "binangonan",
+      "name": "Binangonan"
     },
     {
-      "name": "Binondo",
-      "id": "dijuwfrF_Tmp"
+      "id": "binondo",
+      "name": "Binondo"
     },
     {
-      "name": "Blumentritt",
-      "id": "9CgirjgmkYde"
+      "id": "blumentritt",
+      "name": "Blumentritt"
     },
     {
-      "name": "Boac",
-      "id": "_tSMlFPjDGdn"
+      "id": "boac",
+      "name": "Boac"
     },
     {
-      "name": "Bocaue",
-      "id": "06OgBU_342qs"
+      "id": "bocaue",
+      "name": "Bocaue"
     },
     {
-      "name": "Bonifacio",
-      "id": "7QIlqaETse0A"
+      "id": "bonifacio",
+      "name": "Bonifacio"
     },
     {
-      "name": "Bool",
-      "id": "jHDgBCRVuXHa"
+      "id": "bool",
+      "name": "Bool"
     },
     {
-      "name": "Bukidnon",
-      "id": "uGi_bMAv-3Ml"
+      "id": "bukidnon",
+      "name": "Bukidnon"
     },
     {
-      "name": "Bulacan",
-      "id": "FwwYIZ5Hcy4w"
+      "id": "bulacan",
+      "name": "Bulacan"
     },
     {
-      "name": "Burgos",
-      "id": "SyBZsR2LePXm"
+      "id": "burgos",
+      "name": "Burgos"
     },
     {
-      "name": "Bustos",
-      "id": "jirUUr_kEehQ"
+      "id": "bustos",
+      "name": "Bustos"
     },
     {
-      "name": "Buting",
-      "id": "2aYKtrTtXr8U"
+      "id": "buting",
+      "name": "Buting"
     },
     {
-      "name": "Butuan",
-      "id": "eYdaX4dDwaeV"
+      "id": "butuan",
+      "name": "Butuan"
     },
     {
-      "name": "Cabanatuan City",
-      "id": "jdWBew409ONA"
+      "id": "cabanatuan-city",
+      "name": "Cabanatuan City"
     },
     {
-      "name": "Cabatuan",
-      "id": "jL2xM7jsdezQ"
+      "id": "cabatuan",
+      "name": "Cabatuan"
     },
     {
-      "name": "Cabugao",
-      "id": "j-z9XXZQLOxx"
+      "id": "cabugao",
+      "name": "Cabugao"
     },
     {
-      "name": "Cabuyao",
-      "id": "FPAwoeSdV5J5"
+      "id": "cabuyao",
+      "name": "Cabuyao"
     },
     {
-      "name": "Cafe",
-      "id": "xZtny-T3pQgN"
+      "id": "cafe",
+      "name": "Cafe"
     },
     {
-      "name": "Cagayan",
-      "id": "Nv7z04qn_8bg"
+      "id": "cagayan",
+      "name": "Cagayan"
     },
     {
-      "name": "Cagayan de Oro",
-      "id": "EIQPr87JGLUf"
+      "id": "cagayan-de-oro",
+      "name": "Cagayan de Oro"
     },
     {
-      "name": "Cainta",
-      "id": "fSOE0kQW93XD"
+      "id": "cainta",
+      "name": "Cainta"
     },
     {
-      "name": "Calaca",
-      "id": "lBKTr6DnCtTO"
+      "id": "calaca",
+      "name": "Calaca"
     },
     {
-      "name": "Calamba",
-      "id": "gyPKPvQ0pQKL"
+      "id": "calamba",
+      "name": "Calamba"
     },
     {
-      "name": "Calamba City",
-      "id": "UMGhoGEtTJ9Z"
+      "id": "calamba-city",
+      "name": "Calamba City"
     },
     {
-      "name": "Calapan",
-      "id": "JXIfWh62C94w"
+      "id": "calapan",
+      "name": "Calapan"
     },
     {
-      "name": "Calasiao",
-      "id": "5NrA_av7nO6D"
+      "id": "calasiao",
+      "name": "Calasiao"
     },
     {
-      "name": "Calbayog City",
-      "id": "k6nAIu-kOQ4o"
+      "id": "calbayog-city",
+      "name": "Calbayog City"
     },
     {
-      "name": "Calinan",
-      "id": "0jWxubGGjI6_"
+      "id": "calinan",
+      "name": "Calinan"
     },
     {
-      "name": "Caloocan",
-      "id": "_ZaIZrIY6fEr"
+      "id": "caloocan",
+      "name": "Caloocan"
     },
     {
-      "name": "Caloocan City",
-      "id": "X9zpIjJRDgtd"
+      "id": "caloocan-city",
+      "name": "Caloocan City"
     },
     {
-      "name": "Campus",
-      "id": "q3rYTG0vkRB_"
+      "id": "campus",
+      "name": "Campus"
     },
     {
-      "name": "Candelaria",
-      "id": "U0BqlBImOIIQ"
+      "id": "candelaria",
+      "name": "Candelaria"
     },
     {
-      "name": "Candon",
-      "id": "xb2BS8o_aa54"
+      "id": "candon",
+      "name": "Candon"
     },
     {
-      "name": "Canlubang",
-      "id": "5kTP7x9VmsrM"
+      "id": "canlubang",
+      "name": "Canlubang"
     },
     {
-      "name": "Capitol",
-      "id": "wI4_CJMvnyan"
+      "id": "capitol",
+      "name": "Capitol"
     },
     {
-      "name": "Cardona",
-      "id": "GjnfIEIjDCmv"
+      "id": "cardona",
+      "name": "Cardona"
     },
     {
-      "name": "Carlatan",
-      "id": "xBZ213jlJZzC"
+      "id": "carlatan",
+      "name": "Carlatan"
     },
     {
-      "name": "Carlos",
-      "id": "58ekv12V_aGp"
+      "id": "carlos",
+      "name": "Carlos"
     },
     {
-      "name": "Carmona",
-      "id": "QkRQJ_-ql0uT"
+      "id": "carmona",
+      "name": "Carmona"
     },
     {
-      "name": "Carolinas",
-      "id": "Pcdej6h_Xocu"
+      "id": "carolinas",
+      "name": "Carolinas"
     },
     {
-      "name": "Cauayan",
-      "id": "SqwiCWAvNM_o"
+      "id": "cauayan",
+      "name": "Cauayan"
     },
     {
-      "name": "Cavinti",
-      "id": "5MR2X45_TJCb"
+      "id": "cavinti",
+      "name": "Cavinti"
     },
     {
-      "name": "Cavite City",
-      "id": "L8mDzIuCQw9m"
+      "id": "cavite-city",
+      "name": "Cavite City"
     },
     {
-      "name": "Cebu City",
-      "id": "-mGcaHn3v_f8"
+      "id": "cebu-city",
+      "name": "Cebu City"
     },
     {
-      "name": "Central",
-      "id": "YyM7QRxqUNSM"
+      "id": "central",
+      "name": "Central"
     },
     {
-      "name": "Centre",
-      "id": "PL3xIjOLUkWR"
+      "id": "centre",
+      "name": "Centre"
     },
     {
-      "name": "Centro",
-      "id": "SrY1GkmBW75P"
+      "id": "centro",
+      "name": "Centro"
     },
     {
-      "name": "China",
-      "id": "vIkU3h3rBM5E"
+      "id": "china",
+      "name": "China"
     },
     {
-      "name": "Cinco",
-      "id": "vMiGtAKi89ha"
+      "id": "cinco",
+      "name": "Cinco"
     },
     {
-      "name": "City of Batac",
-      "id": "8ctIWMH1qe8C"
+      "id": "city-of-batac",
+      "name": "City of Batac"
     },
     {
-      "name": "Cogan",
-      "id": "q4D-1r3Q_a4c"
+      "id": "cogan",
+      "name": "Cogan"
     },
     {
-      "name": "Concepcion",
-      "id": "dNG0k_0Hz057"
+      "id": "concepcion",
+      "name": "Concepcion"
     },
     {
-      "name": "Cotabato City",
-      "id": "w1-zdFGPMj6s"
+      "id": "cotabato-city",
+      "name": "Cotabato City"
     },
     {
-      "name": "Cruz",
-      "id": "QrTA-LBWE1ob"
+      "id": "cruz",
+      "name": "Cruz"
     },
     {
-      "name": "Cubao",
-      "id": "Qp2_gdbBjuU3"
+      "id": "cubao",
+      "name": "Cubao"
     },
     {
-      "name": "Dagupan",
-      "id": "7qX6K4u_pF43"
+      "id": "dagupan",
+      "name": "Dagupan"
     },
     {
-      "name": "Danao",
-      "id": "Cy_-kHlwvuof"
+      "id": "danao",
+      "name": "Danao"
     },
     {
-      "name": "Dapitan",
-      "id": "VHrfbmmhcWCq"
+      "id": "dapitan",
+      "name": "Dapitan"
     },
     {
-      "name": "Daraga",
-      "id": "1KvauGX-4AXH"
+      "id": "daraga",
+      "name": "Daraga"
     },
     {
-      "name": "Dasmarinas",
-      "id": "Mh3G7Ecn4V65"
+      "id": "dasmarinas",
+      "name": "Dasmarinas"
     },
     {
-      "name": "Davao City",
-      "id": "HvbpvEbZdJ34"
+      "id": "davao-city",
+      "name": "Davao City"
     },
     {
-      "name": "Del Monte",
-      "id": "ScZWBqw-7Vyn"
+      "id": "del-monte",
+      "name": "Del Monte"
     },
     {
-      "name": "Del Pilar",
-      "id": "hx85M0hDe2i5"
+      "id": "del-pilar",
+      "name": "Del Pilar"
     },
     {
-      "name": "Digos",
-      "id": "Ft5-fmYDfu3t"
+      "id": "digos",
+      "name": "Digos"
     },
     {
-      "name": "Diliman Primero",
-      "id": "EnDi1d-sLY9J"
+      "id": "diliman-primero",
+      "name": "Diliman Primero"
     },
     {
-      "name": "Dinas",
-      "id": "R1PQb10T0OWr"
+      "id": "dinas",
+      "name": "Dinas"
     },
     {
-      "name": "Dingras",
-      "id": "2glfnWYM-Ypo"
+      "id": "dingras",
+      "name": "Dingras"
     },
     {
-      "name": "Dipolog City",
-      "id": "3NYXd67_tyJj"
+      "id": "dipolog-city",
+      "name": "Dipolog City"
     },
     {
-      "name": "Dolores",
-      "id": "l2azeP80ddkG"
+      "id": "dolores",
+      "name": "Dolores"
     },
     {
-      "name": "Domingo",
-      "id": "K0f-jrnG0pKf"
+      "id": "domingo",
+      "name": "Domingo"
     },
     {
-      "name": "Don Bosco Executive Village",
-      "id": "yWjLvsxNg5C4"
+      "id": "don-bosco-executive-village",
+      "name": "Don Bosco Executive Village"
     },
     {
-      "name": "Don Jose",
-      "id": "1E63lBNi_Gwr"
+      "id": "don-jose",
+      "name": "Don Jose"
     },
     {
-      "name": "Dumaguete",
-      "id": "AOB9Mx8cG2Pt"
+      "id": "dumaguete",
+      "name": "Dumaguete"
     },
     {
-      "name": "Fairview",
-      "id": "ZuzYkozTABat"
+      "id": "fairview",
+      "name": "Fairview"
     },
     {
-      "name": "Feliciano",
-      "id": "WxDaj3Rcgwhh"
+      "id": "feliciano",
+      "name": "Feliciano"
     },
     {
-      "name": "Fernandez",
-      "id": "C121zFPnCYyx"
+      "id": "fernandez",
+      "name": "Fernandez"
     },
     {
-      "name": "Fernando",
-      "id": "Fpp9pSJyMsGc"
+      "id": "fernando",
+      "name": "Fernando"
     },
     {
-      "name": "Fortuna",
-      "id": "AoZN63RADU2d"
+      "id": "fortuna",
+      "name": "Fortuna"
     },
     {
-      "name": "Gallego",
-      "id": "W9u5KMeCBpMt"
+      "id": "gallego",
+      "name": "Gallego"
     },
     {
-      "name": "General",
-      "id": "neHy3_VfbzJ3"
+      "id": "general",
+      "name": "General"
     },
     {
-      "name": "General Santos",
-      "id": "bgQozA_j_e7m"
+      "id": "general-santos",
+      "name": "General Santos"
     },
     {
-      "name": "General Trias",
-      "id": "n8B_01sz-oNj"
+      "id": "general-trias",
+      "name": "General Trias"
     },
     {
-      "name": "Gitagum",
-      "id": "7jJMVfLZqw7I"
+      "id": "gitagum",
+      "name": "Gitagum"
     },
     {
-      "name": "Gloria",
-      "id": "-O9p1CI0OPxh"
+      "id": "gloria",
+      "name": "Gloria"
     },
     {
-      "name": "Guagua",
-      "id": "zjcmCan7pRgw"
+      "id": "guagua",
+      "name": "Guagua"
     },
     {
-      "name": "Hagonoy",
-      "id": "i1y3iBpJjHN4"
+      "id": "hagonoy",
+      "name": "Hagonoy"
     },
     {
-      "name": "Hilongos",
-      "id": "aKgHIgmVvwmC"
+      "id": "hilongos",
+      "name": "Hilongos"
     },
     {
-      "name": "Himamaylan",
-      "id": "zbDbo1dSxojL"
+      "id": "himamaylan",
+      "name": "Himamaylan"
     },
     {
-      "name": "Ilagan",
-      "id": "fW2DltzZ77iE"
+      "id": "ilagan",
+      "name": "Ilagan"
     },
     {
-      "name": "Iligan",
-      "id": "QkNaddN558YU"
+      "id": "iligan",
+      "name": "Iligan"
     },
     {
-      "name": "Ilog",
-      "id": "dx8JnubL5Avf"
+      "id": "ilog",
+      "name": "Ilog"
     },
     {
-      "name": "Iloilo City",
-      "id": "s--m7VYKGQOX"
+      "id": "iloilo-city",
+      "name": "Iloilo City"
     },
     {
-      "name": "Imus",
-      "id": "z7NXXm3ModE1"
+      "id": "imus",
+      "name": "Imus"
     },
     {
-      "name": "Interior",
-      "id": "22hPkRaJL0RG"
+      "id": "interior",
+      "name": "Interior"
     },
     {
-      "name": "Iriga City",
-      "id": "PPIoTp3jyufm"
+      "id": "iriga-city",
+      "name": "Iriga City"
     },
     {
-      "name": "Isabela",
-      "id": "5fOAIgkEyDW8"
+      "id": "isabela",
+      "name": "Isabela"
     },
     {
-      "name": "Island Park",
-      "id": "4Cb56eIk6ZHD"
+      "id": "island-park",
+      "name": "Island Park"
     },
     {
-      "name": "Jagna",
-      "id": "5kiNL3kq993G"
+      "id": "jagna",
+      "name": "Jagna"
     },
     {
-      "name": "Kalibo",
-      "id": "JMaBbYONm8ny"
+      "id": "kalibo",
+      "name": "Kalibo"
     },
     {
-      "name": "Kapatagan",
-      "id": "DNgMTlBXv5Ld"
+      "id": "kapatagan",
+      "name": "Kapatagan"
     },
     {
-      "name": "Kawit",
-      "id": "PrDaPOmmpaPp"
+      "id": "kawit",
+      "name": "Kawit"
     },
     {
-      "name": "Kidapawan",
-      "id": "5kmWAYoDY9dG"
+      "id": "kidapawan",
+      "name": "Kidapawan"
     },
     {
-      "name": "Koronadal",
-      "id": "PszCPujv9POu"
+      "id": "koronadal",
+      "name": "Koronadal"
     },
     {
-      "name": "La Salette",
-      "id": "gb-ECGMCFM3B"
+      "id": "la-salette",
+      "name": "La Salette"
     },
     {
-      "name": "La Trinidad",
-      "id": "PzEeyNtgIDK2"
+      "id": "la-trinidad",
+      "name": "La Trinidad"
     },
     {
-      "name": "La Union",
-      "id": "i2-i0XIqe6g8"
+      "id": "la-union",
+      "name": "La Union"
     },
     {
-      "name": "Laguerta",
-      "id": "80N703U8r3vQ"
+      "id": "laguerta",
+      "name": "Laguerta"
     },
     {
-      "name": "Laguna",
-      "id": "Fg_3WwlDGW1A"
+      "id": "laguna",
+      "name": "Laguna"
     },
     {
-      "name": "Lahug",
-      "id": "_LPSi1xrROcP"
+      "id": "lahug",
+      "name": "Lahug"
     },
     {
-      "name": "Lamitan",
-      "id": "q9-2hwdtCLBi"
+      "id": "lamitan",
+      "name": "Lamitan"
     },
     {
-      "name": "Laoag",
-      "id": "li6gibyWgiDK"
+      "id": "laoag",
+      "name": "Laoag"
     },
     {
-      "name": "Lapu-Lapu City",
-      "id": "5g-K2lQ7mAaB"
+      "id": "lapu-lapu-city",
+      "name": "Lapu-Lapu City"
     },
     {
-      "name": "Las Pinas",
-      "id": "sD9dTVaOrGcw"
+      "id": "las-pinas",
+      "name": "Las Pinas"
     },
     {
-      "name": "Lawis",
-      "id": "u08JWI39DNK9"
+      "id": "lawis",
+      "name": "Lawis"
     },
     {
-      "name": "Legaspi",
-      "id": "HEzA529qZFJi"
+      "id": "legaspi",
+      "name": "Legaspi"
     },
     {
-      "name": "Leon",
-      "id": "OOfheL-qDhUo"
+      "id": "leon",
+      "name": "Leon"
     },
     {
-      "name": "Leyte",
-      "id": "g9S2Qyanj0Ts"
+      "id": "leyte",
+      "name": "Leyte"
     },
     {
-      "name": "Liberty",
-      "id": "B2B1p2KHoYfL"
+      "id": "liberty",
+      "name": "Liberty"
     },
     {
-      "name": "Libis",
-      "id": "sMjGPeg0322N"
+      "id": "libis",
+      "name": "Libis"
     },
     {
-      "name": "Lilio",
-      "id": "K2iymdaLqIAv"
+      "id": "lilio",
+      "name": "Lilio"
     },
     {
-      "name": "Limay",
-      "id": "ZS2KQ83eQDXj"
+      "id": "limay",
+      "name": "Limay"
     },
     {
-      "name": "Lipa City",
-      "id": "8EC0AVjvKJKz"
+      "id": "lipa-city",
+      "name": "Lipa City"
     },
     {
-      "name": "Llanera",
-      "id": "RNriBroUKRUf"
+      "id": "llanera",
+      "name": "Llanera"
     },
     {
-      "name": "Looc",
-      "id": "yPdbThrV3aUN"
+      "id": "looc",
+      "name": "Looc"
     },
     {
-      "name": "Los Banos",
-      "id": "3smyMBvjXTT4"
+      "id": "los-banos",
+      "name": "Los Banos"
     },
     {
-      "name": "Los Martires",
-      "id": "NjPf0o989mTy"
+      "id": "los-martires",
+      "name": "Los Martires"
     },
     {
-      "name": "Lourdes",
-      "id": "DrfX5Zd3jXEj"
+      "id": "lourdes",
+      "name": "Lourdes"
     },
     {
-      "name": "Lucena City",
-      "id": "17mCZLon0zBT"
+      "id": "lucena-city",
+      "name": "Lucena City"
     },
     {
-      "name": "Luna",
-      "id": "sYM9wt5-U38K"
+      "id": "luna",
+      "name": "Luna"
     },
     {
-      "name": "Luzon",
-      "id": "Kfa79Bhzphw4"
+      "id": "luzon",
+      "name": "Luzon"
     },
     {
-      "name": "Mabalacat",
-      "id": "1hb7w5d84cJU"
+      "id": "mabalacat",
+      "name": "Mabalacat"
     },
     {
-      "name": "Mabini",
-      "id": "zW7S18-uQxM8"
+      "id": "mabini",
+      "name": "Mabini"
     },
     {
-      "name": "Macabebe",
-      "id": "j1ZjvVVwSJUi"
+      "id": "macabebe",
+      "name": "Macabebe"
     },
     {
-      "name": "Magsaysay",
-      "id": "uWVrwPdJKTYH"
+      "id": "magsaysay",
+      "name": "Magsaysay"
     },
     {
-      "name": "Makati City",
-      "id": "dJtZIeI0D7ub"
+      "id": "makati-city",
+      "name": "Makati City"
     },
     {
-      "name": "Malabon",
-      "id": "0Tk5dLQw2hov"
+      "id": "malabon",
+      "name": "Malabon"
     },
     {
-      "name": "Malasiqui",
-      "id": "-pz8XSmTBWK9"
+      "id": "malasiqui",
+      "name": "Malasiqui"
     },
     {
-      "name": "Malate",
-      "id": "qjXP6R9M_yBr"
+      "id": "malate",
+      "name": "Malate"
     },
     {
-      "name": "Malolos",
-      "id": "NWnE5DvrJZNs"
+      "id": "malolos",
+      "name": "Malolos"
     },
     {
-      "name": "Malvar",
-      "id": "dZGi1xpwIiJm"
+      "id": "malvar",
+      "name": "Malvar"
     },
     {
-      "name": "Mamungan",
-      "id": "LO5rSMHhPEO3"
+      "id": "mamungan",
+      "name": "Mamungan"
     },
     {
-      "name": "Manaoag",
-      "id": "OGYkiJwSFSLa"
+      "id": "manaoag",
+      "name": "Manaoag"
     },
     {
-      "name": "Mandaluyong City",
-      "id": "b9gVyiK_rxnx"
+      "id": "mandaluyong-city",
+      "name": "Mandaluyong City"
     },
     {
-      "name": "Mandaue City",
-      "id": "TRNYJutuYWXj"
+      "id": "mandaue-city",
+      "name": "Mandaue City"
     },
     {
-      "name": "Mangaldan",
-      "id": "yMMgMErjXXlz"
+      "id": "mangaldan",
+      "name": "Mangaldan"
     },
     {
-      "name": "Mangrove",
-      "id": "WRz5286CbcL3"
+      "id": "mangrove",
+      "name": "Mangrove"
     },
     {
-      "name": "Manila",
-      "id": "9mOIfb8gnMW2"
+      "id": "manila",
+      "name": "Manila"
     },
     {
-      "name": "Mapua",
-      "id": "QH60lK9qFouF"
+      "id": "mapua",
+      "name": "Mapua"
     },
     {
-      "name": "Maquiling",
-      "id": "g85c4Nxg9ZUr"
+      "id": "maquiling",
+      "name": "Maquiling"
     },
     {
-      "name": "Marcos",
-      "id": "wY3Or3ywZPYt"
+      "id": "marcos",
+      "name": "Marcos"
     },
     {
-      "name": "Maria",
-      "id": "rdrvFvcupMUx"
+      "id": "maria",
+      "name": "Maria"
     },
     {
-      "name": "Marikina City",
-      "id": "PFBXB-BrzmVQ"
+      "id": "marikina-city",
+      "name": "Marikina City"
     },
     {
-      "name": "Marilag",
-      "id": "15ZQoEA720FA"
+      "id": "marilag",
+      "name": "Marilag"
     },
     {
-      "name": "Marilao",
-      "id": "BVywCFoAKRBH"
+      "id": "marilao",
+      "name": "Marilao"
     },
     {
-      "name": "Marina",
-      "id": "pxaFxK5YNM6L"
+      "id": "marina",
+      "name": "Marina"
     },
     {
-      "name": "Mariveles",
-      "id": "wh7bkiLhUdJO"
+      "id": "mariveles",
+      "name": "Mariveles"
     },
     {
-      "name": "Masbate",
-      "id": "p1FQIWs6J1-R"
+      "id": "masbate",
+      "name": "Masbate"
     },
     {
-      "name": "Matalam",
-      "id": "A3iSWdyL5d4P"
+      "id": "matalam",
+      "name": "Matalam"
     },
     {
-      "name": "Matandang Balara",
-      "id": "Yv6DxdB-ir1d"
+      "id": "matandang-balara",
+      "name": "Matandang Balara"
     },
     {
-      "name": "Mauban",
-      "id": "096Tqr_oY4Nc"
+      "id": "mauban",
+      "name": "Mauban"
     },
     {
-      "name": "Mawab",
-      "id": "98jvLVJZyjH1"
+      "id": "mawab",
+      "name": "Mawab"
     },
     {
-      "name": "Merville Subdivision",
-      "id": "OmQJ1yiKGfI1"
+      "id": "merville-subdivision",
+      "name": "Merville Subdivision"
     },
     {
-      "name": "Meycauayan",
-      "id": "kbt0CvHCJoRC"
+      "id": "meycauayan",
+      "name": "Meycauayan"
     },
     {
-      "name": "Miagao",
-      "id": "sm3UmGqyQf6h"
+      "id": "miagao",
+      "name": "Miagao"
     },
     {
-      "name": "Minalin",
-      "id": "EoLxpxhnv15h"
+      "id": "minalin",
+      "name": "Minalin"
     },
     {
-      "name": "Mindanaw",
-      "id": "Ce1ABMtehR_j"
+      "id": "mindanaw",
+      "name": "Mindanaw"
     },
     {
-      "name": "Minglanilla",
-      "id": "E1icx4NVHxy_"
+      "id": "minglanilla",
+      "name": "Minglanilla"
     },
     {
-      "name": "Misamis",
-      "id": "hoMCuFHOC7wz"
+      "id": "misamis",
+      "name": "Misamis"
     },
     {
-      "name": "Molave",
-      "id": "3uzwgiCsM1Dq"
+      "id": "molave",
+      "name": "Molave"
     },
     {
-      "name": "Munoz East",
-      "id": "z2wF-Nf2bTo9"
+      "id": "munoz-east",
+      "name": "Munoz East"
     },
     {
-      "name": "Muntinlupa",
-      "id": "9Qg3cmagtrDI"
+      "id": "muntinlupa",
+      "name": "Muntinlupa"
     },
     {
-      "name": "Naga",
-      "id": "4j-GNuUCw323"
+      "id": "naga",
+      "name": "Naga"
     },
     {
-      "name": "Naga City",
-      "id": "AO_UL6oa7TP1"
+      "id": "naga-city",
+      "name": "Naga City"
     },
     {
-      "name": "Naguilian",
-      "id": "tK07HgdswAz1"
+      "id": "naguilian",
+      "name": "Naguilian"
     },
     {
-      "name": "Navotas",
-      "id": "V7fcIoJ37WI6"
+      "id": "navotas",
+      "name": "Navotas"
     },
     {
-      "name": "New Manila",
-      "id": "-pfY-rJVMyEK"
+      "id": "new-manila",
+      "name": "New Manila"
     },
     {
-      "name": "Norte",
-      "id": "c9VMb70rEghN"
+      "id": "norte",
+      "name": "Norte"
     },
     {
-      "name": "Novaliches",
-      "id": "vCevI4sZa3MR"
+      "id": "novaliches",
+      "name": "Novaliches"
     },
     {
-      "name": "Nueva",
-      "id": "Q__yMGmLOFbO"
+      "id": "nueva",
+      "name": "Nueva"
     },
     {
-      "name": "Oara",
-      "id": "RnxmH359aPAs"
+      "id": "oara",
+      "name": "Oara"
     },
     {
-      "name": "Obando",
-      "id": "2gSl3wCFhJFV"
+      "id": "obando",
+      "name": "Obando"
     },
     {
-      "name": "Occidental",
-      "id": "pzkzX8-D1_7d"
+      "id": "occidental",
+      "name": "Occidental"
     },
     {
-      "name": "Olongapo City",
-      "id": "GJ6ovZKXGONf"
+      "id": "olongapo-city",
+      "name": "Olongapo City"
     },
     {
-      "name": "Orani",
-      "id": "HPoqeNKos5ba"
+      "id": "orani",
+      "name": "Orani"
     },
     {
-      "name": "Orion",
-      "id": "htXKR56AQyeX"
+      "id": "orion",
+      "name": "Orion"
     },
     {
-      "name": "Osmena",
-      "id": "GlAGCb7oIRVQ"
+      "id": "osmena",
+      "name": "Osmena"
     },
     {
-      "name": "Ozamiz City",
-      "id": "V3FfiirJIdsO"
+      "id": "ozamiz-city",
+      "name": "Ozamiz City"
     },
     {
-      "name": "Pacita",
-      "id": "bWJk3Yee6V9w"
+      "id": "pacita",
+      "name": "Pacita"
     },
     {
-      "name": "Padre Garcia",
-      "id": "PgIWyFI5bLvl"
+      "id": "padre-garcia",
+      "name": "Padre Garcia"
     },
     {
-      "name": "Paete",
-      "id": "RAOJdKJRITQw"
+      "id": "paete",
+      "name": "Paete"
     },
     {
-      "name": "Pagadian",
-      "id": "EkuHXLmA8kCg"
+      "id": "pagadian",
+      "name": "Pagadian"
     },
     {
-      "name": "Pagasinan",
-      "id": "zyiCD_w9p5uX"
+      "id": "pagasinan",
+      "name": "Pagasinan"
     },
     {
-      "name": "Pagsanjan",
-      "id": "5MU_yK588RLa"
+      "id": "pagsanjan",
+      "name": "Pagsanjan"
     },
     {
-      "name": "Palma Gil",
-      "id": "oGeUMufwUZMb"
+      "id": "palma-gil",
+      "name": "Palma Gil"
     },
     {
-      "name": "Palo",
-      "id": "-JVXOninnzbW"
+      "id": "palo",
+      "name": "Palo"
     },
     {
-      "name": "Pampanga",
-      "id": "xiSec-Sy0OCR"
+      "id": "pampanga",
+      "name": "Pampanga"
     },
     {
-      "name": "Panabo",
-      "id": "ITMaBycalLck"
+      "id": "panabo",
+      "name": "Panabo"
     },
     {
-      "name": "Pandi",
-      "id": "TINJAupdqLIm"
+      "id": "pandi",
+      "name": "Pandi"
     },
     {
-      "name": "Pangil",
-      "id": "VRbm-0pI5ubp"
+      "id": "pangil",
+      "name": "Pangil"
     },
     {
-      "name": "Paniqui",
-      "id": "uXBXEX0uL7mQ"
+      "id": "paniqui",
+      "name": "Paniqui"
     },
     {
-      "name": "Paranaque City",
-      "id": "MWKX3cK2mGTX"
+      "id": "paranaque-city",
+      "name": "Paranaque City"
     },
     {
-      "name": "Pardo",
-      "id": "2H1fcvU7KFYw"
+      "id": "pardo",
+      "name": "Pardo"
     },
     {
-      "name": "Pasay",
-      "id": "0ijGoig0xJvC"
+      "id": "pasay",
+      "name": "Pasay"
     },
     {
-      "name": "Pasig",
-      "id": "I5J8N0Cub7Nb"
+      "id": "pasig",
+      "name": "Pasig"
     },
     {
-      "name": "Pasong Tamo",
-      "id": "o1e5ijDj-Nc4"
+      "id": "pasong-tamo",
+      "name": "Pasong Tamo"
     },
     {
-      "name": "Pateros",
-      "id": "VbTrKyPwtVUm"
+      "id": "pateros",
+      "name": "Pateros"
     },
     {
-      "name": "Paul",
-      "id": "1yEa7qNKSJbB"
+      "id": "paul",
+      "name": "Paul"
     },
     {
-      "name": "Philippine",
-      "id": "qmHusk2QQLvA"
+      "id": "philippine",
+      "name": "Philippine"
     },
     {
-      "name": "Pias",
-      "id": "oAAe1LZPAd60"
+      "id": "pias",
+      "name": "Pias"
     },
     {
-      "name": "Pikit",
-      "id": "x4ylnArklTyK"
+      "id": "pikit",
+      "name": "Pikit"
     },
     {
-      "name": "Pinaglabanan",
-      "id": "wn9Nle4iZlRZ"
+      "id": "pinaglabanan",
+      "name": "Pinaglabanan"
     },
     {
-      "name": "Plaridel",
-      "id": "0TEdkQZtUfWP"
+      "id": "plaridel",
+      "name": "Plaridel"
     },
     {
-      "name": "Plaza",
-      "id": "SW6bqJYa16y4"
+      "id": "plaza",
+      "name": "Plaza"
     },
     {
-      "name": "Poblacion",
-      "id": "sZxlzk8YZJsM"
+      "id": "poblacion",
+      "name": "Poblacion"
     },
     {
-      "name": "Poblacion, San Felipe",
-      "id": "Ss1sDMQZ8-kf"
+      "id": "poblacion-san-felipe",
+      "name": "Poblacion, San Felipe"
     },
     {
-      "name": "Princesa",
-      "id": "sd4jUpf9XGUw"
+      "id": "princesa",
+      "name": "Princesa"
     },
     {
-      "name": "Province of Cebu",
-      "id": "LSbVJhSrm63T"
+      "id": "province-of-cebu",
+      "name": "Province of Cebu"
     },
     {
-      "name": "Province of Laguna",
-      "id": "15eOMUfw2rCf"
+      "id": "province-of-laguna",
+      "name": "Province of Laguna"
     },
     {
-      "name": "Province of Pampanga",
-      "id": "QR_LsacJvZ-n"
+      "id": "province-of-pampanga",
+      "name": "Province of Pampanga"
     },
     {
-      "name": "Province of Pangasinan",
-      "id": "uxuxX5j10sav"
+      "id": "province-of-pangasinan",
+      "name": "Province of Pangasinan"
     },
     {
-      "name": "Puerto Princesa City",
-      "id": "JMrV4c-JqKoH"
+      "id": "puerto-princesa-city",
+      "name": "Puerto Princesa City"
     },
     {
-      "name": "Pulilan",
-      "id": "cxF5mdyZwcH-"
+      "id": "pulilan",
+      "name": "Pulilan"
     },
     {
-      "name": "Putatan",
-      "id": "MuxDdVMOtkFx"
+      "id": "putatan",
+      "name": "Putatan"
     },
     {
-      "name": "Quezon",
-      "id": "agxS2afzabGQ"
+      "id": "quezon",
+      "name": "Quezon"
     },
     {
-      "name": "Quezon City",
-      "id": "Y9hCR7-xyTQg"
+      "id": "quezon-city",
+      "name": "Quezon City"
     },
     {
-      "name": "Ramon",
-      "id": "6ZqU-0RaeqVh"
+      "id": "ramon",
+      "name": "Ramon"
     },
     {
-      "name": "Real",
-      "id": "nsUbFXPJICaM"
+      "id": "real",
+      "name": "Real"
     },
     {
-      "name": "Rizal",
-      "id": "4PAwr8F6oyMW"
+      "id": "rizal",
+      "name": "Rizal"
     },
     {
-      "name": "Rodriguez",
-      "id": "fzbfDFhUXua9"
+      "id": "rodriguez",
+      "name": "Rodriguez"
     },
     {
-      "name": "Roosevelt",
-      "id": "e7QkiiFg9uGu"
+      "id": "roosevelt",
+      "name": "Roosevelt"
     },
     {
-      "name": "Roque",
-      "id": "KjWhNUNTJaNE"
+      "id": "roque",
+      "name": "Roque"
     },
     {
-      "name": "Rosales",
-      "id": "sws0YnW0ZUHr"
+      "id": "rosales",
+      "name": "Rosales"
     },
     {
-      "name": "Rosario West",
-      "id": "xWEE9luyB9kI"
+      "id": "rosario-west",
+      "name": "Rosario West"
     },
     {
-      "name": "Roxas City",
-      "id": "TFHu7AmvU_0Y"
+      "id": "roxas-city",
+      "name": "Roxas City"
     },
     {
-      "name": "Salcedo",
-      "id": "MBLHSAsWRFXG"
+      "id": "salcedo",
+      "name": "Salcedo"
     },
     {
-      "name": "Salinas",
-      "id": "1GVkx5iDNORK"
+      "id": "salinas",
+      "name": "Salinas"
     },
     {
-      "name": "Salle",
-      "id": "cQ2ywqprcEv0"
+      "id": "salle",
+      "name": "Salle"
     },
     {
-      "name": "Samal",
-      "id": "qW4ngQLU-Nsq"
+      "id": "samal",
+      "name": "Samal"
     },
     {
-      "name": "Sampaloc",
-      "id": "pvx6zG5EHOH1"
+      "id": "sampaloc",
+      "name": "Sampaloc"
     },
     {
-      "name": "San Agustin",
-      "id": "3WKRZDVn5Hku"
+      "id": "san-agustin",
+      "name": "San Agustin"
     },
     {
-      "name": "San Andres",
-      "id": "vNIS_itV2mc-"
+      "id": "san-andres",
+      "name": "San Andres"
     },
     {
-      "name": "San Antonio",
-      "id": "E6fSUawejjbV"
+      "id": "san-antonio",
+      "name": "San Antonio"
     },
     {
-      "name": "San Carlos City",
-      "id": "SQz1h6koNvdE"
+      "id": "san-carlos-city",
+      "name": "San Carlos City"
     },
     {
-      "name": "San Fabian",
-      "id": "GDg163R-lv4W"
+      "id": "san-fabian",
+      "name": "San Fabian"
     },
     {
-      "name": "San Fernando",
-      "id": "3Js4EDroBgpm"
+      "id": "san-fernando",
+      "name": "San Fernando"
     },
     {
-      "name": "San Francisco",
-      "id": "Q9PqX4BbPLDa"
+      "id": "san-francisco",
+      "name": "San Francisco"
     },
     {
-      "name": "San Jose",
-      "id": "DX9QPcw6JtTl"
+      "id": "san-jose",
+      "name": "San Jose"
     },
     {
-      "name": "San Jose del Monte",
-      "id": "K88lxVo88_n3"
+      "id": "san-jose-del-monte",
+      "name": "San Jose del Monte"
     },
     {
-      "name": "San Juan",
-      "id": "Mf-t0MwmCBmD"
+      "id": "san-juan",
+      "name": "San Juan"
     },
     {
-      "name": "San Mateo",
-      "id": "GFR_4isFuDkl"
+      "id": "san-mateo",
+      "name": "San Mateo"
     },
     {
-      "name": "San Miguel",
-      "id": "ZkN8hAMidJSN"
+      "id": "san-miguel",
+      "name": "San Miguel"
     },
     {
-      "name": "San Pablo City",
-      "id": "lm0HHTyCo2md"
+      "id": "san-pablo-city",
+      "name": "San Pablo City"
     },
     {
-      "name": "San Pedro",
-      "id": "ZqCzYMco4ICs"
+      "id": "san-pedro",
+      "name": "San Pedro"
     },
     {
-      "name": "San Vicente",
-      "id": "pFxD4uRDC-o1"
+      "id": "san-vicente",
+      "name": "San Vicente"
     },
     {
-      "name": "Santa Cruz",
-      "id": "n83UaZnitSw6"
+      "id": "santa-cruz",
+      "name": "Santa Cruz"
     },
     {
-      "name": "Santa Rosa",
-      "id": "lM94FPEB5Qdz"
+      "id": "santa-rosa",
+      "name": "Santa Rosa"
     },
     {
-      "name": "Santiago",
-      "id": "COG5Th_A8hne"
+      "id": "santiago",
+      "name": "Santiago"
     },
     {
-      "name": "Santo",
-      "id": "v9on5ru6V4VO"
+      "id": "santo",
+      "name": "Santo"
     },
     {
-      "name": "Santo Tomas",
-      "id": "ETOlIjH-pAh3"
+      "id": "santo-tomas",
+      "name": "Santo Tomas"
     },
     {
-      "name": "Santos",
-      "id": "eknUPho2GxNM"
+      "id": "santos",
+      "name": "Santos"
     },
     {
-      "name": "Sariaya",
-      "id": "lsOGmDR4usp-"
+      "id": "sariaya",
+      "name": "Sariaya"
     },
     {
-      "name": "Silang",
-      "id": "Y6lBsfVAVbw0"
+      "id": "silang",
+      "name": "Silang"
     },
     {
-      "name": "Silay",
-      "id": "oGNyL_vPjrtX"
+      "id": "silay",
+      "name": "Silay"
     },
     {
-      "name": "Siniloan",
-      "id": "yVHe2McRtPLs"
+      "id": "siniloan",
+      "name": "Siniloan"
     },
     {
-      "name": "Smart",
-      "id": "Y-JYSyQH9bdV"
+      "id": "smart",
+      "name": "Smart"
     },
     {
-      "name": "Sorsogon",
-      "id": "SQIC14Onxhxi"
+      "id": "sorsogon",
+      "name": "Sorsogon"
     },
     {
-      "name": "Sta Cruz",
-      "id": "P_2O9g0QqG7z"
+      "id": "sta-cruz",
+      "name": "Sta Cruz"
     },
     {
-      "name": "Sto Nino",
-      "id": "4Jpc4Azp2o0n"
+      "id": "sto-nino",
+      "name": "Sto Nino"
     },
     {
-      "name": "Subic",
-      "id": "k7384E0tD22F"
+      "id": "subic",
+      "name": "Subic"
     },
     {
-      "name": "Sucat",
-      "id": "1VuLjFeFe6pE"
+      "id": "sucat",
+      "name": "Sucat"
     },
     {
-      "name": "Sulo",
-      "id": "Sns58aEb5J75"
+      "id": "sulo",
+      "name": "Sulo"
     },
     {
-      "name": "Sultan Kudarat",
-      "id": "lWa78TU5ViUw"
+      "id": "sultan-kudarat",
+      "name": "Sultan Kudarat"
     },
     {
-      "name": "Summit",
-      "id": "0JEtprb_rSwn"
+      "id": "summit",
+      "name": "Summit"
     },
     {
-      "name": "Suyo",
-      "id": "QuRErExgfahE"
+      "id": "suyo",
+      "name": "Suyo"
     },
     {
-      "name": "Taal",
-      "id": "8WhrpHa1q3G2"
+      "id": "taal",
+      "name": "Taal"
     },
     {
-      "name": "Tacloban City",
-      "id": "CxaHyG8iy4gv"
+      "id": "tacloban-city",
+      "name": "Tacloban City"
     },
     {
-      "name": "Tacurong",
-      "id": "AFw1ZZwE1jHd"
+      "id": "tacurong",
+      "name": "Tacurong"
     },
     {
-      "name": "Taft",
-      "id": "tvmyiTKVv4By"
+      "id": "taft",
+      "name": "Taft"
     },
     {
-      "name": "Tagaytay",
-      "id": "YItb_G-Z9c2h"
+      "id": "tagaytay",
+      "name": "Tagaytay"
     },
     {
-      "name": "Tagbilaran City",
-      "id": "ew7XIRWTGw0Z"
+      "id": "tagbilaran-city",
+      "name": "Tagbilaran City"
     },
     {
-      "name": "Taguig",
-      "id": "pc5Ym8IY40hy"
+      "id": "taguig",
+      "name": "Taguig"
     },
     {
-      "name": "Tagum",
-      "id": "VvaaPsrqA0g8"
+      "id": "tagum",
+      "name": "Tagum"
     },
     {
-      "name": "Talisay City",
-      "id": "fkF-Ebx8CQd5"
+      "id": "talisay-city",
+      "name": "Talisay City"
     },
     {
-      "name": "Talon",
-      "id": "4TxNRLrc0HLs"
+      "id": "talon",
+      "name": "Talon"
     },
     {
-      "name": "Tamag",
-      "id": "YIPMdeS7aR6G"
+      "id": "tamag",
+      "name": "Tamag"
     },
     {
-      "name": "Tambler",
-      "id": "fThUBFD6WduJ"
+      "id": "tambler",
+      "name": "Tambler"
     },
     {
-      "name": "Tambo",
-      "id": "XOrUL6OoUIz3"
+      "id": "tambo",
+      "name": "Tambo"
     },
     {
-      "name": "Tanauan",
-      "id": "KxddVbVKJmir"
+      "id": "tanauan",
+      "name": "Tanauan"
     },
     {
-      "name": "Tanay",
-      "id": "HXVONf_d3NW0"
+      "id": "tanay",
+      "name": "Tanay"
     },
     {
-      "name": "Tandang Sora",
-      "id": "KYSx6evmp827"
+      "id": "tandang-sora",
+      "name": "Tandang Sora"
     },
     {
-      "name": "Tanza",
-      "id": "isdNmBGarrOT"
+      "id": "tanza",
+      "name": "Tanza"
     },
     {
-      "name": "Tarlac City",
-      "id": "ZAs4odiuv_rJ"
+      "id": "tarlac-city",
+      "name": "Tarlac City"
     },
     {
-      "name": "Tayabas",
-      "id": "2TJhWe021ctt"
+      "id": "tayabas",
+      "name": "Tayabas"
     },
     {
-      "name": "Taytay",
-      "id": "z2EBdeSeA-ua"
+      "id": "taytay",
+      "name": "Taytay"
     },
     {
-      "name": "Tayug",
-      "id": "HAebjh6luHko"
+      "id": "tayug",
+      "name": "Tayug"
     },
     {
-      "name": "Tejeros Convention",
-      "id": "-fBxPzfz2Bt7"
+      "id": "tejeros-convention",
+      "name": "Tejeros Convention"
     },
     {
-      "name": "Tigbauan",
-      "id": "A7m1Zo-on6ro"
+      "id": "tigbauan",
+      "name": "Tigbauan"
     },
     {
-      "name": "Toledo City",
-      "id": "2fxsgV8LyHm9"
+      "id": "toledo-city",
+      "name": "Toledo City"
     },
     {
-      "name": "Trece Martires City",
-      "id": "dNGPHkENh4jt"
+      "id": "trece-martires-city",
+      "name": "Trece Martires City"
     },
     {
-      "name": "Trinidad",
-      "id": "L3d1dRRwZHQO"
+      "id": "trinidad",
+      "name": "Trinidad"
     },
     {
-      "name": "Tuguegarao City",
-      "id": "KaD47p9fXwEm"
+      "id": "tuguegarao-city",
+      "name": "Tuguegarao City"
     },
     {
-      "name": "Tuktukan",
-      "id": "vdQkiVjT2LHq"
+      "id": "tuktukan",
+      "name": "Tuktukan"
     },
     {
-      "name": "Ugong Norte",
-      "id": "KCQYfwpaT2Ji"
+      "id": "ugong-norte",
+      "name": "Ugong Norte"
     },
     {
-      "name": "Upper Bicutan",
-      "id": "DRoJATOzu6bT"
+      "id": "upper-bicutan",
+      "name": "Upper Bicutan"
     },
     {
-      "name": "Urdaneta",
-      "id": "nQbAu4TxeXTr"
+      "id": "urdaneta",
+      "name": "Urdaneta"
     },
     {
-      "name": "Valencia",
-      "id": "Kk2vSpfU8UQg"
+      "id": "valencia",
+      "name": "Valencia"
     },
     {
-      "name": "Valenzuela",
-      "id": "Fe0HydquGQew"
+      "id": "valenzuela",
+      "name": "Valenzuela"
     },
     {
-      "name": "Vargas",
-      "id": "bDnbkLKv9DfW"
+      "id": "vargas",
+      "name": "Vargas"
     },
     {
-      "name": "Ventura",
-      "id": "2McFozw3C_-g"
+      "id": "ventura",
+      "name": "Ventura"
     },
     {
-      "name": "Veronica",
-      "id": "2CGbyHCARnry"
+      "id": "veronica",
+      "name": "Veronica"
     },
     {
-      "name": "Victorias City",
-      "id": "T-RBbDsgOojG"
+      "id": "victorias-city",
+      "name": "Victorias City"
     },
     {
-      "name": "Victory",
-      "id": "URIF1chg2Uur"
+      "id": "victory",
+      "name": "Victory"
     },
     {
-      "name": "Vigan",
-      "id": "EnzXfDnW9v1I"
+      "id": "vigan",
+      "name": "Vigan"
     },
     {
-      "name": "Villa",
-      "id": "E_LSTN7r3aCL"
+      "id": "villa",
+      "name": "Villa"
     },
     {
-      "name": "Villanueva",
-      "id": "pC6AvxwOf_Hg"
+      "id": "villanueva",
+      "name": "Villanueva"
     },
     {
-      "name": "Vito",
-      "id": "rthB3gvO6QbO"
+      "id": "vito",
+      "name": "Vito"
     },
     {
-      "name": "West",
-      "id": "tLhdGC0KkRTf"
+      "id": "west",
+      "name": "West"
     },
     {
-      "name": "West Triangle",
-      "id": "RPb5bNfi467S"
+      "id": "west-triangle",
+      "name": "West Triangle"
     },
     {
-      "name": "Wines",
-      "id": "HHK8hiAJZLM2"
+      "id": "wines",
+      "name": "Wines"
     },
     {
-      "name": "Zamboanga City",
-      "id": "RH3NkPbKgx67"
+      "id": "zamboanga-city",
+      "name": "Zamboanga City"
     }
   ]
 }

@@ -2,44 +2,44 @@
   "coid": "CD",
   "cities": [
     {
-      "name": "Kinshasa",
-      "id": "_3d-Qcu860XK"
+      "id": "kinshasa",
+      "name": "Kinshasa"
     },
     {
-      "name": "Lubumbashi",
-      "id": "6Xoa8b2BQCI-"
+      "id": "lubumbashi",
+      "name": "Lubumbashi"
     },
     {
-      "name": "Mbuji-Mayi",
-      "id": "4QRCite9KboA"
+      "id": "mbuji-mayi",
+      "name": "Mbuji-Mayi"
     },
     {
-      "name": "Kisangani",
-      "id": "OmDKWNJo7rUe"
+      "id": "kisangani",
+      "name": "Kisangani"
     },
     {
-      "name": "Bukavu",
-      "id": "lCuQQRr04f2Z"
+      "id": "bukavu",
+      "name": "Bukavu"
     },
     {
-      "name": "Goma",
-      "id": "Z_8SyG15--0z"
+      "id": "goma",
+      "name": "Goma"
     },
     {
-      "name": "Kolwezi",
-      "id": "IxeMAA6fIADd"
+      "id": "kolwezi",
+      "name": "Kolwezi"
     },
     {
-      "name": "Likasi",
-      "id": "b3sAUfCgUuAn"
+      "id": "likasi",
+      "name": "Likasi"
     },
     {
-      "name": "Tshikapa",
-      "id": "C7iBDtpi818U"
+      "id": "tshikapa",
+      "name": "Tshikapa"
     },
     {
-      "name": "Kananga",
-      "id": "DF5XYJT_U_s0"
+      "id": "kananga",
+      "name": "Kananga"
     }
   ]
 }

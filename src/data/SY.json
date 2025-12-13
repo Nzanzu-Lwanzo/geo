@@ -2,44 +2,44 @@
   "coid": "SY",
   "cities": [
     {
-      "name": "Damascus",
-      "id": "vDs7QTJZh85V"
+      "id": "damascus",
+      "name": "Damascus"
     },
     {
-      "name": "Aleppo",
-      "id": "lFU1FCy2mGzc"
+      "id": "aleppo",
+      "name": "Aleppo"
     },
     {
-      "name": "Homs",
-      "id": "DEwkx24aOGoW"
+      "id": "homs",
+      "name": "Homs"
     },
     {
-      "name": "Hama",
-      "id": "2DAM3gKn2KuQ"
+      "id": "hama",
+      "name": "Hama"
     },
     {
-      "name": "Latakia",
-      "id": "GNAqeE0GywhS"
+      "id": "latakia",
+      "name": "Latakia"
     },
     {
-      "name": "Deir ez-Zor",
-      "id": "-ivpZirOEyiq"
+      "id": "deir-ez-zor",
+      "name": "Deir ez-Zor"
     },
     {
-      "name": "Raqqa",
-      "id": "Sosclkf-i7q-"
+      "id": "raqqa",
+      "name": "Raqqa"
     },
     {
-      "name": "Daraa",
-      "id": "FE39RACZiKKQ"
+      "id": "daraa",
+      "name": "Daraa"
     },
     {
-      "name": "Qamishli",
-      "id": "e84F5wZGfSdr"
+      "id": "qamishli",
+      "name": "Qamishli"
     },
     {
-      "name": "Tartus",
-      "id": "UTiRRSHCRPpd"
+      "id": "tartus",
+      "name": "Tartus"
     }
   ]
 }

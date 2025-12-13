@@ -2,36 +2,36 @@
   "coid": "BT",
   "cities": [
     {
-      "name": "Thimphu",
-      "id": "iealVaDkYQ3v"
+      "id": "thimphu",
+      "name": "Thimphu"
     },
     {
-      "name": "Phuentsholing",
-      "id": "nLp0v2iJFx0s"
+      "id": "phuentsholing",
+      "name": "Phuentsholing"
     },
     {
-      "name": "Punakha",
-      "id": "LxCal0dGLi7N"
+      "id": "punakha",
+      "name": "Punakha"
     },
     {
-      "name": "Gelephu",
-      "id": "GXcsQIXzvZea"
+      "id": "gelephu",
+      "name": "Gelephu"
     },
     {
-      "name": "Wangdue Phodrang",
-      "id": "gM78-zcHUtlI"
+      "id": "wangdue-phodrang",
+      "name": "Wangdue Phodrang"
     },
     {
-      "name": "Samdrup Jongkhar",
-      "id": "n96jEUcL42lp"
+      "id": "samdrup-jongkhar",
+      "name": "Samdrup Jongkhar"
     },
     {
-      "name": "Trongsa",
-      "id": "13ts9LqZC0fB"
+      "id": "trongsa",
+      "name": "Trongsa"
     },
     {
-      "name": "Trashigang",
-      "id": "TPDhwQ0zVnwr"
+      "id": "trashigang",
+      "name": "Trashigang"
     }
   ]
 }

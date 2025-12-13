@@ -2,664 +2,664 @@
   "coid": "TH",
   "cities": [
     {
-      "name": "Amnat Charoen",
-      "id": "4nra4wYNT19R"
+      "id": "amnat-charoen",
+      "name": "Amnat Charoen"
     },
     {
-      "name": "Amphawa",
-      "id": "luZKYbgDmXNS"
+      "id": "amphawa",
+      "name": "Amphawa"
     },
     {
-      "name": "Amphoe Aranyaprathet",
-      "id": "Z50NYdlfMR9C"
+      "id": "amphoe-aranyaprathet",
+      "name": "Amphoe Aranyaprathet"
     },
     {
-      "name": "Ang Thong",
-      "id": "5cBtfsiMKZH6"
+      "id": "ang-thong",
+      "name": "Ang Thong"
     },
     {
-      "name": "Ayutthaya",
-      "id": "O2DXU4eZHFGx"
+      "id": "ayutthaya",
+      "name": "Ayutthaya"
     },
     {
-      "name": "Ban Ang Thong",
-      "id": "jXM22_LeVTfB"
+      "id": "ban-ang-thong",
+      "name": "Ban Ang Thong"
     },
     {
-      "name": "Ban Bang Phli Nakhon",
-      "id": "Lw1AhjNFoeKw"
+      "id": "ban-bang-phli-nakhon",
+      "name": "Ban Bang Phli Nakhon"
     },
     {
-      "name": "Ban Bang Plong",
-      "id": "Wg7ftNBL6o5y"
+      "id": "ban-bang-plong",
+      "name": "Ban Bang Plong"
     },
     {
-      "name": "Ban Bueng",
-      "id": "l6NdS5iiAKPq"
+      "id": "ban-bueng",
+      "name": "Ban Bueng"
     },
     {
-      "name": "Ban Don Sak",
-      "id": "H8-Iodea4yE3"
+      "id": "ban-don-sak",
+      "name": "Ban Don Sak"
     },
     {
-      "name": "Ban Hua Thale",
-      "id": "RZSKs9C8LaPu"
+      "id": "ban-hua-thale",
+      "name": "Ban Hua Thale"
     },
     {
-      "name": "Ban Khlong Ngae",
-      "id": "TKkssNwLYd2q"
+      "id": "ban-khlong-ngae",
+      "name": "Ban Khlong Ngae"
     },
     {
-      "name": "Ban Khlong Prasong",
-      "id": "QBYJKrfTEfVR"
+      "id": "ban-khlong-prasong",
+      "name": "Ban Khlong Prasong"
     },
     {
-      "name": "Ban Khlong Prawet",
-      "id": "SKp_NXAWjBcW"
+      "id": "ban-khlong-prawet",
+      "name": "Ban Khlong Prawet"
     },
     {
-      "name": "Ban Khlong Takhian",
-      "id": "gJwxuqiiIQQo"
+      "id": "ban-khlong-takhian",
+      "name": "Ban Khlong Takhian"
     },
     {
-      "name": "Ban Ko Pao",
-      "id": "Bp5qWOGrIc7q"
+      "id": "ban-ko-pao",
+      "name": "Ban Ko Pao"
     },
     {
-      "name": "Ban Na",
-      "id": "hBHuPA5Bkhqa"
+      "id": "ban-na",
+      "name": "Ban Na"
     },
     {
-      "name": "Ban Nam Hak",
-      "id": "ShZ-qgvNPvFq"
+      "id": "ban-nam-hak",
+      "name": "Ban Nam Hak"
     },
     {
-      "name": "Ban Pat Mon",
-      "id": "lDpbRPWi7O9V"
+      "id": "ban-pat-mon",
+      "name": "Ban Pat Mon"
     },
     {
-      "name": "Ban Phichit",
-      "id": "2BjlmjOXhg4k"
+      "id": "ban-phichit",
+      "name": "Ban Phichit"
     },
     {
-      "name": "Ban Phlam",
-      "id": "ZAqB8mN0nvyG"
+      "id": "ban-phlam",
+      "name": "Ban Phlam"
     },
     {
-      "name": "Ban Pong Lang",
-      "id": "e52-_12KORwg"
+      "id": "ban-pong-lang",
+      "name": "Ban Pong Lang"
     },
     {
-      "name": "Ban Pratunam Tha Khai",
-      "id": "mL2XM57zI-5J"
+      "id": "ban-pratunam-tha-khai",
+      "name": "Ban Pratunam Tha Khai"
     },
     {
-      "name": "Ban Talat Rangsit",
-      "id": "udjRSJUYKY1Z"
+      "id": "ban-talat-rangsit",
+      "name": "Ban Talat Rangsit"
     },
     {
-      "name": "Ban Tha Duea",
-      "id": "-k5jFcZCq08Q"
+      "id": "ban-tha-duea",
+      "name": "Ban Tha Duea"
     },
     {
-      "name": "Ban Tha Pai",
-      "id": "tVLvQ08gfzay"
+      "id": "ban-tha-pai",
+      "name": "Ban Tha Pai"
     },
     {
-      "name": "Ban Tha Ruea",
-      "id": "hpkSKpSmB8wG"
+      "id": "ban-tha-ruea",
+      "name": "Ban Tha Ruea"
     },
     {
-      "name": "Ban Tham",
-      "id": "RCzDH8Egduuy"
+      "id": "ban-tham",
+      "name": "Ban Tham"
     },
     {
-      "name": "Ban Wang Yai",
-      "id": "aDaSJzb6U5hD"
+      "id": "ban-wang-yai",
+      "name": "Ban Wang Yai"
     },
     {
-      "name": "Bang Kapi",
-      "id": "X_1xbp0cc06Q"
+      "id": "bang-kapi",
+      "name": "Bang Kapi"
     },
     {
-      "name": "Bang Khae",
-      "id": "huUH4nuoWswH"
+      "id": "bang-khae",
+      "name": "Bang Khae"
     },
     {
-      "name": "Bang Khun Thian",
-      "id": "mZdw68pFIHSn"
+      "id": "bang-khun-thian",
+      "name": "Bang Khun Thian"
     },
     {
-      "name": "Bang Kruai",
-      "id": "iDqzclNvcdRb"
+      "id": "bang-kruai",
+      "name": "Bang Kruai"
     },
     {
-      "name": "Bang Lamung",
-      "id": "MXrTNPL4rsXO"
+      "id": "bang-lamung",
+      "name": "Bang Lamung"
     },
     {
-      "name": "Bang Na",
-      "id": "soB_S1znui_Z"
+      "id": "bang-na",
+      "name": "Bang Na"
     },
     {
-      "name": "Bang Phlat",
-      "id": "6D0bfb1ERnY5"
+      "id": "bang-phlat",
+      "name": "Bang Phlat"
     },
     {
-      "name": "Bang Sao Thong",
-      "id": "X1dE-Nc3wzeq"
+      "id": "bang-sao-thong",
+      "name": "Bang Sao Thong"
     },
     {
-      "name": "Bang Sue",
-      "id": "ZtS21BtWcv7R"
+      "id": "bang-sue",
+      "name": "Bang Sue"
     },
     {
-      "name": "Bangkok",
-      "id": "XtIGn-x7UOt7"
+      "id": "bangkok",
+      "name": "Bangkok"
     },
     {
-      "name": "Buriram",
-      "id": "21xHgLdruWwJ"
+      "id": "buriram",
+      "name": "Buriram"
     },
     {
-      "name": "Cha-am",
-      "id": "mUcFMwz6SHHn"
+      "id": "cha-am",
+      "name": "Cha-am"
     },
     {
-      "name": "Chachoengsao",
-      "id": "S5q_lwjIbTcm"
+      "id": "chachoengsao",
+      "name": "Chachoengsao"
     },
     {
-      "name": "Chaiyaphum",
-      "id": "_v3wenHROk4b"
+      "id": "chaiyaphum",
+      "name": "Chaiyaphum"
     },
     {
-      "name": "Chanthaburi",
-      "id": "nEPqbS2xaAAi"
+      "id": "chanthaburi",
+      "name": "Chanthaburi"
     },
     {
-      "name": "Chatuchak",
-      "id": "KkF7NZhr4vgN"
+      "id": "chatuchak",
+      "name": "Chatuchak"
     },
     {
-      "name": "Chiang Mai",
-      "id": "0KbFzPvO2SFc"
+      "id": "chiang-mai",
+      "name": "Chiang Mai"
     },
     {
-      "name": "Chiang Muan",
-      "id": "XLcYxG5ujpjA"
+      "id": "chiang-muan",
+      "name": "Chiang Muan"
     },
     {
-      "name": "Chiang Rai",
-      "id": "0qJ3nvzTnCHT"
+      "id": "chiang-rai",
+      "name": "Chiang Rai"
     },
     {
-      "name": "Chon Buri",
-      "id": "gqhleGPuepkh"
+      "id": "chon-buri",
+      "name": "Chon Buri"
     },
     {
-      "name": "Chulabhorn",
-      "id": "tlyZ8CLvPUMP"
+      "id": "chulabhorn",
+      "name": "Chulabhorn"
     },
     {
-      "name": "Chumphon",
-      "id": "hTcED6gAwLrI"
+      "id": "chumphon",
+      "name": "Chumphon"
     },
     {
-      "name": "Din Daeng",
-      "id": "qIIiBYkpenZG"
+      "id": "din-daeng",
+      "name": "Din Daeng"
     },
     {
-      "name": "Don Mueang",
-      "id": "nQAHpDriJ033"
+      "id": "don-mueang",
+      "name": "Don Mueang"
     },
     {
-      "name": "Dusit",
-      "id": "w78cNn5_mz4Q"
+      "id": "dusit",
+      "name": "Dusit"
     },
     {
-      "name": "Hat Yai",
-      "id": "g86ndNOLUr8b"
+      "id": "hat-yai",
+      "name": "Hat Yai"
     },
     {
-      "name": "Hua Hin",
-      "id": "N-nJ59AMuFkS"
+      "id": "hua-hin",
+      "name": "Hua Hin"
     },
     {
-      "name": "Huai Khwang",
-      "id": "s1YW0U_ppzqn"
+      "id": "huai-khwang",
+      "name": "Huai Khwang"
     },
     {
-      "name": "Ka Bang",
-      "id": "TGlj1piEEfrB"
+      "id": "ka-bang",
+      "name": "Ka Bang"
     },
     {
-      "name": "Kalasin",
-      "id": "DHUW3fc9YOBz"
+      "id": "kalasin",
+      "name": "Kalasin"
     },
     {
-      "name": "Kamphaeng Phet",
-      "id": "0X5l_JlTm6Bs"
+      "id": "kamphaeng-phet",
+      "name": "Kamphaeng Phet"
     },
     {
-      "name": "Kanchanaburi",
-      "id": "4YovZf-pfee-"
+      "id": "kanchanaburi",
+      "name": "Kanchanaburi"
     },
     {
-      "name": "Kathu",
-      "id": "wkYlfwigUFpg"
+      "id": "kathu",
+      "name": "Kathu"
     },
     {
-      "name": "Khan Na Yao",
-      "id": "G9il2EjNdbjF"
+      "id": "khan-na-yao",
+      "name": "Khan Na Yao"
     },
     {
-      "name": "Khlong Luang",
-      "id": "KC4dzvpkH-X-"
+      "id": "khlong-luang",
+      "name": "Khlong Luang"
     },
     {
-      "name": "Khlong San",
-      "id": "LokKFZEIUVuQ"
+      "id": "khlong-san",
+      "name": "Khlong San"
     },
     {
-      "name": "Khlong Toei",
-      "id": "lFQafjF7GB84"
+      "id": "khlong-toei",
+      "name": "Khlong Toei"
     },
     {
-      "name": "Khlung",
-      "id": "AR6XaaiCyd7v"
+      "id": "khlung",
+      "name": "Khlung"
     },
     {
-      "name": "Khon Kaen",
-      "id": "F0AUG9kvK8ZC"
+      "id": "khon-kaen",
+      "name": "Khon Kaen"
     },
     {
-      "name": "Klaeng",
-      "id": "D-cStGhS0fGW"
+      "id": "klaeng",
+      "name": "Klaeng"
     },
     {
-      "name": "Kosum Phisai",
-      "id": "JcxyrRhy--EY"
+      "id": "kosum-phisai",
+      "name": "Kosum Phisai"
     },
     {
-      "name": "Krabi",
-      "id": "nAH39STL5ZF3"
+      "id": "krabi",
+      "name": "Krabi"
     },
     {
-      "name": "Krathum Baen",
-      "id": "L-mvypDgxZhD"
+      "id": "krathum-baen",
+      "name": "Krathum Baen"
     },
     {
-      "name": "Kumphawapi",
-      "id": "9aEl_UOpgjMz"
+      "id": "kumphawapi",
+      "name": "Kumphawapi"
     },
     {
-      "name": "Lampang",
-      "id": "Iv2pzOVuLtrs"
+      "id": "lampang",
+      "name": "Lampang"
     },
     {
-      "name": "Lamphun",
-      "id": "ae6lPdmvkCXC"
+      "id": "lamphun",
+      "name": "Lamphun"
     },
     {
-      "name": "Lat Krabang",
-      "id": "q9fqEn4ileQE"
+      "id": "lat-krabang",
+      "name": "Lat Krabang"
     },
     {
-      "name": "Loei",
-      "id": "K9juf-VHzd0b"
+      "id": "loei",
+      "name": "Loei"
     },
     {
-      "name": "Long",
-      "id": "tbAElKPp2cRQ"
+      "id": "long",
+      "name": "Long"
     },
     {
-      "name": "Lopburi",
-      "id": "PFQlAV-QahF7"
+      "id": "lopburi",
+      "name": "Lopburi"
     },
     {
-      "name": "Mae Hong Son",
-      "id": "yp9hhFRLISxQ"
+      "id": "mae-hong-son",
+      "name": "Mae Hong Son"
     },
     {
-      "name": "Mae Sot",
-      "id": "2Jlo3SjkiHJz"
+      "id": "mae-sot",
+      "name": "Mae Sot"
     },
     {
-      "name": "Maha Sarakham",
-      "id": "FOjaHDQLhSAT"
+      "id": "maha-sarakham",
+      "name": "Maha Sarakham"
     },
     {
-      "name": "Makkasan",
-      "id": "hwM1Rxdwcn3z"
+      "id": "makkasan",
+      "name": "Makkasan"
     },
     {
-      "name": "Manorom",
-      "id": "bk7aQCbzZcth"
+      "id": "manorom",
+      "name": "Manorom"
     },
     {
-      "name": "Min Buri",
-      "id": "DiJlzpMaBcFs"
+      "id": "min-buri",
+      "name": "Min Buri"
     },
     {
-      "name": "Muak Lek",
-      "id": "ydoMm_DxPd7I"
+      "id": "muak-lek",
+      "name": "Muak Lek"
     },
     {
-      "name": "Mueang Nonthaburi",
-      "id": "6pUtUxeKomR0"
+      "id": "mueang-nonthaburi",
+      "name": "Mueang Nonthaburi"
     },
     {
-      "name": "Mueang Samut Prakan",
-      "id": "9Ti9OJr5A9pG"
+      "id": "mueang-samut-prakan",
+      "name": "Mueang Samut Prakan"
     },
     {
-      "name": "Mukdahan",
-      "id": "AKhDk4ZjspLK"
+      "id": "mukdahan",
+      "name": "Mukdahan"
     },
     {
-      "name": "Nakhon Pathom",
-      "id": "E2jSe4FmIrvu"
+      "id": "nakhon-pathom",
+      "name": "Nakhon Pathom"
     },
     {
-      "name": "Nakhon Ratchasima",
-      "id": "_VuNw63gHoy8"
+      "id": "nakhon-ratchasima",
+      "name": "Nakhon Ratchasima"
     },
     {
-      "name": "Nakhon Sawan",
-      "id": "ix2JNrKQkt4e"
+      "id": "nakhon-sawan",
+      "name": "Nakhon Sawan"
     },
     {
-      "name": "Nakhon Si Thammarat",
-      "id": "Ma7DYXU2GrLP"
+      "id": "nakhon-si-thammarat",
+      "name": "Nakhon Si Thammarat"
     },
     {
-      "name": "Nan",
-      "id": "mg8xzkC9p1Cx"
+      "id": "nan",
+      "name": "Nan"
     },
     {
-      "name": "Narathiwat",
-      "id": "HswpJORAA-PY"
+      "id": "narathiwat",
+      "name": "Narathiwat"
     },
     {
-      "name": "New Sukhothai",
-      "id": "iSp1RE0soc1z"
+      "id": "new-sukhothai",
+      "name": "New Sukhothai"
     },
     {
-      "name": "Non Thai",
-      "id": "_wkLxPzGu3cW"
+      "id": "non-thai",
+      "name": "Non Thai"
     },
     {
-      "name": "Nong Bua",
-      "id": "u4fxRGRnOp_P"
+      "id": "nong-bua",
+      "name": "Nong Bua"
     },
     {
-      "name": "Nong Bua Lamphu",
-      "id": "EGwKsZxJuh6t"
+      "id": "nong-bua-lamphu",
+      "name": "Nong Bua Lamphu"
     },
     {
-      "name": "Nong Khai",
-      "id": "H4rqpWFzxtRn"
+      "id": "nong-khai",
+      "name": "Nong Khai"
     },
     {
-      "name": "Nong Prue",
-      "id": "KQcw6VnwpJqQ"
+      "id": "nong-prue",
+      "name": "Nong Prue"
     },
     {
-      "name": "Pak Kret",
-      "id": "PhZ4gXVljg2J"
+      "id": "pak-kret",
+      "name": "Pak Kret"
     },
     {
-      "name": "Pathum Thani",
-      "id": "FZSY6OBmLOdm"
+      "id": "pathum-thani",
+      "name": "Pathum Thani"
     },
     {
-      "name": "Pathum Wan",
-      "id": "-bO970V1kncr"
+      "id": "pathum-wan",
+      "name": "Pathum Wan"
     },
     {
-      "name": "Pattani",
-      "id": "D0rfbidtnkkT"
+      "id": "pattani",
+      "name": "Pattani"
     },
     {
-      "name": "Pattaya",
-      "id": "DCFOCpbokh7u"
+      "id": "pattaya",
+      "name": "Pattaya"
     },
     {
-      "name": "Phachi",
-      "id": "pObgOHW2DLS7"
+      "id": "phachi",
+      "name": "Phachi"
     },
     {
-      "name": "Phan",
-      "id": "qcSb5kAmM_DQ"
+      "id": "phan",
+      "name": "Phan"
     },
     {
-      "name": "Phang Khon",
-      "id": "yelxlob8l73T"
+      "id": "phang-khon",
+      "name": "Phang Khon"
     },
     {
-      "name": "Phang Nga",
-      "id": "h10RY799DEoM"
+      "id": "phang-nga",
+      "name": "Phang Nga"
     },
     {
-      "name": "Phanna Nikhom",
-      "id": "uGFpgXyjh8tT"
+      "id": "phanna-nikhom",
+      "name": "Phanna Nikhom"
     },
     {
-      "name": "Phatthalung",
-      "id": "wRBnh9AV17L3"
+      "id": "phatthalung",
+      "name": "Phatthalung"
     },
     {
-      "name": "Phaya Thai",
-      "id": "1Ub_j6Jiay3L"
+      "id": "phaya-thai",
+      "name": "Phaya Thai"
     },
     {
-      "name": "Phayao",
-      "id": "kWh3MYxMhsfl"
+      "id": "phayao",
+      "name": "Phayao"
     },
     {
-      "name": "Phetchabun",
-      "id": "ZZbX8-urY9yh"
+      "id": "phetchabun",
+      "name": "Phetchabun"
     },
     {
-      "name": "Phetchaburi",
-      "id": "8LVcY6A6Dxk3"
+      "id": "phetchaburi",
+      "name": "Phetchaburi"
     },
     {
-      "name": "Phichit",
-      "id": "if5mG90wNShI"
+      "id": "phichit",
+      "name": "Phichit"
     },
     {
-      "name": "Phitsanulok",
-      "id": "UBF85IaJn_6C"
+      "id": "phitsanulok",
+      "name": "Phitsanulok"
     },
     {
-      "name": "Photharam",
-      "id": "_tV18V-iRA0M"
+      "id": "photharam",
+      "name": "Photharam"
     },
     {
-      "name": "Phrae",
-      "id": "4DbJib_NDN9m"
+      "id": "phrae",
+      "name": "Phrae"
     },
     {
-      "name": "Phuket",
-      "id": "7D1sociKNaV5"
+      "id": "phuket",
+      "name": "Phuket"
     },
     {
-      "name": "Prachin Buri",
-      "id": "VRkFKqDPFWad"
+      "id": "prachin-buri",
+      "name": "Prachin Buri"
     },
     {
-      "name": "Prachuap Khiri Khan",
-      "id": "UT3ZiR49U9v7"
+      "id": "prachuap-khiri-khan",
+      "name": "Prachuap Khiri Khan"
     },
     {
-      "name": "Prakanong",
-      "id": "NU3s6U-K4iGO"
+      "id": "prakanong",
+      "name": "Prakanong"
     },
     {
-      "name": "Ranong",
-      "id": "h8XfnrPo1WrG"
+      "id": "ranong",
+      "name": "Ranong"
     },
     {
-      "name": "Ratchaburi",
-      "id": "1NI1FXFUw9md"
+      "id": "ratchaburi",
+      "name": "Ratchaburi"
     },
     {
-      "name": "Rawai",
-      "id": "ug_ss439Y6Cv"
+      "id": "rawai",
+      "name": "Rawai"
     },
     {
-      "name": "Rayong",
-      "id": "7oUFyVtNeRRP"
+      "id": "rayong",
+      "name": "Rayong"
     },
     {
-      "name": "Roi Et",
-      "id": "CAY0oMcRksek"
+      "id": "roi-et",
+      "name": "Roi Et"
     },
     {
-      "name": "Sa Kaeo",
-      "id": "CFmqRTkuEWMd"
+      "id": "sa-kaeo",
+      "name": "Sa Kaeo"
     },
     {
-      "name": "Sakon Nakhon",
-      "id": "SEq53NJwsm88"
+      "id": "sakon-nakhon",
+      "name": "Sakon Nakhon"
     },
     {
-      "name": "Salaya",
-      "id": "XvwEqhe_bIwB"
+      "id": "salaya",
+      "name": "Salaya"
     },
     {
-      "name": "Sam Khok",
-      "id": "5pFyBJXVXbol"
+      "id": "sam-khok",
+      "name": "Sam Khok"
     },
     {
-      "name": "Sam Sen",
-      "id": "UdGEtVEajUyT"
+      "id": "sam-sen",
+      "name": "Sam Sen"
     },
     {
-      "name": "Samphanthawong",
-      "id": "V7uW5_CekbHV"
+      "id": "samphanthawong",
+      "name": "Samphanthawong"
     },
     {
-      "name": "Samut Sakhon",
-      "id": "ng_PgJ5fKP6L"
+      "id": "samut-sakhon",
+      "name": "Samut Sakhon"
     },
     {
-      "name": "Samut Songkhram",
-      "id": "vTsTDByLyoy8"
+      "id": "samut-songkhram",
+      "name": "Samut Songkhram"
     },
     {
-      "name": "San Sai",
-      "id": "XtVcaeEMmdz1"
+      "id": "san-sai",
+      "name": "San Sai"
     },
     {
-      "name": "Sathon",
-      "id": "aXLAWnr7_7Wi"
+      "id": "sathon",
+      "name": "Sathon"
     },
     {
-      "name": "Sattahip",
-      "id": "2KH_ym-JkY-5"
+      "id": "sattahip",
+      "name": "Sattahip"
     },
     {
-      "name": "Satun",
-      "id": "qHGI6n80hFpx"
+      "id": "satun",
+      "name": "Satun"
     },
     {
-      "name": "Sena",
-      "id": "NiYMh_SY8WRi"
+      "id": "sena",
+      "name": "Sena"
     },
     {
-      "name": "Si Racha",
-      "id": "7Vo08ZGbrwlI"
+      "id": "si-racha",
+      "name": "Si Racha"
     },
     {
-      "name": "Si Sa Ket",
-      "id": "jfkfir-JFWDP"
+      "id": "si-sa-ket",
+      "name": "Si Sa Ket"
     },
     {
-      "name": "Sing Buri",
-      "id": "CIh_SXGLLrUy"
+      "id": "sing-buri",
+      "name": "Sing Buri"
     },
     {
-      "name": "Songkhla",
-      "id": "CpxO7UyTeZPy"
+      "id": "songkhla",
+      "name": "Songkhla"
     },
     {
-      "name": "Suan Luang",
-      "id": "pgeNUh3QF9Ri"
+      "id": "suan-luang",
+      "name": "Suan Luang"
     },
     {
-      "name": "Sung Noen",
-      "id": "AjIDWhOvqBRT"
+      "id": "sung-noen",
+      "name": "Sung Noen"
     },
     {
-      "name": "Suphan Buri",
-      "id": "3fA_O7uHU1yo"
+      "id": "suphan-buri",
+      "name": "Suphan Buri"
     },
     {
-      "name": "Surin",
-      "id": "ru5FVLZXklS7"
+      "id": "surin",
+      "name": "Surin"
     },
     {
-      "name": "Tak",
-      "id": "I5-S_8PiovBC"
+      "id": "tak",
+      "name": "Tak"
     },
     {
-      "name": "Thalang",
-      "id": "NI-vChf3LHuZ"
+      "id": "thalang",
+      "name": "Thalang"
     },
     {
-      "name": "Thanyaburi",
-      "id": "WsMQ5gAHizJo"
+      "id": "thanyaburi",
+      "name": "Thanyaburi"
     },
     {
-      "name": "Thon Buri",
-      "id": "rmMplqd1vQhQ"
+      "id": "thon-buri",
+      "name": "Thon Buri"
     },
     {
-      "name": "Trang",
-      "id": "yx1F15U-r667"
+      "id": "trang",
+      "name": "Trang"
     },
     {
-      "name": "Trat",
-      "id": "b9lPk8NUn9bg"
+      "id": "trat",
+      "name": "Trat"
     },
     {
-      "name": "Ubon Ratchathani",
-      "id": "A9DqQzBIegOx"
+      "id": "ubon-ratchathani",
+      "name": "Ubon Ratchathani"
     },
     {
-      "name": "Udon Thani",
-      "id": "hnqlt5AL5mBs"
+      "id": "udon-thani",
+      "name": "Udon Thani"
     },
     {
-      "name": "Uthai Thani",
-      "id": "qy7MbWvy0_SM"
+      "id": "uthai-thani",
+      "name": "Uthai Thani"
     },
     {
-      "name": "Uttaradit",
-      "id": "0kGeWyqjDetz"
+      "id": "uttaradit",
+      "name": "Uttaradit"
     },
     {
-      "name": "Wang Thonglang",
-      "id": "WVj-EcsRAoWb"
+      "id": "wang-thonglang",
+      "name": "Wang Thonglang"
     },
     {
-      "name": "Watthana",
-      "id": "5OvT8WpgCgZD"
+      "id": "watthana",
+      "name": "Watthana"
     },
     {
-      "name": "Wiphawadi",
-      "id": "aERsgZCRZStm"
+      "id": "wiphawadi",
+      "name": "Wiphawadi"
     },
     {
-      "name": "Yala",
-      "id": "xkuHoqgxSuQ0"
+      "id": "yala",
+      "name": "Yala"
     },
     {
-      "name": "Yasothon",
-      "id": "-rwKu8BFPNXV"
+      "id": "yasothon",
+      "name": "Yasothon"
     }
   ]
 }

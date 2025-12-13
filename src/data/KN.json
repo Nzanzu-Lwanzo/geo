@@ -2,44 +2,44 @@
   "coid": "KN",
   "cities": [
     {
-      "name": "Basseterre",
-      "id": "oy110xgXiOCe"
+      "id": "basseterre",
+      "name": "Basseterre"
     },
     {
-      "name": "Sandy Point Town",
-      "id": "aZg0JI9b1Gfr"
+      "id": "sandy-point-town",
+      "name": "Sandy Point Town"
     },
     {
-      "name": "Cayon",
-      "id": "kWWZVjZv9o4z"
+      "id": "cayon",
+      "name": "Cayon"
     },
     {
-      "name": "Dieppe Bay Town",
-      "id": "puYuFdoe7E2R"
+      "id": "dieppe-bay-town",
+      "name": "Dieppe Bay Town"
     },
     {
-      "name": "Old Road Town",
-      "id": "gxrKh8P33uXZ"
+      "id": "old-road-town",
+      "name": "Old Road Town"
     },
     {
-      "name": "St. Peter's",
-      "id": "UaWSF_WGklzH"
+      "id": "st-peters",
+      "name": "St. Peter's"
     },
     {
-      "name": "Tabernacle",
-      "id": "Yc6EXzGl82fF"
+      "id": "tabernacle",
+      "name": "Tabernacle"
     },
     {
-      "name": "Monkey Hill",
-      "id": "UERfC74o2DXs"
+      "id": "monkey-hill",
+      "name": "Monkey Hill"
     },
     {
-      "name": "Molyneux",
-      "id": "Uty-scmgYued"
+      "id": "molyneux",
+      "name": "Molyneux"
     },
     {
-      "name": "Conaree",
-      "id": "nQXjfqYMDa3R"
+      "id": "conaree",
+      "name": "Conaree"
     }
   ]
 }

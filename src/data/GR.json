@@ -2,664 +2,664 @@
   "coid": "GR",
   "cities": [
     {
-      "name": "Aegina",
-      "id": "JShJ0KS4zL5F"
+      "id": "aegina",
+      "name": "Aegina"
     },
     {
-      "name": "Agioi Anargyroi",
-      "id": "asBmMknqBKMf"
+      "id": "agioi-anargyroi",
+      "name": "Agioi Anargyroi"
     },
     {
-      "name": "Agios Nikolaos",
-      "id": "WgB52NEHCMJp"
+      "id": "agios-nikolaos",
+      "name": "Agios Nikolaos"
     },
     {
-      "name": "Agrinio",
-      "id": "sVL0lIy6xNc6"
+      "id": "agrinio",
+      "name": "Agrinio"
     },
     {
-      "name": "Aigaleo",
-      "id": "SOLJk5zaTJ4l"
+      "id": "aigaleo",
+      "name": "Aigaleo"
     },
     {
-      "name": "Aigio",
-      "id": "ha5BeF11ND7-"
+      "id": "aigio",
+      "name": "Aigio"
     },
     {
-      "name": "Alexandreia",
-      "id": "ET658jXCzERt"
+      "id": "alexandreia",
+      "name": "Alexandreia"
     },
     {
-      "name": "Alexandroupoli",
-      "id": "Tx1EDAAwNpqj"
+      "id": "alexandroupoli",
+      "name": "Alexandroupoli"
     },
     {
-      "name": "Aliartos",
-      "id": "vPNcQZSpckNt"
+      "id": "aliartos",
+      "name": "Aliartos"
     },
     {
-      "name": "Alimos",
-      "id": "VJ6u1QBNY0dT"
+      "id": "alimos",
+      "name": "Alimos"
     },
     {
-      "name": "Amaliada",
-      "id": "G6Il9L2FETOW"
+      "id": "amaliada",
+      "name": "Amaliada"
     },
     {
-      "name": "Anavyssos",
-      "id": "N08lBUUgVEsm"
+      "id": "anavyssos",
+      "name": "Anavyssos"
     },
     {
-      "name": "Andravida",
-      "id": "RBsKkMfGmXpW"
+      "id": "andravida",
+      "name": "Andravida"
     },
     {
-      "name": "Ano Liosia",
-      "id": "lEagVZKPlI5L"
+      "id": "ano-liosia",
+      "name": "Ano Liosia"
     },
     {
-      "name": "Archaia Nemea",
-      "id": "wB-qG4BFz8vc"
+      "id": "archaia-nemea",
+      "name": "Archaia Nemea"
     },
     {
-      "name": "Argos",
-      "id": "mNwv4ooghStj"
+      "id": "argos",
+      "name": "Argos"
     },
     {
-      "name": "Argostoli",
-      "id": "A3POKWDjuzCp"
+      "id": "argostoli",
+      "name": "Argostoli"
     },
     {
-      "name": "Argyroupoli",
-      "id": "uGWeQNWdSSGQ"
+      "id": "argyroupoli",
+      "name": "Argyroupoli"
     },
     {
-      "name": "Arta",
-      "id": "j0w3JJQ_27g0"
+      "id": "arta",
+      "name": "Arta"
     },
     {
-      "name": "Aspropyrgos",
-      "id": "mh72-2KaVbZM"
+      "id": "aspropyrgos",
+      "name": "Aspropyrgos"
     },
     {
-      "name": "Athens",
-      "id": "jHifwO7M4rVc"
+      "id": "athens",
+      "name": "Athens"
     },
     {
-      "name": "Attica",
-      "id": "-vXEXUwKB3F9"
+      "id": "attica",
+      "name": "Attica"
     },
     {
-      "name": "Ayios Stefanos",
-      "id": "HvDa2CEJEfy8"
+      "id": "ayios-stefanos",
+      "name": "Ayios Stefanos"
     },
     {
-      "name": "Chalcis",
-      "id": "dSVekTiPIJGn"
+      "id": "chalcis",
+      "name": "Chalcis"
     },
     {
-      "name": "Chania",
-      "id": "bzF_TlKG5_l7"
+      "id": "chania",
+      "name": "Chania"
     },
     {
-      "name": "Chios",
-      "id": "oDf2c0e85O12"
+      "id": "chios",
+      "name": "Chios"
     },
     {
-      "name": "Cholargos",
-      "id": "sJfGyIPdDhQ8"
+      "id": "cholargos",
+      "name": "Cholargos"
     },
     {
-      "name": "Corfu",
-      "id": "PMomnmFDPl05"
+      "id": "corfu",
+      "name": "Corfu"
     },
     {
-      "name": "Corinth",
-      "id": "GnoTXsR_IoVx"
+      "id": "corinth",
+      "name": "Corinth"
     },
     {
-      "name": "Dafni",
-      "id": "aBhFHVahK-V7"
+      "id": "dafni",
+      "name": "Dafni"
     },
     {
-      "name": "Dionysos",
-      "id": "pZDAaZWXw9Kx"
+      "id": "dionysos",
+      "name": "Dionysos"
     },
     {
-      "name": "Drama",
-      "id": "1k7gq80y-tfQ"
+      "id": "drama",
+      "name": "Drama"
     },
     {
-      "name": "Ekali",
-      "id": "6dEhxamwtt5W"
+      "id": "ekali",
+      "name": "Ekali"
     },
     {
-      "name": "Elassona",
-      "id": "WmdlRoIe9xga"
+      "id": "elassona",
+      "name": "Elassona"
     },
     {
-      "name": "Elefsina",
-      "id": "OYoHiI5nHCkU"
+      "id": "elefsina",
+      "name": "Elefsina"
     },
     {
-      "name": "Elliniko",
-      "id": "PG2RS95_Scaq"
+      "id": "elliniko",
+      "name": "Elliniko"
     },
     {
-      "name": "Eretria",
-      "id": "uCKHOvSzVWET"
+      "id": "eretria",
+      "name": "Eretria"
     },
     {
-      "name": "Farsala",
-      "id": "2Z7frEBkaCz7"
+      "id": "farsala",
+      "name": "Farsala"
     },
     {
-      "name": "Filippiada",
-      "id": "oLeb0hdQ-VhC"
+      "id": "filippiada",
+      "name": "Filippiada"
     },
     {
-      "name": "Filothei",
-      "id": "v5GcFGVmTVlI"
+      "id": "filothei",
+      "name": "Filothei"
     },
     {
-      "name": "Florina",
-      "id": "2fJ65Pys-Mp-"
+      "id": "florina",
+      "name": "Florina"
     },
     {
-      "name": "Galatsi",
-      "id": "WKsYx2ykNsxg"
+      "id": "galatsi",
+      "name": "Galatsi"
     },
     {
-      "name": "Giannitsa",
-      "id": "orV0b-EyL0OX"
+      "id": "giannitsa",
+      "name": "Giannitsa"
     },
     {
-      "name": "Glyfada",
-      "id": "tnrB4Q0JaoaG"
+      "id": "glyfada",
+      "name": "Glyfada"
     },
     {
-      "name": "Gonnoi",
-      "id": "zH0CLgVBGrkQ"
+      "id": "gonnoi",
+      "name": "Gonnoi"
     },
     {
-      "name": "Goumenissa",
-      "id": "S9n5tDP600-v"
+      "id": "goumenissa",
+      "name": "Goumenissa"
     },
     {
-      "name": "Heraklion",
-      "id": "kdR33vQgO1U5"
+      "id": "heraklion",
+      "name": "Heraklion"
     },
     {
-      "name": "Hydra",
-      "id": "jZ24Ekv4Y0A0"
+      "id": "hydra",
+      "name": "Hydra"
     },
     {
-      "name": "Ialysos",
-      "id": "1gmFaLWt2SX6"
+      "id": "ialysos",
+      "name": "Ialysos"
     },
     {
-      "name": "Ierapetra",
-      "id": "Z9o9sC8MQtf1"
+      "id": "ierapetra",
+      "name": "Ierapetra"
     },
     {
-      "name": "Igoumenitsa",
-      "id": "G9oWLh0dEHZh"
+      "id": "igoumenitsa",
+      "name": "Igoumenitsa"
     },
     {
-      "name": "Ioannina",
-      "id": "ylFuJoJlp6no"
+      "id": "ioannina",
+      "name": "Ioannina"
     },
     {
-      "name": "Kaisariani",
-      "id": "9IK281n7ahbw"
+      "id": "kaisariani",
+      "name": "Kaisariani"
     },
     {
-      "name": "Kalamaria",
-      "id": "ZS2Yazm4ZiFU"
+      "id": "kalamaria",
+      "name": "Kalamaria"
     },
     {
-      "name": "Kalamata",
-      "id": "z7H-E7zKxkki"
+      "id": "kalamata",
+      "name": "Kalamata"
     },
     {
-      "name": "Kalamos",
-      "id": "ssUob2s6gBuY"
+      "id": "kalamos",
+      "name": "Kalamos"
     },
     {
-      "name": "Kallithea",
-      "id": "vb40o6fT5et1"
+      "id": "kallithea",
+      "name": "Kallithea"
     },
     {
-      "name": "Kalymnos",
-      "id": "KSS1WUF2zi4s"
+      "id": "kalymnos",
+      "name": "Kalymnos"
     },
     {
-      "name": "Kamatero",
-      "id": "PuK_h_UbpU-9"
+      "id": "kamatero",
+      "name": "Kamatero"
     },
     {
-      "name": "Karditsa",
-      "id": "s0XpTGo1KkK9"
+      "id": "karditsa",
+      "name": "Karditsa"
     },
     {
-      "name": "Kassiopi",
-      "id": "RTyaBcbFeBSK"
+      "id": "kassiopi",
+      "name": "Kassiopi"
     },
     {
-      "name": "Kastoria",
-      "id": "RY_4da0syYQ9"
+      "id": "kastoria",
+      "name": "Kastoria"
     },
     {
-      "name": "Katerini",
-      "id": "v0QPTiPncI4y"
+      "id": "katerini",
+      "name": "Katerini"
     },
     {
-      "name": "Kavala",
-      "id": "ZKcIa9_QTMVu"
+      "id": "kavala",
+      "name": "Kavala"
     },
     {
-      "name": "Keratea",
-      "id": "w-c8-rRCeagY"
+      "id": "keratea",
+      "name": "Keratea"
     },
     {
-      "name": "Keratsini",
-      "id": "0byWywV6K_vD"
+      "id": "keratsini",
+      "name": "Keratsini"
     },
     {
-      "name": "Kifissia",
-      "id": "FCc2CXpsBJFQ"
+      "id": "kifissia",
+      "name": "Kifissia"
     },
     {
-      "name": "Kilkis",
-      "id": "T5bVTTgndhk7"
+      "id": "kilkis",
+      "name": "Kilkis"
     },
     {
-      "name": "Komotini",
-      "id": "bLN8ziZ7xf6A"
+      "id": "komotini",
+      "name": "Komotini"
     },
     {
-      "name": "Koropi",
-      "id": "R2YFrjmBf-4U"
+      "id": "koropi",
+      "name": "Koropi"
     },
     {
-      "name": "Kos",
-      "id": "R21fxPjjJv5c"
+      "id": "kos",
+      "name": "Kos"
     },
     {
-      "name": "Kouvaras",
-      "id": "cRSLcNaZRPvd"
+      "id": "kouvaras",
+      "name": "Kouvaras"
     },
     {
-      "name": "Kozani",
-      "id": "Xg5XQgH4v-vE"
+      "id": "kozani",
+      "name": "Kozani"
     },
     {
-      "name": "Kranidi",
-      "id": "gwBhNZqDSnBE"
+      "id": "kranidi",
+      "name": "Kranidi"
     },
     {
-      "name": "Kryonerion",
-      "id": "CRymrKcSgtJi"
+      "id": "kryonerion",
+      "name": "Kryonerion"
     },
     {
-      "name": "Kymi",
-      "id": "eZjPn3ZQ4Ry5"
+      "id": "kymi",
+      "name": "Kymi"
     },
     {
-      "name": "Lamia",
-      "id": "6XAJDOmk9LFj"
+      "id": "lamia",
+      "name": "Lamia"
     },
     {
-      "name": "Larisa",
-      "id": "dPipfcuzXTsQ"
+      "id": "larisa",
+      "name": "Larisa"
     },
     {
-      "name": "Lefkada",
-      "id": "Xvw21gYgOsbK"
+      "id": "lefkada",
+      "name": "Lefkada"
     },
     {
-      "name": "Lefkimmi",
-      "id": "GGnHamLkNiJO"
+      "id": "lefkimmi",
+      "name": "Lefkimmi"
     },
     {
-      "name": "Leontario",
-      "id": "kop8XCRijpQo"
+      "id": "leontario",
+      "name": "Leontario"
     },
     {
-      "name": "Litochoro",
-      "id": "hFrfMWmSjuNc"
+      "id": "litochoro",
+      "name": "Litochoro"
     },
     {
-      "name": "Lixouri",
-      "id": "JwfWBzcoRVrt"
+      "id": "lixouri",
+      "name": "Lixouri"
     },
     {
-      "name": "Loutraki",
-      "id": "NnA8OrM_IiUg"
+      "id": "loutraki",
+      "name": "Loutraki"
     },
     {
-      "name": "Lykovrysi",
-      "id": "qOdH_82EVlvt"
+      "id": "lykovrysi",
+      "name": "Lykovrysi"
     },
     {
-      "name": "Magoula",
-      "id": "tqncWHL7YxS2"
+      "id": "magoula",
+      "name": "Magoula"
     },
     {
-      "name": "Makrygialos",
-      "id": "llrqGy2NOaFJ"
+      "id": "makrygialos",
+      "name": "Makrygialos"
     },
     {
-      "name": "Mandra",
-      "id": "HUtCUjtGqQMq"
+      "id": "mandra",
+      "name": "Mandra"
     },
     {
-      "name": "Marathon",
-      "id": "3ww5MI4sQnS0"
+      "id": "marathon",
+      "name": "Marathon"
     },
     {
-      "name": "Markopoulo Mesogaias",
-      "id": "ihtTLc6TqhLm"
+      "id": "markopoulo-mesogaias",
+      "name": "Markopoulo Mesogaias"
     },
     {
-      "name": "Megalochari",
-      "id": "GXAw0aBnH-Dg"
+      "id": "megalochari",
+      "name": "Megalochari"
     },
     {
-      "name": "Megara",
-      "id": "EXgs03s6U0CY"
+      "id": "megara",
+      "name": "Megara"
     },
     {
-      "name": "Melissia",
-      "id": "MU9kfIfm2sOS"
+      "id": "melissia",
+      "name": "Melissia"
     },
     {
-      "name": "Mesagros",
-      "id": "6YgITOx3_yk-"
+      "id": "mesagros",
+      "name": "Mesagros"
     },
     {
-      "name": "Messolonghi",
-      "id": "D0FXnBzY34Fy"
+      "id": "messolonghi",
+      "name": "Messolonghi"
     },
     {
-      "name": "Metaxades",
-      "id": "LMFcoYl702ZK"
+      "id": "metaxades",
+      "name": "Metaxades"
     },
     {
-      "name": "Moires",
-      "id": "k8j1_gzk1WVA"
+      "id": "moires",
+      "name": "Moires"
     },
     {
-      "name": "Mytilene",
-      "id": "JQlX-SHetAwd"
+      "id": "mytilene",
+      "name": "Mytilene"
     },
     {
-      "name": "Nafpaktos",
-      "id": "XYPK81MYmwqx"
+      "id": "nafpaktos",
+      "name": "Nafpaktos"
     },
     {
-      "name": "Nafplion",
-      "id": "bkaqNlDeNN-a"
+      "id": "nafplion",
+      "name": "Nafplion"
     },
     {
-      "name": "Naousa",
-      "id": "yXBfDMO5HYn5"
+      "id": "naousa",
+      "name": "Naousa"
     },
     {
-      "name": "Naxos",
-      "id": "qpiWJzenIKrN"
+      "id": "naxos",
+      "name": "Naxos"
     },
     {
-      "name": "Nea Alikarnassos",
-      "id": "4rZ8Xc-QJxWw"
+      "id": "nea-alikarnassos",
+      "name": "Nea Alikarnassos"
     },
     {
-      "name": "Nea Filadelfeia",
-      "id": "gOLCon-1Ka2h"
+      "id": "nea-filadelfeia",
+      "name": "Nea Filadelfeia"
     },
     {
-      "name": "Nea Ionia",
-      "id": "oOZfA7dWbXbs"
+      "id": "nea-ionia",
+      "name": "Nea Ionia"
     },
     {
-      "name": "Nea Kios",
-      "id": "fOSP6UloTePI"
+      "id": "nea-kios",
+      "name": "Nea Kios"
     },
     {
-      "name": "Nea Makri",
-      "id": "yUBnNMoiAjFU"
+      "id": "nea-makri",
+      "name": "Nea Makri"
     },
     {
-      "name": "Nea Peramos",
-      "id": "z7RAtgFu8eT-"
+      "id": "nea-peramos",
+      "name": "Nea Peramos"
     },
     {
-      "name": "Nea Smyrni",
-      "id": "pr1XN79LQf98"
+      "id": "nea-smyrni",
+      "name": "Nea Smyrni"
     },
     {
-      "name": "Nikaia",
-      "id": "p8ZGq8-htegv"
+      "id": "nikaia",
+      "name": "Nikaia"
     },
     {
-      "name": "Orestiada",
-      "id": "ORSzC678UJFb"
+      "id": "orestiada",
+      "name": "Orestiada"
     },
     {
-      "name": "Ormylia",
-      "id": "gHghH29YUOs8"
+      "id": "ormylia",
+      "name": "Ormylia"
     },
     {
-      "name": "Oropos",
-      "id": "nJY2pgNDZT5g"
+      "id": "oropos",
+      "name": "Oropos"
     },
     {
-      "name": "Paiania",
-      "id": "rp-_-AFtQLVP"
+      "id": "paiania",
+      "name": "Paiania"
     },
     {
-      "name": "Pallini",
-      "id": "AkmuVJhibE2E"
+      "id": "pallini",
+      "name": "Pallini"
     },
     {
-      "name": "Paloukia",
-      "id": "9HnOAQP-xgOc"
+      "id": "paloukia",
+      "name": "Paloukia"
     },
     {
-      "name": "Panorama",
-      "id": "-Jpe_YaguGD6"
+      "id": "panorama",
+      "name": "Panorama"
     },
     {
-      "name": "Parga",
-      "id": "feWct-SXFAi0"
+      "id": "parga",
+      "name": "Parga"
     },
     {
-      "name": "Patmos",
-      "id": "iiwBwZaS5O_M"
+      "id": "patmos",
+      "name": "Patmos"
     },
     {
-      "name": "Pefki",
-      "id": "aWr1zqY47Ure"
+      "id": "pefki",
+      "name": "Pefki"
     },
     {
-      "name": "Pella",
-      "id": "p7YNzA3FQjKQ"
+      "id": "pella",
+      "name": "Pella"
     },
     {
-      "name": "Perama",
-      "id": "pTMIgzqTiVJ2"
+      "id": "perama",
+      "name": "Perama"
     },
     {
-      "name": "Peristeri",
-      "id": "AiNwTdJKoItq"
+      "id": "peristeri",
+      "name": "Peristeri"
     },
     {
-      "name": "Pikermi",
-      "id": "7nrZyajJVdxM"
+      "id": "pikermi",
+      "name": "Pikermi"
     },
     {
-      "name": "Piraeus",
-      "id": "Q2crdkxcbFuF"
+      "id": "piraeus",
+      "name": "Piraeus"
     },
     {
-      "name": "Platy",
-      "id": "BEtMGSA3mrsH"
+      "id": "platy",
+      "name": "Platy"
     },
     {
-      "name": "Polichni",
-      "id": "__umfvt1qygr"
+      "id": "polichni",
+      "name": "Polichni"
     },
     {
-      "name": "Porto Rafti",
-      "id": "ykdsTsz1fYgJ"
+      "id": "porto-rafti",
+      "name": "Porto Rafti"
     },
     {
-      "name": "Preveza",
-      "id": "a54c6IWXwyz1"
+      "id": "preveza",
+      "name": "Preveza"
     },
     {
-      "name": "Psychiko",
-      "id": "4VyeQszhoY3e"
+      "id": "psychiko",
+      "name": "Psychiko"
     },
     {
-      "name": "Ptolemaida",
-      "id": "GC6eWl4AToJY"
+      "id": "ptolemaida",
+      "name": "Ptolemaida"
     },
     {
-      "name": "Pylaia",
-      "id": "xyu1xjhhPrDF"
+      "id": "pylaia",
+      "name": "Pylaia"
     },
     {
-      "name": "Pyrgos",
-      "id": "mbpFe_npJ8sX"
+      "id": "pyrgos",
+      "name": "Pyrgos"
     },
     {
-      "name": "Rafina",
-      "id": "BMWG3tiDBVF8"
+      "id": "rafina",
+      "name": "Rafina"
     },
     {
-      "name": "Rethymno",
-      "id": "7lUOH2eQYEi2"
+      "id": "rethymno",
+      "name": "Rethymno"
     },
     {
-      "name": "Rhodes",
-      "id": "PsnqlzBqZCx_"
+      "id": "rhodes",
+      "name": "Rhodes"
     },
     {
-      "name": "Rio",
-      "id": "Pwc098h-UK1r"
+      "id": "rio",
+      "name": "Rio"
     },
     {
-      "name": "Salamina",
-      "id": "nQCsFeDdjh1y"
+      "id": "salamina",
+      "name": "Salamina"
     },
     {
-      "name": "Samothraki",
-      "id": "2880gotlecK7"
+      "id": "samothraki",
+      "name": "Samothraki"
     },
     {
-      "name": "Serres",
-      "id": "UHnmXFNMFfZi"
+      "id": "serres",
+      "name": "Serres"
     },
     {
-      "name": "Servia",
-      "id": "KQpQVeh-brQL"
+      "id": "servia",
+      "name": "Servia"
     },
     {
-      "name": "Sindos",
-      "id": "GFCdK8owiK2C"
+      "id": "sindos",
+      "name": "Sindos"
     },
     {
-      "name": "Skala",
-      "id": "-Emrsfz19psy"
+      "id": "skala",
+      "name": "Skala"
     },
     {
-      "name": "Skala Oropou",
-      "id": "Y6SSnqVU2Fhd"
+      "id": "skala-oropou",
+      "name": "Skala Oropou"
     },
     {
-      "name": "Skiathos",
-      "id": "KuY_1q_HE20W"
+      "id": "skiathos",
+      "name": "Skiathos"
     },
     {
-      "name": "Sparta",
-      "id": "wBtAAZvaLVDj"
+      "id": "sparta",
+      "name": "Sparta"
     },
     {
-      "name": "Spata",
-      "id": "pSBL3CziTP14"
+      "id": "spata",
+      "name": "Spata"
     },
     {
-      "name": "Symi",
-      "id": "g9LDzKrsThHp"
+      "id": "symi",
+      "name": "Symi"
     },
     {
-      "name": "Tavros",
-      "id": "lSCxB-XUWRmr"
+      "id": "tavros",
+      "name": "Tavros"
     },
     {
-      "name": "Thebes",
-      "id": "yU3Chlr8TDO6"
+      "id": "thebes",
+      "name": "Thebes"
     },
     {
-      "name": "Thermi",
-      "id": "PkoBF7USo6R8"
+      "id": "thermi",
+      "name": "Thermi"
     },
     {
-      "name": "Thessaloniki",
-      "id": "6U40bixBNuiF"
+      "id": "thessaloniki",
+      "name": "Thessaloniki"
     },
     {
-      "name": "Tinos",
-      "id": "DFWq7S7kogAw"
+      "id": "tinos",
+      "name": "Tinos"
     },
     {
-      "name": "Trikala",
-      "id": "BBEqwrL9TzMz"
+      "id": "trikala",
+      "name": "Trikala"
     },
     {
-      "name": "Tripoli",
-      "id": "T-sGCDBFrbEX"
+      "id": "tripoli",
+      "name": "Tripoli"
     },
     {
-      "name": "Vari",
-      "id": "mphgMhMJygwF"
+      "id": "vari",
+      "name": "Vari"
     },
     {
-      "name": "Varkiza",
-      "id": "ayC2x-pZEDZ4"
+      "id": "varkiza",
+      "name": "Varkiza"
     },
     {
-      "name": "Vergina",
-      "id": "_mqmjYbYNhHj"
+      "id": "vergina",
+      "name": "Vergina"
     },
     {
-      "name": "Veroia",
-      "id": "la2lIAZcGuDw"
+      "id": "veroia",
+      "name": "Veroia"
     },
     {
-      "name": "Volos",
-      "id": "wqbe7bHe_bgX"
+      "id": "volos",
+      "name": "Volos"
     },
     {
-      "name": "Voula",
-      "id": "dqOegSpdf3BJ"
+      "id": "voula",
+      "name": "Voula"
     },
     {
-      "name": "Vouliagmeni",
-      "id": "GQkuSoZwnXW1"
+      "id": "vouliagmeni",
+      "name": "Vouliagmeni"
     },
     {
-      "name": "Xanthi",
-      "id": "A5o68B2LSKHv"
+      "id": "xanthi",
+      "name": "Xanthi"
     },
     {
-      "name": "Xylokastro",
-      "id": "9EjKxucQptpO"
+      "id": "xylokastro",
+      "name": "Xylokastro"
     },
     {
-      "name": "Zakynthos",
-      "id": "JwSfuqMpn-CL"
+      "id": "zakynthos",
+      "name": "Zakynthos"
     }
   ]
 }

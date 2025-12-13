@@ -2,4044 +2,4044 @@
   "coid": "IN",
   "cities": [
     {
-      "name": "Abdul",
-      "id": "Bgr3mx4iESEe"
+      "id": "abdul",
+      "name": "Abdul"
     },
     {
-      "name": "Adilabad",
-      "id": "WKTIaI-IfivV"
+      "id": "adilabad",
+      "name": "Adilabad"
     },
     {
-      "name": "Adwani",
-      "id": "qT9WfbZJIbHk"
+      "id": "adwani",
+      "name": "Adwani"
     },
     {
-      "name": "Agartala",
-      "id": "IXY5MC65SVFc"
+      "id": "agartala",
+      "name": "Agartala"
     },
     {
-      "name": "Agra",
-      "id": "hPpnTyXkSVl2"
+      "id": "agra",
+      "name": "Agra"
     },
     {
-      "name": "Ahmedabad",
-      "id": "6nNpKraO9y5k"
+      "id": "ahmedabad",
+      "name": "Ahmedabad"
     },
     {
-      "name": "Ahmednagar",
-      "id": "DezwRaRU3wfl"
+      "id": "ahmednagar",
+      "name": "Ahmednagar"
     },
     {
-      "name": "Aizawl",
-      "id": "x7eV9WmIZoAH"
+      "id": "aizawl",
+      "name": "Aizawl"
     },
     {
-      "name": "Ajabpur",
-      "id": "WB8SkC8RTdxX"
+      "id": "ajabpur",
+      "name": "Ajabpur"
     },
     {
-      "name": "Ajmer",
-      "id": "IRt8Ja5U9KCW"
+      "id": "ajmer",
+      "name": "Ajmer"
     },
     {
-      "name": "Akividu",
-      "id": "VOUMrCAJO1F-"
+      "id": "akividu",
+      "name": "Akividu"
     },
     {
-      "name": "Akola",
-      "id": "-xV8AhwSJjCN"
+      "id": "akola",
+      "name": "Akola"
     },
     {
-      "name": "Alanallur",
-      "id": "mLhEk7nif8Dh"
+      "id": "alanallur",
+      "name": "Alanallur"
     },
     {
-      "name": "Alangulam",
-      "id": "_7Iz4N_PNnpa"
+      "id": "alangulam",
+      "name": "Alangulam"
     },
     {
-      "name": "Alappuzha",
-      "id": "FPPhTPIZWGoF"
+      "id": "alappuzha",
+      "name": "Alappuzha"
     },
     {
-      "name": "Aldona",
-      "id": "3JDWOtZ8dHyK"
+      "id": "aldona",
+      "name": "Aldona"
     },
     {
-      "name": "Alibag",
-      "id": "KSIHhkaHVPI9"
+      "id": "alibag",
+      "name": "Alibag"
     },
     {
-      "name": "Aligarh",
-      "id": "OCIrZ-DRHQBK"
+      "id": "aligarh",
+      "name": "Aligarh"
     },
     {
-      "name": "Alipur",
-      "id": "V5YSXMhrp7ko"
+      "id": "alipur",
+      "name": "Alipur"
     },
     {
-      "name": "Allahabad",
-      "id": "7Be0WcQXaZ4v"
+      "id": "allahabad",
+      "name": "Allahabad"
     },
     {
-      "name": "Almora",
-      "id": "6QrLZn8VmB3o"
+      "id": "almora",
+      "name": "Almora"
     },
     {
-      "name": "Aluva",
-      "id": "ne5PwGrYxgg4"
+      "id": "aluva",
+      "name": "Aluva"
     },
     {
-      "name": "Alwar",
-      "id": "qoDYvyp-rNfr"
+      "id": "alwar",
+      "name": "Alwar"
     },
     {
-      "name": "Amal",
-      "id": "SyK_Nf-MvG3s"
+      "id": "amal",
+      "name": "Amal"
     },
     {
-      "name": "Amalapuram",
-      "id": "0r8_J3hliuN9"
+      "id": "amalapuram",
+      "name": "Amalapuram"
     },
     {
-      "name": "Ambad",
-      "id": "d68ENnOG1VcJ"
+      "id": "ambad",
+      "name": "Ambad"
     },
     {
-      "name": "Ambah",
-      "id": "925DskeSC3vZ"
+      "id": "ambah",
+      "name": "Ambah"
     },
     {
-      "name": "Ambala",
-      "id": "sIR5JfiLWzYL"
+      "id": "ambala",
+      "name": "Ambala"
     },
     {
-      "name": "Ambarnath",
-      "id": "bToRpjJjpT4q"
+      "id": "ambarnath",
+      "name": "Ambarnath"
     },
     {
-      "name": "Ambejogai",
-      "id": "SeKqdDChTHix"
+      "id": "ambejogai",
+      "name": "Ambejogai"
     },
     {
-      "name": "Ambikapur",
-      "id": "RKRoVH0QJeY9"
+      "id": "ambikapur",
+      "name": "Ambikapur"
     },
     {
-      "name": "Ambur",
-      "id": "Rnz70ugyj0Fe"
+      "id": "ambur",
+      "name": "Ambur"
     },
     {
-      "name": "Amer",
-      "id": "CHK3O0G794tw"
+      "id": "amer",
+      "name": "Amer"
     },
     {
-      "name": "Amet",
-      "id": "KxbvBbmztlnQ"
+      "id": "amet",
+      "name": "Amet"
     },
     {
-      "name": "Amravati",
-      "id": "Yc7CEWGJm9D1"
+      "id": "amravati",
+      "name": "Amravati"
     },
     {
-      "name": "Amreli",
-      "id": "SJjL4hiCUPfN"
+      "id": "amreli",
+      "name": "Amreli"
     },
     {
-      "name": "Amritsar",
-      "id": "yNgQCx7WN82e"
+      "id": "amritsar",
+      "name": "Amritsar"
     },
     {
-      "name": "Anand",
-      "id": "synKubBvCDFy"
+      "id": "anand",
+      "name": "Anand"
     },
     {
-      "name": "Anantapur",
-      "id": "Ncmy3Db6l39X"
+      "id": "anantapur",
+      "name": "Anantapur"
     },
     {
-      "name": "Anantnag",
-      "id": "cFw9XYeu9ygD"
+      "id": "anantnag",
+      "name": "Anantnag"
     },
     {
-      "name": "Anantpur",
-      "id": "325QGc6G6oGa"
+      "id": "anantpur",
+      "name": "Anantpur"
     },
     {
-      "name": "Anchal",
-      "id": "_7cF3ujl87fB"
+      "id": "anchal",
+      "name": "Anchal"
     },
     {
-      "name": "Andheri",
-      "id": "usw5nneEJ90Y"
+      "id": "andheri",
+      "name": "Andheri"
     },
     {
-      "name": "Andra",
-      "id": "I6WyuKsZHmC7"
+      "id": "andra",
+      "name": "Andra"
     },
     {
-      "name": "Angadipuram",
-      "id": "FSgJixSKjrhK"
+      "id": "angadipuram",
+      "name": "Angadipuram"
     },
     {
-      "name": "Angul",
-      "id": "38lA9cjNl0hV"
+      "id": "angul",
+      "name": "Angul"
     },
     {
-      "name": "Ankleshwar",
-      "id": "cnit8UaDdlg1"
+      "id": "ankleshwar",
+      "name": "Ankleshwar"
     },
     {
-      "name": "Annamalainagar",
-      "id": "xXUA9rRGiRys"
+      "id": "annamalainagar",
+      "name": "Annamalainagar"
     },
     {
-      "name": "Antapur",
-      "id": "USx_q6kw1e3p"
+      "id": "antapur",
+      "name": "Antapur"
     },
     {
-      "name": "Arakkonam",
-      "id": "V_rXeJfcT47L"
+      "id": "arakkonam",
+      "name": "Arakkonam"
     },
     {
-      "name": "Arani",
-      "id": "QXnqve0I50v7"
+      "id": "arani",
+      "name": "Arani"
     },
     {
-      "name": "Aranmula",
-      "id": "Sh7RVADzodIk"
+      "id": "aranmula",
+      "name": "Aranmula"
     },
     {
-      "name": "Arch",
-      "id": "EN8J_bIuPnJc"
+      "id": "arch",
+      "name": "Arch"
     },
     {
-      "name": "Ariyalur",
-      "id": "jec6OLfIO-Da"
+      "id": "ariyalur",
+      "name": "Ariyalur"
     },
     {
-      "name": "Arora",
-      "id": "RCoIdfgAOVsY"
+      "id": "arora",
+      "name": "Arora"
     },
     {
-      "name": "Arpora",
-      "id": "LQnnzIE4_Q-e"
+      "id": "arpora",
+      "name": "Arpora"
     },
     {
-      "name": "Arunachal",
-      "id": "I47KcAO3Ddpt"
+      "id": "arunachal",
+      "name": "Arunachal"
     },
     {
-      "name": "Arvi",
-      "id": "IAuZr1lctfkl"
+      "id": "arvi",
+      "name": "Arvi"
     },
     {
-      "name": "Asansol",
-      "id": "rXyloJ9DPkvy"
+      "id": "asansol",
+      "name": "Asansol"
     },
     {
-      "name": "Assagao",
-      "id": "2sR7gGwF6ejd"
+      "id": "assagao",
+      "name": "Assagao"
     },
     {
-      "name": "Attingal",
-      "id": "xVlmrxUKO9SM"
+      "id": "attingal",
+      "name": "Attingal"
     },
     {
-      "name": "Attur",
-      "id": "0sTkLjCukC0M"
+      "id": "attur",
+      "name": "Attur"
     },
     {
-      "name": "Aundh",
-      "id": "093hGx7GDY7e"
+      "id": "aundh",
+      "name": "Aundh"
     },
     {
-      "name": "Aurangabad",
-      "id": "g_Ohff02e_1I"
+      "id": "aurangabad",
+      "name": "Aurangabad"
     },
     {
-      "name": "Avanigadda",
-      "id": "mY0SERmj8x2y"
+      "id": "avanigadda",
+      "name": "Avanigadda"
     },
     {
-      "name": "Azamgarh",
-      "id": "0CGg5LhZdKqN"
+      "id": "azamgarh",
+      "name": "Azamgarh"
     },
     {
-      "name": "Baddi",
-      "id": "Azg3qdHC8At1"
+      "id": "baddi",
+      "name": "Baddi"
     },
     {
-      "name": "Badlapur",
-      "id": "8d4NYHIx9zn0"
+      "id": "badlapur",
+      "name": "Badlapur"
     },
     {
-      "name": "Bagalkot",
-      "id": "6JCsJlHZbigf"
+      "id": "bagalkot",
+      "name": "Bagalkot"
     },
     {
-      "name": "Bagh",
-      "id": "BTBIbtadSs9z"
+      "id": "bagh",
+      "name": "Bagh"
     },
     {
-      "name": "Bagpat",
-      "id": "h6dAHxRXsSmw"
+      "id": "bagpat",
+      "name": "Bagpat"
     },
     {
-      "name": "Bahadurgarh",
-      "id": "DBxlkEVJtcnz"
+      "id": "bahadurgarh",
+      "name": "Bahadurgarh"
     },
     {
-      "name": "Baharampur",
-      "id": "dD51PLvQnFtR"
+      "id": "baharampur",
+      "name": "Baharampur"
     },
     {
-      "name": "Baidyabati",
-      "id": "t_pnXsCmxksZ"
+      "id": "baidyabati",
+      "name": "Baidyabati"
     },
     {
-      "name": "Bala",
-      "id": "Yg_a2yRh0nMe"
+      "id": "bala",
+      "name": "Bala"
     },
     {
-      "name": "Balaghat",
-      "id": "imW2X7vInD0j"
+      "id": "balaghat",
+      "name": "Balaghat"
     },
     {
-      "name": "Balana",
-      "id": "7z77inxYkL6e"
+      "id": "balana",
+      "name": "Balana"
     },
     {
-      "name": "Balanagar",
-      "id": "18OXtxygCHWS"
+      "id": "balanagar",
+      "name": "Balanagar"
     },
     {
-      "name": "Balangir",
-      "id": "NZ0pEFCKWJyO"
+      "id": "balangir",
+      "name": "Balangir"
     },
     {
-      "name": "Balasore",
-      "id": "AsCXknW-uXcT"
+      "id": "balasore",
+      "name": "Balasore"
     },
     {
-      "name": "Bali",
-      "id": "c0aYa9xH1__j"
+      "id": "bali",
+      "name": "Bali"
     },
     {
-      "name": "Ballabgarh",
-      "id": "eb7ymLVTJeAI"
+      "id": "ballabgarh",
+      "name": "Ballabgarh"
     },
     {
-      "name": "Balu",
-      "id": "1MJmdRDKvqcw"
+      "id": "balu",
+      "name": "Balu"
     },
     {
-      "name": "Balurghat",
-      "id": "_HaaWd4yoRUZ"
+      "id": "balurghat",
+      "name": "Balurghat"
     },
     {
-      "name": "Bambolim",
-      "id": "UJVJa74gnXHG"
+      "id": "bambolim",
+      "name": "Bambolim"
     },
     {
-      "name": "Banda",
-      "id": "CVe6F67HTsYf"
+      "id": "banda",
+      "name": "Banda"
     },
     {
-      "name": "Bandra",
-      "id": "BmSwuXVY1viL"
+      "id": "bandra",
+      "name": "Bandra"
     },
     {
-      "name": "Banga",
-      "id": "YNjyYzlJJXxu"
+      "id": "banga",
+      "name": "Banga"
     },
     {
-      "name": "Bangalore",
-      "id": "I2n3z0sALCKM"
+      "id": "bangalore",
+      "name": "Bangalore"
     },
     {
-      "name": "Bangaon",
-      "id": "FlW560pX-bl7"
+      "id": "bangaon",
+      "name": "Bangaon"
     },
     {
-      "name": "Bank",
-      "id": "GbgX00CEQ7rV"
+      "id": "bank",
+      "name": "Bank"
     },
     {
-      "name": "Banka",
-      "id": "98JJxn2fb5YR"
+      "id": "banka",
+      "name": "Banka"
     },
     {
-      "name": "Bankura",
-      "id": "P3Dp8nPfkCpr"
+      "id": "bankura",
+      "name": "Bankura"
     },
     {
-      "name": "Banswara",
-      "id": "aqRhdttqZ8oF"
+      "id": "banswara",
+      "name": "Banswara"
     },
     {
-      "name": "Bapatla",
-      "id": "5NBRjwUd4aGI"
+      "id": "bapatla",
+      "name": "Bapatla"
     },
     {
-      "name": "Barakpur",
-      "id": "Bn8u8dKzOyF5"
+      "id": "barakpur",
+      "name": "Barakpur"
     },
     {
-      "name": "Baramati",
-      "id": "7yTiI68bAueN"
+      "id": "baramati",
+      "name": "Baramati"
     },
     {
-      "name": "Barddhaman",
-      "id": "P4eCThKvh7_7"
+      "id": "barddhaman",
+      "name": "Barddhaman"
     },
     {
-      "name": "Bardoli",
-      "id": "EnuxBcWEggeD"
+      "id": "bardoli",
+      "name": "Bardoli"
     },
     {
-      "name": "Bareilly",
-      "id": "tTapbZ8WK2nA"
+      "id": "bareilly",
+      "name": "Bareilly"
     },
     {
-      "name": "Bargarh",
-      "id": "UBIaSyVERS8a"
+      "id": "bargarh",
+      "name": "Bargarh"
     },
     {
-      "name": "Barmer",
-      "id": "hfIqoJyaDUg2"
+      "id": "barmer",
+      "name": "Barmer"
     },
     {
-      "name": "Barnala",
-      "id": "SD-YXVu84JaP"
+      "id": "barnala",
+      "name": "Barnala"
     },
     {
-      "name": "Baroda",
-      "id": "CmUK5laqgBjN"
+      "id": "baroda",
+      "name": "Baroda"
     },
     {
-      "name": "Barpali",
-      "id": "i1gx-EWc441z"
+      "id": "barpali",
+      "name": "Barpali"
     },
     {
-      "name": "Barpeta",
-      "id": "VdRxa2s-U-Ra"
+      "id": "barpeta",
+      "name": "Barpeta"
     },
     {
-      "name": "Basirhat",
-      "id": "PzT78Ont2RNI"
+      "id": "basirhat",
+      "name": "Basirhat"
     },
     {
-      "name": "Basti",
-      "id": "fnzE1uNGOB5B"
+      "id": "basti",
+      "name": "Basti"
     },
     {
-      "name": "Basu",
-      "id": "cxf_xWIiAUo1"
+      "id": "basu",
+      "name": "Basu"
     },
     {
-      "name": "Batala",
-      "id": "TwsBcCvr9Eq7"
+      "id": "batala",
+      "name": "Batala"
     },
     {
-      "name": "Bawan",
-      "id": "meJ_6aAzKG-h"
+      "id": "bawan",
+      "name": "Bawan"
     },
     {
-      "name": "Bawana",
-      "id": "nTjZ8IfxHl1F"
+      "id": "bawana",
+      "name": "Bawana"
     },
     {
-      "name": "Beawar",
-      "id": "_MDgr3zOT-a_"
+      "id": "beawar",
+      "name": "Beawar"
     },
     {
-      "name": "Begusarai",
-      "id": "KWSuf1ZepHT7"
+      "id": "begusarai",
+      "name": "Begusarai"
     },
     {
-      "name": "Behala",
-      "id": "IJdSHARgWrdz"
+      "id": "behala",
+      "name": "Behala"
     },
     {
-      "name": "Bela",
-      "id": "lBF17A2lpDno"
+      "id": "bela",
+      "name": "Bela"
     },
     {
-      "name": "Belapur",
-      "id": "d2_Dy_oI9QsP"
+      "id": "belapur",
+      "name": "Belapur"
     },
     {
-      "name": "Belgaum",
-      "id": "WOGrBtF4UIWi"
+      "id": "belgaum",
+      "name": "Belgaum"
     },
     {
-      "name": "Belgharia",
-      "id": "HiXxp3AL7Uhp"
+      "id": "belgharia",
+      "name": "Belgharia"
     },
     {
-      "name": "Bellare",
-      "id": "KQ-D8wB8DK3T"
+      "id": "bellare",
+      "name": "Bellare"
     },
     {
-      "name": "Bellary",
-      "id": "6VBPhV8_XXSK"
+      "id": "bellary",
+      "name": "Bellary"
     },
     {
-      "name": "Bemetara",
-      "id": "dp-cBEiWpQvi"
+      "id": "bemetara",
+      "name": "Bemetara"
     },
     {
-      "name": "Berasia",
-      "id": "DQYqqvA4HChr"
+      "id": "berasia",
+      "name": "Berasia"
     },
     {
-      "name": "Betalbatim",
-      "id": "LcvPgUG-1d1z"
+      "id": "betalbatim",
+      "name": "Betalbatim"
     },
     {
-      "name": "Betim",
-      "id": "igfgKYRnmo2O"
+      "id": "betim",
+      "name": "Betim"
     },
     {
-      "name": "Betul",
-      "id": "9XXCVdSdBR56"
+      "id": "betul",
+      "name": "Betul"
     },
     {
-      "name": "Bhadath",
-      "id": "XXMFNp3dJUOJ"
+      "id": "bhadath",
+      "name": "Bhadath"
     },
     {
-      "name": "Bhadohi",
-      "id": "lVkwsqlzJ4XY"
+      "id": "bhadohi",
+      "name": "Bhadohi"
     },
     {
-      "name": "Bhadravati",
-      "id": "bcmYdfLhEpfQ"
+      "id": "bhadravati",
+      "name": "Bhadravati"
     },
     {
-      "name": "Bhagalpur",
-      "id": "wLGIWTufuJ5l"
+      "id": "bhagalpur",
+      "name": "Bhagalpur"
     },
     {
-      "name": "Bhagwan",
-      "id": "i49ut-yX5OAI"
+      "id": "bhagwan",
+      "name": "Bhagwan"
     },
     {
-      "name": "Bhandari",
-      "id": "Iy-zbC58EMt8"
+      "id": "bhandari",
+      "name": "Bhandari"
     },
     {
-      "name": "Bhandup",
-      "id": "hvMPUTXlWVs5"
+      "id": "bhandup",
+      "name": "Bhandup"
     },
     {
-      "name": "Bharatpur",
-      "id": "OCqbKt0-kT9k"
+      "id": "bharatpur",
+      "name": "Bharatpur"
     },
     {
-      "name": "Bharuch",
-      "id": "jy_nOYeRo0FJ"
+      "id": "bharuch",
+      "name": "Bharuch"
     },
     {
-      "name": "Bhatapara",
-      "id": "QDYqD4F_xAPX"
+      "id": "bhatapara",
+      "name": "Bhatapara"
     },
     {
-      "name": "Bhatinda",
-      "id": "Jjqui7-DSJIe"
+      "id": "bhatinda",
+      "name": "Bhatinda"
     },
     {
-      "name": "Bhatkal",
-      "id": "kyzifZBpxFUU"
+      "id": "bhatkal",
+      "name": "Bhatkal"
     },
     {
-      "name": "Bhavnagar",
-      "id": "gsR5UsxOALGg"
+      "id": "bhavnagar",
+      "name": "Bhavnagar"
     },
     {
-      "name": "Bhawan",
-      "id": "T8eV05xG2E1d"
+      "id": "bhawan",
+      "name": "Bhawan"
     },
     {
-      "name": "Bhilai",
-      "id": "rw4dQeCc9FXD"
+      "id": "bhilai",
+      "name": "Bhilai"
     },
     {
-      "name": "Bhilwara",
-      "id": "D10fxlzRHJK8"
+      "id": "bhilwara",
+      "name": "Bhilwara"
     },
     {
-      "name": "Bhimavaram",
-      "id": "7C2-WscZplwQ"
+      "id": "bhimavaram",
+      "name": "Bhimavaram"
     },
     {
-      "name": "Bhiwandi",
-      "id": "CoKmg5GAe9Fo"
+      "id": "bhiwandi",
+      "name": "Bhiwandi"
     },
     {
-      "name": "Bhiwani",
-      "id": "M34qWY4cytwt"
+      "id": "bhiwani",
+      "name": "Bhiwani"
     },
     {
-      "name": "Bhoj",
-      "id": "0-MX7OAt63iS"
+      "id": "bhoj",
+      "name": "Bhoj"
     },
     {
-      "name": "Bhongir",
-      "id": "kobLd_od7GuX"
+      "id": "bhongir",
+      "name": "Bhongir"
     },
     {
-      "name": "Bhopal",
-      "id": "O-ukLcnjxfG-"
+      "id": "bhopal",
+      "name": "Bhopal"
     },
     {
-      "name": "Bhubaneswar",
-      "id": "yA_d-usK9VJr"
+      "id": "bhubaneswar",
+      "name": "Bhubaneswar"
     },
     {
-      "name": "Bhuj",
-      "id": "FcVVV2YhLmsU"
+      "id": "bhuj",
+      "name": "Bhuj"
     },
     {
-      "name": "Bhusawal",
-      "id": "V2P_d7quo0zE"
+      "id": "bhusawal",
+      "name": "Bhusawal"
     },
     {
-      "name": "Bichpuri",
-      "id": "mfUdKCgZzMDY"
+      "id": "bichpuri",
+      "name": "Bichpuri"
     },
     {
-      "name": "Bidar",
-      "id": "BWmam6JzjGTf"
+      "id": "bidar",
+      "name": "Bidar"
     },
     {
-      "name": "Bihar Sharif",
-      "id": "gjpDBYhPIkAR"
+      "id": "bihar-sharif",
+      "name": "Bihar Sharif"
     },
     {
-      "name": "Bijapur",
-      "id": "Ri9RagPaDxy2"
+      "id": "bijapur",
+      "name": "Bijapur"
     },
     {
-      "name": "Bikaner",
-      "id": "yTFl9m3a4gAJ"
+      "id": "bikaner",
+      "name": "Bikaner"
     },
     {
-      "name": "Bilaspur",
-      "id": "KtkfszuQFe6a"
+      "id": "bilaspur",
+      "name": "Bilaspur"
     },
     {
-      "name": "Bilimora",
-      "id": "UyzeX57INtTU"
+      "id": "bilimora",
+      "name": "Bilimora"
     },
     {
-      "name": "Binavas",
-      "id": "FHQvOjZCSI_Z"
+      "id": "binavas",
+      "name": "Binavas"
     },
     {
-      "name": "Binnaguri",
-      "id": "pOrSmRbZaMxr"
+      "id": "binnaguri",
+      "name": "Binnaguri"
     },
     {
-      "name": "Bishnupur",
-      "id": "wIT1zQxHpigr"
+      "id": "bishnupur",
+      "name": "Bishnupur"
     },
     {
-      "name": "Bobbili",
-      "id": "lJwPxlLEFaXy"
+      "id": "bobbili",
+      "name": "Bobbili"
     },
     {
-      "name": "Bodhan",
-      "id": "nrNpqRm_UCvk"
+      "id": "bodhan",
+      "name": "Bodhan"
     },
     {
-      "name": "Bodinayakkanur",
-      "id": "frKdoVioRpDQ"
+      "id": "bodinayakkanur",
+      "name": "Bodinayakkanur"
     },
     {
-      "name": "Boisar",
-      "id": "9BnmD4pDQpQ3"
+      "id": "boisar",
+      "name": "Boisar"
     },
     {
-      "name": "Bokaro",
-      "id": "bvXr7pir6XYn"
+      "id": "bokaro",
+      "name": "Bokaro"
     },
     {
-      "name": "Bolpur",
-      "id": "afKCaA_MO_gl"
+      "id": "bolpur",
+      "name": "Bolpur"
     },
     {
-      "name": "Botad",
-      "id": "niMT8_f3t45f"
+      "id": "botad",
+      "name": "Botad"
     },
     {
-      "name": "Brahmapur",
-      "id": "JRuHWH_hz-Sw"
+      "id": "brahmapur",
+      "name": "Brahmapur"
     },
     {
-      "name": "Budaun",
-      "id": "EuqhMxvLd0OR"
+      "id": "budaun",
+      "name": "Budaun"
     },
     {
-      "name": "Budbud",
-      "id": "EArtuWPEsQZt"
+      "id": "budbud",
+      "name": "Budbud"
     },
     {
-      "name": "Budha",
-      "id": "nIuYqocU4CIQ"
+      "id": "budha",
+      "name": "Budha"
     },
     {
-      "name": "Bulandshahr",
-      "id": "Pf6EXvBme2vZ"
+      "id": "bulandshahr",
+      "name": "Bulandshahr"
     },
     {
-      "name": "Bundi",
-      "id": "2rH-OcbP62N3"
+      "id": "bundi",
+      "name": "Bundi"
     },
     {
-      "name": "Calangute",
-      "id": "TQDDEZd1dv5k"
+      "id": "calangute",
+      "name": "Calangute"
     },
     {
-      "name": "Candolim",
-      "id": "aWl67w7ln8HF"
+      "id": "candolim",
+      "name": "Candolim"
     },
     {
-      "name": "Canning",
-      "id": "pIsLKoB9OAW1"
+      "id": "canning",
+      "name": "Canning"
     },
     {
-      "name": "Caranzalem",
-      "id": "r7NqFvtDv3t4"
+      "id": "caranzalem",
+      "name": "Caranzalem"
     },
     {
-      "name": "Chakan",
-      "id": "r2wuSEeg7PDY"
+      "id": "chakan",
+      "name": "Chakan"
     },
     {
-      "name": "Chakra",
-      "id": "cUQ5dWCsfLzv"
+      "id": "chakra",
+      "name": "Chakra"
     },
     {
-      "name": "Chalisgaon",
-      "id": "ykPSp6o5B62x"
+      "id": "chalisgaon",
+      "name": "Chalisgaon"
     },
     {
-      "name": "Chamba",
-      "id": "f33bZt02dwe2"
+      "id": "chamba",
+      "name": "Chamba"
     },
     {
-      "name": "Champa",
-      "id": "ze37GxYTgn7S"
+      "id": "champa",
+      "name": "Champa"
     },
     {
-      "name": "Chand",
-      "id": "ztVT_lkEbkp2"
+      "id": "chand",
+      "name": "Chand"
     },
     {
-      "name": "Chandan",
-      "id": "XFRtM0tNTLNr"
+      "id": "chandan",
+      "name": "Chandan"
     },
     {
-      "name": "Chandannagar",
-      "id": "5dZcxgFhGFhA"
+      "id": "chandannagar",
+      "name": "Chandannagar"
     },
     {
-      "name": "Chandauli",
-      "id": "zU6E2sLdL-so"
+      "id": "chandauli",
+      "name": "Chandauli"
     },
     {
-      "name": "Chandausi",
-      "id": "POcnK9M3yR4w"
+      "id": "chandausi",
+      "name": "Chandausi"
     },
     {
-      "name": "Chandigarh",
-      "id": "_GU07hmQ5ElL"
+      "id": "chandigarh",
+      "name": "Chandigarh"
     },
     {
-      "name": "Chandrapur",
-      "id": "DCoDruygZawP"
+      "id": "chandrapur",
+      "name": "Chandrapur"
     },
     {
-      "name": "Changanacheri",
-      "id": "FnaNdXED0NWK"
+      "id": "changanacheri",
+      "name": "Changanacheri"
     },
     {
-      "name": "Channapatna",
-      "id": "Qs1HfRWwvUEv"
+      "id": "channapatna",
+      "name": "Channapatna"
     },
     {
-      "name": "Charan",
-      "id": "3T1aisL5V-TM"
+      "id": "charan",
+      "name": "Charan"
     },
     {
-      "name": "Charu",
-      "id": "T4zB_KKWkZUZ"
+      "id": "charu",
+      "name": "Charu"
     },
     {
-      "name": "Chen",
-      "id": "_9TyA88k3E4f"
+      "id": "chen",
+      "name": "Chen"
     },
     {
-      "name": "Chengannur",
-      "id": "HbhYDFDu8BEC"
+      "id": "chengannur",
+      "name": "Chengannur"
     },
     {
-      "name": "Chennai",
-      "id": "P5fLmlyfo2hZ"
+      "id": "chennai",
+      "name": "Chennai"
     },
     {
-      "name": "Chetan",
-      "id": "G0Hjz2bSH_hg"
+      "id": "chetan",
+      "name": "Chetan"
     },
     {
-      "name": "Cheyyar",
-      "id": "4sdZHVhJj-yE"
+      "id": "cheyyar",
+      "name": "Cheyyar"
     },
     {
-      "name": "Chhabra",
-      "id": "YM3Jzw-yZstr"
+      "id": "chhabra",
+      "name": "Chhabra"
     },
     {
-      "name": "Chhachhrauli",
-      "id": "S5DrU5Dxg_Sk"
+      "id": "chhachhrauli",
+      "name": "Chhachhrauli"
     },
     {
-      "name": "Chhota Udepur",
-      "id": "2uY5xmaFQ-SD"
+      "id": "chhota-udepur",
+      "name": "Chhota Udepur"
     },
     {
-      "name": "Chicalim",
-      "id": "9Xqvdsntt86R"
+      "id": "chicalim",
+      "name": "Chicalim"
     },
     {
-      "name": "Chidambaram",
-      "id": "FhPZnGrotW6g"
+      "id": "chidambaram",
+      "name": "Chidambaram"
     },
     {
-      "name": "Chikodi",
-      "id": "r7KidDt68SaN"
+      "id": "chikodi",
+      "name": "Chikodi"
     },
     {
-      "name": "Chinchvad",
-      "id": "Pa6tX-J0Qdkq"
+      "id": "chinchvad",
+      "name": "Chinchvad"
     },
     {
-      "name": "Chintamani",
-      "id": "Ftj51xhfrPZj"
+      "id": "chintamani",
+      "name": "Chintamani"
     },
     {
-      "name": "Chiplun",
-      "id": "D0iu4cwvshBp"
+      "id": "chiplun",
+      "name": "Chiplun"
     },
     {
-      "name": "Chirala",
-      "id": "bCRxpUPwyRes"
+      "id": "chirala",
+      "name": "Chirala"
     },
     {
-      "name": "Chitra",
-      "id": "m7MO4hvpmzoI"
+      "id": "chitra",
+      "name": "Chitra"
     },
     {
-      "name": "Chitradurga",
-      "id": "bdo7M39dDAPG"
+      "id": "chitradurga",
+      "name": "Chitradurga"
     },
     {
-      "name": "Chittoor",
-      "id": "jDyCD5m_xGwl"
+      "id": "chittoor",
+      "name": "Chittoor"
     },
     {
-      "name": "Chittur",
-      "id": "SRsbJbUcUtnR"
+      "id": "chittur",
+      "name": "Chittur"
     },
     {
-      "name": "Choolai",
-      "id": "e84fxBqQkbc8"
+      "id": "choolai",
+      "name": "Choolai"
     },
     {
-      "name": "Chopda",
-      "id": "R8zga81uFxzh"
+      "id": "chopda",
+      "name": "Chopda"
     },
     {
-      "name": "Chopra",
-      "id": "Wf1asouVR2-j"
+      "id": "chopra",
+      "name": "Chopra"
     },
     {
-      "name": "Churachandpur",
-      "id": "wHJxl47RemE0"
+      "id": "churachandpur",
+      "name": "Churachandpur"
     },
     {
-      "name": "Coimbatore",
-      "id": "scDOUAcXXDNu"
+      "id": "coimbatore",
+      "name": "Coimbatore"
     },
     {
-      "name": "Colaba",
-      "id": "YzU6bHjbMn6R"
+      "id": "colaba",
+      "name": "Colaba"
     },
     {
-      "name": "Connaught Place",
-      "id": "-Avd_z7Ror7p"
+      "id": "connaught-place",
+      "name": "Connaught Place"
     },
     {
-      "name": "Coonoor",
-      "id": "ysGCuhIMOkgy"
+      "id": "coonoor",
+      "name": "Coonoor"
     },
     {
-      "name": "Cuddalore",
-      "id": "N7ZTfwqxlMz0"
+      "id": "cuddalore",
+      "name": "Cuddalore"
     },
     {
-      "name": "Cumbum",
-      "id": "MP0DT8WyU5Bt"
+      "id": "cumbum",
+      "name": "Cumbum"
     },
     {
-      "name": "Cuncolim",
-      "id": "x4VG6xJwHKTZ"
+      "id": "cuncolim",
+      "name": "Cuncolim"
     },
     {
-      "name": "Curchorem",
-      "id": "bWceXCNYV6g4"
+      "id": "curchorem",
+      "name": "Curchorem"
     },
     {
-      "name": "Cuttack",
-      "id": "d3i8xDnmtdxq"
+      "id": "cuttack",
+      "name": "Cuttack"
     },
     {
-      "name": "Dadri",
-      "id": "0jYvsKXRfBCX"
+      "id": "dadri",
+      "name": "Dadri"
     },
     {
-      "name": "Dahanu",
-      "id": "VD1ddMVQ7hpq"
+      "id": "dahanu",
+      "name": "Dahanu"
     },
     {
-      "name": "Dahod",
-      "id": "OfNFmXcUW2OB"
+      "id": "dahod",
+      "name": "Dahod"
     },
     {
-      "name": "Dam Dam",
-      "id": "eyYfc3BriEm-"
+      "id": "dam-dam",
+      "name": "Dam Dam"
     },
     {
-      "name": "Daman",
-      "id": "ba-IQo0aczzV"
+      "id": "daman",
+      "name": "Daman"
     },
     {
-      "name": "Damoh",
-      "id": "N2MImwx8p-px"
+      "id": "damoh",
+      "name": "Damoh"
     },
     {
-      "name": "Dang",
-      "id": "szE4MWQdhIVs"
+      "id": "dang",
+      "name": "Dang"
     },
     {
-      "name": "Dangi",
-      "id": "Y2pTVu4DNE7R"
+      "id": "dangi",
+      "name": "Dangi"
     },
     {
-      "name": "Darbhanga",
-      "id": "btFQOaK5mQOV"
+      "id": "darbhanga",
+      "name": "Darbhanga"
     },
     {
-      "name": "Darjeeling",
-      "id": "kdgAQcMNTKKc"
+      "id": "darjeeling",
+      "name": "Darjeeling"
     },
     {
-      "name": "Darsi",
-      "id": "U4JzM2nUvfKq"
+      "id": "darsi",
+      "name": "Darsi"
     },
     {
-      "name": "Dasna",
-      "id": "7Ghega9nA8Z1"
+      "id": "dasna",
+      "name": "Dasna"
     },
     {
-      "name": "Dasua",
-      "id": "IBqttPAyy5cK"
+      "id": "dasua",
+      "name": "Dasua"
     },
     {
-      "name": "Davangere",
-      "id": "Ig3VeH1ExFnK"
+      "id": "davangere",
+      "name": "Davangere"
     },
     {
-      "name": "Dehradun",
-      "id": "5rG4hviNcGtZ"
+      "id": "dehradun",
+      "name": "Dehradun"
     },
     {
-      "name": "Delhi",
-      "id": "SxXODn5dM0Or"
+      "id": "delhi",
+      "name": "Delhi"
     },
     {
-      "name": "Deolali",
-      "id": "TzL0nUKsLUR4"
+      "id": "deolali",
+      "name": "Deolali"
     },
     {
-      "name": "Deoria",
-      "id": "zroTBMzKunNy"
+      "id": "deoria",
+      "name": "Deoria"
     },
     {
-      "name": "Devgarh",
-      "id": "dvoYPsmgeMFp"
+      "id": "devgarh",
+      "name": "Devgarh"
     },
     {
-      "name": "Devipattinam",
-      "id": "6jQUMhqLD1v1"
+      "id": "devipattinam",
+      "name": "Devipattinam"
     },
     {
-      "name": "Dewas",
-      "id": "UWNdGbEm2w9T"
+      "id": "dewas",
+      "name": "Dewas"
     },
     {
-      "name": "Dhaka",
-      "id": "EpkBNNnhZvDi"
+      "id": "dhaka",
+      "name": "Dhaka"
     },
     {
-      "name": "Dhamtari",
-      "id": "Yl9K40bGs3Mo"
+      "id": "dhamtari",
+      "name": "Dhamtari"
     },
     {
-      "name": "Dhanbad",
-      "id": "uK6ByXz3Gw81"
+      "id": "dhanbad",
+      "name": "Dhanbad"
     },
     {
-      "name": "Dhansura",
-      "id": "Wnn7l1uIFyzv"
+      "id": "dhansura",
+      "name": "Dhansura"
     },
     {
-      "name": "Dhar",
-      "id": "fpIbQsoUsmO4"
+      "id": "dhar",
+      "name": "Dhar"
     },
     {
-      "name": "Dharamsala",
-      "id": "9oPMsFESzpaM"
+      "id": "dharamsala",
+      "name": "Dharamsala"
     },
     {
-      "name": "Dharapuram",
-      "id": "F5QGHgSCjKou"
+      "id": "dharapuram",
+      "name": "Dharapuram"
     },
     {
-      "name": "Dharavi",
-      "id": "pLDUUmSC5JA_"
+      "id": "dharavi",
+      "name": "Dharavi"
     },
     {
-      "name": "Dhariwal",
-      "id": "A0xQXaGO9XNG"
+      "id": "dhariwal",
+      "name": "Dhariwal"
     },
     {
-      "name": "Dharmapuri",
-      "id": "yWCknR7b8Ftw"
+      "id": "dharmapuri",
+      "name": "Dharmapuri"
     },
     {
-      "name": "Dharwad",
-      "id": "1ENerLU9tHhM"
+      "id": "dharwad",
+      "name": "Dharwad"
     },
     {
-      "name": "Dhenkanal",
-      "id": "f34kM0pwO3hy"
+      "id": "dhenkanal",
+      "name": "Dhenkanal"
     },
     {
-      "name": "Dhone",
-      "id": "2a-ObECiO8sB"
+      "id": "dhone",
+      "name": "Dhone"
     },
     {
-      "name": "Dhrol",
-      "id": "lZL3rJrjptOY"
+      "id": "dhrol",
+      "name": "Dhrol"
     },
     {
-      "name": "Dhubri",
-      "id": "wq1DSERG20yW"
+      "id": "dhubri",
+      "name": "Dhubri"
     },
     {
-      "name": "Dhule",
-      "id": "ZvC4C-0fxIq3"
+      "id": "dhule",
+      "name": "Dhule"
     },
     {
-      "name": "Dhuri",
-      "id": "D0pk10JbkCwG"
+      "id": "dhuri",
+      "name": "Dhuri"
     },
     {
-      "name": "Dibrugarh",
-      "id": "LSWBxrYTlZnF"
+      "id": "dibrugarh",
+      "name": "Dibrugarh"
     },
     {
-      "name": "Dicholi",
-      "id": "TN-EIELTTrg8"
+      "id": "dicholi",
+      "name": "Dicholi"
     },
     {
-      "name": "Dimapur",
-      "id": "wjti-NEK4ZWF"
+      "id": "dimapur",
+      "name": "Dimapur"
     },
     {
-      "name": "Dinanagar",
-      "id": "GFIOcaCIUMEE"
+      "id": "dinanagar",
+      "name": "Dinanagar"
     },
     {
-      "name": "Dindigul",
-      "id": "erwVAGO5kSmu"
+      "id": "dindigul",
+      "name": "Dindigul"
     },
     {
-      "name": "Dindori",
-      "id": "oJA141O3RuWi"
+      "id": "dindori",
+      "name": "Dindori"
     },
     {
-      "name": "Dipas",
-      "id": "ZddBcwaCl6SU"
+      "id": "dipas",
+      "name": "Dipas"
     },
     {
-      "name": "Dogadda",
-      "id": "PKGW7_hvlcjZ"
+      "id": "dogadda",
+      "name": "Dogadda"
     },
     {
-      "name": "Dona Paula",
-      "id": "M0PZbk0O5liC"
+      "id": "dona-paula",
+      "name": "Dona Paula"
     },
     {
-      "name": "Dumka",
-      "id": "eH7KG8KkhJtV"
+      "id": "dumka",
+      "name": "Dumka"
     },
     {
-      "name": "Durg",
-      "id": "_rch2HLt5XmA"
+      "id": "durg",
+      "name": "Durg"
     },
     {
-      "name": "Durgapur",
-      "id": "I0_jMZcaQxN2"
+      "id": "durgapur",
+      "name": "Durgapur"
     },
     {
-      "name": "Dwarahat",
-      "id": "Bpk0Y6ANGLA0"
+      "id": "dwarahat",
+      "name": "Dwarahat"
     },
     {
-      "name": "Dwarka",
-      "id": "rwV3Hf5AyMcL"
+      "id": "dwarka",
+      "name": "Dwarka"
     },
     {
-      "name": "Edavanna",
-      "id": "2AWqwbdCKn-4"
+      "id": "edavanna",
+      "name": "Edavanna"
     },
     {
-      "name": "Ekkattuthangal",
-      "id": "zx-qn8TsCJ4Z"
+      "id": "ekkattuthangal",
+      "name": "Ekkattuthangal"
     },
     {
-      "name": "Ellora Caves",
-      "id": "kVP9Ch6tjQBq"
+      "id": "ellora-caves",
+      "name": "Ellora Caves"
     },
     {
-      "name": "Eluru",
-      "id": "SGh4OnEskPIx"
+      "id": "eluru",
+      "name": "Eluru"
     },
     {
-      "name": "Eral",
-      "id": "Iwrk1wsYPd0R"
+      "id": "eral",
+      "name": "Eral"
     },
     {
-      "name": "Ernakulam",
-      "id": "UOXM0av4DuPA"
+      "id": "ernakulam",
+      "name": "Ernakulam"
     },
     {
-      "name": "Erode",
-      "id": "9pzR1CewKZ5A"
+      "id": "erode",
+      "name": "Erode"
     },
     {
-      "name": "Etawah",
-      "id": "QRSZQgE6OK6k"
+      "id": "etawah",
+      "name": "Etawah"
     },
     {
-      "name": "Faizabad",
-      "id": "4sSxScMYy--B"
+      "id": "faizabad",
+      "name": "Faizabad"
     },
     {
-      "name": "Farakka",
-      "id": "29gZDVdw7ytt"
+      "id": "farakka",
+      "name": "Farakka"
     },
     {
-      "name": "Faridabad",
-      "id": "pWt77ZE6A77A"
+      "id": "faridabad",
+      "name": "Faridabad"
     },
     {
-      "name": "Faridkot",
-      "id": "N-BCQNXXCMLg"
+      "id": "faridkot",
+      "name": "Faridkot"
     },
     {
-      "name": "Fatehabad",
-      "id": "JUpIGSSqME4f"
+      "id": "fatehabad",
+      "name": "Fatehabad"
     },
     {
-      "name": "Fatehgarh",
-      "id": "S-BKBroR-fvR"
+      "id": "fatehgarh",
+      "name": "Fatehgarh"
     },
     {
-      "name": "Fatehpur",
-      "id": "3qXKfxwS55w8"
+      "id": "fatehpur",
+      "name": "Fatehpur"
     },
     {
-      "name": "Firozabad",
-      "id": "wsPxml4Wsk03"
+      "id": "firozabad",
+      "name": "Firozabad"
     },
     {
-      "name": "Firozpur",
-      "id": "5ZXrRB6E6Wpm"
+      "id": "firozpur",
+      "name": "Firozpur"
     },
     {
-      "name": "Fort",
-      "id": "84hrm9yIqJCE"
+      "id": "fort",
+      "name": "Fort"
     },
     {
-      "name": "Gadag",
-      "id": "GTGKhs-gNEgk"
+      "id": "gadag",
+      "name": "Gadag"
     },
     {
-      "name": "Gampalagudem",
-      "id": "-JRapTqMjQXX"
+      "id": "gampalagudem",
+      "name": "Gampalagudem"
     },
     {
-      "name": "Gandhidham",
-      "id": "jjzrXerIF399"
+      "id": "gandhidham",
+      "name": "Gandhidham"
     },
     {
-      "name": "Gandhigram",
-      "id": "CZuugCFNgaht"
+      "id": "gandhigram",
+      "name": "Gandhigram"
     },
     {
-      "name": "Gandhinagar",
-      "id": "mwzD-3yJCxTY"
+      "id": "gandhinagar",
+      "name": "Gandhinagar"
     },
     {
-      "name": "Ganga",
-      "id": "FTc6Aoqa5wsz"
+      "id": "ganga",
+      "name": "Ganga"
     },
     {
-      "name": "Ganganagar",
-      "id": "TZ8V5chGylxx"
+      "id": "ganganagar",
+      "name": "Ganganagar"
     },
     {
-      "name": "Gangapur",
-      "id": "hOLsx1a9kwi8"
+      "id": "gangapur",
+      "name": "Gangapur"
     },
     {
-      "name": "Gangrar",
-      "id": "9FXcqCMBaCVP"
+      "id": "gangrar",
+      "name": "Gangrar"
     },
     {
-      "name": "Gangtok",
-      "id": "32HZWm10E14H"
+      "id": "gangtok",
+      "name": "Gangtok"
     },
     {
-      "name": "Gannavaram",
-      "id": "JOFNuSI3jqDc"
+      "id": "gannavaram",
+      "name": "Gannavaram"
     },
     {
-      "name": "Ganpat",
-      "id": "BOlxcbME83Du"
+      "id": "ganpat",
+      "name": "Ganpat"
     },
     {
-      "name": "Gargoti",
-      "id": "sOygAPeL3rMu"
+      "id": "gargoti",
+      "name": "Gargoti"
     },
     {
-      "name": "Garhshankar",
-      "id": "TPCQtOEJuZ4h"
+      "id": "garhshankar",
+      "name": "Garhshankar"
     },
     {
-      "name": "Gaya",
-      "id": "x7BuIWoFwfIj"
+      "id": "gaya",
+      "name": "Gaya"
     },
     {
-      "name": "Ghana",
-      "id": "SD-hGMpqKk1S"
+      "id": "ghana",
+      "name": "Ghana"
     },
     {
-      "name": "Ghatal",
-      "id": "Lg0W9cQv6_LE"
+      "id": "ghatal",
+      "name": "Ghatal"
     },
     {
-      "name": "Ghatkopar",
-      "id": "J6dbyrwDdfmV"
+      "id": "ghatkopar",
+      "name": "Ghatkopar"
     },
     {
-      "name": "Ghaziabad",
-      "id": "QjbS1O3MWpxF"
+      "id": "ghaziabad",
+      "name": "Ghaziabad"
     },
     {
-      "name": "Goa",
-      "id": "QymyzlPYJQbG"
+      "id": "goa",
+      "name": "Goa"
     },
     {
-      "name": "Gobichettipalayam",
-      "id": "MPwz5HcSai7p"
+      "id": "gobichettipalayam",
+      "name": "Gobichettipalayam"
     },
     {
-      "name": "Godhra",
-      "id": "zwcmsXUx9DFU"
+      "id": "godhra",
+      "name": "Godhra"
     },
     {
-      "name": "Gohana",
-      "id": "GRkq_XEsbu4x"
+      "id": "gohana",
+      "name": "Gohana"
     },
     {
-      "name": "Golaghat",
-      "id": "gRVLt8ummZKX"
+      "id": "golaghat",
+      "name": "Golaghat"
     },
     {
-      "name": "Gold",
-      "id": "FpqfStHZZIVW"
+      "id": "gold",
+      "name": "Gold"
     },
     {
-      "name": "Gonda",
-      "id": "wwz6OI6lu6AT"
+      "id": "gonda",
+      "name": "Gonda"
     },
     {
-      "name": "Gorakhpur",
-      "id": "wVqI_LlHqG8S"
+      "id": "gorakhpur",
+      "name": "Gorakhpur"
     },
     {
-      "name": "Goregaon",
-      "id": "HI3DfEc6C4_4"
+      "id": "goregaon",
+      "name": "Goregaon"
     },
     {
-      "name": "Goshaingaon",
-      "id": "On_JqKCpcchL"
+      "id": "goshaingaon",
+      "name": "Goshaingaon"
     },
     {
-      "name": "Gudivada",
-      "id": "fWG-EL9-p-55"
+      "id": "gudivada",
+      "name": "Gudivada"
     },
     {
-      "name": "Gudur",
-      "id": "yUwANQ2P35O8"
+      "id": "gudur",
+      "name": "Gudur"
     },
     {
-      "name": "Guindy",
-      "id": "dnDB1tLbSlV-"
+      "id": "guindy",
+      "name": "Guindy"
     },
     {
-      "name": "Gujrat",
-      "id": "INqcdmcRYC9r"
+      "id": "gujrat",
+      "name": "Gujrat"
     },
     {
-      "name": "Gulbarga",
-      "id": "RUu6otlgcFyh"
+      "id": "gulbarga",
+      "name": "Gulbarga"
     },
     {
-      "name": "Guna",
-      "id": "PoU_UDTqHLVS"
+      "id": "guna",
+      "name": "Guna"
     },
     {
-      "name": "Guntur",
-      "id": "dvA9LxRg_H5W"
+      "id": "guntur",
+      "name": "Guntur"
     },
     {
-      "name": "Gurdaspur",
-      "id": "0RVhHRBdYfza"
+      "id": "gurdaspur",
+      "name": "Gurdaspur"
     },
     {
-      "name": "Gurgaon",
-      "id": "bTevog55UtY8"
+      "id": "gurgaon",
+      "name": "Gurgaon"
     },
     {
-      "name": "Guruvayur",
-      "id": "1NVhCuXcGKS7"
+      "id": "guruvayur",
+      "name": "Guruvayur"
     },
     {
-      "name": "Guwahati",
-      "id": "GItDRNgPA1QI"
+      "id": "guwahati",
+      "name": "Guwahati"
     },
     {
-      "name": "Gwalior",
-      "id": "PiVkhdHmY3CP"
+      "id": "gwalior",
+      "name": "Gwalior"
     },
     {
-      "name": "Habra",
-      "id": "Mz_hI0EVuuB8"
+      "id": "habra",
+      "name": "Habra"
     },
     {
-      "name": "Hadadi",
-      "id": "TjoDms8uQ5GN"
+      "id": "hadadi",
+      "name": "Hadadi"
     },
     {
-      "name": "Haldia",
-      "id": "AbXzvKYAkQUH"
+      "id": "haldia",
+      "name": "Haldia"
     },
     {
-      "name": "Haldwani",
-      "id": "bT7RMkgC1b5g"
+      "id": "haldwani",
+      "name": "Haldwani"
     },
     {
-      "name": "Hamirpur",
-      "id": "gflcr4GaJEW0"
+      "id": "hamirpur",
+      "name": "Hamirpur"
     },
     {
-      "name": "Hansi",
-      "id": "8eCbxFowcsQS"
+      "id": "hansi",
+      "name": "Hansi"
     },
     {
-      "name": "Hapur",
-      "id": "4JTbCzn35uxR"
+      "id": "hapur",
+      "name": "Hapur"
     },
     {
-      "name": "Hari",
-      "id": "A39DHrH9Bjzb"
+      "id": "hari",
+      "name": "Hari"
     },
     {
-      "name": "Haridwar",
-      "id": "8lqNqqRVIQVs"
+      "id": "haridwar",
+      "name": "Haridwar"
     },
     {
-      "name": "Haripad",
-      "id": "bAQD8vhuxVKg"
+      "id": "haripad",
+      "name": "Haripad"
     },
     {
-      "name": "Haripur",
-      "id": "pu3Sp5pFSWLl"
+      "id": "haripur",
+      "name": "Haripur"
     },
     {
-      "name": "Haryana",
-      "id": "7u4SlT91sXZQ"
+      "id": "haryana",
+      "name": "Haryana"
     },
     {
-      "name": "Hassan",
-      "id": "K9dfKcF8CDCm"
+      "id": "hassan",
+      "name": "Hassan"
     },
     {
-      "name": "Haveri",
-      "id": "UZUnZvAsPXQB"
+      "id": "haveri",
+      "name": "Haveri"
     },
     {
-      "name": "Hazaribagh",
-      "id": "ECaO33y9RQ8k"
+      "id": "hazaribagh",
+      "name": "Hazaribagh"
     },
     {
-      "name": "Himatnagar",
-      "id": "z_UynnvLN8lB"
+      "id": "himatnagar",
+      "name": "Himatnagar"
     },
     {
-      "name": "Hinganghat",
-      "id": "InS6FStvBw4B"
+      "id": "hinganghat",
+      "name": "Hinganghat"
     },
     {
-      "name": "Hingoli",
-      "id": "IcKVigEKq3YV"
+      "id": "hingoli",
+      "name": "Hingoli"
     },
     {
-      "name": "Hira",
-      "id": "t-KoLoxov-7E"
+      "id": "hira",
+      "name": "Hira"
     },
     {
-      "name": "Hiriyur",
-      "id": "rCTw_yi6qCxD"
+      "id": "hiriyur",
+      "name": "Hiriyur"
     },
     {
-      "name": "Hisar",
-      "id": "Rz67h35ozdh0"
+      "id": "hisar",
+      "name": "Hisar"
     },
     {
-      "name": "Honavar",
-      "id": "e0r8qDKUqFSX"
+      "id": "honavar",
+      "name": "Honavar"
     },
     {
-      "name": "Hong",
-      "id": "scI7Ydgl_PXN"
+      "id": "hong",
+      "name": "Hong"
     },
     {
-      "name": "Hoshangabad",
-      "id": "SY1Tx1mJ3j02"
+      "id": "hoshangabad",
+      "name": "Hoshangabad"
     },
     {
-      "name": "Hoshiarpur",
-      "id": "X5vhSuI6PYMf"
+      "id": "hoshiarpur",
+      "name": "Hoshiarpur"
     },
     {
-      "name": "Hosur",
-      "id": "WfprO3TGh0k0"
+      "id": "hosur",
+      "name": "Hosur"
     },
     {
-      "name": "Howrah",
-      "id": "o4jNW9gI8_0x"
+      "id": "howrah",
+      "name": "Howrah"
     },
     {
-      "name": "Hubli",
-      "id": "hEVmXsi6Jo1Q"
+      "id": "hubli",
+      "name": "Hubli"
     },
     {
-      "name": "Hugli",
-      "id": "GzDH_FZYocHN"
+      "id": "hugli",
+      "name": "Hugli"
     },
     {
-      "name": "Hyderabad",
-      "id": "zU-twRSXLYdt"
+      "id": "hyderabad",
+      "name": "Hyderabad"
     },
     {
-      "name": "Ichalkaranji",
-      "id": "k25QCw29fAs0"
+      "id": "ichalkaranji",
+      "name": "Ichalkaranji"
     },
     {
-      "name": "Idukki",
-      "id": "csn7hOcuF5Ns"
+      "id": "idukki",
+      "name": "Idukki"
     },
     {
-      "name": "Igatpuri",
-      "id": "muIBNb7t9V86"
+      "id": "igatpuri",
+      "name": "Igatpuri"
     },
     {
-      "name": "Iglas",
-      "id": "A6ruV7uTzK2P"
+      "id": "iglas",
+      "name": "Iglas"
     },
     {
-      "name": "Imphal",
-      "id": "ucYFrl0GUN95"
+      "id": "imphal",
+      "name": "Imphal"
     },
     {
-      "name": "Indore",
-      "id": "2Nk7d8WXkBXk"
+      "id": "indore",
+      "name": "Indore"
     },
     {
-      "name": "Indraprast",
-      "id": "PO-NwOjtrcbn"
+      "id": "indraprast",
+      "name": "Indraprast"
     },
     {
-      "name": "Irinjalakuda",
-      "id": "Djri20ixmLWv"
+      "id": "irinjalakuda",
+      "name": "Irinjalakuda"
     },
     {
-      "name": "Itanagar",
-      "id": "_C5Pzlb5uLJM"
+      "id": "itanagar",
+      "name": "Itanagar"
     },
     {
-      "name": "Jabalpur",
-      "id": "CHmoRguGkTzC"
+      "id": "jabalpur",
+      "name": "Jabalpur"
     },
     {
-      "name": "Jadabpur",
-      "id": "aFRfskhYtSF-"
+      "id": "jadabpur",
+      "name": "Jadabpur"
     },
     {
-      "name": "Jagdalpur",
-      "id": "YmqPP-vw_0Qp"
+      "id": "jagdalpur",
+      "name": "Jagdalpur"
     },
     {
-      "name": "Jagraon",
-      "id": "kN4KsudJ0x4Q"
+      "id": "jagraon",
+      "name": "Jagraon"
     },
     {
-      "name": "Jaipur",
-      "id": "47uTldZ4GEJt"
+      "id": "jaipur",
+      "name": "Jaipur"
     },
     {
-      "name": "Jaisalmer",
-      "id": "swP6R27O2Q66"
+      "id": "jaisalmer",
+      "name": "Jaisalmer"
     },
     {
-      "name": "Jajpur",
-      "id": "DQiko940Fh76"
+      "id": "jajpur",
+      "name": "Jajpur"
     },
     {
-      "name": "Jalalabad",
-      "id": "6Ik2MKbvF6D5"
+      "id": "jalalabad",
+      "name": "Jalalabad"
     },
     {
-      "name": "Jalalpur",
-      "id": "f7hfq5BKbD53"
+      "id": "jalalpur",
+      "name": "Jalalpur"
     },
     {
-      "name": "Jalandhar",
-      "id": "T0ppqISW69DK"
+      "id": "jalandhar",
+      "name": "Jalandhar"
     },
     {
-      "name": "Jalesar",
-      "id": "UgNUhUh6jqKD"
+      "id": "jalesar",
+      "name": "Jalesar"
     },
     {
-      "name": "Jalgaon Jamod",
-      "id": "R50a4JbE-a26"
+      "id": "jalgaon-jamod",
+      "name": "Jalgaon Jamod"
     },
     {
-      "name": "Jalna",
-      "id": "AySvDR65X1UY"
+      "id": "jalna",
+      "name": "Jalna"
     },
     {
-      "name": "Jalpaiguri",
-      "id": "hfD62V8NxDN7"
+      "id": "jalpaiguri",
+      "name": "Jalpaiguri"
     },
     {
-      "name": "Jamal",
-      "id": "8IbZi1cfGfum"
+      "id": "jamal",
+      "name": "Jamal"
     },
     {
-      "name": "Jammu",
-      "id": "zGXOyzOln-cq"
+      "id": "jammu",
+      "name": "Jammu"
     },
     {
-      "name": "Jamnagar",
-      "id": "XHS1rx7fFFtJ"
+      "id": "jamnagar",
+      "name": "Jamnagar"
     },
     {
-      "name": "Jamshedpur",
-      "id": "nFl6HSkgArGa"
+      "id": "jamshedpur",
+      "name": "Jamshedpur"
     },
     {
-      "name": "Janjgir",
-      "id": "gHjcPSz_6f_Y"
+      "id": "janjgir",
+      "name": "Janjgir"
     },
     {
-      "name": "Jaspur",
-      "id": "mzh4nZ0VMr1w"
+      "id": "jaspur",
+      "name": "Jaspur"
     },
     {
-      "name": "Jatani",
-      "id": "TWH8uXsTmptI"
+      "id": "jatani",
+      "name": "Jatani"
     },
     {
-      "name": "Jaunpur",
-      "id": "V5CSa3iKryoP"
+      "id": "jaunpur",
+      "name": "Jaunpur"
     },
     {
-      "name": "Jayanti",
-      "id": "SLXjh25mHdR4"
+      "id": "jayanti",
+      "name": "Jayanti"
     },
     {
-      "name": "Jaynagar",
-      "id": "iIGgAd_RBmmX"
+      "id": "jaynagar",
+      "name": "Jaynagar"
     },
     {
-      "name": "Jaypur",
-      "id": "vHnxIBpufbgx"
+      "id": "jaypur",
+      "name": "Jaypur"
     },
     {
-      "name": "Jha Jha",
-      "id": "LgCV6h94dcAS"
+      "id": "jha-jha",
+      "name": "Jha Jha"
     },
     {
-      "name": "Jhajjar",
-      "id": "m-rYePlKuSji"
+      "id": "jhajjar",
+      "name": "Jhajjar"
     },
     {
-      "name": "Jhalawar",
-      "id": "PBxjDwTMYEt_"
+      "id": "jhalawar",
+      "name": "Jhalawar"
     },
     {
-      "name": "Jhansi",
-      "id": "9GFIBXjyTj_z"
+      "id": "jhansi",
+      "name": "Jhansi"
     },
     {
-      "name": "Jhargram",
-      "id": "pxOn0hGFLe8M"
+      "id": "jhargram",
+      "name": "Jhargram"
     },
     {
-      "name": "Jharsuguda",
-      "id": "wncNhEpmRk9K"
+      "id": "jharsuguda",
+      "name": "Jharsuguda"
     },
     {
-      "name": "Jhunjhunun",
-      "id": "HHJXpIY3REzf"
+      "id": "jhunjhunun",
+      "name": "Jhunjhunun"
     },
     {
-      "name": "Jind",
-      "id": "4agr-3u98rkG"
+      "id": "jind",
+      "name": "Jind"
     },
     {
-      "name": "Jodhpur",
-      "id": "V9vUFlJULcvK"
+      "id": "jodhpur",
+      "name": "Jodhpur"
     },
     {
-      "name": "Jorhat",
-      "id": "gA7XV0CmGSgF"
+      "id": "jorhat",
+      "name": "Jorhat"
     },
     {
-      "name": "Junagadh",
-      "id": "nI8AqjxSD2Yr"
+      "id": "junagadh",
+      "name": "Junagadh"
     },
     {
-      "name": "Kadapa",
-      "id": "7YlTPW7ep4Iy"
+      "id": "kadapa",
+      "name": "Kadapa"
     },
     {
-      "name": "Kagal",
-      "id": "mBUxcKIp9RJ4"
+      "id": "kagal",
+      "name": "Kagal"
     },
     {
-      "name": "Kailaras",
-      "id": "qIMi61MAmTzu"
+      "id": "kailaras",
+      "name": "Kailaras"
     },
     {
-      "name": "Kaimganj",
-      "id": "2H_fPioja0gP"
+      "id": "kaimganj",
+      "name": "Kaimganj"
     },
     {
-      "name": "Kaithal",
-      "id": "reNQ47L5Tlzp"
+      "id": "kaithal",
+      "name": "Kaithal"
     },
     {
-      "name": "Kakdwip",
-      "id": "Q0jrOTWUzhPL"
+      "id": "kakdwip",
+      "name": "Kakdwip"
     },
     {
-      "name": "Kakinada",
-      "id": "d9og71vYXuyu"
+      "id": "kakinada",
+      "name": "Kakinada"
     },
     {
-      "name": "Kaladi",
-      "id": "QkMVQ4G37Llt"
+      "id": "kaladi",
+      "name": "Kaladi"
     },
     {
-      "name": "Kalam",
-      "id": "fNkIZLicWFLH"
+      "id": "kalam",
+      "name": "Kalam"
     },
     {
-      "name": "Kalamboli",
-      "id": "jUSEowyF_TRx"
+      "id": "kalamboli",
+      "name": "Kalamboli"
     },
     {
-      "name": "Kalan",
-      "id": "5dKOkt0hlFdj"
+      "id": "kalan",
+      "name": "Kalan"
     },
     {
-      "name": "Kalinga",
-      "id": "0ctg3HS2PBtI"
+      "id": "kalinga",
+      "name": "Kalinga"
     },
     {
-      "name": "Kalka",
-      "id": "zRJ4m_QwX9ov"
+      "id": "kalka",
+      "name": "Kalka"
     },
     {
-      "name": "Kalkaji Devi",
-      "id": "cp1guDcDxM8f"
+      "id": "kalkaji-devi",
+      "name": "Kalkaji Devi"
     },
     {
-      "name": "Kalol",
-      "id": "YmwOt_FYXQVv"
+      "id": "kalol",
+      "name": "Kalol"
     },
     {
-      "name": "Kalpakkam",
-      "id": "rqJO-Ao9WoyG"
+      "id": "kalpakkam",
+      "name": "Kalpakkam"
     },
     {
-      "name": "Kalpetta",
-      "id": "9dE4oTeh8V9c"
+      "id": "kalpetta",
+      "name": "Kalpetta"
     },
     {
-      "name": "Kalra",
-      "id": "2NBGZ1zCE0ey"
+      "id": "kalra",
+      "name": "Kalra"
     },
     {
-      "name": "Kalyan",
-      "id": "FaabLPqpA-9r"
+      "id": "kalyan",
+      "name": "Kalyan"
     },
     {
-      "name": "Kalyani",
-      "id": "BYA3goHi8yj9"
+      "id": "kalyani",
+      "name": "Kalyani"
     },
     {
-      "name": "Kamalpur",
-      "id": "LrJnA3pNdeRs"
+      "id": "kamalpur",
+      "name": "Kamalpur"
     },
     {
-      "name": "Kamalpura",
-      "id": "ygGu3JkLemAu"
+      "id": "kamalpura",
+      "name": "Kamalpura"
     },
     {
-      "name": "Kamat",
-      "id": "MiFKXOYIXSrA"
+      "id": "kamat",
+      "name": "Kamat"
     },
     {
-      "name": "Kanakpura",
-      "id": "AuowIp7UU-rz"
+      "id": "kanakpura",
+      "name": "Kanakpura"
     },
     {
-      "name": "Kanchipuram",
-      "id": "Y-dOPrg3W2Z6"
+      "id": "kanchipuram",
+      "name": "Kanchipuram"
     },
     {
-      "name": "Kanchrapara",
-      "id": "4gxYn5WIivRj"
+      "id": "kanchrapara",
+      "name": "Kanchrapara"
     },
     {
-      "name": "Kandi",
-      "id": "18kHSwsJIQCs"
+      "id": "kandi",
+      "name": "Kandi"
     },
     {
-      "name": "Kangayam",
-      "id": "PaBZKr7TEbB-"
+      "id": "kangayam",
+      "name": "Kangayam"
     },
     {
-      "name": "Kangra",
-      "id": "Ju2WW3XmERWY"
+      "id": "kangra",
+      "name": "Kangra"
     },
     {
-      "name": "Kanhangad",
-      "id": "rUmvsoxiyNRJ"
+      "id": "kanhangad",
+      "name": "Kanhangad"
     },
     {
-      "name": "Kanigiri",
-      "id": "TAWfq17L-YOO"
+      "id": "kanigiri",
+      "name": "Kanigiri"
     },
     {
-      "name": "Kaniyambadi",
-      "id": "qYQMvwTx4FKW"
+      "id": "kaniyambadi",
+      "name": "Kaniyambadi"
     },
     {
-      "name": "Kankauli",
-      "id": "ydV5Ur52tTZ3"
+      "id": "kankauli",
+      "name": "Kankauli"
     },
     {
-      "name": "Kanniyakumari",
-      "id": "GO31Tdw0X3Bn"
+      "id": "kanniyakumari",
+      "name": "Kanniyakumari"
     },
     {
-      "name": "Kannur",
-      "id": "bMww9BT215cO"
+      "id": "kannur",
+      "name": "Kannur"
     },
     {
-      "name": "Kanpur",
-      "id": "oSP5tCJ0CNZS"
+      "id": "kanpur",
+      "name": "Kanpur"
     },
     {
-      "name": "Kapurthala Town",
-      "id": "te6t-UxAuYBR"
+      "id": "kapurthala-town",
+      "name": "Kapurthala Town"
     },
     {
-      "name": "Karad",
-      "id": "13cCPZmzGrs7"
+      "id": "karad",
+      "name": "Karad"
     },
     {
-      "name": "Karaikal",
-      "id": "ewHTquDNNAAO"
+      "id": "karaikal",
+      "name": "Karaikal"
     },
     {
-      "name": "Karaikudi",
-      "id": "OeNfniuV-MrH"
+      "id": "karaikudi",
+      "name": "Karaikudi"
     },
     {
-      "name": "Karamadai",
-      "id": "01tZ-15QMk1H"
+      "id": "karamadai",
+      "name": "Karamadai"
     },
     {
-      "name": "Karamsad",
-      "id": "dD60MOoh05yQ"
+      "id": "karamsad",
+      "name": "Karamsad"
     },
     {
-      "name": "Karanja",
-      "id": "XOd2-YYbzlC7"
+      "id": "karanja",
+      "name": "Karanja"
     },
     {
-      "name": "Karari",
-      "id": "5fz2qOvncKhG"
+      "id": "karari",
+      "name": "Karari"
     },
     {
-      "name": "Kargil",
-      "id": "hfseDozBeq-l"
+      "id": "kargil",
+      "name": "Kargil"
     },
     {
-      "name": "Karimganj",
-      "id": "c87Ze7r5DMgo"
+      "id": "karimganj",
+      "name": "Karimganj"
     },
     {
-      "name": "Karimnagar",
-      "id": "dODraPG4q76Z"
+      "id": "karimnagar",
+      "name": "Karimnagar"
     },
     {
-      "name": "Karjat",
-      "id": "L2xc3uMpXn7H"
+      "id": "karjat",
+      "name": "Karjat"
     },
     {
-      "name": "Karnal",
-      "id": "n3uM2CSk6xxt"
+      "id": "karnal",
+      "name": "Karnal"
     },
     {
-      "name": "Karsiyang",
-      "id": "oH_nfJ81Qa3c"
+      "id": "karsiyang",
+      "name": "Karsiyang"
     },
     {
-      "name": "Karur",
-      "id": "BQ3ZatnxCPy-"
+      "id": "karur",
+      "name": "Karur"
     },
     {
-      "name": "Karwar",
-      "id": "1y14sQyM8KCV"
+      "id": "karwar",
+      "name": "Karwar"
     },
     {
-      "name": "Kasal",
-      "id": "Flaji29N1mRF"
+      "id": "kasal",
+      "name": "Kasal"
     },
     {
-      "name": "Kasaragod",
-      "id": "h_eFdTY3eWt-"
+      "id": "kasaragod",
+      "name": "Kasaragod"
     },
     {
-      "name": "Kasganj",
-      "id": "b3kMJ2xt8rYW"
+      "id": "kasganj",
+      "name": "Kasganj"
     },
     {
-      "name": "Kashipur",
-      "id": "ga2ha_2I0mYI"
+      "id": "kashipur",
+      "name": "Kashipur"
     },
     {
-      "name": "Kasia",
-      "id": "QPYb3bvgFzEi"
+      "id": "kasia",
+      "name": "Kasia"
     },
     {
-      "name": "Kataria",
-      "id": "CZrv1AadO-2S"
+      "id": "kataria",
+      "name": "Kataria"
     },
     {
-      "name": "Kathua",
-      "id": "OsOuisDhczv3"
+      "id": "kathua",
+      "name": "Kathua"
     },
     {
-      "name": "Katni",
-      "id": "ru-9-4Z9KADz"
+      "id": "katni",
+      "name": "Katni"
     },
     {
-      "name": "Katoya",
-      "id": "fl9xfN-3qurN"
+      "id": "katoya",
+      "name": "Katoya"
     },
     {
-      "name": "Katra",
-      "id": "gaeJX9oA5-yx"
+      "id": "katra",
+      "name": "Katra"
     },
     {
-      "name": "Kaul",
-      "id": "HB_V9oVGBlAY"
+      "id": "kaul",
+      "name": "Kaul"
     },
     {
-      "name": "Kavali",
-      "id": "Lx8e40t23tJ_"
+      "id": "kavali",
+      "name": "Kavali"
     },
     {
-      "name": "Kavaratti",
-      "id": "hbh1pPz9h8cR"
+      "id": "kavaratti",
+      "name": "Kavaratti"
     },
     {
-      "name": "Kayamkulam",
-      "id": "MwuA-yzm4vbL"
+      "id": "kayamkulam",
+      "name": "Kayamkulam"
     },
     {
-      "name": "Keshod",
-      "id": "yBgKn2iSlCym"
+      "id": "keshod",
+      "name": "Keshod"
     },
     {
-      "name": "Khajuraho Group of Monuments",
-      "id": "7989ZahqU--2"
+      "id": "khajuraho-group-of-monuments",
+      "name": "Khajuraho Group of Monuments"
     },
     {
-      "name": "Khalapur",
-      "id": "-E8-x7QAF_uy"
+      "id": "khalapur",
+      "name": "Khalapur"
     },
     {
-      "name": "Khambhat",
-      "id": "3lgN7_afRmEZ"
+      "id": "khambhat",
+      "name": "Khambhat"
     },
     {
-      "name": "Khammam",
-      "id": "t6n23uK7-Ki0"
+      "id": "khammam",
+      "name": "Khammam"
     },
     {
-      "name": "Khan",
-      "id": "RnVua3WPref3"
+      "id": "khan",
+      "name": "Khan"
     },
     {
-      "name": "Khanna",
-      "id": "yuKghzgi1HKo"
+      "id": "khanna",
+      "name": "Khanna"
     },
     {
-      "name": "Kharagpur",
-      "id": "xrOFjwSoEZYf"
+      "id": "kharagpur",
+      "name": "Kharagpur"
     },
     {
-      "name": "Kharar",
-      "id": "NYbkwNLBlxUo"
+      "id": "kharar",
+      "name": "Kharar"
     },
     {
-      "name": "Khargone",
-      "id": "5qL4vY1K3aqM"
+      "id": "khargone",
+      "name": "Khargone"
     },
     {
-      "name": "Khatauli",
-      "id": "qbK6W6pQ3XiV"
+      "id": "khatauli",
+      "name": "Khatauli"
     },
     {
-      "name": "Kheda",
-      "id": "F0LbhEG-zZtF"
+      "id": "kheda",
+      "name": "Kheda"
     },
     {
-      "name": "Khergam",
-      "id": "gSdktOLZ988V"
+      "id": "khergam",
+      "name": "Khergam"
     },
     {
-      "name": "Kheri",
-      "id": "TjeJrp9s12YG"
+      "id": "kheri",
+      "name": "Kheri"
     },
     {
-      "name": "Khinwara",
-      "id": "LDPrOgxX3Amo"
+      "id": "khinwara",
+      "name": "Khinwara"
     },
     {
-      "name": "Khopoli",
-      "id": "4BCdCEqF0mEa"
+      "id": "khopoli",
+      "name": "Khopoli"
     },
     {
-      "name": "Khurda",
-      "id": "zFoeIw71GTVr"
+      "id": "khurda",
+      "name": "Khurda"
     },
     {
-      "name": "Khurja",
-      "id": "fFzjlJgbobsD"
+      "id": "khurja",
+      "name": "Khurja"
     },
     {
-      "name": "Kishangarh",
-      "id": "N4eQj9Zjirz5"
+      "id": "kishangarh",
+      "name": "Kishangarh"
     },
     {
-      "name": "Koch Bihar",
-      "id": "F9-rCQdQBc70"
+      "id": "koch-bihar",
+      "name": "Koch Bihar"
     },
     {
-      "name": "Kochi",
-      "id": "5LhvzTFnXLNP"
+      "id": "kochi",
+      "name": "Kochi"
     },
     {
-      "name": "Kodaikanal",
-      "id": "IkIXFXCI9Fxc"
+      "id": "kodaikanal",
+      "name": "Kodaikanal"
     },
     {
-      "name": "Kodungallur",
-      "id": "aByUwJI1U0j9"
+      "id": "kodungallur",
+      "name": "Kodungallur"
     },
     {
-      "name": "Kohima",
-      "id": "HXlWPEukve-E"
+      "id": "kohima",
+      "name": "Kohima"
     },
     {
-      "name": "Kokrajhar",
-      "id": "tSUbd35FiITf"
+      "id": "kokrajhar",
+      "name": "Kokrajhar"
     },
     {
-      "name": "Kolar",
-      "id": "lvZuQI0amGC-"
+      "id": "kolar",
+      "name": "Kolar"
     },
     {
-      "name": "Kolayat",
-      "id": "GlRGq_FRGIod"
+      "id": "kolayat",
+      "name": "Kolayat"
     },
     {
-      "name": "Kolhapur",
-      "id": "CG1gbpSP-J4A"
+      "id": "kolhapur",
+      "name": "Kolhapur"
     },
     {
-      "name": "Kolkata",
-      "id": "6Pz1Zg9VSJkc"
+      "id": "kolkata",
+      "name": "Kolkata"
     },
     {
-      "name": "Kollam",
-      "id": "gQ9tOf_JQHLh"
+      "id": "kollam",
+      "name": "Kollam"
     },
     {
-      "name": "Kollegal",
-      "id": "xd8qcPITSsed"
+      "id": "kollegal",
+      "name": "Kollegal"
     },
     {
-      "name": "Koni",
-      "id": "ciOx5kHlvT3A"
+      "id": "koni",
+      "name": "Koni"
     },
     {
-      "name": "Konnagar",
-      "id": "TVArgScWYFGL"
+      "id": "konnagar",
+      "name": "Konnagar"
     },
     {
-      "name": "Koothanallur",
-      "id": "MJpDavPfsUfb"
+      "id": "koothanallur",
+      "name": "Koothanallur"
     },
     {
-      "name": "Koppal",
-      "id": "K0lOTBdyWO90"
+      "id": "koppal",
+      "name": "Koppal"
     },
     {
-      "name": "Koraput",
-      "id": "6WpUBrP8z2B8"
+      "id": "koraput",
+      "name": "Koraput"
     },
     {
-      "name": "Korba",
-      "id": "hl7lqOcA6Lf6"
+      "id": "korba",
+      "name": "Korba"
     },
     {
-      "name": "Kosamba",
-      "id": "fovr1XVQiXMI"
+      "id": "kosamba",
+      "name": "Kosamba"
     },
     {
-      "name": "Kot Isa Khan",
-      "id": "gd1tLdWtVLEw"
+      "id": "kot-isa-khan",
+      "name": "Kot Isa Khan"
     },
     {
-      "name": "Kota",
-      "id": "8gVynXXUg0rl"
+      "id": "kota",
+      "name": "Kota"
     },
     {
-      "name": "Kotian",
-      "id": "mSdvdm1cPemg"
+      "id": "kotian",
+      "name": "Kotian"
     },
     {
-      "name": "Kottagudem",
-      "id": "K0TWIoxEqxcA"
+      "id": "kottagudem",
+      "name": "Kottagudem"
     },
     {
-      "name": "Kottakkal",
-      "id": "lAyUVpzVkH2n"
+      "id": "kottakkal",
+      "name": "Kottakkal"
     },
     {
-      "name": "Kottarakara",
-      "id": "Do1bSWN4QE_d"
+      "id": "kottarakara",
+      "name": "Kottarakara"
     },
     {
-      "name": "Kottayam",
-      "id": "3LX94FbqBmC4"
+      "id": "kottayam",
+      "name": "Kottayam"
     },
     {
-      "name": "Kovilpatti",
-      "id": "i1qcwS6J3YMd"
+      "id": "kovilpatti",
+      "name": "Kovilpatti"
     },
     {
-      "name": "Kovvur",
-      "id": "W7DjSJbESM9_"
+      "id": "kovvur",
+      "name": "Kovvur"
     },
     {
-      "name": "Kozhikode",
-      "id": "2bkngTG1BH_t"
+      "id": "kozhikode",
+      "name": "Kozhikode"
     },
     {
-      "name": "Krishnagiri",
-      "id": "tvJR0DE807ha"
+      "id": "krishnagiri",
+      "name": "Krishnagiri"
     },
     {
-      "name": "Kulti",
-      "id": "xXBMJJmzaeG6"
+      "id": "kulti",
+      "name": "Kulti"
     },
     {
-      "name": "Kumar",
-      "id": "rhU60oEUM3Hu"
+      "id": "kumar",
+      "name": "Kumar"
     },
     {
-      "name": "Kumbakonam",
-      "id": "4LGB06FQhZ58"
+      "id": "kumbakonam",
+      "name": "Kumbakonam"
     },
     {
-      "name": "Kumhari",
-      "id": "WNFnhbXq1YNd"
+      "id": "kumhari",
+      "name": "Kumhari"
     },
     {
-      "name": "Kundan",
-      "id": "Kd4fTQTAEl5c"
+      "id": "kundan",
+      "name": "Kundan"
     },
     {
-      "name": "Kunwar",
-      "id": "TNFGDv3LNOLV"
+      "id": "kunwar",
+      "name": "Kunwar"
     },
     {
-      "name": "Kuppam",
-      "id": "XdPoSXO-waKB"
+      "id": "kuppam",
+      "name": "Kuppam"
     },
     {
-      "name": "Kurali",
-      "id": "3AwwbYH7v6Gj"
+      "id": "kurali",
+      "name": "Kurali"
     },
     {
-      "name": "Kurnool",
-      "id": "ymvcNA_OTmN5"
+      "id": "kurnool",
+      "name": "Kurnool"
     },
     {
-      "name": "Kushalnagar",
-      "id": "sjdGA4V58Q0m"
+      "id": "kushalnagar",
+      "name": "Kushalnagar"
     },
     {
-      "name": "Kuzhithurai",
-      "id": "xjuNbZh4Z3jV"
+      "id": "kuzhithurai",
+      "name": "Kuzhithurai"
     },
     {
-      "name": "Ladwa",
-      "id": "prv-ontRZMSX"
+      "id": "ladwa",
+      "name": "Ladwa"
     },
     {
-      "name": "Lakhimpur",
-      "id": "c2t1lGg4vJjN"
+      "id": "lakhimpur",
+      "name": "Lakhimpur"
     },
     {
-      "name": "Lala",
-      "id": "_yUbWTmxC26n"
+      "id": "lala",
+      "name": "Lala"
     },
     {
-      "name": "Lalgudi",
-      "id": "TqWM6jVY8AsH"
+      "id": "lalgudi",
+      "name": "Lalgudi"
     },
     {
-      "name": "Lamba Harisingh",
-      "id": "Mtlo3R9l-bQz"
+      "id": "lamba-harisingh",
+      "name": "Lamba Harisingh"
     },
     {
-      "name": "Lanka",
-      "id": "ouYOPGp41lGH"
+      "id": "lanka",
+      "name": "Lanka"
     },
     {
-      "name": "Latur",
-      "id": "DH0SEN-tLfPH"
+      "id": "latur",
+      "name": "Latur"
     },
     {
-      "name": "Liluah",
-      "id": "jWm-vGWFlWAk"
+      "id": "liluah",
+      "name": "Liluah"
     },
     {
-      "name": "Lohaghat",
-      "id": "XhX8dJjZPsbu"
+      "id": "lohaghat",
+      "name": "Lohaghat"
     },
     {
-      "name": "Lucknow",
-      "id": "NFsSPmEJ0kCG"
+      "id": "lucknow",
+      "name": "Lucknow"
     },
     {
-      "name": "Ludhiana",
-      "id": "ep__2FNQwEQV"
+      "id": "ludhiana",
+      "name": "Ludhiana"
     },
     {
-      "name": "Machhiwara",
-      "id": "peC7dLJmfil0"
+      "id": "machhiwara",
+      "name": "Machhiwara"
     },
     {
-      "name": "Machilipatnam",
-      "id": "htwJeLoUL_5d"
+      "id": "machilipatnam",
+      "name": "Machilipatnam"
     },
     {
-      "name": "Madanapalle",
-      "id": "__2VzfUFzHa6"
+      "id": "madanapalle",
+      "name": "Madanapalle"
     },
     {
-      "name": "Madgaon",
-      "id": "TrNGKWiy2Kgx"
+      "id": "madgaon",
+      "name": "Madgaon"
     },
     {
-      "name": "Madhoganj",
-      "id": "_mIl8yW964HM"
+      "id": "madhoganj",
+      "name": "Madhoganj"
     },
     {
-      "name": "Madikeri",
-      "id": "DlEYQfiuSTgO"
+      "id": "madikeri",
+      "name": "Madikeri"
     },
     {
-      "name": "Madurai",
-      "id": "Mz2H9q4HBEHL"
+      "id": "madurai",
+      "name": "Madurai"
     },
     {
-      "name": "Madurantakam",
-      "id": "oOQzxhVtf1Zk"
+      "id": "madurantakam",
+      "name": "Madurantakam"
     },
     {
-      "name": "Mahabalipuram",
-      "id": "C_zhYdc8QryC"
+      "id": "mahabalipuram",
+      "name": "Mahabalipuram"
     },
     {
-      "name": "Mahad",
-      "id": "cDUUS4iFyFUD"
+      "id": "mahad",
+      "name": "Mahad"
     },
     {
-      "name": "Mahajan",
-      "id": "qv4H8USN3MA4"
+      "id": "mahajan",
+      "name": "Mahajan"
     },
     {
-      "name": "Mahal",
-      "id": "T03MS8CJlEWZ"
+      "id": "mahal",
+      "name": "Mahal"
     },
     {
-      "name": "Maharaj",
-      "id": "99zB8czQSMo2"
+      "id": "maharaj",
+      "name": "Maharaj"
     },
     {
-      "name": "Mahatma",
-      "id": "EOZsDH7uNSi6"
+      "id": "mahatma",
+      "name": "Mahatma"
     },
     {
-      "name": "Mahesana",
-      "id": "lQ2CyfuZyku7"
+      "id": "mahesana",
+      "name": "Mahesana"
     },
     {
-      "name": "Mahesh",
-      "id": "jbkLTxOZs8Zq"
+      "id": "mahesh",
+      "name": "Mahesh"
     },
     {
-      "name": "Mahim",
-      "id": "mJHSvdROA0tJ"
+      "id": "mahim",
+      "name": "Mahim"
     },
     {
-      "name": "Mahulia",
-      "id": "wxxBCzO9YePk"
+      "id": "mahulia",
+      "name": "Mahulia"
     },
     {
-      "name": "Malappuram",
-      "id": "6JeQMeYRENRN"
+      "id": "malappuram",
+      "name": "Malappuram"
     },
     {
-      "name": "Maldah",
-      "id": "RFRR0-DhWhQr"
+      "id": "maldah",
+      "name": "Maldah"
     },
     {
-      "name": "Malpur",
-      "id": "lUpKymgNiq2g"
+      "id": "malpur",
+      "name": "Malpur"
     },
     {
-      "name": "Manali",
-      "id": "IAc8-oeA4vs0"
+      "id": "manali",
+      "name": "Manali"
     },
     {
-      "name": "Mancherial",
-      "id": "tgNnA-pnSq_T"
+      "id": "mancherial",
+      "name": "Mancherial"
     },
     {
-      "name": "Mandal",
-      "id": "HbOuKojZivxm"
+      "id": "mandal",
+      "name": "Mandal"
     },
     {
-      "name": "Mandapeta",
-      "id": "ojBnSgLwWcyr"
+      "id": "mandapeta",
+      "name": "Mandapeta"
     },
     {
-      "name": "Mandi",
-      "id": "bUb4gOEBFLTX"
+      "id": "mandi",
+      "name": "Mandi"
     },
     {
-      "name": "Mandla",
-      "id": "teqvYD4THI6r"
+      "id": "mandla",
+      "name": "Mandla"
     },
     {
-      "name": "Mandsaur",
-      "id": "9TYu9spOSW2l"
+      "id": "mandsaur",
+      "name": "Mandsaur"
     },
     {
-      "name": "Mandvi",
-      "id": "d1ydFEXERRTU"
+      "id": "mandvi",
+      "name": "Mandvi"
     },
     {
-      "name": "Mandya",
-      "id": "K8HjchHbXJov"
+      "id": "mandya",
+      "name": "Mandya"
     },
     {
-      "name": "Mangalagiri",
-      "id": "ducJbfoKYVbY"
+      "id": "mangalagiri",
+      "name": "Mangalagiri"
     },
     {
-      "name": "Mangalore",
-      "id": "tsLjoZYGRT1K"
+      "id": "mangalore",
+      "name": "Mangalore"
     },
     {
-      "name": "Mangaon",
-      "id": "BK2BzEO5tqkm"
+      "id": "mangaon",
+      "name": "Mangaon"
     },
     {
-      "name": "Manipala",
-      "id": "QGyrHmjFIrXe"
+      "id": "manipala",
+      "name": "Manipala"
     },
     {
-      "name": "Manipur",
-      "id": "gmusOSgGLLZr"
+      "id": "manipur",
+      "name": "Manipur"
     },
     {
-      "name": "Manjeri",
-      "id": "ILrUgpGmrpv_"
+      "id": "manjeri",
+      "name": "Manjeri"
     },
     {
-      "name": "Manna",
-      "id": "lqJNBZPnwVup"
+      "id": "manna",
+      "name": "Manna"
     },
     {
-      "name": "Mannargudi",
-      "id": "mPhYzzrxZpuK"
+      "id": "mannargudi",
+      "name": "Mannargudi"
     },
     {
-      "name": "Manor",
-      "id": "X7IDtWHWwFZN"
+      "id": "manor",
+      "name": "Manor"
     },
     {
-      "name": "Mansa",
-      "id": "9MV1eZ_0qtgL"
+      "id": "mansa",
+      "name": "Mansa"
     },
     {
-      "name": "Manu",
-      "id": "JG3_2vuXdCoB"
+      "id": "manu",
+      "name": "Manu"
     },
     {
-      "name": "Markal",
-      "id": "JKKLmlXiN05X"
+      "id": "markal",
+      "name": "Markal"
     },
     {
-      "name": "Markapur",
-      "id": "FYRcebz_paqJ"
+      "id": "markapur",
+      "name": "Markapur"
     },
     {
-      "name": "Marmagao",
-      "id": "LrpsK183RYCE"
+      "id": "marmagao",
+      "name": "Marmagao"
     },
     {
-      "name": "Maru",
-      "id": "vvleujMReX7f"
+      "id": "maru",
+      "name": "Maru"
     },
     {
-      "name": "Mashobra",
-      "id": "qXwbtzwGbWSz"
+      "id": "mashobra",
+      "name": "Mashobra"
     },
     {
-      "name": "Matar",
-      "id": "gtLgybKC26Yp"
+      "id": "matar",
+      "name": "Matar"
     },
     {
-      "name": "Mathan",
-      "id": "Hcelqm_3dB5s"
+      "id": "mathan",
+      "name": "Mathan"
     },
     {
-      "name": "Mathura",
-      "id": "Epbc8YI1aK6c"
+      "id": "mathura",
+      "name": "Mathura"
     },
     {
-      "name": "Mattanur",
-      "id": "yx-ezJ6fNfdl"
+      "id": "mattanur",
+      "name": "Mattanur"
     },
     {
-      "name": "Mavelikara",
-      "id": "EMoWty0oZVCS"
+      "id": "mavelikara",
+      "name": "Mavelikara"
     },
     {
-      "name": "Mawana",
-      "id": "5Ucw5KSiFPmg"
+      "id": "mawana",
+      "name": "Mawana"
     },
     {
-      "name": "Mayapur",
-      "id": "wqUI0pN7KhcE"
+      "id": "mayapur",
+      "name": "Mayapur"
     },
     {
-      "name": "Medak",
-      "id": "LqSTUnCgfPhA"
+      "id": "medak",
+      "name": "Medak"
     },
     {
-      "name": "Medarametla",
-      "id": "IIU2FXl6sVDb"
+      "id": "medarametla",
+      "name": "Medarametla"
     },
     {
-      "name": "Medchal",
-      "id": "HbQhgjzs7ebO"
+      "id": "medchal",
+      "name": "Medchal"
     },
     {
-      "name": "Medinipur",
-      "id": "cYBKfTqBnUwN"
+      "id": "medinipur",
+      "name": "Medinipur"
     },
     {
-      "name": "Meerut",
-      "id": "5ntIHNgDCL-x"
+      "id": "meerut",
+      "name": "Meerut"
     },
     {
-      "name": "Mehra",
-      "id": "GAw_WhhJv1T9"
+      "id": "mehra",
+      "name": "Mehra"
     },
     {
-      "name": "Mettur",
-      "id": "Ka_w87ej9LOt"
+      "id": "mettur",
+      "name": "Mettur"
     },
     {
-      "name": "Mhow",
-      "id": "hF-qBFFDROuF"
+      "id": "mhow",
+      "name": "Mhow"
     },
     {
-      "name": "Mill",
-      "id": "C0VbfREMYjr0"
+      "id": "mill",
+      "name": "Mill"
     },
     {
-      "name": "Miraj",
-      "id": "oNJ7w_rtfbIa"
+      "id": "miraj",
+      "name": "Miraj"
     },
     {
-      "name": "Mirza Murad",
-      "id": "IlC_sGVMWe5k"
+      "id": "mirza-murad",
+      "name": "Mirza Murad"
     },
     {
-      "name": "Mirzapur",
-      "id": "OV6j2ZU7xNwC"
+      "id": "mirzapur",
+      "name": "Mirzapur"
     },
     {
-      "name": "Mithapur",
-      "id": "Mj4IyXQia7BB"
+      "id": "mithapur",
+      "name": "Mithapur"
     },
     {
-      "name": "Modasa",
-      "id": "vdXyFReeTyyn"
+      "id": "modasa",
+      "name": "Modasa"
     },
     {
-      "name": "Moga",
-      "id": "ksE54IK6TbBR"
+      "id": "moga",
+      "name": "Moga"
     },
     {
-      "name": "Mohala",
-      "id": "M2l00ePFnK6B"
+      "id": "mohala",
+      "name": "Mohala"
     },
     {
-      "name": "Mohali",
-      "id": "lKvEZy6FtfNS"
+      "id": "mohali",
+      "name": "Mohali"
     },
     {
-      "name": "Mohan",
-      "id": "LV_kh0LoxOSU"
+      "id": "mohan",
+      "name": "Mohan"
     },
     {
-      "name": "Moradabad",
-      "id": "RmJSMILsqwNn"
+      "id": "moradabad",
+      "name": "Moradabad"
     },
     {
-      "name": "Morena",
-      "id": "rktByqOBertL"
+      "id": "morena",
+      "name": "Morena"
     },
     {
-      "name": "Morinda",
-      "id": "sPhHbW-wK7Lp"
+      "id": "morinda",
+      "name": "Morinda"
     },
     {
-      "name": "Morvi",
-      "id": "h92PdUi_dHRU"
+      "id": "morvi",
+      "name": "Morvi"
     },
     {
-      "name": "Motihari",
-      "id": "WUk9FAdPN8o-"
+      "id": "motihari",
+      "name": "Motihari"
     },
     {
-      "name": "Mount Abu",
-      "id": "tZ1dYtfdrChD"
+      "id": "mount-abu",
+      "name": "Mount Abu"
     },
     {
-      "name": "Muddanuru",
-      "id": "YGVyS-QDND6T"
+      "id": "muddanuru",
+      "name": "Muddanuru"
     },
     {
-      "name": "Mukerian",
-      "id": "l3vRUvdcMuHS"
+      "id": "mukerian",
+      "name": "Mukerian"
     },
     {
-      "name": "Muktsar",
-      "id": "VVtqzATptHpw"
+      "id": "muktsar",
+      "name": "Muktsar"
     },
     {
-      "name": "Multi",
-      "id": "LpRYiwMPaVbj"
+      "id": "multi",
+      "name": "Multi"
     },
     {
-      "name": "Mumbai",
-      "id": "EAa7pedIPPbL"
+      "id": "mumbai",
+      "name": "Mumbai"
     },
     {
-      "name": "Mundgod",
-      "id": "CPQUWZYTBrh3"
+      "id": "mundgod",
+      "name": "Mundgod"
     },
     {
-      "name": "Mundra",
-      "id": "pcLJ6d0Gdo5i"
+      "id": "mundra",
+      "name": "Mundra"
     },
     {
-      "name": "Munger",
-      "id": "8ycDLIqMNAyg"
+      "id": "munger",
+      "name": "Munger"
     },
     {
-      "name": "Murshidabad",
-      "id": "Bg1jPmnm4zXA"
+      "id": "murshidabad",
+      "name": "Murshidabad"
     },
     {
-      "name": "Mussoorie",
-      "id": "aoKZp3cnw6ql"
+      "id": "mussoorie",
+      "name": "Mussoorie"
     },
     {
-      "name": "Muzaffarnagar",
-      "id": "_E1lDi3I1AHv"
+      "id": "muzaffarnagar",
+      "name": "Muzaffarnagar"
     },
     {
-      "name": "Muzaffarpur",
-      "id": "e2iN-ELBk0pk"
+      "id": "muzaffarpur",
+      "name": "Muzaffarpur"
     },
     {
-      "name": "Mylapore",
-      "id": "BJkddal1wrP3"
+      "id": "mylapore",
+      "name": "Mylapore"
     },
     {
-      "name": "Mysore",
-      "id": "UXobf0MM7mCP"
+      "id": "mysore",
+      "name": "Mysore"
     },
     {
-      "name": "Nabadwip",
-      "id": "4lvRPv1kg0w2"
+      "id": "nabadwip",
+      "name": "Nabadwip"
     },
     {
-      "name": "Nabha",
-      "id": "WVRBYt6N5MNA"
+      "id": "nabha",
+      "name": "Nabha"
     },
     {
-      "name": "Nadgaon",
-      "id": "jsEEGYJYw03Q"
+      "id": "nadgaon",
+      "name": "Nadgaon"
     },
     {
-      "name": "Nadia",
-      "id": "iPS2wsliHFKY"
+      "id": "nadia",
+      "name": "Nadia"
     },
     {
-      "name": "Nadiad",
-      "id": "36XRKdrIyhBJ"
+      "id": "nadiad",
+      "name": "Nadiad"
     },
     {
-      "name": "Nagal",
-      "id": "HbYkNKcUum4d"
+      "id": "nagal",
+      "name": "Nagal"
     },
     {
-      "name": "Nagapattinam",
-      "id": "eeu88kM90oFK"
+      "id": "nagapattinam",
+      "name": "Nagapattinam"
     },
     {
-      "name": "Nagar",
-      "id": "WEnuRRPqAl-F"
+      "id": "nagar",
+      "name": "Nagar"
     },
     {
-      "name": "Nagara",
-      "id": "JOZfyZ36vFKD"
+      "id": "nagara",
+      "name": "Nagara"
     },
     {
-      "name": "Nagari",
-      "id": "nyKM7OsXPm63"
+      "id": "nagari",
+      "name": "Nagari"
     },
     {
-      "name": "Nagaur",
-      "id": "qHfr3z4UKWlk"
+      "id": "nagaur",
+      "name": "Nagaur"
     },
     {
-      "name": "Nagercoil",
-      "id": "dAZjkUPR8qdK"
+      "id": "nagercoil",
+      "name": "Nagercoil"
     },
     {
-      "name": "Nagpur",
-      "id": "v6NY6zjxS6H5"
+      "id": "nagpur",
+      "name": "Nagpur"
     },
     {
-      "name": "Nagwa",
-      "id": "NP9SZMjSADsm"
+      "id": "nagwa",
+      "name": "Nagwa"
     },
     {
-      "name": "Naini",
-      "id": "yhKLnhJgox8Y"
+      "id": "naini",
+      "name": "Naini"
     },
     {
-      "name": "Nalagarh",
-      "id": "f6yBhogw9WJD"
+      "id": "nalagarh",
+      "name": "Nalagarh"
     },
     {
-      "name": "Nalbari",
-      "id": "q6isHdPKFU6B"
+      "id": "nalbari",
+      "name": "Nalbari"
     },
     {
-      "name": "Nalgonda",
-      "id": "FAYs8XBGjY4f"
+      "id": "nalgonda",
+      "name": "Nalgonda"
     },
     {
-      "name": "Namakkal",
-      "id": "KOkVKbM5NlYu"
+      "id": "namakkal",
+      "name": "Namakkal"
     },
     {
-      "name": "Namrup",
-      "id": "nM2BfSJegBBR"
+      "id": "namrup",
+      "name": "Namrup"
     },
     {
-      "name": "Nanda",
-      "id": "TJEXvtCt_XLu"
+      "id": "nanda",
+      "name": "Nanda"
     },
     {
-      "name": "Nanded",
-      "id": "x7oX4mFOw_uU"
+      "id": "nanded",
+      "name": "Nanded"
     },
     {
-      "name": "Nandi",
-      "id": "dy1p3qprpfQw"
+      "id": "nandi",
+      "name": "Nandi"
     },
     {
-      "name": "Nandigama",
-      "id": "cp99AKnsLAIY"
+      "id": "nandigama",
+      "name": "Nandigama"
     },
     {
-      "name": "Nandurbar",
-      "id": "HO5RQft62DWC"
+      "id": "nandurbar",
+      "name": "Nandurbar"
     },
     {
-      "name": "Nandyal",
-      "id": "YuFIoXzIb4ih"
+      "id": "nandyal",
+      "name": "Nandyal"
     },
     {
-      "name": "Naraina",
-      "id": "S9ZAi5orNtN9"
+      "id": "naraina",
+      "name": "Naraina"
     },
     {
-      "name": "Narasaraopet",
-      "id": "R7u4Os9YrNR3"
+      "id": "narasaraopet",
+      "name": "Narasaraopet"
     },
     {
-      "name": "Narayangaon",
-      "id": "lul8W54EooTL"
+      "id": "narayangaon",
+      "name": "Narayangaon"
     },
     {
-      "name": "Narela",
-      "id": "1qlbMdq3EwiQ"
+      "id": "narela",
+      "name": "Narela"
     },
     {
-      "name": "Narnaul",
-      "id": "36VBtfrbrajm"
+      "id": "narnaul",
+      "name": "Narnaul"
     },
     {
-      "name": "Narsapur",
-      "id": "IH5pYyHJUrOH"
+      "id": "narsapur",
+      "name": "Narsapur"
     },
     {
-      "name": "Nashik",
-      "id": "ElYfEBsFSjiX"
+      "id": "nashik",
+      "name": "Nashik"
     },
     {
-      "name": "Nathdwara",
-      "id": "0HLnslOGJTnJ"
+      "id": "nathdwara",
+      "name": "Nathdwara"
     },
     {
-      "name": "Navelim",
-      "id": "cY1y-XNRrwU4"
+      "id": "navelim",
+      "name": "Navelim"
     },
     {
-      "name": "Navsari",
-      "id": "v6rU2dO-Slkd"
+      "id": "navsari",
+      "name": "Navsari"
     },
     {
-      "name": "Nayagarh",
-      "id": "8SLNSRNTKoet"
+      "id": "nayagarh",
+      "name": "Nayagarh"
     },
     {
-      "name": "Nazira",
-      "id": "7yPvoU7v1Zsr"
+      "id": "nazira",
+      "name": "Nazira"
     },
     {
-      "name": "Nehra",
-      "id": "Q03kx7h20ac0"
+      "id": "nehra",
+      "name": "Nehra"
     },
     {
-      "name": "Nellore",
-      "id": "HNXZbPBDR9mA"
+      "id": "nellore",
+      "name": "Nellore"
     },
     {
-      "name": "Neral",
-      "id": "u03Dofc1veh6"
+      "id": "neral",
+      "name": "Neral"
     },
     {
-      "name": "Neri",
-      "id": "D3OBDLVY1bQD"
+      "id": "neri",
+      "name": "Neri"
     },
     {
-      "name": "New Delhi",
-      "id": "LDXKuHjsSlQ2"
+      "id": "new-delhi",
+      "name": "New Delhi"
     },
     {
-      "name": "Neyveli",
-      "id": "ds21SECETdFa"
+      "id": "neyveli",
+      "name": "Neyveli"
     },
     {
-      "name": "Nila",
-      "id": "11751_eJHsti"
+      "id": "nila",
+      "name": "Nila"
     },
     {
-      "name": "Nilambur",
-      "id": "HYjgCUimsI-m"
+      "id": "nilambur",
+      "name": "Nilambur"
     },
     {
-      "name": "Nilokheri",
-      "id": "q0-OOqhBsDoX"
+      "id": "nilokheri",
+      "name": "Nilokheri"
     },
     {
-      "name": "Nizamabad",
-      "id": "LHaem1QrZlVK"
+      "id": "nizamabad",
+      "name": "Nizamabad"
     },
     {
-      "name": "Noida",
-      "id": "1mizHdMw3ZgV"
+      "id": "noida",
+      "name": "Noida"
     },
     {
-      "name": "Nongpoh",
-      "id": "0fmhQjC3wpMN"
+      "id": "nongpoh",
+      "name": "Nongpoh"
     },
     {
-      "name": "Nongstoin",
-      "id": "LUrLHIeECPlI"
+      "id": "nongstoin",
+      "name": "Nongstoin"
     },
     {
-      "name": "North Lakhimpur",
-      "id": "0rkYpHJzJ2kp"
+      "id": "north-lakhimpur",
+      "name": "North Lakhimpur"
     },
     {
-      "name": "Nurpur",
-      "id": "moSDxkgm9FNk"
+      "id": "nurpur",
+      "name": "Nurpur"
     },
     {
-      "name": "Nuzvid",
-      "id": "KPe5rO1nGg3p"
+      "id": "nuzvid",
+      "name": "Nuzvid"
     },
     {
-      "name": "Odhan",
-      "id": "veojkLLBu9g8"
+      "id": "odhan",
+      "name": "Odhan"
     },
     {
-      "name": "Omalur",
-      "id": "U1YR_LMm22Mt"
+      "id": "omalur",
+      "name": "Omalur"
     },
     {
-      "name": "Ongole",
-      "id": "FaOgW7gNqZ0a"
+      "id": "ongole",
+      "name": "Ongole"
     },
     {
-      "name": "Ooty",
-      "id": "UJMK9lySVrvs"
+      "id": "ooty",
+      "name": "Ooty"
     },
     {
-      "name": "Orai",
-      "id": "vV3QWTGWg5pa"
+      "id": "orai",
+      "name": "Orai"
     },
     {
-      "name": "Osmanabad",
-      "id": "P1G9CH3S5w7a"
+      "id": "osmanabad",
+      "name": "Osmanabad"
     },
     {
-      "name": "Ottappalam",
-      "id": "7ahTAC7ggQm0"
+      "id": "ottappalam",
+      "name": "Ottappalam"
     },
     {
-      "name": "Pachmarhi",
-      "id": "SqqaON3AdArq"
+      "id": "pachmarhi",
+      "name": "Pachmarhi"
     },
     {
-      "name": "Padrauna",
-      "id": "jPNKk0uu4nMQ"
+      "id": "padrauna",
+      "name": "Padrauna"
     },
     {
-      "name": "Pahalgam",
-      "id": "7gYV7b7fLxlx"
+      "id": "pahalgam",
+      "name": "Pahalgam"
     },
     {
-      "name": "Pakala",
-      "id": "IxikXMChFLaM"
+      "id": "pakala",
+      "name": "Pakala"
     },
     {
-      "name": "Pala",
-      "id": "jgxA1fVHJXSh"
+      "id": "pala",
+      "name": "Pala"
     },
     {
-      "name": "Palakkad",
-      "id": "0LFnSeZsruCL"
+      "id": "palakkad",
+      "name": "Palakkad"
     },
     {
-      "name": "Palampur",
-      "id": "ONtXBeHcnXIi"
+      "id": "palampur",
+      "name": "Palampur"
     },
     {
-      "name": "Palani",
-      "id": "pj5VUFKosq3j"
+      "id": "palani",
+      "name": "Palani"
     },
     {
-      "name": "Palayam",
-      "id": "wXW8Z7L8bcsR"
+      "id": "palayam",
+      "name": "Palayam"
     },
     {
-      "name": "Palghar",
-      "id": "kT7Zd_GkFyDI"
+      "id": "palghar",
+      "name": "Palghar"
     },
     {
-      "name": "Pali",
-      "id": "NqJJMrtU17Sq"
+      "id": "pali",
+      "name": "Pali"
     },
     {
-      "name": "Palladam",
-      "id": "wsgsTAQqiNiq"
+      "id": "palladam",
+      "name": "Palladam"
     },
     {
-      "name": "Paloncha",
-      "id": "EWqdCASGgPzU"
+      "id": "paloncha",
+      "name": "Paloncha"
     },
     {
-      "name": "Palus",
-      "id": "__1wRjV-_uZf"
+      "id": "palus",
+      "name": "Palus"
     },
     {
-      "name": "Palwal",
-      "id": "cDWszeXRhmn-"
+      "id": "palwal",
+      "name": "Palwal"
     },
     {
-      "name": "Panchal",
-      "id": "qyS-B8JDF7qi"
+      "id": "panchal",
+      "name": "Panchal"
     },
     {
-      "name": "Panchgani",
-      "id": "8JahQ4Sd4kNk"
+      "id": "panchgani",
+      "name": "Panchgani"
     },
     {
-      "name": "Pandharpur",
-      "id": "zQYP-fDcP0HS"
+      "id": "pandharpur",
+      "name": "Pandharpur"
     },
     {
-      "name": "Panipat",
-      "id": "FLWWRhUwITHq"
+      "id": "panipat",
+      "name": "Panipat"
     },
     {
-      "name": "Panjim",
-      "id": "QfigiXagl3TN"
+      "id": "panjim",
+      "name": "Panjim"
     },
     {
-      "name": "Panruti",
-      "id": "1nE2Uk3d_7Sr"
+      "id": "panruti",
+      "name": "Panruti"
     },
     {
-      "name": "Pantnagar",
-      "id": "3j-dbQ6LYaal"
+      "id": "pantnagar",
+      "name": "Pantnagar"
     },
     {
-      "name": "Panvel",
-      "id": "lqn-HR5Iv7Wx"
+      "id": "panvel",
+      "name": "Panvel"
     },
     {
-      "name": "Paonta Sahib",
-      "id": "8LqP_5flFuXJ"
+      "id": "paonta-sahib",
+      "name": "Paonta Sahib"
     },
     {
-      "name": "Parappanangadi",
-      "id": "gGdWRzFubYuI"
+      "id": "parappanangadi",
+      "name": "Parappanangadi"
     },
     {
-      "name": "Paravur",
-      "id": "8PIDEsdlEMiN"
+      "id": "paravur",
+      "name": "Paravur"
     },
     {
-      "name": "Parbhani",
-      "id": "c_5B1ZjHIB2P"
+      "id": "parbhani",
+      "name": "Parbhani"
     },
     {
-      "name": "Parel",
-      "id": "3s_U2kITxBkG"
+      "id": "parel",
+      "name": "Parel"
     },
     {
-      "name": "Parra",
-      "id": "eRiTWNj1IrZt"
+      "id": "parra",
+      "name": "Parra"
     },
     {
-      "name": "Patan",
-      "id": "7r01ScPfsfqt"
+      "id": "patan",
+      "name": "Patan"
     },
     {
-      "name": "Patancheru",
-      "id": "l9hEgdTe1qGJ"
+      "id": "patancheru",
+      "name": "Patancheru"
     },
     {
-      "name": "Patel",
-      "id": "ch0RxkGbgqMz"
+      "id": "patel",
+      "name": "Patel"
     },
     {
-      "name": "Patelguda",
-      "id": "9BAYEIYhE_xA"
+      "id": "patelguda",
+      "name": "Patelguda"
     },
     {
-      "name": "Pathanamthitta",
-      "id": "6rZ0z_WpF6ov"
+      "id": "pathanamthitta",
+      "name": "Pathanamthitta"
     },
     {
-      "name": "Pathankot",
-      "id": "TwCTSDTJmxiU"
+      "id": "pathankot",
+      "name": "Pathankot"
     },
     {
-      "name": "Patiala",
-      "id": "OJSPX_umgWy3"
+      "id": "patiala",
+      "name": "Patiala"
     },
     {
-      "name": "Patna",
-      "id": "XQTHULFcggxE"
+      "id": "patna",
+      "name": "Patna"
     },
     {
-      "name": "Pattambi",
-      "id": "jsjaYKwaYiOR"
+      "id": "pattambi",
+      "name": "Pattambi"
     },
     {
-      "name": "Pattukkottai",
-      "id": "l04AQtqcHOTo"
+      "id": "pattukkottai",
+      "name": "Pattukkottai"
     },
     {
-      "name": "Pauri",
-      "id": "2_gidjLwuF_h"
+      "id": "pauri",
+      "name": "Pauri"
     },
     {
-      "name": "Payyanur",
-      "id": "S_A0BUc9x76B"
+      "id": "payyanur",
+      "name": "Payyanur"
     },
     {
-      "name": "Peddapuram",
-      "id": "nTAkt2oTo7vE"
+      "id": "peddapuram",
+      "name": "Peddapuram"
     },
     {
-      "name": "Pehowa",
-      "id": "otioTbWYkmxK"
+      "id": "pehowa",
+      "name": "Pehowa"
     },
     {
-      "name": "Perambalur",
-      "id": "FJMjp0DuTfKb"
+      "id": "perambalur",
+      "name": "Perambalur"
     },
     {
-      "name": "Peranampattu",
-      "id": "oztcrZowmAox"
+      "id": "peranampattu",
+      "name": "Peranampattu"
     },
     {
-      "name": "Perundurai",
-      "id": "1JY-Wn4PcEgu"
+      "id": "perundurai",
+      "name": "Perundurai"
     },
     {
-      "name": "Petlad",
-      "id": "ILh475fJtPXt"
+      "id": "petlad",
+      "name": "Petlad"
     },
     {
-      "name": "Phagwara",
-      "id": "7auzm-1bfCXr"
+      "id": "phagwara",
+      "name": "Phagwara"
     },
     {
-      "name": "Phaphamau",
-      "id": "eAcac6SQlVcE"
+      "id": "phaphamau",
+      "name": "Phaphamau"
     },
     {
-      "name": "Piduguralla",
-      "id": "lsN2RwrwWyYO"
+      "id": "piduguralla",
+      "name": "Piduguralla"
     },
     {
-      "name": "Pilani",
-      "id": "7Unu1QGn7ibb"
+      "id": "pilani",
+      "name": "Pilani"
     },
     {
-      "name": "Pileru",
-      "id": "lf2G_ZEbHmZO"
+      "id": "pileru",
+      "name": "Pileru"
     },
     {
-      "name": "Pilkhuwa",
-      "id": "V8-cdW1izewD"
+      "id": "pilkhuwa",
+      "name": "Pilkhuwa"
     },
     {
-      "name": "Pimpri",
-      "id": "TN8iJE7PiEsp"
+      "id": "pimpri",
+      "name": "Pimpri"
     },
     {
-      "name": "Pitampura",
-      "id": "pTfEv_rbPta8"
+      "id": "pitampura",
+      "name": "Pitampura"
     },
     {
-      "name": "Pithapuram",
-      "id": "oo0usnqXPMXx"
+      "id": "pithapuram",
+      "name": "Pithapuram"
     },
     {
-      "name": "Pithoragarh",
-      "id": "7XZBock0Jran"
+      "id": "pithoragarh",
+      "name": "Pithoragarh"
     },
     {
-      "name": "Pochampalli",
-      "id": "q2PGweAmjjOp"
+      "id": "pochampalli",
+      "name": "Pochampalli"
     },
     {
-      "name": "Pollachi",
-      "id": "xqHSRScnQhA9"
+      "id": "pollachi",
+      "name": "Pollachi"
     },
     {
-      "name": "Ponda",
-      "id": "O8mI2Rk6_p6B"
+      "id": "ponda",
+      "name": "Ponda"
     },
     {
-      "name": "Ponnani",
-      "id": "aIfSrfgf3_Gc"
+      "id": "ponnani",
+      "name": "Ponnani"
     },
     {
-      "name": "Ponneri",
-      "id": "jO0EQk9z3CkT"
+      "id": "ponneri",
+      "name": "Ponneri"
     },
     {
-      "name": "Porbandar",
-      "id": "m6veIFtOIrim"
+      "id": "porbandar",
+      "name": "Porbandar"
     },
     {
-      "name": "Port Blair",
-      "id": "fPP8-3OzLM0r"
+      "id": "port-blair",
+      "name": "Port Blair"
     },
     {
-      "name": "Potti",
-      "id": "Pmr4Uk5i4yTB"
+      "id": "potti",
+      "name": "Potti"
     },
     {
-      "name": "Powai",
-      "id": "z1Hh07N8MuiC"
+      "id": "powai",
+      "name": "Powai"
     },
     {
-      "name": "Proddatur",
-      "id": "rpSRlGAbVLvZ"
+      "id": "proddatur",
+      "name": "Proddatur"
     },
     {
-      "name": "Puducherry",
-      "id": "gt7bAR7fnIS_"
+      "id": "puducherry",
+      "name": "Puducherry"
     },
     {
-      "name": "Pudukkottai",
-      "id": "qVnu3wJN3gn8"
+      "id": "pudukkottai",
+      "name": "Pudukkottai"
     },
     {
-      "name": "Puliyur",
-      "id": "usEAM9kOzeJW"
+      "id": "puliyur",
+      "name": "Puliyur"
     },
     {
-      "name": "Punalur",
-      "id": "4I4YNS2JOC5H"
+      "id": "punalur",
+      "name": "Punalur"
     },
     {
-      "name": "Pune",
-      "id": "Ljzv8SqaL39X"
+      "id": "pune",
+      "name": "Pune"
     },
     {
-      "name": "Puras",
-      "id": "UjoGh7yifGqq"
+      "id": "puras",
+      "name": "Puras"
     },
     {
-      "name": "Puri",
-      "id": "BQ0CpKeXiR5U"
+      "id": "puri",
+      "name": "Puri"
     },
     {
-      "name": "Purnea",
-      "id": "xGGhfdB6ZYWu"
+      "id": "purnea",
+      "name": "Purnea"
     },
     {
-      "name": "Puruliya",
-      "id": "ScDr-5WNsCsz"
+      "id": "puruliya",
+      "name": "Puruliya"
     },
     {
-      "name": "Pusa",
-      "id": "fgmZmtD2Jtn0"
+      "id": "pusa",
+      "name": "Pusa"
     },
     {
-      "name": "Pushkar",
-      "id": "SV7VVozYsvnP"
+      "id": "pushkar",
+      "name": "Pushkar"
     },
     {
-      "name": "Puttur",
-      "id": "DVHH1v4WKcqo"
+      "id": "puttur",
+      "name": "Puttur"
     },
     {
-      "name": "Quepem",
-      "id": "AtdV-S93LPkV"
+      "id": "quepem",
+      "name": "Quepem"
     },
     {
-      "name": "Raichur",
-      "id": "6M9egJsIRYpZ"
+      "id": "raichur",
+      "name": "Raichur"
     },
     {
-      "name": "Raigarh",
-      "id": "3f1BWYFlR4Ib"
+      "id": "raigarh",
+      "name": "Raigarh"
     },
     {
-      "name": "Raipur",
-      "id": "MD64i5cHtOqj"
+      "id": "raipur",
+      "name": "Raipur"
     },
     {
-      "name": "Rajahmundry",
-      "id": "P2f34p78cjk7"
+      "id": "rajahmundry",
+      "name": "Rajahmundry"
     },
     {
-      "name": "Rajapalaiyam",
-      "id": "ZAl_S6qtu8e8"
+      "id": "rajapalaiyam",
+      "name": "Rajapalaiyam"
     },
     {
-      "name": "Rajapur",
-      "id": "zirTztC8kF9e"
+      "id": "rajapur",
+      "name": "Rajapur"
     },
     {
-      "name": "Rajkot",
-      "id": "ngCd-PPw311r"
+      "id": "rajkot",
+      "name": "Rajkot"
     },
     {
-      "name": "Rajpur",
-      "id": "LZXEmm-543r6"
+      "id": "rajpur",
+      "name": "Rajpur"
     },
     {
-      "name": "Rajpura",
-      "id": "tZo_-jI6enI7"
+      "id": "rajpura",
+      "name": "Rajpura"
     },
     {
-      "name": "Raju",
-      "id": "r3aA7J7arbNE"
+      "id": "raju",
+      "name": "Raju"
     },
     {
-      "name": "Rama",
-      "id": "LlPLxT00pZvh"
+      "id": "rama",
+      "name": "Rama"
     },
     {
-      "name": "Ramanagaram",
-      "id": "zbwDSbjmmXx6"
+      "id": "ramanagaram",
+      "name": "Ramanagaram"
     },
     {
-      "name": "Ramanathapuram",
-      "id": "yyK3C2eGxlxw"
+      "id": "ramanathapuram",
+      "name": "Ramanathapuram"
     },
     {
-      "name": "Ramapuram",
-      "id": "arxu590GIUac"
+      "id": "ramapuram",
+      "name": "Ramapuram"
     },
     {
-      "name": "Ramavaram",
-      "id": "TOvF59Bwhzdt"
+      "id": "ramavaram",
+      "name": "Ramavaram"
     },
     {
-      "name": "Ramgarh",
-      "id": "USX3VL92cjFy"
+      "id": "ramgarh",
+      "name": "Ramgarh"
     },
     {
-      "name": "Ramnagar",
-      "id": "mzEpp7MbWUmp"
+      "id": "ramnagar",
+      "name": "Ramnagar"
     },
     {
-      "name": "Rampur",
-      "id": "Lgcf9t96ON2r"
+      "id": "rampur",
+      "name": "Rampur"
     },
     {
-      "name": "Rana",
-      "id": "sCXodfIeKrvh"
+      "id": "rana",
+      "name": "Rana"
     },
     {
-      "name": "Ranaghat",
-      "id": "2mYQEo5oarYe"
+      "id": "ranaghat",
+      "name": "Ranaghat"
     },
     {
-      "name": "Ranchi",
-      "id": "CskSbgf55OcF"
+      "id": "ranchi",
+      "name": "Ranchi"
     },
     {
-      "name": "Rander",
-      "id": "SIfz4QRejSz2"
+      "id": "rander",
+      "name": "Rander"
     },
     {
-      "name": "Raniganj",
-      "id": "pDFNrrVy77vG"
+      "id": "raniganj",
+      "name": "Raniganj"
     },
     {
-      "name": "Ranippettai",
-      "id": "IGXwekEk6wPn"
+      "id": "ranippettai",
+      "name": "Ranippettai"
     },
     {
-      "name": "Ranjan",
-      "id": "eSC-_SnpOE1H"
+      "id": "ranjan",
+      "name": "Ranjan"
     },
     {
-      "name": "Ratlam",
-      "id": "hH9FEeLlUOls"
+      "id": "ratlam",
+      "name": "Ratlam"
     },
     {
-      "name": "Ratnagiri",
-      "id": "1rIlT7Vrt9xj"
+      "id": "ratnagiri",
+      "name": "Ratnagiri"
     },
     {
-      "name": "Raurkela",
-      "id": "v19R00__9hzt"
+      "id": "raurkela",
+      "name": "Raurkela"
     },
     {
-      "name": "Rawal",
-      "id": "2jwwL90QO-Ke"
+      "id": "rawal",
+      "name": "Rawal"
     },
     {
-      "name": "Raxaul",
-      "id": "FGHH6rdCPEBC"
+      "id": "raxaul",
+      "name": "Raxaul"
     },
     {
-      "name": "Rayagada",
-      "id": "exl2zezGzyye"
+      "id": "rayagada",
+      "name": "Rayagada"
     },
     {
-      "name": "Rewa",
-      "id": "bQPDgzKLk-pD"
+      "id": "rewa",
+      "name": "Rewa"
     },
     {
-      "name": "Rewari",
-      "id": "WpZuktpDGxUG"
+      "id": "rewari",
+      "name": "Rewari"
     },
     {
-      "name": "Ring",
-      "id": "8IpGydjgQT9S"
+      "id": "ring",
+      "name": "Ring"
     },
     {
-      "name": "Rishikesh",
-      "id": "OxjezPXFyvkA"
+      "id": "rishikesh",
+      "name": "Rishikesh"
     },
     {
-      "name": "Rohtak",
-      "id": "qupCZxFGouAR"
+      "id": "rohtak",
+      "name": "Rohtak"
     },
     {
-      "name": "Roorkee",
-      "id": "9QfOFJbs-lmO"
+      "id": "roorkee",
+      "name": "Roorkee"
     },
     {
-      "name": "Roshan",
-      "id": "DyTpSOOF6QpN"
+      "id": "roshan",
+      "name": "Roshan"
     },
     {
-      "name": "Rudrapur",
-      "id": "W2EkfT-w3oFa"
+      "id": "rudrapur",
+      "name": "Rudrapur"
     },
     {
-      "name": "Rupnagar",
-      "id": "hGkPSUpClZ-C"
+      "id": "rupnagar",
+      "name": "Rupnagar"
     },
     {
-      "name": "Rupnarayanpur",
-      "id": "xCUA-G2zUYHh"
+      "id": "rupnarayanpur",
+      "name": "Rupnarayanpur"
     },
     {
-      "name": "Sachin",
-      "id": "X1TvUw1PrTag"
+      "id": "sachin",
+      "name": "Sachin"
     },
     {
-      "name": "Sagar",
-      "id": "wL9xS0OGYIEf"
+      "id": "sagar",
+      "name": "Sagar"
     },
     {
-      "name": "Saha",
-      "id": "FCqdOJ7cqAxz"
+      "id": "saha",
+      "name": "Saha"
     },
     {
-      "name": "Saharanpur",
-      "id": "Efljewjz7HwI"
+      "id": "saharanpur",
+      "name": "Saharanpur"
     },
     {
-      "name": "Sahibabad",
-      "id": "p0x2G-mNVVQx"
+      "id": "sahibabad",
+      "name": "Sahibabad"
     },
     {
-      "name": "Sakri",
-      "id": "2hOb7OfSQLEO"
+      "id": "sakri",
+      "name": "Sakri"
     },
     {
-      "name": "Salem",
-      "id": "QCJoY8-YmVpa"
+      "id": "salem",
+      "name": "Salem"
     },
     {
-      "name": "Saligao",
-      "id": "PwyKf_p4sVxC"
+      "id": "saligao",
+      "name": "Saligao"
     },
     {
-      "name": "Salt Lake City",
-      "id": "wF0LSkp_Pn-m"
+      "id": "salt-lake-city",
+      "name": "Salt Lake City"
     },
     {
-      "name": "Samastipur",
-      "id": "BVcjze6f2CGx"
+      "id": "samastipur",
+      "name": "Samastipur"
     },
     {
-      "name": "Sambalpur",
-      "id": "bQw_1ejrZfQs"
+      "id": "sambalpur",
+      "name": "Sambalpur"
     },
     {
-      "name": "Sanand",
-      "id": "1ioKitoNyxpg"
+      "id": "sanand",
+      "name": "Sanand"
     },
     {
-      "name": "Sandur",
-      "id": "ulFn2SWEFSCJ"
+      "id": "sandur",
+      "name": "Sandur"
     },
     {
-      "name": "Sangam",
-      "id": "Z9RUvFcVQ4KQ"
+      "id": "sangam",
+      "name": "Sangam"
     },
     {
-      "name": "Sangamner",
-      "id": "Tg214lJmFL1f"
+      "id": "sangamner",
+      "name": "Sangamner"
     },
     {
-      "name": "Sangli",
-      "id": "3_XZMUCJOSW_"
+      "id": "sangli",
+      "name": "Sangli"
     },
     {
-      "name": "Sangola",
-      "id": "PWdgUUFRrJ86"
+      "id": "sangola",
+      "name": "Sangola"
     },
     {
-      "name": "Sangrur",
-      "id": "z22UjRIcS8Zv"
+      "id": "sangrur",
+      "name": "Sangrur"
     },
     {
-      "name": "Sanquelim",
-      "id": "ct28YBFXu8qp"
+      "id": "sanquelim",
+      "name": "Sanquelim"
     },
     {
-      "name": "Saranga",
-      "id": "fCgVndpaHlNe"
+      "id": "saranga",
+      "name": "Saranga"
     },
     {
-      "name": "Sarangi",
-      "id": "NDFBLu-5SR40"
+      "id": "sarangi",
+      "name": "Sarangi"
     },
     {
-      "name": "Sarwar",
-      "id": "aWIbDg0HFBBP"
+      "id": "sarwar",
+      "name": "Sarwar"
     },
     {
-      "name": "Satara",
-      "id": "IpVHLYnLTw0O"
+      "id": "satara",
+      "name": "Satara"
     },
     {
-      "name": "Satna",
-      "id": "l3f61cWC_WrP"
+      "id": "satna",
+      "name": "Satna"
     },
     {
-      "name": "Sattur",
-      "id": "W91i9R8sn4d7"
+      "id": "sattur",
+      "name": "Sattur"
     },
     {
-      "name": "Sawi",
-      "id": "XX4lvJthU4CK"
+      "id": "sawi",
+      "name": "Sawi"
     },
     {
-      "name": "Secunderabad",
-      "id": "RYfqaaIBzC6Y"
+      "id": "secunderabad",
+      "name": "Secunderabad"
     },
     {
-      "name": "Sehore",
-      "id": "_ODOpfOFRiz7"
+      "id": "sehore",
+      "name": "Sehore"
     },
     {
-      "name": "Sendhwa",
-      "id": "oAgLLwhBRvmO"
+      "id": "sendhwa",
+      "name": "Sendhwa"
     },
     {
-      "name": "Serampore",
-      "id": "CkGA3D4FcU59"
+      "id": "serampore",
+      "name": "Serampore"
     },
     {
-      "name": "Shadnagar",
-      "id": "mY6k9w3qb1HY"
+      "id": "shadnagar",
+      "name": "Shadnagar"
     },
     {
-      "name": "Shahabad",
-      "id": "NOiNvFlf1E6x"
+      "id": "shahabad",
+      "name": "Shahabad"
     },
     {
-      "name": "Shahapur",
-      "id": "xr4j66FM7RBw"
+      "id": "shahapur",
+      "name": "Shahapur"
     },
     {
-      "name": "Shahdara",
-      "id": "TBWQsDBWVdA1"
+      "id": "shahdara",
+      "name": "Shahdara"
     },
     {
-      "name": "Shahdol",
-      "id": "adfOoRfKOFe-"
+      "id": "shahdol",
+      "name": "Shahdol"
     },
     {
-      "name": "Shahjahanpur",
-      "id": "duyqM5sLElD9"
+      "id": "shahjahanpur",
+      "name": "Shahjahanpur"
     },
     {
-      "name": "Shahkot",
-      "id": "-hMrOiPWFAGJ"
+      "id": "shahkot",
+      "name": "Shahkot"
     },
     {
-      "name": "Shamsabad",
-      "id": "Ydr59HznAS_4"
+      "id": "shamsabad",
+      "name": "Shamsabad"
     },
     {
-      "name": "Shanti Grama",
-      "id": "CLlcA1Yrl5v5"
+      "id": "shanti-grama",
+      "name": "Shanti Grama"
     },
     {
-      "name": "Shillong",
-      "id": "DurbbOaksKt7"
+      "id": "shillong",
+      "name": "Shillong"
     },
     {
-      "name": "Shimla",
-      "id": "sCziXWItohXJ"
+      "id": "shimla",
+      "name": "Shimla"
     },
     {
-      "name": "Shimoga",
-      "id": "2W-ArdLaEUrM"
+      "id": "shimoga",
+      "name": "Shimoga"
     },
     {
-      "name": "Shirgaon",
-      "id": "wDWLE2aGHaK8"
+      "id": "shirgaon",
+      "name": "Shirgaon"
     },
     {
-      "name": "Shiv",
-      "id": "Y7KvDJW-GnAS"
+      "id": "shiv",
+      "name": "Shiv"
     },
     {
-      "name": "Sholavandan",
-      "id": "sWBN-OuuGsFo"
+      "id": "sholavandan",
+      "name": "Sholavandan"
     },
     {
-      "name": "Shoranur",
-      "id": "40mVUhis-lY1"
+      "id": "shoranur",
+      "name": "Shoranur"
     },
     {
-      "name": "Shrigonda",
-      "id": "bHBefV0NPqXr"
+      "id": "shrigonda",
+      "name": "Shrigonda"
     },
     {
-      "name": "Shyamnagar",
-      "id": "TsElrHLLvAPm"
+      "id": "shyamnagar",
+      "name": "Shyamnagar"
     },
     {
-      "name": "Sibsagar",
-      "id": "t8Akb-mTiFTB"
+      "id": "sibsagar",
+      "name": "Sibsagar"
     },
     {
-      "name": "Sidhi",
-      "id": "6TjBXNfq0q6I"
+      "id": "sidhi",
+      "name": "Sidhi"
     },
     {
-      "name": "Sidhpur",
-      "id": "yE4n6ps2XG8E"
+      "id": "sidhpur",
+      "name": "Sidhpur"
     },
     {
-      "name": "Sikar",
-      "id": "VHIkPJ9x-EOA"
+      "id": "sikar",
+      "name": "Sikar"
     },
     {
-      "name": "Sikka",
-      "id": "mwNoUNpnSPXH"
+      "id": "sikka",
+      "name": "Sikka"
     },
     {
-      "name": "Silchar",
-      "id": "X9YQ_U9Nyje_"
+      "id": "silchar",
+      "name": "Silchar"
     },
     {
-      "name": "Siliguri",
-      "id": "Pw2GiPVm-5mr"
+      "id": "siliguri",
+      "name": "Siliguri"
     },
     {
-      "name": "Silvassa",
-      "id": "Y70PoLj4vOXV"
+      "id": "silvassa",
+      "name": "Silvassa"
     },
     {
-      "name": "Singarayakonda",
-      "id": "BjIiYZjyzWDM"
+      "id": "singarayakonda",
+      "name": "Singarayakonda"
     },
     {
-      "name": "Singtam",
-      "id": "SCy3K6paa-kC"
+      "id": "singtam",
+      "name": "Singtam"
     },
     {
-      "name": "Sinnar",
-      "id": "tZbrXDBO2gOS"
+      "id": "sinnar",
+      "name": "Sinnar"
     },
     {
-      "name": "Sion",
-      "id": "0F65HQjUl0j_"
+      "id": "sion",
+      "name": "Sion"
     },
     {
-      "name": "Sirhind",
-      "id": "sL8-0CBFEloR"
+      "id": "sirhind",
+      "name": "Sirhind"
     },
     {
-      "name": "Sirkazhi",
-      "id": "EGllxAQ_e01-"
+      "id": "sirkazhi",
+      "name": "Sirkazhi"
     },
     {
-      "name": "Sirohi",
-      "id": "YM_BkxWEfBfX"
+      "id": "sirohi",
+      "name": "Sirohi"
     },
     {
-      "name": "Sirsa",
-      "id": "rKkkvoMS1xol"
+      "id": "sirsa",
+      "name": "Sirsa"
     },
     {
-      "name": "Sirsi",
-      "id": "OCexX93g2lv-"
+      "id": "sirsi",
+      "name": "Sirsi"
     },
     {
-      "name": "Siruguppa",
-      "id": "6Dbzupl9coPk"
+      "id": "siruguppa",
+      "name": "Siruguppa"
     },
     {
-      "name": "Siruseri",
-      "id": "ui7J1pg38UZ_"
+      "id": "siruseri",
+      "name": "Siruseri"
     },
     {
-      "name": "Sirwani",
-      "id": "dRdDjYBQ_4u6"
+      "id": "sirwani",
+      "name": "Sirwani"
     },
     {
-      "name": "Sitapur",
-      "id": "5wUHrymO0Pg8"
+      "id": "sitapur",
+      "name": "Sitapur"
     },
     {
-      "name": "Siuri",
-      "id": "DeoRKYkduuzx"
+      "id": "siuri",
+      "name": "Siuri"
     },
     {
-      "name": "Sivaganga",
-      "id": "4cE_MrIEFP0d"
+      "id": "sivaganga",
+      "name": "Sivaganga"
     },
     {
-      "name": "Sivakasi",
-      "id": "3Qlq9ZkFARPM"
+      "id": "sivakasi",
+      "name": "Sivakasi"
     },
     {
-      "name": "Sodhi",
-      "id": "FVcEf830r67a"
+      "id": "sodhi",
+      "name": "Sodhi"
     },
     {
-      "name": "Sojat",
-      "id": "FMl7XTf9bfbH"
+      "id": "sojat",
+      "name": "Sojat"
     },
     {
-      "name": "Solan",
-      "id": "WgESh99PaiCe"
+      "id": "solan",
+      "name": "Solan"
     },
     {
-      "name": "Solapur",
-      "id": "Ou6J2F7OkrTh"
+      "id": "solapur",
+      "name": "Solapur"
     },
     {
-      "name": "Solim",
-      "id": "ztYlxFDovLn3"
+      "id": "solim",
+      "name": "Solim"
     },
     {
-      "name": "Somnath",
-      "id": "RF0k6I8m2aE1"
+      "id": "somnath",
+      "name": "Somnath"
     },
     {
-      "name": "Soni",
-      "id": "s7F8vp_zkl2e"
+      "id": "soni",
+      "name": "Soni"
     },
     {
-      "name": "Sonipat",
-      "id": "6Hbi1424E4BR"
+      "id": "sonipat",
+      "name": "Sonipat"
     },
     {
-      "name": "Sopara",
-      "id": "3Gn4tnrCPhTQ"
+      "id": "sopara",
+      "name": "Sopara"
     },
     {
-      "name": "Srikakulam",
-      "id": "ebJdV8xkGHto"
+      "id": "srikakulam",
+      "name": "Srikakulam"
     },
     {
-      "name": "Srikalahasti",
-      "id": "J0ppVaoG58gC"
+      "id": "srikalahasti",
+      "name": "Srikalahasti"
     },
     {
-      "name": "Srinagar",
-      "id": "sFbEG2rMbA-l"
+      "id": "srinagar",
+      "name": "Srinagar"
     },
     {
-      "name": "Sriperumbudur",
-      "id": "o6U_DMwW7yMq"
+      "id": "sriperumbudur",
+      "name": "Sriperumbudur"
     },
     {
-      "name": "Srirangam",
-      "id": "J6V3k0zbfHOf"
+      "id": "srirangam",
+      "name": "Srirangam"
     },
     {
-      "name": "Srivilliputhur",
-      "id": "JffTtmbLgGzh"
+      "id": "srivilliputhur",
+      "name": "Srivilliputhur"
     },
     {
-      "name": "Sukma",
-      "id": "FoabpRBAMuku"
+      "id": "sukma",
+      "name": "Sukma"
     },
     {
-      "name": "Sultan",
-      "id": "hGs5jR_WblHo"
+      "id": "sultan",
+      "name": "Sultan"
     },
     {
-      "name": "Sultanpur",
-      "id": "GqxXouIsDtPy"
+      "id": "sultanpur",
+      "name": "Sultanpur"
     },
     {
-      "name": "Sultans Battery",
-      "id": "FWk1F7Mc0OVw"
+      "id": "sultans-battery",
+      "name": "Sultans Battery"
     },
     {
-      "name": "Suman",
-      "id": "a_JO80VrysfG"
+      "id": "suman",
+      "name": "Suman"
     },
     {
-      "name": "Sunam",
-      "id": "cmY1nCDAtHAo"
+      "id": "sunam",
+      "name": "Sunam"
     },
     {
-      "name": "Sundargarh",
-      "id": "Zra6Ny1EOMmY"
+      "id": "sundargarh",
+      "name": "Sundargarh"
     },
     {
-      "name": "Surana",
-      "id": "kirQ3aOyNBq5"
+      "id": "surana",
+      "name": "Surana"
     },
     {
-      "name": "Suratgarh",
-      "id": "e8du-QryBa8K"
+      "id": "suratgarh",
+      "name": "Suratgarh"
     },
     {
-      "name": "Surendranagar",
-      "id": "Jj4eHSCJMc5T"
+      "id": "surendranagar",
+      "name": "Surendranagar"
     },
     {
-      "name": "Suriapet",
-      "id": "t8r_WcECCZGo"
+      "id": "suriapet",
+      "name": "Suriapet"
     },
     {
-      "name": "Tadepallegudem",
-      "id": "4XcDR9NyVOXN"
+      "id": "tadepallegudem",
+      "name": "Tadepallegudem"
     },
     {
-      "name": "Tala",
-      "id": "eURVevRlt7FA"
+      "id": "tala",
+      "name": "Tala"
     },
     {
-      "name": "Talcher",
-      "id": "fSrH56XJgweS"
+      "id": "talcher",
+      "name": "Talcher"
     },
     {
-      "name": "Talegaon Dabhade",
-      "id": "SDfX3HVkPtNV"
+      "id": "talegaon-dabhade",
+      "name": "Talegaon Dabhade"
     },
     {
-      "name": "Talwandi Sabo",
-      "id": "nfQ4w78RHncI"
+      "id": "talwandi-sabo",
+      "name": "Talwandi Sabo"
     },
     {
-      "name": "Tambaram",
-      "id": "IL5hD7zxQbtd"
+      "id": "tambaram",
+      "name": "Tambaram"
     },
     {
-      "name": "Tanda",
-      "id": "4n1oFV-dGDCr"
+      "id": "tanda",
+      "name": "Tanda"
     },
     {
-      "name": "Tanuku",
-      "id": "5EIRVL9nOhST"
+      "id": "tanuku",
+      "name": "Tanuku"
     },
     {
-      "name": "Tarn Taran",
-      "id": "Hfa8y9Zjcdn0"
+      "id": "tarn-taran",
+      "name": "Tarn Taran"
     },
     {
-      "name": "Teri",
-      "id": "0iIKvK-kj9Dl"
+      "id": "teri",
+      "name": "Teri"
     },
     {
-      "name": "Tezpur",
-      "id": "DaiU6_azP3CG"
+      "id": "tezpur",
+      "name": "Tezpur"
     },
     {
-      "name": "Thalassery",
-      "id": "HT8vSoT7kDjK"
+      "id": "thalassery",
+      "name": "Thalassery"
     },
     {
-      "name": "Thane",
-      "id": "7HwHo_neCqsP"
+      "id": "thane",
+      "name": "Thane"
     },
     {
-      "name": "Thanjavur",
-      "id": "SdaWpDg8-pwT"
+      "id": "thanjavur",
+      "name": "Thanjavur"
     },
     {
-      "name": "Thasra",
-      "id": "yawtoG8VIk2Y"
+      "id": "thasra",
+      "name": "Thasra"
     },
     {
-      "name": "Thenali",
-      "id": "yl3rg1YMBF0r"
+      "id": "thenali",
+      "name": "Thenali"
     },
     {
-      "name": "Thenkasi",
-      "id": "3vsFMfLz170S"
+      "id": "thenkasi",
+      "name": "Thenkasi"
     },
     {
-      "name": "Thirumangalam",
-      "id": "dAG6S8Zs8g1r"
+      "id": "thirumangalam",
+      "name": "Thirumangalam"
     },
     {
-      "name": "Thiruthani",
-      "id": "H_8QYKSBNQFg"
+      "id": "thiruthani",
+      "name": "Thiruthani"
     },
     {
-      "name": "Thiruvananthapuram",
-      "id": "mnKXQgb3qj-F"
+      "id": "thiruvananthapuram",
+      "name": "Thiruvananthapuram"
     },
     {
-      "name": "Thiruvarur",
-      "id": "haYvQcYvH3W6"
+      "id": "thiruvarur",
+      "name": "Thiruvarur"
     },
     {
-      "name": "Thoothukudi",
-      "id": "wCs-L3sPkjHn"
+      "id": "thoothukudi",
+      "name": "Thoothukudi"
     },
     {
-      "name": "Thrissur",
-      "id": "bcj5cQGWxUQi"
+      "id": "thrissur",
+      "name": "Thrissur"
     },
     {
-      "name": "Tikamgarh",
-      "id": "nYx2wJMhoFoR"
+      "id": "tikamgarh",
+      "name": "Tikamgarh"
     },
     {
-      "name": "Tindivanam",
-      "id": "CJVUsUj4DsYd"
+      "id": "tindivanam",
+      "name": "Tindivanam"
     },
     {
-      "name": "Tinsukia",
-      "id": "D5ROZ7WX7WGM"
+      "id": "tinsukia",
+      "name": "Tinsukia"
     },
     {
-      "name": "Tiptur",
-      "id": "ETyd09osp_Sa"
+      "id": "tiptur",
+      "name": "Tiptur"
     },
     {
-      "name": "Tiruchchendur",
-      "id": "7oAmhk8DIphp"
+      "id": "tiruchchendur",
+      "name": "Tiruchchendur"
     },
     {
-      "name": "Tiruchi",
-      "id": "wsd29rLXh_Oz"
+      "id": "tiruchi",
+      "name": "Tiruchi"
     },
     {
-      "name": "Tirumala",
-      "id": "uWR27FUcSyfE"
+      "id": "tirumala",
+      "name": "Tirumala"
     },
     {
-      "name": "Tirumala - Tirupati",
-      "id": "CwiAdycQpxHH"
+      "id": "tirumala-tirupati",
+      "name": "Tirumala - Tirupati"
     },
     {
-      "name": "Tirunelveli",
-      "id": "ebf-l9aF-vhb"
+      "id": "tirunelveli",
+      "name": "Tirunelveli"
     },
     {
-      "name": "Tiruppur",
-      "id": "lVFPL1D9PyZu"
+      "id": "tiruppur",
+      "name": "Tiruppur"
     },
     {
-      "name": "Tirur",
-      "id": "l9RhX-IH_m2k"
+      "id": "tirur",
+      "name": "Tirur"
     },
     {
-      "name": "Tiruvalla",
-      "id": "hmsXDXSHt31G"
+      "id": "tiruvalla",
+      "name": "Tiruvalla"
     },
     {
-      "name": "Tiruvallur",
-      "id": "Z1fbeuBZMtyQ"
+      "id": "tiruvallur",
+      "name": "Tiruvallur"
     },
     {
-      "name": "Tiruvannamalai",
-      "id": "1m9ITdVCBePQ"
+      "id": "tiruvannamalai",
+      "name": "Tiruvannamalai"
     },
     {
-      "name": "Tohana",
-      "id": "JMRRbtbhl2DR"
+      "id": "tohana",
+      "name": "Tohana"
     },
     {
-      "name": "Tonk",
-      "id": "fyMtkClE0kC4"
+      "id": "tonk",
+      "name": "Tonk"
     },
     {
-      "name": "Trimbak",
-      "id": "ZyvNrlk_yQSi"
+      "id": "trimbak",
+      "name": "Trimbak"
     },
     {
-      "name": "Tuljapur",
-      "id": "zVBntJ8o-JHP"
+      "id": "tuljapur",
+      "name": "Tuljapur"
     },
     {
-      "name": "Turaiyur",
-      "id": "yRdLCEBLcfbe"
+      "id": "turaiyur",
+      "name": "Turaiyur"
     },
     {
-      "name": "Udaigiri",
-      "id": "SGOJ_U1cO5jD"
+      "id": "udaigiri",
+      "name": "Udaigiri"
     },
     {
-      "name": "Udaipur",
-      "id": "CyE5PsX6yqFw"
+      "id": "udaipur",
+      "name": "Udaipur"
     },
     {
-      "name": "Udupi",
-      "id": "kKasq4Hvyel0"
+      "id": "udupi",
+      "name": "Udupi"
     },
     {
-      "name": "Ujjain",
-      "id": "NcpA2MiAaetv"
+      "id": "ujjain",
+      "name": "Ujjain"
     },
     {
-      "name": "Ulhasnagar",
-      "id": "1D9fIS8hegfu"
+      "id": "ulhasnagar",
+      "name": "Ulhasnagar"
     },
     {
-      "name": "Ulubari",
-      "id": "wHYENQUmA6Rl"
+      "id": "ulubari",
+      "name": "Ulubari"
     },
     {
-      "name": "Umred",
-      "id": "q8lwzcT_f4Kg"
+      "id": "umred",
+      "name": "Umred"
     },
     {
-      "name": "Unnao",
-      "id": "UTkINGrsTQg1"
+      "id": "unnao",
+      "name": "Unnao"
     },
     {
-      "name": "Uppal",
-      "id": "ajY5RozAkHrb"
+      "id": "uppal",
+      "name": "Uppal"
     },
     {
-      "name": "Uttarkashi",
-      "id": "3DbGwL9rh1OI"
+      "id": "uttarkashi",
+      "name": "Uttarkashi"
     },
     {
-      "name": "Vadamadurai",
-      "id": "yDsPFrCQZLcF"
+      "id": "vadamadurai",
+      "name": "Vadamadurai"
     },
     {
-      "name": "Vadner",
-      "id": "Mqnk5VumlWW1"
+      "id": "vadner",
+      "name": "Vadner"
     },
     {
-      "name": "Vadodara",
-      "id": "x-XAfiCcVH9U"
+      "id": "vadodara",
+      "name": "Vadodara"
     },
     {
-      "name": "Vaikam",
-      "id": "FjuYjlGpEZnI"
+      "id": "vaikam",
+      "name": "Vaikam"
     },
     {
-      "name": "Vainguinim",
-      "id": "DDgakAIqw_re"
+      "id": "vainguinim",
+      "name": "Vainguinim"
     },
     {
-      "name": "Valsad",
-      "id": "bdWN3hbduI1n"
+      "id": "valsad",
+      "name": "Valsad"
     },
     {
-      "name": "Vandalur",
-      "id": "cZm4xAz30oje"
+      "id": "vandalur",
+      "name": "Vandalur"
     },
     {
-      "name": "Vandavasi",
-      "id": "ivTwvPJtaSrC"
+      "id": "vandavasi",
+      "name": "Vandavasi"
     },
     {
-      "name": "Vaniyambadi",
-      "id": "FvECRY0lALB5"
+      "id": "vaniyambadi",
+      "name": "Vaniyambadi"
     },
     {
-      "name": "Vapi",
-      "id": "0-vkdSYV8GnE"
+      "id": "vapi",
+      "name": "Vapi"
     },
     {
-      "name": "Varanasi",
-      "id": "4JZBJ44L0v68"
+      "id": "varanasi",
+      "name": "Varanasi"
     },
     {
-      "name": "Vasai",
-      "id": "QlfExCT545gP"
+      "id": "vasai",
+      "name": "Vasai"
     },
     {
-      "name": "Vasco",
-      "id": "lZfpF2PmuPQv"
+      "id": "vasco",
+      "name": "Vasco"
     },
     {
-      "name": "Vashi",
-      "id": "LJeLdzWRLEVq"
+      "id": "vashi",
+      "name": "Vashi"
     },
     {
-      "name": "Vazhakulam",
-      "id": "2xJzl_UQTXMh"
+      "id": "vazhakulam",
+      "name": "Vazhakulam"
     },
     {
-      "name": "Vellore",
-      "id": "C3TwayO4QEzh"
+      "id": "vellore",
+      "name": "Vellore"
     },
     {
-      "name": "Verna",
-      "id": "dbN-eZ2jxpFH"
+      "id": "verna",
+      "name": "Verna"
     },
     {
-      "name": "Vidisha",
-      "id": "4XNfUfWM3KEA"
+      "id": "vidisha",
+      "name": "Vidisha"
     },
     {
-      "name": "Vijapur",
-      "id": "D-OXXEqyam5i"
+      "id": "vijapur",
+      "name": "Vijapur"
     },
     {
-      "name": "Vijayawada",
-      "id": "ZMvto4LQwj3Q"
+      "id": "vijayawada",
+      "name": "Vijayawada"
     },
     {
-      "name": "Vikarabad",
-      "id": "I1L8HkJSwFyx"
+      "id": "vikarabad",
+      "name": "Vikarabad"
     },
     {
-      "name": "Vikasnagar",
-      "id": "_bbaOkTqCuCS"
+      "id": "vikasnagar",
+      "name": "Vikasnagar"
     },
     {
-      "name": "Villupuram",
-      "id": "jh9KoEOLjAPj"
+      "id": "villupuram",
+      "name": "Villupuram"
     },
     {
-      "name": "Vinukonda",
-      "id": "A8OKbY27zP3e"
+      "id": "vinukonda",
+      "name": "Vinukonda"
     },
     {
-      "name": "Virar",
-      "id": "OAFyRFEwqPUd"
+      "id": "virar",
+      "name": "Virar"
     },
     {
-      "name": "Visakhapatnam",
-      "id": "mj-wayjBwtp0"
+      "id": "visakhapatnam",
+      "name": "Visakhapatnam"
     },
     {
-      "name": "Visnagar",
-      "id": "b8zqRLv9-6sy"
+      "id": "visnagar",
+      "name": "Visnagar"
     },
     {
-      "name": "Vizianagaram",
-      "id": "HqXQ9NIKTOFI"
+      "id": "vizianagaram",
+      "name": "Vizianagaram"
     },
     {
-      "name": "Wai",
-      "id": "7g2G45JHY4aT"
+      "id": "wai",
+      "name": "Wai"
     },
     {
-      "name": "Warangal",
-      "id": "IlAufQDlY_9a"
+      "id": "warangal",
+      "name": "Warangal"
     },
     {
-      "name": "Wardha",
-      "id": "ygRMnfBypns9"
+      "id": "wardha",
+      "name": "Wardha"
     },
     {
-      "name": "Wellington",
-      "id": "qMzmbo7W87pK"
+      "id": "wellington",
+      "name": "Wellington"
     },
     {
-      "name": "Yadgir",
-      "id": "6wN4Nv38s7rl"
+      "id": "yadgir",
+      "name": "Yadgir"
     },
     {
-      "name": "Yamunanagar",
-      "id": "fWN8tQ0eppTD"
+      "id": "yamunanagar",
+      "name": "Yamunanagar"
     },
     {
-      "name": "Yanam",
-      "id": "_34kC96qVFUq"
+      "id": "yanam",
+      "name": "Yanam"
     },
     {
-      "name": "Yavatmal",
-      "id": "aDo3Kd9gVHaY"
+      "id": "yavatmal",
+      "name": "Yavatmal"
     },
     {
-      "name": "Yeola",
-      "id": "vgqTteAYU3fD"
+      "id": "yeola",
+      "name": "Yeola"
     },
     {
-      "name": "Yercaud",
-      "id": "4BCq2B2wiO7s"
+      "id": "yercaud",
+      "name": "Yercaud"
     }
   ]
 }

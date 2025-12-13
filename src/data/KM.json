@@ -2,44 +2,44 @@
   "coid": "KM",
   "cities": [
     {
-      "name": "Moroni",
-      "id": "ua_6nnjYQ6f3"
+      "id": "moroni",
+      "name": "Moroni"
     },
     {
-      "name": "Mutsamudu",
-      "id": "oBXRGVHQdf7A"
+      "id": "mutsamudu",
+      "name": "Mutsamudu"
     },
     {
-      "name": "Fomboni",
-      "id": "wg62bWEKoJ_M"
+      "id": "fomboni",
+      "name": "Fomboni"
     },
     {
-      "name": "Domoni",
-      "id": "T8vQTVsSoT3L"
+      "id": "domoni",
+      "name": "Domoni"
     },
     {
-      "name": "Sima",
-      "id": "0rMlnaMiPwVL"
+      "id": "sima",
+      "name": "Sima"
     },
     {
-      "name": "Ouani",
-      "id": "WdWoUNSecceU"
+      "id": "ouani",
+      "name": "Ouani"
     },
     {
-      "name": "Koni-Djodjo",
-      "id": "ZRjB6yy7UXAf"
+      "id": "koni-djodjo",
+      "name": "Koni-Djodjo"
     },
     {
-      "name": "Mirontsi",
-      "id": "j5enzmhNL9gi"
+      "id": "mirontsi",
+      "name": "Mirontsi"
     },
     {
-      "name": "Itsandra",
-      "id": "qOSBHNe9rOYa"
+      "id": "itsandra",
+      "name": "Itsandra"
     },
     {
-      "name": "Mbeni",
-      "id": "zZs-34-PjTzW"
+      "id": "mbeni",
+      "name": "Mbeni"
     }
   ]
 }

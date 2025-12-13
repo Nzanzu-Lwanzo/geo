@@ -2,60 +2,60 @@
   "coid": "LI",
   "cities": [
     {
-      "name": "Balzers",
-      "id": "fvRNWrG0wes3"
+      "id": "balzers",
+      "name": "Balzers"
     },
     {
-      "name": "Bendern",
-      "id": "frbmnR-RvjOu"
+      "id": "bendern",
+      "name": "Bendern"
     },
     {
-      "name": "Eschen",
-      "id": "IGqI2jkY3ti5"
+      "id": "eschen",
+      "name": "Eschen"
     },
     {
-      "name": "Gamprin",
-      "id": "811uLp1lmWlW"
+      "id": "gamprin",
+      "name": "Gamprin"
     },
     {
-      "name": "Mauren",
-      "id": "PTeMr-VLhZI1"
+      "id": "mauren",
+      "name": "Mauren"
     },
     {
-      "name": "Nendeln",
-      "id": "6T8oNHITIwRh"
+      "id": "nendeln",
+      "name": "Nendeln"
     },
     {
-      "name": "Planken",
-      "id": "uHF9ujgJQWs1"
+      "id": "planken",
+      "name": "Planken"
     },
     {
-      "name": "Ruggell",
-      "id": "UyKZaVeZS0DQ"
+      "id": "ruggell",
+      "name": "Ruggell"
     },
     {
-      "name": "Schaan",
-      "id": "cn02QnFeCV5F"
+      "id": "schaan",
+      "name": "Schaan"
     },
     {
-      "name": "Schaanwald",
-      "id": "fSv-DE0pxeVg"
+      "id": "schaanwald",
+      "name": "Schaanwald"
     },
     {
-      "name": "Schellenberg",
-      "id": "gF7Aqr2jcB3R"
+      "id": "schellenberg",
+      "name": "Schellenberg"
     },
     {
-      "name": "Triesen",
-      "id": "RBlGMowzFXYW"
+      "id": "triesen",
+      "name": "Triesen"
     },
     {
-      "name": "Triesenberg",
-      "id": "EwV086Z2hC3C"
+      "id": "triesenberg",
+      "name": "Triesenberg"
     },
     {
-      "name": "Vaduz",
-      "id": "ZTQaVDyMx92J"
+      "id": "vaduz",
+      "name": "Vaduz"
     }
   ]
 }

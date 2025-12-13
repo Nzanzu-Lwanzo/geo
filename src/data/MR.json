@@ -2,44 +2,44 @@
   "coid": "MR",
   "cities": [
     {
-      "name": "Nouakchott",
-      "id": "sJdS-ifqp0Zv"
+      "id": "nouakchott",
+      "name": "Nouakchott"
     },
     {
-      "name": "Nouadhibou",
-      "id": "phJ4E4ZBlC-u"
+      "id": "nouadhibou",
+      "name": "Nouadhibou"
     },
     {
-      "name": "Rosso",
-      "id": "8pgtYR6lxmhk"
+      "id": "rosso",
+      "name": "Rosso"
     },
     {
-      "name": "Kaédi",
-      "id": "oaGuhCF-FVro"
+      "id": "kaedi",
+      "name": "Kaédi"
     },
     {
-      "name": "Zouerate",
-      "id": "YKdRz6ChB5Ub"
+      "id": "zouerate",
+      "name": "Zouerate"
     },
     {
-      "name": "Kiffa",
-      "id": "f82is2Uszy-a"
+      "id": "kiffa",
+      "name": "Kiffa"
     },
     {
-      "name": "Aleg",
-      "id": "lC0GrStPSjcJ"
+      "id": "aleg",
+      "name": "Aleg"
     },
     {
-      "name": "Atar",
-      "id": "DceRWK66eCLj"
+      "id": "atar",
+      "name": "Atar"
     },
     {
-      "name": "Tidjikja",
-      "id": "XvY14wCPAYT-"
+      "id": "tidjikja",
+      "name": "Tidjikja"
     },
     {
-      "name": "Sélibaby",
-      "id": "W84rYpD_Rp1h"
+      "id": "selibaby",
+      "name": "Sélibaby"
     }
   ]
 }

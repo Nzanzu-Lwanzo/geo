@@ -2,884 +2,884 @@
   "coid": "BG",
   "cities": [
     {
-      "name": "Akhtopol",
-      "id": "IKHHMRblMJ45"
+      "id": "akhtopol",
+      "name": "Akhtopol"
     },
     {
-      "name": "Aksakovo",
-      "id": "tvNMb0t1BLqs"
+      "id": "aksakovo",
+      "name": "Aksakovo"
     },
     {
-      "name": "Aleksandriya",
-      "id": "fy8VFuTWxkC4"
+      "id": "aleksandriya",
+      "name": "Aleksandriya"
     },
     {
-      "name": "Alfatar",
-      "id": "aZbVC7oaKh7v"
+      "id": "alfatar",
+      "name": "Alfatar"
     },
     {
-      "name": "Anton",
-      "id": "Y5KmTkCmxWpf"
+      "id": "anton",
+      "name": "Anton"
     },
     {
-      "name": "Antonovo",
-      "id": "az1e1rjiFx3b"
+      "id": "antonovo",
+      "name": "Antonovo"
     },
     {
-      "name": "Ardino",
-      "id": "zdxxPsKkns48"
+      "id": "ardino",
+      "name": "Ardino"
     },
     {
-      "name": "Asenovgrad",
-      "id": "G0Kz5rS-mfOY"
+      "id": "asenovgrad",
+      "name": "Asenovgrad"
     },
     {
-      "name": "Aytos",
-      "id": "18cMSTbNuI09"
+      "id": "aytos",
+      "name": "Aytos"
     },
     {
-      "name": "Babovo",
-      "id": "r2tREB8-523A"
+      "id": "babovo",
+      "name": "Babovo"
     },
     {
-      "name": "Baltchik",
-      "id": "QTgUrp_1L_oB"
+      "id": "baltchik",
+      "name": "Baltchik"
     },
     {
-      "name": "Banite",
-      "id": "JDHKBJqiAdZ3"
+      "id": "banite",
+      "name": "Banite"
     },
     {
-      "name": "Bankya",
-      "id": "WLqcuLHR-NOD"
+      "id": "bankya",
+      "name": "Bankya"
     },
     {
-      "name": "Bansko",
-      "id": "oTv2b05eERBs"
+      "id": "bansko",
+      "name": "Bansko"
     },
     {
-      "name": "Barutin",
-      "id": "yCX7CX2PmzPg"
+      "id": "barutin",
+      "name": "Barutin"
     },
     {
-      "name": "Batak",
-      "id": "Sz0D1tJF7op0"
+      "id": "batak",
+      "name": "Batak"
     },
     {
-      "name": "Belene",
-      "id": "hB0Ti23MLEeQ"
+      "id": "belene",
+      "name": "Belene"
     },
     {
-      "name": "Belogradchik",
-      "id": "ZJYe2kwqI90X"
+      "id": "belogradchik",
+      "name": "Belogradchik"
     },
     {
-      "name": "Beloslav",
-      "id": "UdM6h9B_DWOX"
+      "id": "beloslav",
+      "name": "Beloslav"
     },
     {
-      "name": "Belovo",
-      "id": "j5kowSphHbLS"
+      "id": "belovo",
+      "name": "Belovo"
     },
     {
-      "name": "Berkovitsa",
-      "id": "LH-l49N8x3iq"
+      "id": "berkovitsa",
+      "name": "Berkovitsa"
     },
     {
-      "name": "Bistritsa",
-      "id": "Tu5Gjx8_2S_y"
+      "id": "bistritsa",
+      "name": "Bistritsa"
     },
     {
-      "name": "Blagoevgrad",
-      "id": "CcnMzetYcV_q"
+      "id": "blagoevgrad",
+      "name": "Blagoevgrad"
     },
     {
-      "name": "Boboshevo",
-      "id": "854oIcfVXLVK"
+      "id": "boboshevo",
+      "name": "Boboshevo"
     },
     {
-      "name": "Bobovdol",
-      "id": "mDL3lU75wazf"
+      "id": "bobovdol",
+      "name": "Bobovdol"
     },
     {
-      "name": "Borovan",
-      "id": "j-fEUWq9Mzwg"
+      "id": "borovan",
+      "name": "Borovan"
     },
     {
-      "name": "Borovo",
-      "id": "ReFEb62zAACG"
+      "id": "borovo",
+      "name": "Borovo"
     },
     {
-      "name": "Botevgrad",
-      "id": "lL_YT9jGoO48"
+      "id": "botevgrad",
+      "name": "Botevgrad"
     },
     {
-      "name": "Bratsigovo",
-      "id": "29Ew5azSRYeU"
+      "id": "bratsigovo",
+      "name": "Bratsigovo"
     },
     {
-      "name": "Bregare",
-      "id": "iI2piuerGVjT"
+      "id": "bregare",
+      "name": "Bregare"
     },
     {
-      "name": "Bukovo",
-      "id": "DEoaD2a50ywW"
+      "id": "bukovo",
+      "name": "Bukovo"
     },
     {
-      "name": "Burgas",
-      "id": "QcOEZfInilhi"
+      "id": "burgas",
+      "name": "Burgas"
     },
     {
-      "name": "Byala",
-      "id": "vKqeRTFf7_Rq"
+      "id": "byala",
+      "name": "Byala"
     },
     {
-      "name": "Byala Slatina",
-      "id": "NXIfn5aO0iUb"
+      "id": "byala-slatina",
+      "name": "Byala Slatina"
     },
     {
-      "name": "Chakalarovo",
-      "id": "OKxWamlG1Ipi"
+      "id": "chakalarovo",
+      "name": "Chakalarovo"
     },
     {
-      "name": "Chernolik",
-      "id": "y0O2o8PtTU0i"
+      "id": "chernolik",
+      "name": "Chernolik"
     },
     {
-      "name": "Chernomorets",
-      "id": "JMWQYqW5DcXG"
+      "id": "chernomorets",
+      "name": "Chernomorets"
     },
     {
-      "name": "Cherven",
-      "id": "XP9-PsPpBra5"
+      "id": "cherven",
+      "name": "Cherven"
     },
     {
-      "name": "Cherven Bryag",
-      "id": "pps9R2Hp8uO0"
+      "id": "cherven-bryag",
+      "name": "Cherven Bryag"
     },
     {
-      "name": "Chiprovtsi",
-      "id": "vVVSj9dIhE2v"
+      "id": "chiprovtsi",
+      "name": "Chiprovtsi"
     },
     {
-      "name": "Chirpan",
-      "id": "28Lmj930tx0S"
+      "id": "chirpan",
+      "name": "Chirpan"
     },
     {
-      "name": "Choba",
-      "id": "fmJinvM5p7h6"
+      "id": "choba",
+      "name": "Choba"
     },
     {
-      "name": "Debelets",
-      "id": "ufqnEVT_tuD1"
+      "id": "debelets",
+      "name": "Debelets"
     },
     {
-      "name": "Devin",
-      "id": "zaoVCok0UqE0"
+      "id": "devin",
+      "name": "Devin"
     },
     {
-      "name": "Dimitrovgrad",
-      "id": "fUJWPtjj_nNZ"
+      "id": "dimitrovgrad",
+      "name": "Dimitrovgrad"
     },
     {
-      "name": "Dobrich",
-      "id": "AiZtQDly81bq"
+      "id": "dobrich",
+      "name": "Dobrich"
     },
     {
-      "name": "Dolna Banya",
-      "id": "OKwzzN9HZSI2"
+      "id": "dolna-banya",
+      "name": "Dolna Banya"
     },
     {
-      "name": "Dolna Mitropoliya",
-      "id": "vcRSHcIauykF"
+      "id": "dolna-mitropoliya",
+      "name": "Dolna Mitropoliya"
     },
     {
-      "name": "Dolna Oryakhovitsa",
-      "id": "IAMhJ2AN9lG7"
+      "id": "dolna-oryakhovitsa",
+      "name": "Dolna Oryakhovitsa"
     },
     {
-      "name": "Dospat",
-      "id": "RHAh2mmAH4MU"
+      "id": "dospat",
+      "name": "Dospat"
     },
     {
-      "name": "Dragash Voyvoda",
-      "id": "v0GGjV-W5S9j"
+      "id": "dragash-voyvoda",
+      "name": "Dragash Voyvoda"
     },
     {
-      "name": "Draginovo",
-      "id": "1wkbzv_a1ygh"
+      "id": "draginovo",
+      "name": "Draginovo"
     },
     {
-      "name": "Dragizhevo",
-      "id": "VFWmWfBO3HFv"
+      "id": "dragizhevo",
+      "name": "Dragizhevo"
     },
     {
-      "name": "Dryanovo",
-      "id": "1MYlssFgOKWd"
+      "id": "dryanovo",
+      "name": "Dryanovo"
     },
     {
-      "name": "Dulgopol",
-      "id": "uRFOo3ENTA8D"
+      "id": "dulgopol",
+      "name": "Dulgopol"
     },
     {
-      "name": "Dulovo",
-      "id": "xPRbvisUvJp9"
+      "id": "dulovo",
+      "name": "Dulovo"
     },
     {
-      "name": "Dupnitsa",
-      "id": "KnwLOS2OOcbO"
+      "id": "dupnitsa",
+      "name": "Dupnitsa"
     },
     {
-      "name": "Elena",
-      "id": "KYPrgar_BxPw"
+      "id": "elena",
+      "name": "Elena"
     },
     {
-      "name": "Elin Pelin",
-      "id": "hV6bykaqGfix"
+      "id": "elin-pelin",
+      "name": "Elin Pelin"
     },
     {
-      "name": "Elkhovo",
-      "id": "2q9VjM_pET_Z"
+      "id": "elkhovo",
+      "name": "Elkhovo"
     },
     {
-      "name": "Etropole",
-      "id": "WKh3oPJooHOe"
+      "id": "etropole",
+      "name": "Etropole"
     },
     {
-      "name": "Gabrovo",
-      "id": "ZfLNHboKeVzk"
+      "id": "gabrovo",
+      "name": "Gabrovo"
     },
     {
-      "name": "Ganchovo",
-      "id": "ILS6xHaR0-Yn"
+      "id": "ganchovo",
+      "name": "Ganchovo"
     },
     {
-      "name": "General-Toshevo",
-      "id": "AX7PN402JCAs"
+      "id": "general-toshevo",
+      "name": "General-Toshevo"
     },
     {
-      "name": "Glogovo",
-      "id": "unGNigthBvb7"
+      "id": "glogovo",
+      "name": "Glogovo"
     },
     {
-      "name": "Godech",
-      "id": "llxkGwd-oFmQ"
+      "id": "godech",
+      "name": "Godech"
     },
     {
-      "name": "Gorna Oryakhovitsa",
-      "id": "twRGc4wMBUnn"
+      "id": "gorna-oryakhovitsa",
+      "name": "Gorna Oryakhovitsa"
     },
     {
-      "name": "Gotse Delchev",
-      "id": "o6myE2IDg0s8"
+      "id": "gotse-delchev",
+      "name": "Gotse Delchev"
     },
     {
-      "name": "Gulubovo",
-      "id": "aFF8VgV-bU4t"
+      "id": "gulubovo",
+      "name": "Gulubovo"
     },
     {
-      "name": "Gurkovo",
-      "id": "5cmxv7xSqovy"
+      "id": "gurkovo",
+      "name": "Gurkovo"
     },
     {
-      "name": "Gurmazovo",
-      "id": "AdmjImoR2QcS"
+      "id": "gurmazovo",
+      "name": "Gurmazovo"
     },
     {
-      "name": "Haskovo",
-      "id": "2MmlTvObe6Cn"
+      "id": "haskovo",
+      "name": "Haskovo"
     },
     {
-      "name": "Ikhtiman",
-      "id": "XIKfzogIWKFi"
+      "id": "ikhtiman",
+      "name": "Ikhtiman"
     },
     {
-      "name": "Iskrets",
-      "id": "nV0mFT5vfUsd"
+      "id": "iskrets",
+      "name": "Iskrets"
     },
     {
-      "name": "Isperikh",
-      "id": "0xNoObHnoBhD"
+      "id": "isperikh",
+      "name": "Isperikh"
     },
     {
-      "name": "Isperikhovo",
-      "id": "NTH0VA7AgF5d"
+      "id": "isperikhovo",
+      "name": "Isperikhovo"
     },
     {
-      "name": "Ivaylovgrad",
-      "id": "tkgQLE6aDX8j"
+      "id": "ivaylovgrad",
+      "name": "Ivaylovgrad"
     },
     {
-      "name": "Kableshkovo",
-      "id": "sp3Wb_d8Z0GJ"
+      "id": "kableshkovo",
+      "name": "Kableshkovo"
     },
     {
-      "name": "Kamenovo",
-      "id": "wurMce2RphBp"
+      "id": "kamenovo",
+      "name": "Kamenovo"
     },
     {
-      "name": "Kardzhali",
-      "id": "sUeR9D_dCuFh"
+      "id": "kardzhali",
+      "name": "Kardzhali"
     },
     {
-      "name": "Karlovo",
-      "id": "yDiVpOXiAxlh"
+      "id": "karlovo",
+      "name": "Karlovo"
     },
     {
-      "name": "Karnobat",
-      "id": "rArmZT8hee6n"
+      "id": "karnobat",
+      "name": "Karnobat"
     },
     {
-      "name": "Kavarna",
-      "id": "eTgCGVQcMPWg"
+      "id": "kavarna",
+      "name": "Kavarna"
     },
     {
-      "name": "Kazanlak",
-      "id": "N1pX5UNhmi3_"
+      "id": "kazanlak",
+      "name": "Kazanlak"
     },
     {
-      "name": "Kazashka Reka",
-      "id": "x5bVFVfU3smP"
+      "id": "kazashka-reka",
+      "name": "Kazashka Reka"
     },
     {
-      "name": "Kharmanli",
-      "id": "3q5n879JN_56"
+      "id": "kharmanli",
+      "name": "Kharmanli"
     },
     {
-      "name": "Khisarya",
-      "id": "n4SdsTHHyYdG"
+      "id": "khisarya",
+      "name": "Khisarya"
     },
     {
-      "name": "Knezha",
-      "id": "snh7eCmiJDnD"
+      "id": "knezha",
+      "name": "Knezha"
     },
     {
-      "name": "Konush",
-      "id": "-x3zApKhcdtg"
+      "id": "konush",
+      "name": "Konush"
     },
     {
-      "name": "Koprivets",
-      "id": "7ZTmdCoFprex"
+      "id": "koprivets",
+      "name": "Koprivets"
     },
     {
-      "name": "Koprivlen",
-      "id": "df_Ml4eq4aYe"
+      "id": "koprivlen",
+      "name": "Koprivlen"
     },
     {
-      "name": "Kostenets",
-      "id": "KPsarST8xKd1"
+      "id": "kostenets",
+      "name": "Kostenets"
     },
     {
-      "name": "Kostievo",
-      "id": "YaV9mGry4faJ"
+      "id": "kostievo",
+      "name": "Kostievo"
     },
     {
-      "name": "Kostinbrod",
-      "id": "ANfWF11ZujnG"
+      "id": "kostinbrod",
+      "name": "Kostinbrod"
     },
     {
-      "name": "Kovachite",
-      "id": "CjLLgMAFoatX"
+      "id": "kovachite",
+      "name": "Kovachite"
     },
     {
-      "name": "Kozloduy",
-      "id": "aoxey14ulLxo"
+      "id": "kozloduy",
+      "name": "Kozloduy"
     },
     {
-      "name": "Kran",
-      "id": "wLEwZRfn-rnw"
+      "id": "kran",
+      "name": "Kran"
     },
     {
-      "name": "Krichim",
-      "id": "LNcHAUhVzMRP"
+      "id": "krichim",
+      "name": "Krichim"
     },
     {
-      "name": "Krivodol",
-      "id": "fnTYw8LM6_Lp"
+      "id": "krivodol",
+      "name": "Krivodol"
     },
     {
-      "name": "Krumovgrad",
-      "id": "E-8GUC4XebEi"
+      "id": "krumovgrad",
+      "name": "Krumovgrad"
     },
     {
-      "name": "Krupnik",
-      "id": "QJ9tbE6VuUvF"
+      "id": "krupnik",
+      "name": "Krupnik"
     },
     {
-      "name": "Kula",
-      "id": "GyFH7uRpO5gm"
+      "id": "kula",
+      "name": "Kula"
     },
     {
-      "name": "Kyustendil",
-      "id": "ESN5Lbe5m5rq"
+      "id": "kyustendil",
+      "name": "Kyustendil"
     },
     {
-      "name": "Lom",
-      "id": "OMx7qR49zVFh"
+      "id": "lom",
+      "name": "Lom"
     },
     {
-      "name": "Lovech",
-      "id": "ImoTZDYAk4Ao"
+      "id": "lovech",
+      "name": "Lovech"
     },
     {
-      "name": "Lozno",
-      "id": "U-7rQLMMX0K5"
+      "id": "lozno",
+      "name": "Lozno"
     },
     {
-      "name": "Lukovit",
-      "id": "kgaQ31SQgKQR"
+      "id": "lukovit",
+      "name": "Lukovit"
     },
     {
-      "name": "Lyaskovets",
-      "id": "KlH6CGza7eHM"
+      "id": "lyaskovets",
+      "name": "Lyaskovets"
     },
     {
-      "name": "Lyulyakovo",
-      "id": "aW75LoVHeN3m"
+      "id": "lyulyakovo",
+      "name": "Lyulyakovo"
     },
     {
-      "name": "Madan",
-      "id": "hxoAUWO3YXUP"
+      "id": "madan",
+      "name": "Madan"
     },
     {
-      "name": "Malo Konare",
-      "id": "noZq1jIWXgzw"
+      "id": "malo-konare",
+      "name": "Malo Konare"
     },
     {
-      "name": "Marikostinovo",
-      "id": "dOeRgFRZKgaf"
+      "id": "marikostinovo",
+      "name": "Marikostinovo"
     },
     {
-      "name": "Markovo",
-      "id": "O677TmAwPMzs"
+      "id": "markovo",
+      "name": "Markovo"
     },
     {
-      "name": "Mesta",
-      "id": "y-H2bluozn1k"
+      "id": "mesta",
+      "name": "Mesta"
     },
     {
-      "name": "Mezdra",
-      "id": "3g4QrVIDMoEQ"
+      "id": "mezdra",
+      "name": "Mezdra"
     },
     {
-      "name": "Mikrevo",
-      "id": "znEEI3keKmf5"
+      "id": "mikrevo",
+      "name": "Mikrevo"
     },
     {
-      "name": "Moderno Predgradie",
-      "id": "LCFltrPcjk6P"
+      "id": "moderno-predgradie",
+      "name": "Moderno Predgradie"
     },
     {
-      "name": "Momchilgrad",
-      "id": "AhOzCSSEzgmV"
+      "id": "momchilgrad",
+      "name": "Momchilgrad"
     },
     {
-      "name": "Montana",
-      "id": "zcH_U12gP2v9"
+      "id": "montana",
+      "name": "Montana"
     },
     {
-      "name": "Moravka",
-      "id": "9fgYT5rKzE6u"
+      "id": "moravka",
+      "name": "Moravka"
     },
     {
-      "name": "Muglizh",
-      "id": "UsmaELzxgFGw"
+      "id": "muglizh",
+      "name": "Muglizh"
     },
     {
-      "name": "Nesebar",
-      "id": "d_trkJ8_o1Mb"
+      "id": "nesebar",
+      "name": "Nesebar"
     },
     {
-      "name": "Nikopol",
-      "id": "EMCfLUdNzVHU"
+      "id": "nikopol",
+      "name": "Nikopol"
     },
     {
-      "name": "Nova Zagora",
-      "id": "tmaR2HpBt5nc"
+      "id": "nova-zagora",
+      "name": "Nova Zagora"
     },
     {
-      "name": "Novi Iskur",
-      "id": "PQqr7f23iGH-"
+      "id": "novi-iskur",
+      "name": "Novi Iskur"
     },
     {
-      "name": "Novi Pazar",
-      "id": "72ZHi3Wuz5EP"
+      "id": "novi-pazar",
+      "name": "Novi Pazar"
     },
     {
-      "name": "Obzor",
-      "id": "MQu88bAowfJp"
+      "id": "obzor",
+      "name": "Obzor"
     },
     {
-      "name": "Omurtag",
-      "id": "LbJC8F41jxkW"
+      "id": "omurtag",
+      "name": "Omurtag"
     },
     {
-      "name": "Orizovo",
-      "id": "UndRLfmuhnJS"
+      "id": "orizovo",
+      "name": "Orizovo"
     },
     {
-      "name": "Orlovets",
-      "id": "yUPak6AvFDvz"
+      "id": "orlovets",
+      "name": "Orlovets"
     },
     {
-      "name": "Oryakhovets",
-      "id": "8-F8pwhj6JyX"
+      "id": "oryakhovets",
+      "name": "Oryakhovets"
     },
     {
-      "name": "Oryakhovitsa",
-      "id": "3VQ6MGnG8L0R"
+      "id": "oryakhovitsa",
+      "name": "Oryakhovitsa"
     },
     {
-      "name": "Ovoshtnik",
-      "id": "kOF6vhvzan-C"
+      "id": "ovoshtnik",
+      "name": "Ovoshtnik"
     },
     {
-      "name": "Panagyurishte",
-      "id": "qWiTwUIoHW4l"
+      "id": "panagyurishte",
+      "name": "Panagyurishte"
     },
     {
-      "name": "Pavel Banya",
-      "id": "1FUfMNVUhESH"
+      "id": "pavel-banya",
+      "name": "Pavel Banya"
     },
     {
-      "name": "Pavlikeni",
-      "id": "MoR4nmsdLMJs"
+      "id": "pavlikeni",
+      "name": "Pavlikeni"
     },
     {
-      "name": "Pazardzhik",
-      "id": "pOOfwmMJcVQ3"
+      "id": "pazardzhik",
+      "name": "Pazardzhik"
     },
     {
-      "name": "Pchelishte",
-      "id": "bfpefM-33VXD"
+      "id": "pchelishte",
+      "name": "Pchelishte"
     },
     {
-      "name": "Pernik",
-      "id": "qhzTSFR0bWwk"
+      "id": "pernik",
+      "name": "Pernik"
     },
     {
-      "name": "Peshtera",
-      "id": "LLhzwT-PF1GB"
+      "id": "peshtera",
+      "name": "Peshtera"
     },
     {
-      "name": "Petrich",
-      "id": "63jspVZexJPZ"
+      "id": "petrich",
+      "name": "Petrich"
     },
     {
-      "name": "Pleven",
-      "id": "XMs60QuprQxe"
+      "id": "pleven",
+      "name": "Pleven"
     },
     {
-      "name": "Plovdiv",
-      "id": "lEsJWr1rXLbu"
+      "id": "plovdiv",
+      "name": "Plovdiv"
     },
     {
-      "name": "Poleto",
-      "id": "34EUofQtgpNV"
+      "id": "poleto",
+      "name": "Poleto"
     },
     {
-      "name": "Polski Trumbesh",
-      "id": "GvVrNlkPCMUH"
+      "id": "polski-trumbesh",
+      "name": "Polski Trumbesh"
     },
     {
-      "name": "Pomorie",
-      "id": "7aSf7j8brS4v"
+      "id": "pomorie",
+      "name": "Pomorie"
     },
     {
-      "name": "Popovo",
-      "id": "DjAxTbao1goc"
+      "id": "popovo",
+      "name": "Popovo"
     },
     {
-      "name": "Pravets",
-      "id": "0_kauXSsWpPJ"
+      "id": "pravets",
+      "name": "Pravets"
     },
     {
-      "name": "Prespa",
-      "id": "PDq8s7mDdovb"
+      "id": "prespa",
+      "name": "Prespa"
     },
     {
-      "name": "Provadiya",
-      "id": "nAzRW_KHZng6"
+      "id": "provadiya",
+      "name": "Provadiya"
     },
     {
-      "name": "Radnevo",
-      "id": "m_plN7fv-F85"
+      "id": "radnevo",
+      "name": "Radnevo"
     },
     {
-      "name": "Raduil",
-      "id": "BHclX2wA_-NO"
+      "id": "raduil",
+      "name": "Raduil"
     },
     {
-      "name": "Rakitovo",
-      "id": "f2kVedIvEAKp"
+      "id": "rakitovo",
+      "name": "Rakitovo"
     },
     {
-      "name": "Rakovski",
-      "id": "Cj4XPO1P6W3P"
+      "id": "rakovski",
+      "name": "Rakovski"
     },
     {
-      "name": "Ravda",
-      "id": "zxg62f-_sDzA"
+      "id": "ravda",
+      "name": "Ravda"
     },
     {
-      "name": "Razgrad",
-      "id": "DPIJ3YLlh8wa"
+      "id": "razgrad",
+      "name": "Razgrad"
     },
     {
-      "name": "Razlog",
-      "id": "5xIimJ57I6Mt"
+      "id": "razlog",
+      "name": "Razlog"
     },
     {
-      "name": "Rila",
-      "id": "a7v1Xe5eYUGt"
+      "id": "rila",
+      "name": "Rila"
     },
     {
-      "name": "Rodopi",
-      "id": "YbymhJdlV9yt"
+      "id": "rodopi",
+      "name": "Rodopi"
     },
     {
-      "name": "Rousse",
-      "id": "iSkgB18HKdCw"
+      "id": "rousse",
+      "name": "Rousse"
     },
     {
-      "name": "Rozino",
-      "id": "amFgy7rIhsEJ"
+      "id": "rozino",
+      "name": "Rozino"
     },
     {
-      "name": "Rudozem",
-      "id": "pfC2LDIB-uFT"
+      "id": "rudozem",
+      "name": "Rudozem"
     },
     {
-      "name": "Ruen",
-      "id": "iBVz5BqoX0Tz"
+      "id": "ruen",
+      "name": "Ruen"
     },
     {
-      "name": "Samokov",
-      "id": "Vzmg28eYyszA"
+      "id": "samokov",
+      "name": "Samokov"
     },
     {
-      "name": "Samovodene",
-      "id": "rwk9cfdpcFys"
+      "id": "samovodene",
+      "name": "Samovodene"
     },
     {
-      "name": "Samuil",
-      "id": "HUHwFeNFfEa-"
+      "id": "samuil",
+      "name": "Samuil"
     },
     {
-      "name": "Sandanski",
-      "id": "a8jpqMxtGNv2"
+      "id": "sandanski",
+      "name": "Sandanski"
     },
     {
-      "name": "Sandrovo",
-      "id": "3UyKWKaGxCzh"
+      "id": "sandrovo",
+      "name": "Sandrovo"
     },
     {
-      "name": "Septemvri",
-      "id": "ILHuPpdgBUp5"
+      "id": "septemvri",
+      "name": "Septemvri"
     },
     {
-      "name": "Sevlievo",
-      "id": "Gz7UnbhoL7TZ"
+      "id": "sevlievo",
+      "name": "Sevlievo"
     },
     {
-      "name": "Shabla",
-      "id": "9XNwcXDnNVbZ"
+      "id": "shabla",
+      "name": "Shabla"
     },
     {
-      "name": "Shivachevo",
-      "id": "vg-GiSS-2XL8"
+      "id": "shivachevo",
+      "name": "Shivachevo"
     },
     {
-      "name": "Shumen",
-      "id": "FWZgaDMjOgQ4"
+      "id": "shumen",
+      "name": "Shumen"
     },
     {
-      "name": "Silistra",
-      "id": "QxFJhNHZrr6H"
+      "id": "silistra",
+      "name": "Silistra"
     },
     {
-      "name": "Simeonovgrad",
-      "id": "aPLLg0G7PFf1"
+      "id": "simeonovgrad",
+      "name": "Simeonovgrad"
     },
     {
-      "name": "Simitli",
-      "id": "fovpHaL04O2Z"
+      "id": "simitli",
+      "name": "Simitli"
     },
     {
-      "name": "Skravena",
-      "id": "WoLH_UmzrGQk"
+      "id": "skravena",
+      "name": "Skravena"
     },
     {
-      "name": "Slatina",
-      "id": "G2-_q0Mz3Moo"
+      "id": "slatina",
+      "name": "Slatina"
     },
     {
-      "name": "Sliven",
-      "id": "pNsuFsdroiUq"
+      "id": "sliven",
+      "name": "Sliven"
     },
     {
-      "name": "Slivnitsa",
-      "id": "B1vW0XZnTYij"
+      "id": "slivnitsa",
+      "name": "Slivnitsa"
     },
     {
-      "name": "Smolyan",
-      "id": "BiZ8ID1UYyLM"
+      "id": "smolyan",
+      "name": "Smolyan"
     },
     {
-      "name": "Smyadovo",
-      "id": "khBZzrozq1HW"
+      "id": "smyadovo",
+      "name": "Smyadovo"
     },
     {
-      "name": "Sofia",
-      "id": "uiQWTVhWJlAt"
+      "id": "sofia",
+      "name": "Sofia"
     },
     {
-      "name": "Sofronievo",
-      "id": "dTR5M8px8B2Q"
+      "id": "sofronievo",
+      "name": "Sofronievo"
     },
     {
-      "name": "Sokolets",
-      "id": "V-NUTkn9tSnE"
+      "id": "sokolets",
+      "name": "Sokolets"
     },
     {
-      "name": "Sopot",
-      "id": "rMEyvYR7wXER"
+      "id": "sopot",
+      "name": "Sopot"
     },
     {
-      "name": "Sozopol",
-      "id": "DaJ_GLvJYEsY"
+      "id": "sozopol",
+      "name": "Sozopol"
     },
     {
-      "name": "Sredets",
-      "id": "NpGiQ1ijnv1o"
+      "id": "sredets",
+      "name": "Sredets"
     },
     {
-      "name": "Stamboliyski",
-      "id": "VKtBOZFvNh2l"
+      "id": "stamboliyski",
+      "name": "Stamboliyski"
     },
     {
-      "name": "Stara Zagora",
-      "id": "j5sp4ez1hf8Q"
+      "id": "stara-zagora",
+      "name": "Stara Zagora"
     },
     {
-      "name": "Strazhitsa",
-      "id": "cukF3DuAQqWN"
+      "id": "strazhitsa",
+      "name": "Strazhitsa"
     },
     {
-      "name": "Strelcha",
-      "id": "8GjeYUw0-gNW"
+      "id": "strelcha",
+      "name": "Strelcha"
     },
     {
-      "name": "Suedinenie",
-      "id": "eWcfKjoWBHJ0"
+      "id": "suedinenie",
+      "name": "Suedinenie"
     },
     {
-      "name": "Svilengrad",
-      "id": "--4zGpb0iQkJ"
+      "id": "svilengrad",
+      "name": "Svilengrad"
     },
     {
-      "name": "Svishtov",
-      "id": "KLL9y7vJT8Cj"
+      "id": "svishtov",
+      "name": "Svishtov"
     },
     {
-      "name": "Svoge",
-      "id": "crMSg2qbUzO3"
+      "id": "svoge",
+      "name": "Svoge"
     },
     {
-      "name": "Targovishte",
-      "id": "pke3V_zSqWDi"
+      "id": "targovishte",
+      "name": "Targovishte"
     },
     {
-      "name": "Tervel",
-      "id": "sOetE8WsGqKg"
+      "id": "tervel",
+      "name": "Tervel"
     },
     {
-      "name": "Tochilari",
-      "id": "TzoOz2tDV4ZL"
+      "id": "tochilari",
+      "name": "Tochilari"
     },
     {
-      "name": "Topoli",
-      "id": "KM56WvEIJkHR"
+      "id": "topoli",
+      "name": "Topoli"
     },
     {
-      "name": "Topolovo",
-      "id": "WuBCFRE4NJx5"
+      "id": "topolovo",
+      "name": "Topolovo"
     },
     {
-      "name": "Troyan",
-      "id": "5mAFpgzKWM_s"
+      "id": "troyan",
+      "name": "Troyan"
     },
     {
-      "name": "Trustenik",
-      "id": "izg-p-o7_1tH"
+      "id": "trustenik",
+      "name": "Trustenik"
     },
     {
-      "name": "Tryavna",
-      "id": "NtYoQv901m0v"
+      "id": "tryavna",
+      "name": "Tryavna"
     },
     {
-      "name": "Tutrakan",
-      "id": "4qKGQlTVhsFe"
+      "id": "tutrakan",
+      "name": "Tutrakan"
     },
     {
-      "name": "Varna",
-      "id": "LPCJ6qvnmbJx"
+      "id": "varna",
+      "name": "Varna"
     },
     {
-      "name": "Veliko",
-      "id": "i03o8CvD_1P2"
+      "id": "veliko",
+      "name": "Veliko"
     },
     {
-      "name": "Veliko Tarnovo",
-      "id": "hrlHRTcp3JG2"
+      "id": "veliko-tarnovo",
+      "name": "Veliko Tarnovo"
     },
     {
-      "name": "Velingrad",
-      "id": "XQWHCZUg6Ilx"
+      "id": "velingrad",
+      "name": "Velingrad"
     },
     {
-      "name": "Vetren",
-      "id": "J2A3wMFk4van"
+      "id": "vetren",
+      "name": "Vetren"
     },
     {
-      "name": "Vidin",
-      "id": "rdey9raSnrac"
+      "id": "vidin",
+      "name": "Vidin"
     },
     {
-      "name": "Vievo",
-      "id": "2UEjty4jhspB"
+      "id": "vievo",
+      "name": "Vievo"
     },
     {
-      "name": "Vlado Trichkov",
-      "id": "EQOgTatU6aRy"
+      "id": "vlado-trichkov",
+      "name": "Vlado Trichkov"
     },
     {
-      "name": "Vrachesh",
-      "id": "_ySoEE5URpPs"
+      "id": "vrachesh",
+      "name": "Vrachesh"
     },
     {
-      "name": "Vratsa",
-      "id": "pTK6k2CS5pc6"
+      "id": "vratsa",
+      "name": "Vratsa"
     },
     {
-      "name": "Yakoruda",
-      "id": "paJ14d7_v7Gl"
+      "id": "yakoruda",
+      "name": "Yakoruda"
     },
     {
-      "name": "Yambol",
-      "id": "OleDhH7Fb3e0"
+      "id": "yambol",
+      "name": "Yambol"
     },
     {
-      "name": "Zavet",
-      "id": "-jJpLr9PIgpg"
+      "id": "zavet",
+      "name": "Zavet"
     },
     {
-      "name": "Zlatitrap",
-      "id": "Ryh28W_WpQsE"
+      "id": "zlatitrap",
+      "name": "Zlatitrap"
     },
     {
-      "name": "Zlatograd",
-      "id": "cyyN6qnG1aTp"
+      "id": "zlatograd",
+      "name": "Zlatograd"
     }
   ]
 }

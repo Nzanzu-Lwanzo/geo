@@ -2,44 +2,44 @@
   "coid": "KG",
   "cities": [
     {
-      "name": "Bishkek",
-      "id": "MyD4PcaPPC2I"
+      "id": "bishkek",
+      "name": "Bishkek"
     },
     {
-      "name": "Osh",
-      "id": "0U1U8vLoE_su"
+      "id": "osh",
+      "name": "Osh"
     },
     {
-      "name": "Jalal-Abad",
-      "id": "Jjgmj5NcqdqS"
+      "id": "jalal-abad",
+      "name": "Jalal-Abad"
     },
     {
-      "name": "Karakol",
-      "id": "vMNzS-oQtikf"
+      "id": "karakol",
+      "name": "Karakol"
     },
     {
-      "name": "Tokmok",
-      "id": "7RjLlf8i4jJ3"
+      "id": "tokmok",
+      "name": "Tokmok"
     },
     {
-      "name": "Talas",
-      "id": "KoRvjXfSvr5F"
+      "id": "talas",
+      "name": "Talas"
     },
     {
-      "name": "Naryn",
-      "id": "Iwt4fuOxGtgj"
+      "id": "naryn",
+      "name": "Naryn"
     },
     {
-      "name": "Uzgen",
-      "id": "kLViTcCPC-VW"
+      "id": "uzgen",
+      "name": "Uzgen"
     },
     {
-      "name": "Balykchy",
-      "id": "GywZkJNAmkKZ"
+      "id": "balykchy",
+      "name": "Balykchy"
     },
     {
-      "name": "Kant",
-      "id": "Bcc6ciAShJlT"
+      "id": "kant",
+      "name": "Kant"
     }
   ]
 }

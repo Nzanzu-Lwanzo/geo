@@ -2,36 +2,36 @@
   "coid": "PS",
   "cities": [
     {
-      "name": "Al Mawasi",
-      "id": "vjhr0o79c354"
+      "id": "al-mawasi",
+      "name": "Al Mawasi"
     },
     {
-      "name": "Bethlehem",
-      "id": "gKQycOo8OtCe"
+      "id": "bethlehem",
+      "name": "Bethlehem"
     },
     {
-      "name": "Gaza",
-      "id": "bYZHiPO88otg"
+      "id": "gaza",
+      "name": "Gaza"
     },
     {
-      "name": "Hebron",
-      "id": "0T_b0gA7vn90"
+      "id": "hebron",
+      "name": "Hebron"
     },
     {
-      "name": "Jenin",
-      "id": "D1KsHf5WnZwZ"
+      "id": "jenin",
+      "name": "Jenin"
     },
     {
-      "name": "Jericho",
-      "id": "WPvFzlTifpz6"
+      "id": "jericho",
+      "name": "Jericho"
     },
     {
-      "name": "Nablus",
-      "id": "O7WaMvQxo-9o"
+      "id": "nablus",
+      "name": "Nablus"
     },
     {
-      "name": "Ramallah",
-      "id": "6QD8pLBxdAzn"
+      "id": "ramallah",
+      "name": "Ramallah"
     }
   ]
 }

@@ -2,36 +2,36 @@
   "coid": "AF",
   "cities": [
     {
-      "name": "Herat",
-      "id": "JeBYSlZLkOdu"
+      "id": "herat",
+      "name": "Herat"
     },
     {
-      "name": "Kabul",
-      "id": "Iun0Ef9ScCwE"
+      "id": "kabul",
+      "name": "Kabul"
     },
     {
-      "name": "Kandahar",
-      "id": "CRuEW8q7BuQt"
+      "id": "kandahar",
+      "name": "Kandahar"
     },
     {
-      "name": "Molah",
-      "id": "UdElaTzw99j3"
+      "id": "molah",
+      "name": "Molah"
     },
     {
-      "name": "Rana",
-      "id": "XGIXDzYEjEMP"
+      "id": "rana",
+      "name": "Rana"
     },
     {
-      "name": "Shar",
-      "id": "ZowclsprU6ZJ"
+      "id": "shar",
+      "name": "Shar"
     },
     {
-      "name": "Sharif",
-      "id": "HSjZzOjBlTgk"
+      "id": "sharif",
+      "name": "Sharif"
     },
     {
-      "name": "Wazir Akbar Khan",
-      "id": "HXDwzWkIS7L5"
+      "id": "wazir-akbar-khan",
+      "name": "Wazir Akbar Khan"
     }
   ]
 }

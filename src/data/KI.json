@@ -2,44 +2,44 @@
   "coid": "KI",
   "cities": [
     {
-      "name": "South Tarawa",
-      "id": "gQfoJo1pfNwc"
+      "id": "south-tarawa",
+      "name": "South Tarawa"
     },
     {
-      "name": "Betio",
-      "id": "sF5GIlcRLbsy"
+      "id": "betio",
+      "name": "Betio"
     },
     {
-      "name": "Bikenibeu",
-      "id": "pFjCsmJRDrwc"
+      "id": "bikenibeu",
+      "name": "Bikenibeu"
     },
     {
-      "name": "Bairiki",
-      "id": "YPStws99xPBK"
+      "id": "bairiki",
+      "name": "Bairiki"
     },
     {
-      "name": "Tabiteuea North",
-      "id": "7T7PT3cRHFPy"
+      "id": "tabiteuea-north",
+      "name": "Tabiteuea North"
     },
     {
-      "name": "Tabiteuea South",
-      "id": "utVvP_aYsbzV"
+      "id": "tabiteuea-south",
+      "name": "Tabiteuea South"
     },
     {
-      "name": "Kuria",
-      "id": "d23lrWJ_Eev0"
+      "id": "kuria",
+      "name": "Kuria"
     },
     {
-      "name": "Abaiang",
-      "id": "VfywJrtT-haE"
+      "id": "abaiang",
+      "name": "Abaiang"
     },
     {
-      "name": "Marakei",
-      "id": "VuNfVCIH7_ZX"
+      "id": "marakei",
+      "name": "Marakei"
     },
     {
-      "name": "Maiana",
-      "id": "skI_T3ElPUiT"
+      "id": "maiana",
+      "name": "Maiana"
     }
   ]
 }

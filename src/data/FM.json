@@ -2,44 +2,44 @@
   "coid": "FM",
   "cities": [
     {
-      "name": "Palikir",
-      "id": "W0YcrpWwN7HQ"
+      "id": "palikir",
+      "name": "Palikir"
     },
     {
-      "name": "Weno",
-      "id": "Y1X9pralRag8"
+      "id": "weno",
+      "name": "Weno"
     },
     {
-      "name": "Kolonia",
-      "id": "pbAOyGqrL2Hp"
+      "id": "kolonia",
+      "name": "Kolonia"
     },
     {
-      "name": "Tofol",
-      "id": "ZFVJcGypbfYH"
+      "id": "tofol",
+      "name": "Tofol"
     },
     {
-      "name": "Colonia",
-      "id": "z9ay215UIP5E"
+      "id": "colonia",
+      "name": "Colonia"
     },
     {
-      "name": "Rumung",
-      "id": "NIR2r3cjQuA2"
+      "id": "rumung",
+      "name": "Rumung"
     },
     {
-      "name": "Tamil",
-      "id": "dLAvts6HUOur"
+      "id": "tamil",
+      "name": "Tamil"
     },
     {
-      "name": "Fefan",
-      "id": "_9vS2DDm-kLY"
+      "id": "fefan",
+      "name": "Fefan"
     },
     {
-      "name": "Pohnlangas",
-      "id": "u3dsjgUZ2qRi"
+      "id": "pohnlangas",
+      "name": "Pohnlangas"
     },
     {
-      "name": "Moen",
-      "id": "cgPR3Cg3gomn"
+      "id": "moen",
+      "name": "Moen"
     }
   ]
 }

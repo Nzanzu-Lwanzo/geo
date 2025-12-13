@@ -2,80 +2,80 @@
   "coid": "HN",
   "cities": [
     {
-      "name": "Choloma",
-      "id": "xpsFLsTfS171"
+      "id": "choloma",
+      "name": "Choloma"
     },
     {
-      "name": "Comayagua",
-      "id": "kJCTvQ7FwHS6"
+      "id": "comayagua",
+      "name": "Comayagua"
     },
     {
-      "name": "Comayaguela",
-      "id": "PBKaXM9RNdFi"
+      "id": "comayaguela",
+      "name": "Comayaguela"
     },
     {
-      "name": "Coxen Hole",
-      "id": "zvOqyNvvkupU"
+      "id": "coxen-hole",
+      "name": "Coxen Hole"
     },
     {
-      "name": "El Barro",
-      "id": "4fZc4ceYIxuT"
+      "id": "el-barro",
+      "name": "El Barro"
     },
     {
-      "name": "El Paraiso",
-      "id": "u8iZnTeXo64_"
+      "id": "el-paraiso",
+      "name": "El Paraiso"
     },
     {
-      "name": "El Progreso",
-      "id": "wsWgpJTjHVIA"
+      "id": "el-progreso",
+      "name": "El Progreso"
     },
     {
-      "name": "La Ceiba",
-      "id": "hzwBnvU8Kyj4"
+      "id": "la-ceiba",
+      "name": "La Ceiba"
     },
     {
-      "name": "La Hacienda",
-      "id": "bX6ZoofXXwH5"
+      "id": "la-hacienda",
+      "name": "La Hacienda"
     },
     {
-      "name": "Morazan",
-      "id": "8l2pa6hsrTzd"
+      "id": "morazan",
+      "name": "Morazan"
     },
     {
-      "name": "Nacaome",
-      "id": "nJ0LFK8N_iew"
+      "id": "nacaome",
+      "name": "Nacaome"
     },
     {
-      "name": "Pinalejo",
-      "id": "Nn_l7vY0AA7s"
+      "id": "pinalejo",
+      "name": "Pinalejo"
     },
     {
-      "name": "Piraera",
-      "id": "6IQTZ7cspN7w"
+      "id": "piraera",
+      "name": "Piraera"
     },
     {
-      "name": "Puerto Lempira",
-      "id": "9voOQ--KwpNb"
+      "id": "puerto-lempira",
+      "name": "Puerto Lempira"
     },
     {
-      "name": "San Antonio de Flores",
-      "id": "Eit5T_NoKSjJ"
+      "id": "san-antonio-de-flores",
+      "name": "San Antonio de Flores"
     },
     {
-      "name": "San Pedro Sula",
-      "id": "TcqGwqXpx3iJ"
+      "id": "san-pedro-sula",
+      "name": "San Pedro Sula"
     },
     {
-      "name": "Santa Barbara",
-      "id": "9JILDi6vmgTj"
+      "id": "santa-barbara",
+      "name": "Santa Barbara"
     },
     {
-      "name": "Sula",
-      "id": "BqiQlObtWpOa"
+      "id": "sula",
+      "name": "Sula"
     },
     {
-      "name": "Tegucigalpa",
-      "id": "7X-IxFQp94Dj"
+      "id": "tegucigalpa",
+      "name": "Tegucigalpa"
     }
   ]
 }

@@ -2,152 +2,152 @@
   "coid": "LK",
   "cities": [
     {
-      "name": "Badulla",
-      "id": "Y8kpfTwCOp-r"
+      "id": "badulla",
+      "name": "Badulla"
     },
     {
-      "name": "Battaramulla South",
-      "id": "bPGSjB9YqMmb"
+      "id": "battaramulla-south",
+      "name": "Battaramulla South"
     },
     {
-      "name": "Biyagama",
-      "id": "sSj1Ss4viW4t"
+      "id": "biyagama",
+      "name": "Biyagama"
     },
     {
-      "name": "Boralesgamuwa South",
-      "id": "nIm7ke62enFm"
+      "id": "boralesgamuwa-south",
+      "name": "Boralesgamuwa South"
     },
     {
-      "name": "Colombo",
-      "id": "EppNVvpmg2Cc"
+      "id": "colombo",
+      "name": "Colombo"
     },
     {
-      "name": "Dehiwala",
-      "id": "eWvM0G4ruQpM"
+      "id": "dehiwala",
+      "name": "Dehiwala"
     },
     {
-      "name": "Dehiwala-Mount Lavinia",
-      "id": "A2KLRgD3HjLR"
+      "id": "dehiwala-mount-lavinia",
+      "name": "Dehiwala-Mount Lavinia"
     },
     {
-      "name": "Eppawala",
-      "id": "PiY2iW3gNkX-"
+      "id": "eppawala",
+      "name": "Eppawala"
     },
     {
-      "name": "Gampaha",
-      "id": "zpuyNhAP7ts7"
+      "id": "gampaha",
+      "name": "Gampaha"
     },
     {
-      "name": "Gangodawila North",
-      "id": "S8HoRZUfechK"
+      "id": "gangodawila-north",
+      "name": "Gangodawila North"
     },
     {
-      "name": "Hekitta",
-      "id": "b8biKYWMeZfT"
+      "id": "hekitta",
+      "name": "Hekitta"
     },
     {
-      "name": "Homagama",
-      "id": "SGSJCO3r3Piu"
+      "id": "homagama",
+      "name": "Homagama"
     },
     {
-      "name": "Kaduwela",
-      "id": "XUuNv0AqMCPR"
+      "id": "kaduwela",
+      "name": "Kaduwela"
     },
     {
-      "name": "Kandana",
-      "id": "3bjFAHUxJnhD"
+      "id": "kandana",
+      "name": "Kandana"
     },
     {
-      "name": "Kandy",
-      "id": "Sg8XHvSXtxFl"
+      "id": "kandy",
+      "name": "Kandy"
     },
     {
-      "name": "Katubedda",
-      "id": "uM422_2Tat2L"
+      "id": "katubedda",
+      "name": "Katubedda"
     },
     {
-      "name": "Katunayaka",
-      "id": "XmgxqUhhA2RA"
+      "id": "katunayaka",
+      "name": "Katunayaka"
     },
     {
-      "name": "Kelaniya",
-      "id": "ruj7QSLsSOuW"
+      "id": "kelaniya",
+      "name": "Kelaniya"
     },
     {
-      "name": "Kohuwala",
-      "id": "LyunZUnooPPC"
+      "id": "kohuwala",
+      "name": "Kohuwala"
     },
     {
-      "name": "Maharagama",
-      "id": "oM7HYMnH2zTD"
+      "id": "maharagama",
+      "name": "Maharagama"
     },
     {
-      "name": "Makola South",
-      "id": "tdiPV_-Bw2_j"
+      "id": "makola-south",
+      "name": "Makola South"
     },
     {
-      "name": "Matale",
-      "id": "C7bxcbAwf2x_"
+      "id": "matale",
+      "name": "Matale"
     },
     {
-      "name": "Moratuwa",
-      "id": "_oO_vH0OJhh5"
+      "id": "moratuwa",
+      "name": "Moratuwa"
     },
     {
-      "name": "Nattandiya Town",
-      "id": "30SMfSMGksu_"
+      "id": "nattandiya-town",
+      "name": "Nattandiya Town"
     },
     {
-      "name": "Negombo",
-      "id": "Edd8aPbFguXD"
+      "id": "negombo",
+      "name": "Negombo"
     },
     {
-      "name": "Nugegoda",
-      "id": "1KiSwB3lov9P"
+      "id": "nugegoda",
+      "name": "Nugegoda"
     },
     {
-      "name": "Orugodawatta",
-      "id": "5XKOMlyqfr7X"
+      "id": "orugodawatta",
+      "name": "Orugodawatta"
     },
     {
-      "name": "Padukka",
-      "id": "akmtFrOS3xH6"
+      "id": "padukka",
+      "name": "Padukka"
     },
     {
-      "name": "Pannipitiya",
-      "id": "AVlgq6lU8Hlh"
+      "id": "pannipitiya",
+      "name": "Pannipitiya"
     },
     {
-      "name": "Peradeniya",
-      "id": "wiS-GPp9vFy0"
+      "id": "peradeniya",
+      "name": "Peradeniya"
     },
     {
-      "name": "Piliyandala",
-      "id": "7fUeNY51C0Cg"
+      "id": "piliyandala",
+      "name": "Piliyandala"
     },
     {
-      "name": "Ragama",
-      "id": "kDKDCW1-0NOR"
+      "id": "ragama",
+      "name": "Ragama"
     },
     {
-      "name": "Rajagiriya",
-      "id": "Y7VKl4tuj_LR"
+      "id": "rajagiriya",
+      "name": "Rajagiriya"
     },
     {
-      "name": "Sri Jayewardenepura Kotte",
-      "id": "K3CV30LJ4_3W"
+      "id": "sri-jayewardenepura-kotte",
+      "name": "Sri Jayewardenepura Kotte"
     },
     {
-      "name": "Talapathpitiya",
-      "id": "BMvhCMR6KsZg"
+      "id": "talapathpitiya",
+      "name": "Talapathpitiya"
     },
     {
-      "name": "Wattala",
-      "id": "JwEPxwHz-kKS"
+      "id": "wattala",
+      "name": "Wattala"
     },
     {
-      "name": "Wellampitiya",
-      "id": "QHDlIOwL6XO5"
+      "id": "wellampitiya",
+      "name": "Wellampitiya"
     }
   ]
 }

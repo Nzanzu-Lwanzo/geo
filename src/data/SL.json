@@ -2,44 +2,44 @@
   "coid": "SL",
   "cities": [
     {
-      "name": "Freetown",
-      "id": "cCjf_g9KUMhj"
+      "id": "freetown",
+      "name": "Freetown"
     },
     {
-      "name": "Bo",
-      "id": "6X8awtFfxM9V"
+      "id": "bo",
+      "name": "Bo"
     },
     {
-      "name": "Kenema",
-      "id": "fjriahdysfF2"
+      "id": "kenema",
+      "name": "Kenema"
     },
     {
-      "name": "Makeni",
-      "id": "93FwIEgB3NTZ"
+      "id": "makeni",
+      "name": "Makeni"
     },
     {
-      "name": "Koidu",
-      "id": "7tOF1bUBNfS7"
+      "id": "koidu",
+      "name": "Koidu"
     },
     {
-      "name": "Port Loko",
-      "id": "LHzZTsD_DMxm"
+      "id": "port-loko",
+      "name": "Port Loko"
     },
     {
-      "name": "Kambia",
-      "id": "xYXdpGurB-Td"
+      "id": "kambia",
+      "name": "Kambia"
     },
     {
-      "name": "Moyamba",
-      "id": "Tzz5U8y4tDtT"
+      "id": "moyamba",
+      "name": "Moyamba"
     },
     {
-      "name": "Bonthe",
-      "id": "bGeKengrNum3"
+      "id": "bonthe",
+      "name": "Bonthe"
     },
     {
-      "name": "Kabala",
-      "id": "z7uOtJVYEvfC"
+      "id": "kabala",
+      "name": "Kabala"
     }
   ]
 }

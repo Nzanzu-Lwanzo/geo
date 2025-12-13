@@ -2,76 +2,76 @@
   "coid": "LB",
   "cities": [
     {
-      "name": "Aaley",
-      "id": "KnHLs0jV7Zd-"
+      "id": "aaley",
+      "name": "Aaley"
     },
     {
-      "name": "Adma",
-      "id": "56OQY7ZNAMmL"
+      "id": "adma",
+      "name": "Adma"
     },
     {
-      "name": "Ashrafiye",
-      "id": "oAF5XgX_1Gjf"
+      "id": "ashrafiye",
+      "name": "Ashrafiye"
     },
     {
-      "name": "Baabda",
-      "id": "hS3_g9SDKSkn"
+      "id": "baabda",
+      "name": "Baabda"
     },
     {
-      "name": "Baalbek",
-      "id": "Yu7TxIyzaDmP"
+      "id": "baalbek",
+      "name": "Baalbek"
     },
     {
-      "name": "Beirut",
-      "id": "CZyhjZbwb8zv"
+      "id": "beirut",
+      "name": "Beirut"
     },
     {
-      "name": "Broummana",
-      "id": "ynt3Kwd2I5wT"
+      "id": "broummana",
+      "name": "Broummana"
     },
     {
-      "name": "Bsalim",
-      "id": "X1WzoIHS8mYo"
+      "id": "bsalim",
+      "name": "Bsalim"
     },
     {
-      "name": "Chekka",
-      "id": "wWt2S52mD1yQ"
+      "id": "chekka",
+      "name": "Chekka"
     },
     {
-      "name": "Dbaiye",
-      "id": "us3QSx3YqQiA"
+      "id": "dbaiye",
+      "name": "Dbaiye"
     },
     {
-      "name": "Dik el Mehdi",
-      "id": "L6Su6YZ_7wDo"
+      "id": "dik-el-mehdi",
+      "name": "Dik el Mehdi"
     },
     {
-      "name": "Halba",
-      "id": "SRdvbjyCnkhO"
+      "id": "halba",
+      "name": "Halba"
     },
     {
-      "name": "Hboub",
-      "id": "3yfFtQ3M_N9e"
+      "id": "hboub",
+      "name": "Hboub"
     },
     {
-      "name": "Sarba",
-      "id": "XB0_u6YQ5oQ1"
+      "id": "sarba",
+      "name": "Sarba"
     },
     {
-      "name": "Sidon",
-      "id": "n9tABpNf2wam"
+      "id": "sidon",
+      "name": "Sidon"
     },
     {
-      "name": "Tripoli",
-      "id": "pT6J5cZ3tmAP"
+      "id": "tripoli",
+      "name": "Tripoli"
     },
     {
-      "name": "Yanar",
-      "id": "jJ1CEBGe_12f"
+      "id": "yanar",
+      "name": "Yanar"
     },
     {
-      "name": "Zgharta",
-      "id": "iK6o9h1i9J0U"
+      "id": "zgharta",
+      "name": "Zgharta"
     }
   ]
 }

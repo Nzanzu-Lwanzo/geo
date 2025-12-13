@@ -2,68 +2,68 @@
   "coid": "UY",
   "cities": [
     {
-      "name": "Barra de Carrasco",
-      "id": "WgAlKyWKCULu"
+      "id": "barra-de-carrasco",
+      "name": "Barra de Carrasco"
     },
     {
-      "name": "Canelones",
-      "id": "pnjrF-BrVIjs"
+      "id": "canelones",
+      "name": "Canelones"
     },
     {
-      "name": "Colonia del Sacramento",
-      "id": "tZPBB4O0aFWt"
+      "id": "colonia-del-sacramento",
+      "name": "Colonia del Sacramento"
     },
     {
-      "name": "Durazno",
-      "id": "62vMuJyB6Inf"
+      "id": "durazno",
+      "name": "Durazno"
     },
     {
-      "name": "Florida",
-      "id": "oH4ySXnFIc7a"
+      "id": "florida",
+      "name": "Florida"
     },
     {
-      "name": "La Floresta",
-      "id": "tlK0o_q1ebU4"
+      "id": "la-floresta",
+      "name": "La Floresta"
     },
     {
-      "name": "La Paz",
-      "id": "T4HVl5nQPGL0"
+      "id": "la-paz",
+      "name": "La Paz"
     },
     {
-      "name": "Las Piedras",
-      "id": "W7u-t-Xn4-NZ"
+      "id": "las-piedras",
+      "name": "Las Piedras"
     },
     {
-      "name": "Maldonado",
-      "id": "eUOZTi4baO_X"
+      "id": "maldonado",
+      "name": "Maldonado"
     },
     {
-      "name": "Mercedes",
-      "id": "q5rbil7inVUF"
+      "id": "mercedes",
+      "name": "Mercedes"
     },
     {
-      "name": "Montevideo",
-      "id": "j0c8tVv6-h0S"
+      "id": "montevideo",
+      "name": "Montevideo"
     },
     {
-      "name": "Punta del Este",
-      "id": "cY6nGdRKjbqy"
+      "id": "punta-del-este",
+      "name": "Punta del Este"
     },
     {
-      "name": "Salto",
-      "id": "KxeOm-daL1XN"
+      "id": "salto",
+      "name": "Salto"
     },
     {
-      "name": "San Carlos",
-      "id": "JO8JOBJj_kBO"
+      "id": "san-carlos",
+      "name": "San Carlos"
     },
     {
-      "name": "Toledo",
-      "id": "905-Ad7oygiZ"
+      "id": "toledo",
+      "name": "Toledo"
     },
     {
-      "name": "Union",
-      "id": "H141ofr_oH9c"
+      "id": "union",
+      "name": "Union"
     }
   ]
 }

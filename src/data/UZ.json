@@ -2,44 +2,44 @@
   "coid": "UZ",
   "cities": [
     {
-      "name": "Tashkent",
-      "id": "HKHeuBVsYlsX"
+      "id": "tashkent",
+      "name": "Tashkent"
     },
     {
-      "name": "Samarkand",
-      "id": "T0zjriQUl2A3"
+      "id": "samarkand",
+      "name": "Samarkand"
     },
     {
-      "name": "Bukhara",
-      "id": "1faPaCLX8jDF"
+      "id": "bukhara",
+      "name": "Bukhara"
     },
     {
-      "name": "Namangan",
-      "id": "_kYP4qk-9TQF"
+      "id": "namangan",
+      "name": "Namangan"
     },
     {
-      "name": "Andijan",
-      "id": "-V1R4cDn43BH"
+      "id": "andijan",
+      "name": "Andijan"
     },
     {
-      "name": "Nukus",
-      "id": "QpqANKdsaD2n"
+      "id": "nukus",
+      "name": "Nukus"
     },
     {
-      "name": "Fergana",
-      "id": "tpFs4qMAt7Rp"
+      "id": "fergana",
+      "name": "Fergana"
     },
     {
-      "name": "Kokand",
-      "id": "xkScpfeRWU8r"
+      "id": "kokand",
+      "name": "Kokand"
     },
     {
-      "name": "Karshi",
-      "id": "tObu1mE3et4d"
+      "id": "karshi",
+      "name": "Karshi"
     },
     {
-      "name": "Termez",
-      "id": "dltpWZ5aj8zB"
+      "id": "termez",
+      "name": "Termez"
     }
   ]
 }

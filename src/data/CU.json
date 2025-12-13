@@ -2,44 +2,44 @@
   "coid": "CU",
   "cities": [
     {
-      "name": "Bayamo",
-      "id": "S0j-SEJ3VnTQ"
+      "id": "bayamo",
+      "name": "Bayamo"
     },
     {
-      "name": "Cienfuegos",
-      "id": "aNZFNKW1S_lt"
+      "id": "cienfuegos",
+      "name": "Cienfuegos"
     },
     {
-      "name": "Habana",
-      "id": "4MSllSh2EJB8"
+      "id": "habana",
+      "name": "Habana"
     },
     {
-      "name": "Havana",
-      "id": "Q6T4DgwTY03A"
+      "id": "havana",
+      "name": "Havana"
     },
     {
-      "name": "La Habana",
-      "id": "oU2wCpYBJBzl"
+      "id": "la-habana",
+      "name": "La Habana"
     },
     {
-      "name": "Las Tunas",
-      "id": "SYo3cPfuO1zn"
+      "id": "las-tunas",
+      "name": "Las Tunas"
     },
     {
-      "name": "Matanzas",
-      "id": "dJl7w9rolTaK"
+      "id": "matanzas",
+      "name": "Matanzas"
     },
     {
-      "name": "Santiago de Cuba",
-      "id": "9CMuA9u_oDgT"
+      "id": "santiago-de-cuba",
+      "name": "Santiago de Cuba"
     },
     {
-      "name": "Varadero",
-      "id": "mBXYOjxjw6xM"
+      "id": "varadero",
+      "name": "Varadero"
     },
     {
-      "name": "Villa",
-      "id": "femwmis_fQoz"
+      "id": "villa",
+      "name": "Villa"
     }
   ]
 }

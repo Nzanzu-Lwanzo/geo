@@ -2,44 +2,44 @@
   "coid": "VA",
   "cities": [
     {
-      "name": "Vatican City",
-      "id": "Ouev2ICLod0T"
+      "id": "vatican-city",
+      "name": "Vatican City"
     },
     {
-      "name": "Borgo",
-      "id": "H2TDILJzGAlg"
+      "id": "borgo",
+      "name": "Borgo"
     },
     {
-      "name": "Prati",
-      "id": "cMhUCH5-L81b"
+      "id": "prati",
+      "name": "Prati"
     },
     {
-      "name": "Trastevere",
-      "id": "TMMhd-mpdQLk"
+      "id": "trastevere",
+      "name": "Trastevere"
     },
     {
-      "name": "Aurelio",
-      "id": "BWM7jV-AfzME"
+      "id": "aurelio",
+      "name": "Aurelio"
     },
     {
-      "name": "Flaminio",
-      "id": "iUC0w4rloRVF"
+      "id": "flaminio",
+      "name": "Flaminio"
     },
     {
-      "name": "Campo Marzio",
-      "id": "GNWmVZhRxQs5"
+      "id": "campo-marzio",
+      "name": "Campo Marzio"
     },
     {
-      "name": "Parioli",
-      "id": "pFXSucKobgUW"
+      "id": "parioli",
+      "name": "Parioli"
     },
     {
-      "name": "Monti",
-      "id": "DSCsW5xmvljw"
+      "id": "monti",
+      "name": "Monti"
     },
     {
-      "name": "Testaccio",
-      "id": "DDdhBRyFHMNT"
+      "id": "testaccio",
+      "name": "Testaccio"
     }
   ]
 }

@@ -2,44 +2,44 @@
   "coid": "VC",
   "cities": [
     {
-      "name": "Kingstown",
-      "id": "oRVdpdJRpPjl"
+      "id": "kingstown",
+      "name": "Kingstown"
     },
     {
-      "name": "Georgetown",
-      "id": "jPV5pZVXONwG"
+      "id": "georgetown",
+      "name": "Georgetown"
     },
     {
-      "name": "Barrouallie",
-      "id": "e4YQMYLFE7iF"
+      "id": "barrouallie",
+      "name": "Barrouallie"
     },
     {
-      "name": "Calliaqua",
-      "id": "_lt-EuHTDyXY"
+      "id": "calliaqua",
+      "name": "Calliaqua"
     },
     {
-      "name": "Layou",
-      "id": "7o7woFMMKBQ8"
+      "id": "layou",
+      "name": "Layou"
     },
     {
-      "name": "Chateaubelair",
-      "id": "zLftLgMkQbqN"
+      "id": "chateaubelair",
+      "name": "Chateaubelair"
     },
     {
-      "name": "Bequia",
-      "id": "daqVqXeQ_tpX"
+      "id": "bequia",
+      "name": "Bequia"
     },
     {
-      "name": "Canouan",
-      "id": "OdomuSuEj1hX"
+      "id": "canouan",
+      "name": "Canouan"
     },
     {
-      "name": "Union Island",
-      "id": "12BkGR9U_P1k"
+      "id": "union-island",
+      "name": "Union Island"
     },
     {
-      "name": "Petit Bordel",
-      "id": "lK2eZ_5aVefP"
+      "id": "petit-bordel",
+      "name": "Petit Bordel"
     }
   ]
 }

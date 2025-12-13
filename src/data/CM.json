@@ -2,40 +2,40 @@
   "coid": "CM",
   "cities": [
     {
-      "name": "Bafia",
-      "id": "icQQeOBumAKl"
+      "id": "bafia",
+      "name": "Bafia"
     },
     {
-      "name": "Bafoussam",
-      "id": "EohlFIsSyq68"
+      "id": "bafoussam",
+      "name": "Bafoussam"
     },
     {
-      "name": "Bamenda",
-      "id": "Eh3Vp9CJch7w"
+      "id": "bamenda",
+      "name": "Bamenda"
     },
     {
-      "name": "Buea",
-      "id": "holG6nS2E-xh"
+      "id": "buea",
+      "name": "Buea"
     },
     {
-      "name": "Douala",
-      "id": "9-s-H7Xzka1S"
+      "id": "douala",
+      "name": "Douala"
     },
     {
-      "name": "Kribi",
-      "id": "62LMTlZeaRYW"
+      "id": "kribi",
+      "name": "Kribi"
     },
     {
-      "name": "Kumba",
-      "id": "Y00fCxylsydg"
+      "id": "kumba",
+      "name": "Kumba"
     },
     {
-      "name": "Ringo",
-      "id": "XsLHOlSAlfmO"
+      "id": "ringo",
+      "name": "Ringo"
     },
     {
-      "name": "Tibati",
-      "id": "IkHltPPs7ZJf"
+      "id": "tibati",
+      "name": "Tibati"
     }
   ]
 }

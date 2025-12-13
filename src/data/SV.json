@@ -2,124 +2,124 @@
   "coid": "SV",
   "cities": [
     {
-      "name": "Ahuachapan",
-      "id": "yVEbnbuAc1gt"
+      "id": "ahuachapan",
+      "name": "Ahuachapan"
     },
     {
-      "name": "Antiguo Cuscatlan",
-      "id": "_NFRjFLz_moE"
+      "id": "antiguo-cuscatlan",
+      "name": "Antiguo Cuscatlan"
     },
     {
-      "name": "Apaneca",
-      "id": "PabPxVl86ewv"
+      "id": "apaneca",
+      "name": "Apaneca"
     },
     {
-      "name": "Apopa",
-      "id": "xtI9CcFcxNQp"
+      "id": "apopa",
+      "name": "Apopa"
     },
     {
-      "name": "Ayutuxtepeque",
-      "id": "O-6fVDCP5UPK"
+      "id": "ayutuxtepeque",
+      "name": "Ayutuxtepeque"
     },
     {
-      "name": "Botoncillal El Botoncillo",
-      "id": "VPzfx6GIVjU4"
+      "id": "botoncillal-el-botoncillo",
+      "name": "Botoncillal El Botoncillo"
     },
     {
-      "name": "Coatepeque",
-      "id": "NnP1mVVca1lD"
+      "id": "coatepeque",
+      "name": "Coatepeque"
     },
     {
-      "name": "Colon",
-      "id": "Q80E342LI1ZK"
+      "id": "colon",
+      "name": "Colon"
     },
     {
-      "name": "Colonia Escalon",
-      "id": "OiLpp0n3xOnz"
+      "id": "colonia-escalon",
+      "name": "Colonia Escalon"
     },
     {
-      "name": "Cuscatancingo",
-      "id": "vHtU_VhkPNHh"
+      "id": "cuscatancingo",
+      "name": "Cuscatancingo"
     },
     {
-      "name": "Delgado",
-      "id": "TnopVu5DLuKS"
+      "id": "delgado",
+      "name": "Delgado"
     },
     {
-      "name": "Gigante",
-      "id": "pJvgrG-YHVfS"
+      "id": "gigante",
+      "name": "Gigante"
     },
     {
-      "name": "Guazapa",
-      "id": "fLMhTNdZlKyo"
+      "id": "guazapa",
+      "name": "Guazapa"
     },
     {
-      "name": "Ilopango",
-      "id": "VVAvREBKG613"
+      "id": "ilopango",
+      "name": "Ilopango"
     },
     {
-      "name": "La Libertad",
-      "id": "rCrnTarYWHpo"
+      "id": "la-libertad",
+      "name": "La Libertad"
     },
     {
-      "name": "Lourdes",
-      "id": "yaJa7YsdSnYp"
+      "id": "lourdes",
+      "name": "Lourdes"
     },
     {
-      "name": "Mejicanos",
-      "id": "JIC-eBxmGIY4"
+      "id": "mejicanos",
+      "name": "Mejicanos"
     },
     {
-      "name": "Nuevo Cuscatlan",
-      "id": "0mKaNPY_EgUe"
+      "id": "nuevo-cuscatlan",
+      "name": "Nuevo Cuscatlan"
     },
     {
-      "name": "Ozatlan",
-      "id": "dqEc7KOHQeOA"
+      "id": "ozatlan",
+      "name": "Ozatlan"
     },
     {
-      "name": "San Jose Villanueva",
-      "id": "El9kTAeodB3x"
+      "id": "san-jose-villanueva",
+      "name": "San Jose Villanueva"
     },
     {
-      "name": "San Marcos",
-      "id": "eoCvbW7WylOM"
+      "id": "san-marcos",
+      "name": "San Marcos"
     },
     {
-      "name": "San Miguel",
-      "id": "vqHPq5lIZcnz"
+      "id": "san-miguel",
+      "name": "San Miguel"
     },
     {
-      "name": "San Salvador",
-      "id": "nsMSiG2hvwkm"
+      "id": "san-salvador",
+      "name": "San Salvador"
     },
     {
-      "name": "Santa Ana",
-      "id": "0ExAJCPufnDQ"
+      "id": "santa-ana",
+      "name": "Santa Ana"
     },
     {
-      "name": "Santa Tecla",
-      "id": "g-lKRyrFrUNL"
+      "id": "santa-tecla",
+      "name": "Santa Tecla"
     },
     {
-      "name": "Santiago Texacuangos",
-      "id": "fJT8rN9sentB"
+      "id": "santiago-texacuangos",
+      "name": "Santiago Texacuangos"
     },
     {
-      "name": "Sonsonate",
-      "id": "7QPL9uBcpkUu"
+      "id": "sonsonate",
+      "name": "Sonsonate"
     },
     {
-      "name": "Soyapango",
-      "id": "PwDx07e5cs2w"
+      "id": "soyapango",
+      "name": "Soyapango"
     },
     {
-      "name": "Usulutan",
-      "id": "zlPIDcabN-lA"
+      "id": "usulutan",
+      "name": "Usulutan"
     },
     {
-      "name": "Zaragoza",
-      "id": "s42iMTHUoIIy"
+      "id": "zaragoza",
+      "name": "Zaragoza"
     }
   ]
 }

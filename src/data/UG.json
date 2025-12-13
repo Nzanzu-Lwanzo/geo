@@ -2,44 +2,44 @@
   "coid": "UG",
   "cities": [
     {
-      "name": "Kampala",
-      "id": "2nYk-JDlR_85"
+      "id": "kampala",
+      "name": "Kampala"
     },
     {
-      "name": "Entebbe",
-      "id": "gGLPUOal5Eas"
+      "id": "entebbe",
+      "name": "Entebbe"
     },
     {
-      "name": "Gulu",
-      "id": "7jTV55psfYR5"
+      "id": "gulu",
+      "name": "Gulu"
     },
     {
-      "name": "Mbarara",
-      "id": "tHU5kkLpRVYP"
+      "id": "mbarara",
+      "name": "Mbarara"
     },
     {
-      "name": "Jinja",
-      "id": "Z7OzeHJ58j1x"
+      "id": "jinja",
+      "name": "Jinja"
     },
     {
-      "name": "Mbale",
-      "id": "_6kXH6B0A_jK"
+      "id": "mbale",
+      "name": "Mbale"
     },
     {
-      "name": "Lira",
-      "id": "5sL3D9-tT5PA"
+      "id": "lira",
+      "name": "Lira"
     },
     {
-      "name": "Fort Portal",
-      "id": "Qj-jm0dbYpdJ"
+      "id": "fort-portal",
+      "name": "Fort Portal"
     },
     {
-      "name": "Masaka",
-      "id": "hJBbehSBLeHV"
+      "id": "masaka",
+      "name": "Masaka"
     },
     {
-      "name": "Soroti",
-      "id": "bcPYSLFoCpEO"
+      "id": "soroti",
+      "name": "Soroti"
     }
   ]
 }

@@ -2,44 +2,44 @@
   "coid": "GD",
   "cities": [
     {
-      "name": "St. George's",
-      "id": "1oz85QAL6EYF"
+      "id": "st-georges",
+      "name": "St. George's"
     },
     {
-      "name": "Gouyave",
-      "id": "FyPp73BnYiWs"
+      "id": "gouyave",
+      "name": "Gouyave"
     },
     {
-      "name": "Grenville",
-      "id": "zImUblBTYtgd"
+      "id": "grenville",
+      "name": "Grenville"
     },
     {
-      "name": "Victoria",
-      "id": "MQrASn8hGnPl"
+      "id": "victoria",
+      "name": "Victoria"
     },
     {
-      "name": "Sauteurs",
-      "id": "qJmc9PM8jp26"
+      "id": "sauteurs",
+      "name": "Sauteurs"
     },
     {
-      "name": "Hillsborough",
-      "id": "bP3TIA1qjzmO"
+      "id": "hillsborough",
+      "name": "Hillsborough"
     },
     {
-      "name": "Woburn",
-      "id": "uysvZmy_yF20"
+      "id": "woburn",
+      "name": "Woburn"
     },
     {
-      "name": "Calliste",
-      "id": "DWJRic7dyo5g"
+      "id": "calliste",
+      "name": "Calliste"
     },
     {
-      "name": "Grand Roy",
-      "id": "vMwl_BsuJwYt"
+      "id": "grand-roy",
+      "name": "Grand Roy"
     },
     {
-      "name": "Marian",
-      "id": "8AQqJxofL9E4"
+      "id": "marian",
+      "name": "Marian"
     }
   ]
 }

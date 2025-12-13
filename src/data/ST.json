@@ -2,44 +2,44 @@
   "coid": "ST",
   "cities": [
     {
-      "name": "São Tomé",
-      "id": "FB5rv_vG78PM"
+      "id": "sao-tome",
+      "name": "São Tomé"
     },
     {
-      "name": "Santo António",
-      "id": "sX_BuPo0LS6w"
+      "id": "santo-antonio",
+      "name": "Santo António"
     },
     {
-      "name": "Neves",
-      "id": "Jv6f4l96as6D"
+      "id": "neves",
+      "name": "Neves"
     },
     {
-      "name": "Trindade",
-      "id": "mz4XaRHo9drZ"
+      "id": "trindade",
+      "name": "Trindade"
     },
     {
-      "name": "Santana",
-      "id": "5Y-ptjbzIzlT"
+      "id": "santana",
+      "name": "Santana"
     },
     {
-      "name": "Guadalupe",
-      "id": "8EuOm2ccX7Gu"
+      "id": "guadalupe",
+      "name": "Guadalupe"
     },
     {
-      "name": "Monte Café",
-      "id": "ST3eWvFabJ4O"
+      "id": "monte-cafe",
+      "name": "Monte Café"
     },
     {
-      "name": "Pantufo",
-      "id": "--q9dyZJn4uF"
+      "id": "pantufo",
+      "name": "Pantufo"
     },
     {
-      "name": "São João dos Angolares",
-      "id": "67kt8Qwj_jxU"
+      "id": "sao-joao-dos-angolares",
+      "name": "São João dos Angolares"
     },
     {
-      "name": "Ribeira Afonso",
-      "id": "t59jc6MBPKej"
+      "id": "ribeira-afonso",
+      "name": "Ribeira Afonso"
     }
   ]
 }

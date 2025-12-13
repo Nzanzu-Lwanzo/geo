@@ -2,44 +2,44 @@
   "coid": "HT",
   "cities": [
     {
-      "name": "Carrefour",
-      "id": "8uTFZUj_eUyc"
+      "id": "carrefour",
+      "name": "Carrefour"
     },
     {
-      "name": "Delmar",
-      "id": "7GkeOQJLelyX"
+      "id": "delmar",
+      "name": "Delmar"
     },
     {
-      "name": "Duverger",
-      "id": "aKKhODbZOGr5"
+      "id": "duverger",
+      "name": "Duverger"
     },
     {
-      "name": "Jacmel",
-      "id": "lZm4Zs8iX7DL"
+      "id": "jacmel",
+      "name": "Jacmel"
     },
     {
-      "name": "Masseau",
-      "id": "l81zxRVbBRVG"
+      "id": "masseau",
+      "name": "Masseau"
     },
     {
-      "name": "Moise",
-      "id": "UTlr--A2DeQH"
+      "id": "moise",
+      "name": "Moise"
     },
     {
-      "name": "Petionville",
-      "id": "Is77vCwcCovX"
+      "id": "petionville",
+      "name": "Petionville"
     },
     {
-      "name": "Port-au-Prince",
-      "id": "drdp3rYXFGIS"
+      "id": "port-au-prince",
+      "name": "Port-au-Prince"
     },
     {
-      "name": "Prince",
-      "id": "VAWaEzfZZf1a"
+      "id": "prince",
+      "name": "Prince"
     },
     {
-      "name": "Turgeau",
-      "id": "4-VeLXUmOHLA"
+      "id": "turgeau",
+      "name": "Turgeau"
     }
   ]
 }

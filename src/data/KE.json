@@ -2,96 +2,96 @@
   "coid": "KE",
   "cities": [
     {
-      "name": "Bondo",
-      "id": "W9XFquOdlk-D"
+      "id": "bondo",
+      "name": "Bondo"
     },
     {
-      "name": "Chuka",
-      "id": "QJMc-NH7x2uS"
+      "id": "chuka",
+      "name": "Chuka"
     },
     {
-      "name": "Eldoret",
-      "id": "ePugvvXniWBV"
+      "id": "eldoret",
+      "name": "Eldoret"
     },
     {
-      "name": "Kabete",
-      "id": "FjNDmUgUZjLM"
+      "id": "kabete",
+      "name": "Kabete"
     },
     {
-      "name": "Kaiboi",
-      "id": "UpIa2gnPCB3Q"
+      "id": "kaiboi",
+      "name": "Kaiboi"
     },
     {
-      "name": "Karatina",
-      "id": "5LaxIblAVFuC"
+      "id": "karatina",
+      "name": "Karatina"
     },
     {
-      "name": "Kiambu",
-      "id": "WIUAqY4AAiC5"
+      "id": "kiambu",
+      "name": "Kiambu"
     },
     {
-      "name": "Kikuyu",
-      "id": "knDFYXJbfvOK"
+      "id": "kikuyu",
+      "name": "Kikuyu"
     },
     {
-      "name": "Kisii",
-      "id": "q_k8APRHi095"
+      "id": "kisii",
+      "name": "Kisii"
     },
     {
-      "name": "Kisumu",
-      "id": "9ojVXsqdGquF"
+      "id": "kisumu",
+      "name": "Kisumu"
     },
     {
-      "name": "Kitale",
-      "id": "S3EHqTG72Jww"
+      "id": "kitale",
+      "name": "Kitale"
     },
     {
-      "name": "Kitui",
-      "id": "hoY7Yrpl0UzW"
+      "id": "kitui",
+      "name": "Kitui"
     },
     {
-      "name": "Machakos",
-      "id": "S7YuXESL-3GF"
+      "id": "machakos",
+      "name": "Machakos"
     },
     {
-      "name": "Maseno",
-      "id": "uu_FQWaQvvlr"
+      "id": "maseno",
+      "name": "Maseno"
     },
     {
-      "name": "Mbita",
-      "id": "IQyw5t0bqHyE"
+      "id": "mbita",
+      "name": "Mbita"
     },
     {
-      "name": "Mombasa",
-      "id": "Ts8EVkZa-pZo"
+      "id": "mombasa",
+      "name": "Mombasa"
     },
     {
-      "name": "Nairobi",
-      "id": "-oxX32yZfPBY"
+      "id": "nairobi",
+      "name": "Nairobi"
     },
     {
-      "name": "Nakuru",
-      "id": "CtN6Dk4F5d_A"
+      "id": "nakuru",
+      "name": "Nakuru"
     },
     {
-      "name": "Sawa Sawa",
-      "id": "Ec8axlgJidGS"
+      "id": "sawa-sawa",
+      "name": "Sawa Sawa"
     },
     {
-      "name": "Siaya",
-      "id": "9uSwN0OqGk6y"
+      "id": "siaya",
+      "name": "Siaya"
     },
     {
-      "name": "Thika",
-      "id": "y5-QK7bLRybI"
+      "id": "thika",
+      "name": "Thika"
     },
     {
-      "name": "Turbo",
-      "id": "Z_hERIpoRSOE"
+      "id": "turbo",
+      "name": "Turbo"
     },
     {
-      "name": "Wote",
-      "id": "WqTyEIow9tzP"
+      "id": "wote",
+      "name": "Wote"
     }
   ]
 }

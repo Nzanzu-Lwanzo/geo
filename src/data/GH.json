@@ -2,68 +2,68 @@
   "coid": "GH",
   "cities": [
     {
-      "name": "Accra",
-      "id": "XLND10BOHom7"
+      "id": "accra",
+      "name": "Accra"
     },
     {
-      "name": "Bawku",
-      "id": "3pRz7oY2Y0hF"
+      "id": "bawku",
+      "name": "Bawku"
     },
     {
-      "name": "Berekum",
-      "id": "wihamw91E5dS"
+      "id": "berekum",
+      "name": "Berekum"
     },
     {
-      "name": "Bolgatanga",
-      "id": "g9jlDvSboQFa"
+      "id": "bolgatanga",
+      "name": "Bolgatanga"
     },
     {
-      "name": "Cape Coast",
-      "id": "LLsu5nxYv-IB"
+      "id": "cape-coast",
+      "name": "Cape Coast"
     },
     {
-      "name": "Home",
-      "id": "VPs_4hzzuaiz"
+      "id": "home",
+      "name": "Home"
     },
     {
-      "name": "Koforidua",
-      "id": "eOjHgFr2wAIG"
+      "id": "koforidua",
+      "name": "Koforidua"
     },
     {
-      "name": "Kumasi",
-      "id": "nP-f9q4dXDv1"
+      "id": "kumasi",
+      "name": "Kumasi"
     },
     {
-      "name": "Legon",
-      "id": "em5QucxCfIz8"
+      "id": "legon",
+      "name": "Legon"
     },
     {
-      "name": "Mampong",
-      "id": "JttrKcuqcws9"
+      "id": "mampong",
+      "name": "Mampong"
     },
     {
-      "name": "Navrongo",
-      "id": "p7bA1OvzHNvu"
+      "id": "navrongo",
+      "name": "Navrongo"
     },
     {
-      "name": "Sunyani",
-      "id": "CdCLL0Rb0UiF"
+      "id": "sunyani",
+      "name": "Sunyani"
     },
     {
-      "name": "Takoradi",
-      "id": "NpiDH_xQ-TjQ"
+      "id": "takoradi",
+      "name": "Takoradi"
     },
     {
-      "name": "Tema",
-      "id": "uNE4F5FQ_1QD"
+      "id": "tema",
+      "name": "Tema"
     },
     {
-      "name": "Wa",
-      "id": "dM_VjYzprb7x"
+      "id": "wa",
+      "name": "Wa"
     },
     {
-      "name": "Winneba",
-      "id": "4XIWC9NGK0ST"
+      "id": "winneba",
+      "name": "Winneba"
     }
   ]
 }

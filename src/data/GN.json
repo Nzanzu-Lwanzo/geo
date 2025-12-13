@@ -2,36 +2,36 @@
   "coid": "GN",
   "cities": [
     {
-      "name": "Conakry",
-      "id": "EVxAyBWHOUcv"
+      "id": "conakry",
+      "name": "Conakry"
     },
     {
-      "name": "Dabola",
-      "id": "SstZ8jpZ2apr"
+      "id": "dabola",
+      "name": "Dabola"
     },
     {
-      "name": "Kalia",
-      "id": "-gN-Z4nfndMW"
+      "id": "kalia",
+      "name": "Kalia"
     },
     {
-      "name": "Kankan",
-      "id": "l9gepeJT9kkZ"
+      "id": "kankan",
+      "name": "Kankan"
     },
     {
-      "name": "Lola",
-      "id": "jRUmsZDzsObg"
+      "id": "lola",
+      "name": "Lola"
     },
     {
-      "name": "Mamou",
-      "id": "LHhSEhL5MCO4"
+      "id": "mamou",
+      "name": "Mamou"
     },
     {
-      "name": "Port Kamsar",
-      "id": "pGM_hgvZI7Oz"
+      "id": "port-kamsar",
+      "name": "Port Kamsar"
     },
     {
-      "name": "Sangaredi",
-      "id": "MhENuqUj-ksb"
+      "id": "sangaredi",
+      "name": "Sangaredi"
     }
   ]
 }

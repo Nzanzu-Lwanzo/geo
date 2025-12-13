@@ -2,44 +2,44 @@
   "coid": "DM",
   "cities": [
     {
-      "name": "Roseau",
-      "id": "U_KC9VAQkT4m"
+      "id": "roseau",
+      "name": "Roseau"
     },
     {
-      "name": "Portsmouth",
-      "id": "rTMJ2fUP_ukq"
+      "id": "portsmouth",
+      "name": "Portsmouth"
     },
     {
-      "name": "Marigot",
-      "id": "SbV-K-vOai8T"
+      "id": "marigot",
+      "name": "Marigot"
     },
     {
-      "name": "Berekua",
-      "id": "LWaLZ45uxhdO"
+      "id": "berekua",
+      "name": "Berekua"
     },
     {
-      "name": "Wesley",
-      "id": "kTvUOjjOxWDN"
+      "id": "wesley",
+      "name": "Wesley"
     },
     {
-      "name": "Mahaut",
-      "id": "3eb3H0IeHfWz"
+      "id": "mahaut",
+      "name": "Mahaut"
     },
     {
-      "name": "Castle Bruce",
-      "id": "IcvYkUL2j6of"
+      "id": "castle-bruce",
+      "name": "Castle Bruce"
     },
     {
-      "name": "La Plaine",
-      "id": "SpQ_GLIUw6m3"
+      "id": "la-plaine",
+      "name": "La Plaine"
     },
     {
-      "name": "Salisbury",
-      "id": "MHM9MiaQ4By_"
+      "id": "salisbury",
+      "name": "Salisbury"
     },
     {
-      "name": "Colihaut",
-      "id": "kj58Vaqzb32A"
+      "id": "colihaut",
+      "name": "Colihaut"
     }
   ]
 }

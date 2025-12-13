@@ -2,1116 +2,1116 @@
   "coid": "NZ",
   "cities": [
     {
-      "name": "Ahaura",
-      "id": "JhZ-Qsydvnya"
+      "id": "ahaura",
+      "name": "Ahaura"
     },
     {
-      "name": "Albany",
-      "id": "1p84d-BArs7X"
+      "id": "albany",
+      "name": "Albany"
     },
     {
-      "name": "Amberley",
-      "id": "GxypgHH0hCmj"
+      "id": "amberley",
+      "name": "Amberley"
     },
     {
-      "name": "Ashhurst",
-      "id": "8c_lau5qe-Ai"
+      "id": "ashhurst",
+      "name": "Ashhurst"
     },
     {
-      "name": "Auckland",
-      "id": "8bXV1GoVgFOO"
+      "id": "auckland",
+      "name": "Auckland"
     },
     {
-      "name": "Avondale",
-      "id": "VJwpHgyAK-BB"
+      "id": "avondale",
+      "name": "Avondale"
     },
     {
-      "name": "Awanui",
-      "id": "lXdFXhj6Lwdh"
+      "id": "awanui",
+      "name": "Awanui"
     },
     {
-      "name": "Balclutha",
-      "id": "lUI72w58mq3w"
+      "id": "balclutha",
+      "name": "Balclutha"
     },
     {
-      "name": "Balfour",
-      "id": "Pp1JPOI2DRSt"
+      "id": "balfour",
+      "name": "Balfour"
     },
     {
-      "name": "Beachlands",
-      "id": "zc5E_sXI1P1A"
+      "id": "beachlands",
+      "name": "Beachlands"
     },
     {
-      "name": "Belmont",
-      "id": "QYh9A-ts5cg-"
+      "id": "belmont",
+      "name": "Belmont"
     },
     {
-      "name": "Bethlehem",
-      "id": "aigWz7gwLAIA"
+      "id": "bethlehem",
+      "name": "Bethlehem"
     },
     {
-      "name": "Blackburn",
-      "id": "T-cJ25pQ5f9k"
+      "id": "blackburn",
+      "name": "Blackburn"
     },
     {
-      "name": "Bombay",
-      "id": "PBxkxOlhvF5R"
+      "id": "bombay",
+      "name": "Bombay"
     },
     {
-      "name": "Brightwater",
-      "id": "R4vgykKKBtdL"
+      "id": "brightwater",
+      "name": "Brightwater"
     },
     {
-      "name": "Browns Bay",
-      "id": "9SvkBIMlqxxK"
+      "id": "browns-bay",
+      "name": "Browns Bay"
     },
     {
-      "name": "Bulls",
-      "id": "-hQv0RbQ7Og7"
+      "id": "bulls",
+      "name": "Bulls"
     },
     {
-      "name": "Campbells Bay",
-      "id": "EKFPobtseAeJ"
+      "id": "campbells-bay",
+      "name": "Campbells Bay"
     },
     {
-      "name": "Cashmere Hills",
-      "id": "sXvIGMPcJ-ky"
+      "id": "cashmere-hills",
+      "name": "Cashmere Hills"
     },
     {
-      "name": "Cave",
-      "id": "nKoY-qYXImlY"
+      "id": "cave",
+      "name": "Cave"
     },
     {
-      "name": "Cheviot",
-      "id": "PnvvEJCDO0b0"
+      "id": "cheviot",
+      "name": "Cheviot"
     },
     {
-      "name": "Christchurch",
-      "id": "OVsrGR2C4RpW"
+      "id": "christchurch",
+      "name": "Christchurch"
     },
     {
-      "name": "Clarks",
-      "id": "GklfB5jzZJtx"
+      "id": "clarks",
+      "name": "Clarks"
     },
     {
-      "name": "Clevedon",
-      "id": "RFVvwApC6AZV"
+      "id": "clevedon",
+      "name": "Clevedon"
     },
     {
-      "name": "Clinton",
-      "id": "I2BjYYzWUl1p"
+      "id": "clinton",
+      "name": "Clinton"
     },
     {
-      "name": "Clive",
-      "id": "1GpXmZiuMiue"
+      "id": "clive",
+      "name": "Clive"
     },
     {
-      "name": "Clyde",
-      "id": "qfF4kTYdAqkb"
+      "id": "clyde",
+      "name": "Clyde"
     },
     {
-      "name": "Coalgate",
-      "id": "CDnJKwL_mCl1"
+      "id": "coalgate",
+      "name": "Coalgate"
     },
     {
-      "name": "Coatesville",
-      "id": "Lfa6FxSjvC2M"
+      "id": "coatesville",
+      "name": "Coatesville"
     },
     {
-      "name": "Collingwood",
-      "id": "n9DEqVXKnD1v"
+      "id": "collingwood",
+      "name": "Collingwood"
     },
     {
-      "name": "Colville",
-      "id": "T582PDBVL6j0"
+      "id": "colville",
+      "name": "Colville"
     },
     {
-      "name": "Coromandel",
-      "id": "KjjjUOmGWzLi"
+      "id": "coromandel",
+      "name": "Coromandel"
     },
     {
-      "name": "Darfield",
-      "id": "W0rYDb8ShtFt"
+      "id": "darfield",
+      "name": "Darfield"
     },
     {
-      "name": "Dargaville",
-      "id": "oBs_ktjGngnn"
+      "id": "dargaville",
+      "name": "Dargaville"
     },
     {
-      "name": "Douglas",
-      "id": "7ss4M1UI05kz"
+      "id": "douglas",
+      "name": "Douglas"
     },
     {
-      "name": "Doyleston",
-      "id": "XF4tpFYuvxKx"
+      "id": "doyleston",
+      "name": "Doyleston"
     },
     {
-      "name": "Drury",
-      "id": "LG2SyTDNZt_7"
+      "id": "drury",
+      "name": "Drury"
     },
     {
-      "name": "Dunedin",
-      "id": "-iBKVjRSKGfD"
+      "id": "dunedin",
+      "name": "Dunedin"
     },
     {
-      "name": "Duvauchelle",
-      "id": "BynvOtSoe4hK"
+      "id": "duvauchelle",
+      "name": "Duvauchelle"
     },
     {
-      "name": "East Tamaki",
-      "id": "sFY8-lBae9fS"
+      "id": "east-tamaki",
+      "name": "East Tamaki"
     },
     {
-      "name": "Eastbourne",
-      "id": "vsKii-pbKP2A"
+      "id": "eastbourne",
+      "name": "Eastbourne"
     },
     {
-      "name": "Edendale",
-      "id": "gAfnEeyp5pSF"
+      "id": "edendale",
+      "name": "Edendale"
     },
     {
-      "name": "Eltham",
-      "id": "pX9BBZ9Bk5FY"
+      "id": "eltham",
+      "name": "Eltham"
     },
     {
-      "name": "Fairlie",
-      "id": "wBZyUUh2zSdy"
+      "id": "fairlie",
+      "name": "Fairlie"
     },
     {
-      "name": "Favona",
-      "id": "vYHcXPQroqLy"
+      "id": "favona",
+      "name": "Favona"
     },
     {
-      "name": "Foxton",
-      "id": "iz-BzAx3QlUH"
+      "id": "foxton",
+      "name": "Foxton"
     },
     {
-      "name": "Foxton Beach",
-      "id": "T9i5ybSW53ys"
+      "id": "foxton-beach",
+      "name": "Foxton Beach"
     },
     {
-      "name": "Franz Josef",
-      "id": "qndDGXTJL9_P"
+      "id": "franz-josef",
+      "name": "Franz Josef"
     },
     {
-      "name": "Gisborne",
-      "id": "mwExCF6wGkAQ"
+      "id": "gisborne",
+      "name": "Gisborne"
     },
     {
-      "name": "Glen Eden",
-      "id": "_zJD_vJPyqoX"
+      "id": "glen-eden",
+      "name": "Glen Eden"
     },
     {
-      "name": "Glenbrook",
-      "id": "fuLbODueqHdA"
+      "id": "glenbrook",
+      "name": "Glenbrook"
     },
     {
-      "name": "Greenhithe",
-      "id": "9NurFrFiY9Dl"
+      "id": "greenhithe",
+      "name": "Greenhithe"
     },
     {
-      "name": "Greerton",
-      "id": "NW1Jd2dJpY2g"
+      "id": "greerton",
+      "name": "Greerton"
     },
     {
-      "name": "Greymouth",
-      "id": "kvzmT4OkEyo5"
+      "id": "greymouth",
+      "name": "Greymouth"
     },
     {
-      "name": "Haast",
-      "id": "VVunaCt0cS_U"
+      "id": "haast",
+      "name": "Haast"
     },
     {
-      "name": "Halswell",
-      "id": "wVyepvFfJiqO"
+      "id": "halswell",
+      "name": "Halswell"
     },
     {
-      "name": "Hamilton",
-      "id": "a3P0tAQrrldA"
+      "id": "hamilton",
+      "name": "Hamilton"
     },
     {
-      "name": "Hastings",
-      "id": "ULzrCx9gJtwM"
+      "id": "hastings",
+      "name": "Hastings"
     },
     {
-      "name": "Havelock North",
-      "id": "ag1hnuJTd6lb"
+      "id": "havelock-north",
+      "name": "Havelock North"
     },
     {
-      "name": "Hawarden",
-      "id": "wsyIZthScIAU"
+      "id": "hawarden",
+      "name": "Hawarden"
     },
     {
-      "name": "Hawera",
-      "id": "xtFYI0Gc45tQ"
+      "id": "hawera",
+      "name": "Hawera"
     },
     {
-      "name": "Herne Bay",
-      "id": "Ku5sCPwnhKAh"
+      "id": "herne-bay",
+      "name": "Herne Bay"
     },
     {
-      "name": "Hikuai",
-      "id": "OSl_64H1ew32"
+      "id": "hikuai",
+      "name": "Hikuai"
     },
     {
-      "name": "Hokitika",
-      "id": "OUgvklTSl9rI"
+      "id": "hokitika",
+      "name": "Hokitika"
     },
     {
-      "name": "Howick",
-      "id": "0Ltjc_7TzFLK"
+      "id": "howick",
+      "name": "Howick"
     },
     {
-      "name": "Hunterville",
-      "id": "a1jTGUCESo8O"
+      "id": "hunterville",
+      "name": "Hunterville"
     },
     {
-      "name": "Invercargill",
-      "id": "r9dlWie3DPXT"
+      "id": "invercargill",
+      "name": "Invercargill"
     },
     {
-      "name": "Johnsonville",
-      "id": "TSt5ThZT-qzu"
+      "id": "johnsonville",
+      "name": "Johnsonville"
     },
     {
-      "name": "Kaeo",
-      "id": "K1tA8m901Dbn"
+      "id": "kaeo",
+      "name": "Kaeo"
     },
     {
-      "name": "Kaiata",
-      "id": "Jtx9btJD7C5M"
+      "id": "kaiata",
+      "name": "Kaiata"
     },
     {
-      "name": "Kaikoura",
-      "id": "O-_rM-wtTmQ1"
+      "id": "kaikoura",
+      "name": "Kaikoura"
     },
     {
-      "name": "Kaitangata",
-      "id": "3vtsXYGP1tdF"
+      "id": "kaitangata",
+      "name": "Kaitangata"
     },
     {
-      "name": "Kaiwaka",
-      "id": "cS7a4JQsd12w"
+      "id": "kaiwaka",
+      "name": "Kaiwaka"
     },
     {
-      "name": "Kaiwharawhara",
-      "id": "Ie_01vNTHWQS"
+      "id": "kaiwharawhara",
+      "name": "Kaiwharawhara"
     },
     {
-      "name": "Kamo",
-      "id": "_wRvY_Ddc4of"
+      "id": "kamo",
+      "name": "Kamo"
     },
     {
-      "name": "Karamea",
-      "id": "8YcRfE0Tm1dZ"
+      "id": "karamea",
+      "name": "Karamea"
     },
     {
-      "name": "Katikati",
-      "id": "sQuGOvfVFOpc"
+      "id": "katikati",
+      "name": "Katikati"
     },
     {
-      "name": "Kawakawa",
-      "id": "rpbh3W3O1WzJ"
+      "id": "kawakawa",
+      "name": "Kawakawa"
     },
     {
-      "name": "Kawerau",
-      "id": "40g4KQOoUNJN"
+      "id": "kawerau",
+      "name": "Kawerau"
     },
     {
-      "name": "Kawhia",
-      "id": "bob_He0yk0s8"
+      "id": "kawhia",
+      "name": "Kawhia"
     },
     {
-      "name": "Kerikeri",
-      "id": "cm8OpIoc1FFH"
+      "id": "kerikeri",
+      "name": "Kerikeri"
     },
     {
-      "name": "Khandallah",
-      "id": "K8aDS24okLRL"
+      "id": "khandallah",
+      "name": "Khandallah"
     },
     {
-      "name": "Kimbolton",
-      "id": "qM3uEdJpWd7J"
+      "id": "kimbolton",
+      "name": "Kimbolton"
     },
     {
-      "name": "Kirwee",
-      "id": "mEf_O-W6Oo1Q"
+      "id": "kirwee",
+      "name": "Kirwee"
     },
     {
-      "name": "Kohukohu",
-      "id": "W-PJMv7BphVq"
+      "id": "kohukohu",
+      "name": "Kohukohu"
     },
     {
-      "name": "Kumeu",
-      "id": "jtXCELD4y8Dk"
+      "id": "kumeu",
+      "name": "Kumeu"
     },
     {
-      "name": "Kurow",
-      "id": "S_kCt8mx0c_Z"
+      "id": "kurow",
+      "name": "Kurow"
     },
     {
-      "name": "Lake Tekapo",
-      "id": "0a3LvAGM3wEh"
+      "id": "lake-tekapo",
+      "name": "Lake Tekapo"
     },
     {
-      "name": "Leamington",
-      "id": "MyoZw-INTI3n"
+      "id": "leamington",
+      "name": "Leamington"
     },
     {
-      "name": "Leeston",
-      "id": "aLnAhLKdPAya"
+      "id": "leeston",
+      "name": "Leeston"
     },
     {
-      "name": "Levels",
-      "id": "DlaP2FuYT15G"
+      "id": "levels",
+      "name": "Levels"
     },
     {
-      "name": "Levin",
-      "id": "P-MxFQwhKDw2"
+      "id": "levin",
+      "name": "Levin"
     },
     {
-      "name": "Lincoln",
-      "id": "vIIIW1xHgD9c"
+      "id": "lincoln",
+      "name": "Lincoln"
     },
     {
-      "name": "Linwood",
-      "id": "SVLRvd1pEoOV"
+      "id": "linwood",
+      "name": "Linwood"
     },
     {
-      "name": "Longburn",
-      "id": "Rqj9MXb90PvG"
+      "id": "longburn",
+      "name": "Longburn"
     },
     {
-      "name": "Lower Hutt",
-      "id": "dfhy6uhWXjR5"
+      "id": "lower-hutt",
+      "name": "Lower Hutt"
     },
     {
-      "name": "Lumsden",
-      "id": "B_eWny2a3pXa"
+      "id": "lumsden",
+      "name": "Lumsden"
     },
     {
-      "name": "Mangaroa",
-      "id": "r8kyF8bw3g8F"
+      "id": "mangaroa",
+      "name": "Mangaroa"
     },
     {
-      "name": "Mangawhai Heads",
-      "id": "sXn9mqB9F6u3"
+      "id": "mangawhai-heads",
+      "name": "Mangawhai Heads"
     },
     {
-      "name": "Mangere",
-      "id": "w34AgEAlHRqN"
+      "id": "mangere",
+      "name": "Mangere"
     },
     {
-      "name": "Mangonui",
-      "id": "S4qrOe2ngA5s"
+      "id": "mangonui",
+      "name": "Mangonui"
     },
     {
-      "name": "Manukau",
-      "id": "oQgJaNaHZckS"
+      "id": "manukau",
+      "name": "Manukau"
     },
     {
-      "name": "Manunui",
-      "id": "PUDTzlQhuS0N"
+      "id": "manunui",
+      "name": "Manunui"
     },
     {
-      "name": "Marua",
-      "id": "YF-kRIiGZTKU"
+      "id": "marua",
+      "name": "Marua"
     },
     {
-      "name": "Masterton",
-      "id": "IfOWzXnZb2Xm"
+      "id": "masterton",
+      "name": "Masterton"
     },
     {
-      "name": "Matakana",
-      "id": "H7_hl0hiln50"
+      "id": "matakana",
+      "name": "Matakana"
     },
     {
-      "name": "Maungatapere",
-      "id": "NwNfMRKlgk23"
+      "id": "maungatapere",
+      "name": "Maungatapere"
     },
     {
-      "name": "Maungaturoto",
-      "id": "qVL0RpvyuNTa"
+      "id": "maungaturoto",
+      "name": "Maungaturoto"
     },
     {
-      "name": "Menzies Ferry",
-      "id": "2Zz4cidsLwOP"
+      "id": "menzies-ferry",
+      "name": "Menzies Ferry"
     },
     {
-      "name": "Methven",
-      "id": "Ov1a0aH2DDoL"
+      "id": "methven",
+      "name": "Methven"
     },
     {
-      "name": "Milton",
-      "id": "SgMGDE2v7hoh"
+      "id": "milton",
+      "name": "Milton"
     },
     {
-      "name": "Mission Bay",
-      "id": "Bc1v70pCWdTI"
+      "id": "mission-bay",
+      "name": "Mission Bay"
     },
     {
-      "name": "Moerewa",
-      "id": "XBacxRVC39te"
+      "id": "moerewa",
+      "name": "Moerewa"
     },
     {
-      "name": "Mosgiel",
-      "id": "ZoMWf2qcpJ3N"
+      "id": "mosgiel",
+      "name": "Mosgiel"
     },
     {
-      "name": "Mossburn",
-      "id": "EzXmTq9kB7B6"
+      "id": "mossburn",
+      "name": "Mossburn"
     },
     {
-      "name": "Mount Maunganui",
-      "id": "lebgzqAOIqEA"
+      "id": "mount-maunganui",
+      "name": "Mount Maunganui"
     },
     {
-      "name": "Murupara",
-      "id": "TMXZY37fYBAK"
+      "id": "murupara",
+      "name": "Murupara"
     },
     {
-      "name": "Myross Bush",
-      "id": "WdTbZ_z7GpNp"
+      "id": "myross-bush",
+      "name": "Myross Bush"
     },
     {
-      "name": "Napier City",
-      "id": "rqeZqn_g8ueA"
+      "id": "napier-city",
+      "name": "Napier City"
     },
     {
-      "name": "Nelson",
-      "id": "hQEV8UGNGucF"
+      "id": "nelson",
+      "name": "Nelson"
     },
     {
-      "name": "New Plymouth",
-      "id": "LFm0CLVKj3Qm"
+      "id": "new-plymouth",
+      "name": "New Plymouth"
     },
     {
-      "name": "Ngaio",
-      "id": "TZT4C-gnrQJJ"
+      "id": "ngaio",
+      "name": "Ngaio"
     },
     {
-      "name": "Ngatea",
-      "id": "C1O5Twsj8Df_"
+      "id": "ngatea",
+      "name": "Ngatea"
     },
     {
-      "name": "North Shore",
-      "id": "d9sDoR2IY-77"
+      "id": "north-shore",
+      "name": "North Shore"
     },
     {
-      "name": "Northcote Point",
-      "id": "3dafaBG761rc"
+      "id": "northcote-point",
+      "name": "Northcote Point"
     },
     {
-      "name": "Northland",
-      "id": "eevt_BFKrJ3G"
+      "id": "northland",
+      "name": "Northland"
     },
     {
-      "name": "Oakura",
-      "id": "obni6dljrxJp"
+      "id": "oakura",
+      "name": "Oakura"
     },
     {
-      "name": "Oamaru",
-      "id": "2je_cLIsby8o"
+      "id": "oamaru",
+      "name": "Oamaru"
     },
     {
-      "name": "Oban",
-      "id": "4x4BzxgpfvtF"
+      "id": "oban",
+      "name": "Oban"
     },
     {
-      "name": "Ohaupo",
-      "id": "2qc1lhMMKf9p"
+      "id": "ohaupo",
+      "name": "Ohaupo"
     },
     {
-      "name": "Ohura",
-      "id": "KuPKcFFUtsQ7"
+      "id": "ohura",
+      "name": "Ohura"
     },
     {
-      "name": "Okaiawa",
-      "id": "BD4LiRoaIiBP"
+      "id": "okaiawa",
+      "name": "Okaiawa"
     },
     {
-      "name": "Okaihau",
-      "id": "WykE4_ZlZcbN"
+      "id": "okaihau",
+      "name": "Okaihau"
     },
     {
-      "name": "Okato",
-      "id": "58CloTBkUSoU"
+      "id": "okato",
+      "name": "Okato"
     },
     {
-      "name": "Onga Onga",
-      "id": "Dbis219Tscgy"
+      "id": "onga-onga",
+      "name": "Onga Onga"
     },
     {
-      "name": "Opaheke",
-      "id": "jmO-tzPAO_49"
+      "id": "opaheke",
+      "name": "Opaheke"
     },
     {
-      "name": "Opotiki",
-      "id": "ydgYeltP3Csa"
+      "id": "opotiki",
+      "name": "Opotiki"
     },
     {
-      "name": "Opunake",
-      "id": "OBpUdVA1hnfD"
+      "id": "opunake",
+      "name": "Opunake"
     },
     {
-      "name": "Orakei",
-      "id": "-cMYSaOgmbY5"
+      "id": "orakei",
+      "name": "Orakei"
     },
     {
-      "name": "Oratia",
-      "id": "pIGjtcm-1pwe"
+      "id": "oratia",
+      "name": "Oratia"
     },
     {
-      "name": "Orewa",
-      "id": "4SL4t3h1_7L-"
+      "id": "orewa",
+      "name": "Orewa"
     },
     {
-      "name": "Otaki",
-      "id": "zEkz60qlrqpQ"
+      "id": "otaki",
+      "name": "Otaki"
     },
     {
-      "name": "Otaki Beach",
-      "id": "B4q-c1DaPWwY"
+      "id": "otaki-beach",
+      "name": "Otaki Beach"
     },
     {
-      "name": "Otane",
-      "id": "j9c2Q2DkJjnL"
+      "id": "otane",
+      "name": "Otane"
     },
     {
-      "name": "Otautau",
-      "id": "rSXMVRyBWJZ6"
+      "id": "otautau",
+      "name": "Otautau"
     },
     {
-      "name": "Otematata",
-      "id": "RCLahT_4iXUA"
+      "id": "otematata",
+      "name": "Otematata"
     },
     {
-      "name": "Otorohanga",
-      "id": "WAEMkQcuedk2"
+      "id": "otorohanga",
+      "name": "Otorohanga"
     },
     {
-      "name": "Oturehua",
-      "id": "aN_VA5FAyokK"
+      "id": "oturehua",
+      "name": "Oturehua"
     },
     {
-      "name": "Outram",
-      "id": "I5uSfnJVHyjJ"
+      "id": "outram",
+      "name": "Outram"
     },
     {
-      "name": "Owaka",
-      "id": "QVC6h8x-nmgz"
+      "id": "owaka",
+      "name": "Owaka"
     },
     {
-      "name": "Oxford",
-      "id": "N0RgvXJl_bWQ"
+      "id": "oxford",
+      "name": "Oxford"
     },
     {
-      "name": "Paekakariki",
-      "id": "_JbF2wqhHKp7"
+      "id": "paekakariki",
+      "name": "Paekakariki"
     },
     {
-      "name": "Paeroa",
-      "id": "bAjJ8Cy_R-sB"
+      "id": "paeroa",
+      "name": "Paeroa"
     },
     {
-      "name": "Paihia",
-      "id": "mUPDamn1GXN4"
+      "id": "paihia",
+      "name": "Paihia"
     },
     {
-      "name": "Pakuranga",
-      "id": "wAeUKSxTjHpJ"
+      "id": "pakuranga",
+      "name": "Pakuranga"
     },
     {
-      "name": "Palmerston North",
-      "id": "_TnWlySLTOHX"
+      "id": "palmerston-north",
+      "name": "Palmerston North"
     },
     {
-      "name": "Panmure",
-      "id": "faRhp-mluLcC"
+      "id": "panmure",
+      "name": "Panmure"
     },
     {
-      "name": "Papakura",
-      "id": "7JSyqahfreKy"
+      "id": "papakura",
+      "name": "Papakura"
     },
     {
-      "name": "Papamoa",
-      "id": "mi7-eUJdF-NS"
+      "id": "papamoa",
+      "name": "Papamoa"
     },
     {
-      "name": "Paradise",
-      "id": "lC_WOeHYqAvZ"
+      "id": "paradise",
+      "name": "Paradise"
     },
     {
-      "name": "Paraparaumu",
-      "id": "9jCo3YqKuqUJ"
+      "id": "paraparaumu",
+      "name": "Paraparaumu"
     },
     {
-      "name": "Paraparaumu Beach",
-      "id": "odY2fFzW3YxU"
+      "id": "paraparaumu-beach",
+      "name": "Paraparaumu Beach"
     },
     {
-      "name": "Paremata",
-      "id": "Yv1byj-CaLns"
+      "id": "paremata",
+      "name": "Paremata"
     },
     {
-      "name": "Parnell",
-      "id": "Bz-zyo0i3DWQ"
+      "id": "parnell",
+      "name": "Parnell"
     },
     {
-      "name": "Penrose",
-      "id": "Ox2Ohe42k_kw"
+      "id": "penrose",
+      "name": "Penrose"
     },
     {
-      "name": "Petone",
-      "id": "IAJJpJmdMFCe"
+      "id": "petone",
+      "name": "Petone"
     },
     {
-      "name": "Piopio",
-      "id": "vWh2axb1zbjy"
+      "id": "piopio",
+      "name": "Piopio"
     },
     {
-      "name": "Pirongia",
-      "id": "m8G5XStGAtZX"
+      "id": "pirongia",
+      "name": "Pirongia"
     },
     {
-      "name": "Pleasant Point",
-      "id": "okCKDYdkw__Z"
+      "id": "pleasant-point",
+      "name": "Pleasant Point"
     },
     {
-      "name": "Pokeno",
-      "id": "3HDwBOBp8n0Z"
+      "id": "pokeno",
+      "name": "Pokeno"
     },
     {
-      "name": "Ponsonby",
-      "id": "lVpu8Q_wwdBX"
+      "id": "ponsonby",
+      "name": "Ponsonby"
     },
     {
-      "name": "Porangahau",
-      "id": "OFqreZU8MNxa"
+      "id": "porangahau",
+      "name": "Porangahau"
     },
     {
-      "name": "Porirua",
-      "id": "MHp7Aqa_ab4A"
+      "id": "porirua",
+      "name": "Porirua"
     },
     {
-      "name": "Port Chalmers",
-      "id": "9hJypf_dxGBN"
+      "id": "port-chalmers",
+      "name": "Port Chalmers"
     },
     {
-      "name": "Portland",
-      "id": "4GDIe28Lj4eb"
+      "id": "portland",
+      "name": "Portland"
     },
     {
-      "name": "Puhoi",
-      "id": "kDZCMTSkITZ9"
+      "id": "puhoi",
+      "name": "Puhoi"
     },
     {
-      "name": "Pukeatua",
-      "id": "jqpjndtLIgYt"
+      "id": "pukeatua",
+      "name": "Pukeatua"
     },
     {
-      "name": "Punakaiki",
-      "id": "ZOHlj5bM6jEf"
+      "id": "punakaiki",
+      "name": "Punakaiki"
     },
     {
-      "name": "Queenstown",
-      "id": "WWinSuBzKWLU"
+      "id": "queenstown",
+      "name": "Queenstown"
     },
     {
-      "name": "Raglan",
-      "id": "P943hJybQMid"
+      "id": "raglan",
+      "name": "Raglan"
     },
     {
-      "name": "Rakaia",
-      "id": "4maW95UYGf9c"
+      "id": "rakaia",
+      "name": "Rakaia"
     },
     {
-      "name": "Rakaia Gorge",
-      "id": "tmhlPuOI6Eg6"
+      "id": "rakaia-gorge",
+      "name": "Rakaia Gorge"
     },
     {
-      "name": "Ranfurly",
-      "id": "FVtD9Svc5Tcb"
+      "id": "ranfurly",
+      "name": "Ranfurly"
     },
     {
-      "name": "Red Beach",
-      "id": "9zDEHnKpgUAU"
+      "id": "red-beach",
+      "name": "Red Beach"
     },
     {
-      "name": "Renwick",
-      "id": "S-baz-gHdUH8"
+      "id": "renwick",
+      "name": "Renwick"
     },
     {
-      "name": "Reporoa",
-      "id": "OABPGpmFBeaF"
+      "id": "reporoa",
+      "name": "Reporoa"
     },
     {
-      "name": "Riverhead",
-      "id": "GNeqaeAj528b"
+      "id": "riverhead",
+      "name": "Riverhead"
     },
     {
-      "name": "Riversdale",
-      "id": "q0d8wxHzo9VX"
+      "id": "riversdale",
+      "name": "Riversdale"
     },
     {
-      "name": "Riverton",
-      "id": "Ju8NmtWJfqLf"
+      "id": "riverton",
+      "name": "Riverton"
     },
     {
-      "name": "Rolleston",
-      "id": "8jnRsQqdZMQ9"
+      "id": "rolleston",
+      "name": "Rolleston"
     },
     {
-      "name": "Rotherham",
-      "id": "9d_0VQC016P-"
+      "id": "rotherham",
+      "name": "Rotherham"
     },
     {
-      "name": "Rotorua",
-      "id": "8jF2M4iREkm5"
+      "id": "rotorua",
+      "name": "Rotorua"
     },
     {
-      "name": "Ruawai",
-      "id": "uMISKDZg_xJc"
+      "id": "ruawai",
+      "name": "Ruawai"
     },
     {
-      "name": "Russell",
-      "id": "E-CZa96Fb1VL"
+      "id": "russell",
+      "name": "Russell"
     },
     {
-      "name": "Saint Heliers",
-      "id": "ZcaZaJlBnl-v"
+      "id": "saint-heliers",
+      "name": "Saint Heliers"
     },
     {
-      "name": "Sawyers Bay",
-      "id": "GhuZiMAmEho5"
+      "id": "sawyers-bay",
+      "name": "Sawyers Bay"
     },
     {
-      "name": "Sefton",
-      "id": "bFQb_iZgO8iK"
+      "id": "sefton",
+      "name": "Sefton"
     },
     {
-      "name": "Silverdale",
-      "id": "Ie8E9i7mvWkp"
+      "id": "silverdale",
+      "name": "Silverdale"
     },
     {
-      "name": "Springs Junction",
-      "id": "UaVkESUbMq9X"
+      "id": "springs-junction",
+      "name": "Springs Junction"
     },
     {
-      "name": "Stanmore Bay",
-      "id": "FaX0eb1YcrEV"
+      "id": "stanmore-bay",
+      "name": "Stanmore Bay"
     },
     {
-      "name": "Swanson",
-      "id": "vpWrFC369oak"
+      "id": "swanson",
+      "name": "Swanson"
     },
     {
-      "name": "Tahoraiti",
-      "id": "pmWXff6C8zek"
+      "id": "tahoraiti",
+      "name": "Tahoraiti"
     },
     {
-      "name": "Takaka",
-      "id": "S2-p-MGK2NK_"
+      "id": "takaka",
+      "name": "Takaka"
     },
     {
-      "name": "Takanini",
-      "id": "eCkawSn0NwmH"
+      "id": "takanini",
+      "name": "Takanini"
     },
     {
-      "name": "Takapau",
-      "id": "xfHnQA9DUIBS"
+      "id": "takapau",
+      "name": "Takapau"
     },
     {
-      "name": "Takapuna",
-      "id": "vLN8gUD8YsO1"
+      "id": "takapuna",
+      "name": "Takapuna"
     },
     {
-      "name": "Tamahere",
-      "id": "TKuebeU37W3n"
+      "id": "tamahere",
+      "name": "Tamahere"
     },
     {
-      "name": "Taradale",
-      "id": "m5rvzEgblyPR"
+      "id": "taradale",
+      "name": "Taradale"
     },
     {
-      "name": "Tasman",
-      "id": "fNt_FNwGNGOT"
+      "id": "tasman",
+      "name": "Tasman"
     },
     {
-      "name": "Taupiri",
-      "id": "WE-9C4oxfbHA"
+      "id": "taupiri",
+      "name": "Taupiri"
     },
     {
-      "name": "Taupo",
-      "id": "apWWni1GCfkP"
+      "id": "taupo",
+      "name": "Taupo"
     },
     {
-      "name": "Tauranga",
-      "id": "crou0ItDNMpr"
+      "id": "tauranga",
+      "name": "Tauranga"
     },
     {
-      "name": "Te Anau",
-      "id": "voC_hJkzPNzA"
+      "id": "te-anau",
+      "name": "Te Anau"
     },
     {
-      "name": "Te Atatu",
-      "id": "_YreuzOOYy7A"
+      "id": "te-atatu",
+      "name": "Te Atatu"
     },
     {
-      "name": "Te Kauwhata",
-      "id": "-XJrWaSjA4Rj"
+      "id": "te-kauwhata",
+      "name": "Te Kauwhata"
     },
     {
-      "name": "Te Roti",
-      "id": "GvY1yFSO9Jjr"
+      "id": "te-roti",
+      "name": "Te Roti"
     },
     {
-      "name": "Templeton",
-      "id": "Yv9iORwATEDN"
+      "id": "templeton",
+      "name": "Templeton"
     },
     {
-      "name": "Thames",
-      "id": "dMD7lOmGkjk0"
+      "id": "thames",
+      "name": "Thames"
     },
     {
-      "name": "Timaru",
-      "id": "5Hc77fuJYnwb"
+      "id": "timaru",
+      "name": "Timaru"
     },
     {
-      "name": "Tinwald",
-      "id": "4J2I37Su4MUR"
+      "id": "tinwald",
+      "name": "Tinwald"
     },
     {
-      "name": "Tirau",
-      "id": "KVqrlFsn_IfS"
+      "id": "tirau",
+      "name": "Tirau"
     },
     {
-      "name": "Titirangi North",
-      "id": "CkdD4K-LCwfc"
+      "id": "titirangi-north",
+      "name": "Titirangi North"
     },
     {
-      "name": "Tokomaru",
-      "id": "61-g2QYAIkmP"
+      "id": "tokomaru",
+      "name": "Tokomaru"
     },
     {
-      "name": "Tokoroa",
-      "id": "TnFGTPyvH1zd"
+      "id": "tokoroa",
+      "name": "Tokoroa"
     },
     {
-      "name": "Torbay",
-      "id": "gkCH46tZ5iRL"
+      "id": "torbay",
+      "name": "Torbay"
     },
     {
-      "name": "Tuakau",
-      "id": "_-0LkdngQXun"
+      "id": "tuakau",
+      "name": "Tuakau"
     },
     {
-      "name": "Tuatapere",
-      "id": "dBF0QncTnDBu"
+      "id": "tuatapere",
+      "name": "Tuatapere"
     },
     {
-      "name": "Turangi",
-      "id": "1JQk48JBqUwJ"
+      "id": "turangi",
+      "name": "Turangi"
     },
     {
-      "name": "Upper Moutere",
-      "id": "jvockwu4M9lF"
+      "id": "upper-moutere",
+      "name": "Upper Moutere"
     },
     {
-      "name": "Urenui",
-      "id": "x8HCmraW2jGf"
+      "id": "urenui",
+      "name": "Urenui"
     },
     {
-      "name": "Waiau",
-      "id": "rZjHyapLISV7"
+      "id": "waiau",
+      "name": "Waiau"
     },
     {
-      "name": "Waiau Pa",
-      "id": "ugfpce7ZOkr-"
+      "id": "waiau-pa",
+      "name": "Waiau Pa"
     },
     {
-      "name": "Waihi",
-      "id": "rbbLdLDJGwQu"
+      "id": "waihi",
+      "name": "Waihi"
     },
     {
-      "name": "Waihi Beach",
-      "id": "Wdc9MCEEQRiF"
+      "id": "waihi-beach",
+      "name": "Waihi Beach"
     },
     {
-      "name": "Waikanae",
-      "id": "6qHPYuh50CZZ"
+      "id": "waikanae",
+      "name": "Waikanae"
     },
     {
-      "name": "Waikari",
-      "id": "SVZn8_swdBPO"
+      "id": "waikari",
+      "name": "Waikari"
     },
     {
-      "name": "Waikawa",
-      "id": "ao-kY8izjkz6"
+      "id": "waikawa",
+      "name": "Waikawa"
     },
     {
-      "name": "Waikuku",
-      "id": "gjHos1rAD1uH"
+      "id": "waikuku",
+      "name": "Waikuku"
     },
     {
-      "name": "Waikuku Beach",
-      "id": "J7muAgNicnO5"
+      "id": "waikuku-beach",
+      "name": "Waikuku Beach"
     },
     {
-      "name": "Waimana",
-      "id": "WVXoN59nweFT"
+      "id": "waimana",
+      "name": "Waimana"
     },
     {
-      "name": "Waimauku",
-      "id": "HnI-QjA6gV0T"
+      "id": "waimauku",
+      "name": "Waimauku"
     },
     {
-      "name": "Wainuiomata",
-      "id": "zu7UBzRm4rOw"
+      "id": "wainuiomata",
+      "name": "Wainuiomata"
     },
     {
-      "name": "Waiouru",
-      "id": "Nv9Po9C4MsHZ"
+      "id": "waiouru",
+      "name": "Waiouru"
     },
     {
-      "name": "Waipara",
-      "id": "z9GB3fw-bKRP"
+      "id": "waipara",
+      "name": "Waipara"
     },
     {
-      "name": "Waipawa",
-      "id": "bNHUO1YsaZjx"
+      "id": "waipawa",
+      "name": "Waipawa"
     },
     {
-      "name": "Waipu",
-      "id": "z61-OZ7AE_Z2"
+      "id": "waipu",
+      "name": "Waipu"
     },
     {
-      "name": "Wairoa",
-      "id": "Tg5yUyVbSiFI"
+      "id": "wairoa",
+      "name": "Wairoa"
     },
     {
-      "name": "Waitakere City",
-      "id": "_nkaLhkStUIY"
+      "id": "waitakere-city",
+      "name": "Waitakere City"
     },
     {
-      "name": "Waitangi",
-      "id": "oF6ozrS5oCLs"
+      "id": "waitangi",
+      "name": "Waitangi"
     },
     {
-      "name": "Waitara",
-      "id": "r8zsGzL9u6ax"
+      "id": "waitara",
+      "name": "Waitara"
     },
     {
-      "name": "Waitati",
-      "id": "iuk6ObEHUQcK"
+      "id": "waitati",
+      "name": "Waitati"
     },
     {
-      "name": "Waitoa",
-      "id": "cTgyACPW1Cnk"
+      "id": "waitoa",
+      "name": "Waitoa"
     },
     {
-      "name": "Waiuku",
-      "id": "ubyQvAuJr_tf"
+      "id": "waiuku",
+      "name": "Waiuku"
     },
     {
-      "name": "Wakefield",
-      "id": "K2Bum4dDhnR1"
+      "id": "wakefield",
+      "name": "Wakefield"
     },
     {
-      "name": "Walton",
-      "id": "Gdg00UAbiRQL"
+      "id": "walton",
+      "name": "Walton"
     },
     {
-      "name": "Wanaka",
-      "id": "nZBgzBK3dKpz"
+      "id": "wanaka",
+      "name": "Wanaka"
     },
     {
-      "name": "Wanganui",
-      "id": "i1P0dXixKDCY"
+      "id": "wanganui",
+      "name": "Wanganui"
     },
     {
-      "name": "Warkworth",
-      "id": "fSw2TsTJo74Z"
+      "id": "warkworth",
+      "name": "Warkworth"
     },
     {
-      "name": "Waverley",
-      "id": "SycA7DerEw2Q"
+      "id": "waverley",
+      "name": "Waverley"
     },
     {
-      "name": "Wellington",
-      "id": "y8BEZygAeQ6q"
+      "id": "wellington",
+      "name": "Wellington"
     },
     {
-      "name": "Wellsford",
-      "id": "F-Ee1k9r_i45"
+      "id": "wellsford",
+      "name": "Wellsford"
     },
     {
-      "name": "Wendon Valley",
-      "id": "HVeVD61540l5"
+      "id": "wendon-valley",
+      "name": "Wendon Valley"
     },
     {
-      "name": "West Melton",
-      "id": "qV0k2MUG_OkY"
+      "id": "west-melton",
+      "name": "West Melton"
     },
     {
-      "name": "Weston",
-      "id": "EUwh28z84NJw"
+      "id": "weston",
+      "name": "Weston"
     },
     {
-      "name": "Westport",
-      "id": "2GQj6Ui7D3Mp"
+      "id": "westport",
+      "name": "Westport"
     },
     {
-      "name": "Weymouth",
-      "id": "oP5Vm5gpb5o9"
+      "id": "weymouth",
+      "name": "Weymouth"
     },
     {
-      "name": "Whakatane",
-      "id": "o3dZS7TT_cqZ"
+      "id": "whakatane",
+      "name": "Whakatane"
     },
     {
-      "name": "Whangamata",
-      "id": "YnJfQUiNzwZa"
+      "id": "whangamata",
+      "name": "Whangamata"
     },
     {
-      "name": "Whangaparaoa",
-      "id": "bCaL0H_wSxkL"
+      "id": "whangaparaoa",
+      "name": "Whangaparaoa"
     },
     {
-      "name": "Whangarei",
-      "id": "xeiQNjT9vIlf"
+      "id": "whangarei",
+      "name": "Whangarei"
     },
     {
-      "name": "Whitianga",
-      "id": "vZzDNq9atq3-"
+      "id": "whitianga",
+      "name": "Whitianga"
     },
     {
-      "name": "Winchester",
-      "id": "_gwFmpQ7Kdif"
+      "id": "winchester",
+      "name": "Winchester"
     },
     {
-      "name": "Windermere",
-      "id": "ElTURrYDtsQs"
+      "id": "windermere",
+      "name": "Windermere"
     },
     {
-      "name": "Winton",
-      "id": "361lGuJkKbRp"
+      "id": "winton",
+      "name": "Winton"
     },
     {
-      "name": "Woodend",
-      "id": "dSnD9s84ioCf"
+      "id": "woodend",
+      "name": "Woodend"
     },
     {
-      "name": "Woolston",
-      "id": "-4yrZaCEix3p"
+      "id": "woolston",
+      "name": "Woolston"
     },
     {
-      "name": "Wyndham",
-      "id": "lyvN_gFCH6Li"
+      "id": "wyndham",
+      "name": "Wyndham"
     },
     {
-      "name": "Yaldhurst",
-      "id": "ISAY_5JFJ-hS"
+      "id": "yaldhurst",
+      "name": "Yaldhurst"
     }
   ]
 }

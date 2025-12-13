@@ -2,44 +2,44 @@
   "coid": "WS",
   "cities": [
     {
-      "name": "Apia",
-      "id": "O5QpftSBUD8A"
+      "id": "apia",
+      "name": "Apia"
     },
     {
-      "name": "Vaitele",
-      "id": "eWgDNU58WsOR"
+      "id": "vaitele",
+      "name": "Vaitele"
     },
     {
-      "name": "Faleula",
-      "id": "faCGcTffbQZO"
+      "id": "faleula",
+      "name": "Faleula"
     },
     {
-      "name": "Salelologa",
-      "id": "vF7xejReX-0G"
+      "id": "salelologa",
+      "name": "Salelologa"
     },
     {
-      "name": "Leulumoega",
-      "id": "72QE18kn-RIV"
+      "id": "leulumoega",
+      "name": "Leulumoega"
     },
     {
-      "name": "Mulifanua",
-      "id": "eQx29SBddfS0"
+      "id": "mulifanua",
+      "name": "Mulifanua"
     },
     {
-      "name": "Siumu",
-      "id": "g1sq37YAYFO-"
+      "id": "siumu",
+      "name": "Siumu"
     },
     {
-      "name": "Lalomanu",
-      "id": "xloKCVEGvK7R"
+      "id": "lalomanu",
+      "name": "Lalomanu"
     },
     {
-      "name": "Safotu",
-      "id": "1BFEc1YrniN7"
+      "id": "safotu",
+      "name": "Safotu"
     },
     {
-      "name": "Asau",
-      "id": "toOjsM0melPi"
+      "id": "asau",
+      "name": "Asau"
     }
   ]
 }

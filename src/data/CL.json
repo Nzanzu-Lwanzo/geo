@@ -2,488 +2,488 @@
   "coid": "CL",
   "cities": [
     {
-      "name": "Algarrobo",
-      "id": "R8h4MQZTn3Nh"
+      "id": "algarrobo",
+      "name": "Algarrobo"
     },
     {
-      "name": "Angol",
-      "id": "I8p4daRkBA-U"
+      "id": "angol",
+      "name": "Angol"
     },
     {
-      "name": "Antofagasta",
-      "id": "8lo_ySaMkemk"
+      "id": "antofagasta",
+      "name": "Antofagasta"
     },
     {
-      "name": "Apoquindo",
-      "id": "HTgd9IIRMFt3"
+      "id": "apoquindo",
+      "name": "Apoquindo"
     },
     {
-      "name": "Arauco",
-      "id": "tOma3id8FSNH"
+      "id": "arauco",
+      "name": "Arauco"
     },
     {
-      "name": "Arica",
-      "id": "902TC7eHANye"
+      "id": "arica",
+      "name": "Arica"
     },
     {
-      "name": "Buin",
-      "id": "KaqElRIlrGMQ"
+      "id": "buin",
+      "name": "Buin"
     },
     {
-      "name": "Bulnes",
-      "id": "Lw28qmWFThsZ"
+      "id": "bulnes",
+      "name": "Bulnes"
     },
     {
-      "name": "Calama",
-      "id": "hDqbO37c1z0i"
+      "id": "calama",
+      "name": "Calama"
     },
     {
-      "name": "Caldera",
-      "id": "56MbjvavzU0K"
+      "id": "caldera",
+      "name": "Caldera"
     },
     {
-      "name": "Castro",
-      "id": "Rd-tEmbQ258W"
+      "id": "castro",
+      "name": "Castro"
     },
     {
-      "name": "Catemu",
-      "id": "RaLhPzw-Tsze"
+      "id": "catemu",
+      "name": "Catemu"
     },
     {
-      "name": "Centro",
-      "id": "UiMZiIeIQ76B"
+      "id": "centro",
+      "name": "Centro"
     },
     {
-      "name": "Cerrillos de Tamaya",
-      "id": "CByE-J54gO-7"
+      "id": "cerrillos-de-tamaya",
+      "name": "Cerrillos de Tamaya"
     },
     {
-      "name": "Chicureo Abajo",
-      "id": "k7RYZRK57BcW"
+      "id": "chicureo-abajo",
+      "name": "Chicureo Abajo"
     },
     {
-      "name": "Chiguayante",
-      "id": "SmenN7_KuQ0h"
+      "id": "chiguayante",
+      "name": "Chiguayante"
     },
     {
-      "name": "Chillan",
-      "id": "m5IZeysLjAww"
+      "id": "chillan",
+      "name": "Chillan"
     },
     {
-      "name": "Chillan Viejo",
-      "id": "K7Az-dnFeHd6"
+      "id": "chillan-viejo",
+      "name": "Chillan Viejo"
     },
     {
-      "name": "Chimbarongo",
-      "id": "N05sbwB7BYfQ"
+      "id": "chimbarongo",
+      "name": "Chimbarongo"
     },
     {
-      "name": "Chonchi",
-      "id": "12a3TWexT2-A"
+      "id": "chonchi",
+      "name": "Chonchi"
     },
     {
-      "name": "Chuquicamata",
-      "id": "eQ-AP1Jh2pFU"
+      "id": "chuquicamata",
+      "name": "Chuquicamata"
     },
     {
-      "name": "Coihaique",
-      "id": "wr5y7DFjx-HF"
+      "id": "coihaique",
+      "name": "Coihaique"
     },
     {
-      "name": "Colina",
-      "id": "VJURTuIE0m7b"
+      "id": "colina",
+      "name": "Colina"
     },
     {
-      "name": "Collipulli",
-      "id": "0fXBUwGB6ufz"
+      "id": "collipulli",
+      "name": "Collipulli"
     },
     {
-      "name": "Concon",
-      "id": "x6plIQw6mCZE"
+      "id": "concon",
+      "name": "Concon"
     },
     {
-      "name": "Constitucion",
-      "id": "evFZuY5mwJ-P"
+      "id": "constitucion",
+      "name": "Constitucion"
     },
     {
-      "name": "Coquimbo",
-      "id": "72JxlKRBqQnE"
+      "id": "coquimbo",
+      "name": "Coquimbo"
     },
     {
-      "name": "Coronel",
-      "id": "cdcJlDV3Bit2"
+      "id": "coronel",
+      "name": "Coronel"
     },
     {
-      "name": "Cunco",
-      "id": "jtm2I6AfE1xE"
+      "id": "cunco",
+      "name": "Cunco"
     },
     {
-      "name": "Curacavi",
-      "id": "zg2lzkf_nQy2"
+      "id": "curacavi",
+      "name": "Curacavi"
     },
     {
-      "name": "Dalcahue",
-      "id": "d3nUZC8cT1zX"
+      "id": "dalcahue",
+      "name": "Dalcahue"
     },
     {
-      "name": "El Arco",
-      "id": "6ISDEP0Ho_J0"
+      "id": "el-arco",
+      "name": "El Arco"
     },
     {
-      "name": "El Bosque",
-      "id": "dhlugj3eMsDP"
+      "id": "el-bosque",
+      "name": "El Bosque"
     },
     {
-      "name": "El Monte",
-      "id": "Ux21lZuAvSdV"
+      "id": "el-monte",
+      "name": "El Monte"
     },
     {
-      "name": "El Quisco",
-      "id": "gifwO23YF20i"
+      "id": "el-quisco",
+      "name": "El Quisco"
     },
     {
-      "name": "El Salto",
-      "id": "6oAbXRFDPs_3"
+      "id": "el-salto",
+      "name": "El Salto"
     },
     {
-      "name": "El Salvador",
-      "id": "18JOQcEc8QLR"
+      "id": "el-salvador",
+      "name": "El Salvador"
     },
     {
-      "name": "El Valle",
-      "id": "EmV-TAM8WQy8"
+      "id": "el-valle",
+      "name": "El Valle"
     },
     {
-      "name": "Fresia",
-      "id": "3LcHnQa4ryxi"
+      "id": "fresia",
+      "name": "Fresia"
     },
     {
-      "name": "Galvarino",
-      "id": "nlOefjCGgfpQ"
+      "id": "galvarino",
+      "name": "Galvarino"
     },
     {
-      "name": "Graneros",
-      "id": "lrjUEE3LO9Xl"
+      "id": "graneros",
+      "name": "Graneros"
     },
     {
-      "name": "Hanga Roa",
-      "id": "MlfmXStr4UiA"
+      "id": "hanga-roa",
+      "name": "Hanga Roa"
     },
     {
-      "name": "Iquique",
-      "id": "5IaqTaeHruus"
+      "id": "iquique",
+      "name": "Iquique"
     },
     {
-      "name": "La Calera",
-      "id": "nJxNd98uYjGQ"
+      "id": "la-calera",
+      "name": "La Calera"
     },
     {
-      "name": "La Cisterna",
-      "id": "n49vnea-_ljh"
+      "id": "la-cisterna",
+      "name": "La Cisterna"
     },
     {
-      "name": "La Granja",
-      "id": "h0GyMoktvwU4"
+      "id": "la-granja",
+      "name": "La Granja"
     },
     {
-      "name": "La Laja",
-      "id": "EGKw31mvSHn5"
+      "id": "la-laja",
+      "name": "La Laja"
     },
     {
-      "name": "La Ligua",
-      "id": "RpewXxEA7uHg"
+      "id": "la-ligua",
+      "name": "La Ligua"
     },
     {
-      "name": "La Reina",
-      "id": "bzP5bQ85ZQNh"
+      "id": "la-reina",
+      "name": "La Reina"
     },
     {
-      "name": "La Serena",
-      "id": "5f0ea_t_bDz1"
+      "id": "la-serena",
+      "name": "La Serena"
     },
     {
-      "name": "La Union",
-      "id": "9PrqzPY5mUWM"
+      "id": "la-union",
+      "name": "La Union"
     },
     {
-      "name": "Lampa",
-      "id": "28ehrsPhyDut"
+      "id": "lampa",
+      "name": "Lampa"
     },
     {
-      "name": "Las Condes",
-      "id": "bv_C3Rt9q5A2"
+      "id": "las-condes",
+      "name": "Las Condes"
     },
     {
-      "name": "Lautaro",
-      "id": "z2Xn2eS1Fws2"
+      "id": "lautaro",
+      "name": "Lautaro"
     },
     {
-      "name": "Llanquihue",
-      "id": "c_mvjHfj7XYP"
+      "id": "llanquihue",
+      "name": "Llanquihue"
     },
     {
-      "name": "Lo Barnechea",
-      "id": "sLLvfoHGcgof"
+      "id": "lo-barnechea",
+      "name": "Lo Barnechea"
     },
     {
-      "name": "Lolol",
-      "id": "0wUPXE8QeDG_"
+      "id": "lolol",
+      "name": "Lolol"
     },
     {
-      "name": "Los Andes",
-      "id": "X-C_Shg-QVBS"
+      "id": "los-andes",
+      "name": "Los Andes"
     },
     {
-      "name": "Los Angeles",
-      "id": "quRma8kO949W"
+      "id": "los-angeles",
+      "name": "Los Angeles"
     },
     {
-      "name": "Machali",
-      "id": "0CVkl6Cpoy7r"
+      "id": "machali",
+      "name": "Machali"
     },
     {
-      "name": "Macul",
-      "id": "YTJes72VBclE"
+      "id": "macul",
+      "name": "Macul"
     },
     {
-      "name": "Maipu",
-      "id": "H7DpgXn6qOK7"
+      "id": "maipu",
+      "name": "Maipu"
     },
     {
-      "name": "Maquina Atacama",
-      "id": "dRjx3E48Zeh3"
+      "id": "maquina-atacama",
+      "name": "Maquina Atacama"
     },
     {
-      "name": "Maule",
-      "id": "9yI9F__uo-0F"
+      "id": "maule",
+      "name": "Maule"
     },
     {
-      "name": "Mejillones",
-      "id": "YvhHC0ZsLAZE"
+      "id": "mejillones",
+      "name": "Mejillones"
     },
     {
-      "name": "Melipilla",
-      "id": "cWE-QVc_571_"
+      "id": "melipilla",
+      "name": "Melipilla"
     },
     {
-      "name": "Miraflores",
-      "id": "He1KFWXQYSis"
+      "id": "miraflores",
+      "name": "Miraflores"
     },
     {
-      "name": "Molina",
-      "id": "4tQaiB3mpdWU"
+      "id": "molina",
+      "name": "Molina"
     },
     {
-      "name": "Monte Aguila",
-      "id": "DehWqzYwXLL7"
+      "id": "monte-aguila",
+      "name": "Monte Aguila"
     },
     {
-      "name": "Nacimiento",
-      "id": "JN9jNt1--3Gf"
+      "id": "nacimiento",
+      "name": "Nacimiento"
     },
     {
-      "name": "Nogales",
-      "id": "VhX-gjqOPYz3"
+      "id": "nogales",
+      "name": "Nogales"
     },
     {
-      "name": "Nunoa",
-      "id": "vORBLPUA3JKC"
+      "id": "nunoa",
+      "name": "Nunoa"
     },
     {
-      "name": "Olmue",
-      "id": "P6ZZJ3Hfojr1"
+      "id": "olmue",
+      "name": "Olmue"
     },
     {
-      "name": "Osorno",
-      "id": "fW4RskhWdvvC"
+      "id": "osorno",
+      "name": "Osorno"
     },
     {
-      "name": "Ovalle",
-      "id": "9TzQChkjgKWl"
+      "id": "ovalle",
+      "name": "Ovalle"
     },
     {
-      "name": "Paillaco",
-      "id": "kEIXDZIZAtpJ"
+      "id": "paillaco",
+      "name": "Paillaco"
     },
     {
-      "name": "Penablanca",
-      "id": "RGdyEnh4eatH"
+      "id": "penablanca",
+      "name": "Penablanca"
     },
     {
-      "name": "Penaflor",
-      "id": "QBvOr-iq1k0v"
+      "id": "penaflor",
+      "name": "Penaflor"
     },
     {
-      "name": "Port Montt",
-      "id": "EEHqmrXoMiry"
+      "id": "port-montt",
+      "name": "Port Montt"
     },
     {
-      "name": "Providencia",
-      "id": "q70Eb0JQq6UR"
+      "id": "providencia",
+      "name": "Providencia"
     },
     {
-      "name": "Puchuncavi",
-      "id": "sTjaDJBex5Vx"
+      "id": "puchuncavi",
+      "name": "Puchuncavi"
     },
     {
-      "name": "Pucon",
-      "id": "xZjxnvSfQ2tt"
+      "id": "pucon",
+      "name": "Pucon"
     },
     {
-      "name": "Puente Alto",
-      "id": "npPMXWBcPtT3"
+      "id": "puente-alto",
+      "name": "Puente Alto"
     },
     {
-      "name": "Puerto Aisen",
-      "id": "WHK2hh1sDd2d"
+      "id": "puerto-aisen",
+      "name": "Puerto Aisen"
     },
     {
-      "name": "Puerto Natales",
-      "id": "Z3scFeN1ViGT"
+      "id": "puerto-natales",
+      "name": "Puerto Natales"
     },
     {
-      "name": "Puerto Varas",
-      "id": "2OdKISCxII5t"
+      "id": "puerto-varas",
+      "name": "Puerto Varas"
     },
     {
-      "name": "Punta Arenas",
-      "id": "civX8b8hUAyj"
+      "id": "punta-arenas",
+      "name": "Punta Arenas"
     },
     {
-      "name": "Puren",
-      "id": "o2xT1XqMzl87"
+      "id": "puren",
+      "name": "Puren"
     },
     {
-      "name": "Purranque",
-      "id": "CJlvE88fLW4N"
+      "id": "purranque",
+      "name": "Purranque"
     },
     {
-      "name": "Quellon",
-      "id": "ZaOJHrrtS49Q"
+      "id": "quellon",
+      "name": "Quellon"
     },
     {
-      "name": "Quemchi",
-      "id": "wBiZvfhtDPm-"
+      "id": "quemchi",
+      "name": "Quemchi"
     },
     {
-      "name": "Quilicura",
-      "id": "tk9IMIhIkIfw"
+      "id": "quilicura",
+      "name": "Quilicura"
     },
     {
-      "name": "Quillota",
-      "id": "9axaAuz8mflA"
+      "id": "quillota",
+      "name": "Quillota"
     },
     {
-      "name": "Rancagua",
-      "id": "jsbyANOP3Fby"
+      "id": "rancagua",
+      "name": "Rancagua"
     },
     {
-      "name": "Recoleta",
-      "id": "g1fcPxy-O2Ix"
+      "id": "recoleta",
+      "name": "Recoleta"
     },
     {
-      "name": "Renaca",
-      "id": "MkbJt9VMMT7t"
+      "id": "renaca",
+      "name": "Renaca"
     },
     {
-      "name": "Renca",
-      "id": "4ykgFh9ZRK_C"
+      "id": "renca",
+      "name": "Renca"
     },
     {
-      "name": "Rengo",
-      "id": "6WvnipIPAxpY"
+      "id": "rengo",
+      "name": "Rengo"
     },
     {
-      "name": "Rinconada",
-      "id": "tKsZ5YLkZOBR"
+      "id": "rinconada",
+      "name": "Rinconada"
     },
     {
-      "name": "Rio Bueno",
-      "id": "G8dyTHWJReeU"
+      "id": "rio-bueno",
+      "name": "Rio Bueno"
     },
     {
-      "name": "San Antonio",
-      "id": "Zb8bJSAJznVE"
+      "id": "san-antonio",
+      "name": "San Antonio"
     },
     {
-      "name": "San Bernardo",
-      "id": "JRIzT3fvBGDb"
+      "id": "san-bernardo",
+      "name": "San Bernardo"
     },
     {
-      "name": "San Carlos",
-      "id": "Reeqy_LRNXzV"
+      "id": "san-carlos",
+      "name": "San Carlos"
     },
     {
-      "name": "San Felipe",
-      "id": "kwP7srq9ePtp"
+      "id": "san-felipe",
+      "name": "San Felipe"
     },
     {
-      "name": "San Fernando",
-      "id": "Y3lcIMN-tOuE"
+      "id": "san-fernando",
+      "name": "San Fernando"
     },
     {
-      "name": "San Javier",
-      "id": "wPcIb08vA1qS"
+      "id": "san-javier",
+      "name": "San Javier"
     },
     {
-      "name": "San Martin",
-      "id": "A0JcDIxfgtgA"
+      "id": "san-martin",
+      "name": "San Martin"
     },
     {
-      "name": "San Pedro",
-      "id": "hRi4zw65Hbh3"
+      "id": "san-pedro",
+      "name": "San Pedro"
     },
     {
-      "name": "Santa Barbara",
-      "id": "tNA3jepop4B3"
+      "id": "santa-barbara",
+      "name": "Santa Barbara"
     },
     {
-      "name": "Santiago",
-      "id": "SRSe0PwgHVYG"
+      "id": "santiago",
+      "name": "Santiago"
     },
     {
-      "name": "Talagante",
-      "id": "sB9KGbD7D5oV"
+      "id": "talagante",
+      "name": "Talagante"
     },
     {
-      "name": "Talca",
-      "id": "2xZQNFFyGvPU"
+      "id": "talca",
+      "name": "Talca"
     },
     {
-      "name": "Talcahuano",
-      "id": "1B7ML2jBeldm"
+      "id": "talcahuano",
+      "name": "Talcahuano"
     },
     {
-      "name": "Tarapaca",
-      "id": "gJaY0ZGXHHPr"
+      "id": "tarapaca",
+      "name": "Tarapaca"
     },
     {
-      "name": "Temuco",
-      "id": "3imYCfXxWyzX"
+      "id": "temuco",
+      "name": "Temuco"
     },
     {
-      "name": "Tome",
-      "id": "FfUEPsh3m-ue"
+      "id": "tome",
+      "name": "Tome"
     },
     {
-      "name": "Valdivia",
-      "id": "NS4xdwEvQ3Mg"
+      "id": "valdivia",
+      "name": "Valdivia"
     },
     {
-      "name": "Vallenar",
-      "id": "YC2XBGnt48EN"
+      "id": "vallenar",
+      "name": "Vallenar"
     },
     {
-      "name": "Villa Alemana",
-      "id": "ZTvZ0zIkszUm"
+      "id": "villa-alemana",
+      "name": "Villa Alemana"
     },
     {
-      "name": "Villarrica",
-      "id": "vJn2HpkLE53X"
+      "id": "villarrica",
+      "name": "Villarrica"
     },
     {
-      "name": "Vitacura",
-      "id": "W-YhT2Rw2ei_"
+      "id": "vitacura",
+      "name": "Vitacura"
     }
   ]
 }

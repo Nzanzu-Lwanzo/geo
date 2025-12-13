@@ -2,612 +2,612 @@
   "coid": "SI",
   "cities": [
     {
-      "name": "Ankaran",
-      "id": "YLvBGhKr3Ydt"
+      "id": "ankaran",
+      "name": "Ankaran"
     },
     {
-      "name": "Begunje na Gorenjskem",
-      "id": "6lIrIZIbTDFB"
+      "id": "begunje-na-gorenjskem",
+      "name": "Begunje na Gorenjskem"
     },
     {
-      "name": "Beltinci",
-      "id": "qObvZSHge65m"
+      "id": "beltinci",
+      "name": "Beltinci"
     },
     {
-      "name": "Besnica",
-      "id": "UN9jGhst9dow"
+      "id": "besnica",
+      "name": "Besnica"
     },
     {
-      "name": "Bevke",
-      "id": "QyAk76l7ACu6"
+      "id": "bevke",
+      "name": "Bevke"
     },
     {
-      "name": "Bistrica pri Rusah",
-      "id": "dSwVBs-rgcFd"
+      "id": "bistrica-pri-rusah",
+      "name": "Bistrica pri Rusah"
     },
     {
-      "name": "Bled",
-      "id": "mIJZgYi4Hivr"
+      "id": "bled",
+      "name": "Bled"
     },
     {
-      "name": "Bohinjska Bela",
-      "id": "XbyB0xWgrcQe"
+      "id": "bohinjska-bela",
+      "name": "Bohinjska Bela"
     },
     {
-      "name": "Borovnica",
-      "id": "MgIx_LnAnQ7t"
+      "id": "borovnica",
+      "name": "Borovnica"
     },
     {
-      "name": "Breginj",
-      "id": "YzTxFOkgrjPR"
+      "id": "breginj",
+      "name": "Breginj"
     },
     {
-      "name": "Brestanica",
-      "id": "RntMFpzzJDNa"
+      "id": "brestanica",
+      "name": "Brestanica"
     },
     {
-      "name": "Breznica",
-      "id": "5IHcfXI1ECWw"
+      "id": "breznica",
+      "name": "Breznica"
     },
     {
-      "name": "Cemsenik",
-      "id": "l0BdXwJc1-2J"
+      "id": "cemsenik",
+      "name": "Cemsenik"
     },
     {
-      "name": "Cerklje ob Krki",
-      "id": "BAnkK8rEjK94"
+      "id": "cerklje-ob-krki",
+      "name": "Cerklje ob Krki"
     },
     {
-      "name": "Cerknica",
-      "id": "W_rmQNjcvhm3"
+      "id": "cerknica",
+      "name": "Cerknica"
     },
     {
-      "name": "Cersak",
-      "id": "ggCXkfPYoRUz"
+      "id": "cersak",
+      "name": "Cersak"
     },
     {
-      "name": "Cirkovce",
-      "id": "PJx9W0f9AQjv"
+      "id": "cirkovce",
+      "name": "Cirkovce"
     },
     {
-      "name": "Crensovci",
-      "id": "1PLuYoc0VPuk"
+      "id": "crensovci",
+      "name": "Crensovci"
     },
     {
-      "name": "Dekani",
-      "id": "fsoDGtf1pDZ7"
+      "id": "dekani",
+      "name": "Dekani"
     },
     {
-      "name": "Dob",
-      "id": "ZW1mzqbUXwHc"
+      "id": "dob",
+      "name": "Dob"
     },
     {
-      "name": "Dobravlje",
-      "id": "N7DdHC0Rdi2t"
+      "id": "dobravlje",
+      "name": "Dobravlje"
     },
     {
-      "name": "Dobrova",
-      "id": "x_c1lMaVpJ5e"
+      "id": "dobrova",
+      "name": "Dobrova"
     },
     {
-      "name": "Dobrunje",
-      "id": "GMqwCE_9wu5Y"
+      "id": "dobrunje",
+      "name": "Dobrunje"
     },
     {
-      "name": "Dol pri Ljubljani",
-      "id": "_FnAE4ZB_ykx"
+      "id": "dol-pri-ljubljani",
+      "name": "Dol pri Ljubljani"
     },
     {
-      "name": "Dolenjske Toplice",
-      "id": "YkI2FWFVPPUj"
+      "id": "dolenjske-toplice",
+      "name": "Dolenjske Toplice"
     },
     {
-      "name": "Dornava",
-      "id": "pYuRZbDbqGrX"
+      "id": "dornava",
+      "name": "Dornava"
     },
     {
-      "name": "Dravograd",
-      "id": "__7ZBy5ck49R"
+      "id": "dravograd",
+      "name": "Dravograd"
     },
     {
-      "name": "Globoko",
-      "id": "QWtNTGAz0L5Y"
+      "id": "globoko",
+      "name": "Globoko"
     },
     {
-      "name": "Gmajnica",
-      "id": "KNjy5rbodLW-"
+      "id": "gmajnica",
+      "name": "Gmajnica"
     },
     {
-      "name": "Gorenja Vas",
-      "id": "9iw9vyUtGGEo"
+      "id": "gorenja-vas",
+      "name": "Gorenja Vas"
     },
     {
-      "name": "Gorisnica",
-      "id": "Sh4MfVBvwuEa"
+      "id": "gorisnica",
+      "name": "Gorisnica"
     },
     {
-      "name": "Gornja Radgona",
-      "id": "mrzcaJ2e02YD"
+      "id": "gornja-radgona",
+      "name": "Gornja Radgona"
     },
     {
-      "name": "Grize",
-      "id": "PBIXH4bddvta"
+      "id": "grize",
+      "name": "Grize"
     },
     {
-      "name": "Grosuplje",
-      "id": "44bsDRYGsIIN"
+      "id": "grosuplje",
+      "name": "Grosuplje"
     },
     {
-      "name": "Horjul",
-      "id": "7oU0WICSFBOT"
+      "id": "horjul",
+      "name": "Horjul"
     },
     {
-      "name": "Hotedrsica",
-      "id": "LPz-JaIzRlkt"
+      "id": "hotedrsica",
+      "name": "Hotedrsica"
     },
     {
-      "name": "Hrastnik",
-      "id": "RtPMx-RuTw54"
+      "id": "hrastnik",
+      "name": "Hrastnik"
     },
     {
-      "name": "Hrusica",
-      "id": "pCvzAV5g6u1u"
+      "id": "hrusica",
+      "name": "Hrusica"
     },
     {
-      "name": "Idrija",
-      "id": "MUhNJ85-Z762"
+      "id": "idrija",
+      "name": "Idrija"
     },
     {
-      "name": "Ig",
-      "id": "lZAazEm8Jn7R"
+      "id": "ig",
+      "name": "Ig"
     },
     {
-      "name": "Ilirska Bistrica",
-      "id": "B0T7Y0oNuVsi"
+      "id": "ilirska-bistrica",
+      "name": "Ilirska Bistrica"
     },
     {
-      "name": "Izola",
-      "id": "bDHh4zPzj_0T"
+      "id": "izola",
+      "name": "Izola"
     },
     {
-      "name": "Jesenice",
-      "id": "f7StFL2BHUen"
+      "id": "jesenice",
+      "name": "Jesenice"
     },
     {
-      "name": "Kamnik",
-      "id": "_Iv2yvHmnGvS"
+      "id": "kamnik",
+      "name": "Kamnik"
     },
     {
-      "name": "Kidricevo",
-      "id": "9ISJe0L6qQkB"
+      "id": "kidricevo",
+      "name": "Kidricevo"
     },
     {
-      "name": "Knezak",
-      "id": "j9c0Ha6aUqdI"
+      "id": "knezak",
+      "name": "Knezak"
     },
     {
-      "name": "Kobarid",
-      "id": "p9aSc0JFJJnl"
+      "id": "kobarid",
+      "name": "Kobarid"
     },
     {
-      "name": "Kojsko",
-      "id": "Iz-XD4GUkE_K"
+      "id": "kojsko",
+      "name": "Kojsko"
     },
     {
-      "name": "Komenda",
-      "id": "WFCV3rqz1lyB"
+      "id": "komenda",
+      "name": "Komenda"
     },
     {
-      "name": "Koper",
-      "id": "nF19uBsUvhD_"
+      "id": "koper",
+      "name": "Koper"
     },
     {
-      "name": "Krajna",
-      "id": "FkJeLZj0QFDI"
+      "id": "krajna",
+      "name": "Krajna"
     },
     {
-      "name": "Kranj",
-      "id": "RenLAv43e5iv"
+      "id": "kranj",
+      "name": "Kranj"
     },
     {
-      "name": "Kranjska Gora",
-      "id": "dLONPRbK3t8A"
+      "id": "kranjska-gora",
+      "name": "Kranjska Gora"
     },
     {
-      "name": "Lenart v Slov. Goricah",
-      "id": "58UdWlAhpdq_"
+      "id": "lenart-v-slov-goricah",
+      "name": "Lenart v Slov. Goricah"
     },
     {
-      "name": "Lendava",
-      "id": "xUDJQn9gYYRN"
+      "id": "lendava",
+      "name": "Lendava"
     },
     {
-      "name": "Lesce",
-      "id": "ALr_WFGvExwZ"
+      "id": "lesce",
+      "name": "Lesce"
     },
     {
-      "name": "Limbus",
-      "id": "u_cBexJZZJWr"
+      "id": "limbus",
+      "name": "Limbus"
     },
     {
-      "name": "Litija",
-      "id": "cGHVMQ_Oj4ju"
+      "id": "litija",
+      "name": "Litija"
     },
     {
-      "name": "Ljubecna",
-      "id": "9n48gA3W_mAe"
+      "id": "ljubecna",
+      "name": "Ljubecna"
     },
     {
-      "name": "Ljubljana",
-      "id": "g7JbivzTBpEw"
+      "id": "ljubljana",
+      "name": "Ljubljana"
     },
     {
-      "name": "Log pri Brezovici",
-      "id": "MXsTDGfLlww-"
+      "id": "log-pri-brezovici",
+      "name": "Log pri Brezovici"
     },
     {
-      "name": "Logatec",
-      "id": "HaOsRrO_dgD8"
+      "id": "logatec",
+      "name": "Logatec"
     },
     {
-      "name": "Lokev",
-      "id": "iqXGharfRf22"
+      "id": "lokev",
+      "name": "Lokev"
     },
     {
-      "name": "Lovrenc na Dravskem Polju",
-      "id": "Sw9jr0K8qZes"
+      "id": "lovrenc-na-dravskem-polju",
+      "name": "Lovrenc na Dravskem Polju"
     },
     {
-      "name": "Lovrenc na Pohorju",
-      "id": "g8Cx89-_5q8g"
+      "id": "lovrenc-na-pohorju",
+      "name": "Lovrenc na Pohorju"
     },
     {
-      "name": "Maribor",
-      "id": "01OhCzUXQi-s"
+      "id": "maribor",
+      "name": "Maribor"
     },
     {
-      "name": "Markovci",
-      "id": "ar-PE2I841Ot"
+      "id": "markovci",
+      "name": "Markovci"
     },
     {
-      "name": "Medvode",
-      "id": "BZqQOT9t9ZqR"
+      "id": "medvode",
+      "name": "Medvode"
     },
     {
-      "name": "Menges",
-      "id": "dNN3WTxRjlM5"
+      "id": "menges",
+      "name": "Menges"
     },
     {
-      "name": "Mezica",
-      "id": "vipG6zpDCv3f"
+      "id": "mezica",
+      "name": "Mezica"
     },
     {
-      "name": "Miklavz na Dravskem Polju",
-      "id": "CqHb9YJYIZRL"
+      "id": "miklavz-na-dravskem-polju",
+      "name": "Miklavz na Dravskem Polju"
     },
     {
-      "name": "Miren",
-      "id": "Jk_LgZnjM9oW"
+      "id": "miren",
+      "name": "Miren"
     },
     {
-      "name": "Mirna",
-      "id": "G1pXmCZ8v8mb"
+      "id": "mirna",
+      "name": "Mirna"
     },
     {
-      "name": "Mojstrana",
-      "id": "Rp2UeYN_WHad"
+      "id": "mojstrana",
+      "name": "Mojstrana"
     },
     {
-      "name": "Moravce",
-      "id": "2stKpF6Cz3bq"
+      "id": "moravce",
+      "name": "Moravce"
     },
     {
-      "name": "Mozirje",
-      "id": "15sImT1jrHMd"
+      "id": "mozirje",
+      "name": "Mozirje"
     },
     {
-      "name": "Murska Sobota",
-      "id": "yFJOCpqdRbYA"
+      "id": "murska-sobota",
+      "name": "Murska Sobota"
     },
     {
-      "name": "Naklo",
-      "id": "9Gh8aS524XoD"
+      "id": "naklo",
+      "name": "Naklo"
     },
     {
-      "name": "Notranje Gorice",
-      "id": "E08tLH9zesDw"
+      "id": "notranje-gorice",
+      "name": "Notranje Gorice"
     },
     {
-      "name": "Nova Cerkev",
-      "id": "5Udc0WqfyaUT"
+      "id": "nova-cerkev",
+      "name": "Nova Cerkev"
     },
     {
-      "name": "Nova Gorica",
-      "id": "bIYLCATxLKsv"
+      "id": "nova-gorica",
+      "name": "Nova Gorica"
     },
     {
-      "name": "Novo Mesto",
-      "id": "cKm8VlYImbD4"
+      "id": "novo-mesto",
+      "name": "Novo Mesto"
     },
     {
-      "name": "Pernica",
-      "id": "MCLHgw77-1WJ"
+      "id": "pernica",
+      "name": "Pernica"
     },
     {
-      "name": "Pesnica pri Mariboru",
-      "id": "weIGUNa9QBCH"
+      "id": "pesnica-pri-mariboru",
+      "name": "Pesnica pri Mariboru"
     },
     {
-      "name": "Petrovce",
-      "id": "GDxcrOPNS8ZG"
+      "id": "petrovce",
+      "name": "Petrovce"
     },
     {
-      "name": "Piran",
-      "id": "lLxGOuNt-lKU"
+      "id": "piran",
+      "name": "Piran"
     },
     {
-      "name": "Pobegi",
-      "id": "BATUuFbhhR2k"
+      "id": "pobegi",
+      "name": "Pobegi"
     },
     {
-      "name": "Podbocje",
-      "id": "zqq7mlM2hDnL"
+      "id": "podbocje",
+      "name": "Podbocje"
     },
     {
-      "name": "Polhov Gradec",
-      "id": "E7xKu75lDDrq"
+      "id": "polhov-gradec",
+      "name": "Polhov Gradec"
     },
     {
-      "name": "Poljcane",
-      "id": "ObHiuAnPe2WI"
+      "id": "poljcane",
+      "name": "Poljcane"
     },
     {
-      "name": "Polzela",
-      "id": "nlEA9MZHbJ4E"
+      "id": "polzela",
+      "name": "Polzela"
     },
     {
-      "name": "Postojna",
-      "id": "QYVYhR4ZzF8B"
+      "id": "postojna",
+      "name": "Postojna"
     },
     {
-      "name": "Prebold",
-      "id": "ugFEZ_sCtH-i"
+      "id": "prebold",
+      "name": "Prebold"
     },
     {
-      "name": "Preserje",
-      "id": "xCwDvbl5Blkd"
+      "id": "preserje",
+      "name": "Preserje"
     },
     {
-      "name": "Prestranek",
-      "id": "daqrm7a1MAZo"
+      "id": "prestranek",
+      "name": "Prestranek"
     },
     {
-      "name": "Prevalje",
-      "id": "Vru8CVAY84fm"
+      "id": "prevalje",
+      "name": "Prevalje"
     },
     {
-      "name": "Ptuj",
-      "id": "XU6UTgZhayOb"
+      "id": "ptuj",
+      "name": "Ptuj"
     },
     {
-      "name": "Puconci",
-      "id": "G99wpCljTflJ"
+      "id": "puconci",
+      "name": "Puconci"
     },
     {
-      "name": "Radlje ob Dravi",
-      "id": "dsZtg2f9hY5v"
+      "id": "radlje-ob-dravi",
+      "name": "Radlje ob Dravi"
     },
     {
-      "name": "Radomlje",
-      "id": "XafaeUHxav_I"
+      "id": "radomlje",
+      "name": "Radomlje"
     },
     {
-      "name": "Radovljica",
-      "id": "pAAP3XOICa4t"
+      "id": "radovljica",
+      "name": "Radovljica"
     },
     {
-      "name": "Rakek",
-      "id": "I7jqb-EKB56s"
+      "id": "rakek",
+      "name": "Rakek"
     },
     {
-      "name": "Ravne",
-      "id": "2wBn_3laLz1T"
+      "id": "ravne",
+      "name": "Ravne"
     },
     {
-      "name": "Ravne na Koroskem",
-      "id": "vNC8nJUv5DZ4"
+      "id": "ravne-na-koroskem",
+      "name": "Ravne na Koroskem"
     },
     {
-      "name": "Rocinj",
-      "id": "WbIfS5w-mdzj"
+      "id": "rocinj",
+      "name": "Rocinj"
     },
     {
-      "name": "Secovlje",
-      "id": "68XGl7YVcad-"
+      "id": "secovlje",
+      "name": "Secovlje"
     },
     {
-      "name": "Selnica ob Dravi",
-      "id": "nbxaeDUsaQuZ"
+      "id": "selnica-ob-dravi",
+      "name": "Selnica ob Dravi"
     },
     {
-      "name": "Sempeter pri Gorici",
-      "id": "Ow69fFT0zraF"
+      "id": "sempeter-pri-gorici",
+      "name": "Sempeter pri Gorici"
     },
     {
-      "name": "Sencur",
-      "id": "uXR78BnToVBe"
+      "id": "sencur",
+      "name": "Sencur"
     },
     {
-      "name": "Sentjanz",
-      "id": "iKQYpjUAFBQ5"
+      "id": "sentjanz",
+      "name": "Sentjanz"
     },
     {
-      "name": "Sentvid pri Sticni",
-      "id": "jdQrMQaB_vya"
+      "id": "sentvid-pri-sticni",
+      "name": "Sentvid pri Sticni"
     },
     {
-      "name": "Sevnica",
-      "id": "1wBSWs5DkxKr"
+      "id": "sevnica",
+      "name": "Sevnica"
     },
     {
-      "name": "Skofljica",
-      "id": "0bRzqcSM1J-P"
+      "id": "skofljica",
+      "name": "Skofljica"
     },
     {
-      "name": "Slovenj Gradec",
-      "id": "hNPr31A3mvNo"
+      "id": "slovenj-gradec",
+      "name": "Slovenj Gradec"
     },
     {
-      "name": "Slovenska Bistrica",
-      "id": "c6tzjhpFPbzg"
+      "id": "slovenska-bistrica",
+      "name": "Slovenska Bistrica"
     },
     {
-      "name": "Slovenske Konjice",
-      "id": "CQ6nGC-ezpKz"
+      "id": "slovenske-konjice",
+      "name": "Slovenske Konjice"
     },
     {
-      "name": "Smarje",
-      "id": "1MxFpFdoDxg-"
+      "id": "smarje",
+      "name": "Smarje"
     },
     {
-      "name": "Smarje pri Jelsah",
-      "id": "yVHyxs52Ouyt"
+      "id": "smarje-pri-jelsah",
+      "name": "Smarje pri Jelsah"
     },
     {
-      "name": "Smarje-Sap",
-      "id": "O5dHDuqzxkgw"
+      "id": "smarje-sap",
+      "name": "Smarje-Sap"
     },
     {
-      "name": "Smartno ob Paki",
-      "id": "G1QYTRaIyXZQ"
+      "id": "smartno-ob-paki",
+      "name": "Smartno ob Paki"
     },
     {
-      "name": "Smlednik",
-      "id": "1m4uawDdfzTO"
+      "id": "smlednik",
+      "name": "Smlednik"
     },
     {
-      "name": "Sostanj",
-      "id": "3SShDdDmSmeZ"
+      "id": "sostanj",
+      "name": "Sostanj"
     },
     {
-      "name": "Spodnje Hoce",
-      "id": "nU-EDHpE2kMh"
+      "id": "spodnje-hoce",
+      "name": "Spodnje Hoce"
     },
     {
-      "name": "Spodnji Brnik",
-      "id": "e94BwTnWaJUd"
+      "id": "spodnji-brnik",
+      "name": "Spodnji Brnik"
     },
     {
-      "name": "Spodnji Duplek",
-      "id": "mK_Ypb9YqbgL"
+      "id": "spodnji-duplek",
+      "name": "Spodnji Duplek"
     },
     {
-      "name": "Spodnji Ivanjci",
-      "id": "4sQbc6EUm3wW"
+      "id": "spodnji-ivanjci",
+      "name": "Spodnji Ivanjci"
     },
     {
-      "name": "Sredisce ob Dravi",
-      "id": "ByOqE6x7lAiq"
+      "id": "sredisce-ob-dravi",
+      "name": "Sredisce ob Dravi"
     },
     {
-      "name": "Stahovica",
-      "id": "qYba-7D80N-e"
+      "id": "stahovica",
+      "name": "Stahovica"
     },
     {
-      "name": "Stara Cerkev",
-      "id": "aKtImDtD4IR0"
+      "id": "stara-cerkev",
+      "name": "Stara Cerkev"
     },
     {
-      "name": "Stari Trg pri Lozu",
-      "id": "lPOkYIAn82di"
+      "id": "stari-trg-pri-lozu",
+      "name": "Stari Trg pri Lozu"
     },
     {
-      "name": "Starse",
-      "id": "G3Q2ShZxCGPl"
+      "id": "starse",
+      "name": "Starse"
     },
     {
-      "name": "Tisina",
-      "id": "tpNyRHD5eAnx"
+      "id": "tisina",
+      "name": "Tisina"
     },
     {
-      "name": "Tolmin",
-      "id": "A24SiZfKhrMx"
+      "id": "tolmin",
+      "name": "Tolmin"
     },
     {
-      "name": "Trbovlje",
-      "id": "I6cqk0hkCk0c"
+      "id": "trbovlje",
+      "name": "Trbovlje"
     },
     {
-      "name": "Trzic",
-      "id": "JpCG2gHItD7e"
+      "id": "trzic",
+      "name": "Trzic"
     },
     {
-      "name": "Trzin",
-      "id": "7_Fu0zSkpMTW"
+      "id": "trzin",
+      "name": "Trzin"
     },
     {
-      "name": "Velenje",
-      "id": "3Pd3dk_e8IcW"
+      "id": "velenje",
+      "name": "Velenje"
     },
     {
-      "name": "Velika Loka",
-      "id": "6b9mi_T6GUB5"
+      "id": "velika-loka",
+      "name": "Velika Loka"
     },
     {
-      "name": "Verzej",
-      "id": "-LFK99NxKOEq"
+      "id": "verzej",
+      "name": "Verzej"
     },
     {
-      "name": "Videm",
-      "id": "oG6xT-7xXp7k"
+      "id": "videm",
+      "name": "Videm"
     },
     {
-      "name": "Vipava",
-      "id": "mfIAIdsbgQUh"
+      "id": "vipava",
+      "name": "Vipava"
     },
     {
-      "name": "Vodice",
-      "id": "AmItj_16MDiT"
+      "id": "vodice",
+      "name": "Vodice"
     },
     {
-      "name": "Vojnik",
-      "id": "emi1lhJRzDf8"
+      "id": "vojnik",
+      "name": "Vojnik"
     },
     {
-      "name": "Vrhnika",
-      "id": "vNtYx-pHaOVL"
+      "id": "vrhnika",
+      "name": "Vrhnika"
     },
     {
-      "name": "Zagorje ob Savi",
-      "id": "HNbMyZJphC27"
+      "id": "zagorje-ob-savi",
+      "name": "Zagorje ob Savi"
     },
     {
-      "name": "Zelezniki",
-      "id": "BhU5e_4d9xX0"
+      "id": "zelezniki",
+      "name": "Zelezniki"
     },
     {
-      "name": "Zgornja Polskava",
-      "id": "QL2fRD0vRztq"
+      "id": "zgornja-polskava",
+      "name": "Zgornja Polskava"
     },
     {
-      "name": "Zgornje Gorje",
-      "id": "csCGHcweg7-s"
+      "id": "zgornje-gorje",
+      "name": "Zgornje Gorje"
     },
     {
-      "name": "Zgornje Hoce",
-      "id": "_idyxzSuj0KZ"
+      "id": "zgornje-hoce",
+      "name": "Zgornje Hoce"
     },
     {
-      "name": "Zgornje Skofije",
-      "id": "pqEgg8168ycV"
+      "id": "zgornje-skofije",
+      "name": "Zgornje Skofije"
     },
     {
-      "name": "Zidani Most",
-      "id": "2svHSmW9Mbmf"
+      "id": "zidani-most",
+      "name": "Zidani Most"
     },
     {
-      "name": "Ziri",
-      "id": "h_ddd9hBJ6j6"
+      "id": "ziri",
+      "name": "Ziri"
     }
   ]
 }

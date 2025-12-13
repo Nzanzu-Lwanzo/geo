@@ -2,24 +2,24 @@
   "coid": "BW",
   "cities": [
     {
-      "name": "Francistown",
-      "id": "j-w9Rcsr6V0L"
+      "id": "francistown",
+      "name": "Francistown"
     },
     {
-      "name": "Gaborone",
-      "id": "sF6dqVXFeYco"
+      "id": "gaborone",
+      "name": "Gaborone"
     },
     {
-      "name": "Orapa",
-      "id": "xcqCeOVm2Je5"
+      "id": "orapa",
+      "name": "Orapa"
     },
     {
-      "name": "Serowe",
-      "id": "CUeHuvNk13fM"
+      "id": "serowe",
+      "name": "Serowe"
     },
     {
-      "name": "Village",
-      "id": "gMSeX-gFMq6i"
+      "id": "village",
+      "name": "Village"
     }
   ]
 }

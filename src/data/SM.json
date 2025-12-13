@@ -2,24 +2,24 @@
   "coid": "SM",
   "cities": [
     {
-      "name": "Acquaviva",
-      "id": "SJYjVfjZQWS-"
+      "id": "acquaviva",
+      "name": "Acquaviva"
     },
     {
-      "name": "Falciano",
-      "id": "3cvgLaw8zl27"
+      "id": "falciano",
+      "name": "Falciano"
     },
     {
-      "name": "Fiorentino",
-      "id": "YUqvFRdAGtbz"
+      "id": "fiorentino",
+      "name": "Fiorentino"
     },
     {
-      "name": "San Marino",
-      "id": "rk7aZ7c0JXkR"
+      "id": "san-marino",
+      "name": "San Marino"
     },
     {
-      "name": "Serravalle",
-      "id": "g3l-mJXKQCzy"
+      "id": "serravalle",
+      "name": "Serravalle"
     }
   ]
 }

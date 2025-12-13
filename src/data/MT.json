@@ -2,268 +2,268 @@
   "coid": "MT",
   "cities": [
     {
-      "name": "Attard",
-      "id": "-kvszvWby8PQ"
+      "id": "attard",
+      "name": "Attard"
     },
     {
-      "name": "Balzan",
-      "id": "8CxQLMyCl05S"
+      "id": "balzan",
+      "name": "Balzan"
     },
     {
-      "name": "Bingemma",
-      "id": "cnfe7J64eMD_"
+      "id": "bingemma",
+      "name": "Bingemma"
     },
     {
-      "name": "Birgu",
-      "id": "Rj4NBsidPdC6"
+      "id": "birgu",
+      "name": "Birgu"
     },
     {
-      "name": "Birkirkara",
-      "id": "MIVGI_GvDeXX"
+      "id": "birkirkara",
+      "name": "Birkirkara"
     },
     {
-      "name": "Bugibba",
-      "id": "L-B1TgZJHUyT"
+      "id": "bugibba",
+      "name": "Bugibba"
     },
     {
-      "name": "Cospicua",
-      "id": "aWecVhysDL7f"
+      "id": "cospicua",
+      "name": "Cospicua"
     },
     {
-      "name": "Dingli",
-      "id": "zsu0Blmx5_aW"
+      "id": "dingli",
+      "name": "Dingli"
     },
     {
-      "name": "Fgura",
-      "id": "bPA6C9JnmWsi"
+      "id": "fgura",
+      "name": "Fgura"
     },
     {
-      "name": "Floriana",
-      "id": "LCGkR-xrfdG2"
+      "id": "floriana",
+      "name": "Floriana"
     },
     {
-      "name": "Fontana",
-      "id": "qhC4xo7WIebN"
+      "id": "fontana",
+      "name": "Fontana"
     },
     {
-      "name": "Ghajnsielem",
-      "id": "WEPnsLDJtgY-"
+      "id": "ghajnsielem",
+      "name": "Ghajnsielem"
     },
     {
-      "name": "Gharb",
-      "id": "6CjUt4F6uoZl"
+      "id": "gharb",
+      "name": "Gharb"
     },
     {
-      "name": "Ghasri",
-      "id": "QbfgRnDzLapk"
+      "id": "ghasri",
+      "name": "Ghasri"
     },
     {
-      "name": "Ghaxaq",
-      "id": "Ut78urlKUQ0U"
+      "id": "ghaxaq",
+      "name": "Ghaxaq"
     },
     {
-      "name": "Gudja",
-      "id": "Bg_WgUnflTxX"
+      "id": "gudja",
+      "name": "Gudja"
     },
     {
-      "name": "Gzira",
-      "id": "_4t9R32ri-7Q"
+      "id": "gzira",
+      "name": "Gzira"
     },
     {
-      "name": "Hal Gharghur",
-      "id": "AlP5GFDzwXbX"
+      "id": "hal-gharghur",
+      "name": "Hal Gharghur"
     },
     {
-      "name": "Hamrun",
-      "id": "xy4F3p__o2Lu"
+      "id": "hamrun",
+      "name": "Hamrun"
     },
     {
-      "name": "Haz-Zebbug",
-      "id": "LA6bSjuhqqeN"
+      "id": "haz-zebbug",
+      "name": "Haz-Zebbug"
     },
     {
-      "name": "Il-Madliena",
-      "id": "WMs6_9n02p7-"
+      "id": "il-madliena",
+      "name": "Il-Madliena"
     },
     {
-      "name": "Il-Pergla",
-      "id": "miV5s4wlR-oQ"
+      "id": "il-pergla",
+      "name": "Il-Pergla"
     },
     {
-      "name": "Imsida",
-      "id": "iumLiEKEfxL1"
+      "id": "imsida",
+      "name": "Imsida"
     },
     {
-      "name": "Imtarfa",
-      "id": "UjQ_1Yp84Ooq"
+      "id": "imtarfa",
+      "name": "Imtarfa"
     },
     {
-      "name": "Iz-Zebbiegh",
-      "id": "y8F7w3TeHon9"
+      "id": "iz-zebbiegh",
+      "name": "Iz-Zebbiegh"
     },
     {
-      "name": "Kirkop",
-      "id": "V972ok6dly97"
+      "id": "kirkop",
+      "name": "Kirkop"
     },
     {
-      "name": "L-Iklin",
-      "id": "SBawAHvAXue9"
+      "id": "l-iklin",
+      "name": "L-Iklin"
     },
     {
-      "name": "L-Iskorvit",
-      "id": "pHKPb3GhVuK0"
+      "id": "l-iskorvit",
+      "name": "L-Iskorvit"
     },
     {
-      "name": "Lija",
-      "id": "HZK79tzZbD9F"
+      "id": "lija",
+      "name": "Lija"
     },
     {
-      "name": "Luqa",
-      "id": "J8lrGU2gFUax"
+      "id": "luqa",
+      "name": "Luqa"
     },
     {
-      "name": "Manikata",
-      "id": "BfKvQL1lKcqh"
+      "id": "manikata",
+      "name": "Manikata"
     },
     {
-      "name": "Marsa",
-      "id": "shjS-VOoyHQu"
+      "id": "marsa",
+      "name": "Marsa"
     },
     {
-      "name": "Marsalforn",
-      "id": "ks-zUhUv2UCf"
+      "id": "marsalforn",
+      "name": "Marsalforn"
     },
     {
-      "name": "Marsaskala",
-      "id": "AW7OjCEgT9l3"
+      "id": "marsaskala",
+      "name": "Marsaskala"
     },
     {
-      "name": "Marsaxlokk",
-      "id": "3SHpt870rW-S"
+      "id": "marsaxlokk",
+      "name": "Marsaxlokk"
     },
     {
-      "name": "Mdina",
-      "id": "T49vnjDsrw1y"
+      "id": "mdina",
+      "name": "Mdina"
     },
     {
-      "name": "Mellieha",
-      "id": "Ns6bFjAAKzkr"
+      "id": "mellieha",
+      "name": "Mellieha"
     },
     {
-      "name": "Mosta",
-      "id": "e9VdgrDIor_k"
+      "id": "mosta",
+      "name": "Mosta"
     },
     {
-      "name": "Mqabba",
-      "id": "1KUldrNpXDtd"
+      "id": "mqabba",
+      "name": "Mqabba"
     },
     {
-      "name": "Munxar",
-      "id": "icDFYJVGfTtl"
+      "id": "munxar",
+      "name": "Munxar"
     },
     {
-      "name": "Nadur",
-      "id": "r5WgOPqKYa0J"
+      "id": "nadur",
+      "name": "Nadur"
     },
     {
-      "name": "Naxxar",
-      "id": "8Kmdxnw8IF9H"
+      "id": "naxxar",
+      "name": "Naxxar"
     },
     {
-      "name": "Paola",
-      "id": "vrtdoDHroxGX"
+      "id": "paola",
+      "name": "Paola"
     },
     {
-      "name": "Pembroke",
-      "id": "rktGfVnQiwyl"
+      "id": "pembroke",
+      "name": "Pembroke"
     },
     {
-      "name": "Qormi",
-      "id": "2TaM-KmVj-4r"
+      "id": "qormi",
+      "name": "Qormi"
     },
     {
-      "name": "Qrendi",
-      "id": "quKurVffJYkd"
+      "id": "qrendi",
+      "name": "Qrendi"
     },
     {
-      "name": "Rabat",
-      "id": "UfCGLKyZHMbv"
+      "id": "rabat",
+      "name": "Rabat"
     },
     {
-      "name": "Safi",
-      "id": "olYOahc-WraS"
+      "id": "safi",
+      "name": "Safi"
     },
     {
-      "name": "Saint John",
-      "id": "b65cAfBFHnY-"
+      "id": "saint-john",
+      "name": "Saint John"
     },
     {
-      "name": "Saint Lawrence",
-      "id": "jKfs0rNwYFr7"
+      "id": "saint-lawrence",
+      "name": "Saint Lawrence"
     },
     {
-      "name": "Saint Lucia",
-      "id": "rEN_loibrr3k"
+      "id": "saint-lucia",
+      "name": "Saint Lucia"
     },
     {
-      "name": "Saint Venera",
-      "id": "EuNdL9qcP3zE"
+      "id": "saint-venera",
+      "name": "Saint Venera"
     },
     {
-      "name": "San Pawl il-Bahar",
-      "id": "efcxJPB0hUPQ"
+      "id": "san-pawl-il-bahar",
+      "name": "San Pawl il-Bahar"
     },
     {
-      "name": "Sannat",
-      "id": "ydKKXM1j5r74"
+      "id": "sannat",
+      "name": "Sannat"
     },
     {
-      "name": "Senglea",
-      "id": "xUTzccT8pFxt"
+      "id": "senglea",
+      "name": "Senglea"
     },
     {
-      "name": "Siggiewi",
-      "id": "TjCDdgOdXWLr"
+      "id": "siggiewi",
+      "name": "Siggiewi"
     },
     {
-      "name": "Sliema",
-      "id": "9jRhtTmlsnuw"
+      "id": "sliema",
+      "name": "Sliema"
     },
     {
-      "name": "Swieqi",
-      "id": "gzsRJViIsFnS"
+      "id": "swieqi",
+      "name": "Swieqi"
     },
     {
-      "name": "Tarxien",
-      "id": "vFk7E_xq6C2j"
+      "id": "tarxien",
+      "name": "Tarxien"
     },
     {
-      "name": "Valletta",
-      "id": "X1Po4bC6WaBE"
+      "id": "valletta",
+      "name": "Valletta"
     },
     {
-      "name": "Victoria",
-      "id": "U3bgQZk94Fbz"
+      "id": "victoria",
+      "name": "Victoria"
     },
     {
-      "name": "Xaghra",
-      "id": "TRMSfBZ1nAP2"
+      "id": "xaghra",
+      "name": "Xaghra"
     },
     {
-      "name": "Xewkija",
-      "id": "VTO9aOAL8q_5"
+      "id": "xewkija",
+      "name": "Xewkija"
     },
     {
-      "name": "Zabbar",
-      "id": "W48n0_0y8dLH"
+      "id": "zabbar",
+      "name": "Zabbar"
     },
     {
-      "name": "Zejtun",
-      "id": "FS49J6OBb3D_"
+      "id": "zejtun",
+      "name": "Zejtun"
     },
     {
-      "name": "Zurrieq",
-      "id": "vOaTe5fDOFO-"
+      "id": "zurrieq",
+      "name": "Zurrieq"
     }
   ]
 }

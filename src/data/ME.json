@@ -2,44 +2,44 @@
   "coid": "ME",
   "cities": [
     {
-      "name": "Budva",
-      "id": "WKmW9-nSQXQn"
+      "id": "budva",
+      "name": "Budva"
     },
     {
-      "name": "Crna Gora",
-      "id": "eyzrD9enr5H1"
+      "id": "crna-gora",
+      "name": "Crna Gora"
     },
     {
-      "name": "Herceg Novi",
-      "id": "SbaysQK_RRb6"
+      "id": "herceg-novi",
+      "name": "Herceg Novi"
     },
     {
-      "name": "Igalo",
-      "id": "ISwf74LuuUYf"
+      "id": "igalo",
+      "name": "Igalo"
     },
     {
-      "name": "Kotor",
-      "id": "gpivvliQJ1Gn"
+      "id": "kotor",
+      "name": "Kotor"
     },
     {
-      "name": "Niksic",
-      "id": "AOsFg42fZcUd"
+      "id": "niksic",
+      "name": "Niksic"
     },
     {
-      "name": "Pljevlja",
-      "id": "TkSOM6x4OJuO"
+      "id": "pljevlja",
+      "name": "Pljevlja"
     },
     {
-      "name": "Podgorica",
-      "id": "X2dLYCOnE3Uv"
+      "id": "podgorica",
+      "name": "Podgorica"
     },
     {
-      "name": "Stari Bar",
-      "id": "Bo3bK7CMSnmP"
+      "id": "stari-bar",
+      "name": "Stari Bar"
     },
     {
-      "name": "Ulcinj",
-      "id": "54T_Tj7Eb6FW"
+      "id": "ulcinj",
+      "name": "Ulcinj"
     }
   ]
 }

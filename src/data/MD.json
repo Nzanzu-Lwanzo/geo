@@ -2,44 +2,44 @@
   "coid": "MD",
   "cities": [
     {
-      "name": "Chișinău",
-      "id": "zrO9Y-1RPmcX"
+      "id": "chisinau",
+      "name": "Chișinău"
     },
     {
-      "name": "Bălți",
-      "id": "oD4V80C2LaaK"
+      "id": "balti",
+      "name": "Bălți"
     },
     {
-      "name": "Tiraspol",
-      "id": "gaG6zjJWbExx"
+      "id": "tiraspol",
+      "name": "Tiraspol"
     },
     {
-      "name": "Bender",
-      "id": "F4vHZIHt6XD4"
+      "id": "bender",
+      "name": "Bender"
     },
     {
-      "name": "Rîbnița",
-      "id": "dWtA62AmIc6J"
+      "id": "ribnita",
+      "name": "Rîbnița"
     },
     {
-      "name": "Cahul",
-      "id": "1SnoOaucn_1y"
+      "id": "cahul",
+      "name": "Cahul"
     },
     {
-      "name": "Ungheni",
-      "id": "BCtnWXLO0aT8"
+      "id": "ungheni",
+      "name": "Ungheni"
     },
     {
-      "name": "Soroca",
-      "id": "Ff-bhYZFG-E5"
+      "id": "soroca",
+      "name": "Soroca"
     },
     {
-      "name": "Orhei",
-      "id": "NzCA0AMswQW4"
+      "id": "orhei",
+      "name": "Orhei"
     },
     {
-      "name": "Comrat",
-      "id": "agWhpkPpDvPb"
+      "id": "comrat",
+      "name": "Comrat"
     }
   ]
 }

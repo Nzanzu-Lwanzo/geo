@@ -2,132 +2,132 @@
   "coid": "DZ",
   "cities": [
     {
-      "name": "Algiers",
-      "id": "2noeMlyrFKQa"
+      "id": "algiers",
+      "name": "Algiers"
     },
     {
-      "name": "Annaba",
-      "id": "_lFLKR8geKy9"
+      "id": "annaba",
+      "name": "Annaba"
     },
     {
-      "name": "Azazga",
-      "id": "D8b6KsRMP8Gw"
+      "id": "azazga",
+      "name": "Azazga"
     },
     {
-      "name": "Batna City",
-      "id": "r74KDRdi9rz4"
+      "id": "batna-city",
+      "name": "Batna City"
     },
     {
-      "name": "Blida",
-      "id": "UHkVL9e-LoxX"
+      "id": "blida",
+      "name": "Blida"
     },
     {
-      "name": "Bordj",
-      "id": "QR3KC2Mvck1F"
+      "id": "bordj",
+      "name": "Bordj"
     },
     {
-      "name": "Bordj Bou Arreridj",
-      "id": "_CTwLYL5aMpo"
+      "id": "bordj-bou-arreridj",
+      "name": "Bordj Bou Arreridj"
     },
     {
-      "name": "Bougara",
-      "id": "4FkIV9BQnLuz"
+      "id": "bougara",
+      "name": "Bougara"
     },
     {
-      "name": "Cheraga",
-      "id": "37C0l2MZrQlJ"
+      "id": "cheraga",
+      "name": "Cheraga"
     },
     {
-      "name": "Chlef",
-      "id": "MoDYiCz6sjU-"
+      "id": "chlef",
+      "name": "Chlef"
     },
     {
-      "name": "Constantine",
-      "id": "Xm1a371v9rP2"
+      "id": "constantine",
+      "name": "Constantine"
     },
     {
-      "name": "Djelfa",
-      "id": "ORGJd4rBlcbh"
+      "id": "djelfa",
+      "name": "Djelfa"
     },
     {
-      "name": "Draria",
-      "id": "bu3oxlS1fCK3"
+      "id": "draria",
+      "name": "Draria"
     },
     {
-      "name": "El Tarf",
-      "id": "hIiByMtH3RG3"
+      "id": "el-tarf",
+      "name": "El Tarf"
     },
     {
-      "name": "Hussein Dey",
-      "id": "oZqQ80BTRsIN"
+      "id": "hussein-dey",
+      "name": "Hussein Dey"
     },
     {
-      "name": "Illizi",
-      "id": "nay71Fvc9HHF"
+      "id": "illizi",
+      "name": "Illizi"
     },
     {
-      "name": "Jijel",
-      "id": "ktwpCk2qn25P"
+      "id": "jijel",
+      "name": "Jijel"
     },
     {
-      "name": "Kouba",
-      "id": "hqrHRgwItGzA"
+      "id": "kouba",
+      "name": "Kouba"
     },
     {
-      "name": "Laghouat",
-      "id": "m8sz8Q0S5YLn"
+      "id": "laghouat",
+      "name": "Laghouat"
     },
     {
-      "name": "Oran",
-      "id": "F6s823XaXM2i"
+      "id": "oran",
+      "name": "Oran"
     },
     {
-      "name": "Ouargla",
-      "id": "ynYBtKmhBVdn"
+      "id": "ouargla",
+      "name": "Ouargla"
     },
     {
-      "name": "Oued Smar",
-      "id": "BrY76JpNU9q2"
+      "id": "oued-smar",
+      "name": "Oued Smar"
     },
     {
-      "name": "Relizane",
-      "id": "0H43GyPZfFAs"
+      "id": "relizane",
+      "name": "Relizane"
     },
     {
-      "name": "Rouiba",
-      "id": "7XbM_1BvcgFw"
+      "id": "rouiba",
+      "name": "Rouiba"
     },
     {
-      "name": "Saida",
-      "id": "ANkd5IY_2icz"
+      "id": "saida",
+      "name": "Saida"
     },
     {
-      "name": "Souk Ahras",
-      "id": "hwE8_B6YhNwp"
+      "id": "souk-ahras",
+      "name": "Souk Ahras"
     },
     {
-      "name": "Tamanghasset",
-      "id": "DC851SusULg9"
+      "id": "tamanghasset",
+      "name": "Tamanghasset"
     },
     {
-      "name": "Tiaret",
-      "id": "1kFMZb-ratje"
+      "id": "tiaret",
+      "name": "Tiaret"
     },
     {
-      "name": "Tissemsilt",
-      "id": "JqG_sbiHtHYr"
+      "id": "tissemsilt",
+      "name": "Tissemsilt"
     },
     {
-      "name": "Tizi",
-      "id": "8cEBZVbMWE0P"
+      "id": "tizi",
+      "name": "Tizi"
     },
     {
-      "name": "Tizi Ouzou",
-      "id": "SWOHGLISHoHA"
+      "id": "tizi-ouzou",
+      "name": "Tizi Ouzou"
     },
     {
-      "name": "Tlemcen",
-      "id": "ewMKxFgd1qm7"
+      "id": "tlemcen",
+      "name": "Tlemcen"
     }
   ]
 }

@@ -2,32 +2,32 @@
   "coid": "OM",
   "cities": [
     {
-      "name": "Al Sohar",
-      "id": "lF4uvN9_ZJ4Z"
+      "id": "al-sohar",
+      "name": "Al Sohar"
     },
     {
-      "name": "Muscat",
-      "id": "8KXDCuMw5aGK"
+      "id": "muscat",
+      "name": "Muscat"
     },
     {
-      "name": "Nizwa",
-      "id": "8_OA7vbg_WYc"
+      "id": "nizwa",
+      "name": "Nizwa"
     },
     {
-      "name": "Ruwi",
-      "id": "Sd6U_dMP5GJg"
+      "id": "ruwi",
+      "name": "Ruwi"
     },
     {
-      "name": "Saham",
-      "id": "Bz0YAJqkjdYc"
+      "id": "saham",
+      "name": "Saham"
     },
     {
-      "name": "Salalah",
-      "id": "DhR1_A6EzM6R"
+      "id": "salalah",
+      "name": "Salalah"
     },
     {
-      "name": "Samad",
-      "id": "8JbEYM22F16_"
+      "id": "samad",
+      "name": "Samad"
     }
   ]
 }

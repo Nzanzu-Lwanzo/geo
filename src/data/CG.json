@@ -2,44 +2,44 @@
   "coid": "CG",
   "cities": [
     {
-      "name": "Brazzaville",
-      "id": "Fnan8bAT-owf"
+      "id": "brazzaville",
+      "name": "Brazzaville"
     },
     {
-      "name": "Pointe-Noire",
-      "id": "Z1AzQjHlcr1E"
+      "id": "pointe-noire",
+      "name": "Pointe-Noire"
     },
     {
-      "name": "Dolisie",
-      "id": "bAdqTv6Fnnh6"
+      "id": "dolisie",
+      "name": "Dolisie"
     },
     {
-      "name": "Nkayi",
-      "id": "nCMiuByAs8si"
+      "id": "nkayi",
+      "name": "Nkayi"
     },
     {
-      "name": "Impfondo",
-      "id": "yKLeBK-a9H7v"
+      "id": "impfondo",
+      "name": "Impfondo"
     },
     {
-      "name": "Ouésso",
-      "id": "b9q47WqFTOgm"
+      "id": "ouesso",
+      "name": "Ouésso"
     },
     {
-      "name": "Madingou",
-      "id": "-eZlDvhnR94L"
+      "id": "madingou",
+      "name": "Madingou"
     },
     {
-      "name": "Gamboma",
-      "id": "h74mEoCByehp"
+      "id": "gamboma",
+      "name": "Gamboma"
     },
     {
-      "name": "Kinkala",
-      "id": "dTQW7cUG2z0a"
+      "id": "kinkala",
+      "name": "Kinkala"
     },
     {
-      "name": "Sibiti",
-      "id": "1fRhp58AKeiF"
+      "id": "sibiti",
+      "name": "Sibiti"
     }
   ]
 }

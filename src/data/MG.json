@@ -2,32 +2,32 @@
   "coid": "MG",
   "cities": [
     {
-      "name": "Ambanja",
-      "id": "VBfJOHC5-Xdy"
+      "id": "ambanja",
+      "name": "Ambanja"
     },
     {
-      "name": "Antananarivo",
-      "id": "aFDro2F9c-85"
+      "id": "antananarivo",
+      "name": "Antananarivo"
     },
     {
-      "name": "Antsirabe",
-      "id": "MKnjyI5xapbQ"
+      "id": "antsirabe",
+      "name": "Antsirabe"
     },
     {
-      "name": "Antsiranana",
-      "id": "1NHTCH788qtj"
+      "id": "antsiranana",
+      "name": "Antsiranana"
     },
     {
-      "name": "Fianarantsoa",
-      "id": "vI6T9tDNm6nQ"
+      "id": "fianarantsoa",
+      "name": "Fianarantsoa"
     },
     {
-      "name": "Toamasina",
-      "id": "r6nM1Rds0Nxa"
+      "id": "toamasina",
+      "name": "Toamasina"
     },
     {
-      "name": "Toliara",
-      "id": "veV8zb_iYDOT"
+      "id": "toliara",
+      "name": "Toliara"
     }
   ]
 }

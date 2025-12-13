@@ -2,44 +2,44 @@
   "coid": "SC",
   "cities": [
     {
-      "name": "Victoria",
-      "id": "RAy-HawmB6j5"
+      "id": "victoria",
+      "name": "Victoria"
     },
     {
-      "name": "Anse Boileau",
-      "id": "RLF7tw-vM4NR"
+      "id": "anse-boileau",
+      "name": "Anse Boileau"
     },
     {
-      "name": "Beau Vallon",
-      "id": "1wc061N_OJOx"
+      "id": "beau-vallon",
+      "name": "Beau Vallon"
     },
     {
-      "name": "Anse Royale",
-      "id": "tFUFtojxav5Q"
+      "id": "anse-royale",
+      "name": "Anse Royale"
     },
     {
-      "name": "Baie Lazare",
-      "id": "xwliN0EihmeN"
+      "id": "baie-lazare",
+      "name": "Baie Lazare"
     },
     {
-      "name": "Anse aux Pins",
-      "id": "MebL6qbUX1Bg"
+      "id": "anse-aux-pins",
+      "name": "Anse aux Pins"
     },
     {
-      "name": "Grand Anse",
-      "id": "SvAFP_BKD3Mp"
+      "id": "grand-anse",
+      "name": "Grand Anse"
     },
     {
-      "name": "La Digue",
-      "id": "JwNOqyW2UV7j"
+      "id": "la-digue",
+      "name": "La Digue"
     },
     {
-      "name": "Bel Ombre",
-      "id": "tKvdVdzlYzZS"
+      "id": "bel-ombre",
+      "name": "Bel Ombre"
     },
     {
-      "name": "Glacis",
-      "id": "BG46cqEfmP0e"
+      "id": "glacis",
+      "name": "Glacis"
     }
   ]
 }

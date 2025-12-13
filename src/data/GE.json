@@ -2,40 +2,40 @@
   "coid": "GE",
   "cities": [
     {
-      "name": "Gogolesubani",
-      "id": "ERjAEIOdNDBx"
+      "id": "gogolesubani",
+      "name": "Gogolesubani"
     },
     {
-      "name": "Kutaisi",
-      "id": "NsW7dw_MJPnW"
+      "id": "kutaisi",
+      "name": "Kutaisi"
     },
     {
-      "name": "Lentekhi",
-      "id": "qsj-6xb9WbQP"
+      "id": "lentekhi",
+      "name": "Lentekhi"
     },
     {
-      "name": "Qazbegi",
-      "id": "J0NVn401sc9u"
+      "id": "qazbegi",
+      "name": "Qazbegi"
     },
     {
-      "name": "Samtredia",
-      "id": "pBC6_onC7vz0"
+      "id": "samtredia",
+      "name": "Samtredia"
     },
     {
-      "name": "Sukhumi",
-      "id": "WzUC30dDZoYQ"
+      "id": "sukhumi",
+      "name": "Sukhumi"
     },
     {
-      "name": "Tbilisi",
-      "id": "MdN7Th4KS8dK"
+      "id": "tbilisi",
+      "name": "Tbilisi"
     },
     {
-      "name": "Zemo-Avchala",
-      "id": "AnCp099pjUpZ"
+      "id": "zemo-avchala",
+      "name": "Zemo-Avchala"
     },
     {
-      "name": "Zugdidi",
-      "id": "4uc2ljdLt8-s"
+      "id": "zugdidi",
+      "name": "Zugdidi"
     }
   ]
 }

@@ -2,4556 +2,4556 @@
   "coid": "BE",
   "cities": [
     {
-      "name": "Aalbeke",
-      "id": "NEDN90W3CJGw"
+      "id": "aalbeke",
+      "name": "Aalbeke"
     },
     {
-      "name": "Aalst",
-      "id": "vxNWBinXZr0c"
+      "id": "aalst",
+      "name": "Aalst"
     },
     {
-      "name": "Aalter",
-      "id": "zfXluNk5kVrZ"
+      "id": "aalter",
+      "name": "Aalter"
     },
     {
-      "name": "Aarschot",
-      "id": "_PT60XyGXzd_"
+      "id": "aarschot",
+      "name": "Aarschot"
     },
     {
-      "name": "Aarsele",
-      "id": "O-Q6ed2GmVXa"
+      "id": "aarsele",
+      "name": "Aarsele"
     },
     {
-      "name": "Aartrijke",
-      "id": "tUXsHn0p0qzY"
+      "id": "aartrijke",
+      "name": "Aartrijke"
     },
     {
-      "name": "Aartselaar",
-      "id": "M_tV3yrnlxMA"
+      "id": "aartselaar",
+      "name": "Aartselaar"
     },
     {
-      "name": "Achel",
-      "id": "oZxRAa0UVr-x"
+      "id": "achel",
+      "name": "Achel"
     },
     {
-      "name": "Adegem",
-      "id": "JTgm4VB0leMF"
+      "id": "adegem",
+      "name": "Adegem"
     },
     {
-      "name": "Adinkerke",
-      "id": "qITC8l8GnBJh"
+      "id": "adinkerke",
+      "name": "Adinkerke"
     },
     {
-      "name": "Afsnee",
-      "id": "cHvQFncKoxmC"
+      "id": "afsnee",
+      "name": "Afsnee"
     },
     {
-      "name": "Agimont",
-      "id": "svWycvRnhnGv"
+      "id": "agimont",
+      "name": "Agimont"
     },
     {
-      "name": "Alken",
-      "id": "Q1q36BzjBWCr"
+      "id": "alken",
+      "name": "Alken"
     },
     {
-      "name": "Alleur",
-      "id": "ON52JUzckx6P"
+      "id": "alleur",
+      "name": "Alleur"
     },
     {
-      "name": "Alsemberg",
-      "id": "atqRFbhslMxi"
+      "id": "alsemberg",
+      "name": "Alsemberg"
     },
     {
-      "name": "Alveringem",
-      "id": "PyXhbgDSvNGq"
+      "id": "alveringem",
+      "name": "Alveringem"
     },
     {
-      "name": "Amay",
-      "id": "62IMwMmcvucO"
+      "id": "amay",
+      "name": "Amay"
     },
     {
-      "name": "Ampsin",
-      "id": "0xMN6DgW3gPb"
+      "id": "ampsin",
+      "name": "Ampsin"
     },
     {
-      "name": "Andenne",
-      "id": "rNjFHQ1VEsr-"
+      "id": "andenne",
+      "name": "Andenne"
     },
     {
-      "name": "Anderlecht",
-      "id": "9CpOZ-xCIs7v"
+      "id": "anderlecht",
+      "name": "Anderlecht"
     },
     {
-      "name": "Anderlues",
-      "id": "E9KPRzAu1A2-"
+      "id": "anderlues",
+      "name": "Anderlues"
     },
     {
-      "name": "Andrimont",
-      "id": "UwTNdbPTtOa1"
+      "id": "andrimont",
+      "name": "Andrimont"
     },
     {
-      "name": "Angleur",
-      "id": "aX95idUGwJ5J"
+      "id": "angleur",
+      "name": "Angleur"
     },
     {
-      "name": "Ans",
-      "id": "BPOxIbW861Cd"
+      "id": "ans",
+      "name": "Ans"
     },
     {
-      "name": "Anseroeul",
-      "id": "DU6cmEUPgzmV"
+      "id": "anseroeul",
+      "name": "Anseroeul"
     },
     {
-      "name": "Anthisnes",
-      "id": "rUCXLK0fWes7"
+      "id": "anthisnes",
+      "name": "Anthisnes"
     },
     {
-      "name": "Antwerp",
-      "id": "ni_67B7aRWjy"
+      "id": "antwerp",
+      "name": "Antwerp"
     },
     {
-      "name": "Anzegem",
-      "id": "RpTdJLhJQqkg"
+      "id": "anzegem",
+      "name": "Anzegem"
     },
     {
-      "name": "Appels",
-      "id": "0js2QylFP3OD"
+      "id": "appels",
+      "name": "Appels"
     },
     {
-      "name": "Appelterre-Eichem",
-      "id": "r-2Q_o_nJ6iC"
+      "id": "appelterre-eichem",
+      "name": "Appelterre-Eichem"
     },
     {
-      "name": "Arbrefontaine",
-      "id": "jHAy68Jcti5E"
+      "id": "arbrefontaine",
+      "name": "Arbrefontaine"
     },
     {
-      "name": "Ardooie",
-      "id": "ki5uKdqGWbzy"
+      "id": "ardooie",
+      "name": "Ardooie"
     },
     {
-      "name": "Arendonk",
-      "id": "BLxMRp9AkK_t"
+      "id": "arendonk",
+      "name": "Arendonk"
     },
     {
-      "name": "Argenteau",
-      "id": "-3L8GHe6YSmZ"
+      "id": "argenteau",
+      "name": "Argenteau"
     },
     {
-      "name": "Arlon",
-      "id": "OMDEQQugrebp"
+      "id": "arlon",
+      "name": "Arlon"
     },
     {
-      "name": "Arquennes",
-      "id": "IwoUABphYLW2"
+      "id": "arquennes",
+      "name": "Arquennes"
     },
     {
-      "name": "Arsimont",
-      "id": "sWhgzxL4kNDN"
+      "id": "arsimont",
+      "name": "Arsimont"
     },
     {
-      "name": "As",
-      "id": "jmv97SdTCW9o"
+      "id": "as",
+      "name": "As"
     },
     {
-      "name": "Asse",
-      "id": "5oqFydg3omHV"
+      "id": "asse",
+      "name": "Asse"
     },
     {
-      "name": "Assebroek",
-      "id": "_6vh-_e-mDUx"
+      "id": "assebroek",
+      "name": "Assebroek"
     },
     {
-      "name": "Assenede",
-      "id": "5uFVMgcEEzzo"
+      "id": "assenede",
+      "name": "Assenede"
     },
     {
-      "name": "Assent",
-      "id": "S_42971_Q-ln"
+      "id": "assent",
+      "name": "Assent"
     },
     {
-      "name": "Assesse",
-      "id": "nkVjzx3LIhzR"
+      "id": "assesse",
+      "name": "Assesse"
     },
     {
-      "name": "Astene",
-      "id": "tFASK_2DlEeM"
+      "id": "astene",
+      "name": "Astene"
     },
     {
-      "name": "Astenet",
-      "id": "Ut0AYfTeZV27"
+      "id": "astenet",
+      "name": "Astenet"
     },
     {
-      "name": "Ath",
-      "id": "XVXEKfATHQBM"
+      "id": "ath",
+      "name": "Ath"
     },
     {
-      "name": "Attenhoven",
-      "id": "FDHLfbRK1cG8"
+      "id": "attenhoven",
+      "name": "Attenhoven"
     },
     {
-      "name": "Attre",
-      "id": "Wyeqt6GodWdR"
+      "id": "attre",
+      "name": "Attre"
     },
     {
-      "name": "Aubange",
-      "id": "GQDjNpCozKyr"
+      "id": "aubange",
+      "name": "Aubange"
     },
     {
-      "name": "Aubel",
-      "id": "8RUEb6Gp2LTp"
+      "id": "aubel",
+      "name": "Aubel"
     },
     {
-      "name": "Auderghem",
-      "id": "dJOBt8AA37eO"
+      "id": "auderghem",
+      "name": "Auderghem"
     },
     {
-      "name": "Auvelais",
-      "id": "WCJeJwNd2GZL"
+      "id": "auvelais",
+      "name": "Auvelais"
     },
     {
-      "name": "Avekapelle",
-      "id": "ytO4f3-M-S3C"
+      "id": "avekapelle",
+      "name": "Avekapelle"
     },
     {
-      "name": "Avelgem",
-      "id": "5-7R1hO6FcxQ"
+      "id": "avelgem",
+      "name": "Avelgem"
     },
     {
-      "name": "Averbode",
-      "id": "VIM_0W-rGX-C"
+      "id": "averbode",
+      "name": "Averbode"
     },
     {
-      "name": "Awans",
-      "id": "e7kL9g91827o"
+      "id": "awans",
+      "name": "Awans"
     },
     {
-      "name": "Awirs",
-      "id": "tXQzenFuPXte"
+      "id": "awirs",
+      "name": "Awirs"
     },
     {
-      "name": "Aywaille",
-      "id": "cXqHqqNZL2bB"
+      "id": "aywaille",
+      "name": "Aywaille"
     },
     {
-      "name": "Baal",
-      "id": "BitU9Wf1EmwY"
+      "id": "baal",
+      "name": "Baal"
     },
     {
-      "name": "Baarle-Hertog",
-      "id": "lDTBC5cDRXgr"
+      "id": "baarle-hertog",
+      "name": "Baarle-Hertog"
     },
     {
-      "name": "Baasrode",
-      "id": "Mdy8anaAUgmh"
+      "id": "baasrode",
+      "name": "Baasrode"
     },
     {
-      "name": "Baelen",
-      "id": "jc63DLIyuIey"
+      "id": "baelen",
+      "name": "Baelen"
     },
     {
-      "name": "Baisy-Thy",
-      "id": "ivNEn6tMNqHI"
+      "id": "baisy-thy",
+      "name": "Baisy-Thy"
     },
     {
-      "name": "Balen",
-      "id": "2LqcMm83_KoM"
+      "id": "balen",
+      "name": "Balen"
     },
     {
-      "name": "Banneux",
-      "id": "-aN1LORJMfSm"
+      "id": "banneux",
+      "name": "Banneux"
     },
     {
-      "name": "Barchon",
-      "id": "cp2MUneR3sbq"
+      "id": "barchon",
+      "name": "Barchon"
     },
     {
-      "name": "Barry",
-      "id": "6kkn0TSlkyYq"
+      "id": "barry",
+      "name": "Barry"
     },
     {
-      "name": "Basecles",
-      "id": "0xdWFwIsbK0X"
+      "id": "basecles",
+      "name": "Basecles"
     },
     {
-      "name": "Bassenge",
-      "id": "AuyVPY-A-CqH"
+      "id": "bassenge",
+      "name": "Bassenge"
     },
     {
-      "name": "Bassevelde",
-      "id": "CrHZtkrtkENZ"
+      "id": "bassevelde",
+      "name": "Bassevelde"
     },
     {
-      "name": "Bastogne",
-      "id": "uFNLMfaaoGsn"
+      "id": "bastogne",
+      "name": "Bastogne"
     },
     {
-      "name": "Battice",
-      "id": "Vk2dxHHFDPiP"
+      "id": "battice",
+      "name": "Battice"
     },
     {
-      "name": "Baudour",
-      "id": "fD1zdoe0ZJcA"
+      "id": "baudour",
+      "name": "Baudour"
     },
     {
-      "name": "Bavegem",
-      "id": "47-Ll8Czmsrw"
+      "id": "bavegem",
+      "name": "Bavegem"
     },
     {
-      "name": "Bavikhove",
-      "id": "S2dVmq1AGyVG"
+      "id": "bavikhove",
+      "name": "Bavikhove"
     },
     {
-      "name": "Bazel",
-      "id": "2YNSG8X2agLm"
+      "id": "bazel",
+      "name": "Bazel"
     },
     {
-      "name": "Beaufays",
-      "id": "gy9u98s5lljb"
+      "id": "beaufays",
+      "name": "Beaufays"
     },
     {
-      "name": "Beauvechain",
-      "id": "63uLbgcOi3ru"
+      "id": "beauvechain",
+      "name": "Beauvechain"
     },
     {
-      "name": "Beernem",
-      "id": "-BUfdCnsYLb9"
+      "id": "beernem",
+      "name": "Beernem"
     },
     {
-      "name": "Beerse",
-      "id": "fcA3t4wxcrQX"
+      "id": "beerse",
+      "name": "Beerse"
     },
     {
-      "name": "Beersel",
-      "id": "tBkBY4ih4gNI"
+      "id": "beersel",
+      "name": "Beersel"
     },
     {
-      "name": "Beervelde",
-      "id": "z5PgcdiVrNsl"
+      "id": "beervelde",
+      "name": "Beervelde"
     },
     {
-      "name": "Beerzel",
-      "id": "R2Xri9usAWSl"
+      "id": "beerzel",
+      "name": "Beerzel"
     },
     {
-      "name": "Beez",
-      "id": "GZxpEoTKhcCw"
+      "id": "beez",
+      "name": "Beez"
     },
     {
-      "name": "Begijnendijk",
-      "id": "puE9OaWMAAcR"
+      "id": "begijnendijk",
+      "name": "Begijnendijk"
     },
     {
-      "name": "Beigem",
-      "id": "-8M1-QNNc-p0"
+      "id": "beigem",
+      "name": "Beigem"
     },
     {
-      "name": "Bekkevoort",
-      "id": "Ao9HHyrj7QGy"
+      "id": "bekkevoort",
+      "name": "Bekkevoort"
     },
     {
-      "name": "Belgrade",
-      "id": "yswzLeDED5cc"
+      "id": "belgrade",
+      "name": "Belgrade"
     },
     {
-      "name": "Belle Fontaine",
-      "id": "z5CLxsVsqdlh"
+      "id": "belle-fontaine",
+      "name": "Belle Fontaine"
     },
     {
-      "name": "Bellem",
-      "id": "4M8Rwtv9Isv6"
+      "id": "bellem",
+      "name": "Bellem"
     },
     {
-      "name": "Beloeil",
-      "id": "Df9OyQ6LAtEE"
+      "id": "beloeil",
+      "name": "Beloeil"
     },
     {
-      "name": "Belsele",
-      "id": "x1vpAsN4Sm6S"
+      "id": "belsele",
+      "name": "Belsele"
     },
     {
-      "name": "Berchem",
-      "id": "NIv3nbrphJRz"
+      "id": "berchem",
+      "name": "Berchem"
     },
     {
-      "name": "Berendrecht",
-      "id": "hD377xyGeoqm"
+      "id": "berendrecht",
+      "name": "Berendrecht"
     },
     {
-      "name": "Beringen",
-      "id": "W0idswoz0e6g"
+      "id": "beringen",
+      "name": "Beringen"
     },
     {
-      "name": "Berlaar",
-      "id": "zF5WQkahg7UV"
+      "id": "berlaar",
+      "name": "Berlaar"
     },
     {
-      "name": "Berlare",
-      "id": "amjAi53nrDYi"
+      "id": "berlare",
+      "name": "Berlare"
     },
     {
-      "name": "Bernissart",
-      "id": "lI6GImr-f0x_"
+      "id": "bernissart",
+      "name": "Bernissart"
     },
     {
-      "name": "Bertem",
-      "id": "x_mE-GdGOHAo"
+      "id": "bertem",
+      "name": "Bertem"
     },
     {
-      "name": "Bertrix",
-      "id": "0yq_xOFgeK3h"
+      "id": "bertrix",
+      "name": "Bertrix"
     },
     {
-      "name": "Betekom",
-      "id": "tPpv_v54SHZs"
+      "id": "betekom",
+      "name": "Betekom"
     },
     {
-      "name": "Bevel",
-      "id": "3FTV8mOCxYTh"
+      "id": "bevel",
+      "name": "Bevel"
     },
     {
-      "name": "Beveren",
-      "id": "NSgbeFQFC-o4"
+      "id": "beveren",
+      "name": "Beveren"
     },
     {
-      "name": "Beverlo",
-      "id": "c4L2r1n1M_-Z"
+      "id": "beverlo",
+      "name": "Beverlo"
     },
     {
-      "name": "Beyne-Heusay",
-      "id": "eOiIQQKTUr2l"
+      "id": "beyne-heusay",
+      "name": "Beyne-Heusay"
     },
     {
-      "name": "Bierbeek",
-      "id": "8Rlfwsj2huxF"
+      "id": "bierbeek",
+      "name": "Bierbeek"
     },
     {
-      "name": "Biercee",
-      "id": "WuYG4X9yemyd"
+      "id": "biercee",
+      "name": "Biercee"
     },
     {
-      "name": "Bierges",
-      "id": "expoYtn0GdT0"
+      "id": "bierges",
+      "name": "Bierges"
     },
     {
-      "name": "Bierset",
-      "id": "Qj6wyJl8CvBb"
+      "id": "bierset",
+      "name": "Bierset"
     },
     {
-      "name": "Bilstain",
-      "id": "a15P3mCkTJfM"
+      "id": "bilstain",
+      "name": "Bilstain"
     },
     {
-      "name": "Bilzen",
-      "id": "ycsH5hWo4Rg2"
+      "id": "bilzen",
+      "name": "Bilzen"
     },
     {
-      "name": "Binche",
-      "id": "R8zuIiYADft7"
+      "id": "binche",
+      "name": "Binche"
     },
     {
-      "name": "Bissegem",
-      "id": "WpJ9_YVINFD5"
+      "id": "bissegem",
+      "name": "Bissegem"
     },
     {
-      "name": "Blaasveld",
-      "id": "aLjCpdDi-6RT"
+      "id": "blaasveld",
+      "name": "Blaasveld"
     },
     {
-      "name": "Blanden",
-      "id": "2YlAHmUmJNLp"
+      "id": "blanden",
+      "name": "Blanden"
     },
     {
-      "name": "Blankenberge",
-      "id": "iv2KlFWPPgVw"
+      "id": "blankenberge",
+      "name": "Blankenberge"
     },
     {
-      "name": "Blegny",
-      "id": "Q_3rtuW0qXxD"
+      "id": "blegny",
+      "name": "Blegny"
     },
     {
-      "name": "Bocholt",
-      "id": "WF7VOi7mOeUW"
+      "id": "bocholt",
+      "name": "Bocholt"
     },
     {
-      "name": "Boechout",
-      "id": "GZ_3ktzCVJc_"
+      "id": "boechout",
+      "name": "Boechout"
     },
     {
-      "name": "Boezinge",
-      "id": "yST68IYwHA6f"
+      "id": "boezinge",
+      "name": "Boezinge"
     },
     {
-      "name": "Boncelles",
-      "id": "xCHqoZVLpxtb"
+      "id": "boncelles",
+      "name": "Boncelles"
     },
     {
-      "name": "Bonheiden",
-      "id": "avL9KAUS1iZh"
+      "id": "bonheiden",
+      "name": "Bonheiden"
     },
     {
-      "name": "Bonlez",
-      "id": "k5x3EXDVxL4r"
+      "id": "bonlez",
+      "name": "Bonlez"
     },
     {
-      "name": "Booischot",
-      "id": "_8M5dJG8Iwrf"
+      "id": "booischot",
+      "name": "Booischot"
     },
     {
-      "name": "Boom",
-      "id": "dIt6pSwxeEDk"
+      "id": "boom",
+      "name": "Boom"
     },
     {
-      "name": "Boorsem",
-      "id": "daLLiFRgKV9y"
+      "id": "boorsem",
+      "name": "Boorsem"
     },
     {
-      "name": "Boortmeerbeek",
-      "id": "j_N9jjDX9JaD"
+      "id": "boortmeerbeek",
+      "name": "Boortmeerbeek"
     },
     {
-      "name": "Borchtlombeek",
-      "id": "pXjyKqOY9OJY"
+      "id": "borchtlombeek",
+      "name": "Borchtlombeek"
     },
     {
-      "name": "Borgerhout",
-      "id": "vY1A3HOmolEr"
+      "id": "borgerhout",
+      "name": "Borgerhout"
     },
     {
-      "name": "Borgloon",
-      "id": "zFJ7AUZ_oVlg"
+      "id": "borgloon",
+      "name": "Borgloon"
     },
     {
-      "name": "Bornem",
-      "id": "hs8t65xeg0Cb"
+      "id": "bornem",
+      "name": "Bornem"
     },
     {
-      "name": "Borsbeek",
-      "id": "ceKD54mts1_O"
+      "id": "borsbeek",
+      "name": "Borsbeek"
     },
     {
-      "name": "Borsbeke",
-      "id": "bLbxt9u-RXQh"
+      "id": "borsbeke",
+      "name": "Borsbeke"
     },
     {
-      "name": "Bouge",
-      "id": "8_hzH0sAJ-pd"
+      "id": "bouge",
+      "name": "Bouge"
     },
     {
-      "name": "Bouillon",
-      "id": "1ah6hVXxC8S7"
+      "id": "bouillon",
+      "name": "Bouillon"
     },
     {
-      "name": "Boussu",
-      "id": "AVrEJSTMONSn"
+      "id": "boussu",
+      "name": "Boussu"
     },
     {
-      "name": "Bousval",
-      "id": "MBvuGOfqI-R1"
+      "id": "bousval",
+      "name": "Bousval"
     },
     {
-      "name": "Boutersem",
-      "id": "zm8u4Ivukfof"
+      "id": "boutersem",
+      "name": "Boutersem"
     },
     {
-      "name": "Bouwel",
-      "id": "2DAmFh2YGNwu"
+      "id": "bouwel",
+      "name": "Bouwel"
     },
     {
-      "name": "Bovekerke",
-      "id": "1BLNEvKWO85R"
+      "id": "bovekerke",
+      "name": "Bovekerke"
     },
     {
-      "name": "Bovesse",
-      "id": "EaUtFSd1ddTL"
+      "id": "bovesse",
+      "name": "Bovesse"
     },
     {
-      "name": "Braine-le-Chateau",
-      "id": "61yF0qLG8THS"
+      "id": "braine-le-chateau",
+      "name": "Braine-le-Chateau"
     },
     {
-      "name": "Braine-le-Comte",
-      "id": "ZfJjjFRcuvG0"
+      "id": "braine-le-comte",
+      "name": "Braine-le-Comte"
     },
     {
-      "name": "Braives",
-      "id": "F-IRFbDSxFwh"
+      "id": "braives",
+      "name": "Braives"
     },
     {
-      "name": "Brasmenil",
-      "id": "Om-wmxvhQR7V"
+      "id": "brasmenil",
+      "name": "Brasmenil"
     },
     {
-      "name": "Brasschaat",
-      "id": "53L0bUQAMazm"
+      "id": "brasschaat",
+      "name": "Brasschaat"
     },
     {
-      "name": "Brecht",
-      "id": "NN1OiSTDt-l6"
+      "id": "brecht",
+      "name": "Brecht"
     },
     {
-      "name": "Bredene",
-      "id": "mv2fMYpaxiKv"
+      "id": "bredene",
+      "name": "Bredene"
     },
     {
-      "name": "Bree",
-      "id": "FWwzKpTum_9i"
+      "id": "bree",
+      "name": "Bree"
     },
     {
-      "name": "Bressoux",
-      "id": "FKRt9afcK14M"
+      "id": "bressoux",
+      "name": "Bressoux"
     },
     {
-      "name": "Broechem",
-      "id": "1XDDWMGMsSla"
+      "id": "broechem",
+      "name": "Broechem"
     },
     {
-      "name": "Brugelette",
-      "id": "Auq4EqW6FUw8"
+      "id": "brugelette",
+      "name": "Brugelette"
     },
     {
-      "name": "Bruges",
-      "id": "S1yQ1q09uQeI"
+      "id": "bruges",
+      "name": "Bruges"
     },
     {
-      "name": "Brussegem",
-      "id": "UooG1RCccVFY"
+      "id": "brussegem",
+      "name": "Brussegem"
     },
     {
-      "name": "Brussels",
-      "id": "ZPFUug9Zhm7Z"
+      "id": "brussels",
+      "name": "Brussels"
     },
     {
-      "name": "Budingen",
-      "id": "L_sPF0eJSRqI"
+      "id": "budingen",
+      "name": "Budingen"
     },
     {
-      "name": "Buggenhout",
-      "id": "D1ZwSXBTuHq_"
+      "id": "buggenhout",
+      "name": "Buggenhout"
     },
     {
-      "name": "Buizingen",
-      "id": "c1Kh-QZlVwJI"
+      "id": "buizingen",
+      "name": "Buizingen"
     },
     {
-      "name": "Bunsbeek",
-      "id": "TrSetgnY0n4b"
+      "id": "bunsbeek",
+      "name": "Bunsbeek"
     },
     {
-      "name": "Burcht",
-      "id": "3vhXk5UZkX15"
+      "id": "burcht",
+      "name": "Burcht"
     },
     {
-      "name": "Burdinne",
-      "id": "b4CyyxRlAqBE"
+      "id": "burdinne",
+      "name": "Burdinne"
     },
     {
-      "name": "Burst",
-      "id": "jVXfFm18rDP2"
+      "id": "burst",
+      "name": "Burst"
     },
     {
-      "name": "Butgenbach",
-      "id": "XATTofAZ1v_X"
+      "id": "butgenbach",
+      "name": "Butgenbach"
     },
     {
-      "name": "Buvrinnes",
-      "id": "xg3hzcq4hFnQ"
+      "id": "buvrinnes",
+      "name": "Buvrinnes"
     },
     {
-      "name": "Carnieres",
-      "id": "kJ6oaD1bcqO1"
+      "id": "carnieres",
+      "name": "Carnieres"
     },
     {
-      "name": "Casteau",
-      "id": "GZv5GpYY083X"
+      "id": "casteau",
+      "name": "Casteau"
     },
     {
-      "name": "Celles",
-      "id": "b9kKr9GDYIa6"
+      "id": "celles",
+      "name": "Celles"
     },
     {
-      "name": "Cerexhe-Heuseux",
-      "id": "9u720vjs99z_"
+      "id": "cerexhe-heuseux",
+      "name": "Cerexhe-Heuseux"
     },
     {
-      "name": "Chapelle-lez-Herlaimont",
-      "id": "XN8ee63V60bz"
+      "id": "chapelle-lez-herlaimont",
+      "name": "Chapelle-lez-Herlaimont"
     },
     {
-      "name": "Charleroi",
-      "id": "arD1QEQXksXI"
+      "id": "charleroi",
+      "name": "Charleroi"
     },
     {
-      "name": "Charneux",
-      "id": "Ncd7XEFtC0Ej"
+      "id": "charneux",
+      "name": "Charneux"
     },
     {
-      "name": "Chastre",
-      "id": "PY3Ni2HMEZTa"
+      "id": "chastre",
+      "name": "Chastre"
     },
     {
-      "name": "Chatelet",
-      "id": "EUruIXczDbk-"
+      "id": "chatelet",
+      "name": "Chatelet"
     },
     {
-      "name": "Chatelineau",
-      "id": "jmtMXPNkGGeX"
+      "id": "chatelineau",
+      "name": "Chatelineau"
     },
     {
-      "name": "Chaudfontaine",
-      "id": "7Qvl6QVPwxH8"
+      "id": "chaudfontaine",
+      "name": "Chaudfontaine"
     },
     {
-      "name": "Chaumont-Gistoux",
-      "id": "SWRMN9U_Z-7b"
+      "id": "chaumont-gistoux",
+      "name": "Chaumont-Gistoux"
     },
     {
-      "name": "Chaussee-Notre-Dame-Louvignies",
-      "id": "ttZcXHNuHVxw"
+      "id": "chaussee-notre-dame-louvignies",
+      "name": "Chaussee-Notre-Dame-Louvignies"
     },
     {
-      "name": "Chenee",
-      "id": "1-SSLEqE39Qe"
+      "id": "chenee",
+      "name": "Chenee"
     },
     {
-      "name": "Chercq",
-      "id": "ennsveuoT4yT"
+      "id": "chercq",
+      "name": "Chercq"
     },
     {
-      "name": "Chevron",
-      "id": "6XF99Y_Vg89O"
+      "id": "chevron",
+      "name": "Chevron"
     },
     {
-      "name": "Chievres",
-      "id": "0zLc4z2BJX96"
+      "id": "chievres",
+      "name": "Chievres"
     },
     {
-      "name": "Chimay",
-      "id": "6_vGC0j9ePqN"
+      "id": "chimay",
+      "name": "Chimay"
     },
     {
-      "name": "Chiny",
-      "id": "iHiVExOdUqPI"
+      "id": "chiny",
+      "name": "Chiny"
     },
     {
-      "name": "Ciney",
-      "id": "kraZZttfw5_s"
+      "id": "ciney",
+      "name": "Ciney"
     },
     {
-      "name": "Ciplet",
-      "id": "7KxKaWQDaQil"
+      "id": "ciplet",
+      "name": "Ciplet"
     },
     {
-      "name": "Clavier",
-      "id": "UATMcgdQHdYA"
+      "id": "clavier",
+      "name": "Clavier"
     },
     {
-      "name": "Colfontaine",
-      "id": "YQfpe4WY9di_"
+      "id": "colfontaine",
+      "name": "Colfontaine"
     },
     {
-      "name": "Comblain-au-Pont",
-      "id": "M_5We3bnvXT7"
+      "id": "comblain-au-pont",
+      "name": "Comblain-au-Pont"
     },
     {
-      "name": "Comines",
-      "id": "JHZ6LsSIAH-m"
+      "id": "comines",
+      "name": "Comines"
     },
     {
-      "name": "Coret",
-      "id": "IxDTGXOKSvFI"
+      "id": "coret",
+      "name": "Coret"
     },
     {
-      "name": "Corroy-le-Grand",
-      "id": "kxSrqHTtgNUc"
+      "id": "corroy-le-grand",
+      "name": "Corroy-le-Grand"
     },
     {
-      "name": "Couillet",
-      "id": "I_uKFYt-Rt68"
+      "id": "couillet",
+      "name": "Couillet"
     },
     {
-      "name": "Cour-sur-Heure",
-      "id": "kBItMPm1hRVE"
+      "id": "cour-sur-heure",
+      "name": "Cour-sur-Heure"
     },
     {
-      "name": "Courcelles",
-      "id": "dMzJbjKejnFe"
+      "id": "courcelles",
+      "name": "Courcelles"
     },
     {
-      "name": "Court-Saint-Etienne",
-      "id": "d3MkVNxuTajc"
+      "id": "court-saint-etienne",
+      "name": "Court-Saint-Etienne"
     },
     {
-      "name": "Couthuin",
-      "id": "GtLMW5Hf_h1X"
+      "id": "couthuin",
+      "name": "Couthuin"
     },
     {
-      "name": "Couvin",
-      "id": "wLYusnB1ZXCz"
+      "id": "couvin",
+      "name": "Couvin"
     },
     {
-      "name": "Crisnee",
-      "id": "RKjuNijvFoBc"
+      "id": "crisnee",
+      "name": "Crisnee"
     },
     {
-      "name": "Cuesmes",
-      "id": "zAcye-kHQisN"
+      "id": "cuesmes",
+      "name": "Cuesmes"
     },
     {
-      "name": "Dadizele",
-      "id": "IaZwbXkbWyi4"
+      "id": "dadizele",
+      "name": "Dadizele"
     },
     {
-      "name": "Dalhem",
-      "id": "0vVXiUmatI_N"
+      "id": "dalhem",
+      "name": "Dalhem"
     },
     {
-      "name": "Damme",
-      "id": "wxusP2E4ZLdc"
+      "id": "damme",
+      "name": "Damme"
     },
     {
-      "name": "Dampremy",
-      "id": "z_liySh11ruV"
+      "id": "dampremy",
+      "name": "Dampremy"
     },
     {
-      "name": "Dave",
-      "id": "mIMa1kt3ixeL"
+      "id": "dave",
+      "name": "Dave"
     },
     {
-      "name": "De Haan",
-      "id": "Ty5fO6UpCHJg"
+      "id": "de-haan",
+      "name": "De Haan"
     },
     {
-      "name": "De Klinge",
-      "id": "G8F6W78RnDZJ"
+      "id": "de-klinge",
+      "name": "De Klinge"
     },
     {
-      "name": "De Panne",
-      "id": "_S5Jybx-NV3l"
+      "id": "de-panne",
+      "name": "De Panne"
     },
     {
-      "name": "De Pinte",
-      "id": "vubBfyWVwduk"
+      "id": "de-pinte",
+      "name": "De Pinte"
     },
     {
-      "name": "Deerlijk",
-      "id": "tDDOfsTWyqF_"
+      "id": "deerlijk",
+      "name": "Deerlijk"
     },
     {
-      "name": "Deftinge",
-      "id": "yJtT0nL4Hlg2"
+      "id": "deftinge",
+      "name": "Deftinge"
     },
     {
-      "name": "Deinze",
-      "id": "pWri-PpurovV"
+      "id": "deinze",
+      "name": "Deinze"
     },
     {
-      "name": "Denderbelle",
-      "id": "ayDuBq2NVMWp"
+      "id": "denderbelle",
+      "name": "Denderbelle"
     },
     {
-      "name": "Denderhoutem",
-      "id": "XleAaJLWODFt"
+      "id": "denderhoutem",
+      "name": "Denderhoutem"
     },
     {
-      "name": "Denderleeuw",
-      "id": "KB61RN-ui4Ei"
+      "id": "denderleeuw",
+      "name": "Denderleeuw"
     },
     {
-      "name": "Dendermonde",
-      "id": "hBo47Log3XIi"
+      "id": "dendermonde",
+      "name": "Dendermonde"
     },
     {
-      "name": "Dentergem",
-      "id": "pcVnsTY2rNnQ"
+      "id": "dentergem",
+      "name": "Dentergem"
     },
     {
-      "name": "Dessel",
-      "id": "ZdpHpx1AXgD3"
+      "id": "dessel",
+      "name": "Dessel"
     },
     {
-      "name": "Desselgem",
-      "id": "M6wTnI7nHHoR"
+      "id": "desselgem",
+      "name": "Desselgem"
     },
     {
-      "name": "Destelbergen",
-      "id": "1x2g9XpMgRsD"
+      "id": "destelbergen",
+      "name": "Destelbergen"
     },
     {
-      "name": "Deurle",
-      "id": "PHiWV1DQ0hFv"
+      "id": "deurle",
+      "name": "Deurle"
     },
     {
-      "name": "Deurne",
-      "id": "VFcKXge64qEZ"
+      "id": "deurne",
+      "name": "Deurne"
     },
     {
-      "name": "Diegem",
-      "id": "0_rDoehP19qb"
+      "id": "diegem",
+      "name": "Diegem"
     },
     {
-      "name": "Diepenbeek",
-      "id": "U9VnbbVbPN6k"
+      "id": "diepenbeek",
+      "name": "Diepenbeek"
     },
     {
-      "name": "Diest",
-      "id": "pCvITaBLr_kr"
+      "id": "diest",
+      "name": "Diest"
     },
     {
-      "name": "Diksmuide",
-      "id": "mpKdNijlXQg_"
+      "id": "diksmuide",
+      "name": "Diksmuide"
     },
     {
-      "name": "Dilbeek",
-      "id": "PHyEsphGvR8C"
+      "id": "dilbeek",
+      "name": "Dilbeek"
     },
     {
-      "name": "Dilsen",
-      "id": "uoW9hhmytwTl"
+      "id": "dilsen",
+      "name": "Dilsen"
     },
     {
-      "name": "Dinant",
-      "id": "XVl-JjcGwZJk"
+      "id": "dinant",
+      "name": "Dinant"
     },
     {
-      "name": "Dison",
-      "id": "Ek1YDT7tXJJW"
+      "id": "dison",
+      "name": "Dison"
     },
     {
-      "name": "Donceel",
-      "id": "lrFJd2oCiDwA"
+      "id": "donceel",
+      "name": "Donceel"
     },
     {
-      "name": "Dongelberg",
-      "id": "Gk89iWbWwweQ"
+      "id": "dongelberg",
+      "name": "Dongelberg"
     },
     {
-      "name": "Dorinne",
-      "id": "v_aPdebi-Uhi"
+      "id": "dorinne",
+      "name": "Dorinne"
     },
     {
-      "name": "Dottignies",
-      "id": "Jj7sUi1Ns6e0"
+      "id": "dottignies",
+      "name": "Dottignies"
     },
     {
-      "name": "Dour",
-      "id": "isAp3iMKNQ2o"
+      "id": "dour",
+      "name": "Dour"
     },
     {
-      "name": "Dranouter",
-      "id": "-I09rG5bHNT2"
+      "id": "dranouter",
+      "name": "Dranouter"
     },
     {
-      "name": "Drogenbos",
-      "id": "qxEOYpQXT5c2"
+      "id": "drogenbos",
+      "name": "Drogenbos"
     },
     {
-      "name": "Drongen",
-      "id": "WNeSydMlxIEh"
+      "id": "drongen",
+      "name": "Drongen"
     },
     {
-      "name": "Dudzele",
-      "id": "jvqzWeGZrOmP"
+      "id": "dudzele",
+      "name": "Dudzele"
     },
     {
-      "name": "Duffel",
-      "id": "YNTek39wSuRG"
+      "id": "duffel",
+      "name": "Duffel"
     },
     {
-      "name": "Duisburg",
-      "id": "Xf_Ax_GHVOnN"
+      "id": "duisburg",
+      "name": "Duisburg"
     },
     {
-      "name": "Dworp",
-      "id": "jEHbOvdZ8go6"
+      "id": "dworp",
+      "name": "Dworp"
     },
     {
-      "name": "Ecaussinnes-Lalaing",
-      "id": "aV2_4QTx3Blu"
+      "id": "ecaussinnes-lalaing",
+      "name": "Ecaussinnes-Lalaing"
     },
     {
-      "name": "Edegem",
-      "id": "KSSBxQUSVs0Y"
+      "id": "edegem",
+      "name": "Edegem"
     },
     {
-      "name": "Eeklo",
-      "id": "MlQbQDPSSYjC"
+      "id": "eeklo",
+      "name": "Eeklo"
     },
     {
-      "name": "Eernegem",
-      "id": "9NeggqOG-D_r"
+      "id": "eernegem",
+      "name": "Eernegem"
     },
     {
-      "name": "Eghezee",
-      "id": "JO2hvjDv4K3c"
+      "id": "eghezee",
+      "name": "Eghezee"
     },
     {
-      "name": "Eigenbilzen",
-      "id": "3W8DOSF4XpWz"
+      "id": "eigenbilzen",
+      "name": "Eigenbilzen"
     },
     {
-      "name": "Eke",
-      "id": "VRQF5nrjAdaw"
+      "id": "eke",
+      "name": "Eke"
     },
     {
-      "name": "Ekeren",
-      "id": "mxLE6EFshZ91"
+      "id": "ekeren",
+      "name": "Ekeren"
     },
     {
-      "name": "Eksaarde",
-      "id": "uwWNR8QicHDr"
+      "id": "eksaarde",
+      "name": "Eksaarde"
     },
     {
-      "name": "Eksel",
-      "id": "9cat8pYrCEY-"
+      "id": "eksel",
+      "name": "Eksel"
     },
     {
-      "name": "Elen",
-      "id": "75_y3l9HV5gC"
+      "id": "elen",
+      "name": "Elen"
     },
     {
-      "name": "Elewijt",
-      "id": "Wm2ymJVGTKdC"
+      "id": "elewijt",
+      "name": "Elewijt"
     },
     {
-      "name": "Elingen",
-      "id": "WztZpIef4Mwk"
+      "id": "elingen",
+      "name": "Elingen"
     },
     {
-      "name": "Ellezelles",
-      "id": "c7DNTy69QfV_"
+      "id": "ellezelles",
+      "name": "Ellezelles"
     },
     {
-      "name": "Ellignies-Sainte-Anne",
-      "id": "GtN6b4eOZqWN"
+      "id": "ellignies-sainte-anne",
+      "name": "Ellignies-Sainte-Anne"
     },
     {
-      "name": "Elverdinge",
-      "id": "QAcJIi1mYFGi"
+      "id": "elverdinge",
+      "name": "Elverdinge"
     },
     {
-      "name": "Elversele",
-      "id": "Bvi5VcT2Da_1"
+      "id": "elversele",
+      "name": "Elversele"
     },
     {
-      "name": "Emblem",
-      "id": "fkB04w01tYWD"
+      "id": "emblem",
+      "name": "Emblem"
     },
     {
-      "name": "Embourg",
-      "id": "3gnm9rXDCQnD"
+      "id": "embourg",
+      "name": "Embourg"
     },
     {
-      "name": "Emptinne",
-      "id": "-MxhDLVGULW9"
+      "id": "emptinne",
+      "name": "Emptinne"
     },
     {
-      "name": "Enghien",
-      "id": "3ikY5G1fG7tF"
+      "id": "enghien",
+      "name": "Enghien"
     },
     {
-      "name": "Engis",
-      "id": "UCx9FB3REy0H"
+      "id": "engis",
+      "name": "Engis"
     },
     {
-      "name": "Ensival",
-      "id": "WQM6P5rnJ3rk"
+      "id": "ensival",
+      "name": "Ensival"
     },
     {
-      "name": "Eppegem",
-      "id": "MvSMg-HR8zTB"
+      "id": "eppegem",
+      "name": "Eppegem"
     },
     {
-      "name": "Erbaut",
-      "id": "RvVy4FXXzh7I"
+      "id": "erbaut",
+      "name": "Erbaut"
     },
     {
-      "name": "Erembodegem",
-      "id": "rMrRmWaUygvL"
+      "id": "erembodegem",
+      "name": "Erembodegem"
     },
     {
-      "name": "Erezee",
-      "id": "OqGUc4Bfy_bn"
+      "id": "erezee",
+      "name": "Erezee"
     },
     {
-      "name": "Erondegem",
-      "id": "n7p7ymfHCF50"
+      "id": "erondegem",
+      "name": "Erondegem"
     },
     {
-      "name": "Erpe",
-      "id": "6lmTNUhxnHLY"
+      "id": "erpe",
+      "name": "Erpe"
     },
     {
-      "name": "Erpent",
-      "id": "WFjnYgHUuMPI"
+      "id": "erpent",
+      "name": "Erpent"
     },
     {
-      "name": "Erps-Kwerps",
-      "id": "CvQQr57f8Q7W"
+      "id": "erps-kwerps",
+      "name": "Erps-Kwerps"
     },
     {
-      "name": "Erquelinnes",
-      "id": "W-1_yutuQ758"
+      "id": "erquelinnes",
+      "name": "Erquelinnes"
     },
     {
-      "name": "Ertvelde",
-      "id": "bEiCwSsX3rmz"
+      "id": "ertvelde",
+      "name": "Ertvelde"
     },
     {
-      "name": "Esneux",
-      "id": "tp7DWRaO_Ns8"
+      "id": "esneux",
+      "name": "Esneux"
     },
     {
-      "name": "Essen",
-      "id": "zcQdcpb2Kakm"
+      "id": "essen",
+      "name": "Essen"
     },
     {
-      "name": "Essene",
-      "id": "0BYXowLTxikd"
+      "id": "essene",
+      "name": "Essene"
     },
     {
-      "name": "Estaimpuis",
-      "id": "nyaG6nNHD2p5"
+      "id": "estaimpuis",
+      "name": "Estaimpuis"
     },
     {
-      "name": "Estinnes-au-Val",
-      "id": "yPvUdGEZJ0Um"
+      "id": "estinnes-au-val",
+      "name": "Estinnes-au-Val"
     },
     {
-      "name": "Etalle",
-      "id": "R0EBodP-bbz9"
+      "id": "etalle",
+      "name": "Etalle"
     },
     {
-      "name": "Etikhove",
-      "id": "ItzQOqzuOVfa"
+      "id": "etikhove",
+      "name": "Etikhove"
     },
     {
-      "name": "Etterbeek",
-      "id": "06c2RhBt4prS"
+      "id": "etterbeek",
+      "name": "Etterbeek"
     },
     {
-      "name": "Eupen",
-      "id": "xdJHnOPoQsJU"
+      "id": "eupen",
+      "name": "Eupen"
     },
     {
-      "name": "Everbeek",
-      "id": "BIz0hfPU1gMk"
+      "id": "everbeek",
+      "name": "Everbeek"
     },
     {
-      "name": "Everberg",
-      "id": "Y_OEjEQlhelX"
+      "id": "everberg",
+      "name": "Everberg"
     },
     {
-      "name": "Evere",
-      "id": "XmmJ1odtYzTT"
+      "id": "evere",
+      "name": "Evere"
     },
     {
-      "name": "Evergem",
-      "id": "VLduBuEnL-l7"
+      "id": "evergem",
+      "name": "Evergem"
     },
     {
-      "name": "Faimes",
-      "id": "ToqwlJtoFaFd"
+      "id": "faimes",
+      "name": "Faimes"
     },
     {
-      "name": "Falisolle",
-      "id": "nJufZCOSBJZ7"
+      "id": "falisolle",
+      "name": "Falisolle"
     },
     {
-      "name": "Fallais",
-      "id": "Dmq4emzMH7vS"
+      "id": "fallais",
+      "name": "Fallais"
     },
     {
-      "name": "Farciennes",
-      "id": "Ks2ZcpCA7oAl"
+      "id": "farciennes",
+      "name": "Farciennes"
     },
     {
-      "name": "Fayt-lez-Manage",
-      "id": "hUABJGHaSsaO"
+      "id": "fayt-lez-manage",
+      "name": "Fayt-lez-Manage"
     },
     {
-      "name": "Feluy",
-      "id": "xjTomebTwcqL"
+      "id": "feluy",
+      "name": "Feluy"
     },
     {
-      "name": "Ferrieres",
-      "id": "sFGKf0QcB04I"
+      "id": "ferrieres",
+      "name": "Ferrieres"
     },
     {
-      "name": "Fexhe-le-Haut-Clocher",
-      "id": "7Qxg76e3quiT"
+      "id": "fexhe-le-haut-clocher",
+      "name": "Fexhe-le-Haut-Clocher"
     },
     {
-      "name": "Fexhe-Slins",
-      "id": "Leq9N7OVmJB_"
+      "id": "fexhe-slins",
+      "name": "Fexhe-Slins"
     },
     {
-      "name": "Filot",
-      "id": "g00d-3svGRwR"
+      "id": "filot",
+      "name": "Filot"
     },
     {
-      "name": "Flawinne",
-      "id": "XWRU1QyMP4j-"
+      "id": "flawinne",
+      "name": "Flawinne"
     },
     {
-      "name": "Flemalle-Grande",
-      "id": "EKX5CqRsoW2n"
+      "id": "flemalle-grande",
+      "name": "Flemalle-Grande"
     },
     {
-      "name": "Flemalle-Haute",
-      "id": "6sclljIPg7Fd"
+      "id": "flemalle-haute",
+      "name": "Flemalle-Haute"
     },
     {
-      "name": "Flenu",
-      "id": "ot39G4sWWdmv"
+      "id": "flenu",
+      "name": "Flenu"
     },
     {
-      "name": "Fleron",
-      "id": "IW-vLbAI9fS1"
+      "id": "fleron",
+      "name": "Fleron"
     },
     {
-      "name": "Fleurus",
-      "id": "bnDrjKBeGIuD"
+      "id": "fleurus",
+      "name": "Fleurus"
     },
     {
-      "name": "Flobecq",
-      "id": "ixgnYEJfx0CW"
+      "id": "flobecq",
+      "name": "Flobecq"
     },
     {
-      "name": "Floreffe",
-      "id": "i95p5M1xzNpK"
+      "id": "floreffe",
+      "name": "Floreffe"
     },
     {
-      "name": "Florennes",
-      "id": "6_o1JONdY4fx"
+      "id": "florennes",
+      "name": "Florennes"
     },
     {
-      "name": "Florenville",
-      "id": "wtj3reIkb0JX"
+      "id": "florenville",
+      "name": "Florenville"
     },
     {
-      "name": "Fontaine",
-      "id": "TAgwTVck-ZCO"
+      "id": "fontaine",
+      "name": "Fontaine"
     },
     {
-      "name": "Fontaine-Valmont",
-      "id": "uAHdA36GxklW"
+      "id": "fontaine-valmont",
+      "name": "Fontaine-Valmont"
     },
     {
-      "name": "Forchies-la-Marche",
-      "id": "TcFhyuhieO1R"
+      "id": "forchies-la-marche",
+      "name": "Forchies-la-Marche"
     },
     {
-      "name": "Forest",
-      "id": "K-woloUpSMKp"
+      "id": "forest",
+      "name": "Forest"
     },
     {
-      "name": "Forrieres",
-      "id": "J4LKcKGwD4Wx"
+      "id": "forrieres",
+      "name": "Forrieres"
     },
     {
-      "name": "Fosse des Loups",
-      "id": "WGMYmaimybIO"
+      "id": "fosse-des-loups",
+      "name": "Fosse des Loups"
     },
     {
-      "name": "Frameries",
-      "id": "6ieAQGuMeTk5"
+      "id": "frameries",
+      "name": "Frameries"
     },
     {
-      "name": "Franiere",
-      "id": "Y6w4grDKYTQf"
+      "id": "franiere",
+      "name": "Franiere"
     },
     {
-      "name": "Frasnes-lez-Buissenal",
-      "id": "T7Wn0Tzwdcv3"
+      "id": "frasnes-lez-buissenal",
+      "name": "Frasnes-lez-Buissenal"
     },
     {
-      "name": "Freylange",
-      "id": "6U-Fe_bIF_Wy"
+      "id": "freylange",
+      "name": "Freylange"
     },
     {
-      "name": "Gages",
-      "id": "cfskbs_6tncc"
+      "id": "gages",
+      "name": "Gages"
     },
     {
-      "name": "Galmaarden",
-      "id": "ldduMJQklw8Z"
+      "id": "galmaarden",
+      "name": "Galmaarden"
     },
     {
-      "name": "Ganshoren",
-      "id": "bM2Au2BVJCJh"
+      "id": "ganshoren",
+      "name": "Ganshoren"
     },
     {
-      "name": "Gavere",
-      "id": "4bquEoqBJPIZ"
+      "id": "gavere",
+      "name": "Gavere"
     },
     {
-      "name": "Geel",
-      "id": "Vy7PYWn1aNe0"
+      "id": "geel",
+      "name": "Geel"
     },
     {
-      "name": "Geer",
-      "id": "N6k_LAxkmRcW"
+      "id": "geer",
+      "name": "Geer"
     },
     {
-      "name": "Geetbets",
-      "id": "jtLcuTG_Mg_Z"
+      "id": "geetbets",
+      "name": "Geetbets"
     },
     {
-      "name": "Gellik",
-      "id": "jRV6bUM5I06z"
+      "id": "gellik",
+      "name": "Gellik"
     },
     {
-      "name": "Gelrode",
-      "id": "nDvSq2X74WdP"
+      "id": "gelrode",
+      "name": "Gelrode"
     },
     {
-      "name": "Geluwe",
-      "id": "0RrJDRizk4if"
+      "id": "geluwe",
+      "name": "Geluwe"
     },
     {
-      "name": "Gembloux",
-      "id": "XNl7wD3sjsyG"
+      "id": "gembloux",
+      "name": "Gembloux"
     },
     {
-      "name": "Genk",
-      "id": "DHJDLFH9WHfp"
+      "id": "genk",
+      "name": "Genk"
     },
     {
-      "name": "Gentbrugge",
-      "id": "sMGauVS3feLO"
+      "id": "gentbrugge",
+      "name": "Gentbrugge"
     },
     {
-      "name": "Gentinnes",
-      "id": "RxD57uEIAdBd"
+      "id": "gentinnes",
+      "name": "Gentinnes"
     },
     {
-      "name": "Genval",
-      "id": "SpQEbop4eTEG"
+      "id": "genval",
+      "name": "Genval"
     },
     {
-      "name": "Geraardsbergen",
-      "id": "KXqfJiczcCaU"
+      "id": "geraardsbergen",
+      "name": "Geraardsbergen"
     },
     {
-      "name": "Gerpinnes",
-      "id": "EXmQLK0E3TNN"
+      "id": "gerpinnes",
+      "name": "Gerpinnes"
     },
     {
-      "name": "Gesves",
-      "id": "etb5sNxgruoz"
+      "id": "gesves",
+      "name": "Gesves"
     },
     {
-      "name": "Ghent",
-      "id": "qk0999V7XDy8"
+      "id": "ghent",
+      "name": "Ghent"
     },
     {
-      "name": "Ghislenghien",
-      "id": "XXiA7MHwu4Sv"
+      "id": "ghislenghien",
+      "name": "Ghislenghien"
     },
     {
-      "name": "Ghlin",
-      "id": "enwQTsQ9pkGY"
+      "id": "ghlin",
+      "name": "Ghlin"
     },
     {
-      "name": "Gierle",
-      "id": "3N5q4vaCe33f"
+      "id": "gierle",
+      "name": "Gierle"
     },
     {
-      "name": "Gijzegem",
-      "id": "961sHOsiGx__"
+      "id": "gijzegem",
+      "name": "Gijzegem"
     },
     {
-      "name": "Gilly",
-      "id": "BsIO0S7l_BPf"
+      "id": "gilly",
+      "name": "Gilly"
     },
     {
-      "name": "Gingelom",
-      "id": "v0E2d9obEnld"
+      "id": "gingelom",
+      "name": "Gingelom"
     },
     {
-      "name": "Gistel",
-      "id": "Eg7B6X7rRWRb"
+      "id": "gistel",
+      "name": "Gistel"
     },
     {
-      "name": "Gits",
-      "id": "x_ZGabjYKyJg"
+      "id": "gits",
+      "name": "Gits"
     },
     {
-      "name": "Glabbeek",
-      "id": "VuieVo6s8Shn"
+      "id": "glabbeek",
+      "name": "Glabbeek"
     },
     {
-      "name": "Glimes",
-      "id": "Amt8MzTmqU5_"
+      "id": "glimes",
+      "name": "Glimes"
     },
     {
-      "name": "Gobard",
-      "id": "z1N1gfYdwPzt"
+      "id": "gobard",
+      "name": "Gobard"
     },
     {
-      "name": "Godarville",
-      "id": "5drwixhMppWz"
+      "id": "godarville",
+      "name": "Godarville"
     },
     {
-      "name": "Goe",
-      "id": "8T4jBjRxLLzT"
+      "id": "goe",
+      "name": "Goe"
     },
     {
-      "name": "Gooik",
-      "id": "ekWn739vz5E7"
+      "id": "gooik",
+      "name": "Gooik"
     },
     {
-      "name": "Goor",
-      "id": "He3xE8qOL7Ax"
+      "id": "goor",
+      "name": "Goor"
     },
     {
-      "name": "Gosselies",
-      "id": "A_eRjSauMx6g"
+      "id": "gosselies",
+      "name": "Gosselies"
     },
     {
-      "name": "Gourdinne",
-      "id": "6AQLDPNUUnzM"
+      "id": "gourdinne",
+      "name": "Gourdinne"
     },
     {
-      "name": "Goutroux",
-      "id": "ApCmRY7u030P"
+      "id": "goutroux",
+      "name": "Goutroux"
     },
     {
-      "name": "Gouy-lez-Pieton",
-      "id": "-lfc5dSer_2z"
+      "id": "gouy-lez-pieton",
+      "name": "Gouy-lez-Pieton"
     },
     {
-      "name": "Grand",
-      "id": "5kH1buYMUo3W"
+      "id": "grand",
+      "name": "Grand"
     },
     {
-      "name": "Grand-Leez",
-      "id": "ZG223mu-VyGx"
+      "id": "grand-leez",
+      "name": "Grand-Leez"
     },
     {
-      "name": "Grand-Rechain",
-      "id": "CmhLZ7CII2Xw"
+      "id": "grand-rechain",
+      "name": "Grand-Rechain"
     },
     {
-      "name": "Grand-Reng",
-      "id": "m2nSCkTHSqKK"
+      "id": "grand-reng",
+      "name": "Grand-Reng"
     },
     {
-      "name": "Grembergen",
-      "id": "vyJXG_b6Gugt"
+      "id": "grembergen",
+      "name": "Grembergen"
     },
     {
-      "name": "Grez-Doiceau",
-      "id": "NwPjwpolAM7H"
+      "id": "grez-doiceau",
+      "name": "Grez-Doiceau"
     },
     {
-      "name": "Grimbergen",
-      "id": "ZIzDuXnb5cKb"
+      "id": "grimbergen",
+      "name": "Grimbergen"
     },
     {
-      "name": "Grimminge",
-      "id": "44_wZ6YLymC8"
+      "id": "grimminge",
+      "name": "Grimminge"
     },
     {
-      "name": "Grivegnee",
-      "id": "vjSpe25g8lUZ"
+      "id": "grivegnee",
+      "name": "Grivegnee"
     },
     {
-      "name": "Grobbendonk",
-      "id": "QywktsZyVaw4"
+      "id": "grobbendonk",
+      "name": "Grobbendonk"
     },
     {
-      "name": "Groot-Bijgaarden",
-      "id": "3nxyHJCVFRBM"
+      "id": "groot-bijgaarden",
+      "name": "Groot-Bijgaarden"
     },
     {
-      "name": "Gruitrode",
-      "id": "9XR57k1P0r4c"
+      "id": "gruitrode",
+      "name": "Gruitrode"
     },
     {
-      "name": "Gullegem",
-      "id": "YK6A_PB3cUAQ"
+      "id": "gullegem",
+      "name": "Gullegem"
     },
     {
-      "name": "Haacht",
-      "id": "p8UtGAuJkxpO"
+      "id": "haacht",
+      "name": "Haacht"
     },
     {
-      "name": "Haaltert",
-      "id": "y-xcXqhQIUa3"
+      "id": "haaltert",
+      "name": "Haaltert"
     },
     {
-      "name": "Haasdonk",
-      "id": "ecatjzb3BOO4"
+      "id": "haasdonk",
+      "name": "Haasdonk"
     },
     {
-      "name": "Haasrode",
-      "id": "lPlU2X69H6z4"
+      "id": "haasrode",
+      "name": "Haasrode"
     },
     {
-      "name": "Haccourt",
-      "id": "D87y52G_ydiO"
+      "id": "haccourt",
+      "name": "Haccourt"
     },
     {
-      "name": "Haine-Saint-Paul",
-      "id": "zxduPg8m5CWp"
+      "id": "haine-saint-paul",
+      "name": "Haine-Saint-Paul"
     },
     {
-      "name": "Halen",
-      "id": "u_9k5rmg2rHA"
+      "id": "halen",
+      "name": "Halen"
     },
     {
-      "name": "Hallaar",
-      "id": "3OYNxLnO5hI2"
+      "id": "hallaar",
+      "name": "Hallaar"
     },
     {
-      "name": "Halle",
-      "id": "EXtdo9ism9pX"
+      "id": "halle",
+      "name": "Halle"
     },
     {
-      "name": "Ham",
-      "id": "cti4sdIlj2Jq"
+      "id": "ham",
+      "name": "Ham"
     },
     {
-      "name": "Ham-sur-Heure",
-      "id": "ccyZ0nNrwyyb"
+      "id": "ham-sur-heure",
+      "name": "Ham-sur-Heure"
     },
     {
-      "name": "Ham-sur-Sambre",
-      "id": "QiaEdQO8fdJk"
+      "id": "ham-sur-sambre",
+      "name": "Ham-sur-Sambre"
     },
     {
-      "name": "Hamme",
-      "id": "p2UPeyQkz8z_"
+      "id": "hamme",
+      "name": "Hamme"
     },
     {
-      "name": "Hamme-Mille",
-      "id": "2sQopaaMfHZQ"
+      "id": "hamme-mille",
+      "name": "Hamme-Mille"
     },
     {
-      "name": "Hamoir",
-      "id": "8QfOwSJy48Lw"
+      "id": "hamoir",
+      "name": "Hamoir"
     },
     {
-      "name": "Hamont",
-      "id": "dcp6fh1dvLv9"
+      "id": "hamont",
+      "name": "Hamont"
     },
     {
-      "name": "Hampteau",
-      "id": "BD_HoF52rBe9"
+      "id": "hampteau",
+      "name": "Hampteau"
     },
     {
-      "name": "Haneffe",
-      "id": "nS2LGdpl0rj2"
+      "id": "haneffe",
+      "name": "Haneffe"
     },
     {
-      "name": "Hannut",
-      "id": "XAWEMLunLlVB"
+      "id": "hannut",
+      "name": "Hannut"
     },
     {
-      "name": "Hansbeke",
-      "id": "eHjiTBxVMrwE"
+      "id": "hansbeke",
+      "name": "Hansbeke"
     },
     {
-      "name": "Harelbeke",
-      "id": "OecX7o_wpus-"
+      "id": "harelbeke",
+      "name": "Harelbeke"
     },
     {
-      "name": "Haren",
-      "id": "LuHGoy7qMRNq"
+      "id": "haren",
+      "name": "Haren"
     },
     {
-      "name": "Hasselt",
-      "id": "cuVCs2B79IFe"
+      "id": "hasselt",
+      "name": "Hasselt"
     },
     {
-      "name": "Haut-Ittre",
-      "id": "p6KXi92p3F6h"
+      "id": "haut-ittre",
+      "name": "Haut-Ittre"
     },
     {
-      "name": "Hautrage",
-      "id": "s1viewQr4cey"
+      "id": "hautrage",
+      "name": "Hautrage"
     },
     {
-      "name": "Havay",
-      "id": "lasTvn7LcK2E"
+      "id": "havay",
+      "name": "Havay"
     },
     {
-      "name": "Havre",
-      "id": "FUl5vBw5mbmK"
+      "id": "havre",
+      "name": "Havre"
     },
     {
-      "name": "Hechtel",
-      "id": "ikfmcj_vBzOV"
+      "id": "hechtel",
+      "name": "Hechtel"
     },
     {
-      "name": "Heers",
-      "id": "h2IAEusdx4bz"
+      "id": "heers",
+      "name": "Heers"
     },
     {
-      "name": "Heestert",
-      "id": "7bGYQ0vikZB3"
+      "id": "heestert",
+      "name": "Heestert"
     },
     {
-      "name": "Heffen",
-      "id": "7eZFyGYnmc50"
+      "id": "heffen",
+      "name": "Heffen"
     },
     {
-      "name": "Heindonk",
-      "id": "F8JsPuABVNlS"
+      "id": "heindonk",
+      "name": "Heindonk"
     },
     {
-      "name": "Heist",
-      "id": "KgPOnyLI4mEj"
+      "id": "heist",
+      "name": "Heist"
     },
     {
-      "name": "Heist-op-den-Berg",
-      "id": "T4btY1ODanJn"
+      "id": "heist-op-den-berg",
+      "name": "Heist-op-den-Berg"
     },
     {
-      "name": "Hekelgem",
-      "id": "EM6uT9amaVyI"
+      "id": "hekelgem",
+      "name": "Hekelgem"
     },
     {
-      "name": "Helchteren",
-      "id": "CLdbzJxJsEmp"
+      "id": "helchteren",
+      "name": "Helchteren"
     },
     {
-      "name": "Hemiksem",
-      "id": "HIye1kdr1bkv"
+      "id": "hemiksem",
+      "name": "Hemiksem"
     },
     {
-      "name": "Henri-Chapelle",
-      "id": "eYmRi3ar3VRU"
+      "id": "henri-chapelle",
+      "name": "Henri-Chapelle"
     },
     {
-      "name": "Hensies",
-      "id": "3GgbEioUlK6T"
+      "id": "hensies",
+      "name": "Hensies"
     },
     {
-      "name": "Heppen",
-      "id": "nq5XDItd8Wqu"
+      "id": "heppen",
+      "name": "Heppen"
     },
     {
-      "name": "Herdersem",
-      "id": "FvJLQsIkvGbf"
+      "id": "herdersem",
+      "name": "Herdersem"
     },
     {
-      "name": "Herent",
-      "id": "lks3rheIvksC"
+      "id": "herent",
+      "name": "Herent"
     },
     {
-      "name": "Herentals",
-      "id": "-Aj3r2o5AtCW"
+      "id": "herentals",
+      "name": "Herentals"
     },
     {
-      "name": "Herenthout",
-      "id": "QRsoRNKXcAQ2"
+      "id": "herenthout",
+      "name": "Herenthout"
     },
     {
-      "name": "Herinnes",
-      "id": "2VmTQfh0n0gI"
+      "id": "herinnes",
+      "name": "Herinnes"
     },
     {
-      "name": "Herk-de-Stad",
-      "id": "GUsOU5LzRRsi"
+      "id": "herk-de-stad",
+      "name": "Herk-de-Stad"
     },
     {
-      "name": "Herlaimont",
-      "id": "JnVqP9cJ1FI9"
+      "id": "herlaimont",
+      "name": "Herlaimont"
     },
     {
-      "name": "Hermalle-sous-Argenteau",
-      "id": "WWSu6TC39kts"
+      "id": "hermalle-sous-argenteau",
+      "name": "Hermalle-sous-Argenteau"
     },
     {
-      "name": "Hermee",
-      "id": "RHPW48Bsh5AF"
+      "id": "hermee",
+      "name": "Hermee"
     },
     {
-      "name": "Herne",
-      "id": "MW_mHjO6V8ko"
+      "id": "herne",
+      "name": "Herne"
     },
     {
-      "name": "Herseaux",
-      "id": "T-JN60W36klu"
+      "id": "herseaux",
+      "name": "Herseaux"
     },
     {
-      "name": "Herselt",
-      "id": "xnEFj25d_DTn"
+      "id": "herselt",
+      "name": "Herselt"
     },
     {
-      "name": "Herstal",
-      "id": "sX_0UKytmxoI"
+      "id": "herstal",
+      "name": "Herstal"
     },
     {
-      "name": "Herve",
-      "id": "hFeQHFJ9ZPGu"
+      "id": "herve",
+      "name": "Herve"
     },
     {
-      "name": "Herzele",
-      "id": "VPdO_gwyAYgz"
+      "id": "herzele",
+      "name": "Herzele"
     },
     {
-      "name": "Heule",
-      "id": "PaQVje1Q-YOW"
+      "id": "heule",
+      "name": "Heule"
     },
     {
-      "name": "Heure-le-Romain",
-      "id": "Il5nA_YW1xXP"
+      "id": "heure-le-romain",
+      "name": "Heure-le-Romain"
     },
     {
-      "name": "Heusden",
-      "id": "Lpw3n3n_7m6H"
+      "id": "heusden",
+      "name": "Heusden"
     },
     {
-      "name": "Heusy",
-      "id": "LMBxKDk-XqZV"
+      "id": "heusy",
+      "name": "Heusy"
     },
     {
-      "name": "Hever",
-      "id": "6T45pIv3jJp1"
+      "id": "hever",
+      "name": "Hever"
     },
     {
-      "name": "Heverlee",
-      "id": "SoZLr__6l-L6"
+      "id": "heverlee",
+      "name": "Heverlee"
     },
     {
-      "name": "Hingene",
-      "id": "SH4fUkh_eDh4"
+      "id": "hingene",
+      "name": "Hingene"
     },
     {
-      "name": "Hoboken",
-      "id": "fYHscPZwsIQT"
+      "id": "hoboken",
+      "name": "Hoboken"
     },
     {
-      "name": "Hodeige",
-      "id": "wZFBYBLFuyEM"
+      "id": "hodeige",
+      "name": "Hodeige"
     },
     {
-      "name": "Hoegaarden",
-      "id": "TOU9N_aSfNZ_"
+      "id": "hoegaarden",
+      "name": "Hoegaarden"
     },
     {
-      "name": "Hoeilaart",
-      "id": "kKUgfjnWpgA0"
+      "id": "hoeilaart",
+      "name": "Hoeilaart"
     },
     {
-      "name": "Hoeleden",
-      "id": "jf6Y8RsS2NSx"
+      "id": "hoeleden",
+      "name": "Hoeleden"
     },
     {
-      "name": "Hoeselt",
-      "id": "iFOf7Te-k5v2"
+      "id": "hoeselt",
+      "name": "Hoeselt"
     },
     {
-      "name": "Hoevenen",
-      "id": "ZHtaF-W27cK_"
+      "id": "hoevenen",
+      "name": "Hoevenen"
     },
     {
-      "name": "Hofstade",
-      "id": "yqu3LJDdCkX2"
+      "id": "hofstade",
+      "name": "Hofstade"
     },
     {
-      "name": "Hognoul",
-      "id": "o9AV7b8SBdgq"
+      "id": "hognoul",
+      "name": "Hognoul"
     },
     {
-      "name": "Hollain",
-      "id": "_-snTO9-9XC6"
+      "id": "hollain",
+      "name": "Hollain"
     },
     {
-      "name": "Holland",
-      "id": "V1Na5TINxhLn"
+      "id": "holland",
+      "name": "Holland"
     },
     {
-      "name": "Hollogne",
-      "id": "K5DlGMM_Rs8I"
+      "id": "hollogne",
+      "name": "Hollogne"
     },
     {
-      "name": "Holsbeek",
-      "id": "e6D405RJ2KiC"
+      "id": "holsbeek",
+      "name": "Holsbeek"
     },
     {
-      "name": "Hombeek",
-      "id": "60U2VPy_737I"
+      "id": "hombeek",
+      "name": "Hombeek"
     },
     {
-      "name": "Hooglede",
-      "id": "zY3WXiHsO8Gv"
+      "id": "hooglede",
+      "name": "Hooglede"
     },
     {
-      "name": "Hoogstraten",
-      "id": "jReQs0GJH-5T"
+      "id": "hoogstraten",
+      "name": "Hoogstraten"
     },
     {
-      "name": "Horion-Hozemont",
-      "id": "tdWV4j4hlR23"
+      "id": "horion-hozemont",
+      "name": "Horion-Hozemont"
     },
     {
-      "name": "Hornu",
-      "id": "hfyILkgzI9N1"
+      "id": "hornu",
+      "name": "Hornu"
     },
     {
-      "name": "Hotton",
-      "id": "yxSTtXHNRnJs"
+      "id": "hotton",
+      "name": "Hotton"
     },
     {
-      "name": "Houdeng-Goegnies",
-      "id": "m81vWuFqjcOD"
+      "id": "houdeng-goegnies",
+      "name": "Houdeng-Goegnies"
     },
     {
-      "name": "Houffalize",
-      "id": "T_vxP0YyOafi"
+      "id": "houffalize",
+      "name": "Houffalize"
     },
     {
-      "name": "Housse",
-      "id": "Uczf3qL1y-LI"
+      "id": "housse",
+      "name": "Housse"
     },
     {
-      "name": "Houtain-le-Val",
-      "id": "0gfzhrTAFi64"
+      "id": "houtain-le-val",
+      "name": "Houtain-le-Val"
     },
     {
-      "name": "Houtaing",
-      "id": "Nim3NS-CtYX9"
+      "id": "houtaing",
+      "name": "Houtaing"
     },
     {
-      "name": "Houthalen",
-      "id": "sSwUWOfPtn1a"
+      "id": "houthalen",
+      "name": "Houthalen"
     },
     {
-      "name": "Houthem",
-      "id": "32XJvZQuEVnQ"
+      "id": "houthem",
+      "name": "Houthem"
     },
     {
-      "name": "Houthulst",
-      "id": "gp8Q0WLj0h34"
+      "id": "houthulst",
+      "name": "Houthulst"
     },
     {
-      "name": "Houtvenne",
-      "id": "-M6mWgXdAHcF"
+      "id": "houtvenne",
+      "name": "Houtvenne"
     },
     {
-      "name": "Hove",
-      "id": "u1fPt3QNThTA"
+      "id": "hove",
+      "name": "Hove"
     },
     {
-      "name": "Huizingen",
-      "id": "H71rttlNBUON"
+      "id": "huizingen",
+      "name": "Huizingen"
     },
     {
-      "name": "Huldenberg",
-      "id": "i3585SL8tvNV"
+      "id": "huldenberg",
+      "name": "Huldenberg"
     },
     {
-      "name": "Hulshout",
-      "id": "N_3yqGqab5AM"
+      "id": "hulshout",
+      "name": "Hulshout"
     },
     {
-      "name": "Humbeek",
-      "id": "5n9MA9eV8dUM"
+      "id": "humbeek",
+      "name": "Humbeek"
     },
     {
-      "name": "Huy",
-      "id": "Ult4z238rygY"
+      "id": "huy",
+      "name": "Huy"
     },
     {
-      "name": "Hyon",
-      "id": "cv47rptAtaVR"
+      "id": "hyon",
+      "name": "Hyon"
     },
     {
-      "name": "Ichtegem",
-      "id": "OyGuGo4fUTrh"
+      "id": "ichtegem",
+      "name": "Ichtegem"
     },
     {
-      "name": "Iddergem",
-      "id": "SsAd2LjWmR2e"
+      "id": "iddergem",
+      "name": "Iddergem"
     },
     {
-      "name": "Idegem",
-      "id": "W3F7Ns5qzEoG"
+      "id": "idegem",
+      "name": "Idegem"
     },
     {
-      "name": "Impe",
-      "id": "scBueQG2u641"
+      "id": "impe",
+      "name": "Impe"
     },
     {
-      "name": "Incourt",
-      "id": "zLStJJuhD7UT"
+      "id": "incourt",
+      "name": "Incourt"
     },
     {
-      "name": "Ingelmunster",
-      "id": "ulrVSUjBKEAw"
+      "id": "ingelmunster",
+      "name": "Ingelmunster"
     },
     {
-      "name": "Ingooigem",
-      "id": "S74bEwKx8i9n"
+      "id": "ingooigem",
+      "name": "Ingooigem"
     },
     {
-      "name": "Isnes",
-      "id": "810bq2xwrd8O"
+      "id": "isnes",
+      "name": "Isnes"
     },
     {
-      "name": "Itegem",
-      "id": "wF70Q5wiubZO"
+      "id": "itegem",
+      "name": "Itegem"
     },
     {
-      "name": "Itterbeek",
-      "id": "z8jXO6quWxdS"
+      "id": "itterbeek",
+      "name": "Itterbeek"
     },
     {
-      "name": "Ittre",
-      "id": "RaMV0H6cb9eR"
+      "id": "ittre",
+      "name": "Ittre"
     },
     {
-      "name": "Ixelles-Elsene",
-      "id": "6arBicW7noFZ"
+      "id": "ixelles-elsene",
+      "name": "Ixelles-Elsene"
     },
     {
-      "name": "Izegem",
-      "id": "wxaGeR9Y45Up"
+      "id": "izegem",
+      "name": "Izegem"
     },
     {
-      "name": "Izel",
-      "id": "r60bMD9NZv3F"
+      "id": "izel",
+      "name": "Izel"
     },
     {
-      "name": "Jabbeke",
-      "id": "Wg77C3zzI7v4"
+      "id": "jabbeke",
+      "name": "Jabbeke"
     },
     {
-      "name": "Jambes",
-      "id": "yp-M6DuSoaJI"
+      "id": "jambes",
+      "name": "Jambes"
     },
     {
-      "name": "Jamioulx",
-      "id": "S8gukZZ0Do9H"
+      "id": "jamioulx",
+      "name": "Jamioulx"
     },
     {
-      "name": "Jauche",
-      "id": "FIhZZ942DKY5"
+      "id": "jauche",
+      "name": "Jauche"
     },
     {
-      "name": "Jemappes",
-      "id": "UDliCsF9zcdE"
+      "id": "jemappes",
+      "name": "Jemappes"
     },
     {
-      "name": "Jemelle",
-      "id": "Idh8ruwZh27v"
+      "id": "jemelle",
+      "name": "Jemelle"
     },
     {
-      "name": "Jemeppe-sur-Meuse",
-      "id": "WdQ_h-sA1edR"
+      "id": "jemeppe-sur-meuse",
+      "name": "Jemeppe-sur-Meuse"
     },
     {
-      "name": "Jemeppe-sur-Sambre",
-      "id": "rj3FdjDVTjJe"
+      "id": "jemeppe-sur-sambre",
+      "name": "Jemeppe-sur-Sambre"
     },
     {
-      "name": "Jette",
-      "id": "ZMfDuPsfnKmK"
+      "id": "jette",
+      "name": "Jette"
     },
     {
-      "name": "Jodoigne",
-      "id": "uRW4h5YxU0LT"
+      "id": "jodoigne",
+      "name": "Jodoigne"
     },
     {
-      "name": "Jumet",
-      "id": "XnTpwyQbIBnL"
+      "id": "jumet",
+      "name": "Jumet"
     },
     {
-      "name": "Jupille-sur-Meuse",
-      "id": "EV8P44MWsbuX"
+      "id": "jupille-sur-meuse",
+      "name": "Jupille-sur-Meuse"
     },
     {
-      "name": "Juprelle",
-      "id": "VFofuwaqGX06"
+      "id": "juprelle",
+      "name": "Juprelle"
     },
     {
-      "name": "Jurbise",
-      "id": "dxK3WbhOsbPc"
+      "id": "jurbise",
+      "name": "Jurbise"
     },
     {
-      "name": "Kachtem",
-      "id": "N6a42VQJE-rq"
+      "id": "kachtem",
+      "name": "Kachtem"
     },
     {
-      "name": "Kain",
-      "id": "oag2_B5YtwRm"
+      "id": "kain",
+      "name": "Kain"
     },
     {
-      "name": "Kalken",
-      "id": "JRecIgdVqusw"
+      "id": "kalken",
+      "name": "Kalken"
     },
     {
-      "name": "Kalmthout",
-      "id": "UhaAExgV2yJv"
+      "id": "kalmthout",
+      "name": "Kalmthout"
     },
     {
-      "name": "Kampenhout",
-      "id": "qpFAC5tLjxbR"
+      "id": "kampenhout",
+      "name": "Kampenhout"
     },
     {
-      "name": "Kanegem",
-      "id": "qwN8pXYNuxLF"
+      "id": "kanegem",
+      "name": "Kanegem"
     },
     {
-      "name": "Kapelle-op-den-Bos",
-      "id": "HcrEbB4JYKss"
+      "id": "kapelle-op-den-bos",
+      "name": "Kapelle-op-den-Bos"
     },
     {
-      "name": "Kapellen",
-      "id": "VfoYqn9rH0RH"
+      "id": "kapellen",
+      "name": "Kapellen"
     },
     {
-      "name": "Kaprijke",
-      "id": "9S6qDgytYaNl"
+      "id": "kaprijke",
+      "name": "Kaprijke"
     },
     {
-      "name": "Kasterlee",
-      "id": "qA_XYwWPhBjc"
+      "id": "kasterlee",
+      "name": "Kasterlee"
     },
     {
-      "name": "Kaulille",
-      "id": "h_kwuJwhFf_F"
+      "id": "kaulille",
+      "name": "Kaulille"
     },
     {
-      "name": "Keerbergen",
-      "id": "VdEN4NnBs7A_"
+      "id": "keerbergen",
+      "name": "Keerbergen"
     },
     {
-      "name": "Kemzeke",
-      "id": "hnDbG6izrmx4"
+      "id": "kemzeke",
+      "name": "Kemzeke"
     },
     {
-      "name": "Kerkhove",
-      "id": "m3Q7_Rt_CyAp"
+      "id": "kerkhove",
+      "name": "Kerkhove"
     },
     {
-      "name": "Kerksken",
-      "id": "q10S5fyhyO64"
+      "id": "kerksken",
+      "name": "Kerksken"
     },
     {
-      "name": "Kermt",
-      "id": "xLzNHWkHNupv"
+      "id": "kermt",
+      "name": "Kermt"
     },
     {
-      "name": "Kersbeek-Miskom",
-      "id": "6Xa-aT7xnKju"
+      "id": "kersbeek-miskom",
+      "name": "Kersbeek-Miskom"
     },
     {
-      "name": "Kessel",
-      "id": "bWKbqzOXPdSW"
+      "id": "kessel",
+      "name": "Kessel"
     },
     {
-      "name": "Kessel-Lo",
-      "id": "q5dwlwFFqLk2"
+      "id": "kessel-lo",
+      "name": "Kessel-Lo"
     },
     {
-      "name": "Kettenis",
-      "id": "FVLT_CFvUCTG"
+      "id": "kettenis",
+      "name": "Kettenis"
     },
     {
-      "name": "Kinrooi",
-      "id": "Iy0ySAp2YqEz"
+      "id": "kinrooi",
+      "name": "Kinrooi"
     },
     {
-      "name": "Klein-Gelmen",
-      "id": "8mFjS5tmz38R"
+      "id": "klein-gelmen",
+      "name": "Klein-Gelmen"
     },
     {
-      "name": "Klemskerke",
-      "id": "B2-5XGB8C6bI"
+      "id": "klemskerke",
+      "name": "Klemskerke"
     },
     {
-      "name": "Knesselare",
-      "id": "j0AtRgYxWyTK"
+      "id": "knesselare",
+      "name": "Knesselare"
     },
     {
-      "name": "Knokke",
-      "id": "4YaCJ5Zz7Czq"
+      "id": "knokke",
+      "name": "Knokke"
     },
     {
-      "name": "Knokke-Heist",
-      "id": "7aYjFJcniggz"
+      "id": "knokke-heist",
+      "name": "Knokke-Heist"
     },
     {
-      "name": "Koekelare",
-      "id": "rrFcj_JPTdM-"
+      "id": "koekelare",
+      "name": "Koekelare"
     },
     {
-      "name": "Koersel",
-      "id": "oX-7EvPZ6PWm"
+      "id": "koersel",
+      "name": "Koersel"
     },
     {
-      "name": "Koksijde",
-      "id": "BKbYzw5Q38Fc"
+      "id": "koksijde",
+      "name": "Koksijde"
     },
     {
-      "name": "Koningshooikt",
-      "id": "-huC0alFpC7W"
+      "id": "koningshooikt",
+      "name": "Koningshooikt"
     },
     {
-      "name": "Kontich",
-      "id": "FvE8zUpn_MCr"
+      "id": "kontich",
+      "name": "Kontich"
     },
     {
-      "name": "Korbeek-Dijle",
-      "id": "4JYwE_8eEUzz"
+      "id": "korbeek-dijle",
+      "name": "Korbeek-Dijle"
     },
     {
-      "name": "Korbeek-Lo",
-      "id": "csZ4IR-jP-9P"
+      "id": "korbeek-lo",
+      "name": "Korbeek-Lo"
     },
     {
-      "name": "Kortemark",
-      "id": "RxtzGbqx8Vt8"
+      "id": "kortemark",
+      "name": "Kortemark"
     },
     {
-      "name": "Kortenaken",
-      "id": "q0DFA9GW3VaI"
+      "id": "kortenaken",
+      "name": "Kortenaken"
     },
     {
-      "name": "Kortenberg",
-      "id": "kJ8S4XQ2tXsK"
+      "id": "kortenberg",
+      "name": "Kortenberg"
     },
     {
-      "name": "Kortessem",
-      "id": "8CBYmpoHhCXL"
+      "id": "kortessem",
+      "name": "Kortessem"
     },
     {
-      "name": "Kortrijk",
-      "id": "Rq9hIDq4hwYx"
+      "id": "kortrijk",
+      "name": "Kortrijk"
     },
     {
-      "name": "Kortrijk-Dutsel",
-      "id": "BYceaN_dNpd2"
+      "id": "kortrijk-dutsel",
+      "name": "Kortrijk-Dutsel"
     },
     {
-      "name": "Kozen",
-      "id": "DFdPZ_3LHwnH"
+      "id": "kozen",
+      "name": "Kozen"
     },
     {
-      "name": "Kraainem",
-      "id": "DPzt7DHsuIFE"
+      "id": "kraainem",
+      "name": "Kraainem"
     },
     {
-      "name": "Kruibeke",
-      "id": "1qYD_7Hp_yW0"
+      "id": "kruibeke",
+      "name": "Kruibeke"
     },
     {
-      "name": "Kruishoutem",
-      "id": "R1p6LROML4TE"
+      "id": "kruishoutem",
+      "name": "Kruishoutem"
     },
     {
-      "name": "Kuringen",
-      "id": "72aqDDo68_oG"
+      "id": "kuringen",
+      "name": "Kuringen"
     },
     {
-      "name": "Kuurne",
-      "id": "yLf9BRDpBhIO"
+      "id": "kuurne",
+      "name": "Kuurne"
     },
     {
-      "name": "Kwaadmechelen",
-      "id": "-42waKFM4fdS"
+      "id": "kwaadmechelen",
+      "name": "Kwaadmechelen"
     },
     {
-      "name": "La Calamine",
-      "id": "VdBm6gP8Wk-i"
+      "id": "la-calamine",
+      "name": "La Calamine"
     },
     {
-      "name": "La Hestre",
-      "id": "zrSKvm56vPwW"
+      "id": "la-hestre",
+      "name": "La Hestre"
     },
     {
-      "name": "La Hulpe",
-      "id": "bObdmPMvDo4x"
+      "id": "la-hulpe",
+      "name": "La Hulpe"
     },
     {
-      "name": "Laarne",
-      "id": "5kfTpiLcTteI"
+      "id": "laarne",
+      "name": "Laarne"
     },
     {
-      "name": "Labuissiere",
-      "id": "biaP3Ngsn6_p"
+      "id": "labuissiere",
+      "name": "Labuissiere"
     },
     {
-      "name": "Laken",
-      "id": "ngS-F61vbB0X"
+      "id": "laken",
+      "name": "Laken"
     },
     {
-      "name": "Lambermont",
-      "id": "pr9hApX_RhdV"
+      "id": "lambermont",
+      "name": "Lambermont"
     },
     {
-      "name": "Lanaken",
-      "id": "bkEx3zieMyRc"
+      "id": "lanaken",
+      "name": "Lanaken"
     },
     {
-      "name": "Landegem",
-      "id": "5bmUmYycYf1_"
+      "id": "landegem",
+      "name": "Landegem"
     },
     {
-      "name": "Landelies",
-      "id": "anA2khXF6YLY"
+      "id": "landelies",
+      "name": "Landelies"
     },
     {
-      "name": "Landen",
-      "id": "zJLUN7usao0O"
+      "id": "landen",
+      "name": "Landen"
     },
     {
-      "name": "Langdorp",
-      "id": "M2YPEheFhP3r"
+      "id": "langdorp",
+      "name": "Langdorp"
     },
     {
-      "name": "Langemark",
-      "id": "19-x0Slv1Pah"
+      "id": "langemark",
+      "name": "Langemark"
     },
     {
-      "name": "Lanklaar",
-      "id": "rp82hqgtVksV"
+      "id": "lanklaar",
+      "name": "Lanklaar"
     },
     {
-      "name": "Latinne",
-      "id": "bu1X_iCecsLc"
+      "id": "latinne",
+      "name": "Latinne"
     },
     {
-      "name": "Lauwe",
-      "id": "7AgPAme6FcWF"
+      "id": "lauwe",
+      "name": "Lauwe"
     },
     {
-      "name": "Le Tilleul",
-      "id": "Kc4HW43Luct2"
+      "id": "le-tilleul",
+      "name": "Le Tilleul"
     },
     {
-      "name": "Lebbeke",
-      "id": "Afx9C4g2x_gC"
+      "id": "lebbeke",
+      "name": "Lebbeke"
     },
     {
-      "name": "Lede",
-      "id": "AjTT_Jd5ZXZl"
+      "id": "lede",
+      "name": "Lede"
     },
     {
-      "name": "Ledeberg",
-      "id": "obptDJetAvLy"
+      "id": "ledeberg",
+      "name": "Ledeberg"
     },
     {
-      "name": "Ledegem",
-      "id": "wpfOOk7Yk8zM"
+      "id": "ledegem",
+      "name": "Ledegem"
     },
     {
-      "name": "Leefdaal",
-      "id": "9dGGmrr495ag"
+      "id": "leefdaal",
+      "name": "Leefdaal"
     },
     {
-      "name": "Leerbeek",
-      "id": "IfliFPcuYT1b"
+      "id": "leerbeek",
+      "name": "Leerbeek"
     },
     {
-      "name": "Leernes",
-      "id": "HgPVh4TazO-h"
+      "id": "leernes",
+      "name": "Leernes"
     },
     {
-      "name": "Leest",
-      "id": "btRoUTnHayaP"
+      "id": "leest",
+      "name": "Leest"
     },
     {
-      "name": "Leffinge",
-      "id": "67DDG_seOm-k"
+      "id": "leffinge",
+      "name": "Leffinge"
     },
     {
-      "name": "Leisele",
-      "id": "4t18sY8StnkI"
+      "id": "leisele",
+      "name": "Leisele"
     },
     {
-      "name": "Lembeek",
-      "id": "6aMN7q-_uOaE"
+      "id": "lembeek",
+      "name": "Lembeek"
     },
     {
-      "name": "Lendelede",
-      "id": "dmpC1rEMoLkK"
+      "id": "lendelede",
+      "name": "Lendelede"
     },
     {
-      "name": "Lennik",
-      "id": "3CPVYqSn3eZY"
+      "id": "lennik",
+      "name": "Lennik"
     },
     {
-      "name": "Leopoldsburg",
-      "id": "O-94NQCAweQA"
+      "id": "leopoldsburg",
+      "name": "Leopoldsburg"
     },
     {
-      "name": "Lessines",
-      "id": "2qV5TvvAhqad"
+      "id": "lessines",
+      "name": "Lessines"
     },
     {
-      "name": "Letterhoutem",
-      "id": "HwMeSjbppmL4"
+      "id": "letterhoutem",
+      "name": "Letterhoutem"
     },
     {
-      "name": "Leuven",
-      "id": "bPmKIZbhSJGD"
+      "id": "leuven",
+      "name": "Leuven"
     },
     {
-      "name": "Leuze",
-      "id": "YKnJjP9wYlMX"
+      "id": "leuze",
+      "name": "Leuze"
     },
     {
-      "name": "Leval-Trahegnies",
-      "id": "o_nETCvlLOZc"
+      "id": "leval-trahegnies",
+      "name": "Leval-Trahegnies"
     },
     {
-      "name": "Libramont",
-      "id": "5CSOxy7ljK5x"
+      "id": "libramont",
+      "name": "Libramont"
     },
     {
-      "name": "Lichtaart",
-      "id": "HNfvovDJM_tA"
+      "id": "lichtaart",
+      "name": "Lichtaart"
     },
     {
-      "name": "Lichtervelde",
-      "id": "k2Vn2vrNc6v-"
+      "id": "lichtervelde",
+      "name": "Lichtervelde"
     },
     {
-      "name": "Liedekerke",
-      "id": "jUOB2WuTn3BP"
+      "id": "liedekerke",
+      "name": "Liedekerke"
     },
     {
-      "name": "Lier",
-      "id": "Qu0WqFwqK52i"
+      "id": "lier",
+      "name": "Lier"
     },
     {
-      "name": "Ligny",
-      "id": "o77XGw_zAspf"
+      "id": "ligny",
+      "name": "Ligny"
     },
     {
-      "name": "Lille",
-      "id": "rhXU2lJX_Np7"
+      "id": "lille",
+      "name": "Lille"
     },
     {
-      "name": "Lillois-Witterzee",
-      "id": "1tADJYu7Eudx"
+      "id": "lillois-witterzee",
+      "name": "Lillois-Witterzee"
     },
     {
-      "name": "Limal",
-      "id": "5IsmAfWSmtnC"
+      "id": "limal",
+      "name": "Limal"
     },
     {
-      "name": "Limbourg",
-      "id": "QdjlXXWJadeh"
+      "id": "limbourg",
+      "name": "Limbourg"
     },
     {
-      "name": "Limelette",
-      "id": "5SmlX63DNC_e"
+      "id": "limelette",
+      "name": "Limelette"
     },
     {
-      "name": "Lincent",
-      "id": "45HCCs0veH4a"
+      "id": "lincent",
+      "name": "Lincent"
     },
     {
-      "name": "Linden",
-      "id": "wTaVblpajI8N"
+      "id": "linden",
+      "name": "Linden"
     },
     {
-      "name": "Linkebeek",
-      "id": "CWg02bu_7Lll"
+      "id": "linkebeek",
+      "name": "Linkebeek"
     },
     {
-      "name": "Lint",
-      "id": "IP5kAmkZ1EeN"
+      "id": "lint",
+      "name": "Lint"
     },
     {
-      "name": "Lippelo",
-      "id": "TZle4ZJwUbHZ"
+      "id": "lippelo",
+      "name": "Lippelo"
     },
     {
-      "name": "Lisogne",
-      "id": "53_V-CR8qdtT"
+      "id": "lisogne",
+      "name": "Lisogne"
     },
     {
-      "name": "Lissewege",
-      "id": "RVoojx_2XjmE"
+      "id": "lissewege",
+      "name": "Lissewege"
     },
     {
-      "name": "Lives-sur-Meuse",
-      "id": "wKjBVPruUftv"
+      "id": "lives-sur-meuse",
+      "name": "Lives-sur-Meuse"
     },
     {
-      "name": "Lixhe",
-      "id": "iKkoihOw4ULo"
+      "id": "lixhe",
+      "name": "Lixhe"
     },
     {
-      "name": "Lobbes",
-      "id": "N1C7_8ODAmf5"
+      "id": "lobbes",
+      "name": "Lobbes"
     },
     {
-      "name": "Lochristi",
-      "id": "lsVgJi6MxHxc"
+      "id": "lochristi",
+      "name": "Lochristi"
     },
     {
-      "name": "Lodelinsart",
-      "id": "fcY50tHO7DMV"
+      "id": "lodelinsart",
+      "name": "Lodelinsart"
     },
     {
-      "name": "Loenhout",
-      "id": "FGqk8X2zS4o4"
+      "id": "loenhout",
+      "name": "Loenhout"
     },
     {
-      "name": "Loker",
-      "id": "kV63ErU7N794"
+      "id": "loker",
+      "name": "Loker"
     },
     {
-      "name": "Lokeren",
-      "id": "kBXtCr32lfbR"
+      "id": "lokeren",
+      "name": "Lokeren"
     },
     {
-      "name": "Lommel",
-      "id": "4y_jqHiQjfmK"
+      "id": "lommel",
+      "name": "Lommel"
     },
     {
-      "name": "Loncin",
-      "id": "SdjPYcRTewvw"
+      "id": "loncin",
+      "name": "Loncin"
     },
     {
-      "name": "Londerzeel",
-      "id": "x4XqynxGbc-K"
+      "id": "londerzeel",
+      "name": "Londerzeel"
     },
     {
-      "name": "Lontzen",
-      "id": "7qI-B5k-sXl-"
+      "id": "lontzen",
+      "name": "Lontzen"
     },
     {
-      "name": "Loppem",
-      "id": "9Rl2u1jcBEID"
+      "id": "loppem",
+      "name": "Loppem"
     },
     {
-      "name": "Lot",
-      "id": "bYPxhV1oXTwa"
+      "id": "lot",
+      "name": "Lot"
     },
     {
-      "name": "Lotenhulle",
-      "id": "SO5aALfpA3uT"
+      "id": "lotenhulle",
+      "name": "Lotenhulle"
     },
     {
-      "name": "Loupoigne",
-      "id": "E4pmLf9DBQbV"
+      "id": "loupoigne",
+      "name": "Loupoigne"
     },
     {
-      "name": "Louvain-la-Neuve",
-      "id": "EC4hAPSM733L"
+      "id": "louvain-la-neuve",
+      "name": "Louvain-la-Neuve"
     },
     {
-      "name": "Louveigne",
-      "id": "TyNcAQIWcMOo"
+      "id": "louveigne",
+      "name": "Louveigne"
     },
     {
-      "name": "Lovendegem",
-      "id": "rmNALGYECmHR"
+      "id": "lovendegem",
+      "name": "Lovendegem"
     },
     {
-      "name": "Loverval",
-      "id": "4aqumXLRt7uu"
+      "id": "loverval",
+      "name": "Loverval"
     },
     {
-      "name": "Lubbeek",
-      "id": "-la9RE_qsCHE"
+      "id": "lubbeek",
+      "name": "Lubbeek"
     },
     {
-      "name": "Lummen",
-      "id": "53bntzFY3uio"
+      "id": "lummen",
+      "name": "Lummen"
     },
     {
-      "name": "Luttre",
-      "id": "LAO7vqPMcGEF"
+      "id": "luttre",
+      "name": "Luttre"
     },
     {
-      "name": "Maaseik",
-      "id": "GvmeJ7Sm2lIH"
+      "id": "maaseik",
+      "name": "Maaseik"
     },
     {
-      "name": "Maasmechelen",
-      "id": "fXp8LMvh9Jfd"
+      "id": "maasmechelen",
+      "name": "Maasmechelen"
     },
     {
-      "name": "Machelen",
-      "id": "tSspYSJQq90i"
+      "id": "machelen",
+      "name": "Machelen"
     },
     {
-      "name": "Magnee",
-      "id": "mcU41mX-kNGe"
+      "id": "magnee",
+      "name": "Magnee"
     },
     {
-      "name": "Maisieres",
-      "id": "12ZmnmNW6Dvs"
+      "id": "maisieres",
+      "name": "Maisieres"
     },
     {
-      "name": "Maldegem",
-      "id": "G75OCVE5JAYF"
+      "id": "maldegem",
+      "name": "Maldegem"
     },
     {
-      "name": "Malderen",
-      "id": "pSWGXTVowCLR"
+      "id": "malderen",
+      "name": "Malderen"
     },
     {
-      "name": "Malmedy",
-      "id": "7eaJrShwdxi5"
+      "id": "malmedy",
+      "name": "Malmedy"
     },
     {
-      "name": "Malonne",
-      "id": "lZUGvgxIJO5j"
+      "id": "malonne",
+      "name": "Malonne"
     },
     {
-      "name": "Manage",
-      "id": "Ay98KWxCi603"
+      "id": "manage",
+      "name": "Manage"
     },
     {
-      "name": "Manhay",
-      "id": "TSgJCuEIFYBy"
+      "id": "manhay",
+      "name": "Manhay"
     },
     {
-      "name": "Marais",
-      "id": "WXSWTnEdiO93"
+      "id": "marais",
+      "name": "Marais"
     },
     {
-      "name": "Marche-en-Famenne",
-      "id": "DDy_cDgDjBtV"
+      "id": "marche-en-famenne",
+      "name": "Marche-en-Famenne"
     },
     {
-      "name": "Marche-lez-Ecaussinnes",
-      "id": "ddcsScBn16f3"
+      "id": "marche-lez-ecaussinnes",
+      "name": "Marche-lez-Ecaussinnes"
     },
     {
-      "name": "Marchienne-au-Pont",
-      "id": "yds2uzXWbSKf"
+      "id": "marchienne-au-pont",
+      "name": "Marchienne-au-Pont"
     },
     {
-      "name": "Marchin",
-      "id": "CfnERVh7MMTm"
+      "id": "marchin",
+      "name": "Marchin"
     },
     {
-      "name": "Marcinelle",
-      "id": "PcN-oH2tCfts"
+      "id": "marcinelle",
+      "name": "Marcinelle"
     },
     {
-      "name": "Mariakerke",
-      "id": "R3KV4kWD_euP"
+      "id": "mariakerke",
+      "name": "Mariakerke"
     },
     {
-      "name": "Mariekerke",
-      "id": "Lk-jToXW_z20"
+      "id": "mariekerke",
+      "name": "Mariekerke"
     },
     {
-      "name": "Mariembourg",
-      "id": "sCP6SCNOUtwS"
+      "id": "mariembourg",
+      "name": "Mariembourg"
     },
     {
-      "name": "Marke",
-      "id": "s43vwWvQeSjU"
+      "id": "marke",
+      "name": "Marke"
     },
     {
-      "name": "Markegem",
-      "id": "Kj6dXlQ7KQ-p"
+      "id": "markegem",
+      "name": "Markegem"
     },
     {
-      "name": "Massemen",
-      "id": "SNHtdri98543"
+      "id": "massemen",
+      "name": "Massemen"
     },
     {
-      "name": "Maurage",
-      "id": "e-bzErx1LX79"
+      "id": "maurage",
+      "name": "Maurage"
     },
     {
-      "name": "Mechelen",
-      "id": "jXbRK2jcVyYI"
+      "id": "mechelen",
+      "name": "Mechelen"
     },
     {
-      "name": "Meensel-Kiezegem",
-      "id": "0CTt0UBMqZkS"
+      "id": "meensel-kiezegem",
+      "name": "Meensel-Kiezegem"
     },
     {
-      "name": "Meerbeke",
-      "id": "2dwVNYWAhSl0"
+      "id": "meerbeke",
+      "name": "Meerbeke"
     },
     {
-      "name": "Meerhout",
-      "id": "bF4Mm8ZLRRXP"
+      "id": "meerhout",
+      "name": "Meerhout"
     },
     {
-      "name": "Meerlaar",
-      "id": "vSSC0xD5iQ7T"
+      "id": "meerlaar",
+      "name": "Meerlaar"
     },
     {
-      "name": "Meerle",
-      "id": "dsEoTZah6hzA"
+      "id": "meerle",
+      "name": "Meerle"
     },
     {
-      "name": "Meersel",
-      "id": "63pe4b3ct9vy"
+      "id": "meersel",
+      "name": "Meersel"
     },
     {
-      "name": "Meeuwen",
-      "id": "-7aFGWAdehFN"
+      "id": "meeuwen",
+      "name": "Meeuwen"
     },
     {
-      "name": "Meigem",
-      "id": "A02h1autMFJC"
+      "id": "meigem",
+      "name": "Meigem"
     },
     {
-      "name": "Meise",
-      "id": "ofVGfAFxaeYF"
+      "id": "meise",
+      "name": "Meise"
     },
     {
-      "name": "Meldert",
-      "id": "HneHZN4lM_JT"
+      "id": "meldert",
+      "name": "Meldert"
     },
     {
-      "name": "Melen",
-      "id": "uO47pHZ2DUTp"
+      "id": "melen",
+      "name": "Melen"
     },
     {
-      "name": "Melkwezer",
-      "id": "cvQad9L0759j"
+      "id": "melkwezer",
+      "name": "Melkwezer"
     },
     {
-      "name": "Melle",
-      "id": "2xIC13IQdSXr"
+      "id": "melle",
+      "name": "Melle"
     },
     {
-      "name": "Melsbroek",
-      "id": "1O-hrZyBzPHQ"
+      "id": "melsbroek",
+      "name": "Melsbroek"
     },
     {
-      "name": "Melsele",
-      "id": "FMzl0ey7vczY"
+      "id": "melsele",
+      "name": "Melsele"
     },
     {
-      "name": "Membach",
-      "id": "9U9jdMqu7lHx"
+      "id": "membach",
+      "name": "Membach"
     },
     {
-      "name": "Menen",
-      "id": "UEQ6dhJqAPzP"
+      "id": "menen",
+      "name": "Menen"
     },
     {
-      "name": "Merchtem",
-      "id": "80diOI-XILdd"
+      "id": "merchtem",
+      "name": "Merchtem"
     },
     {
-      "name": "Mere",
-      "id": "--h4uPtYeL_x"
+      "id": "mere",
+      "name": "Mere"
     },
     {
-      "name": "Merelbeke",
-      "id": "J9WP3bi7EE8b"
+      "id": "merelbeke",
+      "name": "Merelbeke"
     },
     {
-      "name": "Merendree",
-      "id": "aJClMiUWac0C"
+      "id": "merendree",
+      "name": "Merendree"
     },
     {
-      "name": "Merksem",
-      "id": "xepwUPB_fTjL"
+      "id": "merksem",
+      "name": "Merksem"
     },
     {
-      "name": "Merksplas",
-      "id": "qlhZojavbl-8"
+      "id": "merksplas",
+      "name": "Merksplas"
     },
     {
-      "name": "Mespelare",
-      "id": "uFd4jpt_Nl_M"
+      "id": "mespelare",
+      "name": "Mespelare"
     },
     {
-      "name": "Messancy",
-      "id": "W5kyuLJMWIIG"
+      "id": "messancy",
+      "name": "Messancy"
     },
     {
-      "name": "Mettet",
-      "id": "lwSTzNlkUz3z"
+      "id": "mettet",
+      "name": "Mettet"
     },
     {
-      "name": "Meulebeke",
-      "id": "wmIqp_oVRmM-"
+      "id": "meulebeke",
+      "name": "Meulebeke"
     },
     {
-      "name": "Middelburg",
-      "id": "rBXaQbNxsEi8"
+      "id": "middelburg",
+      "name": "Middelburg"
     },
     {
-      "name": "Middelkerke",
-      "id": "aA05c-_tuSIJ"
+      "id": "middelkerke",
+      "name": "Middelkerke"
     },
     {
-      "name": "Minderhout",
-      "id": "QIhR_RtdILkB"
+      "id": "minderhout",
+      "name": "Minderhout"
     },
     {
-      "name": "Modave",
-      "id": "m7erUuSPeWF9"
+      "id": "modave",
+      "name": "Modave"
     },
     {
-      "name": "Moen",
-      "id": "Z7_WiXoPgTTo"
+      "id": "moen",
+      "name": "Moen"
     },
     {
-      "name": "Moerbeke",
-      "id": "_9coe5mriy_a"
+      "id": "moerbeke",
+      "name": "Moerbeke"
     },
     {
-      "name": "Moerzeke",
-      "id": "DwJ01fUR79Fs"
+      "id": "moerzeke",
+      "name": "Moerzeke"
     },
     {
-      "name": "Moha",
-      "id": "PDStlBpEqv8O"
+      "id": "moha",
+      "name": "Moha"
     },
     {
-      "name": "Mol",
-      "id": "yy93OYGqS9zy"
+      "id": "mol",
+      "name": "Mol"
     },
     {
-      "name": "Molenbeek",
-      "id": "9dKy2FKeZXsl"
+      "id": "molenbeek",
+      "name": "Molenbeek"
     },
     {
-      "name": "Molenbeek-Saint-Jean",
-      "id": "a41TsPp6f2qs"
+      "id": "molenbeek-saint-jean",
+      "name": "Molenbeek-Saint-Jean"
     },
     {
-      "name": "Molenstede",
-      "id": "aqecMaHhWIaX"
+      "id": "molenstede",
+      "name": "Molenstede"
     },
     {
-      "name": "Momalle",
-      "id": "BYuod3AnNpBO"
+      "id": "momalle",
+      "name": "Momalle"
     },
     {
-      "name": "Monceau-sur-Sambre",
-      "id": "KASShBED8ATP"
+      "id": "monceau-sur-sambre",
+      "name": "Monceau-sur-Sambre"
     },
     {
-      "name": "Mons",
-      "id": "Nvb7ymAc3Ihf"
+      "id": "mons",
+      "name": "Mons"
     },
     {
-      "name": "Mont-Saint-Guibert",
-      "id": "amMwCOsmt_cB"
+      "id": "mont-saint-guibert",
+      "name": "Mont-Saint-Guibert"
     },
     {
-      "name": "Mont-Sainte-Aldegonde",
-      "id": "xtbu4--HaZHa"
+      "id": "mont-sainte-aldegonde",
+      "name": "Mont-Sainte-Aldegonde"
     },
     {
-      "name": "Mont-sur-Marchienne",
-      "id": "gN-mzJRnPYMB"
+      "id": "mont-sur-marchienne",
+      "name": "Mont-sur-Marchienne"
     },
     {
-      "name": "Montegnee",
-      "id": "LakjN3AXi9YB"
+      "id": "montegnee",
+      "name": "Montegnee"
     },
     {
-      "name": "Montignies-lez-Lens",
-      "id": "Kkt43dPnN3r4"
+      "id": "montignies-lez-lens",
+      "name": "Montignies-lez-Lens"
     },
     {
-      "name": "Montignies-sur-Sambre",
-      "id": "c8k2uRmYLqBT"
+      "id": "montignies-sur-sambre",
+      "name": "Montignies-sur-Sambre"
     },
     {
-      "name": "Montzen",
-      "id": "40kXX7g8JoVs"
+      "id": "montzen",
+      "name": "Montzen"
     },
     {
-      "name": "Moorsel",
-      "id": "eotQeZGT0OS2"
+      "id": "moorsel",
+      "name": "Moorsel"
     },
     {
-      "name": "Moorslede",
-      "id": "3iA79r5gBmc1"
+      "id": "moorslede",
+      "name": "Moorslede"
     },
     {
-      "name": "Morialme",
-      "id": "yoykouqxXMBx"
+      "id": "morialme",
+      "name": "Morialme"
     },
     {
-      "name": "Morkhoven",
-      "id": "6evRHgobppwt"
+      "id": "morkhoven",
+      "name": "Morkhoven"
     },
     {
-      "name": "Morlanwelz-Mariemont",
-      "id": "JV1eiCLt0RnJ"
+      "id": "morlanwelz-mariemont",
+      "name": "Morlanwelz-Mariemont"
     },
     {
-      "name": "Mortsel",
-      "id": "qrc993Skef1p"
+      "id": "mortsel",
+      "name": "Mortsel"
     },
     {
-      "name": "Mouscron",
-      "id": "1GlX3BZoufNg"
+      "id": "mouscron",
+      "name": "Mouscron"
     },
     {
-      "name": "Muizen",
-      "id": "vsIXKcfBjLRr"
+      "id": "muizen",
+      "name": "Muizen"
     },
     {
-      "name": "Munsterbilzen",
-      "id": "B1mrQYfHw7xN"
+      "id": "munsterbilzen",
+      "name": "Munsterbilzen"
     },
     {
-      "name": "Naast",
-      "id": "hWTtWN-LiJvN"
+      "id": "naast",
+      "name": "Naast"
     },
     {
-      "name": "Nalinnes",
-      "id": "UC2MnBPFqesJ"
+      "id": "nalinnes",
+      "name": "Nalinnes"
     },
     {
-      "name": "Nameche",
-      "id": "uT24mJymUYr4"
+      "id": "nameche",
+      "name": "Nameche"
     },
     {
-      "name": "Namur",
-      "id": "Nt10u1PbaH0A"
+      "id": "namur",
+      "name": "Namur"
     },
     {
-      "name": "Nandrin",
-      "id": "gdbUNAkqyEw2"
+      "id": "nandrin",
+      "name": "Nandrin"
     },
     {
-      "name": "Natoye",
-      "id": "INAVm7bVQyk5"
+      "id": "natoye",
+      "name": "Natoye"
     },
     {
-      "name": "Nazareth",
-      "id": "t0Wh-i2cpTE-"
+      "id": "nazareth",
+      "name": "Nazareth"
     },
     {
-      "name": "Neder-Over-Heembeek",
-      "id": "3gFHAsRUnBbx"
+      "id": "neder-over-heembeek",
+      "name": "Neder-Over-Heembeek"
     },
     {
-      "name": "Nederbrakel",
-      "id": "zYqbNrmYyaDX"
+      "id": "nederbrakel",
+      "name": "Nederbrakel"
     },
     {
-      "name": "Nederhasselt",
-      "id": "ho8J0MVGQ41_"
+      "id": "nederhasselt",
+      "name": "Nederhasselt"
     },
     {
-      "name": "Neerharen",
-      "id": "D8Y1zE5YOdam"
+      "id": "neerharen",
+      "name": "Neerharen"
     },
     {
-      "name": "Neerijse",
-      "id": "LBQ_eDvPQI9M"
+      "id": "neerijse",
+      "name": "Neerijse"
     },
     {
-      "name": "Neerlinter",
-      "id": "ZX7A_csYf9OT"
+      "id": "neerlinter",
+      "name": "Neerlinter"
     },
     {
-      "name": "Neerpelt",
-      "id": "dXt-qzTjemcy"
+      "id": "neerpelt",
+      "name": "Neerpelt"
     },
     {
-      "name": "Nethen",
-      "id": "_0rFe0y0zMMb"
+      "id": "nethen",
+      "name": "Nethen"
     },
     {
-      "name": "Neuville-en-Condroz",
-      "id": "_dPLlL9aNRRs"
+      "id": "neuville-en-condroz",
+      "name": "Neuville-en-Condroz"
     },
     {
-      "name": "Nevele",
-      "id": "HUqT5BqXPGr1"
+      "id": "nevele",
+      "name": "Nevele"
     },
     {
-      "name": "Niel",
-      "id": "mIlcJ0mMTHpn"
+      "id": "niel",
+      "name": "Niel"
     },
     {
-      "name": "Nieuwenhove",
-      "id": "0gskdSGmWvmD"
+      "id": "nieuwenhove",
+      "name": "Nieuwenhove"
     },
     {
-      "name": "Nieuwerkerken",
-      "id": "neTie35VDu2f"
+      "id": "nieuwerkerken",
+      "name": "Nieuwerkerken"
     },
     {
-      "name": "Nieuwpoort",
-      "id": "QMCPdU-6e_yK"
+      "id": "nieuwpoort",
+      "name": "Nieuwpoort"
     },
     {
-      "name": "Nieuwrode",
-      "id": "un-sGZbRinlJ"
+      "id": "nieuwrode",
+      "name": "Nieuwrode"
     },
     {
-      "name": "Nijlen",
-      "id": "GunE2bV6Gyhx"
+      "id": "nijlen",
+      "name": "Nijlen"
     },
     {
-      "name": "Nil Saint-Vincent",
-      "id": "-UAyvTJ-Xdoh"
+      "id": "nil-saint-vincent",
+      "name": "Nil Saint-Vincent"
     },
     {
-      "name": "Nimy",
-      "id": "CXgVE0-W0pAf"
+      "id": "nimy",
+      "name": "Nimy"
     },
     {
-      "name": "Ninove",
-      "id": "HDbt5Dm8ktvS"
+      "id": "ninove",
+      "name": "Ninove"
     },
     {
-      "name": "Nivelles",
-      "id": "revkmAE5Tz3k"
+      "id": "nivelles",
+      "name": "Nivelles"
     },
     {
-      "name": "Nodebais",
-      "id": "8NTU4Kb4rKYN"
+      "id": "nodebais",
+      "name": "Nodebais"
     },
     {
-      "name": "Nokere",
-      "id": "hv9WVhp0zkSw"
+      "id": "nokere",
+      "name": "Nokere"
     },
     {
-      "name": "Nossegem",
-      "id": "C8CvXSh4Eo8m"
+      "id": "nossegem",
+      "name": "Nossegem"
     },
     {
-      "name": "Nouvelles",
-      "id": "155YjOkQaFCi"
+      "id": "nouvelles",
+      "name": "Nouvelles"
     },
     {
-      "name": "Nukerke",
-      "id": "P8mBLaEgDxv9"
+      "id": "nukerke",
+      "name": "Nukerke"
     },
     {
-      "name": "Obaix",
-      "id": "Tjph9tnb_KoH"
+      "id": "obaix",
+      "name": "Obaix"
     },
     {
-      "name": "Obourg",
-      "id": "UsHyAOKPkNzr"
+      "id": "obourg",
+      "name": "Obourg"
     },
     {
-      "name": "Oedelem",
-      "id": "RiblJTNNKy2D"
+      "id": "oedelem",
+      "name": "Oedelem"
     },
     {
-      "name": "Oelegem",
-      "id": "5N2S7Flv31xQ"
+      "id": "oelegem",
+      "name": "Oelegem"
     },
     {
-      "name": "Oeselgem",
-      "id": "HD1SHu3-CPnl"
+      "id": "oeselgem",
+      "name": "Oeselgem"
     },
     {
-      "name": "Ohain",
-      "id": "Q_7uaXhUtbmd"
+      "id": "ohain",
+      "name": "Ohain"
     },
     {
-      "name": "Ohey",
-      "id": "7_MQmFVpDUwD"
+      "id": "ohey",
+      "name": "Ohey"
     },
     {
-      "name": "Okegem",
-      "id": "mCwXfvYrjvnR"
+      "id": "okegem",
+      "name": "Okegem"
     },
     {
-      "name": "Olen",
-      "id": "w5ntxuF-FjbN"
+      "id": "olen",
+      "name": "Olen"
     },
     {
-      "name": "Olne",
-      "id": "qsAhU3N1aHUh"
+      "id": "olne",
+      "name": "Olne"
     },
     {
-      "name": "Onze-Lieve-Vrouw-Waver",
-      "id": "vXw2PpUBZeX5"
+      "id": "onze-lieve-vrouw-waver",
+      "name": "Onze-Lieve-Vrouw-Waver"
     },
     {
-      "name": "Ooigem",
-      "id": "iPRCkBiwcX8q"
+      "id": "ooigem",
+      "name": "Ooigem"
     },
     {
-      "name": "Oordegem",
-      "id": "YZQJS9nXAumS"
+      "id": "oordegem",
+      "name": "Oordegem"
     },
     {
-      "name": "Oostakker",
-      "id": "JqUPtWSlxTlZ"
+      "id": "oostakker",
+      "name": "Oostakker"
     },
     {
-      "name": "Oosteeklo",
-      "id": "SPNUqT73QXoo"
+      "id": "oosteeklo",
+      "name": "Oosteeklo"
     },
     {
-      "name": "Oostende",
-      "id": "4SSE8mbdISOa"
+      "id": "oostende",
+      "name": "Oostende"
     },
     {
-      "name": "Oosterzele",
-      "id": "4unippL3Dn6a"
+      "id": "oosterzele",
+      "name": "Oosterzele"
     },
     {
-      "name": "Oostham",
-      "id": "VDX8QI3YOZQX"
+      "id": "oostham",
+      "name": "Oostham"
     },
     {
-      "name": "Oostkamp",
-      "id": "SPEIvC0T6WIG"
+      "id": "oostkamp",
+      "name": "Oostkamp"
     },
     {
-      "name": "Oostmalle",
-      "id": "9wIYx-7Mjbww"
+      "id": "oostmalle",
+      "name": "Oostmalle"
     },
     {
-      "name": "Oostrozebeke",
-      "id": "PLkVeKBw9Y8I"
+      "id": "oostrozebeke",
+      "name": "Oostrozebeke"
     },
     {
-      "name": "Oostvleteren",
-      "id": "IbY67dy85b9s"
+      "id": "oostvleteren",
+      "name": "Oostvleteren"
     },
     {
-      "name": "Opbrakel",
-      "id": "a3OTtNE1sZ-0"
+      "id": "opbrakel",
+      "name": "Opbrakel"
     },
     {
-      "name": "Opglabbeek",
-      "id": "biXKuSlxJKWQ"
+      "id": "opglabbeek",
+      "name": "Opglabbeek"
     },
     {
-      "name": "Opgrimbie",
-      "id": "5PhiGG5jUP-_"
+      "id": "opgrimbie",
+      "name": "Opgrimbie"
     },
     {
-      "name": "Ophain",
-      "id": "FHaBHllNX71J"
+      "id": "ophain",
+      "name": "Ophain"
     },
     {
-      "name": "Opitter",
-      "id": "FWZ9Ebs1K321"
+      "id": "opitter",
+      "name": "Opitter"
     },
     {
-      "name": "Opoeteren",
-      "id": "xr8r-BcqTBYr"
+      "id": "opoeteren",
+      "name": "Opoeteren"
     },
     {
-      "name": "Oppem",
-      "id": "r_F9vqW1P7bc"
+      "id": "oppem",
+      "name": "Oppem"
     },
     {
-      "name": "Oppuurs",
-      "id": "II9c5Vplat_-"
+      "id": "oppuurs",
+      "name": "Oppuurs"
     },
     {
-      "name": "Opwijk",
-      "id": "-pMC0fmNrmFy"
+      "id": "opwijk",
+      "name": "Opwijk"
     },
     {
-      "name": "Orbais",
-      "id": "-phMaSgRZ9J0"
+      "id": "orbais",
+      "name": "Orbais"
     },
     {
-      "name": "Orp-le-Grand",
-      "id": "vtqZkA-jj4tl"
+      "id": "orp-le-grand",
+      "name": "Orp-le-Grand"
     },
     {
-      "name": "Ostend",
-      "id": "gSO-eXGonkA5"
+      "id": "ostend",
+      "name": "Ostend"
     },
     {
-      "name": "Otegem",
-      "id": "HFv9YBeXh0wu"
+      "id": "otegem",
+      "name": "Otegem"
     },
     {
-      "name": "Othee",
-      "id": "YthoY_N7Pjwd"
+      "id": "othee",
+      "name": "Othee"
     },
     {
-      "name": "Ottignies",
-      "id": "009d_mYhJB4J"
+      "id": "ottignies",
+      "name": "Ottignies"
     },
     {
-      "name": "Oud-Heverlee",
-      "id": "pekP_jJHIn-w"
+      "id": "oud-heverlee",
+      "name": "Oud-Heverlee"
     },
     {
-      "name": "Oud-Turnhout",
-      "id": "EZS006AI3hPM"
+      "id": "oud-turnhout",
+      "name": "Oud-Turnhout"
     },
     {
-      "name": "Oudegem",
-      "id": "upuvhtNJrtId"
+      "id": "oudegem",
+      "name": "Oudegem"
     },
     {
-      "name": "Oudenaarde",
-      "id": "ivgcrcCBObwu"
+      "id": "oudenaarde",
+      "name": "Oudenaarde"
     },
     {
-      "name": "Oudenburg",
-      "id": "Q7pOZ9PalY6L"
+      "id": "oudenburg",
+      "name": "Oudenburg"
     },
     {
-      "name": "Ougree",
-      "id": "fZ5V3tQfO-8o"
+      "id": "ougree",
+      "name": "Ougree"
     },
     {
-      "name": "Oupeye",
-      "id": "iHswSnUVIFNc"
+      "id": "oupeye",
+      "name": "Oupeye"
     },
     {
-      "name": "Outer",
-      "id": "7ldAZqS1xd-r"
+      "id": "outer",
+      "name": "Outer"
     },
     {
-      "name": "Outrijve",
-      "id": "34g76ZYd1nKa"
+      "id": "outrijve",
+      "name": "Outrijve"
     },
     {
-      "name": "Overheide",
-      "id": "sycGUhHD4Bvt"
+      "id": "overheide",
+      "name": "Overheide"
     },
     {
-      "name": "Overijse",
-      "id": "SeBCUVdl_zqB"
+      "id": "overijse",
+      "name": "Overijse"
     },
     {
-      "name": "Overmere",
-      "id": "Q6elRTiPP0xY"
+      "id": "overmere",
+      "name": "Overmere"
     },
     {
-      "name": "Overpelt",
-      "id": "QxdBHHIG8vbp"
+      "id": "overpelt",
+      "name": "Overpelt"
     },
     {
-      "name": "Paal",
-      "id": "ch6sJTbXvnXw"
+      "id": "paal",
+      "name": "Paal"
     },
     {
-      "name": "Pamel",
-      "id": "ACdXYY4UZXQ9"
+      "id": "pamel",
+      "name": "Pamel"
     },
     {
-      "name": "Parike",
-      "id": "G5pJElejzsYd"
+      "id": "parike",
+      "name": "Parike"
     },
     {
-      "name": "Park",
-      "id": "NOujdn0t2qfz"
+      "id": "park",
+      "name": "Park"
     },
     {
-      "name": "Passendale",
-      "id": "DJnsnWb4NIKg"
+      "id": "passendale",
+      "name": "Passendale"
     },
     {
-      "name": "Peer",
-      "id": "UJ_N8LuhK97p"
+      "id": "peer",
+      "name": "Peer"
     },
     {
-      "name": "Pellenberg",
-      "id": "Q8opNa2958qL"
+      "id": "pellenberg",
+      "name": "Pellenberg"
     },
     {
-      "name": "Pepinster",
-      "id": "xNtdmas9Hxws"
+      "id": "pepinster",
+      "name": "Pepinster"
     },
     {
-      "name": "Peronnes",
-      "id": "3tP7eYAh1je2"
+      "id": "peronnes",
+      "name": "Peronnes"
     },
     {
-      "name": "Pervijze",
-      "id": "zfCn8quIn48E"
+      "id": "pervijze",
+      "name": "Pervijze"
     },
     {
-      "name": "Perwez",
-      "id": "_vA-YY3sS3Rt"
+      "id": "perwez",
+      "name": "Perwez"
     },
     {
-      "name": "Petegem",
-      "id": "qehW5sSAvTe1"
+      "id": "petegem",
+      "name": "Petegem"
     },
     {
-      "name": "Peutie",
-      "id": "XmG4SlUUREkD"
+      "id": "peutie",
+      "name": "Peutie"
     },
     {
-      "name": "Pipaix",
-      "id": "XrwBBhFU4vBh"
+      "id": "pipaix",
+      "name": "Pipaix"
     },
     {
-      "name": "Pittem",
-      "id": "1DJ4_JZ1J0yM"
+      "id": "pittem",
+      "name": "Pittem"
     },
     {
-      "name": "Plainevaux",
-      "id": "wURFIYXd0S3H"
+      "id": "plainevaux",
+      "name": "Plainevaux"
     },
     {
-      "name": "Plancenoit",
-      "id": "0eAWupx5O39h"
+      "id": "plancenoit",
+      "name": "Plancenoit"
     },
     {
-      "name": "Ploegsteert",
-      "id": "IQbroqOxNwTv"
+      "id": "ploegsteert",
+      "name": "Ploegsteert"
     },
     {
-      "name": "Poederlee",
-      "id": "kyMforBs5o3O"
+      "id": "poederlee",
+      "name": "Poederlee"
     },
     {
-      "name": "Poelkapelle",
-      "id": "ucfB2lbXpEeV"
+      "id": "poelkapelle",
+      "name": "Poelkapelle"
     },
     {
-      "name": "Pollare",
-      "id": "JGRla2q30hSy"
+      "id": "pollare",
+      "name": "Pollare"
     },
     {
-      "name": "Pont-a-Celles",
-      "id": "nZj9oid0IIPh"
+      "id": "pont-a-celles",
+      "name": "Pont-a-Celles"
     },
     {
-      "name": "Pont-de-Loup",
-      "id": "MUuVjXu-jx8I"
+      "id": "pont-de-loup",
+      "name": "Pont-de-Loup"
     },
     {
-      "name": "Poperinge",
-      "id": "WwKWj6s4rp64"
+      "id": "poperinge",
+      "name": "Poperinge"
     },
     {
-      "name": "Poppel",
-      "id": "acMZ1hw4nTzP"
+      "id": "poppel",
+      "name": "Poppel"
     },
     {
-      "name": "Post",
-      "id": "sKuqGuSqwh8w"
+      "id": "post",
+      "name": "Post"
     },
     {
-      "name": "Presles",
-      "id": "oLgRVLrql5FX"
+      "id": "presles",
+      "name": "Presles"
     },
     {
-      "name": "Profondeville",
-      "id": "JYMZUatmf1PJ"
+      "id": "profondeville",
+      "name": "Profondeville"
     },
     {
-      "name": "Pulderbos",
-      "id": "zpM1Z3Ppieq6"
+      "id": "pulderbos",
+      "name": "Pulderbos"
     },
     {
-      "name": "Pulle",
-      "id": "xHYZu4qT-Okf"
+      "id": "pulle",
+      "name": "Pulle"
     },
     {
-      "name": "Putte",
-      "id": "B_h2tC-r0tdm"
+      "id": "putte",
+      "name": "Putte"
     },
     {
-      "name": "Puurs",
-      "id": "8WGETNCHu6qm"
+      "id": "puurs",
+      "name": "Puurs"
     },
     {
-      "name": "Quaregnon",
-      "id": "Q7eJsLBMjB_Y"
+      "id": "quaregnon",
+      "name": "Quaregnon"
     },
     {
-      "name": "Quenast",
-      "id": "KA7qGWxXtKPG"
+      "id": "quenast",
+      "name": "Quenast"
     },
     {
-      "name": "Quevaucamps",
-      "id": "R8LUr4WokWQr"
+      "id": "quevaucamps",
+      "name": "Quevaucamps"
     },
     {
-      "name": "Quievrain",
-      "id": "syu_wJSOLc73"
+      "id": "quievrain",
+      "name": "Quievrain"
     },
     {
-      "name": "Ramet",
-      "id": "3DDKL8YI1kge"
+      "id": "ramet",
+      "name": "Ramet"
     },
     {
-      "name": "Ramsdonk",
-      "id": "OwIxynarMokP"
+      "id": "ramsdonk",
+      "name": "Ramsdonk"
     },
     {
-      "name": "Ramsel",
-      "id": "11khXU8BPl2T"
+      "id": "ramsel",
+      "name": "Ramsel"
     },
     {
-      "name": "Ramskapelle",
-      "id": "KbiDUFYbT3Mo"
+      "id": "ramskapelle",
+      "name": "Ramskapelle"
     },
     {
-      "name": "Rance",
-      "id": "1bxt5acME_Uz"
+      "id": "rance",
+      "name": "Rance"
     },
     {
-      "name": "Ransart",
-      "id": "pFFjiDMKrhb6"
+      "id": "ransart",
+      "name": "Ransart"
     },
     {
-      "name": "Ranst",
-      "id": "VY4SYw63hS7a"
+      "id": "ranst",
+      "name": "Ranst"
     },
     {
-      "name": "Ravels",
-      "id": "2h7FPJuEYige"
+      "id": "ravels",
+      "name": "Ravels"
     },
     {
-      "name": "Rebaix",
-      "id": "hztNOAHBvzLA"
+      "id": "rebaix",
+      "name": "Rebaix"
     },
     {
-      "name": "Recht",
-      "id": "1-cN5qLKQ2xd"
+      "id": "recht",
+      "name": "Recht"
     },
     {
-      "name": "Reet",
-      "id": "TVf4o7MSoEoz"
+      "id": "reet",
+      "name": "Reet"
     },
     {
-      "name": "Rekem",
-      "id": "-ANKNz9kkPmF"
+      "id": "rekem",
+      "name": "Rekem"
     },
     {
-      "name": "Rekkem",
-      "id": "ImdPu-B24Co8"
+      "id": "rekkem",
+      "name": "Rekkem"
     },
     {
-      "name": "Relegem",
-      "id": "Yi9ZhjglBEkP"
+      "id": "relegem",
+      "name": "Relegem"
     },
     {
-      "name": "Remersdaal",
-      "id": "eBKMlwmp20WH"
+      "id": "remersdaal",
+      "name": "Remersdaal"
     },
     {
-      "name": "Remicourt",
-      "id": "_p0xahN7r71z"
+      "id": "remicourt",
+      "name": "Remicourt"
     },
     {
-      "name": "Reninge",
-      "id": "ao0vEqgS0P19"
+      "id": "reninge",
+      "name": "Reninge"
     },
     {
-      "name": "Renlies",
-      "id": "n6_-PMqUOUUL"
+      "id": "renlies",
+      "name": "Renlies"
     },
     {
-      "name": "Ressaix",
-      "id": "LqZG6i-exZNh"
+      "id": "ressaix",
+      "name": "Ressaix"
     },
     {
-      "name": "Ressegem",
-      "id": "9rbbout_t1mW"
+      "id": "ressegem",
+      "name": "Ressegem"
     },
     {
-      "name": "Retie",
-      "id": "YsMhCZPmN9RV"
+      "id": "retie",
+      "name": "Retie"
     },
     {
-      "name": "Retinne",
-      "id": "vmjrB5fK2RD8"
+      "id": "retinne",
+      "name": "Retinne"
     },
     {
-      "name": "Rhisnes",
-      "id": "RmwDRSR2T0zH"
+      "id": "rhisnes",
+      "name": "Rhisnes"
     },
     {
-      "name": "Richelle",
-      "id": "rrQSHuybYLRh"
+      "id": "richelle",
+      "name": "Richelle"
     },
     {
-      "name": "Riemst",
-      "id": "5vDvew2UYl1N"
+      "id": "riemst",
+      "name": "Riemst"
     },
     {
-      "name": "Rijkevorsel",
-      "id": "llznxoJJWLFR"
+      "id": "rijkevorsel",
+      "name": "Rijkevorsel"
     },
     {
-      "name": "Rijmenam",
-      "id": "un_AKsCNuWFz"
+      "id": "rijmenam",
+      "name": "Rijmenam"
     },
     {
-      "name": "Rillaar",
-      "id": "vYiWjIGxr-Ci"
+      "id": "rillaar",
+      "name": "Rillaar"
     },
     {
-      "name": "Rixensart",
-      "id": "4vFIys0bXmLX"
+      "id": "rixensart",
+      "name": "Rixensart"
     },
     {
-      "name": "Rochefort",
-      "id": "jd7FD5DTdvMO"
+      "id": "rochefort",
+      "name": "Rochefort"
     },
     {
-      "name": "Rocourt",
-      "id": "rR7jJilUkM2R"
+      "id": "rocourt",
+      "name": "Rocourt"
     },
     {
-      "name": "Rode",
-      "id": "5RzG542eo27j"
+      "id": "rode",
+      "name": "Rode"
     },
     {
-      "name": "Roeselare",
-      "id": "8zrFdCNOMEQk"
+      "id": "roeselare",
+      "name": "Roeselare"
     },
     {
-      "name": "Roeulx",
-      "id": "0BLnnMAKHMuU"
+      "id": "roeulx",
+      "name": "Roeulx"
     },
     {
-      "name": "Romsee",
-      "id": "1e_yu2hYMs9u"
+      "id": "romsee",
+      "name": "Romsee"
     },
     {
-      "name": "Ronse",
-      "id": "jBd0UMA0OZRd"
+      "id": "ronse",
+      "name": "Ronse"
     },
     {
-      "name": "Rosieres",
-      "id": "4iMqyjO1U42r"
+      "id": "rosieres",
+      "name": "Rosieres"
     },
     {
-      "name": "Rosmeer",
-      "id": "slXDkWWEOeJi"
+      "id": "rosmeer",
+      "name": "Rosmeer"
     },
     {
-      "name": "Rotselaar",
-      "id": "bKawpigyE003"
+      "id": "rotselaar",
+      "name": "Rotselaar"
     },
     {
-      "name": "Roux",
-      "id": "cRHT4PKBR2Wh"
+      "id": "roux",
+      "name": "Roux"
     },
     {
-      "name": "Ruddervoorde",
-      "id": "xKowsFJXEoEt"
+      "id": "ruddervoorde",
+      "name": "Ruddervoorde"
     },
     {
-      "name": "Ruien",
-      "id": "DLPXiF8H1qTE"
+      "id": "ruien",
+      "name": "Ruien"
     },
     {
-      "name": "Ruisbroek",
-      "id": "L_iKIUSP2Lov"
+      "id": "ruisbroek",
+      "name": "Ruisbroek"
     },
     {
-      "name": "Ruiselede",
-      "id": "ao35nlsU9Kjd"
+      "id": "ruiselede",
+      "name": "Ruiselede"
     },
     {
-      "name": "Rumbeke",
-      "id": "T6y1NLfYvZSB"
+      "id": "rumbeke",
+      "name": "Rumbeke"
     },
     {
-      "name": "Rummen",
-      "id": "t6kJiVTBtLI8"
+      "id": "rummen",
+      "name": "Rummen"
     },
     {
-      "name": "Rumst",
-      "id": "ppmSKSznDvXB"
+      "id": "rumst",
+      "name": "Rumst"
     },
     {
-      "name": "Sablon",
-      "id": "daUnV3n9lf4t"
+      "id": "sablon",
+      "name": "Sablon"
     },
     {
-      "name": "Saint-Georges-sur-Meuse",
-      "id": "BlccFrj-Mph_"
+      "id": "saint-georges-sur-meuse",
+      "name": "Saint-Georges-sur-Meuse"
     },
     {
-      "name": "Saint-Ghislain",
-      "id": "a2i9XvheOX8w"
+      "id": "saint-ghislain",
+      "name": "Saint-Ghislain"
     },
     {
-      "name": "Saint-Gilles",
-      "id": "lVduXKqwC7wo"
+      "id": "saint-gilles",
+      "name": "Saint-Gilles"
     },
     {
-      "name": "Saint-Jean-Geest",
-      "id": "-8FaREQFk5D1"
+      "id": "saint-jean-geest",
+      "name": "Saint-Jean-Geest"
     },
     {
-      "name": "Saint-Josse-ten-Noode",
-      "id": "M5RAFr4Sx6fV"
+      "id": "saint-josse-ten-noode",
+      "name": "Saint-Josse-ten-Noode"
     },
     {
-      "name": "Saint-Leger",
-      "id": "op8Mo6bifC_C"
+      "id": "saint-leger",
+      "name": "Saint-Leger"
     },
     {
-      "name": "Saint-Mard",
-      "id": "6CybyV73HBz5"
+      "id": "saint-mard",
+      "name": "Saint-Mard"
     },
     {
-      "name": "Saint-Nicolas",
-      "id": "LCcNwmpunJqH"
+      "id": "saint-nicolas",
+      "name": "Saint-Nicolas"
     },
     {
-      "name": "Saint-Remy",
-      "id": "ZfI02hFpgh-I"
+      "id": "saint-remy",
+      "name": "Saint-Remy"
     },
     {
-      "name": "Saint-Sauveur",
-      "id": "PzlvcgSZLPC3"
+      "id": "saint-sauveur",
+      "name": "Saint-Sauveur"
     },
     {
-      "name": "Saint-Servais",
-      "id": "c8Uhls-UprCZ"
+      "id": "saint-servais",
+      "name": "Saint-Servais"
     },
     {
-      "name": "Saint-Symphorien",
-      "id": "zAGS8T-6FqQH"
+      "id": "saint-symphorien",
+      "name": "Saint-Symphorien"
     },
     {
-      "name": "Sainte-Ode",
-      "id": "XrTgL3QaQKhx"
+      "id": "sainte-ode",
+      "name": "Sainte-Ode"
     },
     {
-      "name": "Saintes",
-      "id": "D4pKuondfUhQ"
+      "id": "saintes",
+      "name": "Saintes"
     },
     {
-      "name": "Saive",
-      "id": "dPeWz4mSGNsY"
+      "id": "saive",
+      "name": "Saive"
     },
     {
-      "name": "Sankt Vith",
-      "id": "pQHR2MtBGZ7Y"
+      "id": "sankt-vith",
+      "name": "Sankt Vith"
     },
     {
-      "name": "Sart Melin",
-      "id": "YCL3J89rPSAi"
+      "id": "sart-melin",
+      "name": "Sart Melin"
     },
     {
-      "name": "Sart-Dames-Avelines",
-      "id": "u4GYbudKCaGn"
+      "id": "sart-dames-avelines",
+      "name": "Sart-Dames-Avelines"
     },
     {
-      "name": "Sart-en-Fagne",
-      "id": "wyee265aKUM-"
+      "id": "sart-en-fagne",
+      "name": "Sart-en-Fagne"
     },
     {
-      "name": "Sart-lez-Spa",
-      "id": "QVi6Mn53qhud"
+      "id": "sart-lez-spa",
+      "name": "Sart-lez-Spa"
     },
     {
-      "name": "Schaarbeek",
-      "id": "xUlgaAzRfjfP"
+      "id": "schaarbeek",
+      "name": "Schaarbeek"
     },
     {
-      "name": "Schaffen",
-      "id": "51ioGWE9sfNv"
+      "id": "schaffen",
+      "name": "Schaffen"
     },
     {
-      "name": "Schalkhoven",
-      "id": "5Pz_cCbe1AoY"
+      "id": "schalkhoven",
+      "name": "Schalkhoven"
     },
     {
-      "name": "Scheldewindeke",
-      "id": "jhtIZ7O1Gj7B"
+      "id": "scheldewindeke",
+      "name": "Scheldewindeke"
     },
     {
-      "name": "Schelle",
-      "id": "0Hl21ZSA-DUz"
+      "id": "schelle",
+      "name": "Schelle"
     },
     {
-      "name": "Schellebelle",
-      "id": "vckJkoJmacQn"
+      "id": "schellebelle",
+      "name": "Schellebelle"
     },
     {
-      "name": "Schendelbeke",
-      "id": "XXsMbnK2p7vr"
+      "id": "schendelbeke",
+      "name": "Schendelbeke"
     },
     {
-      "name": "Schepdaal",
-      "id": "5sz8MYERGLGZ"
+      "id": "schepdaal",
+      "name": "Schepdaal"
     },
     {
-      "name": "Scherpenheuvel",
-      "id": "alKUlTngWhsc"
+      "id": "scherpenheuvel",
+      "name": "Scherpenheuvel"
     },
     {
-      "name": "Schilde",
-      "id": "AdysIFMBRqUS"
+      "id": "schilde",
+      "name": "Schilde"
     },
     {
-      "name": "Schoonaarde",
-      "id": "kqEvduH3rKgZ"
+      "id": "schoonaarde",
+      "name": "Schoonaarde"
     },
     {
-      "name": "Schorisse",
-      "id": "y5Iq8OXEdCpq"
+      "id": "schorisse",
+      "name": "Schorisse"
     },
     {
-      "name": "Schoten",
-      "id": "zbILXPRaMTk2"
+      "id": "schoten",
+      "name": "Schoten"
     },
     {
-      "name": "Schriek",
-      "id": "fKpBK8OFVmrN"
+      "id": "schriek",
+      "name": "Schriek"
     },
     {
-      "name": "Schulen",
-      "id": "5xNBb86AFFZm"
+      "id": "schulen",
+      "name": "Schulen"
     },
     {
-      "name": "Sclayn",
-      "id": "mn4_v6s1DMFG"
+      "id": "sclayn",
+      "name": "Sclayn"
     },
     {
-      "name": "Seilles",
-      "id": "p4iM6a1BD2hl"
+      "id": "seilles",
+      "name": "Seilles"
     },
     {
-      "name": "Seneffe",
-      "id": "5LTlYHCWCF6d"
+      "id": "seneffe",
+      "name": "Seneffe"
     },
     {
-      "name": "Seraing",
-      "id": "80tYFahdaFqn"
+      "id": "seraing",
+      "name": "Seraing"
     },
     {
-      "name": "Serskamp",
-      "id": "nS_ZrZYNwjwE"
+      "id": "serskamp",
+      "name": "Serskamp"
     },
     {
-      "name": "Sijsele",
-      "id": "7QSdmMyDPhCP"
+      "id": "sijsele",
+      "name": "Sijsele"
     },
     {
-      "name": "Sinaai",
-      "id": "jCrMds5zpuLu"
+      "id": "sinaai",
+      "name": "Sinaai"
     },
     {
-      "name": "Sint-Agatha-Berchem",
-      "id": "I_tTaoA59Aam"
+      "id": "sint-agatha-berchem",
+      "name": "Sint-Agatha-Berchem"
     },
     {
-      "name": "Sint-Agatha-Rode",
-      "id": "EX-bLVLE1CWL"
+      "id": "sint-agatha-rode",
+      "name": "Sint-Agatha-Rode"
     },
     {
-      "name": "Sint-Amands",
-      "id": "r5gaERIJGucy"
+      "id": "sint-amands",
+      "name": "Sint-Amands"
     },
     {
-      "name": "Sint-Amandsberg",
-      "id": "pmMhwrZBz1vO"
+      "id": "sint-amandsberg",
+      "name": "Sint-Amandsberg"
     },
     {
-      "name": "Sint-Andries",
-      "id": "hgd6K_4P5HfU"
+      "id": "sint-andries",
+      "name": "Sint-Andries"
     },
     {
-      "name": "Sint-Baafs-Vijve",
-      "id": "vlpfo-wuOpE8"
+      "id": "sint-baafs-vijve",
+      "name": "Sint-Baafs-Vijve"
     },
     {
-      "name": "Sint-Denijs-Westrem",
-      "id": "cnG2dfS6o9CN"
+      "id": "sint-denijs-westrem",
+      "name": "Sint-Denijs-Westrem"
     },
     {
-      "name": "Sint-Genesius-Rode",
-      "id": "Brb-DiyPUncd"
+      "id": "sint-genesius-rode",
+      "name": "Sint-Genesius-Rode"
     },
     {
-      "name": "Sint-Gillis-bij-Dendermonde",
-      "id": "JXLmKOr-naUP"
+      "id": "sint-gillis-bij-dendermonde",
+      "name": "Sint-Gillis-bij-Dendermonde"
     },
     {
-      "name": "Sint-Gillis-Waas",
-      "id": "nXtJKecEsK0g"
+      "id": "sint-gillis-waas",
+      "name": "Sint-Gillis-Waas"
     },
     {
-      "name": "Sint-Katelijne-Waver",
-      "id": "A7-IEyaQ0JjP"
+      "id": "sint-katelijne-waver",
+      "name": "Sint-Katelijne-Waver"
     },
     {
-      "name": "Sint-Kornelis-Horebeke",
-      "id": "hmR3eT9IE7lS"
+      "id": "sint-kornelis-horebeke",
+      "name": "Sint-Kornelis-Horebeke"
     },
     {
-      "name": "Sint-Lambrechts-Herk",
-      "id": "mun3gb4AOYwt"
+      "id": "sint-lambrechts-herk",
+      "name": "Sint-Lambrechts-Herk"
     },
     {
-      "name": "Sint-Laureins",
-      "id": "bARe65QMuCbA"
+      "id": "sint-laureins",
+      "name": "Sint-Laureins"
     },
     {
-      "name": "Sint-Lievens-Houtem",
-      "id": "HpU__FZLEdJb"
+      "id": "sint-lievens-houtem",
+      "name": "Sint-Lievens-Houtem"
     },
     {
-      "name": "Sint-Maria-Latem",
-      "id": "s3pTQCr1pQPd"
+      "id": "sint-maria-latem",
+      "name": "Sint-Maria-Latem"
     },
     {
-      "name": "Sint-Martens-Latem",
-      "id": "nTpxRwRqy88t"
+      "id": "sint-martens-latem",
+      "name": "Sint-Martens-Latem"
     },
     {
-      "name": "Sint-Michiels",
-      "id": "LasInjopcOtE"
+      "id": "sint-michiels",
+      "name": "Sint-Michiels"
     },
     {
-      "name": "Sint-Niklaas",
-      "id": "i9xP4yCxV5pa"
+      "id": "sint-niklaas",
+      "name": "Sint-Niklaas"
     },
     {
-      "name": "Sint-Pauwels",
-      "id": "v-Mfx1B7vpDN"
+      "id": "sint-pauwels",
+      "name": "Sint-Pauwels"
     },
     {
-      "name": "Sint-Pieters op de Dijk",
-      "id": "CIg6Od1osHS4"
+      "id": "sint-pieters-op-de-dijk",
+      "name": "Sint-Pieters op de Dijk"
     },
     {
-      "name": "Sint-Pieters-Leeuw",
-      "id": "TWqpyfkuJXcK"
+      "id": "sint-pieters-leeuw",
+      "name": "Sint-Pieters-Leeuw"
     },
     {
-      "name": "Sint-Stevens-Woluwe",
-      "id": "C56jFn0cU31K"
+      "id": "sint-stevens-woluwe",
+      "name": "Sint-Stevens-Woluwe"
     },
     {
-      "name": "Sint-Truiden",
-      "id": "tOVxscKANZaD"
+      "id": "sint-truiden",
+      "name": "Sint-Truiden"
     },
     {
-      "name": "Sirault",
-      "id": "kgDNE0bxZAm7"
+      "id": "sirault",
+      "name": "Sirault"
     },
     {
-      "name": "Sleidinge",
-      "id": "g-9KVPEEUAk2"
+      "id": "sleidinge",
+      "name": "Sleidinge"
     },
     {
-      "name": "Soignies",
-      "id": "VactB8DR-_Ii"
+      "id": "soignies",
+      "name": "Soignies"
     },
     {
-      "name": "Sombreffe",
-      "id": "kIBFBUYTGHgz"
+      "id": "sombreffe",
+      "name": "Sombreffe"
     },
     {
-      "name": "Soumagne",
-      "id": "CHO9ijUI0ugH"
+      "id": "soumagne",
+      "name": "Soumagne"
     },
     {
-      "name": "Souvret",
-      "id": "S3dPQBONSkUr"
+      "id": "souvret",
+      "name": "Souvret"
     },
     {
-      "name": "Spa",
-      "id": "n-TtzNlzYXgP"
+      "id": "spa",
+      "name": "Spa"
     },
     {
-      "name": "Sprimont",
-      "id": "Q69J-zVIbQ1b"
+      "id": "sprimont",
+      "name": "Sprimont"
     },
     {
-      "name": "Stabroek",
-      "id": "gxsMKsrOC7gd"
+      "id": "stabroek",
+      "name": "Stabroek"
     },
     {
-      "name": "Staden",
-      "id": "UUC3B9Aa4dUT"
+      "id": "staden",
+      "name": "Staden"
     },
     {
-      "name": "Stavelot",
-      "id": "9RnbMDsqV9Eq"
+      "id": "stavelot",
+      "name": "Stavelot"
     },
     {
-      "name": "Steendorp",
-      "id": "WQTCsVklp3WU"
+      "id": "steendorp",
+      "name": "Steendorp"
     },
     {
-      "name": "Steenokkerzeel",
-      "id": "0hNlRfTfq7ER"
+      "id": "steenokkerzeel",
+      "name": "Steenokkerzeel"
     },
     {
-      "name": "Stekene",
-      "id": "_vFtBPy02qRJ"
+      "id": "stekene",
+      "name": "Stekene"
     },
     {
-      "name": "Stembert",
-      "id": "a1Z5u2EymuCn"
+      "id": "stembert",
+      "name": "Stembert"
     },
     {
-      "name": "Stene",
-      "id": "l7AQJxGPOZXq"
+      "id": "stene",
+      "name": "Stene"
     },
     {
-      "name": "Ster",
-      "id": "R7eiICBV_SBg"
+      "id": "ster",
+      "name": "Ster"
     },
     {
-      "name": "Sterrebeek",
-      "id": "n_qhCx-37Cbu"
+      "id": "sterrebeek",
+      "name": "Sterrebeek"
     },
     {
-      "name": "Stevoort",
-      "id": "c4hibc-kObGo"
+      "id": "stevoort",
+      "name": "Stevoort"
     },
     {
-      "name": "Stokkem",
-      "id": "w68pLODzPPO_"
+      "id": "stokkem",
+      "name": "Stokkem"
     },
     {
-      "name": "Stoumont",
-      "id": "-uCmrvPBRxWI"
+      "id": "stoumont",
+      "name": "Stoumont"
     },
     {
-      "name": "Stree",
-      "id": "h6V6uiKVPYBN"
+      "id": "stree",
+      "name": "Stree"
     },
     {
-      "name": "Strepy-Bracquegnies",
-      "id": "fnkVH_7E0KYP"
+      "id": "strepy-bracquegnies",
+      "name": "Strepy-Bracquegnies"
     },
     {
-      "name": "Strombeek-Bever",
-      "id": "VM-eLLhA1r_S"
+      "id": "strombeek-bever",
+      "name": "Strombeek-Bever"
     },
     {
-      "name": "Tamines",
-      "id": "QJ52yQ272o4I"
+      "id": "tamines",
+      "name": "Tamines"
     },
     {
-      "name": "Temse",
-      "id": "Kfu6apCiNzSi"
+      "id": "temse",
+      "name": "Temse"
     },
     {
-      "name": "Teralfene",
-      "id": "4uUcT0pqGXEt"
+      "id": "teralfene",
+      "name": "Teralfene"
     },
     {
-      "name": "Terhagen",
-      "id": "Vkzab8QSmBfQ"
+      "id": "terhagen",
+      "name": "Terhagen"
     },
     {
-      "name": "Ternat",
-      "id": "76OdEf39UOB0"
+      "id": "ternat",
+      "name": "Ternat"
     },
     {
-      "name": "Tertre",
-      "id": "QGDeYplYjmGl"
+      "id": "tertre",
+      "name": "Tertre"
     },
     {
-      "name": "Tervuren",
-      "id": "q5FlPKpIrJEC"
+      "id": "tervuren",
+      "name": "Tervuren"
     },
     {
-      "name": "Tessenderlo",
-      "id": "hzl9IwrXFZqb"
+      "id": "tessenderlo",
+      "name": "Tessenderlo"
     },
     {
-      "name": "Testelt",
-      "id": "5ol3WeYr8VmJ"
+      "id": "testelt",
+      "name": "Testelt"
     },
     {
-      "name": "Theux",
-      "id": "dOw3lTuBoO5X"
+      "id": "theux",
+      "name": "Theux"
     },
     {
-      "name": "Thimeon",
-      "id": "Db_gzujWDyol"
+      "id": "thimeon",
+      "name": "Thimeon"
     },
     {
-      "name": "Thimister",
-      "id": "_353WM5iAKH-"
+      "id": "thimister",
+      "name": "Thimister"
     },
     {
-      "name": "Thisnes",
-      "id": "3Becn5NvLEt2"
+      "id": "thisnes",
+      "name": "Thisnes"
     },
     {
-      "name": "Thuin",
-      "id": "m4Y39aOcWG3P"
+      "id": "thuin",
+      "name": "Thuin"
     },
     {
-      "name": "Thulin",
-      "id": "xO5dyc6B6Pvf"
+      "id": "thulin",
+      "name": "Thulin"
     },
     {
-      "name": "Thy-le-Chateau",
-      "id": "gfXhVH8b-P-T"
+      "id": "thy-le-chateau",
+      "name": "Thy-le-Chateau"
     },
     {
-      "name": "Thynes",
-      "id": "imGktMZa2pox"
+      "id": "thynes",
+      "name": "Thynes"
     },
     {
-      "name": "Tiegem",
-      "id": "1ffzLZhxAzG2"
+      "id": "tiegem",
+      "name": "Tiegem"
     },
     {
-      "name": "Tielt",
-      "id": "T3IaqQ6c2mK-"
+      "id": "tielt",
+      "name": "Tielt"
     },
     {
-      "name": "Tienen",
-      "id": "fGaP3UbNpRIh"
+      "id": "tienen",
+      "name": "Tienen"
     },
     {
-      "name": "Tildonk",
-      "id": "TyhU6ZTL3TQa"
+      "id": "tildonk",
+      "name": "Tildonk"
     },
     {
-      "name": "Tilff",
-      "id": "cEWzRAjdK35Z"
+      "id": "tilff",
+      "name": "Tilff"
     },
     {
-      "name": "Tilleur",
-      "id": "Ip7aOWP_tPN5"
+      "id": "tilleur",
+      "name": "Tilleur"
     },
     {
-      "name": "Tisselt",
-      "id": "c8zGuzXH6P3y"
+      "id": "tisselt",
+      "name": "Tisselt"
     },
     {
-      "name": "Toernich",
-      "id": "X5t1PWTvcJdZ"
+      "id": "toernich",
+      "name": "Toernich"
     },
     {
-      "name": "Tohogne",
-      "id": "qC0aAL_uxx9J"
+      "id": "tohogne",
+      "name": "Tohogne"
     },
     {
-      "name": "Tongeren",
-      "id": "GeJANVhzVq7u"
+      "id": "tongeren",
+      "name": "Tongeren"
     },
     {
-      "name": "Tongerlo",
-      "id": "JBQ3zn5_s4Lq"
+      "id": "tongerlo",
+      "name": "Tongerlo"
     },
     {
-      "name": "Tongre-Notre-Dame",
-      "id": "i_shMp6WsMIH"
+      "id": "tongre-notre-dame",
+      "name": "Tongre-Notre-Dame"
     },
     {
-      "name": "Torhout",
-      "id": "h63UBo2HoVuX"
+      "id": "torhout",
+      "name": "Torhout"
     },
     {
-      "name": "Tournai",
-      "id": "vlzUNSE9EyF9"
+      "id": "tournai",
+      "name": "Tournai"
     },
     {
-      "name": "Transinne",
-      "id": "OYq3zxVdKiPg"
+      "id": "transinne",
+      "name": "Transinne"
     },
     {
-      "name": "Trazegnies",
-      "id": "tgysXkKP_76v"
+      "id": "trazegnies",
+      "name": "Trazegnies"
     },
     {
-      "name": "Tremelo",
-      "id": "pcxGnB5idchl"
+      "id": "tremelo",
+      "name": "Tremelo"
     },
     {
-      "name": "Trooz",
-      "id": "xq_DWjvaLHE6"
+      "id": "trooz",
+      "name": "Trooz"
     },
     {
-      "name": "Tubize",
-      "id": "mzLFUDthy-Z-"
+      "id": "tubize",
+      "name": "Tubize"
     },
     {
-      "name": "Turnhout",
-      "id": "siRW4wrduSZK"
+      "id": "turnhout",
+      "name": "Turnhout"
     },
     {
-      "name": "Uccle",
-      "id": "9SnaonSg1CFU"
+      "id": "uccle",
+      "name": "Uccle"
     },
     {
-      "name": "Ulbeek",
-      "id": "nHHgV8XHciVW"
+      "id": "ulbeek",
+      "name": "Ulbeek"
     },
     {
-      "name": "Ursel",
-      "id": "ALWca91YhYYZ"
+      "id": "ursel",
+      "name": "Ursel"
     },
     {
-      "name": "Vance",
-      "id": "gjgSzXPx9gh9"
+      "id": "vance",
+      "name": "Vance"
     },
     {
-      "name": "Varsenare",
-      "id": "lU35X6gdCMxv"
+      "id": "varsenare",
+      "name": "Varsenare"
     },
     {
-      "name": "Vaux",
-      "id": "aAK3cwV2zyFf"
+      "id": "vaux",
+      "name": "Vaux"
     },
     {
-      "name": "Vaux-sous-Chevremont",
-      "id": "JyMwVzubfGt5"
+      "id": "vaux-sous-chevremont",
+      "name": "Vaux-sous-Chevremont"
     },
     {
-      "name": "Vedrin",
-      "id": "OgZPzjY5smER"
+      "id": "vedrin",
+      "name": "Vedrin"
     },
     {
-      "name": "Veerle",
-      "id": "lTngBWge8gkY"
+      "id": "veerle",
+      "name": "Veerle"
     },
     {
-      "name": "Velaine-sur-Sambre",
-      "id": "UIHH6PywfPS1"
+      "id": "velaine-sur-sambre",
+      "name": "Velaine-sur-Sambre"
     },
     {
-      "name": "Velaines",
-      "id": "nDjBXJtYXq31"
+      "id": "velaines",
+      "name": "Velaines"
     },
     {
-      "name": "Veldegem",
-      "id": "_sE88YXF6Zl9"
+      "id": "veldegem",
+      "name": "Veldegem"
     },
     {
-      "name": "Velm",
-      "id": "h6_NEzbS4bO0"
+      "id": "velm",
+      "name": "Velm"
     },
     {
-      "name": "Veltem-Beisem",
-      "id": "0sMFk96slfcj"
+      "id": "veltem-beisem",
+      "name": "Veltem-Beisem"
     },
     {
-      "name": "Verlaine",
-      "id": "WyI3f81qw-Ss"
+      "id": "verlaine",
+      "name": "Verlaine"
     },
     {
-      "name": "Verrebroek",
-      "id": "eihVVrYuuCya"
+      "id": "verrebroek",
+      "name": "Verrebroek"
     },
     {
-      "name": "Verviers",
-      "id": "tCvXW9qRUDJc"
+      "id": "verviers",
+      "name": "Verviers"
     },
     {
-      "name": "Veurne",
-      "id": "Vg06X5BXnmPl"
+      "id": "veurne",
+      "name": "Veurne"
     },
     {
-      "name": "Viane",
-      "id": "5OK3zgtBHP1X"
+      "id": "viane",
+      "name": "Viane"
     },
     {
-      "name": "Vichte",
-      "id": "M5uVoy_c_9aN"
+      "id": "vichte",
+      "name": "Vichte"
     },
     {
-      "name": "Vielsalm",
-      "id": "T5OUSjEFvb_4"
+      "id": "vielsalm",
+      "name": "Vielsalm"
     },
     {
-      "name": "Viesville",
-      "id": "Or1l3p3RCa8S"
+      "id": "viesville",
+      "name": "Viesville"
     },
     {
-      "name": "Villers-la-Ville",
-      "id": "D3EK09vvv3ZY"
+      "id": "villers-la-ville",
+      "name": "Villers-la-Ville"
     },
     {
-      "name": "Villers-le-Bouillet",
-      "id": "NW8JLgtGqMt6"
+      "id": "villers-le-bouillet",
+      "name": "Villers-le-Bouillet"
     },
     {
-      "name": "Villers-sur-Semois",
-      "id": "-Dw1WGzLHxmd"
+      "id": "villers-sur-semois",
+      "name": "Villers-sur-Semois"
     },
     {
-      "name": "Vilvoorde",
-      "id": "6-ifFXLRF_U9"
+      "id": "vilvoorde",
+      "name": "Vilvoorde"
     },
     {
-      "name": "Vinderhoute",
-      "id": "AZyWHSeCpxDq"
+      "id": "vinderhoute",
+      "name": "Vinderhoute"
     },
     {
-      "name": "Virton",
-      "id": "R6BwzswdKgvX"
+      "id": "virton",
+      "name": "Virton"
     },
     {
-      "name": "Vise",
-      "id": "QrYCzwIAG5BM"
+      "id": "vise",
+      "name": "Vise"
     },
     {
-      "name": "Vivegnis",
-      "id": "Esq912QEu5vc"
+      "id": "vivegnis",
+      "name": "Vivegnis"
     },
     {
-      "name": "Vladslo",
-      "id": "-UkXmd7BTxXi"
+      "id": "vladslo",
+      "name": "Vladslo"
     },
     {
-      "name": "Vlekkem",
-      "id": "cBvsyMZKZ1AO"
+      "id": "vlekkem",
+      "name": "Vlekkem"
     },
     {
-      "name": "Vlezenbeek",
-      "id": "vkdiYfCQwhIp"
+      "id": "vlezenbeek",
+      "name": "Vlezenbeek"
     },
     {
-      "name": "Vliermaal",
-      "id": "SeSdvSt-1O-H"
+      "id": "vliermaal",
+      "name": "Vliermaal"
     },
     {
-      "name": "Vliermaalroot",
-      "id": "oNXhLa7xGcAI"
+      "id": "vliermaalroot",
+      "name": "Vliermaalroot"
     },
     {
-      "name": "Vlierzele",
-      "id": "ayVZCqAPQhKU"
+      "id": "vlierzele",
+      "name": "Vlierzele"
     },
     {
-      "name": "Vlissegem",
-      "id": "tjLkbURZ1AAZ"
+      "id": "vlissegem",
+      "name": "Vlissegem"
     },
     {
-      "name": "Vollezele",
-      "id": "lCh4zv7cH3Rt"
+      "id": "vollezele",
+      "name": "Vollezele"
     },
     {
-      "name": "Voormezele",
-      "id": "HukZlqi0goVY"
+      "id": "voormezele",
+      "name": "Voormezele"
     },
     {
-      "name": "Voroux-Goreux",
-      "id": "L_sFEoptAwVF"
+      "id": "voroux-goreux",
+      "name": "Voroux-Goreux"
     },
     {
-      "name": "Vorselaar",
-      "id": "W7llAPglQflu"
+      "id": "vorselaar",
+      "name": "Vorselaar"
     },
     {
-      "name": "Vosselaar",
-      "id": "BaJ-rwEdRdnh"
+      "id": "vosselaar",
+      "name": "Vosselaar"
     },
     {
-      "name": "Vossem",
-      "id": "uyxqqzhlnCWe"
+      "id": "vossem",
+      "name": "Vossem"
     },
     {
-      "name": "Vottem",
-      "id": "RSU2KI-JkclH"
+      "id": "vottem",
+      "name": "Vottem"
     },
     {
-      "name": "Vremde",
-      "id": "wTvKxK2gviWb"
+      "id": "vremde",
+      "name": "Vremde"
     },
     {
-      "name": "Waarloos",
-      "id": "dnrRc6HyFY2X"
+      "id": "waarloos",
+      "name": "Waarloos"
     },
     {
-      "name": "Waarschoot",
-      "id": "2eeWZoxV51fB"
+      "id": "waarschoot",
+      "name": "Waarschoot"
     },
     {
-      "name": "Waasmunster",
-      "id": "xBLvbMevr24U"
+      "id": "waasmunster",
+      "name": "Waasmunster"
     },
     {
-      "name": "Wachtebeke",
-      "id": "fH2Qu9nTLmkT"
+      "id": "wachtebeke",
+      "name": "Wachtebeke"
     },
     {
-      "name": "Wagnelee",
-      "id": "dlPsqt8ZVTtD"
+      "id": "wagnelee",
+      "name": "Wagnelee"
     },
     {
-      "name": "Wakken",
-      "id": "-e8ptbyKsVC_"
+      "id": "wakken",
+      "name": "Wakken"
     },
     {
-      "name": "Waleffe Saint-Georges",
-      "id": "iCw3jndP4LSx"
+      "id": "waleffe-saint-georges",
+      "name": "Waleffe Saint-Georges"
     },
     {
-      "name": "Walhain",
-      "id": "BUv3Mk3nU-f3"
+      "id": "walhain",
+      "name": "Walhain"
     },
     {
-      "name": "Walhorn",
-      "id": "suYUcW-KIZ5T"
+      "id": "walhorn",
+      "name": "Walhorn"
     },
     {
-      "name": "Wanfercee-Baulet",
-      "id": "5TZVqpAv23sA"
+      "id": "wanfercee-baulet",
+      "name": "Wanfercee-Baulet"
     },
     {
-      "name": "Wangenies",
-      "id": "9UgtIQIZHGL7"
+      "id": "wangenies",
+      "name": "Wangenies"
     },
     {
-      "name": "Wanne",
-      "id": "pk6IJPNGdQTv"
+      "id": "wanne",
+      "name": "Wanne"
     },
     {
-      "name": "Wanze",
-      "id": "fDPz1i1w-69Q"
+      "id": "wanze",
+      "name": "Wanze"
     },
     {
-      "name": "Warchin",
-      "id": "taeng0lUnJbJ"
+      "id": "warchin",
+      "name": "Warchin"
     },
     {
-      "name": "Waregem",
-      "id": "39zra60ESB4w"
+      "id": "waregem",
+      "name": "Waregem"
     },
     {
-      "name": "Waremme",
-      "id": "ulCJtvac71Fu"
+      "id": "waremme",
+      "name": "Waremme"
     },
     {
-      "name": "Warneton",
-      "id": "GeBNRaolP5ge"
+      "id": "warneton",
+      "name": "Warneton"
     },
     {
-      "name": "Warquignies",
-      "id": "rBb3LxoEJosy"
+      "id": "warquignies",
+      "name": "Warquignies"
     },
     {
-      "name": "Warsage",
-      "id": "JyAVsxKjmbCc"
+      "id": "warsage",
+      "name": "Warsage"
     },
     {
-      "name": "Wasmes",
-      "id": "9zQWxm-W5366"
+      "id": "wasmes",
+      "name": "Wasmes"
     },
     {
-      "name": "Waterloo",
-      "id": "O_cVZEOrHEsR"
+      "id": "waterloo",
+      "name": "Waterloo"
     },
     {
-      "name": "Watermael-Boitsfort",
-      "id": "W4P_4VST5Ljq"
+      "id": "watermael-boitsfort",
+      "name": "Watermael-Boitsfort"
     },
     {
-      "name": "Watervliet",
-      "id": "UmF19j_RhYZK"
+      "id": "watervliet",
+      "name": "Watervliet"
     },
     {
-      "name": "Waudrez",
-      "id": "rxNBZr33jc7y"
+      "id": "waudrez",
+      "name": "Waudrez"
     },
     {
-      "name": "Wavre",
-      "id": "Pn-a4Sc8F6in"
+      "id": "wavre",
+      "name": "Wavre"
     },
     {
-      "name": "Ways",
-      "id": "omDGzKEufVRz"
+      "id": "ways",
+      "name": "Ways"
     },
     {
-      "name": "Wechelderzande",
-      "id": "0F1xen5_DmUg"
+      "id": "wechelderzande",
+      "name": "Wechelderzande"
     },
     {
-      "name": "Weelde",
-      "id": "ESyLw7Go0zVt"
+      "id": "weelde",
+      "name": "Weelde"
     },
     {
-      "name": "Welkenraedt",
-      "id": "vldD8VBGkjPA"
+      "id": "welkenraedt",
+      "name": "Welkenraedt"
     },
     {
-      "name": "Welle",
-      "id": "ktABeinDblPm"
+      "id": "welle",
+      "name": "Welle"
     },
     {
-      "name": "Wellen",
-      "id": "PJ3xTEbBdlAb"
+      "id": "wellen",
+      "name": "Wellen"
     },
     {
-      "name": "Wemmel",
-      "id": "DGkru4AFgnvN"
+      "id": "wemmel",
+      "name": "Wemmel"
     },
     {
-      "name": "Wenduine",
-      "id": "SDpg39kQw3pV"
+      "id": "wenduine",
+      "name": "Wenduine"
     },
     {
-      "name": "Wepion",
-      "id": "IhF5Sy3BsW-K"
+      "id": "wepion",
+      "name": "Wepion"
     },
     {
-      "name": "Werchter",
-      "id": "ntu6ExRpK2G0"
+      "id": "werchter",
+      "name": "Werchter"
     },
     {
-      "name": "Werken",
-      "id": "j0RcwcoR8NV4"
+      "id": "werken",
+      "name": "Werken"
     },
     {
-      "name": "Wervik",
-      "id": "WxocJJKhr8u1"
+      "id": "wervik",
+      "name": "Wervik"
     },
     {
-      "name": "Wespelaar",
-      "id": "SkBgPSExiBWU"
+      "id": "wespelaar",
+      "name": "Wespelaar"
     },
     {
-      "name": "Westende",
-      "id": "xQ3IjKEE4Q6e"
+      "id": "westende",
+      "name": "Westende"
     },
     {
-      "name": "Westerlo",
-      "id": "t1aBJLYNeoih"
+      "id": "westerlo",
+      "name": "Westerlo"
     },
     {
-      "name": "Westmalle",
-      "id": "3GmDoHpJNH4X"
+      "id": "westmalle",
+      "name": "Westmalle"
     },
     {
-      "name": "Westouter",
-      "id": "Fh3E6OPA7Byu"
+      "id": "westouter",
+      "name": "Westouter"
     },
     {
-      "name": "Wetteren",
-      "id": "AdiLmuqqtDgH"
+      "id": "wetteren",
+      "name": "Wetteren"
     },
     {
-      "name": "Wevelgem",
-      "id": "blhaQcAxGN9d"
+      "id": "wevelgem",
+      "name": "Wevelgem"
     },
     {
-      "name": "Wezemaal",
-      "id": "q-xQjy-pKRSL"
+      "id": "wezemaal",
+      "name": "Wezemaal"
     },
     {
-      "name": "Wezembeek-Oppem",
-      "id": "qA_oIXudNCTt"
+      "id": "wezembeek-oppem",
+      "name": "Wezembeek-Oppem"
     },
     {
-      "name": "Wichelen",
-      "id": "r9eH7tdLykdR"
+      "id": "wichelen",
+      "name": "Wichelen"
     },
     {
-      "name": "Wiekevorst",
-      "id": "Gmr5y84HFz0n"
+      "id": "wiekevorst",
+      "name": "Wiekevorst"
     },
     {
-      "name": "Wielsbeke",
-      "id": "Q8loWBuFgVsP"
+      "id": "wielsbeke",
+      "name": "Wielsbeke"
     },
     {
-      "name": "Wierde",
-      "id": "gcrDM3UvVLGk"
+      "id": "wierde",
+      "name": "Wierde"
     },
     {
-      "name": "Wieze",
-      "id": "VtqdFoBBuLwC"
+      "id": "wieze",
+      "name": "Wieze"
     },
     {
-      "name": "Wijgmaal",
-      "id": "_7qt92HIX9zX"
+      "id": "wijgmaal",
+      "name": "Wijgmaal"
     },
     {
-      "name": "Wijnegem",
-      "id": "G3P8IQkSJojH"
+      "id": "wijnegem",
+      "name": "Wijnegem"
     },
     {
-      "name": "Willebroek",
-      "id": "xGa9ot25jjV9"
+      "id": "willebroek",
+      "name": "Willebroek"
     },
     {
-      "name": "Wilrijk",
-      "id": "2xBsnxAMjUkB"
+      "id": "wilrijk",
+      "name": "Wilrijk"
     },
     {
-      "name": "Wilsele",
-      "id": "obdPg5kBncoK"
+      "id": "wilsele",
+      "name": "Wilsele"
     },
     {
-      "name": "Wingene",
-      "id": "A-S7JHu38mYK"
+      "id": "wingene",
+      "name": "Wingene"
     },
     {
-      "name": "Winksele",
-      "id": "LS_ey59zYgNr"
+      "id": "winksele",
+      "name": "Winksele"
     },
     {
-      "name": "Woesten",
-      "id": "T738SsnmCWJd"
+      "id": "woesten",
+      "name": "Woesten"
     },
     {
-      "name": "Wolfsdonk",
-      "id": "bly5YSjh3QBl"
+      "id": "wolfsdonk",
+      "name": "Wolfsdonk"
     },
     {
-      "name": "Wolkrange",
-      "id": "RFeuJKS0JqqM"
+      "id": "wolkrange",
+      "name": "Wolkrange"
     },
     {
-      "name": "Woluwe-Saint-Lambert",
-      "id": "06ZvOlMF0L5Z"
+      "id": "woluwe-saint-lambert",
+      "name": "Woluwe-Saint-Lambert"
     },
     {
-      "name": "Woluwe-Saint-Pierre - Sint-Pieters-Woluwe",
-      "id": "uF8ZwBg6V5h2"
+      "id": "woluwe-saint-pierre-sint-pieters-woluwe",
+      "name": "Woluwe-Saint-Pierre - Sint-Pieters-Woluwe"
     },
     {
-      "name": "Wolvertem",
-      "id": "AkVWTVUvPYBy"
+      "id": "wolvertem",
+      "name": "Wolvertem"
     },
     {
-      "name": "Wommelgem",
-      "id": "GfI24wOm_QsP"
+      "id": "wommelgem",
+      "name": "Wommelgem"
     },
     {
-      "name": "Wondelgem",
-      "id": "xw84Eirs4hEE"
+      "id": "wondelgem",
+      "name": "Wondelgem"
     },
     {
-      "name": "Wortegem",
-      "id": "WS-UT9oYSphT"
+      "id": "wortegem",
+      "name": "Wortegem"
     },
     {
-      "name": "Wuustwezel",
-      "id": "bEWITsCL6SUP"
+      "id": "wuustwezel",
+      "name": "Wuustwezel"
     },
     {
-      "name": "Xhendremael",
-      "id": "jruS4sHyCc4y"
+      "id": "xhendremael",
+      "name": "Xhendremael"
     },
     {
-      "name": "Xhoris",
-      "id": "oTyyyfGY2coG"
+      "id": "xhoris",
+      "name": "Xhoris"
     },
     {
-      "name": "Ypres",
-      "id": "5KnnIqrnlKKI"
+      "id": "ypres",
+      "name": "Ypres"
     },
     {
-      "name": "Yvoir",
-      "id": "Zjl4TNJCPUXP"
+      "id": "yvoir",
+      "name": "Yvoir"
     },
     {
-      "name": "Zaffelare",
-      "id": "fKLZEGf5ZALj"
+      "id": "zaffelare",
+      "name": "Zaffelare"
     },
     {
-      "name": "Zandbergen",
-      "id": "5HLG965hDIpy"
+      "id": "zandbergen",
+      "name": "Zandbergen"
     },
     {
-      "name": "Zandhoven",
-      "id": "SpVMdqduEA78"
+      "id": "zandhoven",
+      "name": "Zandhoven"
     },
     {
-      "name": "Zarren",
-      "id": "CLZA_kJVDrP3"
+      "id": "zarren",
+      "name": "Zarren"
     },
     {
-      "name": "Zaventem",
-      "id": "7yizpDHw_AvF"
+      "id": "zaventem",
+      "name": "Zaventem"
     },
     {
-      "name": "Zedelgem",
-      "id": "vBp6zGJxt9PV"
+      "id": "zedelgem",
+      "name": "Zedelgem"
     },
     {
-      "name": "Zeebrugge",
-      "id": "VQ4C7aDmp0wl"
+      "id": "zeebrugge",
+      "name": "Zeebrugge"
     },
     {
-      "name": "Zele",
-      "id": "wwIRpWJxa4K9"
+      "id": "zele",
+      "name": "Zele"
     },
     {
-      "name": "Zellik",
-      "id": "VsddZV9_EKWD"
+      "id": "zellik",
+      "name": "Zellik"
     },
     {
-      "name": "Zelzate",
-      "id": "OaXAqUoYTUjx"
+      "id": "zelzate",
+      "name": "Zelzate"
     },
     {
-      "name": "Zemst",
-      "id": "myX6P0FtTkpW"
+      "id": "zemst",
+      "name": "Zemst"
     },
     {
-      "name": "Zeveneken",
-      "id": "Ie5xeUWXxPV_"
+      "id": "zeveneken",
+      "name": "Zeveneken"
     },
     {
-      "name": "Zichem",
-      "id": "QYwhR70AaeET"
+      "id": "zichem",
+      "name": "Zichem"
     },
     {
-      "name": "Zingem",
-      "id": "ZlyEqPSaQz1I"
+      "id": "zingem",
+      "name": "Zingem"
     },
     {
-      "name": "Zoersel",
-      "id": "sgSy9sPZ60rK"
+      "id": "zoersel",
+      "name": "Zoersel"
     },
     {
-      "name": "Zolder",
-      "id": "EbTxPwwD6mOK"
+      "id": "zolder",
+      "name": "Zolder"
     },
     {
-      "name": "Zomergem",
-      "id": "0PPnCAai584n"
+      "id": "zomergem",
+      "name": "Zomergem"
     },
     {
-      "name": "Zonhoven",
-      "id": "VhKWS3Y3IkMw"
+      "id": "zonhoven",
+      "name": "Zonhoven"
     },
     {
-      "name": "Zonnebeke",
-      "id": "etYl6LyCnIVX"
+      "id": "zonnebeke",
+      "name": "Zonnebeke"
     },
     {
-      "name": "Zottegem",
-      "id": "U6zrYc6pYsBS"
+      "id": "zottegem",
+      "name": "Zottegem"
     },
     {
-      "name": "Zoutleeuw",
-      "id": "rWfCrPf9cT1m"
+      "id": "zoutleeuw",
+      "name": "Zoutleeuw"
     },
     {
-      "name": "Zuienkerke",
-      "id": "ugULamEXQ7-t"
+      "id": "zuienkerke",
+      "name": "Zuienkerke"
     },
     {
-      "name": "Zulte",
-      "id": "MeuMBd50LuOG"
+      "id": "zulte",
+      "name": "Zulte"
     },
     {
-      "name": "Zutendaal",
-      "id": "uWaRHjE0W-aR"
+      "id": "zutendaal",
+      "name": "Zutendaal"
     },
     {
-      "name": "Zwartenbroek",
-      "id": "z-8F2cSATapa"
+      "id": "zwartenbroek",
+      "name": "Zwartenbroek"
     },
     {
-      "name": "Zwevegem",
-      "id": "l29HGfjbHd9X"
+      "id": "zwevegem",
+      "name": "Zwevegem"
     },
     {
-      "name": "Zwevezele",
-      "id": "SE4O73ij1Tvl"
+      "id": "zwevezele",
+      "name": "Zwevezele"
     },
     {
-      "name": "Zwijnaarde",
-      "id": "3Zc-R5LKiwC8"
+      "id": "zwijnaarde",
+      "name": "Zwijnaarde"
     },
     {
-      "name": "Zwijndrecht",
-      "id": "Io3Q1dChM6dm"
+      "id": "zwijndrecht",
+      "name": "Zwijndrecht"
     }
   ]
 }

@@ -2,44 +2,44 @@
   "coid": "SS",
   "cities": [
     {
-      "name": "Juba",
-      "id": "EZs_xPwF4FVe"
+      "id": "juba",
+      "name": "Juba"
     },
     {
-      "name": "Malakal",
-      "id": "PvXjOIoN44X0"
+      "id": "malakal",
+      "name": "Malakal"
     },
     {
-      "name": "Wau",
-      "id": "deCLLXlgISr8"
+      "id": "wau",
+      "name": "Wau"
     },
     {
-      "name": "Bor",
-      "id": "4Tm4Z5PHr2t2"
+      "id": "bor",
+      "name": "Bor"
     },
     {
-      "name": "Rumbek",
-      "id": "aDEQuvVxRlV7"
+      "id": "rumbek",
+      "name": "Rumbek"
     },
     {
-      "name": "Aweil",
-      "id": "oh8W8Y5dycVB"
+      "id": "aweil",
+      "name": "Aweil"
     },
     {
-      "name": "Yei",
-      "id": "Y9uhCS8uSro2"
+      "id": "yei",
+      "name": "Yei"
     },
     {
-      "name": "Torit",
-      "id": "Sw8afF3uFdNZ"
+      "id": "torit",
+      "name": "Torit"
     },
     {
-      "name": "Bentiu",
-      "id": "vqRVq5lNYK00"
+      "id": "bentiu",
+      "name": "Bentiu"
     },
     {
-      "name": "Pibor",
-      "id": "eqLEkchhTtJT"
+      "id": "pibor",
+      "name": "Pibor"
     }
   ]
 }

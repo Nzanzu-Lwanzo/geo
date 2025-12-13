@@ -2,44 +2,44 @@
   "coid": "MK",
   "cities": [
     {
-      "name": "Skopje",
-      "id": "LOATFfhYQmrS"
+      "id": "skopje",
+      "name": "Skopje"
     },
     {
-      "name": "Bitola",
-      "id": "PEyYp6Ywk0L7"
+      "id": "bitola",
+      "name": "Bitola"
     },
     {
-      "name": "Kumanovo",
-      "id": "Oy2GFs6SShq3"
+      "id": "kumanovo",
+      "name": "Kumanovo"
     },
     {
-      "name": "Prilep",
-      "id": "HIWHpNZeSwdf"
+      "id": "prilep",
+      "name": "Prilep"
     },
     {
-      "name": "Tetovo",
-      "id": "u67SiyIMWpSz"
+      "id": "tetovo",
+      "name": "Tetovo"
     },
     {
-      "name": "Veles",
-      "id": "zruYlVF1O1TJ"
+      "id": "veles",
+      "name": "Veles"
     },
     {
-      "name": "Ohrid",
-      "id": "ZZur6D8P_xf-"
+      "id": "ohrid",
+      "name": "Ohrid"
     },
     {
-      "name": "Gostivar",
-      "id": "WeMWQ_NHUzmZ"
+      "id": "gostivar",
+      "name": "Gostivar"
     },
     {
-      "name": "Štip",
-      "id": "VRZxbt48MDBs"
+      "id": "stip",
+      "name": "Štip"
     },
     {
-      "name": "Strumica",
-      "id": "T1uI-8hPm3A1"
+      "id": "strumica",
+      "name": "Strumica"
     }
   ]
 }

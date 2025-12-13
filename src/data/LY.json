@@ -2,24 +2,24 @@
   "coid": "LY",
   "cities": [
     {
-      "name": "Benghazi",
-      "id": "rrpimawLrkIg"
+      "id": "benghazi",
+      "name": "Benghazi"
     },
     {
-      "name": "Misratah",
-      "id": "AdAzQx_fabPE"
+      "id": "misratah",
+      "name": "Misratah"
     },
     {
-      "name": "Sabha",
-      "id": "och1PMFzScD7"
+      "id": "sabha",
+      "name": "Sabha"
     },
     {
-      "name": "Tripoli",
-      "id": "ghfyUWQDyB6v"
+      "id": "tripoli",
+      "name": "Tripoli"
     },
     {
-      "name": "Zliten",
-      "id": "alUh8Rhh0Fgo"
+      "id": "zliten",
+      "name": "Zliten"
     }
   ]
 }

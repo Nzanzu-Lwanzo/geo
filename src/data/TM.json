@@ -2,44 +2,44 @@
   "coid": "TM",
   "cities": [
     {
-      "name": "Ashgabat",
-      "id": "mFfbvVAdpCB1"
+      "id": "ashgabat",
+      "name": "Ashgabat"
     },
     {
-      "name": "Turkmenabat",
-      "id": "uS74COUQPSrV"
+      "id": "turkmenabat",
+      "name": "Turkmenabat"
     },
     {
-      "name": "Dashoguz",
-      "id": "49M1MJzYLgoS"
+      "id": "dashoguz",
+      "name": "Dashoguz"
     },
     {
-      "name": "Mary",
-      "id": "2vwcw-QCP7wM"
+      "id": "mary",
+      "name": "Mary"
     },
     {
-      "name": "Balkanabat",
-      "id": "K86Rt_lRsbSq"
+      "id": "balkanabat",
+      "name": "Balkanabat"
     },
     {
-      "name": "Tejen",
-      "id": "nkqh5SARHBq9"
+      "id": "tejen",
+      "name": "Tejen"
     },
     {
-      "name": "Bayramaly",
-      "id": "oaVJB1yxQiZ1"
+      "id": "bayramaly",
+      "name": "Bayramaly"
     },
     {
-      "name": "Turkmenbashi",
-      "id": "DjFpXii1RjFx"
+      "id": "turkmenbashi",
+      "name": "Turkmenbashi"
     },
     {
-      "name": "Serdar",
-      "id": "mTsZ7wmDrLAV"
+      "id": "serdar",
+      "name": "Serdar"
     },
     {
-      "name": "Gokdepe",
-      "id": "srOyxKkJ-SHs"
+      "id": "gokdepe",
+      "name": "Gokdepe"
     }
   ]
 }

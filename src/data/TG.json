@@ -2,44 +2,44 @@
   "coid": "TG",
   "cities": [
     {
-      "name": "Lomé",
-      "id": "Q_otsOEfxrSE"
+      "id": "lome",
+      "name": "Lomé"
     },
     {
-      "name": "Sokodé",
-      "id": "Xy5K39KhOjvb"
+      "id": "sokode",
+      "name": "Sokodé"
     },
     {
-      "name": "Kara",
-      "id": "NpAZZhJ9oK1J"
+      "id": "kara",
+      "name": "Kara"
     },
     {
-      "name": "Kpalimé",
-      "id": "K6A3kptza0iV"
+      "id": "kpalime",
+      "name": "Kpalimé"
     },
     {
-      "name": "Atakpamé",
-      "id": "mJXovwU_EBnW"
+      "id": "atakpame",
+      "name": "Atakpamé"
     },
     {
-      "name": "Dapaong",
-      "id": "LXolFVGV1Kf4"
+      "id": "dapaong",
+      "name": "Dapaong"
     },
     {
-      "name": "Aného",
-      "id": "b31y6uZQUzES"
+      "id": "aneho",
+      "name": "Aného"
     },
     {
-      "name": "Tsévié",
-      "id": "1NZpr1aNJae3"
+      "id": "tsevie",
+      "name": "Tsévié"
     },
     {
-      "name": "Bassar",
-      "id": "s-g-o-mVipFL"
+      "id": "bassar",
+      "name": "Bassar"
     },
     {
-      "name": "Tchamba",
-      "id": "ZOiXJyC0qlNk"
+      "id": "tchamba",
+      "name": "Tchamba"
     }
   ]
 }

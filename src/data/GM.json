@@ -2,44 +2,44 @@
   "coid": "GM",
   "cities": [
     {
-      "name": "Banjul",
-      "id": "mq1OPawfoTeI"
+      "id": "banjul",
+      "name": "Banjul"
     },
     {
-      "name": "Serekunda",
-      "id": "kDQSh0aWReU-"
+      "id": "serekunda",
+      "name": "Serekunda"
     },
     {
-      "name": "Brikama",
-      "id": "kGRFaEZOyYsm"
+      "id": "brikama",
+      "name": "Brikama"
     },
     {
-      "name": "Bakau",
-      "id": "BhPQ6aJl8p8H"
+      "id": "bakau",
+      "name": "Bakau"
     },
     {
-      "name": "Farafenni",
-      "id": "5oWUVG0d8UXP"
+      "id": "farafenni",
+      "name": "Farafenni"
     },
     {
-      "name": "Soma",
-      "id": "fiNttuX4xp46"
+      "id": "soma",
+      "name": "Soma"
     },
     {
-      "name": "Basse Santa Su",
-      "id": "pe--lDyFybZC"
+      "id": "basse-santa-su",
+      "name": "Basse Santa Su"
     },
     {
-      "name": "Gunjur",
-      "id": "PpGqVgUUmDXm"
+      "id": "gunjur",
+      "name": "Gunjur"
     },
     {
-      "name": "Barra",
-      "id": "PULOmgQ9nTnX"
+      "id": "barra",
+      "name": "Barra"
     },
     {
-      "name": "Janjanbureh",
-      "id": "9XVVL2T7v9i6"
+      "id": "janjanbureh",
+      "name": "Janjanbureh"
     }
   ]
 }

@@ -2,96 +2,96 @@
   "coid": "BB",
   "cities": [
     {
-      "name": "Atlantic Shores",
-      "id": "zsyietNxxPuQ"
+      "id": "atlantic-shores",
+      "name": "Atlantic Shores"
     },
     {
-      "name": "Bagatelle",
-      "id": "SFwCfA5MnRPP"
+      "id": "bagatelle",
+      "name": "Bagatelle"
     },
     {
-      "name": "Bloomsbury",
-      "id": "S7tWJ3R6FzqI"
+      "id": "bloomsbury",
+      "name": "Bloomsbury"
     },
     {
-      "name": "Bridgetown",
-      "id": "vN4DOTvMfg1w"
+      "id": "bridgetown",
+      "name": "Bridgetown"
     },
     {
-      "name": "Bruce Vale",
-      "id": "B8zgnJ-NLx8l"
+      "id": "bruce-vale",
+      "name": "Bruce Vale"
     },
     {
-      "name": "Cave Hill",
-      "id": "BxxTQlDFyDY7"
+      "id": "cave-hill",
+      "name": "Cave Hill"
     },
     {
-      "name": "Clapham",
-      "id": "ExUfQOcepvQA"
+      "id": "clapham",
+      "name": "Clapham"
     },
     {
-      "name": "Hastings",
-      "id": "rPcYgosIOAq4"
+      "id": "hastings",
+      "name": "Hastings"
     },
     {
-      "name": "Holetown",
-      "id": "iAIYq1ru-3Od"
+      "id": "holetown",
+      "name": "Holetown"
     },
     {
-      "name": "Husbands",
-      "id": "7mf5JKahACyh"
+      "id": "husbands",
+      "name": "Husbands"
     },
     {
-      "name": "Jackmans",
-      "id": "NP7R0cYeLLPW"
+      "id": "jackmans",
+      "name": "Jackmans"
     },
     {
-      "name": "Oistins",
-      "id": "hNywL8BmgNjq"
+      "id": "oistins",
+      "name": "Oistins"
     },
     {
-      "name": "Pine Housing Estate",
-      "id": "BYS41S4yFSnQ"
+      "id": "pine-housing-estate",
+      "name": "Pine Housing Estate"
     },
     {
-      "name": "Porters",
-      "id": "0t88xU21Grvd"
+      "id": "porters",
+      "name": "Porters"
     },
     {
-      "name": "Rendezvous",
-      "id": "AswA6Bh2M2ly"
+      "id": "rendezvous",
+      "name": "Rendezvous"
     },
     {
-      "name": "Rockley",
-      "id": "KaSuy1ujjIiF"
+      "id": "rockley",
+      "name": "Rockley"
     },
     {
-      "name": "The Garden",
-      "id": "NyVy8w7ZzrEw"
+      "id": "the-garden",
+      "name": "The Garden"
     },
     {
-      "name": "Wanstead",
-      "id": "0ablRwDUQZis"
+      "id": "wanstead",
+      "name": "Wanstead"
     },
     {
-      "name": "Warners",
-      "id": "YPdB_-jSbKUK"
+      "id": "warners",
+      "name": "Warners"
     },
     {
-      "name": "Warrens",
-      "id": "W9CmaZUXIMZM"
+      "id": "warrens",
+      "name": "Warrens"
     },
     {
-      "name": "White Hill",
-      "id": "zFd-JsfeKq77"
+      "id": "white-hill",
+      "name": "White Hill"
     },
     {
-      "name": "Wildey",
-      "id": "J99_1pGkkMlR"
+      "id": "wildey",
+      "name": "Wildey"
     },
     {
-      "name": "Worthing",
-      "id": "3DjcF34ZjvxU"
+      "id": "worthing",
+      "name": "Worthing"
     }
   ]
 }

@@ -2,172 +2,172 @@
   "coid": "GT",
   "cities": [
     {
-      "name": "Antigua Guatemala",
-      "id": "gYpxe66iilFE"
+      "id": "antigua-guatemala",
+      "name": "Antigua Guatemala"
     },
     {
-      "name": "Cambote",
-      "id": "2bSyRClckVVX"
+      "id": "cambote",
+      "name": "Cambote"
     },
     {
-      "name": "Catarina",
-      "id": "aHzwisU-lQRU"
+      "id": "catarina",
+      "name": "Catarina"
     },
     {
-      "name": "Central",
-      "id": "YVGyA-31jvVw"
+      "id": "central",
+      "name": "Central"
     },
     {
-      "name": "Chimaltenango",
-      "id": "VIq4vzXfKBNq"
+      "id": "chimaltenango",
+      "name": "Chimaltenango"
     },
     {
-      "name": "Chiquimula",
-      "id": "MeSKPJ9nNidv"
+      "id": "chiquimula",
+      "name": "Chiquimula"
     },
     {
-      "name": "Ciudad Vieja",
-      "id": "Yc3OSXg8UOOn"
+      "id": "ciudad-vieja",
+      "name": "Ciudad Vieja"
     },
     {
-      "name": "Coban",
-      "id": "uR_IeRIkPr4H"
+      "id": "coban",
+      "name": "Coban"
     },
     {
-      "name": "El Limon",
-      "id": "EdydO-ORJtts"
+      "id": "el-limon",
+      "name": "El Limon"
     },
     {
-      "name": "El Naranjo",
-      "id": "3ycMhK3-XUU2"
+      "id": "el-naranjo",
+      "name": "El Naranjo"
     },
     {
-      "name": "El Salvador",
-      "id": "9v2I4Eukp4KJ"
+      "id": "el-salvador",
+      "name": "El Salvador"
     },
     {
-      "name": "Escuintla",
-      "id": "23hUi_cuJFnW"
+      "id": "escuintla",
+      "name": "Escuintla"
     },
     {
-      "name": "Esquipulas",
-      "id": "wFvCIVTZVvsQ"
+      "id": "esquipulas",
+      "name": "Esquipulas"
     },
     {
-      "name": "Flores",
-      "id": "d1eegwt36Y5A"
+      "id": "flores",
+      "name": "Flores"
     },
     {
-      "name": "Guatemala City",
-      "id": "IU4jcv93dOBJ"
+      "id": "guatemala-city",
+      "name": "Guatemala City"
     },
     {
-      "name": "Huehuetenango",
-      "id": "DqeSBj_L-rY3"
+      "id": "huehuetenango",
+      "name": "Huehuetenango"
     },
     {
-      "name": "Jocotenango",
-      "id": "UHhEbpYQmUSk"
+      "id": "jocotenango",
+      "name": "Jocotenango"
     },
     {
-      "name": "La Reforma",
-      "id": "a5e3Zj3At-23"
+      "id": "la-reforma",
+      "name": "La Reforma"
     },
     {
-      "name": "Mazatenango",
-      "id": "A_cABI0ViUpJ"
+      "id": "mazatenango",
+      "name": "Mazatenango"
     },
     {
-      "name": "Melchor de Mencos",
-      "id": "79l9tlE8TX-Z"
+      "id": "melchor-de-mencos",
+      "name": "Melchor de Mencos"
     },
     {
-      "name": "Mixco",
-      "id": "6v4Lj3VUwKHo"
+      "id": "mixco",
+      "name": "Mixco"
     },
     {
-      "name": "Palin",
-      "id": "rPLScg0x-jGB"
+      "id": "palin",
+      "name": "Palin"
     },
     {
-      "name": "Panajachel",
-      "id": "rXRk4rTE7Yol"
+      "id": "panajachel",
+      "name": "Panajachel"
     },
     {
-      "name": "Petapa",
-      "id": "yiEfuIJoNKjx"
+      "id": "petapa",
+      "name": "Petapa"
     },
     {
-      "name": "Puerto Barrios",
-      "id": "Qu6_SvYpfVGJ"
+      "id": "puerto-barrios",
+      "name": "Puerto Barrios"
     },
     {
-      "name": "Quesada",
-      "id": "8UVZ95abuNsn"
+      "id": "quesada",
+      "name": "Quesada"
     },
     {
-      "name": "Quetzaltenango",
-      "id": "HeOqbbawR1s3"
+      "id": "quetzaltenango",
+      "name": "Quetzaltenango"
     },
     {
-      "name": "Retalhuleu",
-      "id": "3u9gdk8_6PRA"
+      "id": "retalhuleu",
+      "name": "Retalhuleu"
     },
     {
-      "name": "San Antonio Miramar",
-      "id": "SRu15tCE-eaW"
+      "id": "san-antonio-miramar",
+      "name": "San Antonio Miramar"
     },
     {
-      "name": "San Jose Pinula",
-      "id": "XLvkpa-qPmzR"
+      "id": "san-jose-pinula",
+      "name": "San Jose Pinula"
     },
     {
-      "name": "San Juan",
-      "id": "6Yj0cM96aPxx"
+      "id": "san-juan",
+      "name": "San Juan"
     },
     {
-      "name": "San Marcos",
-      "id": "y6lAb42KdpVj"
+      "id": "san-marcos",
+      "name": "San Marcos"
     },
     {
-      "name": "San Pedro Sacatepequez",
-      "id": "nDHeUzoUmDyF"
+      "id": "san-pedro-sacatepequez",
+      "name": "San Pedro Sacatepequez"
     },
     {
-      "name": "Santa Catarina Pinula",
-      "id": "4MpC_wqW0ksq"
+      "id": "santa-catarina-pinula",
+      "name": "Santa Catarina Pinula"
     },
     {
-      "name": "Santa Cruz La Laguna",
-      "id": "uPui7FNX6Mf_"
+      "id": "santa-cruz-la-laguna",
+      "name": "Santa Cruz La Laguna"
     },
     {
-      "name": "Santa Cruz Naranjo",
-      "id": "zpLxKtjjSg3Z"
+      "id": "santa-cruz-naranjo",
+      "name": "Santa Cruz Naranjo"
     },
     {
-      "name": "Santa Lucia Cotzumalguapa",
-      "id": "_-MjUtNNo8N2"
+      "id": "santa-lucia-cotzumalguapa",
+      "name": "Santa Lucia Cotzumalguapa"
     },
     {
-      "name": "Santa Rosa",
-      "id": "oiay9s6XVkj4"
+      "id": "santa-rosa",
+      "name": "Santa Rosa"
     },
     {
-      "name": "Solola",
-      "id": "e2JdysFU7gwp"
+      "id": "solola",
+      "name": "Solola"
     },
     {
-      "name": "Villa Nueva",
-      "id": "BMqAaoxfxJ85"
+      "id": "villa-nueva",
+      "name": "Villa Nueva"
     },
     {
-      "name": "Vista Hermosa",
-      "id": "ionuYJ9hOHO-"
+      "id": "vista-hermosa",
+      "name": "Vista Hermosa"
     },
     {
-      "name": "Zacapa",
-      "id": "VIzkaqf7QQTS"
+      "id": "zacapa",
+      "name": "Zacapa"
     }
   ]
 }
