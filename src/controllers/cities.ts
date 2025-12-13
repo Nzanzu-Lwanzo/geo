@@ -1,13 +1,16 @@
 import type { Request, Response } from 'express';
 import { CountryCities } from '../lib/@types';
 import { getFileContent, getFilePath, getISOCodes } from '../lib/helpers';
+import fs from 'node:fs';
 
 export async function getCities(req: Request<{ coid: string }>, res: Response) {
   try {
-    const cities = await getFileContent<CountryCities[]>(
+    const stream = fs.createReadStream(
       getFilePath(`data/${req.params.coid}.json`),
     );
-    res.json(cities);
+
+    stream.on('data', (c) => res.write(c));
+    stream.on('end', () => res.end());
   } catch {
     res.json({
       msg: 'Error, invalid coid parameter',

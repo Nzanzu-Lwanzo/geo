@@ -1,10 +1,12 @@
 import type { Request, Response } from 'express';
 import { getFileContent, getFilePath } from '../lib/helpers';
 import { Country } from '../lib/@types';
+import fs from 'node:fs';
 
 export async function getCountries(req: Request, res: Response) {
-  const countries = await getFileContent<Country[]>(getFilePath('data/$.json'));
-  res.json(countries);
+  const stream = fs.createReadStream(getFilePath('data/$.json'));
+  stream.on('data', (c) => res.write(c));
+  stream.on('end', () => res.end());
 }
 
 export async function searchCountries(
