@@ -1,45 +1,31 @@
 {
   "coid": "CD",
   "cities": [
-    {
-      "id": "kinshasa",
-      "name": "Kinshasa"
-    },
-    {
-      "id": "lubumbashi",
-      "name": "Lubumbashi"
-    },
-    {
-      "id": "mbuji-mayi",
-      "name": "Mbuji-Mayi"
-    },
-    {
-      "id": "kisangani",
-      "name": "Kisangani"
-    },
-    {
-      "id": "bukavu",
-      "name": "Bukavu"
-    },
-    {
-      "id": "goma",
-      "name": "Goma"
-    },
-    {
-      "id": "kolwezi",
-      "name": "Kolwezi"
-    },
-    {
-      "id": "likasi",
-      "name": "Likasi"
-    },
-    {
-      "id": "tshikapa",
-      "name": "Tshikapa"
-    },
-    {
-      "id": "kananga",
-      "name": "Kananga"
-    }
+    { "id": "kinshasa", "name": "Kinshasa" },
+    { "id": "lubumbashi", "name": "Lubumbashi" },
+    { "id": "mbuji-mayi", "name": "Mbuji-Mayi" },
+    { "id": "kananga", "name": "Kananga" },
+    { "id": "kisangani", "name": "Kisangani" },
+    { "id": "bukavu", "name": "Bukavu" },
+    { "id": "goma", "name": "Goma" },
+    { "id": "matadi", "name": "Matadi" },
+    { "id": "mbandaka", "name": "Mbandaka" },
+    { "id": "buta", "name": "Buta" },
+    { "id": "lubumbashi", "name": "Lubumbashi" },
+    { "id": "inongo", "name": "Inongo" },
+    { "id": "kindu", "name": "Kindu" },
+    { "id": "gbadolite", "name": "Gbadolite" },
+    { "id": "kalemie", "name": "Kalemie" },
+    { "id": "kisangani", "name": "Kisangani" },
+    { "id": "lusambo", "name": "Lusambo" },
+    { "id": "kabinda", "name": "Kabinda" },
+    { "id": "kikwit", "name": "Kikwit" },
+    { "id": "kolwezi", "name": "Kolwezi" },
+    { "id": "lisala", "name": "Lisala" },
+    { "id": "gemena", "name": "Gemena" },
+    { "id": "kinshasa", "name": "Kinshasa" },
+    { "id": "lubumbashi", "name": "Lubumbashi" },
+    { "id": "likasi", "name": "Likasi" },
+    { "id": "tshikapa", "name": "Tshikapa" }
   ]
 }
