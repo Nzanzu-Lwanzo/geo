@@ -1,5 +1,9 @@
 import type { Request, Response } from 'express';
-import { getFileContent, getFilePath } from '../lib/helpers';
+import {
+  getFileContent,
+  getFilePath,
+  getValidationResult,
+} from '../lib/helpers';
 import { Country } from '../lib/@types';
 import fs from 'node:fs';
 
@@ -9,16 +13,13 @@ export async function getCountries(req: Request, res: Response) {
   stream.on('end', () => res.end());
 }
 
+type QueryStrings = { q: string | undefined; l: 'en' | 'fr' | undefined };
 export async function searchCountries(
-  req: Request<
-    any,
-    any,
-    any,
-    { q: string | undefined; l: 'en' | 'fr' | undefined }
-  >,
+  req: Request<any, any, any, QueryStrings>,
   res: Response,
 ) {
-  if (!req.query.q || !req.query.l) return res.sendStatus(404);
+  const queries = getValidationResult<QueryStrings>(req);
+  if (!queries.q || !queries.l) return res.sendStatus(404);
   const countries = await getFileContent<Country[]>(getFilePath('data/$.json'));
   const foundCountries = countries?.filter((country) =>
     country.name[req.query.l!]

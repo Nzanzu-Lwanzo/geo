@@ -1,3 +1,5 @@
+import { Request } from 'express';
+
 export interface Country {
   id: string;
   name: {
@@ -15,6 +17,10 @@ export interface CountryCities {
     id: string;
   }[];
 }
+
+export type ValidationRequest<T extends object> = Request & {
+  data: T;
+};
 
 export type IsoCode2 =
   | '$'

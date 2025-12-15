@@ -1,6 +1,8 @@
 import { readdir, readFile } from 'node:fs/promises';
 import { join } from 'node:path';
 import { cwd } from 'node:process';
+import { Request } from 'express';
+import { ValidationRequest } from './@types';
 
 export async function getFileContent<T>(
   filePath: string,
@@ -30,4 +32,8 @@ export const getFilePath = (relPath: string) => {
     process.env['NODE_ENV'] == 'dev' ? 'src' : 'dist',
     relPath,
   );
+};
+
+export const getValidationResult = <T extends object>(req: Request) => {
+  return (req as unknown as ValidationRequest<T>).data;
 };

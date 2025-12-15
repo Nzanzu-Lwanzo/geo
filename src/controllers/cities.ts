@@ -1,6 +1,11 @@
 import type { Request, Response } from 'express';
 import { CountryCities } from '../lib/@types';
-import { getFileContent, getFilePath, getISOCodes } from '../lib/helpers';
+import {
+  getFileContent,
+  getFilePath,
+  getISOCodes,
+  getValidationResult,
+} from '../lib/helpers';
 import fs from 'node:fs';
 
 export async function getCities(req: Request<{ coid: string }>, res: Response) {
@@ -20,20 +25,18 @@ export async function getCities(req: Request<{ coid: string }>, res: Response) {
 }
 
 export async function searchCities(
-  req: Request<{ coid: string }, any, any, { q: string | undefined }>,
+  req: Request<{ coid: string }>,
   res: Response,
 ) {
-  if (!req.query.q || !req.params.coid) return res.sendStatus(404);
+  const data = getValidationResult<{ coid: string; q: string }>(req);
+  if (!data.q || !data.coid) return res.sendStatus(404);
   const country = await getFileContent<CountryCities>(
-    getFilePath(`data/${req.params.coid}.json`),
+    getFilePath(`data/${data.coid}.json`),
   );
   if (!country) return res.sendStatus(404);
 
   const cities = country.cities.filter((city) =>
-    city.name
-      .trim()
-      .toLowerCase()
-      .startsWith(req.query.q!.trim().toLowerCase()),
+    city.name.trim().toLowerCase().startsWith(data.q!.trim().toLowerCase()),
   );
 
   return res.json(cities);
