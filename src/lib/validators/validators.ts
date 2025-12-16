@@ -1,6 +1,6 @@
 import { param, query } from 'express-validator';
 
-export const coidValidtor = param('coid')
+export const coidValidator = param('coid')
   .escape()
   .notEmpty({ ignore_whitespace: false })
   .withMessage('coid param is required!')
