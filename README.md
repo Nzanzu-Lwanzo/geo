@@ -5,6 +5,10 @@
 Simple. Just pull the Docker image `lwanzo/geo:latest` or build it and do whatever you want with it. All the data is self contained. Or, you can use our API [right here](https://geo.lwanzo.site/). Or, you can just copy the json.
 > Freely you have received, freely give (Matthew 10:8)
 
+## Self-contained
+
+All Geo data are stored in json files. To perform RW operations on these files, we are resolving their paths relatively. Unfortunately, building the project does not copy the `/src/data` folder under `dist` so it can be accessed by the code. For that, we need to do it manually.
+
 ## Developement Workflow
 
 Geo uses Docker so you should be comfortable with its major concepts and how it works. There's a Github Actions workflow that builds the image when we commit to the root branch and pushes it to Docker Hub.

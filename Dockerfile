@@ -17,7 +17,8 @@ RUN groupadd -r appgroup && useradd -r -g appgroup appuser
 WORKDIR /app
 
 COPY --from=builder --chown=appuser:appgroup /app/dist ./dist
-COPY --from=builder --chown=appuser:appgroup /app/src/data ./dist/data
+# See README for explanations on why we copy data into dist (Self-contained)
+COPY --from=builder --chown=appuser:appgroup /app/src/data ./dist/data 
 COPY --from=builder --chown=appuser:appgroup /app/node_modules ./node_modules
 
 # Remove uneeded files
