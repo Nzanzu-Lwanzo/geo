@@ -1,7 +1,10 @@
 import { Router } from 'express';
 import { getCities, searchCities } from '../controllers/cities';
 import { upperCaseCoid, validationMiddleware } from '../lib/middleware';
-import { coidValidtor, searchHintValidator } from '../lib/validators';
+import {
+  coidValidtor,
+  searchHintValidator,
+} from '../lib/validators/validators';
 
 const citiesRouter = Router();
 

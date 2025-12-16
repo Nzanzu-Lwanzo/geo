@@ -1,7 +1,10 @@
 import { Router } from 'express';
 import { getCountries, searchCountries } from '../controllers/countries';
 import { validationMiddleware } from '../lib/middleware';
-import { languageValidator, searchHintValidator } from '../lib/validators';
+import {
+  languageValidator,
+  searchHintValidator,
+} from '../lib/validators/validators';
 
 const countriesRouter = Router();
 

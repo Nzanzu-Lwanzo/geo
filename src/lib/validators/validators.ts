@@ -20,3 +20,4 @@ export const languageValidator = query('l')
   .withMessage('You must provide l (language)!')
   .isIn(['fr', 'en'])
   .withMessage('l(language) is either fr or en!');
+
