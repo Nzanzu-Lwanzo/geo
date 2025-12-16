@@ -21,7 +21,7 @@ COPY --from=builder --chown=appuser:appgroup /app/src/data ./dist/data
 COPY --from=builder --chown=appuser:appgroup /app/node_modules ./node_modules
 
 # Remove uneeded files
-RUN rm -rf /app/src /app/package-lock.json /app/package.json /app/tsconfig.json /app/.git
+RUN rm -rf /app/src /app/package-lock.json /app/package.json /app/tsconfig.json
 
 USER appuser
 
